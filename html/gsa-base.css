@@ -1,0 +1,339 @@
+/* ====================================================
+ * Base CSS for GSA HTML output
+ * ====================================================
+ */
+ 
+ body 
+ {
+   font-family: 'Times New Roman', serif;
+ }
+ 
+ h1.Subpart
+ {
+   text-align: center;
+   margin-bottom: 2em;
+ }
+ 
+ ul, ol, sl
+ {
+   list-style: none;
+   display: inline;
+   -webkit-padding-start: 0px;
+   padding-left: 0px;
+ }
+
+ p
+ {
+   text-indent: 1em;
+ }
+ 
+/* 
+ * Table styles
+ */
+  
+table.Landscape
+{
+  font-size: 8pt;
+}
+  
+ td, 
+ th
+ {
+   padding: 1em;
+ }
+
+ table.Landscape td, 
+ table.Landscape th
+ {
+   padding: 4px;
+ }
+
+ td[class *= 'Ind1']
+ {
+   padding-left: 2em;
+ }
+
+ 
+ /* 
+CellBody_Decimal
+CellBody_Hanging_FL
+  */
+ 
+ td > p,
+ th > p
+ {
+   text-indent: 0em;
+ }
+ 
+ 
+
+ /* Runin list items 
+  * 
+  * The li elements do indenting so that runin paragraphs
+  * and list items can be flowed together.
+  */
+ 
+ li
+ {
+   list-style-type: none;
+   margin-left: 1em;
+   text-indent: 1em;
+ }
+ 
+ p[class *= 'Runin'],
+ p[class *= 'Runin'] + ol,
+ p[class *= 'Runin'] + ol > li:nth-child(1),
+ p[class *= 'Runin'] + ol > li:nth-child(1) > p
+ {
+   display: inline;
+ }
+ 
+ span.autonumber:after
+ {
+   content: '\00a0'; /* non-breaking space */
+ }
+ 
+ /* Formatting @outputclass values */
+
+.BlankLeft:before 
+{
+  content: '_______________';
+}
+
+p[class *= 'Right']
+{
+  text-align: right;
+}
+ 
+p[class *= 'Ctr']
+{
+  text-align: center;
+}
+ 
+span[class *= 'Right']
+{
+  text-align: right;
+}
+ 
+span[class *= 'Ctr']
+{
+  text-align: center;
+} 
+
+td[class *= 'Right']
+{
+  text-align: right;
+}
+ 
+td[class *= 'Ctr']
+{
+  text-align: center;
+} 
+ 
+p[class *= 'SmallCaps'],
+p[class *= 'SmCaps']
+{
+  font-variant: small-caps;
+}
+
+span[class *= 'SmallCaps'],
+span[class *= 'SmCaps']
+{
+  font-variant: small-caps;
+}
+
+p[class *= 'NoIndent'],
+p[class *= '_FL']
+{
+  text-indent: 0em;
+}
+
+span[class *= 'NoIndent'],
+span[class *= '_FL']
+{
+  text-indent: 0em;
+}
+
+td[class *= 'NoIndent'],
+td[class *= '_FL']
+{
+  text-indent: 0em;
+}
+
+.Body_Asterisks:after
+{
+  display: block;
+  content: '* * * * * *';
+  letter-spacing: 1em;
+  text-align: center;
+}
+
+.Body_BlockIndent
+{
+  margin-left: 2em;
+}
+ 
+.Body_Endofclause
+{
+  content: '(End of clause)';
+  text-align: center;
+}
+
+.Body_Endofprovision
+{
+  content: '(End of provision)';
+  text-align: center;
+}
+
+*[class *= '8pt']
+{
+  font-size: 8pt;
+}
+
+*[class *= '9pt']
+{
+  font-size: 9pt;
+}
+
+*[class *= 'talic'] /* Match Italic and italic */
+{
+  font-style: italic;
+}
+
+p[class *= 'Checkbox']:before,
+p[class *= 'Bulleted']:before
+
+{
+  content: '\25A1\00A0';
+  font-size: 18pt;
+}
+
+p[class *= 'Underline']:before
+{
+  content: '__';
+}
+
+*[class *= 'Roman']
+{
+  font-style: normal;
+}
+
+*[class *= 'Justified']
+{
+  text-align: justify;
+}
+  
+/* 
+Body_Alternate_Body
+Body_Alternate_Ctr
+Body_Alternate_CtrSmallCaps
+Body_Alternate_List1
+Body_Alternate_List2
+Body_Alternate_List3
+Body_Alternate_List4
+Body_Alternate_NoIndent
+Body_FL
+H5Text
+Matrix_Alternate
+Matrix_Ctr
+Matrix_Hanging
+Matrix_Key
+Matrix_KeyHead1
+Matrix_SmCaps_Ctr_Bold
+Matrix_SmCaps_FL_Bold
+  */
+ 
+ /* ===============
+  * GSAM-specific
+  * =============== 
+  */
+  
+p[class *= 'Grey']
+{
+  background-color: #E5E5E5;
+}
+li[class *= 'Grey']
+{
+  background-color: #E5E5E5;
+}
+ol[class *= 'Grey']
+{
+  background-color: #E5E5E5;
+}
+ol[class *= 'Grey']
+{
+  background-color: #E5E5E5;
+}
+h1[class *= 'Grey']
+{
+  background-color: #E5E5E5;
+}
+
+li.props_props_Runin> p{
+    float: left;
+    margin-top: 0px;
+}
+li[class*= 'Runin'] > p{
+  margin-top: 0;
+  float:left;
+}
+
+p.props_otherprops_Body_Endofclause , p.props_otherprops_Body_Endofprovision {
+display:block;
+float:none;
+clear:right;
+}
+
+/* ===============
+  * ChangeBars Epub-specific
+  * =============== 
+
+
+
+p[class *= 'props_rev_FAC']
+{
+  border-right: solid medium black;
+  padding-right:0.5em;
+ 
+
+} 
+
+
+span[class *= 'props_rev_FAC']
+{
+  border-right: solid medium black;
+  padding-right:0.5em;
+} h3[class *= 'Grey']
+{
+  background-color: #E5E5E5;
+}
+
+ol.test li p[class *= 'props_rev_FAC']
+{
+  border-right: solid medium black;
+  padding-right:0.5em;
+} 
+
+  
+ p[class *= 'FAC']
+{
+  border-right: solid medium black;
+  padding-right:0.5em;
+}
+
+span[class *= 'FAC']
+{
+  border-right: solid medium black;
+  border-left: solid medium black;
+  border-top: solid medium black;
+  border-bottom: solid medium black;
+  padding-right:0.5em;
+} 
+
+ol.test li p[class *= 'FAC']
+{
+  border-right: solid medium black;
+  padding-right:0.5em;
+} 
+
+  */
