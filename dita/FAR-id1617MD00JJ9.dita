@@ -4,18 +4,22 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="id1617MD00JJ9"
-            otherprops="01-09"
-            outputclass="H3_01-09"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-      <title outputclass="H3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">4.805</ph> Storage,
-handling, and contract files.</title>
-      <conbody class="- topic/body concept/conbody ">
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">4.805</ph> Storage, handling, and
+contract files.</title>
+      <conbody class="- topic/body  concept/conbody ">
          <ol id="d246e13" class="- topic/ol ">
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+            <li class="- topic/li ">
                <p id="d248e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Agencies must prescribe procedures
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                   Agencies must prescribe procedures
 for the handling, storing, and disposing of contract files, in accordance
 with the National Archives and Records Administration (NARA) General
 Records Schedule 1.1, Financial Management and Reporting Records.
@@ -25,11 +29,8 @@ The Financial Management and Reporting Records can be found at <xref href="http:
 These procedures must take into account documents held in all types
 of media, including microfilm and various electronic media. Agencies
 may change the original medium to facilitate storage as long as
-the requirements of <xref href="FAR-i1123303.dita#i1123303"
-                        base="i1123303"
-                        outputclass="fm:Part"
-                        class="- topic/xref ">part  4</xref>,
-law, and other regulations are satisfied. The process used to create
+the requirements of <ph rev="FAC 2019-02 May 6, 2019" class="- topic/ph ">the<?FM MARKER [Why] Amend section 4.805 by removing from paragraph (a) “Part 4” and adding in its place “this part”?> part,<?FM MARKER [CaseNumber] Technical Amendment?></ph> law,
+and other regulations are satisfied. The process used to create
 and store records must record and reproduce the original document,
 including signatures and other written and graphic images completely,
 accurately, and clearly. Data transfer, storage, and retrieval procedures
@@ -45,24 +46,36 @@ requirements in <xref href="#id1617MD00JJ9/i1122545"
                         class="- topic/xref ">Table  4-1</xref> of this
 section also apply to the record copies in the alternate media.</p>
             </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d248e35" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> If administrative records are
-mixed with program records and cannot be economically segregated,
-the entire file should be kept for the period of time approved for
-the program records. Similarly, if documents described in the following
-table are part of a subject or case file that documents activities
-that are not described in the table, they should be treated in the same
-manner as the files of which they are a part.</p>
+            <li class="- topic/li ">
+               <p id="d248e38" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                   If administrative
+records are mixed with program records and cannot be economically
+segregated, the entire file should be kept for the period of time
+approved for the program records. Similarly, if documents described
+in the following table are part of a subject or case file that documents
+activities that are not described in the table, they should be treated
+in the same manner as the files of which they are a part.</p>
             </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d248e44" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> An agency that requires a shorter
-retention period than those identified in <xref href="#id1617MD00JJ9/i1122545"
+            <li class="- topic/li ">
+               <p id="d248e47" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                  
+                   An agency
+that requires a shorter retention period than those identified in <xref href="#id1617MD00JJ9/i1122545"
                         base="i1122545"
                         outputclass="fm:Table"
-                        class="- topic/xref ">Table  4-1</xref> shall
-request approval from NARA through the agency’s records officer.</p>
+                        class="- topic/xref ">Table  4-1</xref> shall request
+approval from NARA through the agency’s records officer.</p>
             </li>
          </ol>
          <table frame="all"
@@ -71,7 +84,8 @@ request approval from NARA through the agency’s records officer.</p>
                 id="i1122545"
                 class="- topic/table ">
             <title class="- topic/title ">
-               <ph class="- topic/ph ">Table 4-1 -</ph> Retention Periods</title>
+               <ph class="- topic/ph ">Table
+4-1 -</ph> Retention Periods</title>
             <tgroup cols="2"
                     colsep="1"
                     rowsep="1"
@@ -88,7 +102,8 @@ request approval from NARA through the agency’s records officer.</p>
                      <entry colname="2"
                             align="left"
                             outputclass="CellHeading_Left"
-                            class="- topic/entry ">Retention period</entry>
+                            class="- topic/entry ">Retention
+period</entry>
                   </row>
                </thead>
                <tbody class="- topic/tbody ">
@@ -97,15 +112,13 @@ request approval from NARA through the agency’s records officer.</p>
                             outputclass="CellBody_9pt_Hanging_FL"
                             xtrc="9pt_Hanging_FL"
                             class="- topic/entry ">
-                        <p rev="FAC 2019-02 March 27, 2019" class="- topic/p ">(1)
-Contracts <?FM MARKER [Why] Amend section 4.805, in Table 4-1, under the Record column, by adding a period to the end of entries (1) through (8).?>(and related <?FM MARKER [CaseNumber] Technical Amendments?>records or documents, including successful
-and unsuccessful proposals, except see paragraph (c)(2) of this section
+                        <p rev="FAC 2019-02 May 6, 2019" class="- topic/p ">(1)
+Contracts <?FM MARKER [Why] and in Table 4-1, under the Record column, by adding a period to the end of paragraphs (c)(1) through (8).?>(and related <?FM MARKER [CaseNumber] Technical Amendments?>records or documents, including successful and
+unsuccessful proposals, except see paragraph (c)(2) of this section
 regarding contractor payrolls submitted under construction contracts).</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p otherprops="CellBody_9pt_Left"
-                           outputclass="CellBody_9pt_Left"
-                           class="- topic/p ">6 years after final payment.</p>
+                        <p class="- topic/p ">6 years after final payment.</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -113,15 +126,13 @@ regarding contractor payrolls submitted under construction contracts).</p>
                             outputclass="CellBody_9pt_Hanging_FL"
                             xtrc="9pt_Hanging_FL"
                             class="- topic/entry ">
-                        <p rev="FAC 2019-02 March 27, 2019" class="- topic/p ">(2)
+                        <p rev="FAC 2019-02 May 6, 2019" class="- topic/p ">(2)
 Contractor’s payrolls submitted under construction contracts in accordance
 with Department of Labor regulations (29 CFR 5.5(a)(3)), with related
 certifications, anti-kickback affidavits, and other related records.</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p otherprops="CellBody_9pt_Left"
-                           outputclass="CellBody_9pt_Left"
-                           class="- topic/p ">3 years after contract completion unless
+                        <p class="- topic/p ">3 years after contract completion unless
 contract performance is the subject of an enforcement action on
 that date (see paragraph (c)(8) of this section).</p>
                      </entry>
@@ -131,13 +142,11 @@ that date (see paragraph (c)(8) of this section).</p>
                             outputclass="CellBody_9pt_Hanging_FL"
                             xtrc="9pt_Hanging_FL"
                             class="- topic/entry ">
-                        <p rev="FAC 2019-02 March 27, 2019" class="- topic/p ">(3)
+                        <p rev="FAC 2019-02 May 6, 2019" class="- topic/p ">(3)
 Unsolicited proposals not accepted by a department or agency.</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p otherprops="CellBody_9pt_Left"
-                           outputclass="CellBody_9pt_Left"
-                           class="- topic/p ">Retain in accordance with agency procedures.</p>
+                        <p class="- topic/p ">Retain in accordance with agency procedures.</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -145,13 +154,11 @@ Unsolicited proposals not accepted by a department or agency.</p>
                             outputclass="CellBody_9pt_Hanging_FL"
                             xtrc="9pt_Hanging_FL"
                             class="- topic/entry ">
-                        <p rev="FAC 2019-02 March 27, 2019" class="- topic/p ">(4)
+                        <p rev="FAC 2019-02 May 6, 2019" class="- topic/p ">(4)
 Files for canceled solicitations.</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p otherprops="CellBody_9pt_Left"
-                           outputclass="CellBody_9pt_Left"
-                           class="- topic/p ">6 years after cancellation.</p>
+                        <p class="- topic/p ">6 years after cancellation.</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -159,13 +166,12 @@ Files for canceled solicitations.</p>
                             outputclass="CellBody_9pt_Hanging_FL"
                             xtrc="9pt_Hanging_FL"
                             class="- topic/entry ">
-                        <p rev="FAC 2019-02 March 27, 2019" class="- topic/p ">(5)
-Other copies of procurement file records used for administrative purposes.</p>
+                        <p rev="FAC 2019-02 May 6, 2019" class="- topic/p ">(5)
+Other copies of procurement file records used for administrative
+purposes.</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p otherprops="CellBody_9pt_Left"
-                           outputclass="CellBody_9pt_Left"
-                           class="- topic/p ">When business use ceases.</p>
+                        <p class="- topic/p ">When business use ceases.</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -173,16 +179,14 @@ Other copies of procurement file records used for administrative purposes.</p>
                             outputclass="CellBody_9pt_Hanging_FL"
                             xtrc="9pt_Hanging_FL"
                             class="- topic/entry ">
-                        <p rev="FAC 2019-02 March 27, 2019" class="- topic/p ">(6)
+                        <p rev="FAC 2019-02 May 6, 2019" class="- topic/p ">(6)
 Documents pertaining generally to the contractor as described at <xref href="FAR-i1122317.dita#i1122317"
                                  base="i1122317"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">4.801</xref>(c)(3).</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p otherprops="CellBody_9pt_Left"
-                           outputclass="CellBody_9pt_Left"
-                           class="- topic/p ">Until superseded or obsolete.</p>
+                        <p class="- topic/p ">Until superseded or obsolete.</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -190,7 +194,7 @@ Documents pertaining generally to the contractor as described at <xref href="FAR
                             outputclass="CellBody_9pt_Hanging_FL"
                             xtrc="9pt_Hanging_FL"
                             class="- topic/entry ">
-                        <p rev="FAC 2019-02 March 27, 2019" class="- topic/p ">(7)
+                        <p rev="FAC 2019-02 May 6, 2019" class="- topic/p ">(7)
 Data submitted to the Federal Procurement Data System (FPDS). Electronic
 data file maintained by fiscal year, containing unclassified records
 of all procurements exceeding the micro-purchase threshold, and
@@ -200,9 +204,7 @@ information required under <xref href="FAR-i1122822.dita#i1122822"
                                  class="- topic/xref ">4.603</xref>.</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p otherprops="CellBody_9pt_Left"
-                           outputclass="CellBody_9pt_Left"
-                           class="- topic/p ">6 years after submittal to FPDS.</p>
+                        <p class="- topic/p ">6 years after submittal to FPDS.</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -210,14 +212,12 @@ information required under <xref href="FAR-i1122822.dita#i1122822"
                             outputclass="CellBody_9pt_Hanging_FL"
                             xtrc="9pt_Hanging_FL"
                             class="- topic/entry ">
-                        <p rev="FAC 2019-02 March 27, 2019" class="- topic/p ">(8)
-Investigations, cases pending or in litigation (including protests), or
-similar matters (including enforcement actions).</p>
+                        <p rev="FAC 2019-02 May 6, 2019" class="- topic/p ">(8)
+Investigations, cases pending or in litigation (including protests),
+or similar matters (including enforcement actions).</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p otherprops="CellBody_9pt_Left"
-                           outputclass="CellBody_9pt_Left"
-                           class="- topic/p ">Until final clearance or settlement, or,
+                        <p class="- topic/p ">Until final clearance or settlement, or,
 if related to a document identified in paragraphs (c)(1) through
 (7) of this section, for the retention period specified for the
 related document, whichever is later.</p>

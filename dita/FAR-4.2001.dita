@@ -4,97 +4,132 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
-  <concept id="id1897F0DI0UI"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">4.2001</ph> Definitions.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p id="d316e21" class="- topic/p ">As used in this subpart—</p>
-         <p id="d316e27fcp" class="- topic/p ">“Covered article” means any hardware, software, or service that–</p>
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d316e27" class="- topic/p ">
+	  <concept id="id1897F0DI0UI"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">4.2001</ph> Definitions.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p id="d316e21" class="- topic/p ">As used in this subpart—</p>
+			      <p id="d316e27fcp" class="- topic/p ">“Covered article” means any hardware, software, or service that–</p>
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d316e27" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
                         
-                        Is developed or provided by a covered entity;</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d316e36" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Is developed or provided by a covered entity;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d316e36" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
                         
-                        Includes any hardware, software, or service developed or provided in whole or in part by a covered entity; or</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d316e45" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Includes any hardware, software, or service developed or provided in whole or in part by a covered entity; or</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d316e45" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
                         
                         
-                        Contains components using any hardware or software developed in whole or in part by a covered entity.</p>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-         <p id="d316e54" class="- topic/p ">“Covered entity” means–</p>
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d316e66" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Contains components using any hardware or software developed in whole or in part by a covered entity.</p>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+			      <p id="d316e54" class="- topic/p ">“Covered entity” means–</p>
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d316e66" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
                         
-                        Kaspersky Lab;</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d316e75" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Kaspersky Lab;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d316e75" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
                         
-                        Any successor entity to Kaspersky Lab;</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d316e84" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Any successor entity to Kaspersky Lab;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d316e84" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
                         
                         
-                        Any entity that controls, is controlled by, or is under common control with Kaspersky Lab; or</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d316e93" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Any entity that controls, is controlled by, or is under common control with Kaspersky Lab; or</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d316e93" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
                         
                         
-                        Any entity of which Kaspersky Lab has a majority ownership.</p>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-      </conbody>
-  </concept>
+                        
+                        
+                        
+                        
+                        
+								                Any entity of which Kaspersky Lab has a majority ownership.</p>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

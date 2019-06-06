@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?Fm Validation Off?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="id1617MD0C0U9"
-            otherprops="H4_ForH3_1-9"
-            outputclass="H4_ForH3_1-9"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-      <title outputclass="H4ForH3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">30.202-2</ph> Impracticality
-of submission.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">See
-48 CFR 9903.202-2 (FAR Appendix).</p>
-      </conbody>
-   </concept>
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="id1617MD0C0U9"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">30.202-2</ph> Impracticality of submission.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p class="- topic/p ">See 48 CFR 9903.202-2 (FAR Appendix).</p>
+		    </conbody>
+	  </concept>
 </dita>

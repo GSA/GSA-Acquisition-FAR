@@ -4,19 +4,17 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="i4_1008"
-            otherprops="01-09"
-            outputclass="H3_01-09"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">4.1008</ph> Solicitation provision.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p class="- topic/p " id="d267e13">Insert the provision at <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i52_204-22.dita#i52_204-22"
+	  <concept id="i4_1008"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">4.1008</ph> Solicitation provision.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p id="d267e13" class="- topic/p ">Insert the provision at <ph class="- topic/ph ">
+					          <xref href="FAR-i52_204-22.dita#i52_204-22"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">52.204-22</xref>
-            </ph>, Alternative Line Item Proposal, in all solicitations.</p>
-      </conbody>
-  </concept>
+				        </ph>, Alternative Line Item Proposal, in all solicitations.</p>
+		    </conbody>
+	  </concept>
 </dita>

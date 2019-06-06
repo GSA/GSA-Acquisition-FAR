@@ -4,23 +4,18 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="i1071192"
-            otherprops="H4_ForH3_1-9"
-            outputclass="H4_ForH3_1-9"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H4ForH3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">47.208-2</ph> Contract clause.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p otherprops="Body"
-            outputclass="Body"
-            class="- topic/p "
-            id="d2763e13">The contracting officer shall insert the clause at <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1046671.dita#i1046671"
+	  <concept id="i1071192"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">47.208-2</ph> Contract clause.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p id="d2763e13" class="- topic/p ">The contracting officer shall insert the clause at <ph class="- topic/ph ">
+					          <xref href="FAR-i1046671.dita#i1046671"
                      base="i1046671"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">52.247-68</xref>
-            </ph>, Report of Shipment (REPSHIP), in solicitations and contracts when advance notice of shipment is required for safety or security reasons, or where carload or truckload shipments will be made to DoD installations or, as required, to civilian agency facilities.</p>
-      </conbody>
-  </concept>
+				        </ph>, Report of Shipment (REPSHIP), in solicitations and contracts when advance notice of shipment is required for safety or security reasons, or where carload or truckload shipments will be made to DoD installations or, as required, to civilian agency facilities.</p>
+		    </conbody>
+	  </concept>
 </dita>

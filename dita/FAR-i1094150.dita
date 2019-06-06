@@ -4,27 +4,20 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="i1094150"
-            otherprops="01-09"
-            outputclass="H3_01-09"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">23.1105</ph> Contract clause.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p otherprops="Body"
-            outputclass="Body"
-            class="- topic/p "
-            id="d1586e13">The contracting officer shall insert the clause at <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1053316.dita#i1053316"
+	  <concept id="i1094150"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">23.1105</ph> Contract clause.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p id="d1586e13" class="- topic/p ">The contracting officer shall insert the clause at <ph class="- topic/ph ">
+					          <xref href="FAR-i1053316.dita#i1053316"
                      base="i1053316"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">52.223-18</xref>
-            </ph>, Encouraging Contractor Policies to Ban Text Messaging While Driving, in all solicitations and contracts.</p>
-         <p otherprops="Body_Asterisks"
-            outputclass="Body_Asterisks"
-            class="- topic/p "/>
-         <p otherprops="Body" outputclass="Body" class="- topic/p "/>
-      </conbody>
-  </concept>
+				        </ph>, Encouraging Contractor Policies to Ban Text Messaging While Driving, in all solicitations and contracts.</p>
+			      <p class="- topic/p "/>
+			      <p class="- topic/p "/>
+		    </conbody>
+	  </concept>
 </dita>

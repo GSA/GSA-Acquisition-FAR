@@ -4,29 +4,24 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="id1617MD00UAS"
-            otherprops="H4_ForH3_1-9"
-            outputclass="H4_ForH3_1-9"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H4ForH3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">14.203-2</ph> Dissemination of information concerning invitations for bids.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p otherprops="Body"
-            outputclass="Body"
-            class="- topic/p "
-            id="d821e13">Procedures concerning display of invitations for bids in a public place, information releases to newspapers and trade journals, paid advertisements, and synopsizing through the Governmentwide point of entry (GPE) are set forth in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1120993.dita#i1120993"
+	  <concept id="id1617MD00UAS"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">14.203-2</ph> Dissemination of information concerning invitations for bids.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p id="d821e13" class="- topic/p ">Procedures concerning display of invitations for bids in a public place, information releases to newspapers and trade journals, paid advertisements, and synopsizing through the Governmentwide point of entry (GPE) are set forth in <ph class="- topic/ph ">
+					          <xref href="FAR-i1120993.dita#i1120993"
                      base="i1120993"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">5.101</xref>
-            </ph> and <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1120661.dita#i1120661"
+				        </ph> and <ph class="- topic/ph ">
+					          <xref href="FAR-i1120661.dita#i1120661"
                      base="i1120661"
                      outputclass="fm:Subpart"
                      class="- topic/xref ">subpart  5.2</xref>
-            </ph>.</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p "/>
-      </conbody>
-  </concept>
+				        </ph>.</p>
+			      <p class="- topic/p "/>
+		    </conbody>
+	  </concept>
 </dita>

@@ -4,26 +4,21 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="i1047048"
-            otherprops="H4_ForH3_10"
-            outputclass="H4_ForH3_10"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H4ForH3_10" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.246-9</ph> Inspection of Research and Development (Short Form).</title>
-      <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p otherprops="Body"
-            outputclass="Body"
-            class="- topic/p "
-            id="d3634e13">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1072301.dita#i1072301"
+	  <concept id="i1047048"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">52.246-9</ph> Inspection of Research and Development (Short Form).</title>
+		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
+			      <p id="d3634e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					          <xref href="FAR-i1072301.dita#i1072301"
                      base="i1072301"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">46.309</xref>
-            </ph>, insert the following clause:</p>
-         <p otherprops="Ctr_SmCaps" outputclass="Ctr_SmCaps" class="- topic/p ">Inspection of Research and Development (ShortForm) (Apr 1984)</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">The Government has the right to inspect and evaluate the work performed or being performed under the contract, and the premises where the work is being performed, at all reasonable times and in a manner that will not unduly delay the work. If the Government performs inspection or evaluation on the premises of the Contractor or a subcontractor, the Contractor shall furnish and shall require subcontractors to furnish all reasonable facilities and assistance for the safe and convenient performance of these duties.</p>
-         <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
-      </conbody>
-  </concept>
+				        </ph>, insert the following clause:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Inspection of Research and Development (ShortForm) (Apr 1984)</p>
+			      <p class="- topic/p ">The Government has the right to inspect and evaluate the work performed or being performed under the contract, and the premises where the work is being performed, at all reasonable times and in a manner that will not unduly delay the work. If the Government performs inspection or evaluation on the premises of the Contractor or a subcontractor, the Contractor shall furnish and shall require subcontractors to furnish all reasonable facilities and assistance for the safe and convenient performance of these duties.</p>
+			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

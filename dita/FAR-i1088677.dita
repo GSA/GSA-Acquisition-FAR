@@ -4,21 +4,16 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
-  <concept id="i1088677"
-            otherprops="H4_ForH3_1-9"
-            outputclass="H4_ForH3_1-9"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-      <title outputclass="H4ForH3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">28.106-1</ph> Bonds and bond-related forms.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p id="d1812e13"
-            otherprops="Body"
-            outputclass="Body"
-            class="- topic/p ">The following Standard Forms (SF’s) and Optional Forms (OF’s), shall be used, except in foreign countries, when a bid bond, performance or payment bond, or an individual surety is required. The bond forms shall be used as indicated in the instruction portion of each form:</p>
-         <ol id="d1798e28" class="- topic/ol ">
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e20" class="- topic/p ">
+	  <concept id="i1088677"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">28.106-1</ph> Bonds and bond-related forms.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p id="d1812e13" class="- topic/p ">The following Standard Forms (SF’s) and Optional Forms (OF’s), shall be used, except in foreign countries, when a bid bond, performance or payment bond, or an individual surety is required. The bond forms shall be used as indicated in the instruction portion of each form:</p>
+			      <ol id="d1798e28" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d1812e20" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
@@ -26,16 +21,21 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/bid-bond"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/bid-bond"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 24</xref>, Bid Bond (see <xref href="FAR-i1088483.dita#i1088483"
                         base="i1088483"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.101</xref>).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e35" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e35" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
@@ -43,7 +43,12 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/performance-bond"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/performance-bond"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 25</xref>, Performance Bond (see <xref href="FAR-i1088559.dita#i1088559"
@@ -53,9 +58,9 @@
                         base="i1088819"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.106-3</xref>(b)).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e53" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e53" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
@@ -63,7 +68,12 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/payment-bond"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/payment-bond"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 25A</xref>, Payment Bond (see <xref href="FAR-i1088559.dita#i1088559"
@@ -73,9 +83,9 @@
                         base="i1088819"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.106-3</xref>(b)).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e71" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e71" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
@@ -83,7 +93,12 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/continuation-sheet-standard-forms-24-25-and-25a"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/continuation-sheet-standard-forms-24-25-and-25a"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 25B</xref>, Continuation Sheet (for SF’s<xref href="https://www.gsa.gov/forms-library/bid-bond"
@@ -96,9 +111,9 @@
                         format="html"
                         scope="external"
                         class="- topic/xref ">25A</xref>).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e92" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e92" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   
                   
@@ -106,16 +121,21 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/affidavit-individual-surety"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/affidavit-individual-surety"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 28</xref>, Affidavit of Individual Surety (see <xref href="FAR-i1088135.dita#i1088135"
                         base="i1088135"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.203</xref>).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e108" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e108" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   
                   
@@ -123,16 +143,21 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/annual-bid-bond"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/annual-bid-bond"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 34</xref>, Annual Bid Bond (see <xref href="FAR-i1088451.dita#i1088451"
                         base="i1088451"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.001</xref>).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e123" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e123" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph>
                   
                   
@@ -140,16 +165,21 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/annual-performance-bond"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/annual-performance-bond"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 35</xref>, Annual Performance Bond (see <xref href="FAR-i1088663.dita#i1088663"
                         base="i1088663"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.104</xref>).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e138" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e138" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(h)</ph>
                   
                   
@@ -157,16 +187,21 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/reinsurance-agreement-bonds-statute-performance-bond"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/reinsurance-agreement-bonds-statute-performance-bond"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 273</xref>, Reinsurance Agreement for a Bonds Statute Performance Bond (see <xref href="FAR-i1088113.dita#i1088113"
                         base="i1088113"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.202</xref>(a)(4)).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e153" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e153" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(i)</ph>
                   
                   
@@ -174,16 +209,21 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/reinsurance-agreement-bonds-statute-payment-bond"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/reinsurance-agreement-bonds-statute-payment-bond"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 274</xref>, Reinsurance Agreement for a Bonds Statute Payment Bond (see <xref href="FAR-i1088113.dita#i1088113"
                         base="i1088113"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.202</xref>(a)(4)).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e168" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e168" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(j)</ph>
                   
                   
@@ -191,16 +231,21 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/reinsurance-agreement-favor-united-states"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/reinsurance-agreement-favor-united-states"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 275</xref>, Reinsurance Agreement in Favor of the United States (see <xref href="FAR-i1088113.dita#i1088113"
                         base="i1088113"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.202</xref>(a)(4)).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e183" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e183" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(k)</ph>
                   
                   
@@ -208,16 +253,21 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/consent-surety"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/consent-surety"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 1414</xref>, Consent of Surety (see <xref href="FAR-i1088865.dita#i1088865"
                         base="i1088865"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.106-5</xref>).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e199" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e199" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(l)</ph>
                   
                   
@@ -225,16 +275,21 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/consent-surety-and-increase-penalty"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/consent-surety-and-increase-penalty"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 1415</xref>, Consent of Surety and Increase of Penalty (see <xref href="FAR-i1088819.dita#i1088819"
                         base="i1088819"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.106-3</xref>).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e214" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e214" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(m)</ph>
                   
                   
@@ -242,7 +297,12 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/payment-bond-other-construction-contracts"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/payment-bond-other-construction-contracts"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 1416</xref>, Payment Bond for Other Than Construction Contracts (see <xref href="FAR-i1088653.dita#i1088653"
@@ -252,9 +312,9 @@
                         base="i1088819"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.106-3</xref>(b)).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e232" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e232" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(n)</ph>
                   
                   
@@ -262,7 +322,12 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/performance-bond-other-construction-contracts"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/performance-bond-other-construction-contracts"
                         format="html"
                         scope="external"
                         class="- topic/xref ">SF 1418</xref>, Performance Bond for Other Than Construction Contracts (see <xref href="FAR-i1088641.dita#i1088641"
@@ -272,9 +337,9 @@
                         base="i1088819"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.106-3</xref>(b)).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e250" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e250" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(o)</ph>
                   
                   
@@ -282,16 +347,21 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/release-lien-real-property"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/release-lien-real-property"
                         format="html"
                         scope="external"
                         class="- topic/xref ">OF 90</xref>, Release of Lien on Real Property (see <xref href="FAR-i1088251.dita#i1088251"
                         base="i1088251"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.203-5</xref>).</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1812e265" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1812e265" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(p)</ph>
                   
                   
@@ -299,15 +369,20 @@
                   
                   
                   
-                  <xref href="https://www.gsa.gov/forms-library/release-personal-property-escrow"
+                  
+                  
+                  
+                  
+						            
+						            <xref href="https://www.gsa.gov/forms-library/release-personal-property-escrow"
                         format="html"
                         scope="external"
                         class="- topic/xref ">OF 91</xref>, Release of Personal Property from Escrow (see <xref href="FAR-i1088251.dita#i1088251"
                         base="i1088251"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">28.203-5</xref>).</p>
-            </li>
-         </ol>
-      </conbody>
-  </concept>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

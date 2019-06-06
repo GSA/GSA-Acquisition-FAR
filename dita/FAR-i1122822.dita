@@ -2,18 +2,15 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-  <concept id="i1122822"
-            otherprops="01-09"
-            outputclass="H3_01-09"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H3_1_9" class="- topic/title ">
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1122822"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">4.603</ph> Policy.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <ol class="- topic/ol " id="d220e13">
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d220e13" class="- topic/ol ">
+            <li class="- topic/li ">
                <p id="d222e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
@@ -21,9 +18,11 @@
                   
                   
                   
-                  In accordance with the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282), all unclassified Federal award data must be publicly accessible.</p>
+                   In accordance with the Federal
+Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282),
+all unclassified Federal award data must be publicly accessible.</p>
             </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+            <li class="- topic/li ">
                <p id="d222e26" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
@@ -31,9 +30,13 @@
                   
                   
                   
-                  Executive agencies shall use FPDS to maintain publicly available information about all unclassified contract actions exceeding the micro-purchase threshold, and any modifications to those actions that change previously reported contract action report data, regardless of dollar value.</p>
+                   Executive
+agencies shall use FPDS to maintain publicly available information
+about all unclassified contract actions exceeding the micro-purchase
+threshold, and any modifications to those actions that change previously
+reported contract action report data, regardless of dollar value.</p>
             </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+            <li class="- topic/li ">
                <p id="d222e35" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
@@ -41,22 +44,36 @@
                   
                   
                   
-                  Agencies awarding assisted acquisitions or direct acquisitions must report these actions and identify the Program/Funding Agency and Office Codes from the applicable agency codes maintained by each agency at FPDS. These codes represent the agency and office that has provided the predominant amount of funding for the contract action. For assisted acquisitions, the requesting agency will receive socioeconomic credit for meeting agency small business goals, where applicable. Requesting agencies shall provide the appropriate agency/bureau component code as part of the written interagency agreement between the requesting and servicing agencies (see <xref href="FAR-i1102811.dita#i1102811"
-                        base="i1102811"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">17.502-1</xref>(b)(1)).</p>
+                   Agencies
+awarding assisted acquisitions or direct acquisitions must report
+these actions and identify the Program/Funding Agency and Office
+Codes from the applicable agency codes maintained by each agency
+at FPDS. These codes represent the agency and office that has provided
+the predominant amount of funding for the contract action. For assisted acquisitions,
+the requesting agency will receive socioeconomic credit for meeting
+agency small business goals, where applicable. Requesting agencies
+shall provide the appropriate agency/bureau component code as part
+of the written interagency agreement between the requesting and
+servicing agencies <ph rev="FAC 2019-02 June 5, 2019" class="- topic/ph "><?FM MARKER [Why] Amend section 4.603 by removing from paragraph (c), “(see 17.502-1(b)(1))” and adding “(see 17.502-1(a)(1))” in its place.?>(see <xref href="FAR-i1102811.dita#i1102811"
+                           base="i1102811"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">17.502-1</xref>(a)(1)).<?FM MARKER [CaseNumber] FAR Case 2018-015?></ph>
+               </p>
             </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d222e47" class="- topic/p ">
+            <li class="- topic/li ">
+               <p id="d222e52" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
                   
                   
-                  Agencies awarding contract actions with a mix of appropriated and non-appropriated funding shall only report the full appropriated portion of the contract action in FPDS.</p>
+                   Agencies
+awarding contract actions with a mix of appropriated and non-appropriated
+funding shall only report the full appropriated portion of the contract
+action in FPDS.</p>
             </li>
          </ol>
       </conbody>
-  </concept>
+   </concept>
 </dita>

@@ -4,43 +4,33 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="i1001340"
-            otherprops="H4_ForH3_10"
-            outputclass="H4_ForH3_10"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-      <title outputclass="H4ForH3_10" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">53.216-1</ph> Delivery
-orders and orders under basic ordering agreements (OF 347).</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p otherprops="Body"
-            outputclass="Body"
-            class="- topic/p "
-            id="d3802e13">
-            <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services-0"
+	  <concept id="i1001340"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">53.216-1</ph> Delivery orders and orders under basic ordering agreements (OF 347).</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p id="d3802e13" class="- topic/p ">
+				        <ph class="- topic/ph ">
+					          <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services-0"
                      format="html"
                      scope="external"
                      class="- topic/xref "> OF 347</xref>
-            </ph>,
-Order for Supplies or Services. <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services-0"
+				        </ph>, Order for Supplies or Services. <ph class="- topic/ph ">
+					          <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services-0"
                      format="html"
                      scope="external"
                      class="- topic/xref ">OF 347</xref>
-            </ph>,
-prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1001023.dita#i1001023"
+				        </ph>, prescribed in <ph class="- topic/ph ">
+					          <xref href="FAR-i1001023.dita#i1001023"
                      base="i1001023"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">53.213</xref>
-            </ph>(f) (or an approved
-agency form), may be used to place orders under indefinite delivery
-contracts and basic ordering agreements, as specified in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1103595.dita#i1103595"
+				        </ph>(f) (or an approved agency form), may be used to place orders under indefinite delivery contracts and basic ordering agreements, as specified in <ph class="- topic/ph ">
+					          <xref href="FAR-i1103595.dita#i1103595"
                      base="i1103595"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">16.703</xref>(d)(2)</ph>(i).</p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

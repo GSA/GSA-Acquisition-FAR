@@ -4,25 +4,20 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="i1049820"
-            otherprops="H4_ForH3_10"
-            outputclass="H4_ForH3_10"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H4ForH3_10" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.232-14</ph> Notice of Availability of Progress Payments Exclusively for Small Business Concerns.</title>
-      <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p otherprops="Body"
-            outputclass="Body"
-            class="- topic/p "
-            id="d3486e13">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1082131.dita#i1082131"
+	  <concept id="i1049820"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">52.232-14</ph> Notice of Availability of Progress Payments Exclusively for Small Business Concerns.</title>
+		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
+			      <p id="d3486e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					          <xref href="FAR-i1082131.dita#i1082131"
                      base="i1082131"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">32.502-3</xref>(b)(2)</ph>, insert the following provision in invitations for bids if it is anticipated that (a)both small business concerns and others may submit bids in response to the same invitation and (b)only the small business bidders would need progress payments:</p>
-         <p otherprops="Ctr_SmCaps" outputclass="Ctr_SmCaps" class="- topic/p ">Notice of Availability of Progress Payments Exclusively for Small Business Concerns (Apr 1984)</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">The Progress Payments clause will be available only to small business concerns. Any bid conditioned upon inclusion of a progress payment clause in the resulting contract will be rejected as nonresponsive if the bidder is not a small business concern.</p>
-         <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
-      </conbody>
-  </concept>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Notice of Availability of Progress Payments Exclusively for Small Business Concerns (Apr 1984)</p>
+			      <p class="- topic/p ">The Progress Payments clause will be available only to small business concerns. Any bid conditioned upon inclusion of a progress payment clause in the resulting contract will be rejected as nonresponsive if the bidder is not a small business concern.</p>
+			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

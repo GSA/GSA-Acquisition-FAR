@@ -4,24 +4,22 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="i1073689"
-            otherprops="01-09"
-            outputclass="H3_01-09"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">44.101</ph> Definitions.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">As used in this part-</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“Approved purchasing system” means a contractor’s purchasing system that has been reviewed and approved in accordance with this part.</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“Contractor” means the total contractor organization or a separate entity of it, such as an affiliate, division, or plant, that performs its own purchasing.</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“Contractor purchasing system review (CPSR)” means the complete evaluation of a contractor’s purchasing of material and services, subcontracting, and subcontract management from development of the requirement through completion of subcontract performance.</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p "/>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“Subcontract” means any contract as defined in <xref href="FAR-i1125357.dita#i1125357"
+	  <concept id="i1073689"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">44.101</ph> Definitions.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p class="- topic/p ">As used in this part-</p>
+			      <p class="- topic/p ">“Approved purchasing system” means a contractor’s purchasing system that has been reviewed and approved in accordance with this part.</p>
+			      <p class="- topic/p ">“Contractor” means the total contractor organization or a separate entity of it, such as an affiliate, division, or plant, that performs its own purchasing.</p>
+			      <p class="- topic/p ">“Contractor purchasing system review (CPSR)” means the complete evaluation of a contractor’s purchasing of material and services, subcontracting, and subcontract management from development of the requirement through completion of subcontract performance.</p>
+			      <p class="- topic/p "/>
+			      <p class="- topic/p ">“Subcontract” means any contract as defined in <xref href="FAR-i1125357.dita#i1125357"
                   base="i1125357"
                   outputclass="fm:Subpart"
                   class="- topic/xref ">subpart  2.1</xref> entered into by a subcontractor to furnish supplies or services for performance of a prime contract or a subcontract. It includes but is not limited to purchase orders, and changes and modifications to purchase orders.</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“Subcontractor” means any supplier, distributor, vendor, or firm that furnishes supplies or services to or for a prime contractor or another subcontractor.</p>
-      </conbody>
-  </concept>
+			      <p class="- topic/p ">“Subcontractor” means any supplier, distributor, vendor, or firm that furnishes supplies or services to or for a prime contractor or another subcontractor.</p>
+		    </conbody>
+	  </concept>
 </dita>

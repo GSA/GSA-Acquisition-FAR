@@ -4,22 +4,20 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="id1617MD070PQ"
-            otherprops="01-09"
-            outputclass="H3_01-09"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">24.101</ph> Definitions.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">As used in this subpart-</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“Agency” means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency.</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“Individual” means a citizen of the United States or an alien lawfully admitted for permanent residence.</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“Maintain” means maintain, collect, use, or disseminate.</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“Operation of a system of records” means performance of any of the activities associated with maintaining the system of records, including the collection, use, and dissemination of records.</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“Personally identifiable information” means information that can be used to distinguish or trace an individual's identity, either alone or when combined with other information that is linked or linkable to a specific individual. (See Office of Management and Budget (OMB) Circular No. A-130, Managing Federal Information as a Strategic Resource).</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“Record” means any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, education, financial transactions, medical history, and criminal or employment history, and that contains the individual’s name, or the identifying number, symbol, or other identifying particular assigned to the individual, such as a fingerprint or voiceprint or a photograph.</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">“System of records on individuals” means a group of any records under the control of any agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifying particular assigned to the individual.</p>
-      </conbody>
-  </concept>
+	  <concept id="id1617MD070PQ"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">24.101</ph> Definitions.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p class="- topic/p ">As used in this subpart-</p>
+			      <p class="- topic/p ">“Agency” means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency.</p>
+			      <p class="- topic/p ">“Individual” means a citizen of the United States or an alien lawfully admitted for permanent residence.</p>
+			      <p class="- topic/p ">“Maintain” means maintain, collect, use, or disseminate.</p>
+			      <p class="- topic/p ">“Operation of a system of records” means performance of any of the activities associated with maintaining the system of records, including the collection, use, and dissemination of records.</p>
+			      <p class="- topic/p ">“Personally identifiable information” means information that can be used to distinguish or trace an individual's identity, either alone or when combined with other information that is linked or linkable to a specific individual. (See Office of Management and Budget (OMB) Circular No. A-130, Managing Federal Information as a Strategic Resource).</p>
+			      <p class="- topic/p ">“Record” means any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, education, financial transactions, medical history, and criminal or employment history, and that contains the individual’s name, or the identifying number, symbol, or other identifying particular assigned to the individual, such as a fingerprint or voiceprint or a photograph.</p>
+			      <p class="- topic/p ">“System of records on individuals” means a group of any records under the control of any agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifying particular assigned to the individual.</p>
+		    </conbody>
+	  </concept>
 </dita>

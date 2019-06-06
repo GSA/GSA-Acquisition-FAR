@@ -4,26 +4,21 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="i1063809"
-            otherprops="H4_ForH3_1-9"
-            outputclass="H4_ForH3_1-9"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H4ForH3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.204-6</ph> Unique Entity Identifier.</title>
-      <conbody outputclass="provision" class="- topic/body concept/conbody ">
-         <p otherprops="Body"
-            outputclass="Body"
-            class="- topic/p "
-            id="d3068e13">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1122944.dita#i1122944"
+	  <concept id="i1063809"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">52.204-6</ph> Unique Entity Identifier.</title>
+		    <conbody outputclass="provision" class="- topic/body concept/conbody ">
+			      <p id="d3068e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					          <xref href="FAR-i1122944.dita#i1122944"
                      base="i1122944"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">4.607</xref>(b)</ph>, insert the following provision:</p>
-         <p otherprops="Ctr_SmCaps" outputclass="Ctr_SmCaps" class="- topic/p ">Unique Entity Identifier (Oct 2016)</p>
-         <ol class="- topic/ol " id="d3051e25">
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d3068e29" class="- topic/p ">
+			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Unique Entity Identifier (Oct 2016)</p>
+			      <ol id="d3051e25" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d3068e29" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
@@ -31,142 +26,207 @@
                   
                   
                   
-                  <i class="+ topic/ph hi-d/i ">Definition.</i> As used in this provision-</p>
-               <p id="d3068e38" class="- topic/p ">“Electronic Funds Transfer (EFT) indicator” means a four-character suffix to the unique entity identifier. The suffix is assigned at the discretion of the commercial, nonprofit, or Government entity to establish additional System for Award Management records for identifying alternative EFT accounts (see <xref href="FAR-i1080713.dita#i1080713"
+                  
+                  
+                  
+                  
+						            
+						            <i class="+ topic/ph hi-d/i ">Definition.</i> As used in this provision-</p>
+					          <p id="d3068e38" class="- topic/p ">“Electronic Funds Transfer (EFT) indicator” means a four-character suffix to the unique entity identifier. The suffix is assigned at the discretion of the commercial, nonprofit, or Government entity to establish additional System for Award Management records for identifying alternative EFT accounts (see <xref href="FAR-i1080713.dita#i1080713"
                         outputclass="fm:Subpart"
                         class="- topic/xref ">subpart  32.11</xref>) for the same entity.</p>
-               <p id="d3068e44" class="- topic/p ">“Unique entity identifier” means a number or other identifier used to identify a specific commercial, nonprofit, or Government entity. See <xref href="http://www.sam.gov"
+					          <p id="d3068e44" class="- topic/p ">“Unique entity identifier” means a number or other identifier used to identify a specific commercial, nonprofit, or Government entity. See <xref href="http://www.sam.gov"
                         format="html"
                         scope="external"
                         class="- topic/xref ">www.sam.gov</xref> for the designated entity for establishing unique entity identifiers.</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d3068e53" class="- topic/p ">
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d3068e53" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
                   
                   
-                  The Offeror shall enter, in the block with its name and address on the cover page of its offer, the annotation “Unique Entity Identifier” followed by the unique entity identifier that identifies the Offeror's name and address exactly as stated in the offer. The Offeror also shall enter its EFT indicator, if applicable.</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d3068e62" class="- topic/p ">
+                  
+                  
+                  
+                  
+                  
+						            The Offeror shall enter, in the block with its name and address on the cover page of its offer, the annotation “Unique Entity Identifier” followed by the unique entity identifier that identifies the Offeror's name and address exactly as stated in the offer. The Offeror also shall enter its EFT indicator, if applicable.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d3068e62" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
                   
                   
-                  If the Offeror does not have a unique entity identifier, it should contact the entity designated at <xref href="http://www.sam.gov"
+                  
+                  
+                  
+                  
+                  
+						            If the Offeror does not have a unique entity identifier, it should contact the entity designated at <xref href="http://www.sam.gov"
                         format="html"
                         scope="external"
                         class="- topic/xref ">www.sam.gov</xref> for establishment of the unique entity identifier directly to obtain one. The Offeror should be prepared to provide the following information:</p>
-               <ol class="- topic/ol " id="d3051e71">
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3068e75" class="- topic/p ">
+					          <ol id="d3051e71" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d3068e75" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
                         
-                        Company legal business name.</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3068e84" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Company legal business name.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3068e84" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
                         
-                        Tradestyle, doing business, or other name by which your entity is commonly recognized.</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3068e93" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Tradestyle, doing business, or other name by which your entity is commonly recognized.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3068e93" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
                         
                         
-                        Company physical street address, city, state and Zip Code.</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3068e102" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Company physical street address, city, state and Zip Code.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3068e102" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
                         
                         
-                        Company mailing address, city, state and Zip Code (if separate from physical).</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3068e111" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Company mailing address, city, state and Zip Code (if separate from physical).</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3068e111" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
                         
                         
                         
                         
                         
-                        Company telephone number.</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3068e121" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Company telephone number.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3068e121" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(6)</ph>
                         
                         
                         
                         
                         
-                        Date the company was started.</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3068e130" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Date the company was started.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3068e130" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(7)</ph>
                         
                         
                         
                         
                         
-                        Number of employees at your location.</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3068e139" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Number of employees at your location.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3068e139" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(8)</ph>
                         
                         
                         
                         
                         
-                        Chief executive officer/key manager.</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3068e148" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Chief executive officer/key manager.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3068e148" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(9)</ph>
                         
                         
                         
                         
                         
-                        Line of business (industry).</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3068e157" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Line of business (industry).</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3068e157" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(10)</ph>
                         
                         
                         
                         
                         
-                        Company headquarters name and address (reporting relationship within your entity).</p>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-         <p otherprops="Body_Endofprovision" class="- topic/p ">(End of provision)</p>
-      </conbody>
-  </concept>
+                        
+                        
+                        
+                        
+                        
+								                Company headquarters name and address (reporting relationship within your entity).</p>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+			      <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
+		    </conbody>
+	  </concept>
 </dita>

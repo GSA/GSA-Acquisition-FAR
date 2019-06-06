@@ -4,17 +4,15 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="id1617MD0D0GI"
-            otherprops="H4_ForH3_1-9"
-            outputclass="H4_ForH3_1-9"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H4ForH3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">31.205-17</ph> Idle facilities and idle capacity costs.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <ol id="d1947e13" class="- topic/ol ">
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1961e17" class="- topic/p ">
+	  <concept id="id1617MD0D0GI"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">31.205-17</ph> Idle facilities and idle capacity costs.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <ol id="d1947e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d1961e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
@@ -22,68 +20,98 @@
                   
                   
                   
-                  <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this subsection-</p>
-               <p id="d1961e26" class="- topic/p ">“Costs of idle facilities or idle capacity” means costs such as maintenance, repair, housing, rent, and other related costs; <i class="+ topic/ph hi-d/i ">e.g.,</i>property taxes, insurance, and depreciation.</p>
-               <p id="d1961e32" class="- topic/p ">“Facilities” means plant or any portion thereof (including land integral to the operation), equipment, individually or collectively, or any other tangible capital asset, wherever located, and whether owned or leased by the contractor.</p>
-               <p id="d1961e35" class="- topic/p ">“Idle capacity” means the unused capacity of partially used facilities. It is the difference between that which a facility could achieve under 100 percent operating time on a one-shift basis, less operating interruptions resulting from time lost for repairs, setups, unsatisfactory materials, and other normal delays, and the extent to which the facility was actually used to meet demands during the accounting period. A multiple-shift basis may be used in the calculation instead of a one-shift basis if it can be shown that this amount of usage could normally be expected for the type of facility involved.</p>
-               <p id="d1961e38" class="- topic/p ">“Idle facilities” means completely unused facilities that are excess to the contractor’s current needs.</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1961e44" class="- topic/p ">
+                  
+                  
+                  
+                  
+						            
+						            <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this subsection-</p>
+					          <p id="d1961e26" class="- topic/p ">“Costs of idle facilities or idle capacity” means costs such as maintenance, repair, housing, rent, and other related costs; <i class="+ topic/ph hi-d/i ">e.g.,</i>property taxes, insurance, and depreciation.</p>
+					          <p id="d1961e32" class="- topic/p ">“Facilities” means plant or any portion thereof (including land integral to the operation), equipment, individually or collectively, or any other tangible capital asset, wherever located, and whether owned or leased by the contractor.</p>
+					          <p id="d1961e35" class="- topic/p ">“Idle capacity” means the unused capacity of partially used facilities. It is the difference between that which a facility could achieve under 100 percent operating time on a one-shift basis, less operating interruptions resulting from time lost for repairs, setups, unsatisfactory materials, and other normal delays, and the extent to which the facility was actually used to meet demands during the accounting period. A multiple-shift basis may be used in the calculation instead of a one-shift basis if it can be shown that this amount of usage could normally be expected for the type of facility involved.</p>
+					          <p id="d1961e38" class="- topic/p ">“Idle facilities” means completely unused facilities that are excess to the contractor’s current needs.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1961e44" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
                   
                   
-                  The costs of idle facilities are unallowable unless the facilities-</p>
-               <ol id="d1947e53" class="- topic/ol ">
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d1961e54" class="- topic/p ">
+                  
+                  
+                  
+                  
+                  
+						            The costs of idle facilities are unallowable unless the facilities-</p>
+					          <ol id="d1947e53" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d1961e54" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
                         
-                        Are necessary to meet fluctuations in workload; or</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d1961e63" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Are necessary to meet fluctuations in workload; or</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d1961e63" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
                         
-                        Were necessary when acquired and are now idle because of changes in requirements, production economies, reorganization, termination, or other causes which could not have been reasonably foreseen. (Costs of idle facilities are allowable for a reasonable period, ordinarily not to exceed 1 year, depending upon the initiative taken to use, lease, or dispose of the idle facilities (but see <xref href="FAR-i1085590.dita#i1085590"
+                        
+                        
+                        
+                        
+                        
+								                Were necessary when acquired and are now idle because of changes in requirements, production economies, reorganization, termination, or other causes which could not have been reasonably foreseen. (Costs of idle facilities are allowable for a reasonable period, ordinarily not to exceed 1 year, depending upon the initiative taken to use, lease, or dispose of the idle facilities (but see <xref href="FAR-i1085590.dita#i1085590"
                               base="i1085590"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">31.205-42</xref>)).</p>
-                  </li>
-               </ol>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1961e77" class="- topic/p ">
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1961e77" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
                   
                   
-                  Costs of idle capacity are costs of doing business and are a factor in the normal fluctuations of usage or overhead rates from period to period. Such costs are allowable provided the capacity is necessary or was originally reasonable and is not subject to reduction or elimination by subletting, renting, or sale, in accordance with sound business, economics, or security practices. Widespread idle capacity throughout an entire plant or among a group of assets having substantially the same function may be idle facilities.</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d1961e86" class="- topic/p ">
+                  
+                  
+                  
+                  
+                  
+						            Costs of idle capacity are costs of doing business and are a factor in the normal fluctuations of usage or overhead rates from period to period. Such costs are allowable provided the capacity is necessary or was originally reasonable and is not subject to reduction or elimination by subletting, renting, or sale, in accordance with sound business, economics, or security practices. Widespread idle capacity throughout an entire plant or among a group of assets having substantially the same function may be idle facilities.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1961e86" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
                   
                   
-                  Any costs to be paid directly by the Government for idle facilities or idle capacity reserved for defense mobilization production shall be the subject of a separate agreement.</p>
-            </li>
-         </ol>
-      </conbody>
-  </concept>
+                  
+                  
+                  
+                  
+                  
+						            Any costs to be paid directly by the Government for idle facilities or idle capacity reserved for defense mobilization production shall be the subject of a separate agreement.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

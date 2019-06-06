@@ -4,26 +4,20 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="i1063094"
-            otherprops="H4_ForH3_10"
-            outputclass="H4_ForH3_10"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H4ForH3_10" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.211-15</ph> Defense Priority and Allocation Requirements.</title>
-      <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p otherprops="Body"
-            outputclass="Body"
-            class="- topic/p "
-            id="d3136e13">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1114002.dita#i1114002"
+	  <concept id="i1063094"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">52.211-15</ph> Defense Priority and Allocation Requirements.</title>
+		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
+			      <p id="d3136e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					          <xref href="FAR-i1114002.dita#i1114002"
                      base="i1114002"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">provision and
-contract clause.</xref>(b)</ph>, insert the following clause:</p>
-         <p otherprops="Ctr_SmCaps" outputclass="Ctr_SmCaps" class="- topic/p ">Defense Priority and Allocation Requirement (Apr 2008)</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">This is a rated order certified for national defense, emergency preparedness, and energy program use, and the Contractor shall follow all the requirements of the Defense Priorities and Allocations System regulation (15 CFR 700).</p>
-         <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
-      </conbody>
-  </concept>
+                     class="- topic/xref ">provision and contract clause.</xref>(b)</ph>, insert the following clause:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Defense Priority and Allocation Requirement (Apr 2008)</p>
+			      <p class="- topic/p ">This is a rated order certified for national defense, emergency preparedness, and energy program use, and the Contractor shall follow all the requirements of the Defense Priorities and Allocations System regulation (15 CFR 700).</p>
+			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

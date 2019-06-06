@@ -4,30 +4,21 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="i1064275"
-            otherprops="H4_ForH3_1-9"
-            outputclass="H4_ForH3_1-9"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-      <title outputclass="H4ForH3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.204-16</ph> Commercial
-and Government Entity Code Reporting.</title>
-      <conbody outputclass="provision" class="- topic/body concept/conbody ">
-         <p otherprops="Body"
-            outputclass="Body"
-            class="- topic/p "
-            id="d3078e13">As
-prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1121289.dita#i1121289"
+	  <concept id="i1064275"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">52.204-16</ph> Commercial and Government Entity Code Reporting.</title>
+		    <conbody outputclass="provision" class="- topic/body concept/conbody ">
+			      <p id="d3078e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					          <xref href="FAR-i1121289.dita#i1121289"
                      base="i1121289"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">4.1804</xref>(a)</ph>, use the following
-provision:</p>
-         <p otherprops="Ctr_SmCaps" outputclass="Ctr_SmCaps" class="- topic/p ">Commercial and Government Entity Code Reporting
-(Jul 2016)</p>
-         <ol id="d3061e25" class="- topic/ol ">
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d3078e29" class="- topic/p ">
+                     class="- topic/xref ">4.1804</xref>(a)</ph>, use the following provision:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Commercial and Government Entity Code Reporting (Jul 2016)</p>
+			      <ol id="d3061e25" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d3078e29" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
@@ -35,85 +26,93 @@ provision:</p>
                   
                   
                   
-                  <i class="+ topic/ph hi-d/i ">Definition.</i> As
-used in this provision –</p>
-               <p id="d3078e38" class="- topic/p ">“Commercial
-and Government Entity (CAGE) code” means–</p>
-               <ol id="d3061e47" class="- topic/ol ">
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3078e45" class="- topic/p ">
+                  
+                  
+                  
+                  
+						            
+						            <i class="+ topic/ph hi-d/i ">Definition.</i> As used in this provision –</p>
+					          <p id="d3078e38" class="- topic/p ">“Commercial and Government Entity (CAGE) code” means–</p>
+					          <ol id="d3061e47" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d3078e45" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
                         
-                         An identifier assigned to entities
-located in the United States or its outlying areas by the Defense
-Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch
-to identify a commercial or government entity; or</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3078e54" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                An identifier assigned to entities located in the United States or its outlying areas by the Defense Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch to identify a commercial or government entity; or</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3078e54" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
                         
-                         An identifier assigned by a member
-of the North Atlantic Treaty Organization (NATO) or by the NATO
-Support and Procurement Agency (NSPA) to entities located outside
-the United States and its outlying areas that the DLA Commercial
-and Government Entity (CAGE) Branch records and maintains in the
-CAGE master file. This type of code is known as a NATO CAGE (NCAGE)
-code.</p>
-                  </li>
-               </ol>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d3078e65" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                An identifier assigned by a member of the North Atlantic Treaty Organization (NATO) or by the NATO Support and Procurement Agency (NSPA) to entities located outside the United States and its outlying areas that the DLA Commercial and Government Entity (CAGE) Branch records and maintains in the CAGE master file. This type of code is known as a NATO CAGE (NCAGE) code.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d3078e65" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
                   
                   
-                   The Offeror shall enter its CAGE
-code in its offer with its name and address or otherwise include
-it prominently in its proposal. The CAGE code entered must be for
-that name and address. Enter “CAGE” before the number. The CAGE code
-is required prior to award.</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d3078e74" class="- topic/p ">
+                  
+                  
+                  
+                  
+                  
+						            The Offeror shall enter its CAGE code in its offer with its name and address or otherwise include it prominently in its proposal. The CAGE code entered must be for that name and address. Enter “CAGE” before the number. The CAGE code is required prior to award.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d3078e74" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
                   
                   
-                   CAGE codes may be obtained via–</p>
-               <ol id="d3061e89" class="- topic/ol ">
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3078e84" class="- topic/p ">
+                  
+                  
+                  
+                  
+                  
+						            CAGE codes may be obtained via–</p>
+					          <ol id="d3061e89" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d3078e84" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
                         
-                         Registration in the System for
-Award Management (SAM) at <xref href="https://www.sam.gov" scope="external" class="- topic/xref ">www.sam.gov</xref>.
-If the Offeror is located in the United States or its outlying areas
-and does not already have a CAGE code assigned, the DLA Commercial
-and Government Entity (CAGE) Branch will assign a CAGE code as a
-part of the SAM registration process. SAM registrants located outside
-the United States and its outlying areas shall obtain a NCAGE code
-prior to registration in SAM (see paragraph (c)(3) of this provision).</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3078e96" class="- topic/p ">
+                        
+                        
+                        
+                        
+                        
+								                Registration in the System for Award Management (SAM) at <xref href="https://www.sam.gov" scope="external" class="- topic/xref ">www.sam.gov</xref>. If the Offeror is located in the United States or its outlying areas and does not already have a CAGE code assigned, the DLA Commercial and Government Entity (CAGE) Branch will assign a CAGE code as a part of the SAM registration process. SAM registrants located outside the United States and its outlying areas shall obtain a NCAGE code prior to registration in SAM (see paragraph (c)(3) of this provision).</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3078e96" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
@@ -121,81 +120,87 @@ prior to registration in SAM (see paragraph (c)(3) of this provision).</p>
                         
                         
                         
-                        <i class="+ topic/ph hi-d/i ">The
-DLA Contractor and Government Entity (CAGE) Branch.</i> If registration
-in SAM is not required for the subject procurement, and the offeror
-does not otherwise register in SAM, an offeror located in the United
-States or its outlying areas may request that a CAGE code be assigned
-by submitting a request at <xref href="https://cage.dla.mil" scope="external" class="- topic/xref ">https://cage.dla.mil</xref>.</p>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d3078e111" class="- topic/p ">
+                        
+                        
+                        
+                        
+								                
+								                <i class="+ topic/ph hi-d/i ">The DLA Contractor and Government Entity (CAGE) Branch.</i> If registration in SAM is not required for the subject procurement, and the offeror does not otherwise register in SAM, an offeror located in the United States or its outlying areas may request that a CAGE code be assigned by submitting a request at <xref href="https://cage.dla.mil" scope="external" class="- topic/xref ">https://cage.dla.mil</xref>.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d3078e111" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
                         
                         
-                         The appropriate country codification
-bureau. Entities located outside the United States and its outlying
-areas may obtain an NCAGE code by contacting the Codification Bureau
-in the foreign entity's country if that country is a member of NATO
-or a sponsored nation. NCAGE codes may be obtained from the NSPA
-at <xref href="https://eportal.nspa.nato.int/AC135Public/scage/CageList.aspx"
+                        
+                        
+                        
+                        
+                        
+								                The appropriate country codification bureau. Entities located outside the United States and its outlying areas may obtain an NCAGE code by contacting the Codification Bureau in the foreign entity's country if that country is a member of NATO or a sponsored nation. NCAGE codes may be obtained from the NSPA at <xref href="https://eportal.nspa.nato.int/AC135Public/scage/CageList.aspx"
                               scope="external"
-                              class="- topic/xref ">https://eportal.nspa.nato.int/AC135Public/scage/CageList.aspx</xref> if
-the foreign entity’s country is not a member of NATO or a sponsored
-nation. Points of contact for codification bureaus, as well as additional
-information on obtaining NCAGE codes, are available at <xref href="http://www.nato.int/structur/AC/135/main/links/contacts.htm"
+                              class="- topic/xref ">https://eportal.nspa.nato.int/AC135Public/scage/CageList.aspx</xref> if the foreign entity’s country is not a member of NATO or a sponsored nation. Points of contact for codification bureaus, as well as additional information on obtaining NCAGE codes, are available at <xref href="http://www.nato.int/structur/AC/135/main/links/contacts.htm"
                               scope="external"
                               class="- topic/xref ">http://www.nato.int/structur/AC/135/main/links/contacts.htm</xref>.</p>
-                  </li>
-               </ol>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d3078e128" class="- topic/p ">
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d3078e128" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
                   
                   
-                   Additional guidance for establishing
-and maintaining CAGE codes is available at <xref href="https://cage.dla.mil" scope="external" class="- topic/xref ">https://cage.dla.mil</xref>.</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d3078e140" class="- topic/p ">
+                  
+                  
+                  
+                  
+                  
+						            Additional guidance for establishing and maintaining CAGE codes is available at <xref href="https://cage.dla.mil" scope="external" class="- topic/xref ">https://cage.dla.mil</xref>.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d3078e140" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   
                   
                   
                   
                   
-                   When a CAGE Code is required
-for the immediate owner and/or the highest-level owner by <xref href="FAR-i1064305.dita#i1064305"
+                  
+                  
+                  
+                  
+                  
+						            When a CAGE Code is required for the immediate owner and/or the highest-level owner by <xref href="FAR-i1064305.dita#i1064305"
                         base="i1064305"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.204-17</xref> or <xref href="FAR-i1060550.dita#i1060550"
                         base="i1060550"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">52.212-3</xref>(p),
-the Offeror shall obtain the respective CAGE Code from that entity
-to supply the CAGE Code to the Government.</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d3078e156" class="- topic/p ">
+                        class="- topic/xref ">52.212-3</xref>(p), the Offeror shall obtain the respective CAGE Code from that entity to supply the CAGE Code to the Government.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d3078e156" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   
                   
                   
                   
                   
-                   Do not delay submission of the
-offer pending receipt of a CAGE code.</p>
-            </li>
-         </ol>
-         <p otherprops="Body_Endofprovision" class="- topic/p ">(End
-of provision)</p>
-      </conbody>
-   </concept>
+                  
+                  
+                  
+                  
+                  
+						            Do not delay submission of the offer pending receipt of a CAGE code.</p>
+				        </li>
+			      </ol>
+			      <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
+		    </conbody>
+	  </concept>
 </dita>

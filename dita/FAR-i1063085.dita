@@ -4,26 +4,20 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
       ditaarch:DITAArchVersion="1.3">
-  <concept id="i1063085"
-            otherprops="H4_ForH3_10"
-            outputclass="H4_ForH3_10"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title outputclass="H4ForH3_10" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.211-14</ph> Notice of Priority Rating for National Defense, Emergency Preparedness, and Energy Program Use.</title>
-      <conbody outputclass="provision" class="- topic/body concept/conbody ">
-         <p otherprops="Body"
-            outputclass="Body"
-            class="- topic/p "
-            id="d3135e13">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1114002.dita#i1114002"
+	  <concept id="i1063085"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">52.211-14</ph> Notice of Priority Rating for National Defense, Emergency Preparedness, and Energy Program Use.</title>
+		    <conbody outputclass="provision" class="- topic/body concept/conbody ">
+			      <p id="d3135e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					          <xref href="FAR-i1114002.dita#i1114002"
                      base="i1114002"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">provision and
-contract clause.</xref>(a)</ph>, insert the following provision:</p>
-         <p otherprops="Ctr_SmCaps" outputclass="Ctr_SmCaps" class="- topic/p ">Notice of Priority Rating for National Defense, Emergency Preparedness, and Energy Program Use (Apr 2008)</p>
-         <p otherprops="Body" outputclass="Body" class="- topic/p ">Any contract awarded as a result of this solicitation will be □DX rated order; □DO rated order certified for national defense, emergency preparedness, and energy program use under the Defense Priorities and Allocations System (DPAS) (15 CFR700), and the Contractor will be required to follow all of the requirements of this regulation. [<i class="+ topic/ph hi-d/i ">Contracting Officer check appropriate box</i>.]</p>
-         <p otherprops="Body_Endofprovision" class="- topic/p ">(End of provision)</p>
-      </conbody>
-  </concept>
+                     class="- topic/xref ">provision and contract clause.</xref>(a)</ph>, insert the following provision:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Notice of Priority Rating for National Defense, Emergency Preparedness, and Energy Program Use (Apr 2008)</p>
+			      <p class="- topic/p ">Any contract awarded as a result of this solicitation will be □DX rated order; □DO rated order certified for national defense, emergency preparedness, and energy program use under the Defense Priorities and Allocations System (DPAS) (15 CFR700), and the Contractor will be required to follow all of the requirements of this regulation. [<i class="+ topic/ph hi-d/i ">Contracting Officer check appropriate box</i>.]</p>
+			      <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
+		    </conbody>
+	  </concept>
 </dita>

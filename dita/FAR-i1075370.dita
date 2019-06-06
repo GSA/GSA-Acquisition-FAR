@@ -1,64 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="i1075370"
-            otherprops="H4_ForH3_1-9"
-            outputclass="H4_ForH3_1-9"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-      <title outputclass="H4ForH3_1_9" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">42.709-1</ph> General.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <ol class="- topic/ol ">
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d2520e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The following penalties apply
-to contracts covered by this section:</p>
-               <ol class="- topic/ol ">
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d2520e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> If the indirect cost is expressly
-unallowable under a cost principle in the FAR, or an executive agency
-supplement to the FAR, that defines the allowability of specific
-selected costs, the penalty is equal to-</p>
-                     <ol class="- topic/ol ">
-                        <li otherprops="i_ii_iii" outputclass="H7_i_ii_iii" class="- topic/li ">
-                           <p id="d2520e37" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The amount
-of the disallowed costs allocated to contracts that are subject
-to this section for which an indirect cost proposal has been submitted;
-plus</p>
-                        </li>
-                        <li otherprops="i_ii_iii" outputclass="H7_i_ii_iii" class="- topic/li ">
-                           <p id="d2520e46" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Interest
-on the paid portion, if any, of the disallowance.</p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-                     <p id="d2520e57" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> If the indirect cost was determined
-to be unallowable for that contractor before proposal submission,
-the penalty is two times the amount in paragraph(a)(1)(i) of this
-section.</p>
-                  </li>
-               </ol>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d2520e68" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> These penalties are in addition
-to other administrative, civil, and criminal penalties provided
-by law.</p>
-            </li>
-            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-               <p id="d2520e77" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> It is not necessary for unallowable
-costs to have been paid to the contractor in order to assess a penalty.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+<dita>
+	  <concept id="i1075370">
+		    <title class="- topic/title ">
+			      <ph props="autonumber">42.709-2</ph> General.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li>
+					          <p id="d2520e17">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+						             The following penalties apply to contracts covered by this section:</p>
+					          <ol class="- topic/ol ">
+						            <li>
+							              <p id="d2520e27">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+								                 If the indirect cost is expressly unallowable under a cost principle in the FAR, or an executive agency supplement to the FAR, that defines the allowability of specific selected costs, the penalty is equal to-</p>
+							              <ol class="- topic/ol ">
+								                <li>
+									                  <p id="d2520e37">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+										                     The amount of the disallowed costs allocated to contracts that are subject to this section for which an indirect cost proposal has been submitted; plus</p>
+								                </li>
+								                <li>
+									                  <p id="d2520e46">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+										                     Interest on the paid portion, if any, of the disallowance.</p>
+								                </li>
+							              </ol>
+						            </li>
+						            <li>
+							              <p id="d2520e57">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+								                 If the indirect cost was determined to be unallowable for that contractor before proposal submission, the penalty is two times the amount in paragraph(a)(1)(i) of this section.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li>
+					          <p id="d2520e68">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+						             These penalties are in addition to other administrative, civil, and criminal penalties provided by law.</p>
+				        </li>
+				        <li>
+					          <p id="d2520e77">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+						             It is not necessary for unallowable costs to have been paid to the contractor in order to assess a penalty.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>
