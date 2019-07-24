@@ -7,90 +7,68 @@
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">List of Sections Affected</title>
-      <topic id="id197BB0P50GG"
-             ditaarch:DITAArchVersion="1.2"
-             class="- topic/topic ">
-         <title class="- topic/title ">FAC 2019-03</title>
-         <body class="- topic/body ">
-            <table frame="all"
-                   colsep="1"
-                   rowsep="1"
-                   otherprops="LSA"
-                   class="- topic/table ">
-               <tgroup cols="4"
-                       colsep="1"
-                       rowsep="1"
-                       outputclass="Title_rule"
-                       class="- topic/tgroup ">
-                  <colspec colnum="1" colname="1" colwidth="16*" class="- topic/colspec "/>
-                  <colspec colnum="2" colname="2" colwidth="52*" class="- topic/colspec "/>
-                  <colspec colnum="3" colname="3" colwidth="18*" class="- topic/colspec "/>
-                  <colspec colnum="4" colname="4" colwidth="14*" class="- topic/colspec "/>
-                  <thead class="- topic/thead ">
-                     <row rowsep="1" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry ">Section</entry>
-                        <entry colname="2" class="- topic/entry ">Description of Change</entry>
-                        <entry colname="3" class="- topic/entry ">Case Number</entry>
-                        <entry colname="4" class="- topic/entry ">Effective Date</entry>
-                     </row>
-                  </thead>
-                  <tbody class="- topic/tbody ">
-                     <row rowsep="1" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry "> 
-                           <xref href="FAR-i1108601.dita#i1108601/d909e27"
-                                 outputclass="fm:subautonumber"
-                                 class="- topic/xref ">15.305(a)(1)</xref>
-                        </entry>
-                        <entry colname="2" class="- topic/entry ">
-                           <p class="- topic/p ">Amend section 15.305 by revising the third
-sentence of paragraph (a)(1).</p>
-                        </entry>
-                        <entry colname="3" class="- topic/entry ">
-                           <p class="- topic/p ">FAR Case 2017-006</p>
-                        </entry>
-                        <entry colname="4" class="- topic/entry ">
-                           <p class="- topic/p ">July 12, 2019</p>
-                        </entry>
-                     </row>
-                     <row rowsep="1" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry "> 
-                           <xref href="FAR-i1105936.dita#i1105936/d918e99"
-                                 outputclass="fm:subautonumber"
-                                 class="- topic/xref ">15.403-1(c)(1)</xref>
-                        </entry>
-                        <entry colname="2" class="- topic/entry ">
-                           <p class="- topic/p ">Amend section 15.403-1 by revising paragraph
-(c)(1).</p>
-                        </entry>
-                        <entry colname="3" class="- topic/entry ">
-                           <p class="- topic/p ">FAR Case 2017-006</p>
-                        </entry>
-                        <entry colname="4" class="- topic/entry ">
-                           <p class="- topic/p ">July 12, 2019</p>
-                        </entry>
-                     </row>
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry "> 
-                           <xref href="FAR-i1106135.dita#i1106135/d924e134"
-                                 outputclass="fm:subautonumber"
-                                 class="- topic/xref ">15.404-1(b)(2)(i)</xref>
-                        </entry>
-                        <entry colname="2" class="- topic/entry ">
-                           <p class="- topic/p ">Amend section 15.404-1 by removing from
-paragraph (b)(2)(i) “(see 15.403-1(c)(1)(i))” and adding “(see 15.403-1(c)(1))”
-in its place.</p>
-                        </entry>
-                        <entry colname="3" class="- topic/entry ">
-                           <p class="- topic/p ">FAR Case 2017-006</p>
-                        </entry>
-                        <entry colname="4" class="- topic/entry ">
-                           <p class="- topic/p ">July 12, 2019</p>
-                        </entry>
-                     </row>
-                  </tbody>
-               </tgroup>
-            </table>
-         </body>
-      </topic>
+      <conbody class="- topic/body  concept/conbody ">
+         <table frame="all"
+                colsep="1"
+                rowsep="1"
+                otherprops="LSA"
+                class="- topic/table ">
+            <title class="- topic/title ">FAC 2019-04</title>
+            <tgroup cols="4"
+                    colsep="1"
+                    rowsep="1"
+                    outputclass="Title_rule"
+                    class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="15*" class="- topic/colspec "/>
+               <colspec colnum="2" colname="2" colwidth="41*" class="- topic/colspec "/>
+               <colspec colnum="3" colname="3" colwidth="21*" class="- topic/colspec "/>
+               <colspec colnum="4" colname="4" colwidth="23*" class="- topic/colspec "/>
+               <thead class="- topic/thead ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">Section</entry>
+                     <entry colname="2" class="- topic/entry ">Description of Change</entry>
+                     <entry colname="3" class="- topic/entry ">Case Number</entry>
+                     <entry colname="4" class="- topic/entry ">Effective Date</entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1126786.dita#i1126786/d29e69"
+                              outputclass="fm:subautonumber"
+                              class="- topic/xref ">1.201-1(b)(1)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 1.201-1 by revising paragraph (b)(1).</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Technical Amendment</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">August 5, 2019</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1047296.dita#i1047296"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.246-21</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.246-21 by removing from
+the date of the clause “(Apr 1984)” and adding “(Mar 1994)” in its
+place.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Technical Amendment</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">August 5, 2019</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
    </concept>
 </dita>
