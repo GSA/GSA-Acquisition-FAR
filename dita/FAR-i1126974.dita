@@ -202,10 +202,10 @@ Control Number</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry "> 
-                        <xref outputclass="fm:ParaNumOnly"
-                              class="- topic/xref "
+                        <xref href="FAR-Subpart-4.21.dita#id19899A00RSK"
                               base="id19899A00RSK"
-                              href="FAR-Subpart-4.21.dita#id19899A00RSK">4.21</xref>
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">4.21</xref>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p rev="FAC 2019-05 August 13, 2019"
@@ -635,7 +635,7 @@ and 9000-0007</entry>
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">27.3</xref>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">  
                         <p outputclass="Ctr" class="- topic/p ">9000-0095</p>
                      </entry>
                   </row>
@@ -1283,7 +1283,7 @@ and 9000-0007</entry>
                         <xref href="FAR-i1064305.dita#i1064305"
                               base="i1064305"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">52.204-17</xref>  
+                              class="- topic/xref ">52.204-17</xref>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">9000-0185</p>
@@ -1330,13 +1330,15 @@ and 9000-0007</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry "> 
-                        <xref outputclass="fm:ParaNumOnly"
-                              class="- topic/xref "
-                              base="id1989I600I4C"
-                              href="FAR-52.204-24.dita#id1989I600I4C">52.204-24</xref>
+                        <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph ">
+                           <xref href="FAR-52.204-24.dita#id1989I600I4C"
+                                 base="id1989I600I4C"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">52.204-24</xref>
+                        </ph>
                      </entry>
                      <entry colname="2" align="center" class="- topic/entry ">
-                        <p rev="FAC 2019-05 August 13, 2019" class="- topic/p ">9000-0199</p>
+                        <p class="- topic/p ">9000-0199</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -1344,13 +1346,14 @@ and 9000-0007</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry "> 
-                        <xref outputclass="fm:ParaNumOnly"
-                              class="- topic/xref "
+                        <xref href="FAR-52.204-25.dita#id1989I600I4C"
                               base="id1989I600I4C"
-                              href="FAR-52.204-25.dita#id1989I600I4C">52.204-25</xref>
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">
+                           <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph ">52.204-25</ph>52.204-25</xref>
                      </entry>
                      <entry colname="2" align="center" class="- topic/entry ">
-                        <p rev="FAC 2019-05 August 13, 2019" class="- topic/p ">9000-0199</p>
+                        <p class="- topic/p ">9000-0199</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2711,7 +2714,7 @@ and 1250-0008</entry>
                      <entry colname="1"
                             align="left"
                             outputclass="CellBody_Left"
-                            class="- topic/entry "> 
+                            class="- topic/entry ">  
                         <xref href="FAR-i1054633.dita#i1054633"
                               base="i1054633"
                               outputclass="fm:ParaNumOnly"
@@ -2975,7 +2978,7 @@ and 1250-0008</entry>
                         <xref href="FAR-i1051265.dita#i1051265"
                               base="i1051265"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">52.228-12</xref>  
+                              class="- topic/xref ">52.228-12</xref>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">9000-0135</p>
@@ -3355,7 +3358,7 @@ and 1250-0008</entry>
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.232-30</xref>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">  
                         <p outputclass="Ctr" class="- topic/p ">9000-0138</p>
                      </entry>
                   </row>
@@ -4660,7 +4663,7 @@ and 1250-0008</entry>
                               scope="external"
                               class="- topic/xref ">SF1435</xref>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">  
+                     <entry colname="2" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">9000-0012</p>
                      </entry>
                   </row>
