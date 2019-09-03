@@ -6,9 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1111870"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title rev="FAC 2019-05 August 13, 2019" class="- topic/title ">
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">13.201</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol id="d739e13" class="- topic/ol ">
@@ -16,12 +15,12 @@
                <p id="d760e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
-                  <?FM MARKER [CaseNumber] FAR Case 2018-017?>
-                  <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-017?>Agency
+                  
+                  <ph class="- topic/ph ">Agency
 heads are encouraged to delegate micro-purchase authority (see <xref href="FAR-i1126501.dita#i1126501"
                            base="i1126501"
                            outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">1.603-3</xref>).<?FM MARKER [Why] Amend section 13.201 by revising the heading and paragraph (a), and adding paragraph (j).?></ph> 
+                           class="- topic/xref ">1.603-3</xref>).</ph> 
                </p>
             </li>
             <li class="- topic/li ">
@@ -168,12 +167,12 @@ by Kaspersky Lab that the Government will use on or after October
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">4.2002</xref>)</p>
             </li>
-            <li rev="FAC 2019-05 August 13, 2019" class="- topic/li ">
+            <li class="- topic/li ">
                <p id="d760e193" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(j)</ph>
                   
-                  <?FM MARKER [CaseNumber] FAR Case 2018-017?>
-                  <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-017?>On
+                  
+                  <ph class="- topic/ph ">On
 or after August 13, 2019, do not procure or obtain, or extend or
 renew a contract to procure or obtain, any equipment, system, or
 service that uses covered telecommunications equipment or services
@@ -182,8 +181,8 @@ technology as part of any system, unless an exception applies or
 a waiver is granted. (See subpart <xref href="FAR-Subpart-4.21.dita#id19899A00RSK"
                            base="id19899A00RSK"
                            outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">4.21</xref>.)<?FM MARKER [Why] and adding paragraph (j).?></ph>
-                  <?FM MARKER [Why] Fillin?>
+                           class="- topic/xref ">4.21</xref>.)</ph>
+                  
                </p>
             </li>
          </ol>

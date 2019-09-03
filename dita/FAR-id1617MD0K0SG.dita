@@ -6,8 +6,7 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="id1617MD0K0SG"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">39.101</ph> Policy.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -122,8 +121,8 @@ use on or after October 1, 2018. (See <xref href="FAR-4.2002.dita#id1897F0GH008"
                <p id="d2435e138" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   
-                  <?FM MARKER [CaseNumber] FAR Case 2018-017?>
-                  <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-017?>On or after August 13, 2019,
+                  
+                  <ph class="- topic/ph ">On or after August 13, 2019,
 contracting officers shall not procure or obtain, or extend or renew
 a contract to procure or obtain, any equipment, system, or service
 that uses covered telecommunications equipment or services as a
@@ -132,8 +131,8 @@ technology as part of any system on or after August 13, 2019, unless an
 exception applies or a waiver is granted. (See subpart <xref href="FAR-Subpart-4.21.dita#id19899A00RSK"
                            base="id19899A00RSK"
                            outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">4.21</xref>.)<?FM MARKER [Why] Amend section 39.101 by adding paragraph (f).?></ph> 
-                  <?FM MARKER [Why] Amend section 39.101 by adding paragraph (f).?>
+                           class="- topic/xref ">4.21</xref>.)</ph> 
+                  
                </p>
             </li>
          </ol>

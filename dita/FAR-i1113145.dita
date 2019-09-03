@@ -6,8 +6,7 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1113145"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">12.301</ph> Solicitation provisions
 and contract clauses for the acquisition of commercial items.</title>
@@ -306,11 +305,11 @@ as prescribed in <xref href="FAR-i4_1903.dita#i4_1903"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">4.1903</xref>.</p>
                   </li>
-                  <li rev="FAC 2019-05 August 13, 2019" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p id="d720e372" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        <?FM MARKER [CaseNumber] FAR Case 2018-017?>
-                        <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-017?>Insert
+                        
+                        <ph class="- topic/ph ">Insert
 the provision at <xref href="FAR-52.204-24.dita#id1989I600I4C"
                                  base="id1989I600I4C"
                                  outputclass="fm:ParaNumOnly"
@@ -318,13 +317,13 @@ the provision at <xref href="FAR-52.204-24.dita#id1989I600I4C"
 Representation Regarding Certain Telecommunications and Video Surveillance Services
 or Equipment, as prescribed in <xref href="FAR-4.2105.dita#id1989H0G40RF"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">4.2105</xref>(a).<?FM MARKER [Why] Amend section 12.301 by redesignating paragraphs (d)(6) through (d)(11) as (d)(7) through (d)(12), respectively, and adding a new paragraph (d)(6).?></ph>
+                                 class="- topic/xref ">4.2105</xref>(a).</ph>
                      </p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d720e394" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph ">Insert</ph> the provision
+                        <ph class="- topic/ph ">Insert</ph> the provision
 at <xref href="FAR-CEHFHCGHG5.dita#CEHFHCGHG5"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.207-6</xref>, Solicitation
@@ -336,7 +335,7 @@ or Joint Ventures (Multiple-Award Contracts), as prescribed at <xref href="FAR-C
                   <li class="- topic/li ">
                      <p id="d720e412" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph ">Insert</ph> the provision
+                        <ph class="- topic/ph ">Insert</ph> the provision
 at <xref href="FAR-i1062621.dita#i1062621"
                               base="i1062621"
                               outputclass="fm:ParaNumOnly"
@@ -349,7 +348,7 @@ Regarding Responsibility Matters, as prescribed in <xref href="FAR-i1116212.dita
                   <li class="- topic/li ">
                      <p id="d720e430" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(9)</ph>
-                        <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph ">Insert</ph> the provision
+                        <ph class="- topic/ph ">Insert</ph> the provision
 at <xref href="FAR-52.209-12.dita#id186IE0DE0Y4"
                               base="id186IE0DE0Y4"
                               outputclass="fm:ParaNumOnly"
@@ -374,7 +373,7 @@ in solicitations as prescribed at <xref href="FAR-i1095677.dita#i1095677"
                   <li class="- topic/li ">
                      <p id="d720e463" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(11)</ph>
-                        <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph ">Insert</ph> the clause at <xref href="FAR-i1054312.dita#i1054312"
+                        <ph class="- topic/ph ">Insert</ph> the clause at <xref href="FAR-i1054312.dita#i1054312"
                               base="i1054312"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.225-19</xref>, Contractor
@@ -387,7 +386,7 @@ or Consular Mission outside the United States, as prescribed in <xref href="FAR-
                   <li class="- topic/li ">
                      <p id="d720e482" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(12)</ph>
-                        <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph ">Insert</ph> the clause at <xref href="FAR-i1050853.dita#i1050853"
+                        <ph class="- topic/ph ">Insert</ph> the clause at <xref href="FAR-i1050853.dita#i1050853"
                               base="i1050853"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.232-40</xref>, Providing Accelerated

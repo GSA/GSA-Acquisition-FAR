@@ -7,8 +7,7 @@
    <concept id="i1126974"
             props="2Col"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">1.106</ph> OMB approval under the
 Paperwork Reduction Act.</title>
@@ -212,9 +211,7 @@ Control Number</entry>
                               class="- topic/xref ">4.21</xref>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p rev="FAC 2019-05 August 13, 2019"
-                           outputclass="Ctr"
-                           class="- topic/p "><?FM MARKER [CaseNumber] FAR Case 2018-017?>9000-0199<?FM MARKER [Why] In section 1.106 amend the table by adding in numerical sequence the entries “4.21”, “52.204-24” and “52.204-25”.?></p>
+                        <p outputclass="Ctr" class="- topic/p ">9000-0199</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -1334,7 +1331,7 @@ and 9000-0007</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry "> 
-                        <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph ">
+                        <ph class="- topic/ph ">
                            <xref href="FAR-52.204-24.dita#id1989I600I4C"
                                  base="id1989I600I4C"
                                  outputclass="fm:ParaNumOnly"
@@ -1350,7 +1347,7 @@ and 9000-0007</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry "> 
-                        <ph rev="FAC 2019-05 August 13, 2019" class="- topic/ph ">
+                        <ph class="- topic/ph ">
                            <xref href="FAR-52.204-25.dita#id1989I600I4C"
                                  base="id1989I600I4C"
                                  outputclass="fm:ParaNumOnly"
