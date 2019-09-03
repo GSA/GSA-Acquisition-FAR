@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1103156"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">17.208</ph> Solicitation provisions and contract clauses.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -330,6 +331,7 @@
 					          </ol>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42231, Sept. 19, 1983, as amended at 53 FR 17858, May 18, 1988; 54 FR 5055, Jan. 31, 1989; 54 FR 29281, July 11, 1989; 55 FR 38516, Sept. 18, 1990; 60 FR 42656, Aug. 16, 1995; 64 FR 51843, Sept. 24, 1999; 82 FR 4714, Jan. 13, 2017]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

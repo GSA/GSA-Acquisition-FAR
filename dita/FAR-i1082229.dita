@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1082229"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">32.503-6</ph> Suspension or reduction of payments.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -1092,6 +1093,7 @@
 					          </tbody>
 				        </tgroup>
 			      </table>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42328, Sept. 19, 1983, as amended at 52 FR 30077, Aug. 12, 1987; 54 FR 5056, Jan. 31, 1989; 54 FR 48989, Nov. 28, 1989; 64 FR 72451, Dec. 27, 1999; 65 FR 16280, Mar. 27, 2000; 74 FR 28431, June 15, 2009]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

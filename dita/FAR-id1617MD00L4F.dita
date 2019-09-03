@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD00L4F"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">5.303</ph> Announcement of contract awards.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -157,6 +158,7 @@
 					          </ol>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42119, Sept. 19, 1983, as amended at 50 FR 1729, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 52 FR 30076, Aug. 12, 1987; 55 FR 3881, Feb. 5, 1990; 56 FR 67128, Dec. 27, 1991; 59 FR 67017, Dec. 28, 1994; 60 FR 34747, July 3, 1995; 60 FR 42653, Aug. 16, 1995; 61 FR 39190, July 26, 1996; 61 FR 69289, Dec. 31, 1996; 62 FR 51270, Sept. 30, 1997; 68 FR 28080, May 22, 2003; 71 FR 57365, Sept. 28, 2006; 75 FR 53132, Aug. 30, 2010]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

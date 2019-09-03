@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1047486"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.245-1</ph> Government Property.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -3230,7 +3231,8 @@
                      class="- topic/xref ">42 U.S.C. 2000d</xref>. Before title is vested and by signing this contract, the Contractor accepts and agrees that-</p>
 				        <p class="- topic/p " outputclass="List1">“No person in the United States or its outlying areas shall, on the ground of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under this contemplated financial assistance (title to property).”</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[72 FR 27390, May 15, 2007, as amended at 72 FR 46363, Aug. 17, 2007; 75 FR 38681, July 2, 2010; 77 FR 12944, Mar. 2, 2012; 82 FR 4715, Jan. 13, 2017]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

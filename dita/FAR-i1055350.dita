@@ -6,7 +6,8 @@
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
 	  <concept id="i1055350"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.222-4</ph> Contract Work Hours and Safety Standards -Overtime Compensation.</title>
 		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
@@ -168,6 +169,7 @@
 				        </li>
 			      </ol>
 			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[65 FR 46067, July 26, 2000, as amended at 70 FR 33667, June 8, 2005; 79 FR 24217, Apr. 29, 2014; 83 FR 19149, May 1, 2018]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

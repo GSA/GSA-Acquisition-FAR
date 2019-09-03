@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1085654"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">31.205-46</ph> Travel costs.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -450,6 +452,7 @@ stated in <xref href="FAR-i1084735.dita#i1084735"
                         class="- topic/xref ">31.205-6</xref>(m)(2).</p>
             </li>
          </ol>
+         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42301, Sept. 19, 1983, as amended at 51 FR 12301, Apr. 9, 1986; 51 FR 27489, July 31, 1986; 51 FR 36972, Oct. 16, 1986; 56 FR 41739, Aug. 22, 1991; 57 FR 20377, May 12, 1992; 61 FR 31657, June 20, 1996; 62 FR 40237, July 25, 1997; 62 FR 64933, Dec. 9, 1997; 68 FR 28083, May 22, 2003; 68 FR 56688, Oct. 1, 2003; 74 FR 65614, Dec. 10, 2009; 84 FR 19847, May 6, 2019]</msgblock>
       </conbody>
    </concept>
 </dita>

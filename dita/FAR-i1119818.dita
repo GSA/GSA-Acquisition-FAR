@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1119818"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">6.304</ph> Approval of the justification.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -201,6 +203,7 @@ dollar value of all options shall be included in determining the
 approval level of a justification.</p>
             </li>
          </ol>
+         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[50 FR 1729, Jan. 11, 1985, as amended at 50 FR 52433, Dec. 23, 1985; 54 FR 13023, Mar. 29, 1989; 55 FR 3881, Feb. 5, 1990; 55 FR 52790, Dec. 21, 1990; 60 FR 42654, 42665, Aug. 16, 1995; 61 FR 31618, June 20, 1996; 65 FR 24325, Apr. 25, 2000; 70 FR 11739, Mar. 9, 2005; 71 FR 57366, Sept. 28, 2006; 75 FR 53132, Aug. 30, 2010; 76 FR 14562, Mar. 16, 2011; 79 FR 24198, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 84 FR 19843, May 6, 2019]</msgblock>
       </conbody>
    </concept>
 </dita>

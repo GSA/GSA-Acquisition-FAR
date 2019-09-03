@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1101252"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">19.306</ph> Protesting a firm’s status as a HUBZone small business concern.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -1206,6 +1207,7 @@
 						            The AA/GC&amp;BD will make its decision within 5 business days of the receipt of the appeal, if practicable, and will base its decision only on the information and documentation in the protest record as supplemented by the appeal. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested HUBZone small business concern. The SBA decision, if received before award, will apply to the pending acquisition. SBA rulings received after award will not apply to that acquisition. The AA/GC&amp;BD’s decision is the final decision.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[63 FR 70269, Dec. 18, 1998, as amended at 64 FR 51831, Sept. 24, 1999; 75 FR 77729, Dec. 13, 2010; 79 FR 43584, July 25, 2014]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

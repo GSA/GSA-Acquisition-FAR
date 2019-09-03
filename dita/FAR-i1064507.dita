@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1064507"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.101</ph> Using Part 52.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -662,6 +663,7 @@
 						            <i class="+ topic/ph hi-d/i ">Dates</i>. Since they are subject to revision from time to time, all provisions, clauses, and alternates are dated; <i class="+ topic/ph hi-d/i ">e.g.,</i>(<term class="- topic/term ">Dec </term>1983). To avoid questions concerning which version of any provision, clause, or alternate is operative in any given solicitation or contract, its date shall be included whether it is incorporated by reference or in full text.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983; 48 FR 43273, Sept. 22, 1983, as amended at 55 FR 3887, Feb. 5, 1990; 62 FR 40237, July 25, 1997; 62 FR 64927, Dec. 9, 1997; 65 FR 36016, June 6, 2000; 66 FR 2134, Jan. 10, 2001]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

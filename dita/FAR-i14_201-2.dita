@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i14_201-2"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">14.201-2</ph> Part I—The Schedule.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -405,6 +406,7 @@
 						            <i class="+ topic/ph hi-d/i ">Section H, Special contract requirements</i>. Include a clear statement of any special contract requirements that are not included in Section I, Contract clauses, or in other sections of the uniform contract format.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42171, Sept. 19, 1983, as amended at 50 FR 1737, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 51 FR 27119, July 29, 1986; 54 FR 48982, Nov. 28, 1989; 55 FR 38516, Sept. 18, 1990; 60 FR 48248, Sept. 18, 1995; 82 FR 4713, Jan. 13, 2017; 83 FR 42572, Aug. 22, 2018]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

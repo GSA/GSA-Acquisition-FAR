@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1068020"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">49.402-3</ph> Procedure for default.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -582,6 +583,7 @@
 						            If the contracting officer has not been able to determine, before issuance of the notice of termination whether the contractor’s failure to perform is excusable, the contracting officer shall make a written decision on that point as soon as practicable after issuance of the notice of termination. The decision shall be delivered promptly to the contractor with a notification that the contractor has the right to appeal as specified in the Disputes clause.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42447, Sept. 19, 1983, as amended at 54 FR 48990, Nov. 28, 1989]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

@@ -1,219 +1,302 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="i1073266">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="i1073266"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 45</ph> - Government Property</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0D0QD.dita#id1617MA0D0QD">45.000 Scope of part.</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0D0QD.dita#id1617MA0D0QD"
+                        class="- topic/xref ">45.000 Scope of part.</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0D0BA.dita#id1617MA0D0BA">Subpart 45.1 - General</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0D0BA.dita#id1617MA0D0BA"
+                        class="- topic/xref ">Subpart 45.1 - General</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1073110.dita#i1073110">45.101 Definitions.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1073110.dita#i1073110"
+                              class="- topic/xref ">45.101 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1073148.dita#i1073148">45.102 Policy.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1073148.dita#i1073148"
+                              class="- topic/xref ">45.102 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0MP.dita#id1617MD0M0MP">45.103 General.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0MP.dita#id1617MD0M0MP"
+                              class="- topic/xref ">45.103 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1073171.dita#i1073171">45.104 Responsibility and liability for Government property.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1073171.dita#i1073171"
+                              class="- topic/xref ">45.104 Responsibility and liability for Government property.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0NG.dita#id1617MD0M0NG">45.105 Contractors’ property management system compliance.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0NG.dita#id1617MD0M0NG"
+                              class="- topic/xref ">45.105 Contractors’ property management system compliance.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0TC.dita#id1617MD0M0TC">45.106 Transferring accountability.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0TC.dita#id1617MD0M0TC"
+                              class="- topic/xref ">45.106 Transferring accountability.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1073200.dita#i1073200">45.107 Contract clauses.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1073200.dita#i1073200"
+                              class="- topic/xref ">45.107 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0D0BR.dita#id1617MA0D0BR">Subpart 45.2 - Solicitation and Evaluation Procedures</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0D0BR.dita#id1617MA0D0BR"
+                        class="- topic/xref ">Subpart 45.2 - Solicitation and Evaluation Procedures</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0XA.dita#id1617MD0M0XA">45.201 Solicitation.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0XA.dita#id1617MD0M0XA"
+                              class="- topic/xref ">45.201 Solicitation.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M095.dita#id1617MD0M095">45.202 Evaluation procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M095.dita#id1617MD0M095"
+                              class="- topic/xref ">45.202 Evaluation procedures.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1072997.dita#i1072997">Subpart 45.3 - Authorizing the Use and Rental of Government Property</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1072997.dita#i1072997"
+                        class="- topic/xref ">Subpart 45.3 - Authorizing the Use and Rental of Government Property</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1073000.dita#i1073000">45.301 Use and rental.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1073000.dita#i1073000"
+                              class="- topic/xref ">45.301 Use and rental.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0SE.dita#id1617MD0M0SE">45.302 Contracts with foreign governments or international organizations.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0SE.dita#id1617MD0M0SE"
+                              class="- topic/xref ">45.302 Contracts with foreign governments or international organizations.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M00R.dita#id1617MD0M00R">45.303 Use of Government property on independent research and development programs.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M00R.dita#id1617MD0M00R"
+                              class="- topic/xref ">45.303 Use of Government property on independent research and development programs.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0D048.dita#id1617MA0D048">Subpart 45.4 - Title to Government Property</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0D048.dita#id1617MA0D048"
+                        class="- topic/xref ">Subpart 45.4 - Title to Government Property</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0S4.dita#id1617MD0M0S4">45.401 Title to Government-furnished property.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0S4.dita#id1617MD0M0S4"
+                              class="- topic/xref ">45.401 Title to Government-furnished property.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0BU.dita#id1617MD0M0BU">45.402 Title to contractor-acquired property.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0BU.dita#id1617MD0M0BU"
+                              class="- topic/xref ">45.402 Title to contractor-acquired property.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0D0JK.dita#id1617MA0D0JK">Subpart 45.5 - Support Government Property Administration</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0D0JK.dita#id1617MA0D0JK"
+                        class="- topic/xref ">Subpart 45.5 - Support Government Property Administration</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0MS.dita#id1617MD0M0MS">45.501 Prime contractor alternate locations.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0MS.dita#id1617MD0M0MS"
+                              class="- topic/xref ">45.501 Prime contractor alternate locations.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0I0.dita#id1617MD0M0I0">45.502 Subcontractor and alternate prime contractor locations.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0I0.dita#id1617MD0M0I0"
+                              class="- topic/xref ">45.502 Subcontractor and alternate prime contractor locations.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0BP.dita#id1617MD0M0BP">45.503 Support property administrator findings.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0BP.dita#id1617MD0M0BP"
+                              class="- topic/xref ">45.503 Support property administrator findings.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1072761.dita#i1072761">Subpart 45.6 - Reporting, Reutilization, and Disposal</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1072761.dita#i1072761"
+                        class="- topic/xref ">Subpart 45.6 - Reporting, Reutilization, and Disposal</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MA0D0QN.dita#id1617MA0D0QN">45.600 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MA0D0QN.dita#id1617MA0D0QN"
+                              class="- topic/xref ">45.600 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0RK.dita#id1617MD0M0RK">45.601 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0RK.dita#id1617MD0M0RK"
+                              class="- topic/xref ">45.601 [Reserved]</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1072766.dita#i1072766">45.602 Reutilization of Government property.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1072766.dita#i1072766"
+                              class="- topic/xref ">45.602 Reutilization of Government property.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1072772.dita#i1072772">45.602-1 Inventory disposal schedules.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1072772.dita#i1072772"
+                                    class="- topic/xref ">45.602-1 Inventory disposal schedules.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1072796.dita#i1072796">45.602-2 Reutilization priorities.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1072796.dita#i1072796"
+                                    class="- topic/xref ">45.602-2 Reutilization priorities.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1072818.dita#i1072818">45.602-3 Screening.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1072818.dita#i1072818"
+                                    class="- topic/xref ">45.602-3 Screening.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD0M0PH.dita#id1617MD0M0PH">45.602-4 Interagency property transfer costs.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD0M0PH.dita#id1617MD0M0PH"
+                                    class="- topic/xref ">45.602-4 Interagency property transfer costs.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1072848.dita#i1072848">45.603 Abandonment or destruction of personal property.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1072848.dita#i1072848"
+                              class="- topic/xref ">45.603 Abandonment or destruction of personal property.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M0IM.dita#id1617MD0M0IM">45.604 Sale of surplus personal property.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M0IM.dita#id1617MD0M0IM"
+                              class="- topic/xref ">45.604 Sale of surplus personal property.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD0M0CP.dita#id1617MD0M0CP">45.604-1 Sales procedures.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD0M0CP.dita#id1617MD0M0CP"
+                                    class="- topic/xref ">45.604-1 Sales procedures.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1072868.dita#i1072868">45.604-2 Use of GSA sponsored sales centers.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1072868.dita#i1072868"
+                                    class="- topic/xref ">45.604-2 Use of GSA sponsored sales centers.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD0M0P8.dita#id1617MD0M0P8">45.604-3 Proceeds from sales of surplus property.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD0M0P8.dita#id1617MD0M0P8"
+                                    class="- topic/xref ">45.604-3 Proceeds from sales of surplus property.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD0M00H.dita#id1617MD0M00H">45.604-4 Sale of property pursuant to the exchange/sale authority.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD0M00H.dita#id1617MD0M00H"
+                                    class="- topic/xref ">45.604-4 Sale of property pursuant to the exchange/sale authority.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1072877.dita#i1072877">45.605 Inventory disposal reports.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1072877.dita#i1072877"
+                              class="- topic/xref ">45.605 Inventory disposal reports.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0M00V.dita#id1617MD0M00V">45.606 Contractor scrap procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0M00V.dita#id1617MD0M00V"
+                              class="- topic/xref ">45.606 Contractor scrap procedures.</xref>
                      </p>
                   </li>
                </ul>

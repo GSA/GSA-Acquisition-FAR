@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1046861"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.246-2</ph> Inspection of Supplies-Fixed-Price.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -388,7 +389,8 @@
 				        <p class="- topic/p "/>
 				        <p class="- topic/p " outputclass="List1">(l) If acceptance is not conclusive for any of the reasons in paragraph (k) hereof, the Government, in addition to any other rights and remedies provided by law, or under other provisions of this contract, shall have the right to require the Contractor (1)at no increase in the initial contract prices, or, if it is established, the redetermined prices of this contract, to correct or replace the defective or nonconforming supplies at the original point of delivery or at the Contractor’s plant at the Contracting Officer’s election, and in accordance with a reasonable delivery schedule as may be agreed upon between the Contractor and the Contracting Officer; provided, that the Contracting Officer may require a reduction in the initial contract prices, or, if it is established, the redetermined prices of this contract, if the Contractor fails to meet such delivery schedule; or (2)within a reasonable time after receipt by the Contractor of notice of defects or nonconformance, to repay such portion of the initial contract prices, or, if it is established, the redetermined prices of this contract, as is equitable under the circumstances if the Contracting Officer elects not to require correction or replacement. When supplies are returned to the Contractor, the Contractor shall bear the transportation costs from the original point of delivery to the Contractor’s plant and return to the original point when that point is not the Contractor’s plant. If the Contractor fails to perform or act as required in paragraph (l)(1) or (l) (2) of this clause and does not cure such failure within a period of 10 days (or such longer period as the Contracting Officer may authorize in writing) after receipt of notice from the Contracting Officer specifying such failure, the Government shall have the right by contract or otherwise to replace or correct such supplies and equitably reduce the initial contract prices, or, if it is established, the redetermined prices of this contract.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 50 FR 26905, June 28, 1985; 56 FR 41745, Aug. 22, 1991; 61 FR 31665, June 20, 1996]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

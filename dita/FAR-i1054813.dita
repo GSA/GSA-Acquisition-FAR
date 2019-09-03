@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1054813"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.225-24</ph> Notice of Required Use of American Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials Under Trade Agreements.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -345,7 +346,8 @@
 				        <p class="- topic/p " outputclass="List3">(i) Will be rejected as nonresponsive if this acquisition is conducted by sealed bidding; or</p>
 				        <p class="- topic/p " outputclass="List3">(ii) May be accepted if revised during negotiations.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[74 FR 14628, Mar. 31, 2009, as amended at 75 FR 53169, Aug. 30, 2010; 79 FR 24222, Apr. 29, 2014]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

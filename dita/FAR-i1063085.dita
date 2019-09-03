@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1063085"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.211-14</ph> Notice of Priority Rating for National Defense, Emergency Preparedness, and Energy Program Use.</title>
 		    <conbody outputclass="provision" class="- topic/body concept/conbody ">
@@ -18,6 +19,7 @@
 			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Notice of Priority Rating for National Defense, Emergency Preparedness, and Energy Program Use (Apr 2008)</p>
 			      <p class="- topic/p ">Any contract awarded as a result of this solicitation will be □DX rated order; □DO rated order certified for national defense, emergency preparedness, and energy program use under the Defense Priorities and Allocations System (DPAS) (15 CFR700), and the Contractor will be required to follow all of the requirements of this regulation. [<i class="+ topic/ph hi-d/i ">Contracting Officer check appropriate box</i>.]</p>
 			      <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[51 FR 19717, May 30, 1986, as amended at 55 FR 38518, Sept. 18, 1990. Redesignated and amended at 60 FR 48251, 48256, Sept. 18, 1995; 73 FR 21785, Apr. 22, 2008]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

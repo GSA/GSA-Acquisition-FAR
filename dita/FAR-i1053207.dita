@@ -6,7 +6,8 @@
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
 	  <concept id="i1053207"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.223-13</ph> Acquisition of EPEAT®–Registered Imaging Equipment.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -224,7 +225,8 @@
 				        </p>
 				        <p class="- topic/p " outputclass="List1">(b) Under this contract, the Contractor shall deliver, furnish for Government use, or furnish for contractor use at a Federally controlled facility, only imaging equipment that, at the time of submission of proposals and at the time of award, was EPEAT® silver-registered or gold-registered.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[79 FR 35863, June 24, 2014, as amended at 80 FR 53438, Oct. 5, 2015]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

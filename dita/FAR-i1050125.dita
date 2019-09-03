@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1050125"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.232-25</ph> Prompt Payment.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -1216,7 +1217,8 @@
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">52.216-7</xref>, Allowable Cost and Payment. If the invoice does not comply with contract requirements, it will be returned within 7 days after the date the designated billing office received the invoice.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[66 FR 65361, Dec. 18, 2001, as amended at 68 FR 56684, Oct. 1, 2003; 73 FR 54006, Sept. 17, 2008; 78 FR 37683, June 21, 2013; 82 FR 4715, Jan. 13, 2017]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

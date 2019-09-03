@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD0302A"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">22.608</ph> Procedures.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -52,6 +53,7 @@
 						            <i class="+ topic/ph hi-d/i ">Breach of stipulation</i>. In the event of a violation of a stipulation required under the statute, the contracting officer shall, in accordance with agency procedures, notify the appropriate regional office of the DOL, Wage and Hour Division (see 29 CFR part 1, Appendix B), and furnish any information available.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[61 FR 67411, Dec. 20, 1996, as amended at 71 FR 36932, June 28, 2006; 79 FR 24205, Apr. 29, 2014]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

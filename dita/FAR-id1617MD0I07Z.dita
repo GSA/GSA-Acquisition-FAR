@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD0I07Z"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">36.213-4</ph> Notice of award.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -113,6 +114,7 @@
 						            Specify the date of commencement of work, or advise that a notice to proceed will be issued.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42356, Sept. 19, 1983, as amended at 60 FR 34739, July 3, 1995; 60 FR 42657, Aug. 16, 1995. Redesignated at 62 FR 272, Jan. 2, 1997]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

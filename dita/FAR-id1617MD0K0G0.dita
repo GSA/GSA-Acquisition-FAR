@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD0K0G0"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">38.201</ph> Coordination requirements.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -130,6 +131,7 @@
 					          <p id="d2429e74" class="- topic/p "/>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42368, Sept. 19, 1983, as amended at 54 FR 29282, July 11, 1989; 56 FR 55372, Oct. 25, 1991; 59 FR 53718, Oct. 25, 1994; 62 FR 40237, July 25, 1997]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

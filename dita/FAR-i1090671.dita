@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1090671"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">26.103</ph> Procedures.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -270,6 +271,7 @@
 						            Subject to the terms and conditions of the contract and the availability of funds, contracting officers shall authorize an incentive payment of 5 percent of the amount paid to the subcontractor. Contracting officers shall seek funding in accordance with agency procedures.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[56 FR 41737, Aug. 22, 1991, as amended at 57 FR 20377, May 12, 1992; 61 FR 39211, July 26, 1996; 62 FR 40236, July 25, 1997; 64 FR 10532, Mar. 4, 1999; 81 FR 67781, Sept. 30, 2016]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

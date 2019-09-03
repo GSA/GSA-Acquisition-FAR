@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1105907"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">15.402</ph> Pricing policy.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -261,6 +262,7 @@
 						            Not include in a contract price any amount for a specified contingency to the extent that the contract provides for a price adjustment based upon the occurrence of that contingency.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[62 FR 51230, Sept. 30, 1997, as amended at 66 FR 2129, Jan. 10, 2001; 75 FR 53142, Aug. 30, 2010; 77 FR 204, Jan. 3, 2012]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

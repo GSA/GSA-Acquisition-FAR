@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1077912"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">37.110</ph> Solicitation provisions and contract clauses.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -159,6 +160,7 @@
 						            The contracting officer shall also insert in solicitations and contracts for services the provisions and clauses prescribed elsewhere in 48 CFR Chapter1, as appropriate for each acquisition, depending on the conditions that are applicable.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42365, Sept. 19, 1983, as amended at 55 FR 52795, Dec. 21, 1990; 57 FR 60584, Dec. 21, 1992]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1088657"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">28.103-4</ph> Contract clause.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -16,6 +17,7 @@
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">52.228-16</xref>
 				        </ph>, Performance and Payment Bonds-Other than Construction, in solicitations and contracts that contain a requirement for both payment and performance bonds. The contracting officer shall determine the amount of each bond for insertion in the clause. The amount shall be adequate to protect the interest of the Government. The contracting officer shall also set a period of time (normally 10 days) for return of executed bonds. AlternateI shall be used when only performance bonds are required.</p>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[61 FR 39213, July 26, 1996]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

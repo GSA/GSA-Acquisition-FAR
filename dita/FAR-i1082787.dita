@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1082787"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">32.409-3</ph> Security, supervision, and covenants.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -387,6 +388,7 @@
 						            If a separate special account is not required; <i class="+ topic/ph hi-d/i ">e.g.,</i>advance payment by a letter of credit, an agency may require a special account for an individual case, or classes of cases, if the circumstances warrant.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42328, Sept. 19, 1983, as amended at 66 FR 2138, Jan. 10, 2001]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

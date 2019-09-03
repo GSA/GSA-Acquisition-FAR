@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1001023"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">53.213</ph> Simplified acquisition procedures (SF’s 18, 30, 44, 1165, 1449, and OF’s 336, 347, and 348).</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -325,6 +326,7 @@
 					          </ol>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[61 FR 39198, July 26, 1996, as amended at 62 FR 51266, Sept. 30, 1997; 62 FR 64929, Dec. 9, 1997; 67 FR 13050, Mar. 20, 2002; 69 FR 34239, June 18, 2004; 69 FR 59699, Oct. 5, 2004; 70 FR 14955, Mar. 23, 2005; 72 FR 63090, Nov. 7, 2007; 75 FR 82568, Dec. 30, 2010; 77 FR 12918, Mar. 2, 2012; 81 FR 83100, Nov. 18, 2016]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

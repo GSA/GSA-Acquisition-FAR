@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1057789"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.219-18</ph> Notification of Competition Limited to Eligible 8(a) Participants.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -190,7 +191,8 @@
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">19.502-2</xref>(c), delete paragraph (d)(1).</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[54 FR 46009, Oct. 31, 1989; 54 FR 48105, Nov. 21, 1989, as amended at 55 FR 3889, Feb. 5, 1990; 55 FR 25532, June 21, 1990; 55 FR 38518, Sept. 18, 1990; 60 FR 48267, Sept. 18, 1995; 61 FR 39209, July 26, 1996; 61 FR 67422, Dec. 20, 1996; 62 FR 238, Jan. 2, 1997; 62 FR 12720, Mar. 17, 1997; 64 FR 32745, June 17, 1999; 64 FR 51850, Sept. 24, 1999; 68 FR 28085, May 22, 2003; 70 FR 18959, Apr. 11, 2005; 82 FR 4731, Jan. 13, 2017]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1080465"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">33.103</ph> Protests to the agency.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -481,6 +482,7 @@
 						            Agency protest decisions shall be well-reasoned, and explain the agency position. The protest decision shall be provided to the protester using a method that provides evidence of receipt.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[61 FR 39219, July 29, 1996, as amended at 61 FR 69289, Dec. 31, 1996; 62 FR 270, Jan. 2, 1997; 62 FR 10710, Mar. 10, 1997; 62 FR 51271, Sept. 30, 1997]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

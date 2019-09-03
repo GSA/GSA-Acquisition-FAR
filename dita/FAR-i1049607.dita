@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1049607"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.232-12</ph> Advance Payments.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -1645,7 +1646,8 @@
 				        <p class="- topic/p " outputclass="List2">(15) Make any payments on account of the obligations listed below, except in the manner and to the extent provided in this contract:</p>
 				        <p class="- topic/p " outputclass="Ctr">[<i class="+ topic/ph hi-d/i ">List the pertinent obligations</i>]</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 55 FR 25532, June 21, 1990; 64 FR 10534, Mar. 4, 1999; 66 FR 2138, Jan. 10, 2001]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

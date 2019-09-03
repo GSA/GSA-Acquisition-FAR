@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1063383"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.203-10</ph> Price or Fee Adjustment for Illegal or Improper Activity.</title>
 		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
@@ -278,6 +279,7 @@
 				        </li>
 			      </ol>
 			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[55 FR 36797, Sept. 6, 1990, as amended at 62 FR 233, Jan. 2, 1997; 79 FR 24215, Apr. 29, 2014]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD0508W"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">22.1802</ph> Policy.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -336,6 +337,7 @@
                         class="- topic/xref ">52.222-54</xref>. If the contractor is suspended or debarred as a result of the MOU termination, the contractor is not eligible to participate in E-Verify during the period of its suspension or debarment. If the suspension or debarment official determines not to suspend or debar the contractor, then the contractor must reenroll in E-Verify.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[73 FR 67703, Nov. 14, 2008, as amended at 77 FR 44066, July 26, 2012]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

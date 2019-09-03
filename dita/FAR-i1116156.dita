@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1116156"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">9.104-5</ph> Representation and certifications regarding responsibility matters.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -203,6 +204,7 @@
                         class="- topic/xref ">9.407-3</xref>(e)), then the contracting officer shall not award any contract in an amount greater than $5,000,000, unless the offeror affirmatively certified in its offer, as required by paragraph (b)(1), (2), and (3) of the provision.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[73 FR 21798, Apr. 22, 2008, as amended at 80 FR 38296, July 2, 2015; 80 FR 75906, Dec. 4, 2015; 81 FR 58638, Aug. 25, 2016; 81 FR 91638, Dec. 16, 2016; 82 FR 51529, Nov. 6, 2017]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

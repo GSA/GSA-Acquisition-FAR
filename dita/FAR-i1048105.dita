@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1048105"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.242-15</ph> Stop-Work Order.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -179,7 +180,8 @@
 			      <section outputclass="Alternate" class="- topic/section ">
 				        <p class="- topic/p ">
 					          <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">Apr</i>1984)</i>. If this clause is inserted in a cost-reimbursement contract, substitute in paragraph (a)(2) the words “the Termination clause of this contract” for the words “the Default, or the Termination for Convenience of the Government clause of this contract.” In paragraph (b) substitute the words “an equitable adjustment in the delivery schedule, the estimated cost, the fee, or a combination thereof, and in any other terms of the contract that may be affected” for the words “an equitable adjustment in the delivery schedule or contract price, or both.”</p>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 50 FR 2272, Jan. 15, 1985; 54 FR 29283, July 11, 1989. Redesignated and amended at 60 FR 48251, 48256, Sept. 18, 1995]</msgblock>
+         </section>
 			      <?FM MARKER [Alt] End?>
 		    </conbody>
 	  </concept>

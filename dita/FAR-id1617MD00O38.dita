@@ -6,7 +6,8 @@
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
 	  <concept id="id1617MD00O38"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">8.705-3</ph> Allocation process.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -147,6 +148,7 @@
 						            Ordering offices may issue orders without limitation as to dollar amount and shall record them upon issuance as obligations. Each order shall include, as a minimum, the information contained in the request for allocation. Ordering offices shall also include additional instructions necessary for performance under the order; <i class="+ topic/ph hi-d/i ">e.g.,</i>on the handling of Government-furnished property, reports required, and notification of shipment.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42129, Sept. 19, 1983, as amended at 59 FR 67029, Dec. 28, 1994; 60 FR 34737, July 3, 1995; 73 FR 53995, Sept. 17, 2008]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

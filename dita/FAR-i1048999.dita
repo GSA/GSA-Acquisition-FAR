@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1048999"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.236-21</ph> Specifications and Drawings for Construction.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -164,7 +165,8 @@
 					          <i class="+ topic/ph hi-d/i ">Alternate II (<i class="+ topic/ph hi-d/i ">Apr</i>1984)</i>. When record shop drawings are required and reproducible shop drawings are not needed, the following sentences shall be added to paragraph (g) of the basic clause:</p>
 				        <p class="- topic/p " outputclass="NoIndent">Upon completing the work under this contract, the Contractor shall furnish _____ [<i class="+ topic/ph hi-d/i ">Contracting Officer complete by inserting desired amount</i>] sets of prints of all shop drawings as finally approved. These drawings shall show changes and revisions made up to the time the equipment is completed and accepted.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 55 FR 38518, Sept. 18, 1990; 56 FR 41744, Aug. 22, 1991; 60 FR 34761, July 3, 1995; 61 FR 67426, Dec. 20, 1996]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

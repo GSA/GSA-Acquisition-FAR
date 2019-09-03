@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1112291"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">13.106-1</ph> Soliciting competition.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -488,6 +489,7 @@
 						            <i class="+ topic/ph hi-d/i ">Inquiries.</i> An agency should respond to inquiries received through any medium (including electronic commerce) if doing so would not interfere with the efficient conduct of the acquisition.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[62 FR 64917, Dec. 9, 1997, as amended at 63 FR 58593, Oct. 30, 1998; 71 FR 57360, 57366, Sept. 28, 2006; 72 FR 63076, Nov. 7, 2007; 77 FR 193, Jan. 3, 2012; 80 FR 38297, July 2, 2015]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

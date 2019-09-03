@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1052520"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.227-14</ph> Rights in Data-General.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -1179,7 +1180,8 @@
                      class="- topic/xref ">27.409</xref>(b)(6), add the following paragraph (j) to the basic clause:</p>
 				        <p class="- topic/p ">(j) The Contractor agrees, except as may be otherwise specified in this contract for specific data deliverables listed as not subject to this paragraph, that the Contracting Officer may, up to three years after acceptance of all deliverables under this contract, inspect at the Contractor’s facility any data withheld pursuant to paragraph (g)(1) of this clause, for purposes of verifying the Contractor’s assertion of limited rights or restricted rights status of the data or for evaluating work performance. When the Contractor whose data are to be inspected demonstrates to the Contracting Officer that there would be a possible conflict of interest if a particular representative made the inspection, the Contracting Officer shall designate an alternate inspector.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[72 FR 63068, Nov. 7, 2007, as amended at 79 FR 24223, Apr. 29, 2014]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

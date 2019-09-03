@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1114259"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">11.201</ph> Identification and availability
 of specifications.</title>
@@ -288,6 +290,7 @@ those nongovernment standards, including voluntary consensus standards,
 adopted for use by defense activities.</p>
             </li>
          </ol>
+         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[60 FR 48238, Sept. 18, 1995, as amended at 62 FR 40236, July 25, 1997; 63 FR 34063, June 22, 1998; 64 FR 51835, Sept. 24, 1999; 64 FR 72446, Dec. 27, 1999; 69 FR 76358, Dec. 20, 2004; 70 FR 57452, Sept. 30, 2005; 71 FR 228, Jan. 3, 2006; 79 FR 24253, Apr. 29, 2014; 84 FR 19846, May 6, 2019]</msgblock>
       </conbody>
    </concept>
 </dita>

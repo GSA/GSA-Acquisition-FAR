@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD0J0QT"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">37.105</ph> Competition in service contracting.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -59,6 +60,7 @@
                         class="- topic/xref ">part  6</xref> of this regulation requiring competition apply fully to service contracts. The method of contracting used to provide for competition may vary with the type of service being acquired and may not necessarily be limited to price competition.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[50 FR 1744, Jan. 11, 1985, and 50 FR 52429, Dec. 23, 1985]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD0F0S7"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">32.503-5</ph> Administration of progress payments.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -191,6 +192,7 @@
 						            Under indefinite-delivery contracts, the contracting officer should administer progress payments made under each individual order as if the order constituted a separate contract, unless agency procedures provide otherwise. When the contract will be administered by an agency other than the awarding agency, the contracting officer shall coordinate with the contract administration office if the awarding agency wants the administration of progress payments to be on a basis other than order-by-order.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42328, Sept. 19, 1983, as amended at 65 FR 16280, Mar. 27, 2000; 68 FR 13208, Mar. 18, 2003]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1072432"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">46.202-4</ph> Higher-level contract quality requirements.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -93,6 +94,7 @@
 						            Examples of higher-level quality standards include overarching quality management system standards such as ISO 9001, ASQ/ANSI E4, ASME NQA-1, SAE AS9100, SAE AS9003, and ISO/TS 16949, and product or process specific quality standards such as SAE AS5553.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[79 FR 70347, Nov. 25, 2014, as amended at 80 FR 4994, Jan. 29, 2015]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

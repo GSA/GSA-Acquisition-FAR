@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1104242"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">16.506</ph> Solicitation provisions and contract clauses.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -355,6 +356,7 @@
                         class="- topic/xref ">52.207-6</xref>, Solicitation of Offers from Small Business Concerns and Small Business Teaming Arrangement or Joint Ventures (Multiple-Award Contracts) in solicitations for multiple-award contracts above the substantial bundling threshold of the agency.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42219, Sept. 19, 1983; 60 FR 48260, Sept. 18, 1995. Redesignated and amended at 60 FR 49726, 49727, Sept. 26, 1995; 65 FR 24320, Apr. 25, 2000; 71 FR 57367, Sept. 28, 2006; 75 FR 53133, Aug. 30, 2010; 76 FR 14565, Mar. 16, 2011; 80 FR 38298, July 2, 2015; 81 FR 67772, Sept. 30, 2016]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

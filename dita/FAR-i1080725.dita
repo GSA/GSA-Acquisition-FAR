@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1080725"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">32.1103</ph> Applicability.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -239,6 +240,7 @@
 						            Otherwise authorized by Department of the Treasury Regulations at 31 CFR Part208.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[64 FR 10540, Mar. 4, 1999, as amended at 67 FR 6114, Feb. 8, 2002; 68 FR 13203, Mar. 18, 2003; 68 FR 56673, Oct. 1, 2003]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1046387"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.247-53</ph> Freight Classification Description.</title>
 		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
@@ -19,6 +20,7 @@
 			      <p class="- topic/p ">Offerors are requested to indicate below the full Uniform Freight Classification (rail) description, or the National Motor Freight Classification description applicable to the supplies, the same as offeror uses for commercial shipment. This description should include the packing of the commodity (box, crate, bundle, loose, setup, knocked down, compressed, unwrapped, etc.), the container material (fiberboard, wooden, etc.), unusual shipping dimensions, and other conditions affecting traffic descriptions. The Government will use these descriptions as well as other information available to determine the classification description most appropriate and advantageous to the Government. Offeror understands that shipments on any f.o.b. origin contract awarded, as a result of this solicitation, will be made in conformity with the shipping classification description specified by the Government, which may be different from the classification description furnished below.</p>
 			      <p outputclass="Ctr_SmCaps" class="- topic/p ">For Freight Classification Purposes, Offeror Describes This Commodity as ___________.</p>
 			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock "/>
+      </conbody>
 	  </concept>
 </dita>

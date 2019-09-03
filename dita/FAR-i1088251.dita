@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1088251"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">28.203-5</ph> Release of lien.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -199,6 +200,7 @@
 						            Upon written request by the individual surety, the contracting officer may release a portion of the security interest on the individual surety’s assets based upon substantial performance of the contractor’s obligations under its performance bond. Release of the security interest in support of a payment bond must comply with the paragraphs(a)(1) through (3) of this subsection. In making this determination, the contracting officer will give consideration as to whether the unreleased portion of the lien is sufficient to cover the remaining contract obligations, including payments to subcontractors and other potential liabilities. The individual surety shall, as a condition of the partial release, furnish an affidavit agreeing that the release of such assets does not relieve the individual surety of its obligations under the bond(s).</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[54 FR 48988, Nov. 28, 1989, as amended at 61 FR 31652, June 20, 1996; 79 FR 24210, Apr. 29, 2014]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1114676"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">10.001</ph> Policy.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -511,6 +513,7 @@ excess of $5.5 million for the procurement of items other than commercial
 items in accordance with section 826 of Public Law 110-181.</p>
             </li>
          </ol>
+         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[60 FR 48237, Sept. 18, 1995, as amended at 64 FR 72443, Dec. 27, 1999; 65 FR 46054, July 26, 2000; 66 FR 20896, Apr. 25, 2001; 68 FR 4049, Jan. 27, 2003; 68 FR 60005, Oct. 20, 2003; 69 FR 8313, Feb. 23, 2003; 71 FR 36925, June 28, 2006; 71 FR 74676, Dec. 12, 2006; 74 FR 52849, Oct. 14, 2009; 75 FR 34278, June 16, 2010; 76 FR 14565, Mar. 16, 2011; 80 FR 38297, July 2, 2015; 81 FR 67772, Sept. 30, 2016; 84 FR 19837, May 6, 2019]</msgblock>
       </conbody>
    </concept>
 </dita>

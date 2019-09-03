@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1083181"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">32.202-4</ph> Security for Government financing.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -337,6 +338,7 @@
 						            <i class="+ topic/ph hi-d/i ">Management of risk and security.</i> In establishing contract financing terms, the contracting officer must be aware of certain risks. For example, very high amounts of financing early in the contract (front-end loading) may unduly increase the risk to the Government. The security and the amounts and timing of financing payments must be analyzed as a whole to determine whether the arrangement will be in the best interest of the Government.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[60 FR 49711, Sept. 26, 1995, as amended at 79 FR 24211, Apr. 29, 2014]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

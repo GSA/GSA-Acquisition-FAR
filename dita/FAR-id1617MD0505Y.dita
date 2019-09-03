@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD0505Y"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">22.1307</ph> Collective bargaining agreements.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -16,6 +17,7 @@
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">52.222-35</xref>
 				        </ph>, Equal Opportunity for Veterans, may necessitate a revision of a collective bargaining agreement, the contracting officer must advise the affected labor unions that the Department of Labor will give them appropriate opportunity to present their views. However, neither the contracting officer nor any representative of the contracting officer may discuss with the contractor or any labor representative any aspect of the collective bargaining agreement.</p>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[66 FR 53488, Oct. 22, 2001, as amended at 75 FR 60251, Sept. 29, 2010]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

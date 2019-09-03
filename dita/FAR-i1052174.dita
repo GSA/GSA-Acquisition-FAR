@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1052174"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.227-1</ph> Authorization and Consent.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -117,7 +118,8 @@
 				        <p class="- topic/p " outputclass="List2">(1) Embodied in the structure or composition of any article the delivery of which is accepted by the Government under this contract; or</p>
 				        <p class="- topic/p " outputclass="List2">(2) Used in machinery, tools, or methods whose use necessarily results from compliance by the Contractor or a subcontractor with specifications or written provisions forming a part of this contract or with specific written instructions given by the Contracting Officer directing the manner of performance.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[49 FR 12986, Mar. 30, 1984, as amended at 60 FR 34761, July 3, 1995; 72 FR 63065, Nov. 7, 2007]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

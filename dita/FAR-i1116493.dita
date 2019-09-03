@@ -1,581 +1,800 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="i1116493">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="i1116493"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 9</ph> - Contractor Qualifications</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA010DU.dita#id1617MA010DU">9.000 Scope of part.</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA010DU.dita#id1617MA010DU"
+                        class="- topic/xref ">9.000 Scope of part.</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1116049.dita#i1116049">Subpart 9.1 - Responsible Prospective Contractors</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1116049.dita#i1116049"
+                        class="- topic/xref ">Subpart 9.1 - Responsible Prospective Contractors</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1617MA010EE.dita#id1617MA010EE">9.100 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1617MA010EE.dita#id1617MA010EE"
+                              class="- topic/xref ">9.100 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1116053.dita#i1116053">9.101 Definitions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1116053.dita#i1116053"
+                              class="- topic/xref ">9.101 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00PBY.dita#id1617MD00PBY">9.102 Applicability.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00PBY.dita#id1617MD00PBY"
+                              class="- topic/xref ">9.102 Applicability.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00P37.dita#id1617MD00P37">9.103 Policy.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00P37.dita#id1617MD00P37"
+                              class="- topic/xref ">9.103 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1116079.dita#i1116079">9.104 Standards.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1116079.dita#i1116079"
+                              class="- topic/xref ">9.104 Standards.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116081.dita#i1116081">9.104-1 General standards.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116081.dita#i1116081"
+                                    class="- topic/xref ">9.104-1 General standards.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116115.dita#i1116115">9.104-2 Special standards.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116115.dita#i1116115"
+                                    class="- topic/xref ">9.104-2 Special standards.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116122.dita#i1116122">9.104-3 Application of standards.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116122.dita#i1116122"
+                                    class="- topic/xref ">9.104-3 Application of standards.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD00PPL.dita#id1617MD00PPL">9.104-4 Subcontractor responsibility.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD00PPL.dita#id1617MD00PPL"
+                                    class="- topic/xref ">9.104-4 Subcontractor responsibility.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116156.dita#i1116156">9.104-5 Representation and certifications regarding responsibility matters.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116156.dita#i1116156"
+                                    class="- topic/xref ">9.104-5 Representation and certifications regarding responsibility matters.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116177.dita#i1116177">9.104-6 Federal Awardee Performance and Integrity Information System.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116177.dita#i1116177"
+                                    class="- topic/xref ">9.104-6 Federal Awardee Performance and Integrity Information System.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116212.dita#i1116212">9.104-7 Solicitation provisions and contract clauses.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116212.dita#i1116212"
+                                    class="- topic/xref ">9.104-7 Solicitation provisions and contract clauses.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00P8Q.dita#id1617MD00P8Q">9.105 Procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00P8Q.dita#id1617MD00P8Q"
+                              class="- topic/xref ">9.105 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD00PO3.dita#id1617MD00PO3">9.105-1 Obtaining information.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD00PO3.dita#id1617MD00PO3"
+                                    class="- topic/xref ">9.105-1 Obtaining information.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116277.dita#i1116277">9.105-2 Determinations and documentation.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116277.dita#i1116277"
+                                    class="- topic/xref ">9.105-2 Determinations and documentation.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD00PWS.dita#id1617MD00PWS">9.105-3 Disclosure of preaward information.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD00PWS.dita#id1617MD00PWS"
+                                    class="- topic/xref ">9.105-3 Disclosure of preaward information.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1116322.dita#i1116322">9.106 Preaward surveys.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1116322.dita#i1116322"
+                              class="- topic/xref ">9.106 Preaward surveys.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116324.dita#i1116324">9.106-1 Conditions for preaward surveys.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116324.dita#i1116324"
+                                    class="- topic/xref ">9.106-1 Conditions for preaward surveys.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116335.dita#i1116335">9.106-2 Requests for preaward surveys.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116335.dita#i1116335"
+                                    class="- topic/xref ">9.106-2 Requests for preaward surveys.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD00PMU.dita#id1617MD00PMU">9.106-3 Interagency preaward surveys.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD00PMU.dita#id1617MD00PMU"
+                                    class="- topic/xref ">9.106-3 Interagency preaward surveys.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116357.dita#i1116357">9.106-4 Reports.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116357.dita#i1116357"
+                                    class="- topic/xref ">9.106-4 Reports.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00PCD.dita#id1617MD00PCD">9.107 Surveys of nonprofit agencies participating in the AbilityOne Program.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00PCD.dita#id1617MD00PCD"
+                              class="- topic/xref ">9.107 Surveys of nonprofit agencies participating in the AbilityOne Program.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1116397.dita#i1116397">9.108 Prohibition on contracting with inverted domestic corporations.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1116397.dita#i1116397"
+                              class="- topic/xref ">9.108 Prohibition on contracting with inverted domestic corporations.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD00PNA.dita#id1617MD00PNA">9.108-1 Definitions.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD00PNA.dita#id1617MD00PNA"
+                                    class="- topic/xref ">9.108-1 Definitions.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116407.dita#i1116407">9.108-2 Prohibition.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116407.dita#i1116407"
+                                    class="- topic/xref ">9.108-2 Prohibition.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116415.dita#i1116415">9.108-3 Representation by the offeror.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116415.dita#i1116415"
+                                    class="- topic/xref ">9.108-3 Representation by the offeror.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116422.dita#i1116422">9.108-4 Waiver.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116422.dita#i1116422"
+                                    class="- topic/xref ">9.108-4 Waiver.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1116431.dita#i1116431">9.108-5 Solicitation provision and contract clause.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1116431.dita#i1116431"
+                                    class="- topic/xref ">9.108-5 Solicitation provision and contract clause.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-9.109.dita#id188RD6040HW">9.109 Prohibition on contracting with an entity involved in activities that violate arms control treaties or agreements with the United States.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-9.109.dita#id188RD6040HW"
+                              class="- topic/xref ">9.109 Prohibition on contracting with an entity involved in activities that violate arms control treaties or agreements with the United States.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-9.109-1.dita#id188RFC00KSR">9.109-1 Authority.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-9.109-1.dita#id188RFC00KSR"
+                                    class="- topic/xref ">9.109-1 Authority.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-9.109-2.dita#id188S90R0ITL">9.109-2 Prohibition.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-9.109-2.dita#id188S90R0ITL"
+                                    class="- topic/xref ">9.109-2 Prohibition.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-9.109-3.dita#id188S90TH00T">9.109-3 Exception.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-9.109-3.dita#id188S90TH00T"
+                                    class="- topic/xref ">9.109-3 Exception.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-9.109-4.dita#id188S90XE0V1">9.109-4 Certification by the offeror.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-9.109-4.dita#id188S90XE0V1"
+                                    class="- topic/xref ">9.109-4 Certification by the offeror.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-9.109-5.dita#id188S9I00UF2">9.109-5 Solicitation provision.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-9.109-5.dita#id188S9I00UF2"
+                                    class="- topic/xref ">9.109-5 Solicitation provision.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1115819.dita#i1115819">Subpart 9.2 - Qualifications Requirements</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1115819.dita#i1115819"
+                        class="- topic/xref ">Subpart 9.2 - Qualifications Requirements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MA010QU.dita#id1617MA010QU">9.200 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MA010QU.dita#id1617MA010QU"
+                              class="- topic/xref ">9.200 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00PVP.dita#id1617MD00PVP">9.201 Definitions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00PVP.dita#id1617MD00PVP"
+                              class="- topic/xref ">9.201 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115830.dita#i1115830">9.202 Policy.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115830.dita#i1115830"
+                              class="- topic/xref ">9.202 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00Q0Z.dita#id1617MD00Q0Z">9.203 QPL’s, QML’s, and QBL’s.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00Q0Z.dita#id1617MD00Q0Z"
+                              class="- topic/xref ">9.203 QPL’s, QML’s, and QBL’s.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115894.dita#i1115894">9.204 Responsibilities for establishment of a qualification requirement.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115894.dita#i1115894"
+                              class="- topic/xref ">9.204 Responsibilities for establishment of a qualification requirement.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QP7.dita#id1617MD00QP7">9.205 Opportunity for qualification before award.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QP7.dita#id1617MD00QP7"
+                              class="- topic/xref ">9.205 Opportunity for qualification before award.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QWA.dita#id1617MD00QWA">9.206 Acquisitions subject to qualification requirements.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QWA.dita#id1617MD00QWA"
+                              class="- topic/xref ">9.206 Acquisitions subject to qualification requirements.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115935.dita#i1115935">9.206-1 General.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115935.dita#i1115935"
+                                    class="- topic/xref ">9.206-1 General.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115973.dita#i1115973">9.206-2 Contract clause.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115973.dita#i1115973"
+                                    class="- topic/xref ">9.206-2 Contract clause.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD00QSY.dita#id1617MD00QSY">9.206-3 Competition.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD00QSY.dita#id1617MD00QSY"
+                                    class="- topic/xref ">9.206-3 Competition.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QRR.dita#id1617MD00QRR">9.207 Changes in status regarding qualification requirements.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QRR.dita#id1617MD00QRR"
+                              class="- topic/xref ">9.207 Changes in status regarding qualification requirements.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1115649.dita#i1115649">Subpart 9.3 - First Article Testing and Approval</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1115649.dita#i1115649"
+                        class="- topic/xref ">Subpart 9.3 - First Article Testing and Approval</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QON.dita#id1617MD00QON">9.301 Definition.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QON.dita#id1617MD00QON"
+                              class="- topic/xref ">9.301 Definition.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00Q5I.dita#id1617MD00Q5I">9.302 General.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00Q5I.dita#id1617MD00Q5I"
+                              class="- topic/xref ">9.302 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QT2.dita#id1617MD00QT2">9.303 Use.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QT2.dita#id1617MD00QT2"
+                              class="- topic/xref ">9.303 Use.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QFA.dita#id1617MD00QFA">9.304 Exceptions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QFA.dita#id1617MD00QFA"
+                              class="- topic/xref ">9.304 Exceptions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QJ9.dita#id1617MD00QJ9">9.305 Risk.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QJ9.dita#id1617MD00QJ9"
+                              class="- topic/xref ">9.305 Risk.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115686.dita#i1115686">9.306 Solicitation requirements.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115686.dita#i1115686"
+                              class="- topic/xref ">9.306 Solicitation requirements.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QS0.dita#id1617MD00QS0">9.307 Government administration procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QS0.dita#id1617MD00QS0"
+                              class="- topic/xref ">9.307 Government administration procedures.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QPF.dita#id1617MD00QPF">9.308 Contract clauses.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QPF.dita#id1617MD00QPF"
+                              class="- topic/xref ">9.308 Contract clauses.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115743.dita#i1115743">9.308-1 Testing performed by the contractor.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115743.dita#i1115743"
+                                    class="- topic/xref ">9.308-1 Testing performed by the contractor.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115767.dita#i1115767">9.308-2 Testing performed by the Government.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115767.dita#i1115767"
+                                    class="- topic/xref ">9.308-2 Testing performed by the Government.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1115147.dita#i1115147">Subpart 9.4 - Debarment, Suspension, and Ineligibility</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1115147.dita#i1115147"
+                        class="- topic/xref ">Subpart 9.4 - Debarment, Suspension, and Ineligibility</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MA0105V.dita#id1617MA0105V">9.400 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MA0105V.dita#id1617MA0105V"
+                              class="- topic/xref ">9.400 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QYO.dita#id1617MD00QYO">9.401 Applicability.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QYO.dita#id1617MD00QYO"
+                              class="- topic/xref ">9.401 Applicability.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00Q4U.dita#id1617MD00Q4U">9.402 Policy.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00Q4U.dita#id1617MD00Q4U"
+                              class="- topic/xref ">9.402 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115180.dita#i1115180">9.403 Definitions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115180.dita#i1115180"
+                              class="- topic/xref ">9.403 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115204.dita#i1115204">9.404 Exclusions in the System for Award Management.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115204.dita#i1115204"
+                              class="- topic/xref ">9.404 Exclusions in the System for Award Management.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115236.dita#i1115236">9.405 Effect of listing.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115236.dita#i1115236"
+                              class="- topic/xref ">9.405 Effect of listing.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115263.dita#i1115263">9.405-1 Continuation of current contracts.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115263.dita#i1115263"
+                                    class="- topic/xref ">9.405-1 Continuation of current contracts.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115270.dita#i1115270">9.405-2 Restrictions on subcontracting.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115270.dita#i1115270"
+                                    class="- topic/xref ">9.405-2 Restrictions on subcontracting.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115300.dita#i1115300">9.406 Debarment.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115300.dita#i1115300"
+                              class="- topic/xref ">9.406 Debarment.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115302.dita#i1115302">9.406-1 General.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115302.dita#i1115302"
+                                    class="- topic/xref ">9.406-1 General.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115334.dita#i1115334">9.406-2 Causes for debarment.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115334.dita#i1115334"
+                                    class="- topic/xref ">9.406-2 Causes for debarment.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115383.dita#i1115383">9.406-3 Procedures.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115383.dita#i1115383"
+                                    class="- topic/xref ">9.406-3 Procedures.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115425.dita#i1115425">9.406-4 Period of debarment.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115425.dita#i1115425"
+                                    class="- topic/xref ">9.406-4 Period of debarment.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115450.dita#i1115450">9.406-5 Scope of debarment.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115450.dita#i1115450"
+                                    class="- topic/xref ">9.406-5 Scope of debarment.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115455.dita#i1115455">9.407 Suspension.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115455.dita#i1115455"
+                              class="- topic/xref ">9.407 Suspension.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115457.dita#i1115457">9.407-1 General.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115457.dita#i1115457"
+                                    class="- topic/xref ">9.407-1 General.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115483.dita#i1115483">9.407-2 Causes for suspension.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115483.dita#i1115483"
+                                    class="- topic/xref ">9.407-2 Causes for suspension.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115521.dita#i1115521">9.407-3 Procedures.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115521.dita#i1115521"
+                                    class="- topic/xref ">9.407-3 Procedures.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD00QDL.dita#id1617MD00QDL">9.407-4 Period of suspension.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD00QDL.dita#id1617MD00QDL"
+                                    class="- topic/xref ">9.407-4 Period of suspension.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD00QES.dita#id1617MD00QES">9.407-5 Scope of suspension.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD00QES.dita#id1617MD00QES"
+                                    class="- topic/xref ">9.407-5 Scope of suspension.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00Q5L.dita#id1617MD00Q5L">9.408 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00Q5L.dita#id1617MD00Q5L"
+                              class="- topic/xref ">9.408 [Reserved]</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115578.dita#i1115578">9.409 Contract clause.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115578.dita#i1115578"
+                              class="- topic/xref ">9.409 Contract clause.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1114943.dita#i1114943">Subpart 9.5 - Organizational and Consultant Conflicts of Interest</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1114943.dita#i1114943"
+                        class="- topic/xref ">Subpart 9.5 - Organizational and Consultant Conflicts of Interest</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MA02095.dita#id1617MA02095">9.500 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MA02095.dita#id1617MA02095"
+                              class="- topic/xref ">9.500 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QU6.dita#id1617MD00QU6">9.501 Definition.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QU6.dita#id1617MD00QU6"
+                              class="- topic/xref ">9.501 Definition.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QG0.dita#id1617MD00QG0">9.502 Applicability.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QG0.dita#id1617MD00QG0"
+                              class="- topic/xref ">9.502 Applicability.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1114968.dita#i1114968">9.503 Waiver.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1114968.dita#i1114968"
+                              class="- topic/xref ">9.503 Waiver.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QB9.dita#id1617MD00QB9">9.504 Contracting officer responsibilities.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QB9.dita#id1617MD00QB9"
+                              class="- topic/xref ">9.504 Contracting officer responsibilities.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1114988.dita#i1114988">9.505 General rules.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1114988.dita#i1114988"
+                              class="- topic/xref ">9.505 General rules.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115013.dita#i1115013">9.505-1 Providing systems engineering and technical direction.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115013.dita#i1115013"
+                                    class="- topic/xref ">9.505-1 Providing systems engineering and technical direction.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115019.dita#i1115019">9.505-2 Preparing specifications or work statements.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115019.dita#i1115019"
+                                    class="- topic/xref ">9.505-2 Preparing specifications or work statements.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD00QBZ.dita#id1617MD00QBZ">9.505-3 Providing evaluation services.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD00QBZ.dita#id1617MD00QBZ"
+                                    class="- topic/xref ">9.505-3 Providing evaluation services.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115037.dita#i1115037">9.505-4 Obtaining access to proprietary information.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115037.dita#i1115037"
+                                    class="- topic/xref ">9.505-4 Obtaining access to proprietary information.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115044.dita#i1115044">9.506 Procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115044.dita#i1115044"
+                              class="- topic/xref ">9.506 Procedures.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115072.dita#i1115072">9.507 Solicitation provisions and contract clause.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115072.dita#i1115072"
+                              class="- topic/xref ">9.507 Solicitation provisions and contract clause.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115074.dita#i1115074">9.507-1 Solicitation provisions.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115074.dita#i1115074"
+                                    class="- topic/xref ">9.507-1 Solicitation provisions.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1115084.dita#i1115084">9.507-2 Contract clause.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1115084.dita#i1115084"
+                                    class="- topic/xref ">9.507-2 Contract clause.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1115091.dita#i1115091">9.508 Examples.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1115091.dita#i1115091"
+                              class="- topic/xref ">9.508 Examples.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1114896.dita#i1114896">Subpart 9.6 - Contractor Team Arrangements</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1114896.dita#i1114896"
+                        class="- topic/xref ">Subpart 9.6 - Contractor Team Arrangements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QT0.dita#id1617MD00QT0">9.601 Definition.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QT0.dita#id1617MD00QT0"
+                              class="- topic/xref ">9.601 Definition.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QLN.dita#id1617MD00QLN">9.602 General.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QLN.dita#id1617MD00QLN"
+                              class="- topic/xref ">9.602 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QAQ.dita#id1617MD00QAQ">9.603 Policy.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QAQ.dita#id1617MD00QAQ"
+                              class="- topic/xref ">9.603 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QO9.dita#id1617MD00QO9">9.604 Limitations.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QO9.dita#id1617MD00QO9"
+                              class="- topic/xref ">9.604 Limitations.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1114845.dita#i1114845">Subpart 9.7 - Defense Production Pools and Research and Development Pools</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1114845.dita#i1114845"
+                        class="- topic/xref ">Subpart 9.7 - Defense Production Pools and Research and Development Pools</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00QDA.dita#id1617MD00QDA">9.701 Definition.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00QDA.dita#id1617MD00QDA"
+                              class="- topic/xref ">9.701 Definition.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00RZX.dita#id1617MD00RZX">9.702 Contracting with pools.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00RZX.dita#id1617MD00RZX"
+                              class="- topic/xref ">9.702 Contracting with pools.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD00RNK.dita#id1617MD00RNK">9.703 Contracting with individual pool members.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD00RNK.dita#id1617MD00RNK"
+                              class="- topic/xref ">9.703 Contracting with individual pool members.</xref>
                      </p>
                   </li>
                </ul>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1095943"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">22.1403</ph> Waivers.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -171,6 +172,7 @@
 						            A waiver granted for a particular class of contracts may be withdrawn for any contract within that class whenever considered necessary by the Director of OFCCP to achieve the purposes of the Act. The withdrawal shall not apply to contracts awarded before the withdrawal. The withdrawal shall not apply to solicitations under any means of sealed bidding unless it is made more than 10 days before the date set for bid opening.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42258, Sept. 19, 1983, as amended at 52 FR 19803, May 27, 1987; 63 FR 34074, June 22, 1998; 79 FR 43578, July 25, 2014]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

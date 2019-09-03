@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="id1617MD00JJ9"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">4.805</ph> Storage, handling, and
 contract files.</title>
@@ -103,8 +105,16 @@ approval from NARA through the agency’s records officer.</p>
                     rowsep="1"
                     outputclass="Notitle_rule"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="51*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="49*" class="- topic/colspec "/>
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="51*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="49*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <thead class="- topic/thead ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1"
@@ -238,6 +248,7 @@ related document, whichever is later.</p>
                </tbody>
             </tgroup>
          </table>
+         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[80 FR 75914, Dec. 4, 2015, as amended at 84 FR 19841, May 6, 2019]</msgblock>
       </conbody>
    </concept>
 </dita>

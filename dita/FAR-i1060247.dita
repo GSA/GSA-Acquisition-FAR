@@ -6,7 +6,8 @@
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
 	  <concept id="i1060247"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.214-27</ph> Price Reduction for Defective Certified Cost or Pricing Data-Modifications-Sealed Bidding.</title>
 		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
@@ -405,6 +406,7 @@
 				        </li>
 			      </ol>
 			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 50 FR 1747, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 53 FR 10830, Apr. 1, 1988; 55 FR 52797, Dec. 21, 1990; 56 FR 67415, Dec. 30, 1991; 60 FR 48218, Sept. 18, 1995; 62 FR 51271, Sept. 30, 1997; 75 FR 53150, Aug. 30, 2010; 76 FR 39242, July 5, 2011]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

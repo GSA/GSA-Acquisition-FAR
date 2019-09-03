@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1069582"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">48.104-2</ph> Sharing acquisition savings.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -470,6 +471,7 @@
 						            <i class="+ topic/ph hi-d/i ">Construction contracts.</i>Sharing on construction contracts applies only to savings on the instant contract and to collateral savings. The Government’s share of savings is determined by subtracting Government costs from instant contract savings and multiplying the result by (1)45 percent for fixed-price contracts or (2)75 percent for cost-reimbursement contracts. Value engineering sharing does not apply to incentive construction contracts.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42443, Sept. 19, 1983, as amended at 54 FR 5057, Jan. 31, 1989; 55 FR 3887, Feb. 5, 1990; 59 FR 11387, Mar. 10, 1994. Redesignated and amended at 64 FR 51847, 51848, Sept. 24, 1999; 82 FR 4714, Jan. 13, 2017]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD00FPA"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">1.404</ph> Class deviations.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -113,6 +114,7 @@
 						            For NASA, class deviations shall be controlled and approved by the Assistant Administrator for Procurement. Deviations shall be processed in accordance with agency regulations.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42103, Sept. 19, 1983, as amended at 56 FR 15148, Apr. 15, 1991; 59 FR 11387, Mar. 10, 1994; 61 FR 67411, Dec. 20, 1996; 67 FR 13053, 13068, Mar. 20, 2002]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

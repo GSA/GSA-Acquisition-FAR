@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1104745"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">16.307</ph> Contract clauses.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -376,6 +377,7 @@
                         class="- topic/xref ">42.705-3</xref>(b)) is contemplated and predetermined indirect cost rates are to be used.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42219, Sept. 19, 1983, as amended at 50 FR 23606, June 4, 1985; 61 FR 31622, June 20, 1996; 61 FR 67419, Dec. 20, 1996; 71 FR 74664, Dec. 12, 2006; 72 FR 27384, May 15, 2007; 77 FR 44061, July 26, 2012; 81 FR 45852, July 14, 2016]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

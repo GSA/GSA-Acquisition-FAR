@@ -6,7 +6,8 @@
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
 	  <concept id="i1060206"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.214-26</ph> Audit and Records-Sealed Bidding.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -261,7 +262,8 @@
 				        <p class="- topic/p " outputclass="List2">(e)(1) Except as provided in paragraph (e)(2), the Contractor shall insert a clause containing the provisions of this clause, including this paragraph (e), in all subcontracts.</p>
 				        <p class="- topic/p " outputclass="List2">(2) The authority of the Inspector General under paragraph (c)(2) of this clause does not flow down to subcontracts.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[60 FR 42651, Aug. 16, 1995; 60 FR 44548, Aug. 28, 1995; 62 FR 51271, Sept. 30, 1997; 74 FR 14649, 14651, Mar. 31, 2009; 75 FR 34281, June 16, 2010; 75 FR 53150, Aug. 30, 2010]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

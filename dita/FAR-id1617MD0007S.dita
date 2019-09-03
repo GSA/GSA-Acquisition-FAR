@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD0007S"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">19.202-2</ph> Locating small business sources.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -60,6 +61,7 @@
                         class="- topic/xref ">5.3</xref>).</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42240, Sept. 19, 1983, as amended at 63 FR 70268, Dec. 18, 1998; 65 FR 60544, Oct. 11, 2000; 66 FR 27413, May 16, 2001; 68 FR 43856, July 24, 2003; 71 FR 36925, June 28, 2006]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

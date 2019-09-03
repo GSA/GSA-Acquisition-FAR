@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1052331"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.227-11</ph> Patent Rights-Ownership by the Contractor.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -914,7 +915,8 @@
                      scope="external"
                      class="- topic/xref ">15 U.S.C. 3710a</xref>, the Government may require the Contractor to negotiate an agreement with the CRADA collaborating party or parties regarding the allocation of rights to any subject invention the Contractor makes, solely or jointly, under the CRADA. The agreement shall be negotiated prior to the Contractor undertaking the CRADA work or, with the permission of the Government, upon the identification of a subject invention. In the absence of such an agreement, the Contractor agrees to grant the collaborating party or parties an option for a license in its inventions of the same scope and terms set forth in the CRADA for inventions made by the Government.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[72 FR 63066, Nov. 7, 2007, as amended at 79 FR 24223, Apr. 29, 2014]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

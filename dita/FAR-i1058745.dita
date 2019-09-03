@@ -6,7 +6,8 @@
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
 	  <concept id="i1058745"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.216-21</ph> Requirements.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -154,7 +155,8 @@
 				        <p class="- topic/p " outputclass="List1">(c) The Government’s requirements for each item or subitem of supplies or services described in the Schedule are being purchased through one non-set-aside contract and one set-aside contract. Therefore, the Government shall order from each Contractor approximately one-half of the total supplies or services specified in the Schedule that are required to be purchased by the specified Government activity or activities. The Government may choose between the set-aside Contractor and the non-set-aside Contractor in placing any particular order. However, the Government shall allocate successive orders, in accordance with its delivery requirements, to maintain as close a ratio as is reasonably practicable between the total quantities ordered from the two Contractors.</p>
 				        <p class="- topic/p " outputclass="List1">(g) The requirements referred to in this contract are for items to be manufactured according to the Government specifications. Notwithstanding anything to the contrary stated in the contract, the Government may acquire similar products by brand name from other sources for resale.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 60 FR 48264, Sept. 18, 1995; 60 FR 49727, Sept. 26, 1995]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

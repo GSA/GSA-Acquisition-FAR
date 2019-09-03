@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1100762"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">19.502-2</ph> Total small business set-asides.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -136,6 +137,7 @@
                         class="- topic/xref ">part  13</xref>), where the anticipated cost of the procurement will not exceed $25,000, from the nonmanufacturer rule. Waivers permit small businesses to provide any firm’s product. The exception permits small businesses to provide any domestic firm’s product. In both of these cases, the contracting officer’s determination in paragraph (b)(1) of this subsection or the decision not to set aside a procurement reserved for small business under paragraph (a) of this subsection will be based on the expectation of receiving offers from at least two responsible small businesses, including nonmanufacturers, offering the products of different concerns.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[60 FR 34757, July 3, 1995]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

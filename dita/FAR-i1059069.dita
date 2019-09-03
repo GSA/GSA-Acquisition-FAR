@@ -6,7 +6,8 @@
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
 	  <concept id="i1059069"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.215-1</ph> Instructions to Offerors-Competitive Acquisition.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -990,7 +991,8 @@
                      class="- topic/xref ">15.209</xref>(a)(2), add a paragraph (c)(9) substantially the same as the following to the basic clause:</p>
 				        <p class="- topic/p " outputclass="List1">(c)(9) Offerors may submit proposals that depart from stated requirements. Such proposals shall clearly identify why the acceptance of the proposal would be advantageous to the Government. Any deviations from the terms and conditions of the solicitation, as well as the comparative advantage to the Government, shall be clearly identified and explicitly defined. The Government reserves the right to amend the solicitation to allow all offerors an opportunity to submit revised proposals based on the revised requirements.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[62 FR 51259, Sept. 30, 1997; 64 FR 51841, Sept. 24, 1999, as amended at 64 FR 72433, 72451, Dec. 27, 1999; 66 FR 2135, Jan. 10, 2001; 68 FR 69258, Dec. 11, 2003; 82 FR 4715, Jan. 13, 2017]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

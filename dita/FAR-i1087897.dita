@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1087897"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">28.305</ph> Overseas workers’ compensation and war-hazard insurance.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -199,6 +200,7 @@
 						            If the Defense Base Act is waived for some or all of the contractor’s employees, the benefits of the War Hazards Compensation Act are automatically waived with respect to those employees for whom the Defense Base Act is waived. For those employees, the contractor shall provide workers’ compensation coverage against the risk of work injury or death and assume liability toward the employees and their beneficiaries for war-hazard injury, death, capture, or detention. The contract shall provide either that the costs of this liability or the reasonable costs of insurance against this liability shall be allowed as a cost under the contract.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock "/>
+      </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1126490"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">1.603-1</ph> General.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -17,6 +18,7 @@
                      scope="external"
                      class="- topic/xref ">41 U.S.C. 1702(b)(3)(G)</xref>
 				        </ph> requires agency heads to establish and maintain a procurement career management program and a system for the selection, appointment, and termination of appointment of contracting officers. Agency heads or their designees may select and appoint contracting officers and terminate their appointments. These selections and appointments shall be consistent with Office of Federal Procurement Policy’s (OFPP) standards for skill-based training in performing contracting and purchasing duties as published in OFPP Policy Letter No. 05-01, Developing and Managing the Acquisition Workforce, April 15, 2005.</p>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[59 FR 67015, Dec. 28, 1994, as amended at 73 FR 21800, Apr. 22, 2008; 79 FR 24195, Apr. 29, 2014; 81 FR 67781, Sept. 30, 2016]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

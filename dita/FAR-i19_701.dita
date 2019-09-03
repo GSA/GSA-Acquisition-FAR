@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i19_701"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">19.701</ph> Definitions.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -41,6 +42,7 @@
 			      <p class="- topic/p ">“Subcontract” means any agreement (other than one involving an employer-employee relationship) entered into by a Government prime contractor or subcontractor calling for supplies and/or services required for performance of the contract, contract modification, or subcontract.</p>
 			      <p class="- topic/p ">“Total contract dollars” means the final anticipated dollar value, including the dollar value of all options.</p>
 			      <p class="- topic/p ">“Untimely Payment” means a payment to a subcontractor that is more than 90 days past due under the terms and conditions of a subcontract for supplies and services for which the Government has paid the prime contractor.</p>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[63 FR 34064, June 22, 1998, as amended at 66 FR 2130, Jan. 10, 2001; 72 FR 46348, Aug. 17, 2007; 73 FR 21781, Apr. 22, 2008; 81 FR 45843, July 14, 2016; 81 FR 93485, Dec. 20, 2016]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

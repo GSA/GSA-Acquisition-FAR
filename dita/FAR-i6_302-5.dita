@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i6_302-5"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">6.302-5</ph> Authorized or required
 by statute.</title>
@@ -347,6 +349,7 @@ of the selling activities (but see <xref href="FAR-i1119438.dita#i1119438"
                </ol>
             </li>
          </ol>
+         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[50 FR 52432, Dec. 23, 1985, as amended at 51 FR 36971, Oct. 16, 1986; 54 FR 46005, Oct. 31, 1989; 60 FR 42654, Aug. 16, 1995; 61 FR 39200, July 26, 1996; 63 FR 70267, Dec. 18, 1998; 67 FR 13068, Mar. 20, 2002; 69 FR 25276, May 5, 2004; 71 FR 44547, Aug. 4, 2006; 76 FR 14561, Mar. 16, 2011; 79 FR 24198, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 80 FR 81890, Dec. 31, 2015; 84 FR 19842, May 6, 2019]</msgblock>
       </conbody>
    </concept>
 </dita>

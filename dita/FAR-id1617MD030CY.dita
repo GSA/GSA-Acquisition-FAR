@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD030CY"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">22.504</ph> General requirements for project labor agreements.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -188,6 +189,7 @@
 						            <i class="+ topic/ph hi-d/i ">Terms and conditions</i>. As appropriate to advance economy and efficiency in the procurement, an agency may specify the terms and conditions of the project labor agreement in the solicitation and require the successful offeror to become a party to a project labor agreement containing these terms and conditions as a condition of receiving a contract award. An agency may seek the views of, confer with, and exchange information with prospective bidders and union representatives as part of the agency's effort to identify appropriate terms and conditions of a project labor agreement for a particular construction project and facilitate agreement on those terms and conditions.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock "/>
+      </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1085089"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">31.205-16</ph> Gains and losses on disposition or impairment of depreciable property or other capital assets.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -401,6 +402,7 @@
 						            With respect to long-lived tangible and identifiable intangible assets held for use, no loss shall be allowed for a write-down from carrying value to fair value as a result of impairments caused by events or changes in circumstances (<i class="+ topic/ph hi-d/i ">e.g.,</i>environmental damage, idle facilities arising from a declining business base, etc.). If depreciable property or other capital assets have been written down from carrying value to fair value due to impairments, gains or losses upon disposition shall be the amounts that would have been allowed had the assets not been written down.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42301, Sept. 19, 1983, as amended at 55 FR 25530, June 21, 1990; 60 FR 64255, Dec. 14, 1995; 61 FR 67424, Dec. 20, 1996; 68 FR 69248, Dec. 11, 2003; 70 FR 33675, June 8, 2005; 71 FR 36941, June 28, 2006; 75 FR 34291, June 16, 2010]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

@@ -1,87 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="i1077208">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="i1077208"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 39</ph> - Acquisition of Information Technology</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0C0GH.dita#id1617MA0C0GH">39.000 Scope of part.</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0C0GH.dita#id1617MA0C0GH"
+                        class="- topic/xref ">39.000 Scope of part.</xref>
                </p>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MD0K09O.dita#id1617MD0K09O">39.001 Applicability.</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MD0K09O.dita#id1617MD0K09O"
+                        class="- topic/xref ">39.001 Applicability.</xref>
                </p>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MD0K0I5.dita#id1617MD0K0I5">39.002 Definitions.</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MD0K0I5.dita#id1617MD0K0I5"
+                        class="- topic/xref ">39.002 Definitions.</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0C0B7.dita#id1617MA0C0B7">Subpart 39.1 - General</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0C0B7.dita#id1617MA0C0B7"
+                        class="- topic/xref ">Subpart 39.1 - General</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0K0SG.dita#id1617MD0K0SG">39.101 Policy.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0K0SG.dita#id1617MD0K0SG"
+                              class="- topic/xref ">39.101 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0K0KM.dita#id1617MD0K0KM">39.102 Management of risk.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0K0KM.dita#id1617MD0K0KM"
+                              class="- topic/xref ">39.102 Management of risk.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1077125.dita#i1077125">39.103 Modular contracting.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1077125.dita#i1077125"
+                              class="- topic/xref ">39.103 Modular contracting.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0K0K6.dita#id1617MD0K0K6">39.104 Information technology services.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0K0K6.dita#id1617MD0K0K6"
+                              class="- topic/xref ">39.104 Information technology services.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0K07S.dita#id1617MD0K07S">39.105 Privacy.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0K07S.dita#id1617MD0K07S"
+                              class="- topic/xref ">39.105 Privacy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1077175.dita#i1077175">39.106 Contract clause.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1077175.dita#i1077175"
+                              class="- topic/xref ">39.106 Contract clause.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1077004.dita#i1077004">Subpart 39.2 - Electronic and Information Technology</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1077004.dita#i1077004"
+                        class="- topic/xref ">Subpart 39.2 - Electronic and Information Technology</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0K0C0.dita#id1617MD0K0C0">39.201 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0K0C0.dita#id1617MD0K0C0"
+                              class="- topic/xref ">39.201 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0K055.dita#id1617MD0K055">39.202 Definition.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0K055.dita#id1617MD0K055"
+                              class="- topic/xref ">39.202 Definition.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1077016.dita#i1077016">39.203 Applicability.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1077016.dita#i1077016"
+                              class="- topic/xref ">39.203 Applicability.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1077027.dita#i1077027">39.204 Exceptions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1077027.dita#i1077027"
+                              class="- topic/xref ">39.204 Exceptions.</xref>
                      </p>
                   </li>
                </ul>

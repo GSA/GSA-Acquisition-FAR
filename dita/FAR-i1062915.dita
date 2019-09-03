@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1062915"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.211-9</ph> Desired and Required Time of Delivery.</title>
 		    <conbody outputclass="prescribed" class="- topic/body concept/conbody ">
@@ -368,7 +369,8 @@
 				        <p class="- topic/p ">
 					          <i class="+ topic/ph hi-d/i ">Alternate III (<i class="+ topic/ph hi-d/i ">Apr</i>1984)</i>. If the delivery schedule is to be based on the actual date the contractor receives a written notice of award, the contracting officer may delete paragraph (b) of the basic clause. The time may be expressed by substituting “within days after the date of receipt of a written notice of award” as the heading of the third column of paragraph (a) of the basic clause.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 56 FR 41732, Aug. 22, 1991; 60 FR 34739, July 3, 1995. Redesignated and amended at 60 FR 48251, 48256, Sept. 18, 1995; 62 FR 40238, July 25, 1997]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

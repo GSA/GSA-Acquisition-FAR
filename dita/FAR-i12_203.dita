@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i12_203"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">12.203</ph> Procedures for solicitation, evaluation, and award.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -41,6 +42,7 @@
                      outputclass="fm:Subpart"
                      class="- topic/xref ">subpart  13.5</xref>
 				        </ph>.</p>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[60 FR 48241, Sept. 18, 1995, as amended at 62 FR 264, Jan. 2, 1997; 62 FR 64917, Dec. 9, 1997; 69 FR 8313, Feb. 23, 2004; 69 FR 76351, Dec. 20, 2004; 71 FR 57366, Sept. 28, 2006; 75 FR 53132, Aug. 30, 2010; 80 FR 38297, 38311, July 2, 2015]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

@@ -1,470 +1,651 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="i1079251">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="i1079251"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 36</ph> - Construction and Architect-Engineer Contracts</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0C0RX.dita#id1617MA0C0RX">36.000 Scope of part.</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0C0RX.dita#id1617MA0C0RX"
+                        class="- topic/xref ">36.000 Scope of part.</xref>
                </p>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MD0I0VP.dita#id1617MD0I0VP">36.001 Definitions.</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MD0I0VP.dita#id1617MD0I0VP"
+                        class="- topic/xref ">36.001 Definitions.</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0C08U.dita#id1617MA0C08U">Subpart 36.1 - General</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0C08U.dita#id1617MA0C08U"
+                        class="- topic/xref ">Subpart 36.1 - General</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0DP.dita#id1617MD0I0DP">36.101 Applicability.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0DP.dita#id1617MD0I0DP"
+                              class="- topic/xref ">36.101 Applicability.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0DY.dita#id1617MD0I0DY">36.102 Definitions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0DY.dita#id1617MD0I0DY"
+                              class="- topic/xref ">36.102 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0Z6.dita#id1617MD0I0Z6">36.103 Methods of contracting.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0Z6.dita#id1617MD0I0Z6"
+                              class="- topic/xref ">36.103 Methods of contracting.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I00L.dita#id1617MD0I00L">36.104 Policy.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I00L.dita#id1617MD0I00L"
+                              class="- topic/xref ">36.104 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0C00M.dita#id1617MA0C00M">Subpart 36.2 - Special Aspects of Contracting for Construction</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0C00M.dita#id1617MA0C00M"
+                        class="- topic/xref ">Subpart 36.2 - Special Aspects of Contracting for Construction</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078924.dita#i1078924">36.201 Evaluation of contractor performance.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078924.dita#i1078924"
+                              class="- topic/xref ">36.201 Evaluation of contractor performance.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078930.dita#i1078930">36.202 Specifications.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078930.dita#i1078930"
+                              class="- topic/xref ">36.202 Specifications.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0WJ.dita#id1617MD0I0WJ">36.203 Government estimate of construction costs.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0WJ.dita#id1617MD0I0WJ"
+                              class="- topic/xref ">36.203 Government estimate of construction costs.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078943.dita#i1078943">36.204 Disclosure of the magnitude of construction projects.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078943.dita#i1078943"
+                              class="- topic/xref ">36.204 Disclosure of the magnitude of construction projects.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0FL.dita#id1617MD0I0FL">36.205 Statutory cost limitations.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0FL.dita#id1617MD0I0FL"
+                              class="- topic/xref ">36.205 Statutory cost limitations.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0SM.dita#id1617MD0I0SM">36.206 Liquidated damages.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0SM.dita#id1617MD0I0SM"
+                              class="- topic/xref ">36.206 Liquidated damages.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0LP.dita#id1617MD0I0LP">36.207 Pricing fixed-price construction contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0LP.dita#id1617MD0I0LP"
+                              class="- topic/xref ">36.207 Pricing fixed-price construction contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0DM.dita#id1617MD0I0DM">36.208 Concurrent performance of firm-fixed-price and other types of construction contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0DM.dita#id1617MD0I0DM"
+                              class="- topic/xref ">36.208 Concurrent performance of firm-fixed-price and other types of construction contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078982.dita#i1078982">36.209 Construction contracts with architect-engineer firms.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078982.dita#i1078982"
+                              class="- topic/xref ">36.209 Construction contracts with architect-engineer firms.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078985.dita#i1078985">36.210 Inspection of site and examination of data.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078985.dita#i1078985"
+                              class="- topic/xref ">36.210 Inspection of site and examination of data.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078988.dita#i1078988">36.211 Distribution of advance notices and solicitations.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078988.dita#i1078988"
+                              class="- topic/xref ">36.211 Distribution of advance notices and solicitations.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0AI.dita#id1617MD0I0AI">36.212 Preconstruction orientation.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0AI.dita#id1617MD0I0AI"
+                              class="- topic/xref ">36.212 Preconstruction orientation.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0R8.dita#id1617MD0I0R8">36.213 Special procedures for sealed bidding in construction contracting.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0R8.dita#id1617MD0I0R8"
+                              class="- topic/xref ">36.213 Special procedures for sealed bidding in construction contracting.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD0I04B.dita#id1617MD0I04B">36.213-1 General.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD0I04B.dita#id1617MD0I04B"
+                                    class="- topic/xref ">36.213-1 General.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1079015.dita#i1079015">36.213-2 Presolicitation notices.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1079015.dita#i1079015"
+                                    class="- topic/xref ">36.213-2 Presolicitation notices.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1079033.dita#i1079033">36.213-3 Invitations for bids.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1079033.dita#i1079033"
+                                    class="- topic/xref ">36.213-3 Invitations for bids.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD0I07Z.dita#id1617MD0I07Z">36.213-4 Notice of award.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD0I07Z.dita#id1617MD0I07Z"
+                                    class="- topic/xref ">36.213-4 Notice of award.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0XE.dita#id1617MD0I0XE">36.214 Special procedures for price negotiation in construction contracting.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0XE.dita#id1617MD0I0XE"
+                              class="- topic/xref ">36.214 Special procedures for price negotiation in construction contracting.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0GW.dita#id1617MD0I0GW">36.215 Special procedure for cost-reimbursement contracts for construction.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0GW.dita#id1617MD0I0GW"
+                              class="- topic/xref ">36.215 Special procedure for cost-reimbursement contracts for construction.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1078838.dita#i1078838">Subpart 36.3 - Two-Phase Design-Build Selection Procedures</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1078838.dita#i1078838"
+                        class="- topic/xref ">Subpart 36.3 - Two-Phase Design-Build Selection Procedures</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MA0C0VN.dita#id1617MA0C0VN">36.300 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MA0C0VN.dita#id1617MA0C0VN"
+                              class="- topic/xref ">36.300 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0MI.dita#id1617MD0I0MI">36.301 Use of two-phase design-build selection procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0MI.dita#id1617MD0I0MI"
+                              class="- topic/xref ">36.301 Use of two-phase design-build selection procedures.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0X9.dita#id1617MD0I0X9">36.302 Scope of work.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0X9.dita#id1617MD0I0X9"
+                              class="- topic/xref ">36.302 Scope of work.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0I0N7.dita#id1617MD0I0N7">36.303 Procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0I0N7.dita#id1617MD0I0N7"
+                              class="- topic/xref ">36.303 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1078866.dita#i1078866">36.303-1 Phase One.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1078866.dita#i1078866"
+                                    class="- topic/xref ">36.303-1 Phase One.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1078886.dita#i1078886">36.303-2 Phase Two.</xref>
-                           </p>
-                        </li>
-                     </ul>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0C0Q1.dita#id1617MA0C0Q1">Subpart 36.4 - [Reserved]</xref>
-               </p>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1078614.dita#i1078614">Subpart 36.5 - Contract Clauses</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MA0C0T9.dita#id1617MA0C0T9">36.500 Scope of subpart.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078621.dita#i1078621">36.501 Performance of work by the contractor.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078643.dita#i1078643">36.502 Differing site conditions.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078649.dita#i1078649">36.503 Site investigation and conditions affecting the work.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078655.dita#i1078655">36.504 Physical data.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078661.dita#i1078661">36.505 Material and workmanship.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078667.dita#i1078667">36.506 Superintendence by the contractor.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078673.dita#i1078673">36.507 Permits and responsibilities.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078679.dita#i1078679">36.508 Other contracts.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078685.dita#i1078685">36.509 Protection of existing vegetation, structures, equipment, utilities, and improvements.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078691.dita#i1078691">36.510 Operations and storage areas.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078697.dita#i1078697">36.511 Use and possession prior to completion.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078703.dita#i1078703">36.512 Cleaning up.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078709.dita#i1078709">36.513 Accident prevention.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078717.dita#i1078717">36.514 Availability and use of utility services.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078723.dita#i1078723">36.515 Schedules for construction contracts.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078729.dita#i1078729">36.516 Quantity surveys.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078735.dita#i1078735">36.517 Layout of work.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078741.dita#i1078741">36.518 Work oversight in cost-reimbursement construction contracts.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078747.dita#i1078747">36.519 Organization and direction of the work.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078753.dita#i1078753">36.520 Contracting by negotiation.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078759.dita#i1078759">36.521 Specifications and drawings for construction.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078767.dita#i1078767">36.522 Preconstruction conference.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078773.dita#i1078773">36.523 Site visit.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-i1078280.dita#i1078280">Subpart 36.6 - Architect-Engineer Services</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MA0C0EY.dita#id1617MA0C0EY">36.600 Scope of subpart.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078287.dita#i1078287">36.601 Policy.</xref>
-                     </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD0I029.dita#id1617MD0I029">36.601-1 Public announcement.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD0I0QI.dita#id1617MD0I0QI">36.601-2 Competition.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD0I055.dita#id1617MD0I055">36.601-3 Applicable contracting procedures.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1078339.dita#i1078339">36.601-4 Implementation.</xref>
-                           </p>
-                        </li>
-                     </ul>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078362.dita#i1078362">36.602 Selection of firms for architect-engineer contracts.</xref>
-                     </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1078364.dita#i1078364">36.602-1 Selection criteria.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-id1617MD0I0T2.dita#id1617MD0I0T2">36.602-2 Evaluation boards.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1078384.dita#i1078384">36.602-3 Evaluation board functions.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1078397.dita#i1078397">36.602-4 Selection authority.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1078406.dita#i1078406">36.602-5 Short selection process for contracts not to exceed the simplified acquisition threshold.</xref>
-                           </p>
-                        </li>
-                     </ul>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078432.dita#i1078432">36.603 Collecting data on and appraising firms qualifications.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078473.dita#i1078473">36.604 Performance evaluation.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0J0CU.dita#id1617MD0J0CU">36.605 Government cost estimate for architect-engineer work.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078482.dita#i1078482">36.606 Negotiations.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0J006.dita#id1617MD0J006">36.607 Release of information on firm selection.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0J02V.dita#id1617MD0J02V">36.608 Liability for Government costs resulting from design errors or deficiencies.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MD0J0AO.dita#id1617MD0J0AO">36.609 Contract clauses.</xref>
-                     </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1078535.dita#i1078535">36.609-1 Design within funding limitations.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1078549.dita#i1078549">36.609-2 Redesign responsibility for design errors or deficiencies.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1078556.dita#i1078556">36.609-3 Work oversight in architect-engineer contracts.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="FAR-i1078562.dita#i1078562">36.609-4 Requirements for registration of designers.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1078886.dita#i1078886"
+                                    class="- topic/xref ">36.303-2 Phase Two.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="FAR-id1617MA0C07F.dita#id1617MA0C07F">Subpart 36.7 - Standard and Optional Forms for Contracting for Construction, Architect-Engineer Services, and Dismantling, Demolition, or Removal of Improvements</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0C0Q1.dita#id1617MA0C0Q1"
+                        class="- topic/xref ">Subpart 36.4 - [Reserved]</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-id1617MA0C0SS.dita#id1617MA0C0SS">36.700 Scope of subpart.</xref>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1078614.dita#i1078614"
+                        class="- topic/xref ">Subpart 36.5 - Contract Clauses</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MA0C0T9.dita#id1617MA0C0T9"
+                              class="- topic/xref ">36.500 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078213.dita#i1078213">36.701 Standard and optional forms for use in contracting for construction or dismantling, demolition, or removal of improvements.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078621.dita#i1078621"
+                              class="- topic/xref ">36.501 Performance of work by the contractor.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="FAR-i1078240.dita#i1078240">36.702 Forms for use in contracting for architect-engineer services.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078643.dita#i1078643"
+                              class="- topic/xref ">36.502 Differing site conditions.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078649.dita#i1078649"
+                              class="- topic/xref ">36.503 Site investigation and conditions affecting the work.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078655.dita#i1078655"
+                              class="- topic/xref ">36.504 Physical data.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078661.dita#i1078661"
+                              class="- topic/xref ">36.505 Material and workmanship.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078667.dita#i1078667"
+                              class="- topic/xref ">36.506 Superintendence by the contractor.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078673.dita#i1078673"
+                              class="- topic/xref ">36.507 Permits and responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078679.dita#i1078679"
+                              class="- topic/xref ">36.508 Other contracts.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078685.dita#i1078685"
+                              class="- topic/xref ">36.509 Protection of existing vegetation, structures, equipment, utilities, and improvements.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078691.dita#i1078691"
+                              class="- topic/xref ">36.510 Operations and storage areas.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078697.dita#i1078697"
+                              class="- topic/xref ">36.511 Use and possession prior to completion.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078703.dita#i1078703"
+                              class="- topic/xref ">36.512 Cleaning up.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078709.dita#i1078709"
+                              class="- topic/xref ">36.513 Accident prevention.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078717.dita#i1078717"
+                              class="- topic/xref ">36.514 Availability and use of utility services.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078723.dita#i1078723"
+                              class="- topic/xref ">36.515 Schedules for construction contracts.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078729.dita#i1078729"
+                              class="- topic/xref ">36.516 Quantity surveys.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078735.dita#i1078735"
+                              class="- topic/xref ">36.517 Layout of work.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078741.dita#i1078741"
+                              class="- topic/xref ">36.518 Work oversight in cost-reimbursement construction contracts.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078747.dita#i1078747"
+                              class="- topic/xref ">36.519 Organization and direction of the work.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078753.dita#i1078753"
+                              class="- topic/xref ">36.520 Contracting by negotiation.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078759.dita#i1078759"
+                              class="- topic/xref ">36.521 Specifications and drawings for construction.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078767.dita#i1078767"
+                              class="- topic/xref ">36.522 Preconstruction conference.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078773.dita#i1078773"
+                              class="- topic/xref ">36.523 Site visit.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-i1078280.dita#i1078280"
+                        class="- topic/xref ">Subpart 36.6 - Architect-Engineer Services</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MA0C0EY.dita#id1617MA0C0EY"
+                              class="- topic/xref ">36.600 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078287.dita#i1078287"
+                              class="- topic/xref ">36.601 Policy.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD0I029.dita#id1617MD0I029"
+                                    class="- topic/xref ">36.601-1 Public announcement.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD0I0QI.dita#id1617MD0I0QI"
+                                    class="- topic/xref ">36.601-2 Competition.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD0I055.dita#id1617MD0I055"
+                                    class="- topic/xref ">36.601-3 Applicable contracting procedures.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1078339.dita#i1078339"
+                                    class="- topic/xref ">36.601-4 Implementation.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078362.dita#i1078362"
+                              class="- topic/xref ">36.602 Selection of firms for architect-engineer contracts.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1078364.dita#i1078364"
+                                    class="- topic/xref ">36.602-1 Selection criteria.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-id1617MD0I0T2.dita#id1617MD0I0T2"
+                                    class="- topic/xref ">36.602-2 Evaluation boards.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1078384.dita#i1078384"
+                                    class="- topic/xref ">36.602-3 Evaluation board functions.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1078397.dita#i1078397"
+                                    class="- topic/xref ">36.602-4 Selection authority.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1078406.dita#i1078406"
+                                    class="- topic/xref ">36.602-5 Short selection process for contracts not to exceed the simplified acquisition threshold.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078432.dita#i1078432"
+                              class="- topic/xref ">36.603 Collecting data on and appraising firms qualifications.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078473.dita#i1078473"
+                              class="- topic/xref ">36.604 Performance evaluation.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0J0CU.dita#id1617MD0J0CU"
+                              class="- topic/xref ">36.605 Government cost estimate for architect-engineer work.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078482.dita#i1078482"
+                              class="- topic/xref ">36.606 Negotiations.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0J006.dita#id1617MD0J006"
+                              class="- topic/xref ">36.607 Release of information on firm selection.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0J02V.dita#id1617MD0J02V"
+                              class="- topic/xref ">36.608 Liability for Government costs resulting from design errors or deficiencies.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MD0J0AO.dita#id1617MD0J0AO"
+                              class="- topic/xref ">36.609 Contract clauses.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1078535.dita#i1078535"
+                                    class="- topic/xref ">36.609-1 Design within funding limitations.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1078549.dita#i1078549"
+                                    class="- topic/xref ">36.609-2 Redesign responsibility for design errors or deficiencies.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1078556.dita#i1078556"
+                                    class="- topic/xref ">36.609-3 Work oversight in architect-engineer contracts.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="FAR-i1078562.dita#i1078562"
+                                    class="- topic/xref ">36.609-4 Requirements for registration of designers.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="FAR-id1617MA0C07F.dita#id1617MA0C07F"
+                        class="- topic/xref ">Subpart 36.7 - Standard and Optional Forms for Contracting for Construction, Architect-Engineer Services, and Dismantling, Demolition, or Removal of Improvements</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-id1617MA0C0SS.dita#id1617MA0C0SS"
+                              class="- topic/xref ">36.700 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078213.dita#i1078213"
+                              class="- topic/xref ">36.701 Standard and optional forms for use in contracting for construction or dismantling, demolition, or removal of improvements.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="FAR-i1078240.dita#i1078240"
+                              class="- topic/xref ">36.702 Forms for use in contracting for architect-engineer services.</xref>
                      </p>
                   </li>
                </ul>

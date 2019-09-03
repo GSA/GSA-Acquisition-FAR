@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1069574"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">48.104-1</ph> Determining sharing period.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -128,6 +129,7 @@
 						            For contracts (other than those in paragraph (c) of this subsection) for items requiring a prolonged production schedule (<i class="+ topic/ph hi-d/i ">e.g.,</i>ship construction, major system acquisition), the end of the sharing period is determined according to paragraph (b) of this subsection. Agencies may prescribe sharing of future contract savings on all future contract units to be delivered under contracts awarded within the sharing period for essentially the same item, even if the scheduled delivery date is outside the sharing period.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[64 FR 51847, Sept. 24, 1999]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

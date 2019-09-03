@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1085958"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">31.001</ph> Definitions.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -335,6 +336,7 @@
 			      <p id="d1918e336" class="- topic/p ">“Variance” means the difference between a preestablished measure and an actual measure.</p>
 			      <p id="d1918e339" class="- topic/p ">“Weighted average cost” means an inventory costing method under which an average unit cost is computed periodically by dividing the sum of the cost of beginning inventory plus the cost of acquisitions by the total number of units included in these two categories.</p>
 			      <p id="d1918e343" class="- topic/p ">“Welfare benefit fund” means a trust or organization which receives and accumulates assets to be used either for the payment of postretirement benefits, or for the purchase of such benefits, provided such accumulated assets form a part of a postretirement benefit plan.</p>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42301, Sept. 17, 1983, as amended at 54 FR 13024, Mar. 29, 1989; 61 FR 39217, July 26, 1996; 61 FR 69288, Dec. 31, 1996; 63 FR 58596, Oct. 30, 1998; 66 FR 2131, Jan. 10, 2001; 68 FR 28091, May 22, 2003; 68 FR 43866, July 24, 2003; 74 FR 65612, Dec. 10, 2009]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

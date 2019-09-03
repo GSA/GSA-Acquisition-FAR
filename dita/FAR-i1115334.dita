@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1115334"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">9.406-2</ph> Causes for debarment.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -699,6 +700,7 @@
 						            A contractor or subcontractor based on any other cause of so serious or compelling a nature that it affects the present responsibility of the contractor or subcontractor.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 4968, Jan. 31, 1989; 54 FR 19815, May 8, 1989; 55 FR 21707, May 25, 1990; 59 FR 11372, Mar. 10, 1994; 61 FR 2633, Jan. 26, 1996; 61 FR 41473, Aug. 8, 1996; 61 FR 69291, Dec. 31, 1996; 68 FR 28080, May 22, 2003; 69 FR 34230, June 18, 2004; 73 FR 21798, Apr. 22, 2008; 73 FR 67091, Nov. 12, 2008; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 84 FR 19845, May 6, 2019]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

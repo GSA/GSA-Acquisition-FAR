@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1066837"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">50.103-2</ph> Types of contract adjustment.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -209,6 +210,7 @@
 						            <i class="+ topic/ph hi-d/i ">Formalizing informal commitments</i>. Under certain circumstances, informal commitments may be formalized to permit payment to persons who have taken action without a formal contract; for example, when a person, responding to an agency official’s written or oral instructions and relying in good faith upon the official’s apparent authority to issue them, has furnished or arranged to furnish supplies or services to the agency, or to a defense contractor or subcontractor, without formal contractual coverage. Formalizing commitments under such circumstances normally will facilitate the national defense by assuring such persons that they will be treated fairly and paid expeditiously.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock "/>
+      </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
 	  <concept id="i1092636"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">25.402</ph> General.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -515,6 +516,7 @@
 					          </tbody>
 				        </tgroup>
 			      </table>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[69 FR 77874, Dec. 28, 2004, as amended at 71 FR 219, Jan. 3, 2006; 71 FR 865, Jan. 5, 2006; 71 FR 20307, Apr. 19, 2006; 71 FR 36937, June 28, 2006; 71 FR 67777, Nov. 22, 2006; 72 FR 46358, Aug. 17, 2007; 73 FR 10963, Feb. 28, 2008; 73 FR 16747, Mar. 28, 2008; 74 FR 28428, June 15, 2009; 75 FR 38690, July 2, 2010; 77 FR 27550, May 10, 2012; 77 FR 69724, Nov. 20, 2012; 78 FR 80380, Dec. 31, 2013; 79 FR 24209, Apr. 29, 2014; 80 FR 81895, Dec. 31, 2015; 83 FR 3398, Jan. 24, 2018]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

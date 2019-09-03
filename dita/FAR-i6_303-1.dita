@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i6_303-1"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">6.303-1</ph> Requirements.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -249,6 +250,7 @@
                         class="- topic/xref ">6.302-2</xref> may be prepared and approved within a reasonable time after contract award when preparation and approval prior to award would unreasonably delay the acquisitions.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[50 FR 1729, Jan. 11, 1985, as amended at 50 FR 52433, Dec. 23, 1985; 55 FR 25526, June 21, 1990; 64 FR 72418, Dec. 27, 1999; 69 FR 77872, Dec. 28, 2004; 76 FR 14561, Mar. 16, 2011; 80 FR 38296, July 2, 2015; 84 FR 19843, May 6, 2019]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

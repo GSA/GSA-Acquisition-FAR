@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD00WZM"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">15.404-2</ph> Data to support proposal analysis.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -593,6 +594,7 @@
 						            <i class="+ topic/ph hi-d/i ">Deficient proposals</i>. The ACO or the auditor, as appropriate, shall notify the contracting officer immediately if the data provided for review is so deficient as to preclude review or audit, or if the contractor or offeror has denied access to any records considered essential to conduct a satisfactory review or audit. Oral notifications shall be confirmed promptly in writing, including a description of deficient or denied data or records. The contracting officer immediately shall take appropriate action to obtain the required data. Should the offeror/contractor again refuse to provide adequate data, or provide access to necessary data, the contracting officer shall withhold the award or price adjustment and refer the contract action to a higher authority, providing details of the attempts made to resolve the matter and a statement of the practicability of obtaining the supplies or services from another source.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[62 FR 51230, Sept. 30, 1997, as amended at 64 FR 51837, Sept. 24, 1999; 67 FR 13063, Mar. 20, 2002; 75 FR 53146, Aug. 30, 2010; 79 FR 24202, Apr. 29, 2014; 80 FR 38312, July 2, 2015]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1096236"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">22.1204</ph> Certified service employee lists.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -56,6 +57,7 @@
 						            Immediately upon receipt of the certified service employee list but not before contract award, the contracting officer shall provide the certified service employee list to the successor contractor, and, if requested, to employees of the predecessor contractor or subcontractors or their authorized representatives.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[77 FR 75776, Dec. 21, 2012, as amended at 79 FR 24208, Apr. 29, 2014]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

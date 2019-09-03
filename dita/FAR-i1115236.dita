@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1115236"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">9.405</ph> Effect of listing.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -188,6 +189,7 @@
 					          </ol>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42142, Sept. 19, 1983, as amended at 52 FR 9038, Mar. 20, 1987; 54 FR 19814, May 8, 1989; 54 FR 48982, Nov. 28, 1989; 55 FR 21707, May 25, 1990; 56 FR 29127, June 25, 1991; 59 FR 67033, Dec. 28, 1994; 60 FR 33065, June 26, 1995; 65 FR 16286, Mar. 27, 2000; 68 FR 69251, Dec. 11, 2003; 69 FR 76349, Dec. 20, 2004; 78 FR 37678, June 21, 2013; 83 FR 28148, June 15, 2018; 83 FR 48696, Sept. 26, 2018]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

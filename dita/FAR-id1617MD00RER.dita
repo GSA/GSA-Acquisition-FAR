@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD00RER"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">11.104</ph> Use of brand name or equal purchase descriptions.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -50,6 +51,7 @@
 						            Brand name or equal purchase descriptions must include, in addition to the brand name, a general description of those salient physical, functional, or performance characteristics of the brand name item that an “equal” item must meet to be acceptable for award. Use brand name or equal descriptions when the salient characteristics are firm requirements.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[64 FR 32742, June 17, 1999]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

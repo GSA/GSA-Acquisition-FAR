@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD00V3G"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">14.503-1</ph> Step one.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -695,6 +696,7 @@
 						            If it is necessary to discontinue two-step sealed bidding, the contracting officer shall include a statement of the facts and circumstances in the contract file. Each offeror shall be notified in writing. When step one results in no acceptable technical proposal or only one acceptable technical proposal, the acquisition may be continued by negotiation.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42171, Sept. 19, 1983, as amended at 50 FR 1739, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 51 FR 2649, Jan. 17, 1986; 56 FR 41733, Aug. 22, 1991; 60 FR 42654, Aug. 16, 1995; 61 FR 69289, Dec. 31, 1996; 62 FR 51270, Sept. 30, 1997; 64 FR 51839, Sept. 24, 1999; 68 FR 43856, July 24, 2003]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

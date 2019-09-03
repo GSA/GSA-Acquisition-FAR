@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="id1617MD00RZX"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">9.702</ph> Contracting with pools.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -107,6 +108,7 @@
 						            Before awarding a contract to an unincorporated pool, the contracting officer shall require each pool member participating in the contract to furnish a certified copy of a power of attorney identifying the agent authorized to sign the offer or contract on that member’s behalf. The contracting officer shall attach a copy of each power of attorney to each signed copy of the contract retained by the Government.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42142, Sept. 19, 1983, as amended at 61 FR 67410, Dec. 20, 1996]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

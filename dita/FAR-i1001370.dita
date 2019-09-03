@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1001370"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">53.222</ph> Application of labor laws to Government acquisitions (SF’s 308, 1413, 1444, 1445, 1446, WH-347).</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -237,6 +238,7 @@
                         class="- topic/xref ">22.406-6</xref>(a).)</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42637, Sept. 19, 1983, as amended at 49 FR 12997, Mar. 30, 1984; 53 FR 4948, Feb. 18, 1988; 53 FR 27468, July 20, 1988; 54 FR 48998, Nov. 28, 1989; 55 FR 38518, Sept. 18, 1990; 59 FR 11388, Mar. 10, 1994; 62 FR 240, Jan. 2, 1997; 70 FR 33669, June 8, 2005; 71 FR 36935, June 28, 2006; 79 FR 24224, Apr. 29, 2014; 79 FR 70343, Nov. 25, 2014]</msgblock>
+      </conbody>
 	  </concept>
 </dita>

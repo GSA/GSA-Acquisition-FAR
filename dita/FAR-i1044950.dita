@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1044950"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.249-8</ph> Default (Fixed-Price Supply and Service).</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -282,7 +283,8 @@
 				        <p class="- topic/p " outputclass="List2">(2) The Government’s right to terminate this contract under subdivisions(a)(1)(ii) and (iii) of this clause, may be exercised if the Contractor does not cure such failure within 10 days (or more if authorized in writing by the Contracting Officer) after receipt of the notice from the Contracting Officer specifying the failure.</p>
 				        <p class="- topic/p " outputclass="List1">(e) If this contract is terminated while the Contractor has possession of Government goods, the Contractor shall, upon direction of the Contracting Officer, protect and preserve the goods until surrendered to the Government or its agent. The Contractor and Contracting Officer shall agree on payment for the preservation and protection of goods. Failure to agree on an amount will be a dispute under the Disputes clause.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 60 FR 34762, July 3, 1995]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

@@ -6,7 +6,8 @@
       domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
 	  <concept id="i1049841"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">52.232-16</ph> Progress Payments.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -1888,7 +1889,8 @@
                      class="- topic/xref ">32.502-4</xref>(d), add the following paragraph (n) to the basic clause. If Alternate II is also being used, redesignate the following paragraph as paragraph (p):</p>
 				        <p class="- topic/p " outputclass="List1">(n) The provisions of this clause will not be applicable to individual orders at or below the simplified acquisition threshold.</p>
 				        <?FM MARKER [Alt] End?>
-			      </section>
+			         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 52 FR 30078, Aug. 12, 1987; 55 FR 40392, Oct. 3, 1990; 56 FR 29138, June 25, 1991; 65 FR 16284, Mar. 27, 2000; 66 FR 65361, Dec. 18, 2001; 67 FR 56126, Aug. 30, 2002; 67 FR 70521, Nov. 22, 2002; 68 FR 13208, Mar. 18, 2003; 72 FR 46363, Aug. 17, 2007; 74 FR 28431, June 15, 2009; 75 FR 38681, July 2, 2010; 77 FR 12944, Mar. 2, 2012]</msgblock>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>

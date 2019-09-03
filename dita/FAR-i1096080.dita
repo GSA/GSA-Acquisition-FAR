@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1096080"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">22.1305</ph> Waivers.</title>
 		    <conbody class="- topic/body concept/conbody ">
@@ -171,6 +172,7 @@
 						            The Deputy Assistant Secretary of Labor may withdraw an approved waiver for a specific contract or group of contracts to be awarded, when in the Deputy’s judgment such action is necessary to achieve the purposes of the Act. The withdrawal does not apply to awarded contracts. For procurements entered into by sealed bidding, such withdrawal does not apply unless the withdrawal is made more than 10 calendar days before the date set for the opening of bids.</p>
 				        </li>
 			      </ol>
-		    </conbody>
+		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[66 FR 53488, Oct. 22, 2001, as amended at 75 FR 60251, Sept. 29, 2010]</msgblock>
+      </conbody>
 	  </concept>
 </dita>
