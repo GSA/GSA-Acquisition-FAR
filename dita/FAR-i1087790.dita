@@ -1,181 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="i1087790" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
+<dita>
+   <topic id="i1087790">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 29</ph> - Taxes</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="FAR-id1617MA09091.dita#id1617MA09091"
-                        class="- topic/xref ">29.000 Scope of part.</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p id="d1862e17">
+                  <xref outputclass="fm:TOC" href="FAR-id1617MA09091.dita#id1617MA09091">29.000 Scope of part.</xref>
                </p>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="FAR-id1617MA090I8.dita#id1617MA090I8"
-                        class="- topic/xref ">Subpart 29.1 - General</xref>
+            <li props="Subpart">
+               <p id="d1862e26">
+                  <xref outputclass="fm:TOC" href="FAR-id1617MA090I8.dita#id1617MA090I8">Subpart 29.1 - General</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-i1087758.dita#i1087758"
-                              class="- topic/xref ">29.101 Resolving tax problems.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p id="d1862e36">
+                        <xref outputclass="fm:TOC" href="FAR-i1087758.dita#i1087758">29.101 Resolving tax problems.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="FAR-id1617MA090CR.dita#id1617MA090CR"
-                        class="- topic/xref ">Subpart 29.2 - Federal Excise Taxes</xref>
+            <li props="Subpart">
+               <p id="d1862e47">
+                  <xref outputclass="fm:TOC" href="FAR-id1617MA090CR.dita#id1617MA090CR">Subpart 29.2 - Federal Excise Taxes</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-id1617MD0B0M5.dita#id1617MD0B0M5"
-                              class="- topic/xref ">29.201 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p id="d1862e57">
+                        <xref outputclass="fm:TOC" href="FAR-id1617MD0B0M5.dita#id1617MD0B0M5">29.201 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-id1617MD0B0VY.dita#id1617MD0B0VY"
-                              class="- topic/xref ">29.202 General exemptions.</xref>
+                  <li>
+                     <p id="d1862e66">
+                        <xref outputclass="fm:TOC" href="FAR-id1617MD0B0VY.dita#id1617MD0B0VY">29.202 General exemptions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-id1617MD0B0PY.dita#id1617MD0B0PY"
-                              class="- topic/xref ">29.203 Other Federal tax exemptions.</xref>
+                  <li>
+                     <p id="d1862e75">
+                        <xref outputclass="fm:TOC" href="FAR-id1617MD0B0PY.dita#id1617MD0B0PY">29.203 Other Federal tax exemptions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="FAR-id1617MA0906E.dita#id1617MA0906E"
-                        class="- topic/xref ">Subpart 29.3 - State and Local Taxes</xref>
+            <li props="Subpart">
+               <p id="d1862e86">
+                  <xref outputclass="fm:TOC" href="FAR-id1617MA0906E.dita#id1617MA0906E">Subpart 29.3 - State and Local Taxes</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-id1617MA090SV.dita#id1617MA090SV"
-                              class="- topic/xref ">29.300 Scope of subpart.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p id="d1862e96">
+                        <xref outputclass="fm:TOC" href="FAR-id1617MA090SV.dita#id1617MA090SV">29.300 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-id1617MD0B07T.dita#id1617MD0B07T"
-                              class="- topic/xref ">29.301 [Reserved]</xref>
+                  <li>
+                     <p id="d1862e105">
+                        <xref outputclass="fm:TOC" href="FAR-id1617MD0B07T.dita#id1617MD0B07T">29.301 [Reserved]</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-i1087613.dita#i1087613"
-                              class="- topic/xref ">29.302 Application of State and local taxes to the Government.</xref>
+                  <li>
+                     <p id="d1862e114">
+                        <xref outputclass="fm:TOC" href="FAR-i1087613.dita#i1087613">29.302 Application of State and local taxes to the Government.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-id1617MD0B0X2.dita#id1617MD0B0X2"
-                              class="- topic/xref ">29.303 Application of State and local taxes to Government contractors and subcontractors.</xref>
+                  <li>
+                     <p id="d1862e123">
+                        <xref outputclass="fm:TOC" href="FAR-id1617MD0B0X2.dita#id1617MD0B0X2">29.303 Application of State and local taxes to Government contractors and subcontractors.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-i1087633.dita#i1087633"
-                              class="- topic/xref ">29.304 Matters requiring special consideration.</xref>
+                  <li>
+                     <p id="d1862e132">
+                        <xref outputclass="fm:TOC" href="FAR-i1087633.dita#i1087633">29.304 Matters requiring special consideration.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-i1087650.dita#i1087650"
-                              class="- topic/xref ">29.305 State and local tax exemptions.</xref>
+                  <li>
+                     <p id="d1862e142">
+                        <xref outputclass="fm:TOC" href="FAR-i1087650.dita#i1087650">29.305 State and local tax exemptions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="FAR-id1617MA0A0HH.dita#id1617MA0A0HH"
-                        class="- topic/xref ">Subpart 29.4 - Contract Clauses</xref>
+            <li props="Subpart">
+               <p id="d1862e153">
+                  <xref outputclass="fm:TOC" href="FAR-id1617MA0A0HH.dita#id1617MA0A0HH">Subpart 29.4 - Contract Clauses</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-id1617MD0B00B.dita#id1617MD0B00B"
-                              class="- topic/xref ">29.401 Domestic contracts.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p id="d1862e163">
+                        <xref outputclass="fm:TOC" href="FAR-id1617MD0B00B.dita#id1617MD0B00B">29.401 Domestic contracts.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="FAR-i1087514.dita#i1087514"
-                                    class="- topic/xref ">29.401-1 Indefinite-delivery contracts for leased equipment.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p id="d1862e173">
+                              <xref outputclass="fm:TOC" href="FAR-i1087514.dita#i1087514">29.401-1 Indefinite-delivery contracts for leased equipment.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="FAR-i1087523.dita#i1087523"
-                                    class="- topic/xref ">29.401-2 Construction contracts performed in North Carolina.</xref>
+                        <li>
+                           <p id="d1862e182">
+                              <xref outputclass="fm:TOC" href="FAR-i1087523.dita#i1087523">29.401-2 Construction contracts performed in North Carolina.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="FAR-i1087529.dita#i1087529"
-                                    class="- topic/xref ">29.401-3 Federal, State, and local taxes.</xref>
+                        <li>
+                           <p id="d1862e191">
+                              <xref outputclass="fm:TOC" href="FAR-i1087529.dita#i1087529">29.401-3 Federal, State, and local taxes.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="FAR-i1087545.dita#i1087545"
-                                    class="- topic/xref ">29.401-4 New Mexico gross receipts and compensating tax.</xref>
+                        <li>
+                           <p id="d1862e200">
+                              <xref outputclass="fm:TOC" href="FAR-i1087545.dita#i1087545">29.401-4 New Mexico gross receipts and compensating tax.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="FAR-id1617MD0B0A6.dita#id1617MD0B0A6"
-                              class="- topic/xref ">29.402 Foreign contracts.</xref>
+                  <li>
+                     <p id="d1862e211">
+                        <xref outputclass="fm:TOC" href="FAR-id1617MD0B0A6.dita#id1617MD0B0A6">29.402 Foreign contracts.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="FAR-i1087561.dita#i1087561"
-                                    class="- topic/xref ">29.402-1 Foreign fixed-price contracts.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p id="d1862e221">
+                              <xref outputclass="fm:TOC" href="FAR-i1087561.dita#i1087561">29.402-1 Foreign fixed-price contracts.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="FAR-i1087571.dita#i1087571"
-                                    class="- topic/xref ">29.402-2 Foreign cost-reimbursement contracts.</xref>
+                        <li>
+                           <p id="d1862e230">
+                              <xref outputclass="fm:TOC" href="FAR-i1087571.dita#i1087571">29.402-2 Foreign cost-reimbursement contracts.</xref>
                            </p>
                         </li>
                      </ul>
