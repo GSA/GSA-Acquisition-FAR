@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1126974"
             props="2Col"
             ditaarch:DITAArchVersion="1.2"
@@ -37,14 +36,12 @@ been approved by the OMB. The following OMB control numbers apply:</p>
                         colname="1"
                         colwidth="45*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="55*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <thead class="- topic/thead ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1"
@@ -803,7 +800,7 @@ and 9000-0007</entry>
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">32.5</xref>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">  
                         <p outputclass="Ctr" class="- topic/p ">9000-0010 and 9000-0138</p>
                      </entry>
                   </row>
@@ -1126,7 +1123,7 @@ and 9000-0007</entry>
                      <entry colname="1"
                             align="left"
                             outputclass="CellBody_Left"
-                            class="- topic/entry "> 
+                            class="- topic/entry ">  
                         <xref href="FAR-i1063504.dita#i1063504"
                               base="i1063504"
                               outputclass="fm:ParaNumOnly"
@@ -1320,9 +1317,14 @@ and 9000-0007</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry "> 
-                        <xref href="FAR-52.204-23.dita#id189A70O0P1N"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">52.204-23</xref>
+                        <ph rev="FAC 2019-06 September 10, 2019" class="- topic/ph ">
+                           <xref href="FAR-52.204-23.dita#id189A70O0P1N"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">52.204-23</xref> 
+                           <?FM MARKER [Why] Amend section 1.106 by adding to the table, in numerical sequence, 
+FAR segment "52.204-23" and its corresponding OMB control number 
+"9000-0197".?>
+                        </ph>
                      </entry>
                      <entry colname="2" align="center" class="- topic/entry ">9000-0197</entry>
                   </row>
