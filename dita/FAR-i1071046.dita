@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1062304"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -15,15 +16,23 @@ shipments as appropriate for the kind of freight involved and the
 type of service required.</p>
          <ol class="- topic/ol ">
             <li props="Runin" class="- topic/li ">
-               <p id="d2753e20" class="- topic/p ">
+               <p id="d2760e20" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
                   
                   <i class="+ topic/ph hi-d/i ">Shipments
 of freight other than household goods and office furniture</i>.</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d2753e33" class="- topic/p ">
+                     <p id="d2760e33" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
                          The contracting
 officer shall insert the clause at <xref href="FAR-i1045618.dita#i1045618"
                               base="i1045618"
@@ -33,8 +42,12 @@ Freight, when the shipping activity determines the weight of shipments
 of freight other than household goods or office furniture.</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d2753e45" class="- topic/p ">
+                     <p id="d2760e45" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
                          The contracting
 officer shall insert the clause at <xref href="FAR-i1045627.dita#i1045627"
                               base="i1045627"
@@ -48,8 +61,12 @@ the shipments.</p>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d2753e59" class="- topic/p ">
+               <p id="d2760e59" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
                   
                   <i class="+ topic/ph hi-d/i ">Shipments
 of household goods or office furniture</i>. The contracting officer
@@ -62,6 +79,7 @@ Government employees' household goods or relocations of Government
 offices are involved.</p>
             </li>
          </ol>
+         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock "/>
       </conbody>
    </concept>
 </dita>

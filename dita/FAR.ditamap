@@ -28,10 +28,11 @@
              otherprops="NoProp"
              base="NoTitle"
              class="- map/topicref "/>
-   <topicref navtitle="LSA Table"
+   <topicref navtitle="List of Sections Affected"
              href="LSATable.dita"
              outputclass="LSA"
              otherprops="NoProp"
+             base="concept"
              class="- map/topicref "/>
    <topicref navtitle="Subchapter A - General"
              href="FAR-id1617MA00YHF.dita"
@@ -1230,7 +1231,7 @@
                          class="- map/topicref "/>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 4 - Administrative Matters"
+         <topicref navtitle="Part 4 - Administrative and Information Matters"
                    href="FAR-i1123303.dita"
                    outputclass="Part"
                    props="Part 4"
@@ -2053,6 +2054,56 @@
                          outputclass="subtopic"
                          type="topic"
                          props="4.2004"
+                         base="concept"
+                         class="- map/topicref "/>
+            </topicref>
+            <topicref navtitle="Subpart 4.21 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment"
+                      href="FAR-Subpart-4.21.dita"
+                      outputclass="SubPart"
+                      type="topic"
+                      props="Subpart 4.21"
+                      base="NoTitle"
+                      class="- map/topicref ">
+               <topicref navtitle="4.2100 Scope of part."
+                         href="FAR-4.2100.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="4.2100"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="4.2101 Definitions."
+                         href="FAR-4.2101.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="4.2101"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="4.2102 Prohibition."
+                         href="FAR-4.2102.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="4.2102"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="4.2103 Procedures."
+                         href="FAR-4.2103.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="4.2103"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="4.2104 Waivers."
+                         href="FAR-4.2104.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="4.2104"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="4.2105 Solicitation provision and contract clause."
+                         href="FAR-4.2105.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="4.2105"
                          base="concept"
                          class="- map/topicref "/>
             </topicref>
@@ -19570,6 +19621,20 @@
                             props="52.204-23"
                             base="concept"
                             class="- map/topicref "/>
+                  <topicref navtitle="52.204-24           Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment."
+                            href="FAR-52.204-24.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="52.204-24"
+                            base="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="52.204-25           Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment."
+                            href="FAR-52.204-25.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="52.204-25"
+                            base="concept"
+                            class="- map/topicref "/>
                </topicref>
                <topicref navtitle="52.205 [Reserved]"
                          href="FAR-id1617ME004XX.dita"
@@ -20532,6 +20597,13 @@
                             href="FAR-i1058924.dita"
                             outputclass="subtopic"
                             props="52.216-31"
+                            base="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="52.216-32 Task-Order and Delivery-Order Ombudsman."
+                            href="FAR-52.216-32.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="52.216-32"
                             base="concept"
                             class="- map/topicref "/>
                </topicref>

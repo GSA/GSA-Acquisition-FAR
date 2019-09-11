@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="id1617MD00F4M"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -48,6 +49,7 @@ and regulations (48 CFR Chapter99 (FAR Appendix)). Refer to <ph class="- topic/p
                      class="- topic/xref ">30.201-5</xref>
             </ph> for instructions
 concerning waivers pertaining to Cost Accounting Standards.</p>
+         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42103, Sept. 19, 1983, as amended at 52 FR 35612, Sept. 22, 1987; 62 FR 64914, Dec. 9, 1997]</msgblock>
       </conbody>
    </concept>
 </dita>

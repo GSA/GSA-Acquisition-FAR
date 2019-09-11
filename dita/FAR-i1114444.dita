@@ -2,14 +2,15 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1114444"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">11.102</ph> Standardization program.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p id="d649e13" class="- topic/p ">Agencies shall select existing requirements
+         <p id="d656e13" class="- topic/p ">Agencies shall select existing requirements
 documents or develop new requirements documents that meet the needs
 of the agency in accordance with the guidance contained in the Federal
 Standardization Manual, FSPM-0001; for DoD components, DoD 4120.24-M,
@@ -34,6 +35,7 @@ Information Service (NTIS) (see address in <ph class="- topic/ph ">
                      base="i1114259"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">11.201</xref>(d)(4)</ph>).</p>
+         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[70 FR 57452, Sept. 30, 2005, as amended at 71 FR 228, Jan. 3, 2006; 84 FR 19846, May 6, 2019]</msgblock>
       </conbody>
    </concept>
 </dita>
