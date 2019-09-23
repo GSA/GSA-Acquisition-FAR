@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1125359"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -13,34 +12,19 @@
          <ol id="d73e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d75e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                   A
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> A
 word or a term, defined in this section, has the same meaning throughout
 this regulation (48 CFR chapter 1), unless-</p>
                <ol id="d73e23" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         The context
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The context
 in which the word or term is used clearly requires a different meaning;
 or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e36" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Another FAR
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Another FAR
 part, subpart, or section provides a different definition for the
 particular part or portion of the part.</p>
                   </li>
@@ -48,34 +32,19 @@ particular part or portion of the part.</p>
             </li>
             <li class="- topic/li ">
                <p id="d75e47" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                   If a word
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> If a word
 or term that is defined in this section is defined differently in
-another part, subpart, or section of this regulation <ph class="- topic/ph ">(48 CFR chapter 1)</ph>, the
-definition in—</p>
+another part, subpart, or section of this regulation <ph class="- topic/ph ">(48 CFR
+chapter 1)</ph>, the definition in—</p>
                <ol id="d73e53" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e60" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         This section includes a cross-reference
-to the other definitions; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> This section
+includes a cross-reference to the other definitions; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e69" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         That part,
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> That part,
 subpart, or section applies to the word or term when used in that
 part, subpart, or section.</p>
                   </li>
@@ -122,12 +91,7 @@ are classified in one of the following definitional subdivisions:</p>
                <ol id="d73e90" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e97" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Management
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Management
 and professional support services, <i class="+ topic/ph hi-d/i ">i.e.,</i> contractual services
 that provide assistance, advice or training for the efficient and
 effective management and operation of organizations, activities
@@ -142,12 +106,7 @@ technical support for conferences and training programs.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e109" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Studies,
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Studies,
 analyses and evaluations, <i class="+ topic/ph hi-d/i ">i.e.,</i>contracted services that provide
 organized, analytical assessments/evaluations in support of policy
 development, decision-making, management, or administration. Included
@@ -157,12 +116,7 @@ analyses or evaluations.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e121" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Engineering
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Engineering
 and technical services, <i class="+ topic/ph hi-d/i ">i.e.,</i>contractual services used to
 support the program office during the acquisition cycle by providing
 such services as systems engineering and technical direction (see <xref href="FAR-i1115013.dita#i1115013"
@@ -170,48 +124,69 @@ such services as systems engineering and technical direction (see <xref href="FA
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">9.505-1</xref>(b)) to ensure
 the effective operation and maintenance of a weapon system or major
-system as defined in OMB CircularNo.A-109 or to provide direct support
-of a weapon system that is essential to research, development, production,
-operation or maintenance of the system.</p>
+system as defined in OMB Circular No.A-109 or to provide direct
+support of a weapon system that is essential to research, development,
+production, operation or maintenance of the system.</p>
                   </li>
                </ol>
-               <p id="d75e135" class="- topic/p ">“Affiliates”
-means associated business concerns or individuals if, directly or
-indirectly-</p>
-               <ol id="d73e180" class="- topic/ol ">
+               <p id="d75e135" class="- topic/p ">
+                  <ph rev="FAC 2019-06 October 10, 2019" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-006?>“Affiliates”
+–<?FM MARKER [Why] Amend section 2.101, in the paragraph (b)(2) by revising the defined term “Affiliates”.?></ph>
+               </p>
+               <ol id="d73e180" rev="FAC 2019-06 October 10, 2019" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e142" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Either one controls or can control
-the other; or</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Means associated
+business concerns or individuals if, directly or indirectly-</p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="id199IDH0F0G6" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              <ph rev="FAC 2019-06 October 10, 2019" class="- topic/ph ">Either one controls or
+can control the other; or</ph>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="id199IDH0K0P8" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              <ph rev="FAC 2019-06 October 10, 2019" class="- topic/ph ">A third party controls
+or can control both.</ph>
+                           </p>
+                        </li>
+                     </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e151" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         A third
-party controls or can control both.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> For the
+use in <xref href="FAR-i1115147.dita#i1115147"
+                              outputclass="fm:Subpart"
+                              class="- topic/xref ">subpart 9.4</xref>, see
+the definition at <xref href="FAR-i1115180.dita#i1115180"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">9.403</xref>.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="id199ID0K0LSV" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> For
+the use in <xref href="FAR-id1617MA050M2.dita#id1617MA050M2"
+                              outputclass="fm:Subpart"
+                              class="- topic/xref ">subpart 19.1</xref>, see
+the definition at <xref href="FAR-i1101807.dita#i1101807"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">19.101</xref>.</p>
                   </li>
                </ol>
-               <p id="d75e159" class="- topic/p ">“Agency
-head” or “head of the agency” means the Secretary, Attorney General,
-Administrator, Governor, Chairperson, or other chief official of
-an executive agency, unless otherwise indicated, including any deputy
-or assistant chief official of an executive agency.</p>
-               <p id="d75e163" class="- topic/p ">“Alternate”
-means a substantive variation of a basic provision or clause prescribed
-for use in a defined circumstance. It adds wording to, deletes wording
-from, or substitutes specified wording for a portion of the basic
-provision or clause. The alternate version of a provision or clause
-is the basic provision or clause as changed by the addition, deletion,
-or substitution (see <xref href="FAR-i1064672.dita#i1064672"
+               <p id="d75e159" class="- topic/p ">“Agency head” or “head of the agency” means the
+Secretary, Attorney General, Administrator, Governor, Chairperson, or
+other chief official of an executive agency, unless otherwise indicated,
+including any deputy or assistant chief official of an executive
+agency.</p>
+               <p id="d75e163" class="- topic/p ">“Alternate” means a substantive variation
+of a basic provision or clause prescribed for use in a defined circumstance.
+It adds wording to, deletes wording from, or substitutes specified
+wording for a portion of the basic provision or clause. The alternate
+version of a provision or clause is the basic provision or clause
+as changed by the addition, deletion, or substitution (see <xref href="FAR-i1064672.dita#i1064672"
                         base="i1064672"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.105</xref>(a)).</p>
@@ -222,12 +197,7 @@ or substitution (see <xref href="FAR-i1064672.dita#i1064672"
                <ol id="d73e217" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e179" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Professional
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Professional
 services of an architectural or engineering nature, as defined by
 State law, if applicable, that are required to be performed or approved
 by a person licensed, registered, or certified to provide those
@@ -235,24 +205,14 @@ services;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e188" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Professional
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Professional
 services of an architectural or engineering nature performed by
 contract that are associated with research, planning, development,
 design, construction, alteration, or repair of real property; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e197" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Those other
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Those other
 professional services of an architectural or engineering nature,
 or incidental services, that members of the architectural and engineering
 professions (and individuals in their employ) may logically or justifiably
@@ -318,17 +278,12 @@ is not “building” or “work” within the meaning of this definition
 unless conducted in connection with and at the site of such building
 or work as is described in the foregoing sentence, or under the
 United States Housing Act of 1937 and the Housing Act of 1949 in
-the construction or development of the project.</p>  
+the construction or development of the project.</p>
                <p id="d75e236" class="- topic/p ">“Bundling”—</p>
                <ol id="d73e281" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e244" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Means
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Means
 a subset of consolidation that combines two or more requirements
 for supplies or services, previously provided or performed under
 separate smaller contracts (see paragraph (2) of this definition),
@@ -340,43 +295,23 @@ to—</p>
                      <ol id="d73e291" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e254" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               The
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The
 diversity, size, or specialized nature of the elements of the performance
 specified;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e263" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               The aggregate
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> The aggregate
 dollar value of the anticipated award;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e272" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                               The geographical
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> The geographical
 dispersion of the contract performance sites; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e281" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              
-                              
-                              
-                               Any combination
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph> Any combination
 of the factors described in paragraphs (1)(i), (ii), and (iii) of
 this definition.</p>
                         </li>
@@ -384,24 +319,14 @@ this definition.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e292" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         “Separate
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> “Separate
 smaller contract” as used in this definition, means a contract that
 has been performed by one or more small business concerns or that
 was suitable for award to one or more small business concerns.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e301" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         This definition
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> This definition
 does not apply to a contract that will be awarded and performed
 entirely outside of the United States.</p>
                   </li>
@@ -489,32 +414,17 @@ of its physical form or characteristics, that—</p>
                   <li props="Runin" class="- topic/li ">
                      <p id="d75e368" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
                      </p>
                      <ol id="d73e415" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e378" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Is
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Is
 owned by, is produced by or for, or is under the control of the
 United States Government; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e387" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Has been
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Has been
 classified by the Department of Energy as privately generated restricted
 data following the procedures in 10 CFR 1045.21; and</p>
                         </li>
@@ -522,12 +432,7 @@ data following the procedures in 10 CFR 1045.21; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e398" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Must be
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Must be
 protected against unauthorized disclosure according to Executive
 Order12958, Classified National Security Information, April 7,1995,
 or classified in accordance with the Atomic Energy Act of 1954.</p>
@@ -550,45 +455,25 @@ item” means</p>
                <ol id="d73e463" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e426" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Any item, other than real property,
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Any item, other than real property,
 that is of a type customarily used by the general public or by non-governmental entities
 for purposes other than governmental purposes, and-</p>
                      <ol id="d73e473" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e436" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Has
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Has
 been sold, leased, or licensed to the general public; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e445" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Has been
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Has been
 offered for sale, lease, or license to the general public;</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e456" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Any item
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Any item
 that evolved from an item described in paragraph (1) of this definition
 through advances in technology or performance and that is not yet
 available in the commercial marketplace, but will be available in
@@ -597,33 +482,18 @@ under a Government solicitation;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e465" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Any item
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Any item
 that would satisfy a criterion expressed in paragraphs(1) or (2)
 of this definition, but for-</p>
                      <ol id="d73e512" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e475" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Modifications of a type customarily
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Modifications of a type customarily
 available in the commercial marketplace; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e484" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Minor modifications
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Minor modifications
 of a type not customarily available in the commercial marketplace
 made to meet Federal Government requirements. Minor modifications
 means modifications that do not significantly alter the nongovernmental
@@ -638,47 +508,27 @@ but are not conclusive evidence that a modification is minor;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e495" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                         Any combination
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Any combination
 of items meeting the requirements of paragraphs(1), (2), (3), or
 (5) of this definition that are of a type customarily combined and
 sold in combination to the general public;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e504" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                         Installation
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Installation
 services, maintenance services, repair services, training services,
 and other services if-</p>
                      <ol id="d73e551" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e514" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Such services are procured for
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Such services are procured for
 support of an item referred to in paragraph (1), (2), (3), or (4)
 of this definition, regardless of whether such services are provided
 by the same source or at the same time as the item; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e523" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               The source
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> The source
 of such services provides similar services contemporaneously to
 the general public under terms and conditions similar to those offered
 to the Federal Government;</p>
@@ -687,12 +537,7 @@ to the Federal Government;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e535" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-                        
-                         Services
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> Services
 of a type offered and sold competitively in substantial quantities
 in the commercial marketplace based on established catalog or market
 prices for specific tasks performed or specific outcomes to be achieved
@@ -701,12 +546,7 @@ of these services-</p>
                      <ol id="d73e582" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e545" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               “Catalog price” means a price
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> “Catalog price” means a price
 included in a catalog, price list, schedule, or other form that
 is regularly maintained by the manufacturer or vendor, is either
 published or otherwise available for inspection by customers, and
@@ -716,12 +556,7 @@ and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e554" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               “Market
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> “Market
 prices” means current prices that are established in the course
 of ordinary trade between buyers and sellers free to bargain and
 that can be substantiated through competition or from sources independent
@@ -731,12 +566,7 @@ of the offerors.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e565" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        
-                        
-                        
-                        
-                         Any item,
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph> Any item,
 combination of items, or service referred to in paragraphs(1) through
 (6) of this definition, notwithstanding the fact that the item,
 combination of items, or service is transferred between or among
@@ -745,12 +575,7 @@ or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e574" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        
-                        
-                        
-                        
-                         A nondevelopmental
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph> A nondevelopmental
 item, if the procuring agency determines the item was developed
 exclusively at private expense and sold in substantial quantities,
 on a competitive basis, to multiple State and local governments.</p>
@@ -761,42 +586,22 @@ item—”</p>
                <ol id="d73e626" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e590" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Means any item of supply (including
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Means any item of supply (including
 construction material) that is–</p>
                      <ol id="d73e636" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e600" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               A commercial
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> A commercial
 item (as defined in paragraph (1) of the definition in this section);</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e609" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Sold in
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Sold in
 substantial quantities in the commercial marketplace; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e618" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                               Offered
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Offered
 to the Government, under a contract or subcontract at any tier,
 without modification, in the same form in which it is sold in the
 commercial marketplace; and</p>
@@ -805,12 +610,7 @@ commercial marketplace; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e629" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Does not
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Does not
 include bulk cargo, as defined in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
@@ -827,11 +627,6 @@ in—</p>
                   <li class="- topic/li ">
                      <p id="d75e650" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
                         <xref href="FAR-i1093771.dita#i1093771"
                               base="i1093771"
                               outputclass="fm:Part"
@@ -844,11 +639,6 @@ in <xref href="FAR-i1093413.dita#i1093413"
                   <li class="- topic/li ">
                      <p id="d75e665" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
                         <xref href="FAR-i1053372.dita#i1053372"
                               base="i1053372"
                               outputclass="fm:ParaNumOnly"
@@ -867,11 +657,6 @@ in <xref href="FAR-i1053372.dita#i1053372"
                   <li class="- topic/li ">
                      <p id="d75e686" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
                         <xref href="FAR-i1053788.dita#i1053788"
                               base="i1053788"
                               outputclass="fm:ParaNumOnly"
@@ -890,11 +675,6 @@ in <xref href="FAR-i1053788.dita#i1053788"
                   <li class="- topic/li ">
                      <p id="d75e707" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
                         <xref href="FAR-i1054449.dita#i1054449"
                               base="i1054449"
                               outputclass="fm:ParaNumOnly"
@@ -916,52 +696,34 @@ of recorded information in a form capable of, and for the purpose of,
 being stored in, processed, and operated on by a computer. The term
 does not include computer software.</p>
                <p id="d75e731" class="- topic/p ">
-                  <ph class="- topic/ph ">“Computer software” —</ph>
+                  <ph class="- topic/ph ">“Computer
+software” —</ph>
                </p>
                <ol id="d73e774" class="- topic/ol ">
                   <li props="Runin" class="- topic/li ">
                      <p id="d75e741" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Means</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Means</p>
                      <ol id="d73e784" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e751" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Computer programs that comprise
-a series of instructions, rules, routines, or statements, regardless of
-the media in which recorded, that allow or cause a computer to perform
-a specific operation or series of operations; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Computer
+programs that comprise a series of instructions, rules, routines,
+or statements, regardless of the media in which recorded, that allow
+or cause a computer to perform a specific operation or series of
+operations; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e760" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Recorded information comprising
-source code listings, design details, algorithms, processes, flow
-charts, formulas, and related material that would enable the computer
-program to be produced, created, or compiled.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Recorded
+information comprising source code listings, design details, algorithms,
+processes, flow charts, formulas, and related material that would
+enable the computer program to be produced, created, or compiled.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e771" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Does not
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Does not
 include computer databases or computer software documentation.</p>
                   </li>
                </ol>
@@ -978,23 +740,13 @@ or consolidated requirement”—</p>
                <ol id="d73e827" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e792" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Means a solicitation
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Means a solicitation
 for a single contract, a multiple-award contract, a task order,
 or a delivery order to satisfy-</p>
                      <ol id="d73e837" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e802" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Two or more
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Two or more
 requirements of the Federal agency for supplies or services that
 have been provided to or performed for the Federal agency under
 two or more separate contracts, each of which was lower in cost
@@ -1003,12 +755,7 @@ or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e811" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Requirements
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Requirements
 of the Federal agency for construction projects to be performed
 at two or more discrete sites.</p>
                         </li>
@@ -1016,12 +763,7 @@ at two or more discrete sites.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e822" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         “Separate
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> “Separate
 contract” as used in this definition, means a contract that has
 been performed by any business, including small and other than small
 business concerns.</p>
@@ -1058,12 +800,7 @@ means a military operation that-</p>
                <ol id="d73e887" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e853" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Is designated
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Is designated
 by the Secretary of Defense as an operation in which members of
 the armed forces are or may become involved in military actions,
 operations, or hostilities against an enemy of the United States
@@ -1071,12 +808,7 @@ or against an opposing military force; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e862" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Results
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Results
 in the call or order to, or retention on, active duty of members
 of the uniformed services under sections<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
@@ -1139,23 +871,13 @@ that performs-</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e921" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Assigned
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Assigned
 postaward functions related to the administration of contracts;
 and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e930" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Assigned
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Assigned
 preaward functions.</p>
                   </li>
                </ol>
@@ -1203,22 +925,12 @@ contracting officer or termination contracting officer does not-</p>
                <ol id="d73e1000" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e970" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Require
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Require
 that a duty be performed at a particular office or activity; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e979" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Restrict
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Restrict
 in any way a contracting officer in the performance of any duty
 properly assigned.</p>
                   </li>
@@ -1262,84 +974,44 @@ include, but are not limited to, such factors as-</p>
                <ol id="d73e1042" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1013" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Vendor
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Vendor
 quotations;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1022" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Nonrecurring
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Nonrecurring
 costs;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1031" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Information
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Information
 on changes in production methods and in production or purchasing
 volume;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1040" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                         Data supporting
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Data supporting
 projections of business prospects and objectives and related operations
 costs;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1049" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                         Unit-cost
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Unit-cost
 trends such as those associated with labor efficiency;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1059" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-                        
-                         Make-or-buy
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> Make-or-buy
 decisions;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1068" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        
-                        
-                        
-                        
-                         Estimated
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph> Estimated
 resources to attain business goals; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1077" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        
-                        
-                        
-                        
-                         Information
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph> Information
 on management decisions that could have a significant bearing on
 costs.</p>
                   </li>
@@ -1349,32 +1021,17 @@ the costs in an offeror’s proposal-</p>
                <ol id="d73e1121" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1092" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Are realistic
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Are realistic
 for the work to be performed;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1101" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Reflect
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Reflect
 a clear understanding of the requirements; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1110" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Are consistent
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Are consistent
 with the various elements of the offeror’s technical proposal.</p>
                   </li>
                </ol>
@@ -1402,23 +1059,13 @@ estimating process, including, but not limited to–</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1138" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         The judgmental
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The judgmental
 factors applied and the mathematical or other methods used in the
 estimate, including those used in projecting from known data; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1147" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         The nature
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The nature
 and amount of any contingencies included in the proposed price.</p>
                   </li>
                </ol>
@@ -1556,7 +1203,8 @@ records for identifying alternative EFT accounts (see <xref href="FAR-i1080713.d
                         class="- topic/xref ">subpart  32.11</xref>)
 for the same entity.</p>
                <p id="d75e1236" class="- topic/p ">
-                  <ph class="- topic/ph ">“Emergency,” as used in <xref href="FAR-i1119977.dita#i1119977"
+                  <ph class="- topic/ph ">“Emergency,” as used
+in <xref href="FAR-i1119977.dita#i1119977"
                            base="i1119977"
                            outputclass="fm:ParaNumOnly"
                            class="- topic/xref ">6.208</xref>, <xref href="FAR-i1111870.dita#i1111870"
@@ -1618,33 +1266,18 @@ in <xref href="FAR-i1093413.dita#i1093413"
                <ol id="d73e1286" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1302" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Means a
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Means a
 product that-</p>
                      <ol id="d73e1296" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e1312" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Meets Department of Energy and
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Meets Department of Energy and
 Environmental Protection Agency criteria for use of the Energy Star
 trademark label; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e1321" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Is in
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Is in
 the upper 25 percent of efficiency for all similar products as designated
 by the Department of Energy’s Federal Energy Management Program.</p>
                         </li>
@@ -1652,12 +1285,7 @@ by the Department of Energy’s Federal Energy Management Program.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1332" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         As used
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> As used
 in this definition, the term “product” does not include any energy-consuming
 product or system designed or procured for combat or combat-related
 missions (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
@@ -1671,22 +1299,12 @@ products that use-</p>
                <ol id="d73e1334" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1351" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         External standby power devices,
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> External standby power devices,
 or that contain an internal standby power function; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1360" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         No more
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> No more
 than one watt of electricity in their standby power consuming mode
 or meet recommended low standby levels as designated by the Department
 of Energy Federal Energy Management Program.</p>
@@ -1697,12 +1315,7 @@ a contract that requires the contractor to-</p>
                <ol id="d73e1358" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1375" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Perform services
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Perform services
 for the design, acquisition, financing, installation, testing, operation,
 and where appropriate, maintenance and repair, of an identified
 energy conservation measure or series of measures at one or more
@@ -1710,12 +1323,7 @@ locations;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1384" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Incur the
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Incur the
 costs of implementing the energy savings measures, including at
 least the cost (if any) incurred in making energy audits, acquiring
 and installing equipment, and training personnel in exchange for
@@ -1725,12 +1333,7 @@ the contract; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1393" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Guarantee
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Guarantee
 future energy and cost savings to the Government.</p>
                   </li>
                </ol>
@@ -1773,47 +1376,27 @@ and any activities under the Architect’s direction).</p>
                <ol id="d73e1419" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1436" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Federally-owned
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Federally-owned
 buildings or leased space, whether for single or multi-tenant occupancy,
 and its grounds and approaches, all or any portion of which is under
 the jurisdiction, custody or control of a department or agency;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1445" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Federally-controlled
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Federally-controlled
 commercial space shared with non-government tenants. For example,
 if a department or agency leased the 10th floor of a commercial
 building, the Directive applies to the 10th floor only;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1454" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Government-owned,
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Government-owned,
 contractor-operated facilities, including laboratories engaged in
 national defense research and production activities; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1463" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                         Facilities
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Facilities
 under a management and operating contract, such as for the operation,
 maintenance, or support of a Government-owned or Government-controlled
 research, development, special production, or testing establishment.</p>
@@ -1838,32 +1421,17 @@ of their financial support from the Government; and-</p>
                <ol id="d73e1470" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1488" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         A
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> A
 long-term relationship is contemplated;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1497" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Most or
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Most or
 all of the facilities are owned or funded by the Government; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1506" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         The FFRDC
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> The FFRDC
 has access to Government and supplier data, employees, and facilities
 beyond that common in a normal contractual relationship.</p>
                   </li>
@@ -1889,22 +1457,12 @@ This term is used in conjunction with a physical point to determine-</p>
                <ol id="d73e1512" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1531" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         The
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The
 responsibility and basis for payment of freight charges; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1540" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Unless
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Unless
 otherwise agreed, the point where title for goods passes to the
 buyer or consignee.</p>
                   </li>
@@ -1933,31 +1491,31 @@ at <xref href="FAR-i1045849.dita#i1045849"
                         base="i1045849"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.247-29</xref>(a).</p>
-               <p id="d75e1572" class="- topic/p ">“<ph class="- topic/ph ">F.o.b.”...</ph> (For
-other types of F.o.b., see <xref href="FAR-i1070167.dita#i1070167"
+               <p id="d75e1572" class="- topic/p ">“<ph class="- topic/ph ">F.o.b.”...</ph> (For other types of F.o.b.,
+see <xref href="FAR-i1070167.dita#i1070167"
                         base="i1070167"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">47.303</xref>).</p>
-               <p id="d75e1581" class="- topic/p ">“Forward pricing rate agreement” means a written
-agreement negotiated between a contractor and the Government to make
-certain rates available during a specified period for use in pricing
-contracts or modifications. These rates represent reasonable projections
-of specific costs that are not easily estimated for, identified
-with, or generated by a specific contract, contract end item, or
-task. These projections may include rates for such things as labor,
-indirect costs, material obsolescence and usage, spare parts provisioning,
-and material handling.</p>
-               <p id="d75e1584" class="- topic/p ">“Forward pricing rate
-recommendation” means a rate set unilaterally by the administrative
-contracting officer for use by the Government in negotiations or
-other contract actions when forward pricing rate agreement negotiations
-have not been completed or when the contractor will not agree to
-a forward pricing rate agreement.</p>
-               <p id="d75e1588" class="- topic/p ">“Freight”
-means supplies, goods, and transportable property.</p>
-               <p id="d75e1591" class="- topic/p ">“Full
-and open competition,” when used with respect to a contract action,
-means that all responsible sources are permitted to compete.</p>
+               <p id="d75e1581" class="- topic/p ">“Forward
+pricing rate agreement” means a written agreement negotiated between
+a contractor and the Government to make certain rates available
+during a specified period for use in pricing contracts or modifications.
+These rates represent reasonable projections of specific costs that
+are not easily estimated for, identified with, or generated by a
+specific contract, contract end item, or task. These projections
+may include rates for such things as labor, indirect costs, material
+obsolescence and usage, spare parts provisioning, and material handling.</p>
+               <p id="d75e1584" class="- topic/p ">“Forward pricing rate recommendation” means
+a rate set unilaterally by the administrative contracting officer
+for use by the Government in negotiations or other contract actions
+when forward pricing rate agreement negotiations have not been completed
+or when the contractor will not agree to a forward pricing rate
+agreement.</p>
+               <p id="d75e1588" class="- topic/p ">“Freight” means supplies, goods,
+and transportable property.</p>
+               <p id="d75e1591" class="- topic/p ">“Full and open
+competition,” when used with respect to a contract action, means
+that all responsible sources are permitted to compete.</p>
                <p id="d75e1594" class="- topic/p ">“General and administrative (G&amp;A) expense”
 means any management, financial, and other expense which is incurred
 by or allocated to a business unit and which is for the general
@@ -1976,12 +1534,7 @@ established by one agency for Governmentwide use that is operated-</p>
                <ol id="d73e1586" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1607" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         By
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> By
 an executive agent designated by the Office of Management and Budget
 pursuant to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
@@ -1991,12 +1544,7 @@ or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1619" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Under a
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Under a
 delegation of procurement authority issued by the General Services
 Administration (GSA) prior to August 7,1996, under authority granted
 GSA by former section <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
@@ -2044,33 +1592,18 @@ methods:</p>
                <ol id="d73e1641" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1663" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         A sole source award to a HUBZone
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> A sole source award to a HUBZone
 small business concern.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1672" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Set-aside
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Set-aside
 awards based on competition restricted to HUBZone small business
 concerns.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1681" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Awards
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Awards
 to HUBZone small business concerns through full and open competition
 after a price evaluation preference in favor of HUBZone small business
 concerns.</p>
@@ -2120,11 +1653,6 @@ pursuant to–</p>
                   <li class="- topic/li ">
                      <p id="d75e1724" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
                         <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
@@ -2135,11 +1663,6 @@ and its related statutes and implementing regulations;</p>
                   <li class="- topic/li ">
                      <p id="d75e1736" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
                         <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
@@ -2148,22 +1671,12 @@ and its related statutes and implementing regulations;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1748" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         The Equal
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> The Equal
 Employment Opportunity Acts and Executive orders;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1757" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
                         <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
@@ -2174,11 +1687,6 @@ Exceeding $15,000;</p>
                   <li class="- topic/li ">
                      <p id="d75e1769" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                        
                         <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
@@ -2187,12 +1695,7 @@ Exceeding $15,000;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1782" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-                        
-                         The Environmental
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> The Environmental
 Protection Acts and Executive orders.</p>
                      <p id="d75e1788" class="- topic/p ">“Information
 security” means protecting information and information systems from
@@ -2203,36 +1706,21 @@ or destruction in order to provide-</p>
                <ol id="d73e1775" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1797" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Integrity,
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Integrity,
 which means guarding against improper information modification or
 destruction, and includes ensuring information nonrepudiation and
 authenticity;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1806" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Confidentiality,
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Confidentiality,
 which means preserving authorized restrictions on access and disclosure,
 including means for protecting personal privacy and proprietary
 information; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1815" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Availability,
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Availability,
 which means ensuring timely and reliable access to, and use of,
 information.</p>
                   </li>
@@ -2246,33 +1734,18 @@ or information by the agency.</p>
                <ol id="d73e1808" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1831" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         For purposes
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> For purposes
 of this definition, equipment is used by an agency if the equipment
 is used by the agency directly or is used by a contractor under
 a contract with the agency that requires-</p>
                      <ol id="d73e1818" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e1841" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Its use; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Its use; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e1850" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               To a significant
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> To a significant
 extent, its use in the performance of a service or the furnishing
 of a product.</p>
                         </li>
@@ -2280,12 +1753,7 @@ of a product.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1861" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         The term
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The term
 “information technology” includes computers, ancillary equipment
 (including imaging peripherals, input, output, and storage devices
 necessary for security and surveillance), peripheral equipment designed
@@ -2295,32 +1763,17 @@ and related resources.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1870" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         The term
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> The term
 “information technology” does not include any equipment that-</p>
                      <ol id="d73e1857" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e1880" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Is
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Is
 acquired by a contractor incidental to a contract; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e1889" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Contains
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Contains
 imbedded information technology that is used as an integral part
 of the product, but the principal function of which is not the acquisition,
 storage, analysis, evaluation, manipulation, management, movement,
@@ -2346,68 +1799,38 @@ authority, and monetary transactions and entitlements.</p>
                <ol id="d73e1886" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1909" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         An
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> An
 inherently governmental function involves, among other things, the
 interpretation and execution of the laws of the United States so
 as to-</p>
                      <ol id="d73e1896" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e1919" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Bind the United States to take
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Bind the United States to take
 or not to take some action by contract, policy, regulation, authorization,
 order, or otherwise;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e1928" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Determine,
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Determine,
 protect, and advance United States economic, political, territorial,
 property, or other interests by military or diplomatic action, civil
 or criminal judicial proceedings, contract management, or otherwise;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e1937" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                               Significantly
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Significantly
 affect the life, liberty, or property of private persons;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e1946" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              
-                              
-                              
-                               Commission,
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph> Commission,
 appoint, direct, or control officers or employees of the United
 States; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e1955" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                              
-                              
-                              
-                              
-                               Exert ultimate
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph> Exert ultimate
 control over the acquisition, use, or disposition of the property,
 real or personal, tangible or intangible, of the United States,
 including the collection, control, or disbursement of Federal funds.</p>
@@ -2416,12 +1839,7 @@ including the collection, control, or disbursement of Federal funds.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e1966" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Inherently
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Inherently
 governmental functions do not normally include gathering information
 for or providing advice, opinions, recommendations, or ideas to
 Government officials. They also do not include functions that are
@@ -2447,12 +1865,7 @@ The term includes—</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e1988" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Acquisitions under the Economy
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Acquisitions under the Economy
 Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
@@ -2460,12 +1873,7 @@ Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2000" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Non-Economy
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Non-Economy
 Act acquisitions completed under other statutory authorities, (<i class="+ topic/ph hi-d/i ">e.g.</i>,
 General Services Administration Federal Supply Schedules in subpart
 8.4 and Governmentwide acquisition contracts (GWACs)).</p>
@@ -2505,8 +1913,8 @@ includes “subline item,” as applicable.</p>
 item number” means either a numeric or alphanumeric format to identify
 a line item.</p>
                <p id="d75e2033" class="- topic/p ">
-                  <ph class="- topic/ph ">“Major
-disaster,” as used in <xref href="FAR-i1119977.dita#i1119977"
+                  <ph class="- topic/ph ">“Major disaster,” as used
+in <xref href="FAR-i1119977.dita#i1119977"
                            base="i1119977"
                            outputclass="fm:ParaNumOnly"
                            class="- topic/xref ">6.208</xref>, <xref href="FAR-i1111870.dita#i1111870"
@@ -2551,12 +1959,7 @@ if-</p>
                <ol id="d73e2000" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2071" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         The Department of Defense is responsible
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The Department of Defense is responsible
 for the system and the total expenditures for research, development, test,
 and evaluation for the system are estimated to be more than $185
 million based on Fiscal Year 2014 constant dollars or the eventual
@@ -2567,12 +1970,7 @@ based on a more recent fiscal year, as specified in the DoD Instruction
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2080" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         A civilian
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> A civilian
 agency is responsible for the system and total expenditures for
 the system are estimated to exceed $2 million or the dollar threshold
 for a “major system” established by the agency pursuant to Office
@@ -2581,12 +1979,7 @@ Acquisitions,” whichever is greater; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2089" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         The system
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> The system
 is designated a “major system” by the head of the agency responsible
 for the system (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
@@ -2607,102 +2000,52 @@ end product” means any end product in product and service codes
                <ol id="d73e2042" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2114" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         PSC 5510, Lumber and Related Basic
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> PSC 5510, Lumber and Related Basic
 Wood Materials;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2123" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Product
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Product
 or service group (PSG) 87, Agricultural Supplies;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2132" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         PSG 88,
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> PSG 88,
 Live Animals;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2141" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                         PSG 89,
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> PSG 89,
 Subsistence;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2150" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                         PSC 9410,
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> PSC 9410,
 Crude Grades of Plant Materials;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2160" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-                        
-                         PSC 9430,
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> PSC 9430,
 Miscellaneous Crude Animal Products, Inedible;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2169" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        
-                        
-                        
-                        
-                         PSC 9440,
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph> PSC 9440,
 Miscellaneous Crude Agricultural and Forestry Products;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2178" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        
-                        
-                        
-                        
-                         PSC 9610,
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph> PSC 9610,
 Ores;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2187" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(9)</ph>
-                        
-                        
-                        
-                        
-                         PSC 9620,
+                        <ph props="autonumber" class="- topic/ph ">(9)</ph> PSC 9620,
 Minerals, Natural and Synthetic; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2196" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(10)</ph>
-                        
-                        
-                        
-                        
-                         PSC 9630,
+                        <ph props="autonumber" class="- topic/ph ">(10)</ph> PSC 9630,
 Additive Metal Materials.</p>
                   </li>
                </ol>
@@ -2725,12 +2068,7 @@ $3,500, except it means-</p>
                <ol id="d73e2152" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2224" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         For acquisitions of construction
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> For acquisitions of construction
 subject to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
@@ -2739,12 +2077,7 @@ subchapter IV, Wage Rate Requirements (Construction), $2,000;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2236" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         For acquisitions
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> For acquisitions
 of services subject to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
@@ -2754,18 +2087,12 @@ Service Contract Labor Standards, $2,500; and</p>
                   <li class="- topic/li ">
                      <p id="d75e2248" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        <ph class="- topic/ph ">For acquisitions of supplies
-or services that, as determined by the head of the agency, are to
-be used to support a contingency operation; to facilitate defense
-against or recovery from cyber, nuclear, biological, chemical or
-radiological attack; to support a request from the Secretary of
-State or the Administrator of the United States Agency for International Development
+                        <ph class="- topic/ph ">For
+acquisitions of supplies or services that, as determined by the
+head of the agency, are to be used to support a contingency operation;
+to facilitate defense against or recovery from cyber, nuclear, biological,
+chemical or radiological attack; to support a request from the Secretary
+of State or the Administrator of the United States Agency for International Development
 to facilitate provision of international disaster assistance pursuant
 to <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2292&amp;num=0&amp;edition=prelim"
                                  format="html"
@@ -2786,29 +2113,18 @@ construction subject to <xref href="http://uscode.house.gov/browse.xhtml;jsessio
 subchapter IV, Wage Rate Requirements (Construction) (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                  format="html"
                                  scope="external"
-                                 class="- topic/xref ">41 U.S.C. 1903</xref>)–</ph> 
-                        
+                                 class="- topic/xref ">41 U.S.C. 1903</xref>)–</ph>
                      </p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e2276" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               $20,000
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> $20,000
 in the case of any contract to be awarded and performed, or purchase
 to be made, inside the United States; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2285" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               $30,000
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> $30,000
 in the case of any contract to be awarded and performed, or purchase
 to be made, outside the United States.</p>
                         </li>
@@ -2843,12 +2159,7 @@ is—</p>
                <ol id="d73e2194" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2320" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         A Multiple Award Schedule contract
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> A Multiple Award Schedule contract
 issued by GSA (<i class="+ topic/ph hi-d/i ">e.g.</i>, GSA Schedule Contract) or agencies granted
 Multiple Award Schedule contract authority by GSA (<i class="+ topic/ph hi-d/i ">e.g.</i>,
 Department of Veterans Affairs) as described in FAR <xref href="FAR-i1077352.dita#i1077352"
@@ -2857,12 +2168,7 @@ Department of Veterans Affairs) as described in FAR <xref href="FAR-i1077352.dit
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2338" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         A multiple-award
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> A multiple-award
 task-order or delivery-order contract issued in accordance with
 FAR <xref href="FAR-i1103875.dita#i1103875"
                               outputclass="fm:Subpart"
@@ -2871,12 +2177,7 @@ including Governmentwide acquisition contracts; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2350" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Any other
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Any other
 indefinite-delivery, indefinite-quantity contract entered into with
 two or more sources pursuant to the same solicitation.</p>
                   </li>
@@ -2909,12 +2210,7 @@ and all parties agree that the neutral person may serve (<xref href="http://usco
                <ol id="d73e2257" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2384" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Any
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Any
 previously developed item of supply used exclusively for governmental
 purposes by a Federal agency, a State or local government, or a
 foreign government with which the United States has a mutual defense
@@ -2922,12 +2218,7 @@ cooperation agreement;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2393" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Any item
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Any item
 described in paragraph (1) of this definition that requires only
 minor modification or modifications of a type customarily available
 in the commercial marketplace in order to meet the requirements
@@ -2935,12 +2226,7 @@ of the procuring department or agency; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2402" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Any item
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Any item
 of supply being produced that does not meet the requirements of
 paragraphs (1) or (2) solely because the item is not yet in use.</p>
                      <p id="d75e2408" class="- topic/p ">“Novation agreement” means a legal instrument-</p>
@@ -2949,53 +2235,28 @@ paragraphs (1) or (2) solely because the item is not yet in use.</p>
                <ol id="d73e2290" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2417" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Executed
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Executed
 by the-</p>
                      <ol id="d73e2300" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e2427" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Contractor (transferor);</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Contractor (transferor);</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2436" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Successor
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Successor
 in interest (transferee); and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2445" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                               Government;
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Government;
 and</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2456" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         By which,
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> By which,
 among other things, the transferor guarantees performance of the
 contract, the transferee assumes all obligations under the contract,
 and the Government recognizes the transfer of the contract and related
@@ -3037,31 +2298,16 @@ areas” means-</p>
                <ol id="d73e2367" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2494" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Commonwealths</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Commonwealths</p>
                      <ol id="d73e2377" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e2504" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Puerto
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Puerto
 Rico.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2513" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               The Northern
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> The Northern
 Mariana Islands;</p>
                         </li>
                      </ol>
@@ -3069,40 +2315,20 @@ Mariana Islands;</p>
                   <li class="- topic/li ">
                      <p id="d75e2524" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
                         <i class="+ topic/ph hi-d/i ">Territories</i>.</p>
                      <ol id="d73e2410" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e2537" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               American
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> American
 Samoa.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2546" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Guam.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Guam.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2555" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                               U.S.
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> U.S.
 Virgin Islands; and</p>
                         </li>
                      </ol>
@@ -3110,101 +2336,51 @@ Virgin Islands; and</p>
                   <li class="- topic/li ">
                      <p id="d75e2566" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
                         <i class="+ topic/ph hi-d/i ">Minor
 outlying islands</i>.</p>
                      <ol id="d73e2452" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e2579" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Baker Island.</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Baker Island.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2588" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Howland
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Howland
 Island.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2597" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                               Jarvis
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Jarvis
 Island.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2606" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              
-                              
-                              
-                               Johnston
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph> Johnston
 Atoll.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2615" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                              
-                              
-                              
-                              
-                               Kingman
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph> Kingman
 Reef.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2625" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(vi)</ph>
-                              
-                              
-                              
-                              
-                               Midway
+                              <ph props="autonumber" class="- topic/ph ">(vi)</ph> Midway
 Islands.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2634" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(vii)</ph>
-                              
-                              
-                              
-                              
-                               Navassa
+                              <ph props="autonumber" class="- topic/ph ">(vii)</ph> Navassa
 Island.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2643" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(viii)</ph>
-                              
-                              
-                              
-                              
-                               Palmyra
+                              <ph props="autonumber" class="- topic/ph ">(viii)</ph> Palmyra
 Atoll.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2652" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ix)</ph>
-                              
-                              
-                              
-                              
-                               Wake Atoll.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ix)</ph> Wake Atoll.</p>
                         </li>
                      </ol>
                   </li>
@@ -3223,23 +2399,13 @@ Part 82 as—</p>
                <ol id="d73e2551" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2678" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Class I, including, but not limited
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Class I, including, but not limited
 to, chlorofluorocarbons, halons, carbon tetrachloride, and methyl
 chloroform; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2687" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Class II,
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Class II,
 including, but not limited to, hydrochlorofluorocarbons.</p>
                   </li>
                </ol>
@@ -3264,50 +2430,25 @@ naval vessels of the following categories:</p>
                <ol id="d73e2591" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2718" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Battleships;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Battleships;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2727" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Cruisers;</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Cruisers;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2736" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Aircraft
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Aircraft
 carriers;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2745" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                         Destroyers;
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Destroyers;
 and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2754" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                         Submarines.</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Submarines.</p>
                   </li>
                </ol>
                <p id="d75e2763" class="- topic/p ">“Personal services contract” means a contract
@@ -3329,21 +2470,11 @@ operations, as may be required under the scope of the contract.</p>
                   <li props="Runin" class="- topic/li ">
                      <p id="d75e2779" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
                      </p>
                      <ol id="d73e2659" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e2789" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Reduces
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Reduces
 the amount of any hazardous substance, pollutant, or contaminant
 entering any waste stream or otherwise released into the environment
 (including fugitive emissions) prior to recycling, treatment, or
@@ -3351,12 +2482,7 @@ disposal; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e2798" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Reduces
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Reduces
 the hazards to public health and the environment associated with
 the release of such substances, pollutants, and contaminants;</p>
                         </li>
@@ -3364,24 +2490,14 @@ the release of such substances, pollutants, and contaminants;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2809" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Reduces
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Reduces
 or eliminates the creation of pollutants through increased efficiency
 in the use of raw materials, energy, water, or other resources;
 or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2818" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Protects
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Protects
 natural resources by conservation.</p>
                   </li>
                </ol>
@@ -3463,12 +2579,7 @@ in the System for Award Management (SAM)” means that—</p>
                <ol id="d73e2771" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2902" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         The
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The
 Contractor has entered all mandatory information, including the
 unique entity identifier and the Electronic Funds Transfer indicator
 (if applicable), the Commercial and Government Entity (CAGE) code,
@@ -3480,23 +2591,13 @@ SAM;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2914" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         The Contractor
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The Contractor
 has completed the Core, Assertions, Representations and Certifications,
 and Points of Contact sections of the registration in SAM;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2923" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         The Government
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> The Government
 has validated all mandatory data fields, to include validation of
 the Taxpayer Identification Number (TIN) with the Internal Revenue
 Service (IRS). The contractor will be required to provide consent
@@ -3505,12 +2606,7 @@ process; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2932" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                         The Government
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> The Government
 has marked the record Active.</p>
                   </li>
                </ol>
@@ -3523,28 +2619,18 @@ at an existing hydroelectric project (Energy Policy Act of 2005, <xref href="htt
                         format="html"
                         scope="external"
                         class="- topic/xref ">42 U.S.C. 15852</xref>).</p>
-               <p id="d75e2946" class="- topic/p ">“Renewable energy technology” means—</p>
+               <p id="d75e2946" class="- topic/p ">“Renewable energy technology” means—</p>  
                <ol id="d73e2822" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2953" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Technologies
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Technologies
 that use renewable energy to provide light, heat, cooling, or mechanical
 or electrical energy for use in facilities or other activities;
 or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e2962" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         The use
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The use
 of integrated whole-building designs that rely upon renewable energy
 resources, including passive solar design.</p>
                   </li>
@@ -3578,42 +2664,22 @@ a product or service. The term includes-</p>
                <ol id="d73e2865" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e2997" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Government-owned
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Government-owned
 contractor-operated (GOCO) facilities; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3006" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Joint ventures
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Joint ventures
 and subsidiaries (domestic and foreign) in which the organization
 has-</p>
                      <ol id="d73e2884" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e3016" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               A majority ownership; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> A majority ownership; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e3025" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Less than
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Less than
 a majority ownership, but over which it exercises control.</p>
                         </li>
                      </ol>
@@ -3636,21 +2702,11 @@ business concern”—</p>
                <ol id="d73e2920" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e3051" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Means a small business concern–</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Means a small business concern–</p>
                      <ol id="d73e2930" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e3061" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Not
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Not
 less than 51 percent of which is owned by one or more service-disabled
 veterans or, in the case of any publicly owned business, not less
 than 51 percent of the stock of which is owned by one or more service-disabled
@@ -3658,12 +2714,7 @@ veterans; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e3070" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               The management
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> The management
 and daily business operations of which are controlled by one or
 more service-disabled veterans or, in the case of a service-disabled
 veteran with permanent and severe disability, the spouse or permanent
@@ -3673,12 +2724,7 @@ caregiver of such veteran.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3081" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Service-disabled
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Service-disabled
 veteran means a veteran, as defined in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
@@ -3701,22 +2747,12 @@ either or both of the following:</p>
                <ol id="d73e2980" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e3112" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         The proposed
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The proposed
 fabrication and assembly of structural elements.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3121" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         The installation
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The installation
 (<i class="+ topic/ph hi-d/i ">i.e.,</i>form, fit, and attachment details) of materials or
 equipment.</p>
                   </li>
@@ -3725,10 +2761,10 @@ equipment.</p>
 course of action or policy that is to be followed unless inappropriate
 for a particular circumstance.</p>
                <p id="d75e3135" class="- topic/p ">“Signature”
-or “signed” means the discrete, verifiable symbol of an individual that,
-when affixed to a writing with the knowledge and consent of the
-individual, indicates a present intention to authenticate the writing.
-This includes electronic symbols.</p>
+or “signed” means the discrete, verifiable symbol of an individual
+that, when affixed to a writing with the knowledge and consent of
+the individual, indicates a present intention to authenticate the
+writing. This includes electronic symbols.</p>
                <p id="d75e3139" class="- topic/p ">“Simplified
 acquisition procedures” means the methods prescribed in <xref href="FAR-i1112458.dita#i1112458"
                         base="i1112458"
@@ -3741,19 +2777,14 @@ acquisition threshold” means $150,000, except for—</p>
                   <li class="- topic/li ">
                      <p id="d75e3152" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        <ph class="- topic/ph ">Acquisitions of supplies or
-services that, as determined by the head of the agency, are to be
-used to support a contingency operation; to facilitate defense against
-or recovery from cyber, nuclear, biological, chemical, or radiological attack;
-to support a request from the Secretary of State or the Administrator
-of the United States Agency for International Development to facilitate
-provision of international disaster assistance pursuant to <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2292&amp;num=0&amp;edition=prelim"
+                        <ph class="- topic/ph ">Acquisitions
+of supplies or services that, as determined by the head of the agency,
+are to be used to support a contingency operation; to facilitate
+defense against or recovery from cyber, nuclear, biological, chemical,
+or radiological attack; to support a request from the Secretary
+of State or the Administrator of the United States Agency for International Development
+to facilitate provision of international disaster assistance pursuant
+to <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2292&amp;num=0&amp;edition=prelim"
                                  format="html"
                                  scope="external"
                                  class="- topic/xref ">22 U.S.C. 2292</xref> et
@@ -3764,29 +2795,18 @@ seq.; or to support response to an emergency or major disaster (<xref href="http
                                  format="html"
                                  scope="external"
                                  class="- topic/xref ">41 U.S.C. 1903</xref>),
-the term means–</ph> 
-                        
+the term means–</ph>
                      </p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e3174" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               $750,000 for any contract to be
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> $750,000 for any contract to be
 awarded and performed, or purchase to be made, inside the United
 States; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e3183" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               $1.5 million
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> $1.5 million
 for any contract to be awarded and performed, or purchase to be
 made, outside the United States; and</p>
                         </li>
@@ -3794,12 +2814,7 @@ made, outside the United States; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3194" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Acquisitions
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Acquisitions
 of supplies or services that, as determined by the head of the agency,
 are to be used to support a humanitarian or peacekeeping operation
 (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&amp;num=0&amp;edition=prelim"
@@ -3843,32 +2858,17 @@ the product or service being acquired by the subcontract.</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e3228" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Means an arrangement
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Means an arrangement
 where–</p>
                      <ol id="d73e3023" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e3238" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Two or more small business concerns
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Two or more small business concerns
 have formed a joint venture; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e3247" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               A small
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> A small
 business offeror agrees with one or more other small business concerns
 to have them act as its subcontractors under a specified Government
 contract. A Small Business Teaming Arrangement between the offeror and
@@ -3877,22 +2877,12 @@ between the parties that–</p>
                            <ol id="d73e3042" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d75e3257" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-                                    
-                                    
-                                     Is specifically referred to as
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> Is specifically referred to as
 a “Small Business Teaming Arrangement”; and</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d75e3266" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-                                    
-                                    
-                                     Sets forth
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> Sets forth
 the different responsibilities, roles, and percentages (or other
 allocations) of work as it relates to the acquisition;</p>
                               </li>
@@ -3903,21 +2893,11 @@ allocations) of work as it relates to the acquisition;</p>
                   <li props="Runin" class="- topic/li ">
                      <p id="d75e3279" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
                      </p>
                      <ol id="d73e3072" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e3289" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               For
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> For
 civilian agencies, may include two business concerns in a mentor-protégé
 relationship when both the mentor and the protégé are small or the
 protégé is small and the concerns have received an exception to
@@ -3925,12 +2905,7 @@ affiliation pursuant to 13 CFR 121.103(h)(3)(ii) or (iii).</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e3298" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               For DoD,
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> For DoD,
 may include two business concerns in a mentor-protégé relationship
 in the Department of Defense Pilot Mentor-Protégé Program (see section
 831 of the National Defense Authorization Act for Fiscal Year 1991 (Public
@@ -3947,12 +2922,7 @@ Program; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3312" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         See 13
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> See 13
 CFR 121.103(b)(9) regarding the exception to affiliation for offers
 received from Small Business Teaming Arrangements in the case of
 a solicitation of offers for a bundled contract with a reserve.</p>
@@ -3964,35 +2934,20 @@ applicable to the acquisition, that:</p>
                <ol id="d73e3112" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e3327" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Is at least
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Is at least
 51 percent unconditionally and directly owned (as defined at 13
 CFR 124.105) by—</p>
                      <ol id="d73e3122" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e3337" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               One or more socially disadvantaged
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> One or more socially disadvantaged
 (as defined at 13 CFR 124.103) and economically disadvantaged (as
 defined at 13 CFR 124.104) individuals who are citizens of the United
 States; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e3346" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Each individual
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Each individual
 claiming economic disadvantage has a net worth not exceeding $750,000
 after taking into account the applicable exclusions set forth at
 13 CFR 124.104(c)(2); and</p>
@@ -4001,12 +2956,7 @@ after taking into account the applicable exclusions set forth at
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3357" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         The management
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The management
 and daily business operations of which are controlled (as defined
 at 13 CFR 124.106) by individuals who meet the criteria in paragraphs
 (1)(i) and (ii) of this definition.</p>
@@ -4034,106 +2984,56 @@ or disclosed publicly:</p>
                <ol id="d73e3166" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e3382" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Bid prices submitted in response
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Bid prices submitted in response
 to an agency invitation for bids, or lists of those bid prices before
 bid opening.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3391" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Proposed
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Proposed
 costs or prices submitted in response to an agency solicitation,
 or lists of those proposed costs or prices.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3400" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Source
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Source
 selection plans.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3409" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                         Technical
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Technical
 evaluation plans.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3418" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                         Technical
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Technical
 evaluations of proposals.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3428" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-                        
-                         Cost or
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> Cost or
 price evaluations of proposals.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3437" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        
-                        
-                        
-                        
-                         Competitive
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph> Competitive
 range determinations that identify proposals that have a reasonable
 chance of being selected for award of a contract.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3446" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        
-                        
-                        
-                        
-                         Rankings
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph> Rankings
 of bids, proposals, or competitors.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3455" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(9)</ph>
-                        
-                        
-                        
-                        
-                         Reports
+                        <ph props="autonumber" class="- topic/ph ">(9)</ph> Reports
 and evaluations of source selection panels, boards, or advisory
 councils.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3464" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(10)</ph>
-                        
-                        
-                        
-                        
-                         Other
+                        <ph props="autonumber" class="- topic/ph ">(10)</ph> Other
 information marked as “Source Selection Information-See FAR <xref href="#i1125359"
                               base="i1125359"
                               outputclass="fm:ParaNumOnly"
@@ -4216,34 +3116,19 @@ referred to are as follows:</p>
                <ol id="d73e3304" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e3520" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         An individual
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> An individual
 surety is one person, as distinguished from a business entity, who
 is liable for the entire penal amount of the bond.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3529" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         A corporate
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> A corporate
 surety is licensed under various insurance laws and, under its charter,
 has legal power to act as surety for others.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3538" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         A cosurety
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> A cosurety
 is one of two or more sureties that are jointly liable for the penal
 sum of the bond. A limit of liability for each surety may be stated.</p>
                   </li>
@@ -4265,22 +3150,12 @@ conditions-</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e3563" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Under
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Under
 which humans and nature can exist in productive harmony; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3572" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         That permit
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> That permit
 fulfilling the social, economic, and other requirements of present
 and future generations.</p>
                   </li>
@@ -4293,23 +3168,13 @@ and other assistance-related processes. It includes—</p>
                <ol id="d73e3356" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e3587" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Data
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Data
 collected from prospective Federal awardees required for the conduct
 of business with the Government;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3596" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Prospective
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Prospective
 contractor-submitted annual representations and certifications in
 accordance with FAR subpart <xref href="FAR-i1121869.dita#i1121869"
                               base="i1121869"
@@ -4318,12 +3183,7 @@ accordance with FAR subpart <xref href="FAR-i1121869.dita#i1121869"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3608" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         Identification
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Identification
 of those parties excluded from receiving Federal contracts, certain
 subcontracts, and certain types of Federal financial and non-financial
 assistance and benefits.</p>
@@ -4381,65 +3241,35 @@ proposal, means that-</p>
                <ol id="d73e3424" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e3655" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         In the opinion and to the knowledge
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> In the opinion and to the knowledge
 of the Government evaluator, the meritorious proposal-</p>
                      <ol id="d73e3434" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e3665" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Is
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Is
 the product of original thinking submitted confidentially by one
 source;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e3674" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Contains
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Contains
 new, novel, or changed concepts, approaches, or methods;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e3683" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                               Was not
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Was not
 submitted previously by another; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e3692" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              
-                              
-                              
-                               Is not
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph> Is not
 otherwise available within the Federal Government.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3703" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         In this
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> In this
 context, the term does not mean that the source has the sole capability
 of performing the research.</p>
                   </li>
@@ -4456,12 +3286,8 @@ means the 50 States and the District of Columbia, except as follows:</p>
                <ol id="d73e3487" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e3724" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         For use in <xref href="FAR-i1123667.dita#i1123667"
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> For
+use in <xref href="FAR-i1123667.dita#i1123667"
                               base="i1123667"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  3.10</xref>, see
@@ -4472,12 +3298,7 @@ the definition at <xref href="FAR-i1123674.dita#i1123674"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3739" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> For use
 in <xref href="FAR-i1097211.dita#i1097211"
                               base="i1097211"
                               outputclass="fm:Subpart"
@@ -4489,12 +3310,7 @@ the definition at <xref href="FAR-i1097215.dita#i1097215"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3754" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> For use
 in <xref href="FAR-i1096345.dita#i1096345"
                               base="i1096345"
                               outputclass="fm:Subpart"
@@ -4506,12 +3322,7 @@ the definition at <xref href="FAR-i1096351.dita#i1096351"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3769" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> For use
 in <xref href="FAR-i1096178.dita#i1096178"
                               base="i1096178"
                               outputclass="fm:Subpart"
@@ -4523,12 +3334,7 @@ the definition at <xref href="FAR-i1096182.dita#i1096182"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3784" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> For use
 in <xref href="FAR-i1096024.dita#i1096024"
                               base="i1096024"
                               outputclass="fm:Subpart"
@@ -4540,12 +3346,7 @@ the definition at <xref href="FAR-i1096035.dita#i1096035"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3800" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> For use
 in <xref href="FAR-i1095728.dita#i1095728"
                               base="i1095728"
                               outputclass="fm:Subpart"
@@ -4557,12 +3358,7 @@ the definition at <xref href="FAR-i1095732.dita#i1095732"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3815" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph> For use
 in <xref href="FAR-i1095525.dita#i1095525"
                               base="i1095525"
                               outputclass="fm:Subpart"
@@ -4574,12 +3370,7 @@ the definition at <xref href="FAR-i1095538.dita#i1095538"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3830" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph> For use
 in <xref href="FAR-i1095422.dita#i1095422"
                               base="i1095422"
                               outputclass="fm:Subpart"
@@ -4591,12 +3382,7 @@ the definition at <xref href="FAR-id1617MD050J7.dita#id1617MD050J7"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3845" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(9)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(9)</ph> For use
 in <xref href="FAR-i1095068.dita#i1095068"
                               base="i1095068"
                               outputclass="fm:Part"
@@ -4608,12 +3394,7 @@ at <xref href="FAR-i1094968.dita#i1094968"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3860" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(10)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(10)</ph> For use
 in <xref href="FAR-i1093771.dita#i1093771"
                               base="i1093771"
                               outputclass="fm:Part"
@@ -4625,12 +3406,7 @@ at <xref href="FAR-i1093413.dita#i1093413"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3875" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(11)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(11)</ph> For use
 in <xref href="FAR-i1090283.dita#i1090283"
                               base="i1090283"
                               outputclass="fm:Part"
@@ -4642,12 +3418,7 @@ at <xref href="FAR-i1090247.dita#i1090247"
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3891" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(12)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(12)</ph> For use
 in <xref href="FAR-i1069958.dita#i1069958"
                               base="i1069958"
                               outputclass="fm:Subpart"
@@ -4657,7 +3428,7 @@ the definition at <xref href="FAR-i1069960.dita#i1069960"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">47.401</xref>.</p>
                   </li>
-               </ol>
+               </ol>  
                <p id="d75e3905" class="- topic/p ">“Unsolicited proposal” means a written proposal
 for a new or innovative idea that is submitted to an agency on the
 initiative of the offeror for the purpose of obtaining a contract
@@ -4684,69 +3455,42 @@ see the definition at <xref href="FAR-i1044529.dita#i1044529"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.248-2</xref>(b).</p>
                <p id="d75e3921" class="- topic/p ">
-                  <ph class="- topic/ph ">“Value engineering change
-proposal (VECP)”-</ph>
+                  <ph class="- topic/ph ">“Value engineering change proposal (VECP)”-</ph>
                </p>
                <ol id="d73e3690" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e3931" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Means a proposal that–</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Means
+a proposal that–</p>
                      <ol id="d73e3700" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e3941" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Requires a
-change to the instant contract to implement; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Requires a change to the instant
+contract to implement; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e3950" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Results in reducing the overall
-projected cost to the agency without impairing essential functions
-or characteristics, provided, that it does not involve a change–</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Results
+in reducing the overall projected cost to the agency without impairing
+essential functions or characteristics, provided, that it does not
+involve a change–</p>
                            <ol id="d73e3719" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d75e3960" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-                                    
-                                    
-                                     In deliverable
-end item quantities only;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> In deliverable end item quantities
+only;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d75e3969" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-                                    
-                                    
-                                     In research and development (R&amp;D)
-items or R&amp;D test quantities that are due solely to results
-of previous testing under the instant contract; or</p>
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> In research
+and development (R&amp;D) items or R&amp;D test quantities that
+are due solely to results of previous testing under the instant
+contract; or</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d75e3978" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                    
-                                    
-                                    
-                                    
-                                     To the contract type only.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph> To the
+contract type only.</p>
                               </li>
                            </ol>
                         </li>
@@ -4754,22 +3498,12 @@ of previous testing under the instant contract; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e3991" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         For use
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> For use
 in the clauses at-</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e4001" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                              
                               <xref href="FAR-i1044529.dita#i1044529"
                                     base="i1044529"
                                     outputclass="fm:ParaNumOnly"
@@ -4782,11 +3516,6 @@ at <xref href="FAR-i1044529.dita#i1044529"
                         <li class="- topic/li ">
                            <p id="d75e4016" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                              
                               <xref href="FAR-i1044553.dita#i1044553"
                                     base="i1044553"
                                     outputclass="fm:ParaNumOnly"
@@ -4804,12 +3533,7 @@ a small business concern-</p>
                <ol id="d73e3762" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e4039" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Not less than 51 percent of which
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Not less than 51 percent of which
 is owned by one or more veterans (as defined at <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
@@ -4820,12 +3544,7 @@ and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e4051" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         The management
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The management
 and daily business operations of which are controlled by one or
 more veterans.</p>
                   </li>
@@ -4835,23 +3554,13 @@ means—</p>
                <ol id="d73e3789" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e4067" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         Previously unused raw material,
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Previously unused raw material,
 including previously unused copper, aluminum, lead, zinc, iron,
 other metal or metal ore; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e4076" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         Any undeveloped
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Any undeveloped
 resource that is, or with new technology will become, a source of
 raw materials.</p>
                   </li>
@@ -4878,34 +3587,19 @@ means water consumption per square foot of building space.</p>
                <ol id="d73e3829" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e4107" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         A
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> A
 small business concern–</p>
                      <ol id="d73e3839" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e4117" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               That is at least 51 percent owned
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> That is at least 51 percent owned
 by one or more women; or, in the case of any publicly owned business,
 at least 51 percent of the stock of which is owned by one or more
 women; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e4126" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               Whose
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Whose
 management and daily business operations are controlled by one or
 more women; or</p>
                         </li>
@@ -4913,12 +3607,7 @@ more women; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e4137" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         A small
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> A small
 business concern eligible under the Women-Owned Small Business Program
 in accordance with 13 CFR part 127 (see <xref href="FAR-i1099174.dita#i1099174"
                               base="i1099174"
@@ -4930,24 +3619,14 @@ in accordance with 13 CFR part 127 (see <xref href="FAR-i1099174.dita#i1099174"
                <ol id="d73e382945" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e4155" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         “Women-Owned
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> “Women-Owned
 Small Business (WOSB) Program” means a program that authorizes contracting
 officers to limit competition, including award on a sole source
 basis, to—</p>
                      <ol id="d73e3839323" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d75e4165" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                               Economically disadvantaged women-owned
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Economically disadvantaged women-owned
 small business (EDWOSB) concerns eligible under the WOSB Program
 for Federal contracts assigned a North American Industry Classification
 Systems (NAICS) code in an industry in which the Small Business
@@ -4956,12 +3635,7 @@ Federal procurement; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d75e4174" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                               WOSB concerns
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> WOSB concerns
 eligible under the WOSB Program for Federal contracts assigned a
 NAICS code in an industry in which SBA has determined that WOSB
 concerns are substantially underrepresented in Federal procurement.</p>
@@ -4970,12 +3644,7 @@ concerns are substantially underrepresented in Federal procurement.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e4185" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         “Economically
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> “Economically
 disadvantaged women-owned small business (EDWOSB) concern” means
 a small business concern that is at least 51 percent directly and
 unconditionally owned by, and the management and daily business
@@ -4987,12 +3656,7 @@ Program.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e4194" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                         “Women-owned
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> “Women-owned
 small business (WOSB)” concern eligible under the WOSB Program means
 a small business concern that is at least 51 percent directly and
 unconditionally owned by, and the management and daily business
