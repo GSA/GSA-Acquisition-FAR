@@ -328,3 +328,24 @@ li[class*= 'Runin'] > p{
     content: '__';
     float:left;
 }
+
+[class *= 'Box']:before
+{
+    content: '☐';
+    float:left;
+}
+
+
+[class *= 'CheckedBox']:before
+{
+    content: '☑';
+    float:left;
+}
+
+[class *= 'CheckMark']:before
+{
+    content: '✓';
+    float:left;
+}
+
+
