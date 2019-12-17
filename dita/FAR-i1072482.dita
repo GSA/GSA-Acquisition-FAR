@@ -2,30 +2,84 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="i1072482"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1072482"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">46.101</ph> Definitions.</title>
-		    <conbody class="- topic/body concept/conbody ">
-			      <p class="- topic/p ">As used in this part-</p>
-			      <p class="- topic/p ">“Acceptance” means the act of an authorized representative of the Government by which the Government, for itself or as agent of another, assumes ownership of existing identified supplies tendered or approves specific services rendered as partial or complete performance of the contract.</p>
-			      <p class="- topic/p ">“Conditional acceptance” means acceptance of supplies or services that do not conform to contract quality requirements, or are otherwise incomplete, that the contractor is required to correct or otherwise complete by a specified date.</p>
-			      <p class="- topic/p ">“Contract quality requirements” means the technical requirements in the contract relating to the quality of the product or service and those contract clauses prescribing inspection, and other quality controls incumbent on the contractor, to assure that the product or service conforms to the contractual requirements.</p>
-			      <p class="- topic/p ">“Critical nonconformance” means a nonconformance that is likely to result in hazardous or unsafe conditions for individuals using, maintaining, or depending upon the supplies or services; or is likely to prevent performance of a vital agency mission.</p>
-			      <p class="- topic/p ">“Government contract quality assurance” means the various functions, including inspection, performed by the Government to determine whether a contractor has fulfilled the contract obligations pertaining to quality and quantity.</p>
-			      <p class="- topic/p ">“Major nonconformance” means a nonconformance, other than critical, that is likely to result in failure of the supplies or services, or to materially reduce the usability of the supplies or services for their intended purpose.</p>
-			      <p class="- topic/p ">“Minor nonconformance” means a nonconformance that is not likely to materially reduce the usability of the supplies or services for their intended purpose, or is a departure from established standards having little bearing on the effective use or operation of the supplies or services.</p>
-			      <p class="- topic/p ">“Off-the-shelf item” means an item produced and placed in stock by a contractor, or stocked by a distributor, before receiving orders or contracts for its sale. The item may be commercial or produced to military or Federal specifications or description.</p>
-			      <p class="- topic/p ">“Patent defect” means any defect which exists at the time of acceptance and is not a latent defect.</p>
-			      <p class="- topic/p ">“Subcontractor” (see <xref href="FAR-i1073689.dita#i1073689"
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">46.101</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this part-</p>
+         <p class="- topic/p ">“Acceptance” means the act of an authorized representative of
+the Government by which the Government, for itself or as agent of
+another, assumes ownership of existing identified supplies tendered
+or approves specific services rendered as partial or complete performance
+of the contract.</p>
+         <p class="- topic/p ">“Conditional acceptance” means acceptance of supplies or services
+that do not conform to contract quality requirements, or are otherwise
+incomplete, that the contractor is required to correct or otherwise
+complete by a specified date.</p>
+         <p class="- topic/p ">“Contract quality requirements” means the technical requirements
+in the contract relating to the quality of the product or service
+and those contract clauses prescribing inspection, and other quality
+controls incumbent on the contractor, to assure that the product
+or service conforms to the contractual requirements.</p>
+         <p rev="FAC 2020-02 December 23, 2019" class="- topic/p "><?FM MARKER [CaseNumber] FAR Case 2013-002?>“Counterfeit item” means
+an unlawful or unauthorized reproduction, substitution, or alteration
+that has been knowingly mismarked, misidentified, or otherwise misrepresented
+to be an authentic, unmodified item from the original manufacturer,
+or a source with the express written authority of the original manufacturer
+or current design activity, including an authorized aftermarket
+manufacturer. Unlawful or unauthorized substitution includes used
+items represented as new, or the false identification of grade,
+serial number, lot number, date code, or performance characteristics.<?FM MARKER [Why] Amend section 46.101 by adding, in alphabetical order, the definitions “Counterfeit item”, “Critical item”, “Design activity”, and “Suspect counterfeit item”.?></p>
+         <p rev="FAC 2020-02 December 23, 2019" class="- topic/p ">“Critical item” means an
+item, the failure of which is likely to result in hazardous or unsafe
+conditions for individuals using, maintaining, or depending upon
+the item; or is likely to prevent performance of a vital agency
+mission.</p>
+         <p class="- topic/p ">“Critical nonconformance” means a nonconformance that is likely
+to result in hazardous or unsafe conditions for individuals using,
+maintaining, or depending upon the supplies or services; or is likely
+to prevent performance of a vital agency mission.</p>
+         <p rev="FAC 2020-02 December 23, 2019" class="- topic/p ">“Design activity” means
+an organization, Government or contractor, that has responsibility
+for the design and configuration of an item, including the preparation
+or maintenance of design documents. Design activity could be the
+original organization, or an organization to which design responsibility
+has been transferred.</p>
+         <p class="- topic/p ">“Government contract quality assurance” means the various functions,
+including inspection, performed by the Government to determine whether
+a contractor has fulfilled the contract obligations pertaining to
+quality and quantity.</p>
+         <p class="- topic/p ">“Major nonconformance” means a nonconformance, other than critical,
+that is likely to result in failure of the supplies or services,
+or to materially reduce the usability of the supplies or services
+for their intended purpose.</p>
+         <p class="- topic/p ">“Minor nonconformance” means a nonconformance that is not likely
+to materially reduce the usability of the supplies or services for
+their intended purpose, or is a departure from established standards
+having little bearing on the effective use or operation of the supplies
+or services.</p>
+         <p class="- topic/p ">“Off-the-shelf item” means an item produced and placed in stock
+by a contractor, or stocked by a distributor, before receiving orders
+or contracts for its sale. The item may be commercial or produced
+to military or Federal specifications or description.</p>
+         <p class="- topic/p ">“Patent defect” means any defect which exists at the time of
+acceptance and is not a latent defect.</p>
+         <p class="- topic/p ">“Subcontractor” (see <xref href="FAR-i1073689.dita#i1073689"
                   base="i1073689"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">44.101</xref>).</p>
-			      <p class="- topic/p ">“Testing” means that element of inspection that determines the properties or elements, including functional operation of supplies or their components, by the application of established scientific principles and procedures.</p>
-		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42415, Sept. 19, 1983, as amended at 60 FR 48249, Sept. 18, 1995; 61 FR 31662, June 20, 1996; 64 FR 51846, Sept. 24, 1999; 66 FR 2133, Jan. 10, 2001]</msgblock>
+         <p rev="FAC 2020-02 December 23, 2019" class="- topic/p ">Suspect counterfeit item
+means an item for which credible evidence (including but not limited
+to, visual inspection or testing) provides reasonable doubt that
+the item is authentic.</p>
+         <p class="- topic/p ">“Testing” means that element of inspection that determines the
+properties or elements, including functional operation of supplies
+or their components, by the application of established scientific
+principles and procedures.</p>
+         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42415, Sept. 19, 1983, as amended at 60 FR 48249, Sept. 18, 1995; 61 FR 31662, June 20, 1996; 64 FR 51846, Sept. 24, 1999; 66 FR 2133, Jan. 10, 2001]</msgblock>
       </conbody>
-	  </concept>
+   </concept>
 </dita>
