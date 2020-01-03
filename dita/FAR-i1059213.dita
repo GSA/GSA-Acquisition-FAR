@@ -1,97 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="i1059213"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">52.215-3</ph> Request for Information or Solicitation for Planning Purposes.</title>
-		    <conbody outputclass="provision" class="- topic/body concept/conbody ">
-			      <p id="d3200e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
-					          <xref href="FAR-i1109112.dita#i1109112"
-                     base="i1109112"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">15.209</xref>(c)</ph>, insert the following provision:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Request for Information or Solicitation for Planning Purposes (Oct 1997)</p>
-			      <ol id="d3172e25" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d3200e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            The Government does not intend to award a contract on the basis of this solicitation or to otherwise pay for the information solicited except as an allowable cost under other contracts as provided in subsection <xref href="FAR-i1085142.dita#i1085142"
-                        base="i1085142"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">31.205-18</xref>, Bid and proposal costs, of the Federal Acquisition Regulation.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3200e41" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            Although “proposal” and “offeror” are used in this Request for Information, your response will be treated as information only. It shall not be used as a proposal.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3200e50" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            This solicitation is issued for the purpose of: [<i class="+ topic/ph hi-d/i ">state purpose</i>].</p>
-				        </li>
-			      </ol>
-			      <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
-		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[62 FR 51261, Sept. 30, 1997]</msgblock>
-      </conbody>
-	  </concept>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
+	<concept id="i1059213" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+		<title class="- topic/title ">
+			<ph props="autonumber" class="- topic/ph ">52.215-3</ph> Request for Information or Solicitation for Planning Purposes.</title>
+		<conbody outputclass="provision" class="- topic/body concept/conbody ">
+			<p id="d3200e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					<xref href="FAR-i1109112.dita#i1109112" base="i1109112" outputclass="fm:ParaNumOnly" class="- topic/xref ">15.209</xref>(c)</ph>, insert the following provision:</p>
+			<p outputclass="Ctr_SmCaps" class="- topic/p ">Request for Information or Solicitation for Planning Purposes (Oct 1997)</p>
+			<ol id="d3172e25" class="- topic/ol ">
+				<li class="- topic/li ">
+					<p id="d3200e29" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(a)</ph> The Government does not intend to award a contract on the basis of this solicitation or to otherwise pay for the information solicited except as an allowable cost under other contracts as provided in subsection <xref href="FAR-i1085142.dita#i1085142" base="i1085142" outputclass="fm:ParaNumOnly" class="- topic/xref ">31.205-18</xref>, Bid and proposal costs, of the Federal Acquisition Regulation.</p>
+				</li>
+				<li class="- topic/li ">
+					<p id="d3200e41" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(b)</ph> Although “proposal” and “offeror” are used in this Request for Information, your response will be treated as information only. It shall not be used as a proposal.</p>
+				</li>
+				<li class="- topic/li ">
+					<p id="d3200e50" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(c)</ph> This solicitation is issued for the purpose of: [<i class="+ topic/ph hi-d/i ">state purpose</i>].</p>
+				</li>
+			</ol>
+			<p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
+			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[62 FR 51261, Sept. 30, 1997]</msgblock>
+		</conbody>
+	</concept>
 </dita>

@@ -1,90 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="id1897F0DI0UI"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">4.2001</ph> Definitions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="d316e21" class="- topic/p ">As used in this subpart—</p>
-         <p id="d316e27fcp" class="- topic/p ">“Covered article” means any hardware, software,
-or service that–</p>
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d316e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                         Is
-developed or provided by a covered entity;</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d316e36" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                         Includes
-any hardware, software, or service developed or provided in whole
-or in part by a covered entity; or</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d316e45" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                         Contains
-components using any hardware or software developed in whole or
-in part by a covered entity.</p>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-         <p id="d316e54" class="- topic/p ">“Covered entity” means–</p>
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d316e66" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                         Kaspersky
-Lab;</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d316e75" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                         Any successor
-entity to Kaspersky Lab;</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d316e84" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                         Any entity
-that controls, is controlled by, or is under common control with
-Kaspersky Lab; or</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d316e93" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                         Any entity
-of which Kaspersky Lab has a majority ownership.</p>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock "/>
-      </conbody>
-   </concept>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+	<concept id="id1897F0DI0UI" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+		<title class="- topic/title ">
+			<ph props="autonumber" class="- topic/ph ">4.2001</ph> Definitions.</title>
+		<conbody class="- topic/body  concept/conbody ">
+			<p id="d316e21" class="- topic/p ">As used in this subpart—</p>
+			<p id="d316e27fcp" class="- topic/p ">“Covered article” means any hardware, software, or service that–</p>
+			<ol class="- topic/ol ">
+				<li class="- topic/li ">
+					<ol class="- topic/ol ">
+						<li class="- topic/li ">
+							<p id="d316e27" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(1)</ph> Is developed or provided by a covered entity;</p>
+						</li>
+						<li class="- topic/li ">
+							<p id="d316e36" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(2)</ph> Includes any hardware, software, or service developed or provided in whole or in part by a covered entity; or</p>
+						</li>
+						<li class="- topic/li ">
+							<p id="d316e45" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(3)</ph> Contains components using any hardware or software developed in whole or in part by a covered entity.</p>
+						</li>
+					</ol>
+				</li>
+			</ol>
+			<p id="d316e54" class="- topic/p ">“Covered entity” means–</p>
+			<ol class="- topic/ol ">
+				<li class="- topic/li ">
+					<ol class="- topic/ol ">
+						<li class="- topic/li ">
+							<p id="d316e66" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(1)</ph> Kaspersky Lab;</p>
+						</li>
+						<li class="- topic/li ">
+							<p id="d316e75" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(2)</ph> Any successor entity to Kaspersky Lab;</p>
+						</li>
+						<li class="- topic/li ">
+							<p id="d316e84" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(3)</ph> Any entity that controls, is controlled by, or is under common control with Kaspersky Lab; or</p>
+						</li>
+						<li class="- topic/li ">
+							<p id="d316e93" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(4)</ph> Any entity of which Kaspersky Lab has a majority ownership.</p>
+						</li>
+					</ol>
+				</li>
+			</ol>
+			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock "/>
+		</conbody>
+	</concept>
 </dita>

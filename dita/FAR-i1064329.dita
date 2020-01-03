@@ -1,197 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
-	  <concept id="i1064329"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">52.204-18</ph> Commercial and Government Entity Code Maintenance.</title>
-		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
-			      <p id="d3087e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
-					          <xref href="FAR-i1121289.dita#i1121289"
-                     base="i1121289"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">4.1804</xref>(c)</ph>, use the following clause:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Commercial and Government Entity Code Maintenance (Jul 2016)</p>
-			      <ol id="d3063e25" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d3087e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            
-						            <i class="+ topic/ph hi-d/i ">Definition.</i> As used in this clause–</p>
-					          <p id="d3087e38" class="- topic/p ">“Commercial and Government Entity (CAGE) code” means–</p>
-					          <ol id="d3063e47" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3087e45" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                An identifier assigned to entities located in the United States or its outlying areas by the Defense Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch to identify a commercial or government entity; or</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3087e54" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                An identifier assigned by a member of the North Atlantic Treaty Organization (NATO) or by the NATO Support and Procurement Agency (NSPA) to entities located outside the United States and its outlying areas that the DLA Commercial and Government Entity (CAGE) Branch records and maintains in the CAGE master file. This type of code is known as a NATO CAGE (NCAGE) code.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3087e65" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            Contractors shall ensure that the CAGE code is maintained throughout the life of the contract. For contractors registered in the System for Award Management (SAM), the DLA Commercial and Government Entity (CAGE) Branch shall only modify data received from SAM in the CAGE master file if the contractor initiates those changes via update of its SAM registration. Contractors undergoing a novation or change-of-name agreement shall notify the contracting officer in accordance with <xref href="FAR-i1074581.dita#i1074581"
-                        base="i1074581"
-                        outputclass="fm:Subpart"
-                        class="- topic/xref ">subpart  42.12</xref>. The contractor shall communicate any change to the CAGE code to the contracting officer within 30 days after the change, so that a modification can be issued to update the CAGE code on the contract.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3087e77" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            Contractors located in the United States or its outlying areas that are not registered in SAM shall submit written change requests to the DLA Commercial and Government Entity (CAGE) Branch. Requests for changes shall be provided at <xref href="https://cage.dla.mil" scope="external" class="- topic/xref ">https://cage.dla.mil</xref>. Change requests to the CAGE master file are accepted from the entity identified by the code.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3087e89" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            Contractors located outside the United States and its outlying areas that are not registered in SAM shall contact the appropriate National Codification Bureau (points of contact available at <xref href="http://www.nato.int/structur/AC/135/main/links/contacts.htm"
-                        scope="external"
-                        class="- topic/xref ">http://www.nato.int/structur/AC/135/main/links/contacts.htm</xref>) or NSPA at <xref href="https://eportal.nspa.nato.int/AC135Public/scage/CageList.aspx"
-                        scope="external"
-                        class="- topic/xref ">https://eportal.nspa.nato.int/AC135Public/scage/CageList.aspx</xref> to request CAGE changes.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3087e104" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            Additional guidance for maintaining CAGE codes is available at <xref href="https://cage.dla.mil" scope="external" class="- topic/xref ">https://cage.dla.mil</xref>.</p>
-				        </li>
-			      </ol>
-			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[79 FR 31192, May 30, 2014, as amended at 80 FR 38312, July 2, 2015; 81 FR 45867, July 14, 2016]</msgblock>
-      </conbody>
-	  </concept>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
+	<concept id="i1064329" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+		<title class="- topic/title ">
+			<ph props="autonumber" class="- topic/ph ">52.204-18</ph> Commercial and Government Entity Code Maintenance.</title>
+		<conbody outputclass="clause" class="- topic/body concept/conbody ">
+			<p id="d3087e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					<xref href="FAR-i1121289.dita#i1121289" base="i1121289" outputclass="fm:ParaNumOnly" class="- topic/xref ">4.1804</xref>(c)</ph>, use the following clause:</p>
+			<p outputclass="Ctr_SmCaps" class="- topic/p ">Commercial and Government Entity Code Maintenance (Jul 2016)</p>
+			<ol id="d3063e25" class="- topic/ol ">
+				<li class="- topic/li ">
+					<p id="d3087e29" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(a)</ph>
+						<i class="+ topic/ph hi-d/i ">Definition.</i> As used in this clause–</p>
+					<p id="d3087e38" class="- topic/p ">“Commercial and Government Entity (CAGE) code” means–</p>
+					<ol id="d3063e47" class="- topic/ol ">
+						<li class="- topic/li ">
+							<p id="d3087e45" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(1)</ph>An identifier assigned to entities located in the United States or its outlying areas by the Defense Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch to identify a commercial or government entity; or</p>
+						</li>
+						<li class="- topic/li ">
+							<p id="d3087e54" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(2)</ph>An identifier assigned by a member of the North Atlantic Treaty Organization (NATO) or by the NATO Support and Procurement Agency (NSPA) to entities located outside the United States and its outlying areas that the DLA Commercial and Government Entity (CAGE) Branch records and maintains in the CAGE master file. This type of code is known as a NATO CAGE (NCAGE) code.</p>
+						</li>
+					</ol>
+				</li>
+				<li class="- topic/li ">
+					<p id="d3087e65" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(b)</ph> Contractors shall ensure that the CAGE code is maintained throughout the life of the contract. For contractors registered in the System for Award Management (SAM), the DLA Commercial and Government Entity (CAGE) Branch shall only modify data received from SAM in the CAGE master file if the contractor initiates those changes via update of its SAM registration. Contractors undergoing a novation or change-of-name agreement shall notify the contracting officer in accordance with <xref href="FAR-i1074581.dita#i1074581" base="i1074581" outputclass="fm:Subpart" class="- topic/xref ">subpart  42.12</xref>. The contractor shall communicate any change to the CAGE code to the contracting officer within 30 days after the change, so that a modification can be issued to update the CAGE code on the contract.</p>
+				</li>
+				<li class="- topic/li ">
+					<p id="d3087e77" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(c)</ph> Contractors located in the United States or its outlying areas that are not registered in SAM shall submit written change requests to the DLA Commercial and Government Entity (CAGE) Branch. Requests for changes shall be provided at <xref href="https://cage.dla.mil" scope="external" class="- topic/xref ">https://cage.dla.mil</xref>. Change requests to the CAGE master file are accepted from the entity identified by the code.</p>
+				</li>
+				<li class="- topic/li ">
+					<p id="d3087e89" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(d)</ph> Contractors located outside the United States and its outlying areas that are not registered in SAM shall contact the appropriate National Codification Bureau (points of contact available at <xref href="http://www.nato.int/structur/AC/135/main/links/contacts.htm" scope="external" class="- topic/xref ">http://www.nato.int/structur/AC/135/main/links/contacts.htm</xref>) or NSPA at <xref href="https://eportal.nspa.nato.int/AC135Public/scage/CageList.aspx" scope="external" class="- topic/xref ">https://eportal.nspa.nato.int/AC135Public/scage/CageList.aspx</xref> to request CAGE changes.</p>
+				</li>
+				<li class="- topic/li ">
+					<p id="d3087e104" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(e)</ph> Additional guidance for maintaining CAGE codes is available at <xref href="https://cage.dla.mil" scope="external" class="- topic/xref ">https://cage.dla.mil</xref>.</p>
+				</li>
+			</ol>
+			<p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[79 FR 31192, May 30, 2014, as amended at 80 FR 38312, July 2, 2015; 81 FR 45867, July 14, 2016]</msgblock>
+		</conbody>
+	</concept>
 </dita>

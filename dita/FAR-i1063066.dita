@@ -1,71 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="i1063066"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">52.211-12</ph> Liquidated Damages-Construction.</title>
-		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
-			      <p id="d3143e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
-					          <xref href="FAR-i1114065.dita#i1114065"
-                     base="i1114065"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">11.503</xref>(b)</ph>, insert the following clause in solicitations and contracts:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Liquidated Damages-Construction (Sept 2000)</p>
-			      <ol id="d3115e25" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d3143e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            If the Contractor fails to complete the work within the time specified in the contract, the Contractor shall pay liquidated damages to the Government in the amount of ____________ [<i class="+ topic/ph hi-d/i ">Contracting Officer insert amount</i>] for each calendar day of delay until the work is completed or accepted.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3143e41" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            If the Government terminates the Contractor’s right to proceed, liquidated damages will continue to accrue until the work is completed. These liquidated damages are in addition to excess costs of repurchase under the Termination clause.</p>
-				        </li>
-			      </ol>
-			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[65 FR 46067, July 26, 2000]</msgblock>
-      </conbody>
-	  </concept>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
+	<concept id="i1063066" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+		<title class="- topic/title ">
+			<ph props="autonumber" class="- topic/ph ">52.211-12</ph> Liquidated Damages-Construction.</title>
+		<conbody outputclass="clause" class="- topic/body concept/conbody ">
+			<p id="d3143e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					<xref href="FAR-i1114065.dita#i1114065" base="i1114065" outputclass="fm:ParaNumOnly" class="- topic/xref ">11.503</xref>(b)</ph>, insert the following clause in solicitations and contracts:</p>
+			<p outputclass="Ctr_SmCaps" class="- topic/p ">Liquidated Damages-Construction (Sept 2000)</p>
+			<ol id="d3115e25" class="- topic/ol ">
+				<li class="- topic/li ">
+					<p id="d3143e29" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(a)</ph>If the Contractor fails to complete the work within the time specified in the contract, the Contractor shall pay liquidated damages to the Government in the amount of ____________ [<i class="+ topic/ph hi-d/i ">Contracting Officer insert amount</i>] for each calendar day of delay until the work is completed or accepted.</p>
+				</li>
+				<li class="- topic/li ">
+					<p id="d3143e41" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(b)</ph>If the Government terminates the Contractor’s right to proceed, liquidated damages will continue to accrue until the work is completed. These liquidated damages are in addition to excess costs of repurchase under the Termination clause.</p>
+				</li>
+			</ol>
+			<p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[65 FR 46067, July 26, 2000]</msgblock>
+		</conbody>
+	</concept>
 </dita>

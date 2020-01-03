@@ -1,166 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="i1047282"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">52.246-20</ph> Warranty of Services.</title>
-		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
-			      <p id="d3656e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
-					          <xref href="FAR-i1071932.dita#i1071932"
-                     base="i1071932"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">46.710</xref>(d)</ph>, insert a clause substantially as follows:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Warranty of Services (May 2001)</p>
-			      <ol id="d3628e25" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d3656e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            
-						            <i class="+ topic/ph hi-d/i ">Definition.</i>“Acceptance,” as used in this clause, means the act of an authorized representative of the Government by which the Government assumes for itself, or as an agent of another, ownership of existing and identified supplies, or approves specific services, as partial or complete performance of the contract.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3656e41" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            Notwithstanding inspection and acceptance by the Government or any provision concerning the conclusiveness thereof, the Contractor warrants that all services performed under this contract will, at the time of acceptance, be free from defects in workmanship and conform to the requirements of this contract. The Contracting Officer shall give written notice of any defect or nonconformance to the Contractor ____________ [<i class="+ topic/ph hi-d/i ">Contracting Officer shall insert the specific period of time in which notice shall be given to the Contractor; e.g.,“within 30days from the date of acceptance by the Government,”; within 1000 hours of use by the Government;” or other specified event whose occurrence will terminate the period of notice, or combination of any applicable events or period of time</i>]. This notice shall state either-</p>
-					          <ol id="d3628e50" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3656e54" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                That the Contractor shall correct or reperform any defective or nonconforming services; or</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3656e63" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                That the Government does not require correction or reperformance.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3656e74" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            If the Contractor is required to correct or reperform, it shall be at no cost to the Government, and any services corrected or reperformed by the Contractor shall be subject to this clause to the same extent as work initially performed. If the Contractor fails or refuses to correct or reperform, the Contracting Officer may, by contract or otherwise, correct or replace with similar services and charge to the Contractor the cost occasioned to the Government thereby, or make an equitable adjustment in the contract price.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3656e83" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            If the Government does not require correction or reperformance, the Contracting Officer shall make an equitable adjustment in the contract price.</p>
-				        </li>
-			      </ol>
-			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 66 FR 2136, Jan. 10, 2001]</msgblock>
-      </conbody>
-	  </concept>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
+	<concept id="i1047282" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+		<title class="- topic/title ">
+			<ph props="autonumber" class="- topic/ph ">52.246-20</ph> Warranty of Services.</title>
+		<conbody outputclass="clause" class="- topic/body concept/conbody ">
+			<p id="d3656e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					<xref href="FAR-i1071932.dita#i1071932" base="i1071932" outputclass="fm:ParaNumOnly" class="- topic/xref ">46.710</xref>(d)</ph>, insert a clause substantially as follows:</p>
+			<p outputclass="Ctr_SmCaps" class="- topic/p ">Warranty of Services (May 2001)</p>
+			<ol id="d3628e25" class="- topic/ol ">
+				<li class="- topic/li ">
+					<p id="d3656e29" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(a)</ph>
+						<i class="+ topic/ph hi-d/i ">Definition.</i>“Acceptance,” as used in this clause, means the act of an authorized representative of the Government by which the Government assumes for itself, or as an agent of another, ownership of existing and identified supplies, or approves specific services, as partial or complete performance of the contract.</p>
+				</li>
+				<li class="- topic/li ">
+					<p id="d3656e41" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(b)</ph> Notwithstanding inspection and acceptance by the Government or any provision concerning the conclusiveness thereof, the Contractor warrants that all services performed under this contract will, at the time of acceptance, be free from defects in workmanship and conform to the requirements of this contract. The Contracting Officer shall give written notice of any defect or nonconformance to the Contractor ____________ [<i class="+ topic/ph hi-d/i ">Contracting Officer shall insert the specific period of time in which notice shall be given to the Contractor; e.g.,“within 30 days from the date of acceptance by the Government,”; within 1000 hours of use by the Government;” or other specified event whose occurrence will terminate the period of notice, or combination of any applicable events or period of time</i>]. This notice shall state either-</p>
+					<ol id="d3628e50" class="- topic/ol ">
+						<li class="- topic/li ">
+							<p id="d3656e54" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(1)</ph> That the Contractor shall correct or reperform any defective or nonconforming services; or</p>
+						</li>
+						<li class="- topic/li ">
+							<p id="d3656e63" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(2)</ph> That the Government does not require correction or reperformance.</p>
+						</li>
+					</ol>
+				</li>
+				<li class="- topic/li ">
+					<p id="d3656e74" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(c)</ph>If the Contractor is required to correct or reperform, it shall be at no cost to the Government, and any services corrected or reperformed by the Contractor shall be subject to this clause to the same extent as work initially performed. If the Contractor fails or refuses to correct or reperform, the Contracting Officer may, by contract or otherwise, correct or replace with similar services and charge to the Contractor the cost occasioned to the Government thereby, or make an equitable adjustment in the contract price.</p>
+				</li>
+				<li class="- topic/li ">
+					<p id="d3656e83" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(d)</ph>If the Government does not require correction or reperformance, the Contracting Officer shall make an equitable adjustment in the contract price.</p>
+				</li>
+			</ol>
+			<p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 66 FR 2136, Jan. 10, 2001]</msgblock>
+		</conbody>
+	</concept>
 </dita>
