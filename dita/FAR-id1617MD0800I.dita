@@ -1,76 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="id1617MD0800I"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">25.302-2</ph> Definitions.</title>
-		    <conbody class="- topic/body concept/conbody ">
-			      <p class="- topic/p ">As used in this section-</p>
-			      <p class="- topic/p ">“Area of combat operations” means an area of operations designated as such by the Secretary of Defense when enhanced coordination of contractors performing private security functions working for Government agencies is required.</p>
-			      <p class="- topic/p ">“Other significant military operations” means activities, other than combat operations, as part of a contingency operation outside the United States that is carried out by United States Armed Forces in an uncontrolled or unpredictable high-threat environment where personnel performing security functions may be called upon to use deadly force (see <xref href="FAR-id1617MD080ZA.dita#id1617MD080ZA"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">25.302-3</xref>(a)(2)).</p>
-			      <p class="- topic/p ">“Private security functions means” activities engaged in by a contractor, as follows-</p>
-			      <ol id="d1615e28" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <ol id="d1615e32" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d1636e36" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                Guarding of personnel, facilities, designated sites, or property of a Federal agency, the contractor or subcontractor, or a third party; or</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1636e45" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                Any other activity for which personnel are required to carry weapons in the performance of their duties in accordance with the terms of the contract.</p>
-						            </li>
-					          </ol>
-				        </li>
-			      </ol>
-		       <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[78 FR 37672, June 21, 2013, as amended at 81 FR 67777, Sept. 30, 2016]</msgblock>
-      </conbody>
-	  </concept>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
+	<concept id="id1617MD0800I" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+		<title class="- topic/title ">
+			<ph props="autonumber" class="- topic/ph ">25.302-2</ph> Definitions.</title>
+		<conbody class="- topic/body concept/conbody ">
+			<p class="- topic/p ">As used in this section-</p>
+			<p class="- topic/p ">“Area of combat operations” means an area of operations designated as such by the Secretary of Defense when enhanced coordination of contractors performing private security functions working for Government agencies is required.</p>
+			<p class="- topic/p ">“Other significant military operations” means activities, other than combat operations, as part of a contingency operation outside the United States that is carried out by United States Armed Forces in an uncontrolled or unpredictable high-threat environment where personnel performing security functions may be called upon to use deadly force (see <xref href="FAR-id1617MD080ZA.dita#id1617MD080ZA" outputclass="fm:ParaNumOnly" class="- topic/xref ">25.302-3</xref>(a)(2)).</p>
+			<p class="- topic/p ">“Private security functions means” activities engaged in by a contractor, as follows-</p>
+			<ol id="d1615e28" class="- topic/ol ">
+				<li class="- topic/li ">
+					<ol id="d1615e32" class="- topic/ol ">
+						<li class="- topic/li ">
+							<p id="d1636e36" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(1)</ph> Guarding of personnel, facilities, designated sites, or property of a Federal agency, the contractor or subcontractor, or a third party; or</p>
+						</li>
+						<li class="- topic/li ">
+							<p id="d1636e45" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(2)</ph> Any other activity for which personnel are required to carry weapons in the performance of their duties in accordance with the terms of the contract.</p>
+						</li>
+					</ol>
+				</li>
+			</ol>
+			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[78 FR 37672, June 21, 2013, as amended at 81 FR 67777, Sept. 30, 2016]</msgblock>
+		</conbody>
+	</concept>
 </dita>
