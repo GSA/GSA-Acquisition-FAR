@@ -1,53 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="id1617MD010IA" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">19.707</ph> The Small Business Administration’s role in carrying out the program.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1192e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1213e17" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph> Under the program, the SBA may-</p>
-					<ol id="d1192e23" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1213e27" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph> Assist both Government agencies and contractors in carrying out their responsibilities with regard to subcontracting plans;</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1213e36" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph> Review (within 5 working days) any solicitation that meets the dollar threshold in <xref href="FAR-i1100224.dita#i1100224" base="i1100224" outputclass="fm:ParaNumOnly" class="- topic/xref ">19.702</xref>(a)(1) or (2) before the solicitation is issued;</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1213e48" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph> Review (within 5 working days) before execution any negotiated contractual document requiring a subcontracting plan, including the plan itself, and submit recommendations to the contracting officer, which shall be advisory in nature; and</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1213e57" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph> Evaluate compliance with subcontracting plans, either on a contract-by-contract basis, or, in the case of contractors having multiple contracts, on an aggregate basis.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1213e68" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph> The SBA is not authorized to-</p>
-					<ol id="d1192e74" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1213e78" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph> Prescribe the extent to which any contractor or subcontractor shall subcontract,</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1213e87" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph> Specify concerns to which subcontracts will be awarded, or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1213e96" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph> Exercise any authority regarding the administration of individual prime contracts or subcontracts.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42240, Sept. 19, 1983, as amended at 51 FR 2664, Jan. 17, 1986]</msgblock>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="id1617MD010IA"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">19.707</ph> The Small Business Administration’s role in carrying out the program.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <ol id="d1192e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d1213e17" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph> Under the program, the SBA may-</p>
+					          <ol id="d1192e23" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d1213e27" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph> Assist both Government agencies and contractors in carrying out their responsibilities with regard to subcontracting plans;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d1213e36" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph> Review (within 5 working days) any solicitation that meets the dollar threshold in <xref href="FAR-i1100224.dita#i1100224"
+                              base="i1100224"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">19.702</xref>(a)(1) or (2) before the solicitation is issued;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d1213e48" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph> Review (within 5 working days) before execution any negotiated contractual document requiring a subcontracting plan, including the plan itself, and submit recommendations to the contracting officer, which shall be advisory in nature; and</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d1213e57" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph> Evaluate compliance with subcontracting plans, either on a contract-by-contract basis, or, in the case of contractors having multiple contracts, on an aggregate basis.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1213e68" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph> The SBA is not authorized to-</p>
+					          <ol id="d1192e74" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d1213e78" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph> Prescribe the extent to which any contractor or subcontractor shall subcontract,</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d1213e87" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph> Specify concerns to which subcontracts will be awarded, or</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d1213e96" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph> Exercise any authority regarding the administration of individual prime contracts or subcontracts.</p>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42240, Sept. 19, 1983, as amended at 51 FR 2664, Jan. 17, 1986]</msgblock>
+		    </conbody>
+	  </concept>
 </dita>

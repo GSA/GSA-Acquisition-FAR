@@ -1,53 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="i1059991" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">52.214-14</ph> Place of Performance-Sealed Bidding.</title>
-		<conbody outputclass="provision" class="- topic/body concept/conbody ">
-			<p id="d3175e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
-					<xref href="FAR-i1110459.dita#i1110459" base="i1110459" outputclass="fm:ParaNumOnly" class="- topic/xref ">14.201-6</xref>(h)</ph>, insert the following provision:</p>
-			<p outputclass="Ctr_SmCaps" class="- topic/p ">Place of Performance-Sealed Bidding (Apr 1985)</p>
-			<ol id="d3147e25" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d3175e29" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph> The bidder, in the performance of any contract resulting from this solicitation, <term outputclass="ZapfDingbats" class="- topic/term "></term>intends, <term outputclass="ZapfDingbats" class="- topic/term "></term>does not intend [<i class="+ topic/ph hi-d/i ">check applicable box</i>] to use one or more plants or facilities located at a different address from the address of the bidder as indicated in this bid.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d3175e47" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>If the bidder checks “intends” in paragraph (a) of this provision, it shall insert in the spaces provided below the required information:</p>
-				</li>
-			</ol>
-			<table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-				<tgroup cols="2" colsep="0" rowsep="0" outputclass="Notitle_norule" class="- topic/tgroup ">
-					<colspec colnum="1" colname="1" colwidth="46*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="2" colname="2" colwidth="54*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-					<tbody class="- topic/tbody ">
-						<row rowsep="0" class="- topic/row ">
-							<entry colname="1" align="center" outputclass="CellBody_9pt_CtrSmallCaps" xtrc="9pt_SmallCaps" class="- topic/entry ">Place of Performance (Street Address, City, State, County, ZIP Code)</entry>
-							<entry colname="2" align="center" outputclass="CellBody_9pt_CtrSmallCaps" xtrc="9pt_SmallCaps" class="- topic/entry ">Name and Address of Owner and Operator of the Plant or Facility if Other than Bidder</entry>
-						</row>
-						<row rowsep="0" class="- topic/row ">
-							<entry colname="1" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">____________________</p>
-							</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">_______________________</p>
-							</entry>
-						</row>
-						<row rowsep="0" class="- topic/row ">
-							<entry colname="1" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">____________________</p>
-							</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">_______________________</p>
-							</entry>
-						</row>
-					</tbody>
-				</tgroup>
-			</table>
-			<p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
-			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 50 FR 1746, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985]</msgblock>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="i1059991"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">52.214-14</ph> Place of Performance-Sealed Bidding.</title>
+		    <conbody outputclass="provision" class="- topic/body concept/conbody ">
+			      <p id="d3176e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					          <xref href="FAR-i1110459.dita#i1110459"
+                     base="i1110459"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">14.201-6</xref>(h)</ph>, insert the following provision:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Place of Performance-Sealed Bidding (Apr 1985)</p>
+			      <ol id="d3147e25" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d3176e29" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph> The bidder, in the performance of any contract resulting from this solicitation, <term outputclass="ZapfDingbats" class="- topic/term "></term>intends, <term outputclass="ZapfDingbats" class="- topic/term "></term>does not intend [<i class="+ topic/ph hi-d/i ">check applicable box</i>] to use one or more plants or facilities located at a different address from the address of the bidder as indicated in this bid.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d3176e47" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>If the bidder checks “intends” in paragraph (a) of this provision, it shall insert in the spaces provided below the required information:</p>
+				        </li>
+			      </ol>
+			      <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+				        <tgroup cols="2"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Notitle_norule"
+                    class="- topic/tgroup ">
+					          <colspec colnum="1"
+                        colname="1"
+                        colwidth="46*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+					          <colspec colnum="2"
+                        colname="2"
+                        colwidth="54*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+					          <tbody class="- topic/tbody ">
+						            <row rowsep="0" class="- topic/row ">
+							              <entry colname="1"
+                            align="center"
+                            outputclass="CellBody_9pt_CtrSmallCaps"
+                            xtrc="9pt_SmallCaps"
+                            class="- topic/entry ">Place of Performance (Street Address, City, State, County, ZIP Code)</entry>
+							              <entry colname="2"
+                            align="center"
+                            outputclass="CellBody_9pt_CtrSmallCaps"
+                            xtrc="9pt_SmallCaps"
+                            class="- topic/entry ">Name and Address of Owner and Operator of the Plant or Facility if Other than Bidder</entry>
+						            </row>
+						            <row rowsep="0" class="- topic/row ">
+							              <entry colname="1" class="- topic/entry ">
+								                <p outputclass="Ctr" class="- topic/p ">____________________</p>
+							              </entry>
+							              <entry colname="2" class="- topic/entry ">
+								                <p outputclass="Ctr" class="- topic/p ">_______________________</p>
+							              </entry>
+						            </row>
+						            <row rowsep="0" class="- topic/row ">
+							              <entry colname="1" class="- topic/entry ">
+								                <p outputclass="Ctr" class="- topic/p ">____________________</p>
+							              </entry>
+							              <entry colname="2" class="- topic/entry ">
+								                <p outputclass="Ctr" class="- topic/p ">_______________________</p>
+							              </entry>
+						            </row>
+					          </tbody>
+				        </tgroup>
+			      </table>
+			      <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
+			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 50 FR 1746, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985]</msgblock>
+		    </conbody>
+	  </concept>
 </dita>

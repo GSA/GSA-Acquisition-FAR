@@ -1,78 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="i1123058" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">4.403</ph> Responsibilities of contracting officers.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d210e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d212e17" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
-						<i class="+ topic/ph hi-d/i ">Presolicitation phase</i>. Contracting officers shall review all proposed solicitations to determine whether access to classified information may be required by offerors, or by a contractor during contract performance.</p>
-					<ol id="d210e26" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d212e30" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>If access to classified information of another agency may be required, the contracting officer shall-</p>
-							<ol id="d210e36" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d212e40" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph> Determine if the agency is covered by the NISP; and</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d212e49" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph> Follow that agency’s procedures for determining the security clearances of firms to be solicited.</p>
-								</li>
-							</ol>
-						</li>
-						<li class="- topic/li ">
-							<p id="d212e60" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>If the classified information required is from the contracting officer’s agency, the contracting officer shall follow agency procedures.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d212e71" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
-						<i class="+ topic/ph hi-d/i ">Solicitation phase</i>. Contracting officers shall-</p>
-					<ol id="d210e80" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d212e84" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph> Ensure that the classified acquisition is conducted as required by the NISP or agency procedures, as appropriate; and</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d212e93" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph> Include-</p>
-							<ol id="d210e99" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d212e103" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>An appropriate Security Requirements clause in the solicitation (see <xref href="FAR-i1123082.dita#i1123082" base="i1123082" outputclass="fm:ParaNumOnly" class="- topic/xref ">4.404</xref>); and</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d212e115" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>As appropriate, in solicitations and contracts when the contract may require access to classified information, a requirement for security safeguards in addition to those provided in the clause (<xref href="FAR-i1063713.dita#i1063713" base="i1063713" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.204-2</xref>, Security Requirements).</p>
-								</li>
-							</ol>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d212e131" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
-						<i class="+ topic/ph hi-d/i ">Award phase</i>. Contracting officers shall inform contractors and subcontractors of the security classifications and requirements assigned to the various documents, materials, tasks, subcontracts, and components of the classified contract as follows:</p>
-					<ol id="d210e140" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d212e144" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph> Agencies covered by the NISP shall use the Contract Security Classification Specification, <xref href="DDForm254" format="html" scope="external" class="- topic/xref ">DD Form 254</xref>. The contracting officer, or authorized representative, is the approving official for the form and shall ensure that it is prepared and distributed in accordance with the Industrial Security Regulation.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d212e156" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph> Contracting officers in agencies not covered by the NISP shall follow agency procedures.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42113, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996; 73 FR 21781, Apr. 22, 2008; 84 FR 19840, May 6, 2019]</msgblock>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="i1123058"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">4.403</ph> Responsibilities of contracting officers.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <ol id="d210e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d212e17" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            <i class="+ topic/ph hi-d/i ">Presolicitation phase</i>. Contracting officers shall review all proposed solicitations to determine whether access to classified information may be required by offerors, or by a contractor during contract performance.</p>
+					          <ol id="d210e26" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d212e30" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>If access to classified information of another agency may be required, the contracting officer shall-</p>
+							              <ol id="d210e36" class="- topic/ol ">
+								                <li class="- topic/li ">
+									                  <p id="d212e40" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph> Determine if the agency is covered by the NISP; and</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="d212e49" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph> Follow that agency’s procedures for determining the security clearances of firms to be solicited.</p>
+								                </li>
+							              </ol>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d212e60" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>If the classified information required is from the contracting officer’s agency, the contracting officer shall follow agency procedures.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d212e71" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            <i class="+ topic/ph hi-d/i ">Solicitation phase</i>. Contracting officers shall-</p>
+					          <ol id="d210e80" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d212e84" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph> Ensure that the classified acquisition is conducted as required by the NISP or agency procedures, as appropriate; and</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d212e93" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph> Include-</p>
+							              <ol id="d210e99" class="- topic/ol ">
+								                <li class="- topic/li ">
+									                  <p id="d212e103" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>An appropriate Security Requirements clause in the solicitation (see <xref href="FAR-i1123082.dita#i1123082"
+                                    base="i1123082"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">4.404</xref>); and</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="d212e115" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>As appropriate, in solicitations and contracts when the contract may require access to classified information, a requirement for security safeguards in addition to those provided in the clause (<xref href="FAR-i1063713.dita#i1063713"
+                                    base="i1063713"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">52.204-2</xref>, Security Requirements).</p>
+								                </li>
+							              </ol>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d212e131" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            <i class="+ topic/ph hi-d/i ">Award phase</i>. Contracting officers shall inform contractors and subcontractors of the security classifications and requirements assigned to the various documents, materials, tasks, subcontracts, and components of the classified contract as follows:</p>
+					          <ol id="d210e140" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d212e144" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph> Agencies covered by the NISP shall use the Contract Security Classification Specification, <xref href="DDForm254"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">DD Form 254</xref>. The contracting officer, or authorized representative, is the approving official for the form and shall ensure that it is prepared and distributed in accordance with the Industrial Security Regulation.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d212e156" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph> Contracting officers in agencies not covered by the NISP shall follow agency procedures.</p>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42113, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996; 73 FR 21781, Apr. 22, 2008; 84 FR 19840, May 6, 2019]</msgblock>
+		    </conbody>
+	  </concept>
 </dita>
