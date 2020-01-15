@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="id1617MD00K28" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">4.1801</ph> Definitions.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p class="- topic/p ">As used in this part–</p>
-			<p class="- topic/p ">“Commercial and Government Entity (CAGE) code” means—</p>
-			<ol id="d305e19" class="- topic/ol ">
-				<li class="- topic/li ">
-					<ol id="d305e23" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d307e27" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>An identifier assigned to entities located in the United States or its outlying areas by the Defense Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch to identify a commercial or government entity; or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d307e36" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>An identifier assigned by a member of the North Atlantic Treaty Organization (NATO) or by the NATO Support and Procurement Agency (NSPA) to entities located outside the United States and its outlying areas that the DLA Commercial and Government Entity (CAGE) Branch records and maintains in the CAGE master file. This type of code is known as a NATO CAGE (NCAGE) code.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-			<p id="d307e42" class="- topic/p ">“Highest-level owner” means the entity that owns or controls an immediate owner of the offeror, or that owns or controls one or more entities that control an immediate owner of the offeror. No entity owns or exercises control of the highest level owner.</p>
-			<p id="d307e49" class="- topic/p ">“Immediate owner” means an entity, other than the offeror, that has direct control of the offeror. Indicators of control include, but are not limited to, one or more of <ph class="- topic/ph ">the following: ownership</ph> or interlocking management, identity of interests among family members, shared facilities and equipment, and the common use of employees.</p>
-			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[79 FR 31190, May 30, 2014, as amended at 81 FR 45866, July 14, 2016; 84 FR 19841, May 6, 2019]</msgblock>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="id1617MD00K28"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">4.1801</ph> Definitions.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p class="- topic/p ">As used in this part–</p>
+			      <p class="- topic/p ">“Commercial and Government Entity (CAGE) code” means—</p>
+			      <ol id="d305e19" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <ol id="d305e23" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d307e27" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>An identifier assigned to entities located in the United States or its outlying areas by the Defense Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch to identify a commercial or government entity; or</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d307e36" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>An identifier assigned by a member of the North Atlantic Treaty Organization (NATO) or by the NATO Support and Procurement Agency (NSPA) to entities located outside the United States and its outlying areas that the DLA Commercial and Government Entity (CAGE) Branch records and maintains in the CAGE master file. This type of code is known as a NATO CAGE (NCAGE) code.</p>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+			      <p id="d307e42" class="- topic/p ">“Highest-level owner” means the entity that owns or controls an immediate owner of the offeror, or that owns or controls one or more entities that control an immediate owner of the offeror. No entity owns or exercises control of the highest level owner.</p>
+			      <p id="d307e49" class="- topic/p ">“Immediate owner” means an entity, other than the offeror, that has direct control of the offeror. Indicators of control include, but are not limited to, one or more of <ph class="- topic/ph ">the following: ownership</ph> or interlocking management, identity of interests among family members, shared facilities and equipment, and the common use of employees.</p>
+			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[79 FR 31190, May 30, 2014, as amended at 81 FR 45866, July 14, 2016; 84 FR 19841, May 6, 2019]</msgblock>
+		    </conbody>
+	  </concept>
 </dita>

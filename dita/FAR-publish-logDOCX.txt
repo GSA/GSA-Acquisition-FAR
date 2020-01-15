@@ -1,6 +1,8 @@
 Unable to locate tools.jar. Expected to find it in C:\Program Files\Java\jre1.8.0_231\lib\tools.jar
 [move-meta] file:/C:/Users/FrancisCPoe/Documents/Regulations/GSA-Acquisition-FAR/dita/FAR.ditamap:2073:51: [DOTX019W][WARN]: The type attribute on a topicref was set to 'concept', but the topicref references a 'topic' topic. This may cause your links to sort incorrectly in the output. Note that the type attribute cascades in maps, so the value 'concept' may come from an ancestor topicref. 
 [topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-Tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\i1064748.dita (The system cannot find the file specified)
-[topicpull] file:/C:/Users/FrancisCPoe/Documents/Regulations/GSA-Acquisition-FAR/dita/FAR-i42_1503.dita:653:50: [DOTX031E][ERROR]: The file i1064748.dita#i52_219-9 is not available to resolve link information. 
+[topicpull] file:/C:/Users/FrancisCPoe/Documents/Regulations/GSA-Acquisition-FAR/dita/FAR-i42_1503.dita:514:50: [DOTX031E][ERROR]: The file i1064748.dita#i52_219-9 is not available to resolve link information. 
 [topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-Tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\i1064748.dita (The system cannot find the file specified)
-[topicpull] file:/C:/Users/FrancisCPoe/Documents/Regulations/GSA-Acquisition-FAR/dita/FAR-i42_1503.dita:653:50: [DOTX031E][ERROR]: The file i1064748.dita#i52_219-9 is not available to resolve link information. 
+[topicpull] file:/C:/Users/FrancisCPoe/Documents/Regulations/GSA-Acquisition-FAR/dita/FAR-i42_1503.dita:514:50: [DOTX031E][ERROR]: The file i1064748.dita#i52_219-9 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-Tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\i1064748.dita (The system cannot find the file specified)
+[topicpull] file:/C:/Users/FrancisCPoe/Documents/Regulations/GSA-Acquisition-FAR/dita/FAR-i42_1503.dita:514:50: [DOTX031E][ERROR]: The file i1064748.dita#i52_219-9 is not available to resolve link information. 

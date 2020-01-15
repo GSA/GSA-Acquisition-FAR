@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="i1048785" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">52.236-1</ph> Performance of Work by the Contractor.</title>
-		<conbody outputclass="clause" class="- topic/body concept/conbody ">
-			<p id="d3536e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
-					<xref href="FAR-i1078621.dita#i1078621" base="i1078621" outputclass="fm:ParaNumOnly" class="- topic/xref ">36.501</xref>(b)</ph>, insert the following clause: [<i class="+ topic/ph hi-d/i ">Complete the clause by inserting the appropriate percentage consistent with the complexity and magnitude of the work and customary or necessary specialty subcontracting (see <ph class="- topic/ph ">
-						<xref href="FAR-i1078621.dita#i1078621" base="i1078621" outputclass="fm:ParaNumOnly" class="- topic/xref ">36.501</xref>
-					</ph>(a)).</i>]</p>
-			<p outputclass="Ctr_SmCaps" class="- topic/p ">Performance of Work by the Contractor (Apr 1984)</p>
-			<p class="- topic/p ">The Contractor shall perform on the site, and with its own organization, work equivalent to at least _______ [<i class="+ topic/ph hi-d/i ">insert the appropriate number in words followed by numerals in parentheses</i>] percent of the total amount of work to be performed under the contract. This percentage may be reduced by a supplemental agreement to this contract if, during performing the work, the Contractor requests a reduction and the Contracting Officer determines that the reduction would be to the advantage of the Government.</p>
-			<p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 71 FR 57369, Sept. 28, 2006]</msgblock>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="i1048785"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">52.236-1</ph> Performance of Work by the Contractor.</title>
+		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
+			      <p id="d3537e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					          <xref href="FAR-i1078621.dita#i1078621"
+                     base="i1078621"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">36.501</xref>(b)</ph>, insert the following clause: [<i class="+ topic/ph hi-d/i ">Complete the clause by inserting the appropriate percentage consistent with the complexity and magnitude of the work and customary or necessary specialty subcontracting (see <ph class="- topic/ph ">
+						            <xref href="FAR-i1078621.dita#i1078621"
+                        base="i1078621"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">36.501</xref>
+					          </ph>(a)).</i>]</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Performance of Work by the Contractor (Apr 1984)</p>
+			      <p class="- topic/p ">The Contractor shall perform on the site, and with its own organization, work equivalent to at least _______ [<i class="+ topic/ph hi-d/i ">insert the appropriate number in words followed by numerals in parentheses</i>] percent of the total amount of work to be performed under the contract. This percentage may be reduced by a supplemental agreement to this contract if, during performing the work, the Contractor requests a reduction and the Contracting Officer determines that the reduction would be to the advantage of the Government.</p>
+			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 71 FR 57369, Sept. 28, 2006]</msgblock>
+		    </conbody>
+	  </concept>
 </dita>

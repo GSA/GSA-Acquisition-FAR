@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="i1001014" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">53.212</ph> Acquisition of commercial items.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p class="- topic/p ">
-				<i class="+ topic/ph hi-d/i ">
-					<xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items" format="html" scope="external" class="- topic/xref "> SF 1449</xref> (Rev.2/2012), Solicitation/Contract/Order for Commercial Items</i>. <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items" format="html" scope="external" class="- topic/xref ">SF 1449</xref> is prescribed for use in solicitations and contracts for commercial items. Agencies may prescribe additional detailed instructions for use of the form.</p>
-			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[60 FR 48256, Sept. 18, 1995, as amended at 67 FR 13050, Mar. 20, 2002; 70 FR 14955, Mar. 23, 2005; 75 FR 82568, Dec. 30, 2010, as amended at 77 FR 12918, Mar. 2, 2012]</msgblock>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="i1001014"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">53.212</ph> Acquisition of commercial items.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <p class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">
+					          <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref "> SF 1449</xref> (Rev.2/2012), Solicitation/Contract/Order for Commercial Items</i>. <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">SF 1449</xref> is prescribed for use in solicitations and contracts for commercial items. Agencies may prescribe additional detailed instructions for use of the form.</p>
+			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[60 FR 48256, Sept. 18, 1995, as amended at 67 FR 13050, Mar. 20, 2002; 70 FR 14955, Mar. 23, 2005; 75 FR 82568, Dec. 30, 2010, as amended at 77 FR 12918, Mar. 2, 2012]</msgblock>
+		    </conbody>
+	  </concept>
 </dita>

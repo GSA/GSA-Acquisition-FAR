@@ -1,53 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="i1099478" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">19.1406</ph> Sole source awards to service-disabled veteran-owned small business concerns.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1245e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1266e17" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>A contracting officer shall consider a contract award to a SDVOSB concern on a sole source basis (see <xref href="FAR-i6_302-5.dita#i6_302-5" base="i1119624" outputclass="fm:ParaNumOnly" class="- topic/xref ">6.302-5</xref>(b)(6)), before considering small business set-asides (see <xref href="FAR-i1101696.dita#i1101696" base="i1101696" outputclass="fm:ParaNumOnly" class="- topic/xref ">19.203</xref> and subpart <xref href="FAR-i1100723.dita#i1100723" base="i1100723" outputclass="fm:ParaNumOnly" class="- topic/xref ">19.5</xref>) provided none of the exclusions of <xref href="FAR-i1099419.dita#i1099419" base="i1099419" outputclass="fm:ParaNumOnly" class="- topic/xref ">19.1404</xref> apply and-</p>
-					<ol id="d1245e35" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1266e39" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph> The contracting officer does not have a reasonable expectation that offers would be received from two or more service-disabled veteran-owned small business concerns;</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1266e48" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph> The anticipated award price of the contract, including options, will not exceed-</p>
-							<ol id="d1245e54" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d1266e58" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>$6.5 million for a requirement within the NAICS codes for manufacturing; or</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1266e67" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>$4 million for a requirement within any other NAICS code;</p>
-								</li>
-							</ol>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1266e78" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph> The requirement is not currently being performed by an 8(a) participant under the provisions of <xref href="FAR-i1099848.dita#i1099848" base="i1099848" outputclass="fm:Subpart" class="- topic/xref ">subpart  19.8</xref> or has been accepted as a requirement by SBA under <xref href="FAR-i1099848.dita#i1099848" base="i1099848" outputclass="fm:Subpart" class="- topic/xref ">subpart  19.8</xref>;</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1266e93" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph> The service-disabled veteran-owned small business concern has been determined to be a responsible contractor with respect to performance; and</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1266e102" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(5)</ph> Award can be made at a fair and reasonable price.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1266e113" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph> The SBA has the right to appeal the contracting officer’s decision not to make a service-disabled veteran-owned small business sole source award.</p>
-				</li>
-			</ol>
-			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[69 FR 25278, May 5, 2004, as amended at 71 FR 57367, Sept. 28, 2006; 75 FR 38688, July 2, 2010; 75 FR 53133, Aug. 30, 2010; 76 FR 14568, Mar. 16, 2011; 77 FR 12933, Mar. 2, 2012; 80 FR 38298, July 2, 2015] </msgblock>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="i1099478"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">19.1406</ph> Sole source awards to service-disabled veteran-owned small business concerns.</title>
+		    <conbody class="- topic/body concept/conbody ">
+			      <ol id="d1245e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d1266e17" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>A contracting officer shall consider a contract award to a SDVOSB concern on a sole source basis (see <xref href="FAR-i6_302-5.dita#i6_302-5"
+                        base="i1119624"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">6.302-5</xref>(b)(6)), before considering small business set-asides (see <xref href="FAR-i1101696.dita#i1101696"
+                        base="i1101696"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">19.203</xref> and subpart <xref href="FAR-i1100723.dita#i1100723"
+                        base="i1100723"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">19.5</xref>) provided none of the exclusions of <xref href="FAR-i1099419.dita#i1099419"
+                        base="i1099419"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">19.1404</xref> apply and-</p>
+					          <ol id="d1245e35" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d1266e39" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph> The contracting officer does not have a reasonable expectation that offers would be received from two or more service-disabled veteran-owned small business concerns;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d1266e48" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph> The anticipated award price of the contract, including options, will not exceed-</p>
+							              <ol id="d1245e54" class="- topic/ol ">
+								                <li class="- topic/li ">
+									                  <p id="d1266e58" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>$6.5 million for a requirement within the NAICS codes for manufacturing; or</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="d1266e67" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>$4 million for a requirement within any other NAICS code;</p>
+								                </li>
+							              </ol>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d1266e78" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph> The requirement is not currently being performed by an 8(a) participant under the provisions of <xref href="FAR-i1099848.dita#i1099848"
+                              base="i1099848"
+                              outputclass="fm:Subpart"
+                              class="- topic/xref ">subpart  19.8</xref> or has been accepted as a requirement by SBA under <xref href="FAR-i1099848.dita#i1099848"
+                              base="i1099848"
+                              outputclass="fm:Subpart"
+                              class="- topic/xref ">subpart  19.8</xref>;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d1266e93" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph> The service-disabled veteran-owned small business concern has been determined to be a responsible contractor with respect to performance; and</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d1266e102" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(5)</ph> Award can be made at a fair and reasonable price.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d1266e113" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph> The SBA has the right to appeal the contracting officer’s decision not to make a service-disabled veteran-owned small business sole source award.</p>
+				        </li>
+			      </ol>
+			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[69 FR 25278, May 5, 2004, as amended at 71 FR 57367, Sept. 28, 2006; 75 FR 38688, July 2, 2010; 75 FR 53133, Aug. 30, 2010; 76 FR 14568, Mar. 16, 2011; 77 FR 12933, Mar. 2, 2012; 80 FR 38298, July 2, 2015] </msgblock>
+		    </conbody>
+	  </concept>
 </dita>

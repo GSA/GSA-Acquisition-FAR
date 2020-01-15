@@ -1,150 +1,511 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-	<concept id="i1092636" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">25.402</ph> General.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<ol id="d1623e13" class="- topic/ol ">
-				<li props="Runin" class="- topic/li ">
-					<p id="d1644e17" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
-					</p>
-					<ol id="d1623e23" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1644e27" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph> The Trade Agreements Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">19 U.S.C.2501</xref>, <i class="+ topic/ph hi-d/i ">et seq</i>.) provides the authority for the President to waive the Buy American statute and other discriminatory provisions for eligible products from countries that have signed an international trade agreement with the United States, or that meet certain other criteria, such as being a least developed country. The President has delegated this waiver authority to the U.S. Trade Representative. In acquisitions covered by the WTO GPA, Free Trade Agreements, or the Israeli Trade Act, the U.S. Trade Representative has waived the Buy American statute and other discriminatory provisions for eligible products. Offers of eligible products receive equal consideration with domestic offers.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1644e42" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph> The contracting officer shall determine the origin of services by the country in which the firm providing the services is established. See <xref href="FAR-i1091551.dita#i1091551" base="i1091551" outputclass="fm:Subpart" class="- topic/xref ">subpart  25.5</xref> for evaluation procedures for supply contracts covered by trade agreements.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1644e56" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph> The value of the acquisition is a determining factor in the applicability of trade agreements. Most of these dollar thresholds are subject to revision by the U.S. Trade Representative approximately every 2 years. The various thresholds are summarized as follows:</p>
-				</li>
-			</ol>
-			<table frame="all" colsep="1" rowsep="1" class="- topic/table ">
-				<tgroup cols="4" colsep="1" rowsep="1" outputclass="Notitle_rule" class="- topic/tgroup ">
-					<colspec colnum="1" colname="1" colwidth="33*" class="- topic/colspec "/>
-					<colspec colnum="2" colname="2" colwidth="22*" class="- topic/colspec "/>
-					<colspec colnum="3" colname="3" colwidth="22*" class="- topic/colspec "/>
-					<colspec colnum="4" colname="4" colwidth="23*" class="- topic/colspec "/>
-					<tbody class="- topic/tbody ">
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt" class="- topic/entry ">Trade Agreement</entry>
-							<entry colname="2" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt" class="- topic/entry ">Supply Contract (equal to or exceeding)</entry>
-							<entry colname="3" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt" class="- topic/entry ">Service Contract (equal to or exceeding)</entry>
-							<entry colname="4" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt" class="- topic/entry ">Construction Contract (equal to or exceeding)</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" align="left" outputclass="CellBody_Left" class="- topic/entry ">WTO GPA</entry>
-							<entry colname="2" align="right" outputclass="CellBody_Right" class="- topic/entry ">$180,000</entry>
-							<entry colname="3" align="right" outputclass="CellBody_Right" class="- topic/entry ">$180,000</entry>
-							<entry colname="4" align="right" outputclass="CellBody_Right" class="- topic/entry ">$6,932,000</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" align="left" outputclass="CellBody_Left" class="- topic/entry ">FTAs</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry "/>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry "/>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry "/>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">Australia FTA</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">6,932,000</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">Bahrain FTA</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">180,000</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">180,000</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">10,441,216</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">CAFTA-DR (Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, and Nicaragua)</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">6,932,000</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">Chile FTA</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">6,932,000</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">Colombia FTA</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">6,932,000</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">Korea FTA</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">100,000</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">100,000</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">6,932,000</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">Morocco FTA</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">180,000</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">180,000</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">6,932,000</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">NAFTA</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry "/>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry "/>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry "/>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">-Canada</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">25,000</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">10,441,216</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">-Mexico</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">10,441,216</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">Oman FTA</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">180,000</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">180,000</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">10,441,216</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">Panama FTA</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">180,000</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">180,000</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">6,932,000</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">Peru FTA</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">180,000</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">180,000</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">6,932,000</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" outputclass="CellBody_Ind1" xtrc="nd1" class="- topic/entry ">Singapore FTA</entry>
-							<entry colname="2" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="3" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">80,317</entry>
-							<entry colname="4" rowsep="0" align="right" outputclass="CellBody_Right" class="- topic/entry ">6,932,000</entry>
-						</row>
-						<row rowsep="0" class="- topic/row ">
-							<entry colname="1" align="left" outputclass="CellBody_Left" class="- topic/entry ">Israeli Trade Act</entry>
-							<entry colname="2" align="right" outputclass="CellBody_Right" class="- topic/entry ">50,000</entry>
-							<entry colname="3" align="right" outputclass="CellBody_Right" class="- topic/entry ">-</entry>
-							<entry colname="4" align="right" outputclass="CellBody_Right" class="- topic/entry ">-</entry>
-						</row>
-					</tbody>
-				</tgroup>
-			</table>
-			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[69 FR 77874, Dec. 28, 2004, as amended at 71 FR 219, Jan. 3, 2006; 71 FR 865, Jan. 5, 2006; 71 FR 20307, Apr. 19, 2006; 71 FR 36937, June 28, 2006; 71 FR 67777, Nov. 22, 2006; 72 FR 46358, Aug. 17, 2007; 73 FR 10963, Feb. 28, 2008; 73 FR 16747, Mar. 28, 2008; 74 FR 28428, June 15, 2009; 75 FR 38690, July 2, 2010; 77 FR 27550, May 10, 2012; 77 FR 69724, Nov. 20, 2012; 78 FR 80380, Dec. 31, 2013; 79 FR 24209, Apr. 29, 2014; 80 FR 81895, Dec. 31, 2015; 83 FR 3398, Jan. 24, 2018]</msgblock>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1092636"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">25.402</ph> General.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d1623e13" class="- topic/ol ">
+            <li props="Runin" class="- topic/li ">
+               <p id="d1644e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+               </p>
+               <ol id="d1623e23" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1644e27" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The Trade
+Agreements Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">19 U.S.C.2501</xref>, <i class="+ topic/ph hi-d/i ">et
+seq</i>.) provides the authority for the President to waive the
+Buy American statute and other discriminatory provisions for eligible
+products from countries that have signed an international trade
+agreement with the United States, or that meet certain other criteria,
+such as being a least developed country. The President has delegated
+this waiver authority to the U.S. Trade Representative. In acquisitions
+covered by the WTO GPA, Free Trade Agreements, or the Israeli Trade
+Act, the U.S. Trade Representative has waived the Buy American statute
+and other discriminatory provisions for eligible products. Offers
+of eligible products receive equal consideration with domestic offers.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1644e42" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The contracting
+officer shall determine the origin of services by the country in
+which the firm providing the services is established. See <xref href="FAR-i1091551.dita#i1091551"
+                              base="i1091551"
+                              outputclass="fm:Subpart"
+                              class="- topic/xref ">subpart  25.5</xref> for
+evaluation procedures for supply contracts covered by trade agreements.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1644e56" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The value
+of the acquisition is a determining factor in the applicability
+of trade agreements. Most of these dollar thresholds are subject
+to revision by the U.S. Trade Representative approximately every
+2 years. The various thresholds are summarized as follows:</p>
+            </li>
+         </ol>
+         <table frame="all"
+                colsep="1"
+                rowsep="1"
+                id="id201DEJ0A0FP"
+                class="- topic/table ">
+            <title rev="FAC 2020-04 January 15, 2020" class="- topic/title ">
+               <ph class="- topic/ph ">Table 1</ph> to
+Paragraph (b)</title>
+            <tgroup cols="4"
+                    colsep="1"
+                    rowsep="1"
+                    outputclass="Notitle_rule"
+                    class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="33*" class="- topic/colspec "/>
+               <colspec colnum="2" colname="2" colwidth="22*" class="- topic/colspec "/>
+               <colspec colnum="3" colname="3" colwidth="22*" class="- topic/colspec "/>
+               <colspec colnum="4" colname="4" colwidth="23*" class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            align="center"
+                            outputclass="CellHeading_9pt_Ctr"
+                            xtrc="9pt"
+                            class="- topic/entry ">Trade Agreement</entry>
+                     <entry colname="2"
+                            align="center"
+                            outputclass="CellHeading_9pt_Ctr"
+                            xtrc="9pt"
+                            class="- topic/entry ">Supply Contract
+(equal to or exceeding)</entry>
+                     <entry colname="3"
+                            align="center"
+                            outputclass="CellHeading_9pt_Ctr"
+                            xtrc="9pt"
+                            class="- topic/entry ">Service Contract
+(equal to or exceeding)</entry>
+                     <entry colname="4"
+                            align="center"
+                            outputclass="CellHeading_9pt_Ctr"
+                            xtrc="9pt"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">Construction Contract (equal to
+or exceeding)</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            align="left"
+                            outputclass="CellBody_Left"
+                            class="- topic/entry ">WTO
+GPA</entry>
+                     <entry colname="2"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">$182,000</entry>
+                     <entry colname="3"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">$182,000</entry>
+                     <entry colname="4"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-012?>$7,008,000<?FM MARKER [Why] Amend section 25.402(b) by adding a heading for the table and revising the table.?></ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            align="left"
+                            outputclass="CellBody_Left"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">FTAs</ph>
+                     </entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "/>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "/>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "/>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">Australia FTA</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">7,008,000</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">Bahrain FTA</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">182,000</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">182,000</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">10,802,884</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">CAFTA-DR
+(Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras,
+and Nicaragua)</ph>
+                     </entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">7,008,000</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">Chile FTA</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">7,008,000</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">Colombia FTA</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">7,008,000</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">Korea FTA</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">100,000</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">100,000</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">7,008,000</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">Morocco FTA</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">182,000</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">182,000</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">7,008,000</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">NAFTA</ph>
+                     </entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "/>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "/>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "/>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">-Canada</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">25,000</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">10,802,884</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">-Mexico</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">10,802,884</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">Oman FTA</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">182,000</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">182,000</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">10,802,884</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">Panama FTA</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">182,000</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">182,000</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">7,008,000</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">Peru FTA</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">182,000</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">182,000</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">7,008,000</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            rowsep="0"
+                            outputclass="CellBody_Ind1"
+                            xtrc="nd1"
+                            class="- topic/entry ">Singapore FTA</entry>
+                     <entry colname="2"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="3"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">83,099</entry>
+                     <entry colname="4"
+                            rowsep="0"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">7,008,000</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1"
+                            align="left"
+                            outputclass="CellBody_Left"
+                            class="- topic/entry "> 
+                        <ph rev="FAC 2020-04 January 15, 2020" class="- topic/ph ">Israeli Trade Act</ph>
+                     </entry>
+                     <entry colname="2"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">50,000</entry>
+                     <entry colname="3"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">-</entry>
+                     <entry colname="4"
+                            align="right"
+                            outputclass="CellBody_Right"
+                            class="- topic/entry ">-</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[69 FR 77874, Dec. 28, 2004, as amended at 71 FR 219, Jan. 3, 2006; 71 FR 865, Jan. 5, 2006; 71 FR 20307, Apr. 19, 2006; 71 FR 36937, June 28, 2006; 71 FR 67777, Nov. 22, 2006; 72 FR 46358, Aug. 17, 2007; 73 FR 10963, Feb. 28, 2008; 73 FR 16747, Mar. 28, 2008; 74 FR 28428, June 15, 2009; 75 FR 38690, July 2, 2010; 77 FR 27550, May 10, 2012; 77 FR 69724, Nov. 20, 2012; 78 FR 80380, Dec. 31, 2013; 79 FR 24209, Apr. 29, 2014; 80 FR 81895, Dec. 31, 2015; 83 FR 3398, Jan. 24, 2018]</msgblock>
+      </conbody>
+   </concept>
 </dita>

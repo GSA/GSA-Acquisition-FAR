@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="i1055729" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">52.222-22</ph> Previous Contracts and Compliance Reports.</title>
-		<conbody outputclass="provision" class="- topic/body concept/conbody ">
-			<p id="d3320e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
-					<xref href="FAR-i1097344.dita#i1097344" base="i1097344" outputclass="fm:ParaNumOnly" class="- topic/xref ">22.810</xref>(a)(2)</ph>, insert the following provision:</p>
-			<p outputclass="Ctr_SmCaps" class="- topic/p ">Previous Contracts and Compliance Reports (Feb 1999)</p>
-			<p class="- topic/p ">The offeror represents that-</p>
-			<p class="- topic/p ">It □has, □has not participated in a previous contract or subcontract subject to the Equal Opportunity clause of this solicitation;</p>
-			<p class="- topic/p ">It □has, □has not filed all required compliance reports; and</p>
-			<p class="- topic/p ">Representations indicating submission of required compliance reports, signed by proposed subcontractors, will be obtained before subcontract awards.</p>
-			<p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
-			<msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 63 FR 70286, Dec. 18, 1998]</msgblock>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="i1055729"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">52.222-22</ph> Previous Contracts and Compliance Reports.</title>
+		    <conbody outputclass="provision" class="- topic/body concept/conbody ">
+			      <p id="d3321e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+					          <xref href="FAR-i1097344.dita#i1097344"
+                     base="i1097344"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">22.810</xref>(a)(2)</ph>, insert the following provision:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Previous Contracts and Compliance Reports (Feb 1999)</p>
+			      <p class="- topic/p ">The offeror represents that-</p>
+			      <p class="- topic/p ">It □has, □has not participated in a previous contract or subcontract subject to the Equal Opportunity clause of this solicitation;</p>
+			      <p class="- topic/p ">It □has, □has not filed all required compliance reports; and</p>
+			      <p class="- topic/p ">Representations indicating submission of required compliance reports, signed by proposed subcontractors, will be obtained before subcontract awards.</p>
+			      <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
+			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[48 FR 42478, Sept. 19, 1983, as amended at 63 FR 70286, Dec. 18, 1998]</msgblock>
+		    </conbody>
+	  </concept>
 </dita>
