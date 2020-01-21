@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="id1617MD090K3"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -12,30 +13,48 @@
 			      <ol id="d1673e13" class="- topic/ol ">
 				        <li class="- topic/li ">
 					          <p id="d1694e17" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph> Unless an international agreement or the WTO GPA (see <xref href="FAR-i1092833.dita#i1092833"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+						             Unless an international agreement or the WTO GPA (see <xref href="FAR-i1092833.dita#i1092833"
                         base="i1092833"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">25.408</xref>(a)(4)) requires a specific currency, contracting officers must determine whether solicitations for contracts to be entered into and performed outside the United States will require submission of offers in U.S. currency or a specified foreign currency. In unusual circumstances, the contracting officer may permit submission of offers in other than a specified currency.</p>
 				        </li>
 				        <li class="- topic/li ">
 					          <p id="d1694e29" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>To ensure a fair evaluation of offers, solicitations generally should require all offers to be priced in the same currency. However, if the solicitation permits submission of offers in other than a specified currency, the contracting officer must convert the offered prices to U.S. currency for evaluation purposes. The contracting officer must use the current market exchange rate from a commonly used source in effect as follows:</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+						            To ensure a fair evaluation of offers, solicitations generally should require all offers to be priced in the same currency. However, if the solicitation permits submission of offers in other than a specified currency, the contracting officer must convert the offered prices to U.S. currency for evaluation purposes. The contracting officer must use the current market exchange rate from a commonly used source in effect as follows:</p>
 					          <ol id="d1673e35" class="- topic/ol ">
 						            <li class="- topic/li ">
 							              <p id="d1694e39" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph> For acquisitions conducted using sealed bidding procedures, on the date of bid opening.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+								                 For acquisitions conducted using sealed bidding procedures, on the date of bid opening.</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d1694e48" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph> For acquisitions conducted using negotiation procedures-</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+								                 For acquisitions conducted using negotiation procedures-</p>
 							              <ol id="d1673e54" class="- topic/ol ">
 								                <li class="- topic/li ">
 									                  <p id="d1694e58" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>On the date specified for receipt of offers, if award is based on initial offers; otherwise</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              
+										                    On the date specified for receipt of offers, if award is based on initial offers; otherwise</p>
 								                </li>
 								                <li class="- topic/li ">
 									                  <p id="d1694e67" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>On the date specified for receipt of final proposal revisions.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
+										                    On the date specified for receipt of final proposal revisions.</p>
 								                </li>
 							              </ol>
 						            </li>
@@ -43,7 +62,10 @@
 				        </li>
 				        <li class="- topic/li ">
 					          <p id="d1694e80" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>If a contract is priced in foreign currency, the agency must ensure that adequate funds are available to cover currency fluctuations to avoid a violation of the Anti-Deficiency Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+						            If a contract is priced in foreign currency, the agency must ensure that adequate funds are available to cover currency fluctuations to avoid a violation of the Anti-Deficiency Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
                         class="- topic/xref ">31 U.S.C. 1341</xref>, <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
@@ -55,7 +77,7 @@
                         class="- topic/xref ">1511-1519</xref>).</p>
 				        </li>
 			      </ol>
-			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[64 FR 72419, Dec. 27, 1999, as amended at 69 FR 1055, Jan. 7, 2004; 69 FR 77876, Dec. 28, 2004]</msgblock>
+			      
 		    </conbody>
 	  </concept>
 </dita>

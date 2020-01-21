@@ -1,57 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-	  <concept id="id1989G0M30N0">
-		    <title>
-			      <ph props="autonumber">4.2102</ph> Prohibition.</title>
-		    <conbody>
-			      <ol>
-				        <li>
-					          <p id="d323e17">
-						            <ph props="autonumber">(a)</ph>
-						            <i>Prohibited  equipment, systems, or services</i>. On or after August 13, 2019,  agencies are prohibited from procuring or obtaining, or extending  or renewing a contract to procure or obtain, any equipment, system,  or service that uses covered telecommunications equipment or services  as a substantial or essential component of any system, or as critical  technology as part of any system, unless an exception at paragraph  (b) of this section applies or the covered telecommunications equipment  or services are covered by a waiver described in <xref href="FAR-4.2104.dita#id1989GI040ZO" outputclass="fm:ParaNumOnly">4.2104</xref>.</p>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="id1989G0M30N0"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">4.2102</ph> Prohibition.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d323e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+						            
+						            <i class="+ topic/ph hi-d/i ">Prohibited  equipment, systems, or services</i>. On or after August 13, 2019,  agencies are prohibited from procuring or obtaining, or extending  or renewing a contract to procure or obtain, any equipment, system,  or service that uses covered telecommunications equipment or services  as a substantial or essential component of any system, or as critical  technology as part of any system, unless an exception at paragraph  (b) of this section applies or the covered telecommunications equipment  or services are covered by a waiver described in <xref href="FAR-4.2104.dita#id1989GI040ZO"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">4.2104</xref>.</p>
 				        </li>
-				        <li>
-					          <p id="d323e32">
-						            <ph props="autonumber">(b)</ph>
-						            <i>Exceptions</i>.  This subpart does not prohibit agencies from procuring or contractors  from providing-</p>
-					          <ol>
-						            <li>
-							              <p id="d323e45">
-								                <ph props="autonumber">(1)</ph> A  service that connects to the facilities of a third-party, such as  backhaul, roaming, or interconnection arrangements; or</p>
+				        <li class="- topic/li ">
+					          <p id="d323e32" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+						            
+						            <i class="+ topic/ph hi-d/i ">Exceptions</i>.  This subpart does not prohibit agencies from procuring or contractors  from providing-</p>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d323e45" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+								                 A  service that connects to the facilities of a third-party, such as  backhaul, roaming, or interconnection arrangements; or</p>
 						            </li>
-						            <li>
-							              <p id="d323e54">
-								                <ph props="autonumber">(2)</ph> Telecommunications  equipment that cannot route or redirect user data traffic or permit  visibility into any user data or packets that such equipment transmits  or otherwise handles.</p>
+						            <li class="- topic/li ">
+							              <p id="d323e54" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+								                 Telecommunications  equipment that cannot route or redirect user data traffic or permit  visibility into any user data or packets that such equipment transmits  or otherwise handles.</p>
 						            </li>
 					          </ol>
 				        </li>
-				        <li>
-					          <p id="d323e65">
-						            <ph props="autonumber">(c)</ph>
-						            <i>Contracting  Officers</i>. Contracting officers shall not procure or obtain,  or extend or renew a contract ( <i>e.g.</i>, exercise an option)  to procure or obtain, any equipment, system, or service that uses  covered telecommunications equipment or services as a substantial  or essential component of any system, or as critical technology  as part of any system, unless an exception at paragraph (b) of this  section applies or the covered telecommunications equipment or services  are covered by a waiver described in <xref href="FAR-4.2104.dita#id1989GI040ZO" outputclass="fm:ParaNumOnly">4.2104</xref>.</p>
+				        <li class="- topic/li ">
+					          <p id="d323e65" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+						            
+						            <i class="+ topic/ph hi-d/i ">Contracting  Officers</i>. Contracting officers shall not procure or obtain,  or extend or renew a contract ( <i class="+ topic/ph hi-d/i ">e.g.</i>, exercise an option)  to procure or obtain, any equipment, system, or service that uses  covered telecommunications equipment or services as a substantial  or essential component of any system, or as critical technology  as part of any system, unless an exception at paragraph (b) of this  section applies or the covered telecommunications equipment or services  are covered by a waiver described in <xref href="FAR-4.2104.dita#id1989GI040ZO"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">4.2104</xref>.</p>
 				        </li>
-				        <li>
-					          <p id="d323e83">
-						            <ph props="autonumber">(d)</ph>
-						            <i>
+				        <li class="- topic/li ">
+					          <p id="d323e83" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+						            
+						            <i class="+ topic/ph hi-d/i ">
 							
-							              <ph>Recording prohibitions  in the System for Award Management (SAM).
+							              <ph class="- topic/ph ">Recording prohibitions  in the System for Award Management (SAM).
 							</ph>
 						            </i>
 					          </p>
-					          <ol>
-						            <li>
-							              <p id="d323e99">
-								                <ph props="autonumber">(1)</ph>
-								                <ph>Prohibitions on purchases  of products or services produced or provided by entities identified  in paragraphs (1) and (2) of the definition of “covered telecommunications  equipment or services” (including known subsidiaries or affiliates) at <xref href="FAR-4.2101.dita#id1897F0DI0UI" outputclass="fm:ParaNumOnly">4.2101</xref> will be recorded  in SAM (see <xref href="FAR-i1115204.dita#i1115204" outputclass="fm:ParaNumOnly">9.404</xref>).</ph>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d323e99" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+								                
+								                <ph class="- topic/ph ">Prohibitions on purchases  of products or services produced or provided by entities identified  in paragraphs (1) and (2) of the definition of “covered telecommunications  equipment or services” (including known subsidiaries or affiliates) at <xref href="FAR-4.2101.dita#id1897F0DI0UI"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">4.2101</xref> will be recorded  in SAM (see <xref href="FAR-i1115204.dita#i1115204"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">9.404</xref>).</ph>
 							              </p>
 						            </li>
-						            <li>
-							              <p id="d323e117">
-								                <ph props="autonumber">(2)</ph>
-								                <ph>Prohibitions on purchases  of products or services produced or provided by entities identified  pursuant to paragraph (4) of the definition of “covered telecommunications  equipment or services” (including known subsidiaries or affiliates) at <xref href="FAR-4.2101.dita#id1897F0DI0UI" outputclass="fm:ParaNumOnly">4.2101</xref> are recorded by  the Department of Defense in SAM (see <xref href="FAR-i1115204.dita#i1115204" outputclass="fm:ParaNumOnly">9.404</xref>).</ph>
+						            <li class="- topic/li ">
+							              <p id="d323e117" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+								                
+								                <ph class="- topic/ph ">Prohibitions on purchases  of products or services produced or provided by entities identified  pursuant to paragraph (4) of the definition of “covered telecommunications  equipment or services” (including known subsidiaries or affiliates) at <xref href="FAR-4.2101.dita#id1897F0DI0UI"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">4.2101</xref> are recorded by  the Department of Defense in SAM (see <xref href="FAR-i1115204.dita#i1115204"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">9.404</xref>).</ph>
 							              </p>
 						            </li>
 					          </ol>

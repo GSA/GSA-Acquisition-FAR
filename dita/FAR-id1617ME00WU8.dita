@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="id1617ME00WU8"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -20,7 +21,10 @@
 			      <ol id="d3766e22" class="- topic/ol ">
 				        <li class="- topic/li ">
 					          <p id="d3798e29" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+						            
 						            <i class="+ topic/ph hi-d/i ">
 							              <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                            format="html"
@@ -32,7 +36,10 @@
 				        </li>
 				        <li class="- topic/li ">
 					          <p id="d3798e47" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+						            
 						            <i class="+ topic/ph hi-d/i ">
 							              <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                            format="html"
@@ -43,7 +50,7 @@
                         class="- topic/xref ">52.204-2</xref>.)</p>
 				        </li>
 			      </ol>
-			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock "/>
+			      
 		    </conbody>
 	  </concept>
 </dita>

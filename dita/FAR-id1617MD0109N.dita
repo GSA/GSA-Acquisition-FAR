@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="id1617MD0109N"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -12,56 +13,86 @@
 			      <ol id="d1242e13" class="- topic/ol ">
 				        <li class="- topic/li ">
 					          <p id="d1263e17" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph> Status as a service-disabled veteran-owned small business concern is determined in accordance with 13 CFR Parts 125.8 through 125.13; also see <xref href="FAR-i1101313.dita#i1101313"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+						             Status as a service-disabled veteran-owned small business concern is determined in accordance with 13 CFR Parts 125.8 through 125.13; also see <xref href="FAR-i1101313.dita#i1101313"
                         base="i1101313"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">19.307</xref>.</p>
 				        </li>
 				        <li class="- topic/li ">
 					          <p id="d1263e29" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>At the time that a service-disabled veteran-owned small business concern submits its offer, it must represent to the contracting officer that it is a—</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+						            At the time that a service-disabled veteran-owned small business concern submits its offer, it must represent to the contracting officer that it is a—</p>
 					          <ol id="d1242e35" class="- topic/ol ">
 						            <li class="- topic/li ">
 							              <p id="d1263e39" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph> Service-disabled veteran-owned small business concern; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+								                 Service-disabled veteran-owned small business concern; and</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d1263e48" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph> Small business concern under the North American Industry Classification System (NAICS) code assigned to the procurement.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+								                 Small business concern under the North American Industry Classification System (NAICS) code assigned to the procurement.</p>
 						            </li>
 					          </ol>
 				        </li>
 				        <li class="- topic/li ">
 					          <p id="d1263e59" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>A joint venture may be considered a service-disabled veteran owned small business concern if—</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+						            A joint venture may be considered a service-disabled veteran owned small business concern if—</p>
 					          <ol id="d1242e65" class="- topic/ol ">
 						            <li class="- topic/li ">
 							              <p id="d1263e69" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>At least one member of the joint venture is a service-disabled veteran-owned small business concern, and makes the representations in paragraph (b) of this section;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+								                At least one member of the joint venture is a service-disabled veteran-owned small business concern, and makes the representations in paragraph (b) of this section;</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d1263e78" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph> Each other concern is small under the size standard corresponding to the NAICS code assigned to the procurement;</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+								                 Each other concern is small under the size standard corresponding to the NAICS code assigned to the procurement;</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d1263e87" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(3)</ph> The joint venture meets the requirements <ph class="- topic/ph ">in 13 CFR 121.103(h);</ph> and</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+								                 The joint venture meets the requirements <ph class="- topic/ph ">in 13 CFR 121.103(h);</ph> and</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d1263e99" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(4)</ph> The joint venture meets the requirements of 13 CFR125.15(b).</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
+                        
+								                 The joint venture meets the requirements of 13 CFR125.15(b).</p>
 						            </li>
 					          </ol>
 				        </li>
 				        <li class="- topic/li ">
 					          <p id="d1263e110" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(d)</ph> Any service-disabled veteran-owned small business concern (nonmanufacturer) must meet the requirements in <xref href="FAR-i1101844.dita#i1101844"
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+						             Any service-disabled veteran-owned small business concern (nonmanufacturer) must meet the requirements in <xref href="FAR-i1101844.dita#i1101844"
                         base="i1101844"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">19.102</xref>(f) to receive a benefit under this program.</p>
 				        </li>
 			      </ol>
-			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock "/>
+			      
 		    </conbody>
 	  </concept>
 </dita>

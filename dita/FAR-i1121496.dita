@@ -13,12 +13,18 @@
 			      <ol id="d295e13" class="- topic/ol ">
 				        <li class="- topic/li ">
 					          <p id="d297e17" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+						            
 						            <i class="+ topic/ph hi-d/i ">Elements of a PIID</i>. The PIID consists of a combination of thirteen to seventeen alpha and/or numeric characters sequenced to convey certain information. Do not use special characters (such as hyphens, dashes, or spaces).</p>
 					          <ol id="d295e26" class="- topic/ol ">
 						            <li class="- topic/li ">
 							              <p id="d297e30" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+								                
 								                <i class="+ topic/ph hi-d/i ">Positions 1 through 6</i>. The first six positions identify the department/agency and office issuing the instrument. Use the AAC assigned to the issuing office for positions 1 through 6. Civilian agency points of contact for obtaining an AAC are on the AAC Contact list maintained by the General Services Administration and can be found at <xref href="http://www.gsa.gov/graphics/fas/Civilian_contacts.pdf"
                               scope="external"
                               class="- topic/xref ">http://www.gsa.gov/graphics/fas/Civilian_contacts.pdf</xref>. For Department of Defense (DoD) inquiries, contact the service/agency Central Service Point or DoD AAC Monitor, or if unknown, email <xref href="mailto:DODAADHQ@DLA.MIL"
@@ -27,12 +33,18 @@
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d297e48" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+								                
 								                <i class="+ topic/ph hi-d/i ">Positions 7 through 8</i>. The seventh and eighth positions are the last two digits of the fiscal year in which the procurement instrument is issued or awarded. This is the date the action is signed, not the effective date if the effective date is different.</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d297e60" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+								                
 								                <i class="+ topic/ph hi-d/i ">Position 9</i>. Indicate the type of instrument by entering one of the following upper case letters in position nine. Departments and independent agencies may assign those letters identified for department use below in accordance with their agency policy; however, any use must be applied to the entire department or agency.</p>
 							              <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
 								                <tgroup cols="2"
@@ -280,11 +292,17 @@
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d297e500" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(4)</ph> Positions 10 through 17. Enter the number assigned by the issuing agency in these positions. Agencies may choose a minimum of four characters up to a maximum of eight characters to be used, but the same number of characters must be used agency-wide. If a number less than the maximum is used, do not use leading or trailing zeroes to make it equal the maximum in any system or data transmission. A separate series of numbers may be used for any type of instrument listed in paragraph (a)(3) of this section. An agency may reserve blocks of numbers or alpha-numeric numbers for use by its various components.</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
+                        
+								                 Positions 10 through 17. Enter the number assigned by the issuing agency in these positions. Agencies may choose a minimum of four characters up to a maximum of eight characters to be used, but the same number of characters must be used agency-wide. If a number less than the maximum is used, do not use leading or trailing zeroes to make it equal the maximum in any system or data transmission. A separate series of numbers may be used for any type of instrument listed in paragraph (a)(3) of this section. An agency may reserve blocks of numbers or alpha-numeric numbers for use by its various components.</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d297e509" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(5)</ph> Illustration of PIID. The following illustrates a properly configured PIID using four characters in the final positions:</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                        
+                        
+								                 Illustration of PIID. The following illustrates a properly configured PIID using four characters in the final positions:</p>
 							              <fig frame="all" class="- topic/fig ">
 								                <image href="Graphics/PIID.PNG"
                                placement="inline"
@@ -297,35 +315,53 @@
 				        </li>
 				        <li class="- topic/li ">
 					          <p id="d297e525" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+						            
 						            <i class="+ topic/ph hi-d/i ">Elements of a supplementary PIID</i>. Use the supplementary PIID to identify amendments to solicitations and modifications to contracts, orders, and agreements. The supplementary PIID is reported as a separate data element used in conjunction with, but not appended to, the PIID.</p>
 					          <ol id="d295e531" class="- topic/ol ">
 						            <li class="- topic/li ">
 							              <p id="d297e538" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph> Amendments to solicitations. Number amendments to solicitations sequentially using a four position numeric serial number added to the 13-17 character PIID beginning with 0001.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+								                 Amendments to solicitations. Number amendments to solicitations sequentially using a four position numeric serial number added to the 13-17 character PIID beginning with 0001.</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d297e547" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph> Modifications to contracts, orders, and agreements. Number modifications to contracts, orders, and agreements using a six position alpha or numeric, or a combination thereof, added to the 13-17 character PIID. For example, a modification could be numbered P00001. This would be added to the end of the 13-17 character PIID illustrated in (a)(5) of this section.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+								                 Modifications to contracts, orders, and agreements. Number modifications to contracts, orders, and agreements using a six position alpha or numeric, or a combination thereof, added to the 13-17 character PIID. For example, a modification could be numbered P00001. This would be added to the end of the 13-17 character PIID illustrated in (a)(5) of this section.</p>
 							              <ol id="d295e550" class="- topic/ol ">
 								                <li class="- topic/li ">
 									                  <p id="d297e557" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(i)</ph> Position 1. Identify the office issuing the modification. The letter P shall be designated for modifications issued by the procuring contracting office. The letter A shall be used for modifications issued by the contract administration office (if other than the procuring contracting office).</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              
+										                     Position 1. Identify the office issuing the modification. The letter P shall be designated for modifications issued by the procuring contracting office. The letter A shall be used for modifications issued by the contract administration office (if other than the procuring contracting office).</p>
 								                </li>
 								                <li class="- topic/li ">
 									                  <p id="d297e566" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph> Positions 2 through 6. These positions may be alpha, numeric, or a combination thereof, in accordance with agency procedures.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
+										                     Positions 2 through 6. These positions may be alpha, numeric, or a combination thereof, in accordance with agency procedures.</p>
 								                </li>
 								                <li class="- topic/li ">
 									                  <p id="d297e575" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph> Each office authorized to issue modifications shall assign the supplementary identification numbers in sequence (unless provided otherwise in agency procedures). Do not assign the numbers until it has been determined that a modification is to be issued.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                              
+										                     Each office authorized to issue modifications shall assign the supplementary identification numbers in sequence (unless provided otherwise in agency procedures). Do not assign the numbers until it has been determined that a modification is to be issued.</p>
 								                </li>
 							              </ol>
 						            </li>
 					          </ol>
 				        </li>
 			      </ol>
-			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[79 FR 61741, Oct. 14, 2014, as amended at 83 FR 42572, Aug. 22, 2018]</msgblock>
+			      
 		    </conbody>
 	  </concept>
 </dita>

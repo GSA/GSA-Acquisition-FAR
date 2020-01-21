@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="id1617MD080D0"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -24,7 +25,7 @@
                      base="i1091565"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">25.502</xref>(a)(1)</ph>). The evaluation factor may change as provided in agency regulations.</p>
-			      <msgblock props="Citation" xml:space="preserve" class="+ topic/pre sw-d/msgblock ">[67 FR 21535, Apr. 30, 2002]</msgblock>
+			      
 		    </conbody>
 	  </concept>
 </dita>

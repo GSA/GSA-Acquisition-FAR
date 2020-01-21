@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?Fm Condition DITA-Topicref Blue NO_OVERRIDE show AsIs?>
+<?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_DELETED Red STRIKETHROUGH show AsIs?>
+<?Fm BoolCondExpr "DITA-Topicref" State 0?>
+<?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll True?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
 <map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
@@ -28,7 +35,7 @@
              otherprops="NoProp"
              base="NoTitle"
              class="- map/topicref "/>
-   <topicref navtitle="List of Sections Affected"
+   <topicref navtitle="List of Sections Affected FAC 2020-04 January 15, 2020"
              href="LSATable.dita"
              outputclass="LSA"
              otherprops="NoProp"
@@ -1046,7 +1053,7 @@
                             props="3.907-6"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="3.907-7     Contract clause."
+                  <topicref navtitle="3.907-7Contract clause."
                             href="FAR-i1123917.dita"
                             outputclass="subtopic"
                             props="3.907-7"
@@ -2020,7 +2027,7 @@
                          base="concept"
                          class="- map/topicref "/>
             </topicref>
-            <topicref navtitle="Subpart 4.20           Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab"
+            <topicref navtitle="Subpart 4.20  Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab"
                       href="FAR-Subpart-4.20.dita"
                       outputclass="SubPart"
                       type="topic"
@@ -2057,7 +2064,7 @@
                          base="concept"
                          class="- map/topicref "/>
             </topicref>
-            <topicref navtitle="Subpart 4.21           Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment"
+            <topicref navtitle="Subpart 4.21  Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment"
                       href="FAR-Subpart-4.21.dita"
                       outputclass="SubPart"
                       type="topic"
@@ -2069,7 +2076,7 @@
                          outputclass="subtopic"
                          type="concept"
                          props="4.2100"
-                         base="concept"
+                         base="NoTitle"
                          class="- map/topicref "/>
                <topicref navtitle="4.2101 Definitions."
                          href="FAR-4.2101.dita"
@@ -2099,7 +2106,7 @@
                          props="4.2104"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="4.2105Solicitation provisions and contract clause."
+               <topicref navtitle="4.2105     Solicitation provisions and contract clause.   "
                          href="FAR-4.2105.dita"
                          outputclass="subtopic"
                          type="concept"
@@ -2481,7 +2488,7 @@
                          props="6.203"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="6.204 Section8(a) competition."
+               <topicref navtitle="6.204 Section 8(a) competition."
                          href="FAR-id1617MD00LYF.dita"
                          outputclass="subtopic"
                          props="6.204"
@@ -2774,13 +2781,13 @@
                          props="7.201"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="7.202           Policy.   "
+               <topicref navtitle="7.202  Policy."
                          href="FAR-i1118716.dita"
                          outputclass="subtopic"
                          props="7.202"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="7.203           Solicitation provision."
+               <topicref navtitle="7.203  Solicitation provision."
                          href="FAR-i1118726.dita"
                          outputclass="subtopic"
                          props="7.203"
@@ -3257,7 +3264,7 @@
                          props="8.702"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="8.703     Procurement List."
+               <topicref navtitle="8.703Procurement List."
                          href="FAR-id1617MD00O6T.dita"
                          outputclass="subtopic"
                          props="8.703"
@@ -7253,7 +7260,7 @@
                          props="18.201"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="18.202           Defense or recovery from certain events."
+               <topicref navtitle="18.202  Defense or recovery from certain events."
                          href="FAR-id1617MD0008D.dita"
                          outputclass="subtopic"
                          props="18.202"
@@ -10456,7 +10463,7 @@
                          props="25.401"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="25.402 General."
+               <topicref navtitle="25.402 General. Table 1 to Paragraph (b)"
                          href="FAR-i1092636.dita"
                          outputclass="subtopic"
                          props="25.402"
@@ -16042,49 +16049,42 @@
                             href="FAR-id16BGD060J97.dita"
                             outputclass="subtopic"
                             props="42.709-1"
-                            otherprops="NoProp"
                             base="concept"
                             class="- map/topicref "/>
                   <topicref navtitle="42.709-1 General."
                             href="FAR-i1075370.dita"
                             outputclass="subtopic"
                             props="42.709-2"
-                            otherprops="NoProp"
                             base="concept"
                             class="- map/topicref "/>
                   <topicref navtitle="42.709-2 Responsibilities."
                             href="FAR-id1617MD0L0PL.dita"
                             outputclass="subtopic"
                             props="42.709-3"
-                            otherprops="NoProp"
                             base="concept"
                             class="- map/topicref "/>
                   <topicref navtitle="42.709-3 Assessing the penalty."
                             href="FAR-id1617MD0L0XW.dita"
                             outputclass="subtopic"
                             props="42.709-4"
-                            otherprops="NoProp"
                             base="concept"
                             class="- map/topicref "/>
                   <topicref navtitle="42.709-4 Computing interest."
                             href="FAR-id1617MD0L0OD.dita"
                             outputclass="subtopic"
                             props="42.709-5"
-                            otherprops="NoProp"
                             base="concept"
                             class="- map/topicref "/>
                   <topicref navtitle="42.709-5 Waiver of the penalty."
                             href="FAR-i1075430.dita"
                             outputclass="subtopic"
                             props="42.709-6"
-                            otherprops="NoProp"
                             base="concept"
                             class="- map/topicref "/>
                   <topicref navtitle="42.709-6 Contract clause."
                             href="FAR-i1075444.dita"
                             outputclass="subtopic"
                             props="42.709-7"
-                            otherprops="NoProp"
                             base="concept"
                             class="- map/topicref "/>
                </topicref>
@@ -17136,7 +17136,7 @@
                          props="46.316"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="46.317 Reporting Nonconforming Items."
+               <topicref navtitle="46.317     Reporting Nonconforming Items.   "
                          href="FAR-46.317.dita"
                          outputclass="subtopic"
                          type="concept"
@@ -19628,7 +19628,7 @@
                             props="52.204-22"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="52.204-23           Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities."
+                  <topicref navtitle="52.204-23  Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities."
                             href="FAR-52.204-23.dita"
                             outputclass="subtopic"
                             type="topic"
@@ -19642,14 +19642,14 @@
                             props="52.204-24"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="52.204-25           Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment."
+                  <topicref navtitle="52.204-25  Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment."
                             href="FAR-52.204-25.dita"
                             outputclass="subtopic"
                             type="concept"
                             props="52.204-25"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="52.204-26 Covered Telecommunications Equipment or Services-Representation."
+                  <topicref navtitle="52.204-26     Covered Telecommunications Equipment or Services-Representation.   "
                             href="FAR-52.204-26.dita"
                             outputclass="subtopic"
                             type="concept"
@@ -19884,7 +19884,7 @@
                          product="Break"
                          base="concept"
                          class="- map/topicref ">
-                  <topicref navtitle="52.211-1 Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part101-29."
+                  <topicref navtitle="52.211-1 Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29."
                             href="FAR-i1062722.dita"
                             outputclass="subtopic"
                             props="52.211-1"
@@ -20799,7 +20799,7 @@
                             props="52.219-16"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="52.219-17 Section8(a) Award."
+                  <topicref navtitle="52.219-17 Section 8(a) Award."
                             href="FAR-i1057772.dita"
                             outputclass="subtopic"
                             props="52.219-17"
@@ -23121,7 +23121,7 @@
                             props="52.246-25"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="52.246-26 Reporting Nonconforming Items."
+                  <topicref navtitle="52.246-26     Reporting Nonconforming Items.   "
                             href="FAR-52.246-26.dita"
                             outputclass="subtopic"
                             type="concept"
@@ -23886,7 +23886,7 @@
                          props="53.106"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="53.107           Obtaining forms."
+               <topicref navtitle="53.107  Obtaining forms."
                          href="FAR-i1002103.dita"
                          outputclass="subtopic"
                          props="53.107"
