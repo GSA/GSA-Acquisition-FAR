@@ -2,298 +2,334 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="i1048325"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="i1048325"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">52.244-2</ph> Subcontracts.</title>
-		    <conbody class="- topic/body concept/conbody ">
-			      <p id="d3622e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
-					          <xref href="FAR-i1073622.dita#i1073622"
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">52.244-2</ph> Subcontracts.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d3622e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     href="FAR-i1073622.dita#i1073622"
                      base="i1073622"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">44.204</xref>(a)(1)</ph>, insert the following clause:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Subcontracts (Oct 2010)</p>
-			      <ol id="d3593e25" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d3622e29" class="- topic/p ">
+                     class="- topic/xref ">44.204</xref>(a)(1)</ph>,
+insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Subcontracts (Oct 2010)</p>
+         <ol id="d3593e25" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d3622e29" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
-                  
-						            
-						            <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause-</p>
-					          <p id="d3622e38" class="- topic/p ">“Approved purchasing system” means a Contractor’s purchasing system that has been reviewed and approved in accordance with <xref href="FAR-i1073721.dita#i1073721"
+                  <i class="+ topic/ph hi-d/i ">Definitions</i>.
+As used in this clause-</p>
+               <p id="d3622e38" class="- topic/p ">“Approved purchasing
+system” means a Contractor’s purchasing system that has been reviewed
+and approved in accordance with <xref outputclass="fm:Part"
+                        href="FAR-i1073721.dita#i1073721"
                         base="i1073721"
-                        outputclass="fm:Part"
-                        class="- topic/xref ">part  44</xref> of the Federal Acquisition Regulation (FAR).</p>
-					          <p id="d3622e44" class="- topic/p ">“Consent to subcontract” means the Contracting Officer’s written consent for the Contractor to enter into a particular subcontract.</p>
-					          <p id="d3622e47" class="- topic/p ">“Subcontract” means any contract, as defined in FAR <xref href="FAR-i1125357.dita#i1125357"
+                        class="- topic/xref ">part  44</xref> of
+the Federal Acquisition Regulation (FAR).</p>
+               <p id="d3622e44" class="- topic/p ">“Consent
+to subcontract” means the Contracting Officer’s written consent
+for the Contractor to enter into a particular subcontract.</p>
+               <p id="d3622e47" class="- topic/p ">
+                  <i outputclass="Definition">Subcontract</i> means any contract, as defined
+in FAR <xref outputclass="fm:Subpart"
+                        href="FAR-i1125357.dita#i1125357"
                         base="i1125357"
-                        outputclass="fm:Subpart"
-                        class="- topic/xref ">subpart  2.1</xref>, entered into by a subcontractor to furnish supplies or services for performance of the prime contract or a subcontract. It includes, but is not limited to, purchase orders, and changes and modifications to purchase orders.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3622e56" class="- topic/p ">
+                        class="- topic/xref ">subpart  2.1</xref>,
+entered into by a subcontractor to furnish supplies or services
+for performance of the prime contract or a subcontract. It includes,
+but is not limited to, purchase orders, and changes and modifications
+to purchase orders.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3622e56" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-						             When this clause is included in a fixed-price type contract, consent to subcontract is required only on unpriced contract actions (including unpriced modifications or unpriced delivery orders), and only if required in accordance with paragraph (c) or (d) of this clause.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3622e65" class="- topic/p ">
+                   When this
+clause is included in a fixed-price type contract, consent to subcontract
+is required only on unpriced contract actions (including unpriced
+modifications or unpriced delivery orders), and only if required
+in accordance with paragraph (c) or (d) of this clause.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3622e65" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-						            If the Contractor does not have an approved purchasing system, consent to subcontract is required for any subcontract that-</p>
-					          <ol id="d3593e74" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3622e75" class="- topic/p ">
+                   If the
+Contractor does not have an approved purchasing system, consent
+to subcontract is required for any subcontract that-</p>
+               <ol id="d3593e74" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3622e75" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-								                Is of the cost-reimbursement, time-and-materials, or labor-hour type; or</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3622e84" class="- topic/p ">
+                         Is
+of the cost-reimbursement, time-and-materials, or labor-hour type;
+or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3622e84" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-								                Is fixed-price and exceeds-</p>
-							              <ol id="d3593e93" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3622e94" class="- topic/p ">
+                         Is fixed-price
+and exceeds-</p>
+                     <ol id="d3593e93" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3622e94" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-										                     For a contract awarded by the Department of Defense, the Coast Guard, or the National Aeronautics and Space Administration, the greater of the simplified acquisition threshold or 5 percent of the total estimated cost of the contract; or</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3622e103" class="- topic/p ">
+                               For a contract awarded by the
+Department of Defense, the Coast Guard, or the National Aeronautics
+and Space Administration, the greater of the simplified acquisition
+threshold or 5 percent of the total estimated cost of the contract;
+or</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3622e103" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-										                     For a contract awarded by a civilian agency other than the Coast Guard and the National Aeronautics and Space Administration, either the simplified acquisition threshold or 5 percent of the total estimated cost of the contract.</p>
-								                </li>
-							              </ol>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3622e116" class="- topic/p ">
+                               For a
+contract awarded by a civilian agency other than the Coast Guard
+and the National Aeronautics and Space Administration, either the
+simplified acquisition threshold or 5 percent of the total estimated
+cost of the contract.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3622e116" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-						            If the Contractor has an approved purchasing system, the Contractor nevertheless shall obtain the Contracting Officer’s written consent before placing the following subcontracts:</p>
-					          <p id="d3622e122" class="- topic/p ">________________________________________________ ________________________________________________ ________________________________________________</p>
-				        </li>
-				        <li props="Runin" class="- topic/li ">
-					          <p id="d3622e128" class="- topic/p ">
+                   If the
+Contractor has an approved purchasing system, the Contractor nevertheless
+shall obtain the Contracting Officer’s written consent before placing
+the following subcontracts:</p>
+               <p id="d3622e122" class="- topic/p ">
+                  <cite outputclass="MultiLine" xtrc="52.244-2_d3616e121">________________________________________________
+________________________________________________ ________________________________________________</cite>
+               </p>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p id="d3622e128" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   
-                  
-						            
-					          </p>
-					          <ol id="d3593e140" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3622e138" class="- topic/p ">
+               </p>
+               <ol id="d3593e140" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3622e138" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-								                 The Contractor shall notify the Contracting Officer reasonably in advance of placing any subcontract or modification thereof for which consent is required under paragraph (b), (c), or (d) of this clause, including the following information:</p>
-							              <ol id="d3593e150" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3622e148" class="- topic/p ">
+                         The
+Contractor shall notify the Contracting Officer reasonably in advance
+of placing any subcontract or modification thereof for which consent
+is required under paragraph (b), (c), or (d) of this clause, including
+the following information:</p>
+                     <ol id="d3593e150" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3622e148" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-										                    A description of the supplies or services to be subcontracted.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3622e157" class="- topic/p ">
+                               A description
+of the supplies or services to be subcontracted.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3622e157" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-										                     Identification of the type of subcontract to be used.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3622e166" class="- topic/p ">
+                               Identification
+of the type of subcontract to be used.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3622e166" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-										                     Identification of the proposed subcontractor.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3622e175" class="- topic/p ">
+                               Identification
+of the proposed subcontractor.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3622e175" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              
-										                     The proposed subcontract price.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3622e184" class="- topic/p ">
+                               The proposed
+subcontract price.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3622e184" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                              
-                              
-										                     The subcontractor’s current, complete, and accurate certified cost or pricing data and Certificate of Current Cost or Pricing Data, if required by other contract provisions.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3622e194" class="- topic/p ">
+                               The subcontractor’s
+current, complete, and accurate certified cost or pricing data and
+Certificate of Current Cost or Pricing Data, if required by other
+contract provisions.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3622e194" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(vi)</ph>
-                              
-                              
-										                     The subcontractor’s Disclosure Statement or Certificate relating to Cost Accounting Standards when such data are required by other provisions of this contract.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3622e203" class="- topic/p ">
+                               The subcontractor’s
+Disclosure Statement or Certificate relating to Cost Accounting
+Standards when such data are required by other provisions of this
+contract.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3622e203" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(vii)</ph>
-                              
-                              
-										                    A negotiation memorandum reflecting-</p>
-									                  <ol id="d3593e215" class="- topic/ol ">
-										                    <li class="- topic/li ">
-											                      <p id="d3622e213" class="- topic/p ">
+                               A negotiation
+memorandum reflecting-</p>
+                           <ol id="d3593e215" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d3622e213" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-												                         The principal elements of the subcontract price negotiations;</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3622e222" class="- topic/p ">
+                                     The principal elements of the
+subcontract price negotiations;</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3622e222" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-												                         The most significant considerations controlling establishment of initial or revised prices;</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3622e231" class="- topic/p ">
+                                     The most
+significant considerations controlling establishment of initial
+or revised prices;</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3622e231" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                    
-                                    
-												                         The reason certified cost or pricing data were or were not required;</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3622e240" class="- topic/p ">
+                                     The reason
+certified cost or pricing data were or were not required;</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3622e240" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(D)</ph>
-                                    
-                                    
-												                         The extent, if any, to which the Contractor did not rely on the subcontractor’s certified cost or pricing data in determining the price objective and in negotiating the final price;</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3622e249" class="- topic/p ">
+                                     The extent,
+if any, to which the Contractor did not rely on the subcontractor’s
+certified cost or pricing data in determining the price objective
+and in negotiating the final price;</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3622e249" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(E)</ph>
-                                    
-                                    
-												                         The extent to which it was recognized in the negotiation that the subcontractor’s certified cost or pricing data were not accurate, complete, or current; the action taken by the Contractor and the subcontractor; and the effect of any such defective data on the total price negotiated;</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3622e259" class="- topic/p ">
+                                     The extent
+to which it was recognized in the negotiation that the subcontractor’s
+certified cost or pricing data were not accurate, complete, or current;
+the action taken by the Contractor and the subcontractor; and the effect
+of any such defective data on the total price negotiated;</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3622e259" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(F)</ph>
-                                    
-                                    
-												                         The reasons for any significant difference between the Contractor’s price objective and the price negotiated; and</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3622e268" class="- topic/p ">
+                                     The reasons
+for any significant difference between the Contractor’s price objective
+and the price negotiated; and</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3622e268" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(G)</ph>
-                                    
-                                    
-												                        A complete explanation of the incentive fee or profit plan when incentives are used. The explanation shall identify each critical performance element, management decisions used to quantify each incentive element, reasons for the incentives, and a summary of all trade-off possibilities considered.</p>
-										                    </li>
-									                  </ol>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3622e281" class="- topic/p ">
+                                     A complete
+explanation of the incentive fee or profit plan when incentives
+are used. The explanation shall identify each critical performance
+element, management decisions used to quantify each incentive element,
+reasons for the incentives, and a summary of all trade-off possibilities
+considered.</p>
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3622e281" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-								                 The Contractor is not required to notify the Contracting Officer in advance of entering into any subcontract for which consent is not required under paragraph (b), (c), or (d) of this clause.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3622e293" class="- topic/p ">
+                         The Contractor
+is not required to notify the Contracting Officer in advance of
+entering into any subcontract for which consent is not required
+under paragraph (b), (c), or (d) of this clause.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3622e293" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  
-                  
-						             Unless the consent or approval specifically provides otherwise, neither consent by the Contracting Officer to any subcontract nor approval of the Contractor’s purchasing system shall constitute a determination-</p>
-					          <ol id="d3593e317" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3622e303" class="- topic/p ">
+                   Unless
+the consent or approval specifically provides otherwise, neither
+consent by the Contracting Officer to any subcontract nor approval
+of the Contractor’s purchasing system shall constitute a determination-</p>
+               <ol id="d3593e317" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3622e303" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-								                Of the acceptability of any subcontract terms or conditions;</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3622e312" class="- topic/p ">
+                         Of
+the acceptability of any subcontract terms or conditions;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3622e312" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-								                Of the allowability of any cost under this contract; or</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3622e321" class="- topic/p ">
+                         Of the
+allowability of any cost under this contract; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3622e321" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-								                To relieve the Contractor of any responsibility for performing this contract.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3622e332" class="- topic/p ">
+                         To relieve
+the Contractor of any responsibility for performing this contract.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3622e332" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph>
-                  
-                  
-						            No subcontract or modification thereof placed under this contract shall provide for payment on a cost-plus-a-percentage-of-cost basis, and any fee payable under cost-reimbursement type subcontracts shall not exceed the fee limitations in FAR <xref href="FAR-i1106321.dita#i1106321"
+                   No subcontract
+or modification thereof placed under this contract shall provide
+for payment on a cost-plus-a-percentage-of-cost basis, and any fee
+payable under cost-reimbursement type subcontracts shall not exceed
+the fee limitations in FAR <xref outputclass="fm:ParaNumOnly"
+                        href="FAR-i1106321.dita#i1106321"
                         base="i1106321"
-                        outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">15.404-4</xref>(c)(4)(i).</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3622e344" class="- topic/p ">
+            </li>
+            <li class="- topic/li ">
+               <p id="d3622e344" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(h)</ph>
-                  
-                  
-						             The Contractor shall give the Contracting Officer immediate written notice of any action or suit filed and prompt notice of any claim made against the Contractor by any subcontractor or vendor that, in the opinion of the Contractor, may result in litigation related in any way to this contract, with respect to which the Contractor may be entitled to reimbursement from the Government.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3622e353" class="- topic/p ">
+                   The Contractor
+shall give the Contracting Officer immediate written notice of any
+action or suit filed and prompt notice of any claim made against
+the Contractor by any subcontractor or vendor that, in the opinion
+of the Contractor, may result in litigation related in any way to
+this contract, with respect to which the Contractor may be entitled
+to reimbursement from the Government.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3622e353" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                  
-                  
-						             The Government reserves the right to review the Contractor’s purchasing system as set forth in FAR <xref href="FAR-i1073426.dita#i1073426"
+                   The Government
+reserves the right to review the Contractor’s purchasing system
+as set forth in FAR <xref outputclass="fm:Subpart"
+                        href="FAR-i1073426.dita#i1073426"
                         base="i1073426"
-                        outputclass="fm:Subpart"
                         class="- topic/xref ">subpart  44.3</xref>.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3622e365" class="- topic/p ">
+            </li>
+            <li class="- topic/li ">
+               <p id="d3622e365" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(j)</ph>
-                  
-                  
-						             Paragraphs (c) and (e) of this clause do not apply to the following subcontracts, which were evaluated during negotiations:</p>
-					          <p id="d3622e371" class="- topic/p ">________________________________________________ ________________________________________________ ________________________________________________</p>
-				        </li>
-			      </ol>
-			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-			      <section outputclass="Alternate" class="- topic/section ">
-				<?FM MARKER [Alt] Start?>
-				        <p id="d3622e383" class="- topic/p ">
-					          <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">June</i>
-					          </i>2007<i class="+ topic/ph hi-d/i ">)</i>. As prescribed in <ph class="- topic/ph ">
-						            <xref href="FAR-i1073622.dita#i1073622"
+                   Paragraphs
+(c) and (e) of this clause do not apply to the following subcontracts,
+which were evaluated during negotiations:</p>
+               <p id="d3622e371" class="- topic/p ">________________________________________________
+________________________________________________ ________________________________________________</p>
+            </li>
+         </ol>
+         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?> 
+            <p id="d3622e383" class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Alternate
+I (<i class="+ topic/ph hi-d/i ">June</i>
+               </i>2007<i class="+ topic/ph hi-d/i ">)</i>. As prescribed in <ph class="- topic/ph ">
+                  <xref outputclass="fm:ParaNumOnly"
+                        href="FAR-i1073622.dita#i1073622"
                         base="i1073622"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">44.204</xref>(a)(2)</ph>, substitute the following paragraph (e)(2) for paragraph (e)(2) of the basic clause:</p>
-				        <p class="- topic/p " outputclass="List1">(e)(2) If the Contractor has an approved purchasing system and consent is not required under paragraph (c), or (d) of this clause, the Contractor nevertheless shall notify the Contracting Officer reasonably in advance of entering into any (i) cost-plus-fixed-fee subcontract, or (ii) fixed-price subcontract that exceeds either the simplified acquisition threshold or 5 percent of the total estimated cost of this contract. The notification shall include the information required by paragraphs (e)(1)(i) through (e)(1)(iv) of this clause.</p>
-				        <?FM MARKER [Alt] End?>
-				        
-			      </section>
-		    </conbody>
-	  </concept>
+                        class="- topic/xref ">44.204</xref>(a)(2)</ph>,
+substitute the following paragraph (e)(2) for paragraph (e)(2) of
+the basic clause:</p>
+            <p outputclass="List1" class="- topic/p ">(e)(2) If the Contractor
+has an approved purchasing system and consent is not required under
+paragraph (c), or (d) of this clause, the Contractor nevertheless
+shall notify the Contracting Officer reasonably in advance of entering
+into any (i) cost-plus-fixed-fee subcontract, or (ii) fixed-price
+subcontract that exceeds either the simplified acquisition threshold
+or 5 percent of the total estimated cost of this contract. The notification
+shall include the information required by paragraphs (e)(1)(i) through (e)(1)(iv)
+of this clause.</p> 
+            <?FM MARKER [Alt] End?>
+         </section>
+      </conbody>
+   </concept>
 </dita>

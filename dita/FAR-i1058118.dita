@@ -2,24 +2,27 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="i1058118"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="i1058118"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">52.216-1</ph> Type of Contract.</title>
-		    <conbody outputclass="provision" class="- topic/body concept/conbody ">
-			      <p id="d3223e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
-					          <xref href="FAR-i1105212.dita#i1105212"
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">52.216-1</ph> Type of Contract.</title>
+      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
+         <p id="d3223e13" class="- topic/p ">As prescribed
+in <ph class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     href="FAR-i1105212.dita#i1105212"
                      base="i1105212"
-                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">16.105</xref>
-				        </ph>, complete and insert the following provision:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Type of Contract (Apr 1984)</p>
-			      <p class="- topic/p ">The Government contemplates award of a _________ [<i class="+ topic/ph hi-d/i ">Contracting Officer insert specific type of contract</i>] contract resulting from this solicitation.</p>
-			      <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
-			      
-		    </conbody>
-	  </concept>
+            </ph>,
+complete and insert the following provision:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Type of Contract (Apr 1984)</p>
+         <p class="- topic/p ">The Government contemplates award of a <cite outputclass="SingleLine" xtrc="52.216-1_d3217e26">_________ [<i class="+ topic/ph hi-d/i ">Contracting Officer
+insert specific type of contract</i>]</cite> contract resulting from
+this solicitation.</p>
+         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
+      </conbody>
+   </concept>
 </dita>
