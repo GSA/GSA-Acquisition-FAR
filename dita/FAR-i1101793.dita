@@ -2,28 +2,44 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="i1101793"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1101793"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">19.001</ph> Definitions.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p ">As used in this part-</p>
-			      <p id="d1146e16" class="- topic/p ">
-            <i outputclass="Definition">Concern</i> means any business entity organized for profit (even if its ownership is in the hands of a nonprofit entity) with a place of business located in the United States or its outlying areas and that makes a significant contribution to the U.S. economy through payment of taxes and/or use of American products, material and/or labor, etc. “Concern” includes but is not limited to an individual, partnership, corporation, joint venture, association, or cooperative. <ph class="- topic/ph ">For more information, see 13 CFR 121.105.</ph>
-			      </p>
-			      <p class="- topic/p ">
-            <i outputclass="Definition">Fair market price</i> means a price based on reasonable costs under normal competitive conditions and not on lowest possible cost (see <xref href="FAR-i1101663.dita#i1101663"
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">19.001</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this part-</p>
+         <p id="d1146e16" class="- topic/p ">
+            <i outputclass="Definition" class="+ topic/ph hi-d/i ">Concern</i> means
+any business entity organized for profit (even if its ownership
+is in the hands of a nonprofit entity) with a place of business
+located in the United States or its outlying areas and that makes
+a significant contribution to the U.S. economy through payment of
+taxes and/or use of American products, material and/or labor, etc.
+“Concern” includes but is not limited to an individual, partnership,
+corporation, joint venture, association, or cooperative. <ph class="- topic/ph ">For
+more information, see 13 CFR 121.105.</ph>
+         </p>
+         <p class="- topic/p ">
+            <i outputclass="Definition" class="+ topic/ph hi-d/i ">Fair market price</i> means a price
+based on reasonable costs under normal competitive conditions and
+not on lowest possible cost (see <xref href="FAR-i1101663.dita#i1101663"
                   base="i1101663"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">19.202-6</xref>).</p>
-			      <p class="- topic/p ">
-            <i outputclass="Definition">Industry</i> means all concerns primarily engaged in similar lines of activity, as listed and described in the North American Industry Classification System (NAICS) manual.</p>
-			      <p class="- topic/p ">
-            <i outputclass="Definition">Nonmanufacturer rule</i> means that a contractor under a small business set-aside or 8(a) contract shall be a small business under the applicable size standard and shall provide either its own product or that of another domestic small business manufacturing or processing concern (see 13 CFR121.406).</p>
-			      
-		    </conbody>
-	  </concept>
+         <p class="- topic/p ">
+            <i outputclass="Definition" class="+ topic/ph hi-d/i ">Industry</i> means all concerns
+primarily engaged in similar lines of activity, as listed and described
+in the North American Industry Classification System (NAICS) manual.</p>
+         <p rev="FAC 2020-05 March 30, 2020" class="- topic/p ">
+            <i outputclass="Definition" class="+ topic/ph hi-d/i ">Nonmanufacturer</i> 
+            <?FM MARKER [CaseNumber] FAR Case 2014-002?>means
+a concern that furnishes a product it did not manufacture or produce
+(see <xref href="https://www.govinfo.gov/content/pkg/CFR-2019-title13-vol1/xml/CFR-2019-title13-vol1-sec121-406.xml"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">13 CFR 121.406</xref>).</p>
+      </conbody>
+   </concept>
 </dita>
