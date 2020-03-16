@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?Fm Condition DITA-Topicref Blue NO_OVERRIDE show AsIs?>
+<?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_DELETED Red STRIKETHROUGH show AsIs?>
+<?Fm BoolCondExpr "DITA-Topicref" State 0?>
+<?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll True?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
 <map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
@@ -7594,10 +7601,39 @@
                             base="concept"
                             class="- map/topicref "/>
                </topicref>
-               <topicref navtitle="19.508 Solicitation provisions and contract clauses."
+               <topicref navtitle="19.503 Reserves."
+                         href="FAR-19.503.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="19.503"
+                         otherprops="String2Xref"
+                         class="- map/topicref "/>
+               <topicref navtitle="19.504 Orders under multiple-award contracts."
+                         href="FAR-19.504.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="19.504"
+                         otherprops="String2Xref"
+                         class="- map/topicref "/>
+               <topicref navtitle="19.505 Limitations on subcontracting and nonmanufacturer rule."
+                         href="FAR-19.505.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="19.505"
+                         otherprops="String2Xref"
+                         class="- map/topicref "/>
+               <topicref navtitle="19.506 Documentation requirements."
+                         href="FAR-19.506.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="19.506"
+                         otherprops="String2Xref"
+                         class="- map/topicref "/>
+               <topicref navtitle="19.507 Solicitation provisions and contract clauses."
                          href="FAR-i1100931.dita"
                          outputclass="subtopic"
-                         props="19.508"
+                         props="19.507"
+                         otherprops="String2Xref"
                          base="concept"
                          class="- map/topicref "/>
             </topicref>
@@ -7793,6 +7829,7 @@
                             href="FAR-i1099900.dita"
                             outputclass="subtopic"
                             props="19.804-2"
+                            otherprops="String2Xref"
                             base="concept"
                             class="- map/topicref "/>
                   <topicref navtitle="19.804-3 SBA acceptance."
@@ -7817,6 +7854,7 @@
                             href="FAR-id1617MD0100P.dita"
                             outputclass="subtopic"
                             props="19.804-6"
+                            otherprops="String2Xref"
                             base="concept"
                             class="- map/topicref "/>
                </topicref>
@@ -7875,7 +7913,21 @@
                          outputclass="subtopic"
                          props="19.809"
                          base="concept"
-                         class="- map/topicref "/>
+                         class="- map/topicref ">
+                  <topicref navtitle="19.809-1 Preaward survey."
+                            href="FAR-19.809-1.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="19.809-1"
+                            class="- map/topicref "/>
+                  <topicref navtitle="19.809-2 Limitations on subcontracting and nonmanufacturer rule."
+                            href="FAR-19.809-2.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="19.809-2"
+                            otherprops="String2Xref"
+                            class="- map/topicref "/>
+               </topicref>
                <topicref navtitle="19.810 SBA appeals."
                          href="FAR-i1100026.dita"
                          outputclass="subtopic"
@@ -7904,6 +7956,7 @@
                             href="FAR-i1100084.dita"
                             outputclass="subtopic"
                             props="19.811-3"
+                            otherprops="String2Xref"
                             base="concept"
                             class="- map/topicref "/>
                </topicref>

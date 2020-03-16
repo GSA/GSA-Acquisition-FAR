@@ -2,43 +2,107 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="id1617MD0100P"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="id1617MD0100P"
+            rev="FAC 2020-05 March 30, 2020"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">19.804-6</ph> Indefinite delivery contracts.</title>
-		    <conbody class="- topic/body concept/conbody ">
-			      <ol id="d1205e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d1226e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-						             Separate offers and acceptances are not required for individual orders under multiple-award contracts (including the Federal Supply Schedules managed by GSA, multi-agency contracts or Governmentwide acquisition contracts, or indefinite-delivery, indefinite-quantity (IDIQ) contracts) that have been set aside for exclusive competition among 8(a) contractors. SBA’s acceptance of the original contract is valid for the term of the contract. Offers and acceptances are required for individual orders under multiple-award contracts that have not been set aside for exclusive competition among 8(a) contractors.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d1226e26" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-						            An 8(a) contractor may continue to accept new orders under the contract, even if it exits the 8(a) program, or becomes other than small for the NAICS code assigned to the contract.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d1226e35" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-						             Agencies may continue to take credit toward their prime contracting small disadvantaged business or small business goals for orders awarded to 8(a) participants, even after the contractor's 8(a) program term expires, the contractor otherwise exits the 8(a) program, or the contractor becomes other than small for the NAICS code assigned under the 8(a) contract. However, if an 8(a) contractor rerepresents that it is other than small for the NAICS code assigned under the contract in accordance with <xref href="FAR-i19_301-2.dita#i19_301-2"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">19.301-2</xref> or, where ownership or control of the 8(a) contractor has changed and SBA has granted a waiver to allow the contractor to continue performance (see 13 CFR 124.515), the agency may not credit any subsequent orders awarded to the contractor towards its small disadvantaged business or small business goals.</p>
-				        </li>
-			      </ol>
-			      
-		    </conbody>
-	  </concept>
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">19.804-6</ph> 
+         <?FM MARKER [CaseNumber] FAR Case 2014-002?>Indefinite delivery
+contracts.<?FM MARKER [Why] Revise section 19.804-6.?></title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="id203EB0VD05Z" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Separate
+offers and acceptances are not required for individual orders under
+multiple-award contracts (including the Federal Supply Schedules
+managed by GSA, multi-agency contracts or Governmentwide acquisition
+contracts, or indefinite-delivery, indefinite-quantity (IDIQ) contracts)
+that have been set aside for exclusive competition among 8(a) contractors, and
+the individual order is to be competed among all 8(a) contract holders.
+SBA's acceptance of the original contract is valid for the term
+of the contract. Offers and acceptances are required for individual
+orders under multiple-award contracts that have not been set aside
+for exclusive competition among 8(a) contractors.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="id203EB0VJ0Y4" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The
+contracting officer may issue an order on a sole source basis when—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="id203EB0WN0HT" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The
+multiple-award contract was set aside for exclusive competition
+among 8(a) participants;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="id203EB0WN0PF" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The
+order has an estimated value less than or equal to the dollar thresholds
+set forth at 19.805-1(a)(2); and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="id203EB0X00PN" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The
+offering and acceptance procedures at 19.804-2 and 19.804-3 are
+followed.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="id203EB0VK0HS" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>The
+contracting officer may issue an order directly to one 8(a) contractor
+in accordance with 19.504(c)(1)(ii) when—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="id203EB0X0I7Q" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The multiple-award
+contract was reserved for 8(a) participants;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="id203EB0X0I30" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The
+order has an estimated value less than or equal to $7 million for
+acquisitions assigned manufacturing NAICS codes and $4 million for
+all other acquisitions; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="id203EB0X0JRO" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The
+offering and acceptance procedures at 19.804-2 and 19.804-3 are
+followed.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="id203EB0W00UI" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>An
+8(a) contractor may continue to accept new orders under the contract,
+even if it exits the 8(a) program, or becomes other than small for
+the NAICS code(s) assigned to the contract.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="id203EB0W01YK" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>Agencies
+may continue to take credit toward their prime contracting small
+disadvantaged business or small business goals for orders awarded
+to 8(a) contractors, even after the contractor's 8(a) program term
+expires, the contractor otherwise exits the 8(a) program, or the
+contractor becomes other than small for the NAICS code(s) assigned
+under the 8(a) contract. However, if an 8(a) contractor rerepresents
+that it is other than small for the NAICS code(s) assigned under
+the contract in accordance with 19.301-2 or, where ownership or
+control of the 8(a) contractor has changed and SBA has granted a
+waiver to allow the contractor to continue performance (see 13 CFR
+124.515), the agency may not credit any subsequent orders awarded
+to the contractor towards its small disadvantaged business or small
+business goals.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>
