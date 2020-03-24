@@ -3,13 +3,14 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <concept id="i1100020"
+	  <concept id="i1100020"
+            rev="FAC 2020-05 March 30, 2020"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title rev="FAC 2020-05 March 30, 2020" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">19.809</ph> 
-         <?FM MARKER [CaseNumber] FAR Case 2014-002?>Preaward
-considerations.<?FM MARKER [Why] Revise section 19.809.?></title>
-      <conbody class="- topic/body  concept/conbody "/>
-   </concept>
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">19.809</ph> 
+			      <?FM MARKER [CaseNumber] FAR Case 2014-002?> Preaward considerations.<?FM MARKER [Why] Revise section 19.809.?>
+		</title>
+		    <conbody class="- topic/body  concept/conbody "/>
+	  </concept>
 </dita>
