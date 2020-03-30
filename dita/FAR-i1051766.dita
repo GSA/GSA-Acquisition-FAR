@@ -4,61 +4,49 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="i1051766"
-            ditaarch:DITAArchVersion="1.3"
+   <concept id="i1051766"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">52.230-6</ph> Administration of Cost Accounting Standards.</title>
-		    <conbody outputclass="clause" class="- topic/body concept/conbody ">
-			      <p id="d3481e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
-					          <xref href="FAR-i1087135.dita#i1087135"
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">52.230-6</ph> Administration of Cost Accounting Standards.</title>
+      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+         <p id="d3481e13" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+               <xref href="FAR-i1087135.dita#i1087135"
                      base="i1087135"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">30.201-4</xref>(d)(1)</ph>, insert the following clause:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p ">Administration of Cost Accounting Standards (June 2010)</p>
-			      <p class="- topic/p ">For the purpose of administering the Cost Accounting Standards (CAS) requirements under this contract, the Contractor shall take the steps outlined in paragraphs (b) through (i) and (k) through (n) of this clause:</p>
-			      <ol id="d3451e28" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d3481e32" class="- topic/p ">
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Administration of Cost Accounting Standards (June 2010)</p>
+         <p class="- topic/p ">For the purpose of administering the Cost Accounting Standards (CAS) requirements under this contract, the Contractor shall take the steps outlined in paragraphs (b) through (i) and (k) through (n) of this clause:</p>
+         <ol id="d3451e28" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d3481e32" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-						             Definitions. As used in this clause-</p>
-					          <p id="d3481e38" class="- topic/p ">
-                  <i outputclass="Definition">Affected CAS-covered contract or subcontract</i> means a contract or subcontract subject to CAS rules and regulations for which a Contractor or subcontractor-</p>
-					          <ol id="d3451e47" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e45" class="- topic/p ">
+                  Definitions. As used in this clause-</p>
+               <p id="d3481e38" class="- topic/p ">
+                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e40">Affected CAS-covered contract or subcontract</i> means a contract or subcontract subject to CAS rules and regulations for which a Contractor or subcontractor-</p>
+               <ol id="d3451e47" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e45" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Used one cost accounting practice to estimate costs and a changed cost accounting practice to accumulate and report costs under the contract or subcontract; or</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e54" class="- topic/p ">
+                        Used one cost accounting practice to estimate costs and a changed cost accounting practice to accumulate and report costs under the contract or subcontract; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e54" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Used a noncompliant practice for purposes of estimating or accumulating and reporting costs under the contract or subcontract.</p>
-						            </li>
-					          </ol>
-					          <p id="d3481e62" class="- topic/p ">
-                  <i outputclass="Definition">Cognizant Federal agency official (CFAO)</i> means the Contracting Officer assigned by the cognizant Federal agency to administer the CAS.</p>
-					          <p id="d3481e65" class="- topic/p ">
-                  <i outputclass="Definition">Desirable change</i> means a compliant change to a Contractor’s established or disclosed cost accounting practices that the CFAO finds is desirable and not detrimental to the Government and is, therefore, not subject to the no increased cost prohibition provisions of CAS-covered contracts and subcontracts affected by the change.</p>
-					          <p id="d3481e69" class="- topic/p ">
-                  <i outputclass="Definition">Fixed-price contracts and subcontracts</i> means-</p>
-					          <ol id="d3451e77" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e76" class="- topic/p ">
+                        Used a noncompliant practice for purposes of estimating or accumulating and reporting costs under the contract or subcontract.</p>
+                  </li>
+               </ol>
+               <p id="d3481e62" class="- topic/p ">
+                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e67">Cognizant Federal agency official (CFAO)</i> means the Contracting Officer assigned by the cognizant Federal agency to administer the CAS.</p>
+               <p id="d3481e65" class="- topic/p ">
+                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e73">Desirable change</i> means a compliant change to a Contractor’s established or disclosed cost accounting practices that the CFAO finds is desirable and not detrimental to the Government and is, therefore, not subject to the no increased cost prohibition provisions of CAS-covered contracts and subcontracts affected by the change.</p>
+               <p id="d3481e69" class="- topic/p ">
+                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e80">Fixed-price contracts and subcontracts</i> means-</p>
+               <ol id="d3451e77" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e76" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Fixed-price contracts and subcontracts described at FAR <xref href="FAR-i1104846.dita#i1104846"
+                        Fixed-price contracts and subcontracts described at FAR <xref href="FAR-i1104846.dita#i1104846"
                               base="i1104846"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">16.202</xref>, <xref href="FAR-i1104876.dita#i1104876"
@@ -71,51 +59,39 @@
                               base="i1105063"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">16.207</xref>;</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e97" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e97" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Fixed-price incentive contracts and subcontracts where the price is not adjusted based on actual costs incurred (FAR <xref href="FAR-i1104343.dita#i1104343"
+                        Fixed-price incentive contracts and subcontracts where the price is not adjusted based on actual costs incurred (FAR <xref href="FAR-i1104343.dita#i1104343"
                               base="i1104343"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  16.4</xref>);</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e109" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e109" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 Orders issued under indefinite-delivery contracts and subcontracts where final payment is not based on actual costs incurred (FAR <xref href="FAR-i1103875.dita#i1103875"
+                        Orders issued under indefinite-delivery contracts and subcontracts where final payment is not based on actual costs incurred (FAR <xref href="FAR-i1103875.dita#i1103875"
                               base="i1103875"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  16.5</xref>); and</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e121" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e121" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                 The fixed-hourly rate portion of time-and-materials and labor-hours contracts and subcontracts (FAR <xref href="FAR-i1103670.dita#i1103670"
+                        The fixed-hourly rate portion of time-and-materials and labor-hours contracts and subcontracts (FAR <xref href="FAR-i1103670.dita#i1103670"
                               base="i1103670"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  16.6</xref>).</p>
-						            </li>
-					          </ol>
-					          <p id="d3481e132" class="- topic/p ">
-                  <i outputclass="Definition">Flexibly-priced contracts and subcontracts</i> means-</p>
-					          <ol id="d3451e203" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e139" class="- topic/p ">
+                  </li>
+               </ol>
+               <p id="d3481e132" class="- topic/p ">
+                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e146">Flexibly-priced contracts and subcontracts</i> means-</p>
+               <ol id="d3451e203" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e139" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Fixed-price contracts and subcontracts described at FAR <xref href="FAR-i1104878.dita#i1104878"
+                        Fixed-price contracts and subcontracts described at FAR <xref href="FAR-i1104878.dita#i1104878"
                               base="i1104878"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">16.203-1</xref>(a)(2), <xref href="FAR-i1104985.dita#i1104985"
@@ -128,102 +104,75 @@
                               base="i1105032"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">16.206</xref>;</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e160" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e160" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Cost-reimbursement contracts and subcontracts (FAR <xref href="FAR-i1104629.dita#i1104629"
+                        Cost-reimbursement contracts and subcontracts (FAR <xref href="FAR-i1104629.dita#i1104629"
                               base="i1104629"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  16.3</xref>);</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e172" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e172" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 Incentive contracts and subcontracts where the price may be adjusted based on actual costs incurred (FAR <xref href="FAR-i1104343.dita#i1104343"
+                        Incentive contracts and subcontracts where the price may be adjusted based on actual costs incurred (FAR <xref href="FAR-i1104343.dita#i1104343"
                               base="i1104343"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  16.4</xref>);</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e184" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e184" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                 Orders issued under indefinite-delivery contracts and subcontracts where final payment is based on actual costs incurred (FAR <xref href="FAR-i1103875.dita#i1103875"
+                        Orders issued under indefinite-delivery contracts and subcontracts where final payment is based on actual costs incurred (FAR <xref href="FAR-i1103875.dita#i1103875"
                               base="i1103875"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  16.5</xref>); and</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e196" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e196" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-								                 The materials portion of time-and-materials contracts and subcontracts (FAR <xref href="FAR-i1103670.dita#i1103670"
+                        The materials portion of time-and-materials contracts and subcontracts (FAR <xref href="FAR-i1103670.dita#i1103670"
                               base="i1103670"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  16.6</xref>).</p>
-						            </li>
-					          </ol>
-					          <p id="d3481e207" class="- topic/p ">
-                  <i outputclass="Definition">Noncompliance</i> means a failure in estimating, accumulating, or reporting costs to-</p>
-					          <ol id="d3451e278" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e214" class="- topic/p ">
+                  </li>
+               </ol>
+               <p id="d3481e207" class="- topic/p ">
+                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e224">Noncompliance</i> means a failure in estimating, accumulating, or reporting costs to-</p>
+               <ol id="d3451e278" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e214" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Comply with applicable CAS; or</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e223" class="- topic/p ">
+                        Comply with applicable CAS; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e223" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Consistently follow disclosed or established cost accounting practices.</p>
-						            </li>
-					          </ol>
-					          <p id="d3481e232" class="- topic/p ">
-                  <i outputclass="Definition">Required change</i> means-</p>
-					          <ol id="d3451e303" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e239" class="- topic/p ">
+                        Consistently follow disclosed or established cost accounting practices.</p>
+                  </li>
+               </ol>
+               <p id="d3481e232" class="- topic/p ">
+                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e252">Required change</i> means-</p>
+               <ol id="d3451e303" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e239" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                A change in cost accounting practice that a Contractor is required to make in order to comply with applicable Standards, modifications or interpretations thereto, that subsequently become applicable to existing CAS-covered contracts or subcontracts due to the receipt of another CAS-covered contract or subcontract; or</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e248" class="- topic/p ">
+                        A change in cost accounting practice that a Contractor is required to make in order to comply with applicable Standards, modifications or interpretations thereto, that subsequently become applicable to existing CAS-covered contracts or subcontracts due to the receipt of another CAS-covered contract or subcontract; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e248" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                A prospective change to a disclosed or established cost accounting practice when the CFAO determines that the former practice was in compliance with applicable CAS and the change is necessary for the Contractor to remain in compliance.</p>
-						            </li>
-					          </ol>
-					          <p id="d3481e256" class="- topic/p ">
-                  <i outputclass="Definition">Unilateral change</i> means a change in cost accounting practice from one compliant practice to another compliant practice that a Contractor with a CAS-covered contract(s) or subcontract(s) elects to make that has not been deemed a desirable change by the CFAO and for which the Government will pay no aggregate increased costs.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e262" class="- topic/p ">
+                        A prospective change to a disclosed or established cost accounting practice when the CFAO determines that the former practice was in compliance with applicable CAS and the change is necessary for the Contractor to remain in compliance.</p>
+                  </li>
+               </ol>
+               <p id="d3481e256" class="- topic/p ">
+                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e279">Unilateral change</i> means a change in cost accounting practice from one compliant practice to another compliant practice that a Contractor with a CAS-covered contract(s) or subcontract(s) elects to make that has not been deemed a desirable change by the CFAO and for which the Government will pay no aggregate increased costs.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e262" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-						             Submit to the CFAO a description of any cost accounting practice change as outlined in paragraphs (b)(1) through (3) of this clause (including revisions to the Disclosure Statement, if applicable), and any written statement that the cost impact of the change is immaterial. If a change in cost accounting practice is implemented without submitting the notice required by this paragraph, the CFAO may determine the change to be a failure to follow paragraph (a)(2) of the clause at FAR <xref href="FAR-i1051661.dita#i1051661"
+                  Submit to the CFAO a description of any cost accounting practice change as outlined in paragraphs (b)(1) through (3) of this clause (including revisions to the Disclosure Statement, if applicable), and any written statement that the cost impact of the change is immaterial. If a change in cost accounting practice is implemented without submitting the notice required by this paragraph, the CFAO may determine the change to be a failure to follow paragraph (a)(2) of the clause at FAR <xref href="FAR-i1051661.dita#i1051661"
                         base="i1051661"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.230-2</xref>, Cost Accounting Standards; paragraph (a)(4) of the clause at FAR <xref href="FAR-i1051688.dita#i1051688"
@@ -236,36 +185,27 @@
                         base="i1051741"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.230-5</xref>, Cost Accounting Standards–Educational Institution.</p>
-					          <ol id="d3451e352" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e284" class="- topic/p ">
+               <ol id="d3451e352" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e284" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 When a description has been submitted for a change in cost accounting practice that is dependent on a contact award and that contract is subsequently awarded, notify the CFAO within 15 days after such award.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e293" class="- topic/p ">
+                        When a description has been submitted for a change in cost accounting practice that is dependent on a contact award and that contract is subsequently awarded, notify the CFAO within 15 days after such award.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e293" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 For any change in cost accounting practice not covered by (b)(1) of this clause that is required in accordance with paragraphs (a)(3) and (a)(4)(i) of the clause at FAR <xref href="FAR-i1051661.dita#i1051661"
+                        For any change in cost accounting practice not covered by (b)(1) of this clause that is required in accordance with paragraphs (a)(3) and (a)(4)(i) of the clause at FAR <xref href="FAR-i1051661.dita#i1051661"
                               base="i1051661"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.230-2</xref>; or paragraphs (a)(3), (a)(4)(i), or (a)(4)(iv) of the clause at FAR <xref href="FAR-i1051741.dita#i1051741"
                               base="i1051741"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.230-5</xref>; submit a description of the change to the CFAO not less than 60 days (or such other date as may be mutually agreed to by the CFAO and the Contractor) before implementation of the change.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e308" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e308" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 For any change in cost accounting practices proposed in accordance with paragraph (a)(4)(ii) or (iii) of the clauses at FAR <xref href="FAR-i1051661.dita#i1051661"
+                        For any change in cost accounting practices proposed in accordance with paragraph (a)(4)(ii) or (iii) of the clauses at FAR <xref href="FAR-i1051661.dita#i1051661"
                               base="i1051661"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.230-2</xref> and FAR <xref href="FAR-i1051741.dita#i1051741"
@@ -278,14 +218,11 @@
                               base="i1051716"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.230-4</xref>, submit a description of the change not less than 60 days (or such other date as may be mutually agreed to by the CFAO and the Contractor) before implementation of the change. If the change includes a proposed retroactive date submit supporting rationale.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e329" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e329" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                 Submit a description of the change necessary to correct a failure to comply with an applicable CAS or to follow a disclosed practice (as contemplated by paragraph (a)(5) of the clause at FAR <xref href="FAR-i1051661.dita#i1051661"
+                        Submit a description of the change necessary to correct a failure to comply with an applicable CAS or to follow a disclosed practice (as contemplated by paragraph (a)(5) of the clause at FAR <xref href="FAR-i1051661.dita#i1051661"
                               base="i1051661"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.230-2</xref> and FAR <xref href="FAR-i1051741.dita#i1051741"
@@ -298,735 +235,486 @@
                               base="i1051716"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.230-4</xref>)-</p>
-							              <ol id="d3451e419" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e351" class="- topic/p ">
+                     <ol id="d3451e419" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e351" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     Within 60 days (or such other date as may be mutually agreed to by the CFAO and the Contractor) after the date of agreement with the CFAO that there is a noncompliance; or</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e360" class="- topic/p ">
+                              Within 60 days (or such other date as may be mutually agreed to by the CFAO and the Contractor) after the date of agreement with the CFAO that there is a noncompliance; or</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e360" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                    In the event of Contractor disagreement, within 60 days after the CFAO notifies the Contractor of the determination of noncompliance.</p>
-								                </li>
-							              </ol>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e373" class="- topic/p ">
+                              In the event of Contractor disagreement, within 60 days after the CFAO notifies the Contractor of the determination of noncompliance.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e373" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-						             When requested by the CFAO, submit on or before a date specified by the CFAO-</p>
-					          <ol id="d3451e451" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e383" class="- topic/p ">
+                  When requested by the CFAO, submit on or before a date specified by the CFAO-</p>
+               <ol id="d3451e451" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e383" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                A general dollar magnitude (GDM) proposal in accordance with paragraph (d) or (g) of this clause. The Contractor may submit a detailed cost-impact (DCI) proposal in lieu of the requested GDM proposal provided the DCI proposal is in accordance with paragraph (e) or (h) of this clause;</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e392" class="- topic/p ">
+                        A general dollar magnitude (GDM) proposal in accordance with paragraph (d) or (g) of this clause. The Contractor may submit a detailed cost-impact (DCI) proposal in lieu of the requested GDM proposal provided the DCI proposal is in accordance with paragraph (e) or (h) of this clause;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e392" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                A detailed cost-impact (DCI) proposal in accordance with paragraph (e) or (h) of this clause;</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e401" class="- topic/p ">
+                        A detailed cost-impact (DCI) proposal in accordance with paragraph (e) or (h) of this clause;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e401" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 For any request for a desirable change that is based on the criteria in FAR <xref href="FAR-i1086672.dita#i1086672"
+                        For any request for a desirable change that is based on the criteria in FAR <xref href="FAR-i1086672.dita#i1086672"
                               base="i1086672"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">30.603-2</xref>(b)(3)(ii), the data necessary to demonstrate the required cost savings; and</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e413" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e413" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                 For any request for a desirable change that is based on criteria other than that in FAR <xref href="FAR-i1086672.dita#i1086672"
+                        For any request for a desirable change that is based on criteria other than that in FAR <xref href="FAR-i1086672.dita#i1086672"
                               base="i1086672"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">30.603-2</xref>(b)(3)(ii), a GDM proposal and any other data necessary for the CFAO to determine if the change is a desirable change.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e427" class="- topic/p ">
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e427" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-						             For any change in cost accounting practice subject to paragraph (b)(1), (b)(2), or (b)(3) of this clause, the GDM proposal shall-</p>
-					          <ol id="d3451e505" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e437" class="- topic/p ">
+                  For any change in cost accounting practice subject to paragraph (b)(1), (b)(2), or (b)(3) of this clause, the GDM proposal shall-</p>
+               <ol id="d3451e505" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e437" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                ) Calculate the cost impact in accordance with paragraph (f) of this clause;</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e446" class="- topic/p ">
+                        ) Calculate the cost impact in accordance with paragraph (f) of this clause;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e446" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Use one or more of the following methods to determine the increase or decrease in cost accumulations:</p>
-							              <ol id="d3451e524" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e456" class="- topic/p ">
+                        Use one or more of the following methods to determine the increase or decrease in cost accumulations:</p>
+                     <ol id="d3451e524" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e456" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                    A representative sample of affected CAS-covered contracts and subcontracts.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e465" class="- topic/p ">
+                              A representative sample of affected CAS-covered contracts and subcontracts.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e465" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     The change in indirect rates multiplied by the total estimated base computed for each of the following groups:</p>
-									                  <ol id="d3451e543" class="- topic/ol ">
-										                    <li class="- topic/li ">
-											                      <p id="d3481e475" class="- topic/p ">
+                              The change in indirect rates multiplied by the total estimated base computed for each of the following groups:</p>
+                           <ol id="d3451e543" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d3481e475" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-                                    
-												                         Fixed-price contracts and subcontracts.</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3481e484" class="- topic/p ">
+                                    Fixed-price contracts and subcontracts.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3481e484" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-                                    
-												                         Flexibly-priced contracts and subcontracts.</p>
-										                    </li>
-									                  </ol>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e495" class="- topic/p ">
+                                    Flexibly-priced contracts and subcontracts.</p>
+                              </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li "> 
+                           <p id="d3481e495" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-										                     Any other method that provides a reasonable approximation of the total increase or decrease in cost accumulations for all affected fixed-price and flexibly-priced contracts and subcontracts;</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e506" class="- topic/p ">
+                              Any other method that provides a reasonable approximation of the total increase or decrease in cost accumulations for all affected fixed-price and flexibly-priced contracts and subcontracts;</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e506" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 Use a format acceptable to the CFAO but, as a minimum, include the following data:</p>
-							              <ol id="d3451e584" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e516" class="- topic/p ">
+                        Use a format acceptable to the CFAO but, as a minimum, include the following data:</p>
+                     <ol id="d3451e584" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e516" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     The estimated increase or decrease in cost accumulations by Executive agency, including any impact the change may have on contract and subcontract incentives, fees, and profits, for each of the following groups:</p>
-									                  <ol id="d3451e594" class="- topic/ol ">
-										                    <li class="- topic/li ">
-											                      <p id="d3481e526" class="- topic/p ">
+                              The estimated increase or decrease in cost accumulations by Executive agency, including any impact the change may have on contract and subcontract incentives, fees, and profits, for each of the following groups:</p>
+                           <ol id="d3451e594" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d3481e526" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-                                    
-												                         Fixed-price contracts and subcontracts.</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3481e535" class="- topic/p ">
+                                    Fixed-price contracts and subcontracts.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3481e535" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-                                    
-												                         Flexibly-priced contracts and subcontracts.</p>
-										                    </li>
-									                  </ol>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e546" class="- topic/p ">
+                                    Flexibly-priced contracts and subcontracts.</p>
+                              </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e546" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     For unilateral changes, the increased or decreased costs to the Government for each of the following groups:</p>
-									                  <ol id="d3451e624" class="- topic/ol ">
-										                    <li class="- topic/li ">
-											                      <p id="d3481e556" class="- topic/p ">
+                              For unilateral changes, the increased or decreased costs to the Government for each of the following groups:</p>
+                           <ol id="d3451e624" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d3481e556" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-                                    
-												                         Fixed-price contracts and subcontracts.</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3481e565" class="- topic/p ">
+                                    Fixed-price contracts and subcontracts.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3481e565" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-                                    
-												                         Flexibly-priced contracts and subcontracts; and</p>
-										                    </li>
-									                  </ol>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e578" class="- topic/p ">
+                                    Flexibly-priced contracts and subcontracts; and</p>
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e578" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                 When requested by the CFAO, identify all affected CAS-covered contracts and subcontracts.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e589" class="- topic/p ">
+                        When requested by the CFAO, identify all affected CAS-covered contracts and subcontracts.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e589" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
-                  
-						             For any change in cost accounting practice subject to paragraph (b)(1), (b)(2), or (b)(3) of this clause, the DCI proposal shall-</p>
-					          <ol id="d3451e667" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e599" class="- topic/p ">
+                  For any change in cost accounting practice subject to paragraph (b)(1), (b)(2), or (b)(3) of this clause, the DCI proposal shall-</p>
+               <ol id="d3451e667" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e599" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Show the calculation of the cost impact in accordance with paragraph (f) of this clause;</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e608" class="- topic/p ">
+                        Show the calculation of the cost impact in accordance with paragraph (f) of this clause;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e608" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Show the estimated increase or decrease in cost accumulations for each affected CAS-covered contract and subcontract unless the CFAO and Contractor agree to include-</p>
-							              <ol id="d3451e686" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e618" class="- topic/p ">
+                        Show the estimated increase or decrease in cost accumulations for each affected CAS-covered contract and subcontract unless the CFAO and Contractor agree to include-</p>
+                     <ol id="d3451e686" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e618" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     Only those affected CAS-covered contracts and subcontracts having an estimate to complete exceeding a specified amount; and</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e627" class="- topic/p ">
+                              Only those affected CAS-covered contracts and subcontracts having an estimate to complete exceeding a specified amount; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e627" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                    An estimate of the total increase or decrease in cost accumulations for all affected CAS-covered contracts and subcontracts, using the results in paragraph (e)(2)(i) of this clause;</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e638" class="- topic/p ">
+                              An estimate of the total increase or decrease in cost accumulations for all affected CAS-covered contracts and subcontracts, using the results in paragraph (e)(2)(i) of this clause;</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e638" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 Use a format acceptable to the CFAO but, as a minimum, include the information in paragraph (d)(3) of this clause; and</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e647" class="- topic/p ">
+                        Use a format acceptable to the CFAO but, as a minimum, include the information in paragraph (d)(3) of this clause; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e647" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                 When requested by the CFAO, identify all affected CAS-covered contracts and subcontracts.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e659" class="- topic/p ">
+                        When requested by the CFAO, identify all affected CAS-covered contracts and subcontracts.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e659" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  
-                  
-                  
-						             For GDM and DCI proposals that are subject to the requirements of paragraph (d) or (e) of this clause, calculate the cost impact as follows:</p>
-					          <ol id="d3451e736" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e669" class="- topic/p ">
+                  For GDM and DCI proposals that are subject to the requirements of paragraph (d) or (e) of this clause, calculate the cost impact as follows:</p>
+               <ol id="d3451e736" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e669" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 The cost impact calculation shall include all affected CAS-covered contracts and subcontracts regardless of their status (i.e., open or closed) or the fiscal year in which the costs were incurred (i.e., whether or not the final indirect rates have been established).</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e678" class="- topic/p ">
+                        The cost impact calculation shall include all affected CAS-covered contracts and subcontracts regardless of their status (i.e., open or closed) or the fiscal year in which the costs were incurred (i.e., whether or not the final indirect rates have been established).</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e678" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 For unilateral changes-</p>
-							              <ol id="d3451e755" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e688" class="- topic/p ">
+                        For unilateral changes-</p>
+                     <ol id="d3451e755" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e688" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     Determine the increased or decreased cost to the Government for flexibly-priced contracts and subcontracts as follows:</p>
-									                  <ol id="d3451e765" class="- topic/ol ">
-										                    <li class="- topic/li ">
-											                      <p id="d3481e698" class="- topic/p ">
+                              Determine the increased or decreased cost to the Government for flexibly-priced contracts and subcontracts as follows:</p>
+                           <ol id="d3451e765" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d3481e698" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-                                    
-												                         When the estimated cost to complete using the changed practice exceeds the estimated cost to complete using the current practice, the difference is increased cost to the Government.</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3481e707" class="- topic/p ">
+                                    When the estimated cost to complete using the changed practice exceeds the estimated cost to complete using the current practice, the difference is increased cost to the Government.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3481e707" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-                                    
-												                         When the estimated cost to complete using the changed practice is less than the estimated cost to complete using the current practice, the difference is decreased cost to the Government;</p>
-										                    </li>
-									                  </ol>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e718" class="- topic/p ">
+                                    When the estimated cost to complete using the changed practice is less than the estimated cost to complete using the current practice, the difference is decreased cost to the Government;</p>
+                              </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e718" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     Determine the increased or decreased cost to the Government for fixed-priced contracts and subcontracts as follows:</p>
-									                  <ol id="d3451e795" class="- topic/ol ">
-										                    <li class="- topic/li ">
-											                      <p id="d3481e728" class="- topic/p ">
+                              Determine the increased or decreased cost to the Government for fixed-priced contracts and subcontracts as follows:</p>
+                           <ol id="d3451e795" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d3481e728" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-                                    
-												                         When the estimated cost to complete using the changed practice is less than the estimated cost to complete using the current practice, the difference is increased cost to the Government.</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3481e737" class="- topic/p ">
+                                    When the estimated cost to complete using the changed practice is less than the estimated cost to complete using the current practice, the difference is increased cost to the Government.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3481e737" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-                                    
-												                         When the estimated cost to complete using the changed practice exceeds the estimated cost to complete using the current practice, the difference is decreased cost to the Government;</p>
-										                    </li>
-									                  </ol>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e748" class="- topic/p ">
+                                    When the estimated cost to complete using the changed practice exceeds the estimated cost to complete using the current practice, the difference is decreased cost to the Government;</p>
+                              </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e748" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-										                     Calculate the total increase or decrease in contract and subcontract incentives, fees, and profits associated with the increased or decreased costs to the Government in accordance with 48 CFR 9903.306(c). The associated increase or decrease is based on the difference between the negotiated incentives, fees, and profits and the amounts that would have been negotiated had the cost impact been known at the time the contracts and subcontracts were negotiated; and</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e757" class="- topic/p ">
+                              Calculate the total increase or decrease in contract and subcontract incentives, fees, and profits associated with the increased or decreased costs to the Government in accordance with 48 CFR 9903.306(c). The associated increase or decrease is based on the difference between the negotiated incentives, fees, and profits and the amounts that would have been negotiated had the cost impact been known at the time the contracts and subcontracts were negotiated; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e757" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              
-                              
-										                     Calculate the increased cost to the Government in the aggregate.</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e768" class="- topic/p ">
+                              Calculate the increased cost to the Government in the aggregate.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e768" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 For equitable adjustments for required or desirable changes-</p>
-							              <ol id="d3451e845" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e778" class="- topic/p ">
+                        For equitable adjustments for required or desirable changes-</p>
+                     <ol id="d3451e845" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e778" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     Estimated increased cost accumulations are the basis for increasing contract prices, target prices and cost ceilings; and</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e787" class="- topic/p ">
+                              Estimated increased cost accumulations are the basis for increasing contract prices, target prices and cost ceilings; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e787" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     Estimated decreased cost accumulations are the basis for decreasing contract prices, target prices and cost ceilings.</p>
-								                </li>
-							              </ol>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e800" class="- topic/p ">
+                              Estimated decreased cost accumulations are the basis for decreasing contract prices, target prices and cost ceilings.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e800" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph>
-                  
-                  
-                  
-						             For any noncompliant cost accounting practice subject to paragraph (b)(4) of this clause, prepare the GDM proposal as follows:</p>
-					          <ol id="d3451e878" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e810" class="- topic/p ">
+                  For any noncompliant cost accounting practice subject to paragraph (b)(4) of this clause, prepare the GDM proposal as follows:</p>
+               <ol id="d3451e878" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e810" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Calculate the cost impact in accordance with paragraph (i) of this clause.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e819" class="- topic/p ">
+                        Calculate the cost impact in accordance with paragraph (i) of this clause.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e819" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Use one or more of the following methods to determine the increase or decrease in contract and subcontract prices or cost accumulations, as applicable:</p>
-							              <ol id="d3451e897" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e829" class="- topic/p ">
+                        Use one or more of the following methods to determine the increase or decrease in contract and subcontract prices or cost accumulations, as applicable:</p>
+                     <ol id="d3451e897" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e829" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                    A representative sample of affected CAS-covered contracts and subcontracts.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e838" class="- topic/p ">
+                              A representative sample of affected CAS-covered contracts and subcontracts.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e838" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     When the noncompliance involves cost accumulation the change in indirect rates multiplied by the applicable base for only flexibly-priced contracts and subcontracts.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e847" class="- topic/p ">
+                              When the noncompliance involves cost accumulation the change in indirect rates multiplied by the applicable base for only flexibly-priced contracts and subcontracts.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e847" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-										                     Any other method that provides a reasonable approximation of the total increase or decrease.</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e858" class="- topic/p ">
+                              Any other method that provides a reasonable approximation of the total increase or decrease.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e858" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 Use a format acceptable to the CFAO but, as a minimum, include the following data:</p>
-							              <ol id="d3451e936" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e868" class="- topic/p ">
+                        Use a format acceptable to the CFAO but, as a minimum, include the following data:</p>
+                     <ol id="d3451e936" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e868" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     The total increase or decrease in contract and subcontract price and cost accumulations, as applicable, by Executive agency, including any impact the noncompliance may have on contract and subcontract incentives, fees, and profits, for each of the following groups:</p>
-									                  <ol id="d3451e946" class="- topic/ol ">
-										                    <li class="- topic/li ">
-											                      <p id="d3481e878" class="- topic/p ">
+                              The total increase or decrease in contract and subcontract price and cost accumulations, as applicable, by Executive agency, including any impact the noncompliance may have on contract and subcontract incentives, fees, and profits, for each of the following groups:</p>
+                           <ol id="d3451e946" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d3481e878" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-                                    
-												                         Fixed-price contracts and subcontracts.</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3481e887" class="- topic/p ">
+                                    Fixed-price contracts and subcontracts.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3481e887" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-                                    
-												                         Flexibly-priced contracts and subcontracts.</p>
-										                    </li>
-									                  </ol>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e898" class="- topic/p ">
+                                    Flexibly-priced contracts and subcontracts.</p>
+                              </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e898" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     The increased or decreased cost to the Government for each of the following groups:</p>
-									                  <ol id="d3451e976" class="- topic/ol ">
-										                    <li class="- topic/li ">
-											                      <p id="d3481e908" class="- topic/p ">
+                              The increased or decreased cost to the Government for each of the following groups:</p>
+                           <ol id="d3451e976" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d3481e908" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-                                    
-												                         Fixed-price contracts and subcontracts.</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3481e917" class="- topic/p ">
+                                    Fixed-price contracts and subcontracts.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3481e917" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-                                    
-												                         Flexibly-priced contracts and subcontracts.</p>
-										                    </li>
-									                  </ol>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e928" class="- topic/p ">
+                                    Flexibly-priced contracts and subcontracts.</p>
+                              </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e928" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-										                     The total overpayments and underpayments made by the Government during the period of noncompliance.</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e939" class="- topic/p ">
+                              The total overpayments and underpayments made by the Government during the period of noncompliance.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e939" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                 When requested by the CFAO, identify all CAS-covered contracts and subcontracts.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e950" class="- topic/p ">
+                        When requested by the CFAO, identify all CAS-covered contracts and subcontracts.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e950" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(h)</ph>
-                  
-                  
-                  
-						             For any noncompliant practice subject to paragraph (b)(4) of this clause, prepare the DCI proposal as follows:</p>
-					          <ol id="d3451e1028" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e960" class="- topic/p ">
+                  For any noncompliant practice subject to paragraph (b)(4) of this clause, prepare the DCI proposal as follows:</p>
+               <ol id="d3451e1028" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e960" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Calculate the cost impact in accordance with paragraph (i) of this clause.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e969" class="- topic/p ">
+                        Calculate the cost impact in accordance with paragraph (i) of this clause.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e969" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Show the increase or decrease in price and cost accumulations for each affected CAS-covered contract and subcontract unless the CFAO and Contractor agree to-</p>
-							              <ol id="d3451e1047" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e979" class="- topic/p ">
+                        Show the increase or decrease in price and cost accumulations for each affected CAS-covered contract and subcontract unless the CFAO and Contractor agree to-</p>
+                     <ol id="d3451e1047" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e979" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     Include only those affected CAS-covered contracts and subcontracts having-</p>
-									                  <ol id="d3451e1057" class="- topic/ol ">
-										                    <li class="- topic/li ">
-											                      <p id="d3481e989" class="- topic/p ">
+                              Include only those affected CAS-covered contracts and subcontracts having-</p>
+                           <ol id="d3451e1057" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d3481e989" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-                                    
-												                         Contract and subcontract values exceeding a specified amount when the noncompliance involves estimating costs; and</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d3481e998" class="- topic/p ">
+                                    Contract and subcontract values exceeding a specified amount when the noncompliance involves estimating costs; and</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3481e998" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-                                    
-												                         Incurred costs exceeding a specified amount when the noncompliance involves accumulating costs; and</p>
-										                    </li>
-									                  </ol>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e1009" class="- topic/p ">
+                                    Incurred costs exceeding a specified amount when the noncompliance involves accumulating costs; and</p>
+                              </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e1009" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     Estimate the total increase or decrease in price and cost accumulations for all affected CAS-covered contracts and subcontracts using the results in paragraph (h)(2)(i) of this clause.</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e1020" class="- topic/p ">
+                              Estimate the total increase or decrease in price and cost accumulations for all affected CAS-covered contracts and subcontracts using the results in paragraph (h)(2)(i) of this clause.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e1020" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 Use a format acceptable to the CFAO that, as a minimum, include the information in paragraph (g)(3) of this clause.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e1029" class="- topic/p ">
+                        Use a format acceptable to the CFAO that, as a minimum, include the information in paragraph (g)(3) of this clause.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e1029" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                 When requested by the CFAO, identify all CAS-covered contracts and subcontracts.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e1040" class="- topic/p ">
+                        When requested by the CFAO, identify all CAS-covered contracts and subcontracts.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e1040" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                  
-                  
-                  
-						             For GDM and DCI proposals that are subject to the requirements of paragraph (g) or (h) of this clause, calculate the cost impact as follows:</p>
-					          <ol id="d3451e1118" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e1050" class="- topic/p ">
+                  For GDM and DCI proposals that are subject to the requirements of paragraph (g) or (h) of this clause, calculate the cost impact as follows:</p>
+               <ol id="d3451e1118" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e1050" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 The cost impact calculation shall include all affected CAS-covered contracts and subcontracts regardless of their status (<i class="+ topic/ph hi-d/i ">i.e.,</i> open or closed) or the fiscal year in which the costs are incurred (i.e., whether or not the final indirect rates have been established).</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e1062" class="- topic/p ">
+                        The cost impact calculation shall include all affected CAS-covered contracts and subcontracts regardless of their status (<i class="+ topic/ph hi-d/i ">i.e.,</i> open or closed) or the fiscal year in which the costs are incurred (i.e., whether or not the final indirect rates have been established).</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e1062" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 For noncompliances that involve estimating costs, determine the increased or decreased cost to the Government for fixed-price contracts and subcontracts as follows:</p>
-							              <ol id="d3451e1140" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e1072" class="- topic/p ">
+                        For noncompliances that involve estimating costs, determine the increased or decreased cost to the Government for fixed-price contracts and subcontracts as follows:</p>
+                     <ol id="d3451e1140" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e1072" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     When the negotiated contract or subcontract price exceeds what the negotiated price would have been had the Contractor used a compliant practice, the difference is increased cost to the Government.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e1081" class="- topic/p ">
+                              When the negotiated contract or subcontract price exceeds what the negotiated price would have been had the Contractor used a compliant practice, the difference is increased cost to the Government.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e1081" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     When the negotiated contract or subcontract price is less than what the negotiated price would have been had the Contractor used a compliant practice, the difference is decreased cost to the Government.</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e1092" class="- topic/p ">
+                              When the negotiated contract or subcontract price is less than what the negotiated price would have been had the Contractor used a compliant practice, the difference is decreased cost to the Government.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e1092" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 For noncompliances that involve accumulating costs, determine the increased or decreased cost to the Government for flexibly-priced contracts and subcontracts as follows:</p>
-							              <ol id="d3451e1170" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e1102" class="- topic/p ">
+                        For noncompliances that involve accumulating costs, determine the increased or decreased cost to the Government for flexibly-priced contracts and subcontracts as follows:</p>
+                     <ol id="d3451e1170" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e1102" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     When the costs that were accumulated under the noncompliant practice exceed the costs that would have been accumulated using a compliant practice (from the time the noncompliant practice was first implemented until the date the noncompliant practice was replaced with a compliant practice), the difference is increased cost to the Government.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e1111" class="- topic/p ">
+                              When the costs that were accumulated under the noncompliant practice exceed the costs that would have been accumulated using a compliant practice (from the time the noncompliant practice was first implemented until the date the noncompliant practice was replaced with a compliant practice), the difference is increased cost to the Government.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e1111" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     When the costs that were accumulated under the noncompliant practice are less than the costs that would have been accumulated using a compliant practice (from the time the noncompliant practice was first implemented until the date the noncompliant practice was replaced with a compliant practice), the difference is decreased cost to the Government.</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e1122" class="- topic/p ">
+                              When the costs that were accumulated under the noncompliant practice are less than the costs that would have been accumulated using a compliant practice (from the time the noncompliant practice was first implemented until the date the noncompliant practice was replaced with a compliant practice), the difference is decreased cost to the Government.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e1122" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                 Calculate the total increase or decrease in contract and subcontracts incentives, fees, and profits associated with the increased or decreased cost to the Government in accordance with 48 CFR 9903.306(c). The associated increase or decrease is based on the difference between the negotiated incentives, fees, and profits and the amounts that would have been negotiated had the Contractor used a compliant practice.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e1131" class="- topic/p ">
+                        Calculate the total increase or decrease in contract and subcontracts incentives, fees, and profits associated with the increased or decreased cost to the Government in accordance with 48 CFR 9903.306(c). The associated increase or decrease is based on the difference between the negotiated incentives, fees, and profits and the amounts that would have been negotiated had the Contractor used a compliant practice.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e1131" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-								                 Calculate the increased cost to the Government in the aggregate.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e1142" class="- topic/p ">
+                        Calculate the increased cost to the Government in the aggregate.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e1142" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(j)</ph>
-                  
-                  
-                  
-						            If the Contractor does not submit the information required by paragraph (b) or (c) of this clause within the specified time, or any extension granted by the CFAO, the CFAO may take one or both of the following actions:</p>
-					          <ol id="d3451e1220" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e1152" class="- topic/p ">
+                  If the Contractor does not submit the information required by paragraph (b) or (c) of this clause within the specified time, or any extension granted by the CFAO, the CFAO may take one or both of the following actions:</p>
+               <ol id="d3451e1220" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e1152" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Withhold an amount not to exceed 10 percent of each subsequent amount payment to the Contractor’s affected CAS-covered contracts, (up to the estimated general dollar magnitude of the cost impact), until such time as the Contractor provides the required information to the CFAO.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e1161" class="- topic/p ">
+                        Withhold an amount not to exceed 10 percent of each subsequent amount payment to the Contractor’s affected CAS-covered contracts, (up to the estimated general dollar magnitude of the cost impact), until such time as the Contractor provides the required information to the CFAO.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e1161" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Issue a final decision in accordance with FAR <xref href="FAR-i1080268.dita#i1080268"
+                        Issue a final decision in accordance with FAR <xref href="FAR-i1080268.dita#i1080268"
                               base="i1080268"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">33.211</xref> and unilaterally adjust the contract(s) by the estimated amount of the cost impact.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e1175" class="- topic/p ">
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e1175" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(k)</ph>
-                  
-                  
-                  
-						             Agree to-</p>
-					          <ol id="d3451e1253" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e1185" class="- topic/p ">
+                  Agree to-</p>
+               <ol id="d3451e1253" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e1185" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Contract modifications to reflect adjustments required in accordance with paragraph (a)(4)(ii) or (a)(5) of the clauses at FAR <xref href="FAR-i1051661.dita#i1051661"
+                        Contract modifications to reflect adjustments required in accordance with paragraph (a)(4)(ii) or (a)(5) of the clauses at FAR <xref href="FAR-i1051661.dita#i1051661"
                               base="i1051661"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.230-2</xref> and <xref href="FAR-i1051741.dita#i1051741"
@@ -1039,24 +727,18 @@
                               base="i1051716"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.230-4</xref>; and</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e1206" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e1206" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Repay the Government for any aggregate increased cost paid to the Contractor.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e1218" class="- topic/p ">
+                        Repay the Government for any aggregate increased cost paid to the Contractor.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e1218" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(l)</ph>
-                  
-                  
-                  
-						             For all subcontracts subject to the clauses at FAR <xref href="FAR-i1051661.dita#i1051661"
+                  For all subcontracts subject to the clauses at FAR <xref href="FAR-i1051661.dita#i1051661"
                         base="i1051661"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.230-2</xref>, <xref href="FAR-i1051688.dita#i1051688"
@@ -1069,92 +751,62 @@
                         base="i1051741"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.230-5</xref>-</p>
-					          <ol id="d3451e1307" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e1240" class="- topic/p ">
+               <ol id="d3451e1307" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e1240" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                So state in the body of the subcontract, in the letter of award, or in both (do not use self-deleting clauses);</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e1249" class="- topic/p ">
+                        So state in the body of the subcontract, in the letter of award, or in both (do not use self-deleting clauses);</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e1249" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Include the substance of this clause in all negotiated subcontracts; and</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e1258" class="- topic/p ">
+                        Include the substance of this clause in all negotiated subcontracts; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e1258" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 Within 30 days after award of the subcontract, submit the following information to the Contractor’s CFAO:</p>
-							              <ol id="d3451e1335" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d3481e1268" class="- topic/p ">
+                        Within 30 days after award of the subcontract, submit the following information to the Contractor’s CFAO:</p>
+                     <ol id="d3451e1335" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3481e1268" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     Subcontractor’s name and subcontract number.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e1277" class="- topic/p ">
+                              Subcontractor’s name and subcontract number.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e1277" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     Dollar amount and date of award.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d3481e1286" class="- topic/p ">
+                              Dollar amount and date of award.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3481e1286" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-										                     Name of Contractor making the award.</p>
-								                </li>
-							              </ol>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e1299" class="- topic/p ">
+                              Name of Contractor making the award.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e1299" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(m)</ph>
-                  
-                  
-                  
-						             Notify the CFAO in writing of any adjustments required to subcontracts under this contract and agree to an adjustment to this contract price or estimated cost and fee. The Contractor shall-</p>
-					          <ol id="d3451e1377" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d3481e1309" class="- topic/p ">
+                  Notify the CFAO in writing of any adjustments required to subcontracts under this contract and agree to an adjustment to this contract price or estimated cost and fee. The Contractor shall-</p>
+               <ol id="d3451e1377" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3481e1309" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Provide this notice within 30 days after the Contractor receives the proposed subcontract adjustments; and</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d3481e1318" class="- topic/p ">
+                        Provide this notice within 30 days after the Contractor receives the proposed subcontract adjustments; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3481e1318" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Include a proposal for adjusting the higher-tier subcontract or the contract appropriately.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d3481e1329" class="- topic/p ">
+                        Include a proposal for adjusting the higher-tier subcontract or the contract appropriately.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3481e1329" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(n)</ph>
-                  
-                  
-                  
-						             For subcontracts containing the clause or substance of the clause at FAR <xref href="FAR-i1051661.dita#i1051661"
+                  For subcontracts containing the clause or substance of the clause at FAR <xref href="FAR-i1051661.dita#i1051661"
                         base="i1051661"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.230-2</xref>, FAR <xref href="FAR-i1051688.dita#i1051688"
@@ -1167,10 +819,9 @@
                         base="i1051741"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.230-5</xref>, require the subcontractor to comply with all Standards in effect on the date of award or of final agreement on price, as shown on the subcontractor’s signed Certificate of Current Cost or Pricing Data, whichever is earlier.</p>
-				        </li>
-			      </ol>
-			      <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-			      
-		    </conbody>
-	  </concept>
+            </li>
+         </ol>
+         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
 </dita>

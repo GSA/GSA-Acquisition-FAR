@@ -2,84 +2,55 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="i1114197"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="i1114197"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">11.301</ph> Definitions.</title>
-		    <conbody class="- topic/body concept/conbody ">
-			      <p class="- topic/p ">As used in this subpart-</p>
-			      <p class="- topic/p ">
-            <i outputclass="Definition">Postconsumer material</i> means a material or finished product that has served its intended use and has been discarded for disposal or recovery, having completed its life as a consumer item. Postconsumer material is a part of the broader category of “recovered material.” For paper and paper products, postconsumer material means “postconsumer fiber” defined by the U.S. Environmental Protection Agency (EPA) as-</p>
-			      <ol id="d647e19" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <ol id="d647e23" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d668e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Paper, paperboard, and fibrous materials from retail stores, office buildings, homes, and so forth, after they have passed through their end-usage as a consumer item, including: used corrugated boxes; old newspapers; old magazines; mixed waste paper; tabulating cards; and used cordage; or</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d668e36" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 All paper, paperboard, and fibrous materials that enter and are collected from municipal solid waste; but not</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d668e45" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 Fiber derived from printers’ over-runs, converters’ scrap, and over-issue publications.</p>
-							              <p id="d668e51" class="- topic/p ">
-                        <i outputclass="Definition">Recovered material</i> for paper and paper products, is defined by EPA in its Comprehensive Procurement Guideline as “recovered fiber” and means the following materials:</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d668e57" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                 Postconsumer fiber.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d668e66" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-								                 Manufacturing wastes such as-</p>
-							              <ol id="d647e72" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d668e76" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     Dry paper and paperboard waste generated after completion of the papermaking process (that is, those manufacturing operations up to and including the cutting and trimming of the paper machine reel into smaller rolls or rough sheets) including: envelope cuttings, bindery trimmings, and other paper and paperboard waste resulting from printing, cutting, forming, and other converting operations; bag, box, and carton manufacturing wastes; and butt rolls, mill wrappers, and rejected unused stock; and</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d668e85" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     Repulped finished paper and paperboard from obsolete inventories of paper and paperboard manufacturers, merchants, wholesalers, dealers, printers, converters, or others.</p>
-								                </li>
-							              </ol>
-						            </li>
-					          </ol>
-				        </li>
-			      </ol>
-			      
-		    </conbody>
-	  </concept>
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">11.301</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this subpart-</p>
+         <p class="- topic/p ">
+            <i outputclass="Term" xtrf="_11.301" xtrc="d665e18">Postconsumer material</i> means a material or finished product that has served its intended use and has been discarded for disposal or recovery, having completed its life as a consumer item. Postconsumer material is a part of the broader category of “recovered material.” For paper and paper products, postconsumer material means “postconsumer fiber” defined by the U.S. Environmental Protection Agency (EPA) as-<ol id="d647e19" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <ol id="d647e23" class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p id="d668e27" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Paper, paperboard, and fibrous materials from retail stores, office buildings, homes, and so forth, after they have passed through their end-usage as a consumer item, including: used corrugated boxes; old newspapers; old magazines; mixed waste paper; tabulating cards; and used cordage; or</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d668e36" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> All paper, paperboard, and fibrous materials that enter and are collected from municipal solid waste; but not</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d668e45" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph> Fiber derived from printers’ over-runs, converters’ scrap, and over-issue publications.</p>
+                        <p id="d668e51" class="- topic/p ">
+                           <i outputclass="Term" xtrf="_11.301" xtrc="d665e55">Recovered material</i> for paper and paper products, is defined by EPA in its Comprehensive Procurement Guideline as “recovered fiber” and means the following materials:</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d668e57" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(4)</ph> Postconsumer fiber.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d668e66" class="- topic/p ">
+                           <ol id="d647e72" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d668e76" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(i)</ph> Dry paper and paperboard waste generated after completion of the papermaking process (that is, those manufacturing operations up to and including the cutting and trimming of the paper machine reel into smaller rolls or rough sheets) including: envelope cuttings, bindery trimmings, and other paper and paperboard waste resulting from printing, cutting, forming, and other converting operations; bag, box, and carton manufacturing wastes; and butt rolls, mill wrappers, and rejected unused stock; and</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d668e85" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(ii)</ph> Repulped finished paper and paperboard from obsolete inventories of paper and paperboard manufacturers, merchants, wholesalers, dealers, printers, converters, or others.</p>
+                              </li>
+                           </ol>
+                           <ph props="autonumber" class="- topic/ph ">(5)</ph> Manufacturing wastes such as-</p>
+                     </li>
+                  </ol>
+               </li>
+            </ol>
+         </p>
+      </conbody>
+   </concept>
 </dita>

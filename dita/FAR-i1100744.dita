@@ -2,63 +2,51 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="i1100744"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1100744"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">19.502-1</ph> Requirements for setting aside acquisitions.</title>
-		    <conbody class="- topic/body concept/conbody ">
-			      <ol id="d1159e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d1180e17" class="- topic/p ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">19.502-1</ph> Requirements for setting aside acquisitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d1159e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1180e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-						             The contracting officer shall set aside an individual acquisition or class of acquisitions for competition among small businesses when-</p>
-					          <ol id="d1159e23" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d1180e27" class="- topic/p ">
+                  The contracting officer shall set aside an individual acquisition or class of acquisitions for competition among small businesses when-</p>
+               <ol id="d1159e23" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1180e27" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                It is determined to be in the interest of maintaining or mobilizing the Nation’s full productive capacity, war or national defense programs; or</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1180e36" class="- topic/p ">
+                        It is determined to be in the interest of maintaining or mobilizing the <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2014-002?>Nation’s<?FM MARKER [Why] Amend section 19.502-1 by— a.Removing from paragraph (a)(1) “Nations” and adding “Nation’s” in its place;?></ph> full productive capacity, war or national defense programs; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1180e36" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 Assuring that a fair proportion of Government contracts in each industry category is placed with small business concerns; and the circumstances described in <xref href="FAR-i1100762.dita#i1100762"
+                        Assuring that a fair proportion of Government contracts in each industry <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2014-002?>is<?FM MARKER [Why] b. Removing from paragraph (a)(2) “category”; and?></ph> placed with small business concerns; and the circumstances described in <xref href="FAR-i1100762.dita#i1100762"
                               base="i1100762"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">19.502-2</xref> or <xref href="FAR-i1100796.dita#i1100796"
                               base="i1100796"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">19.502-3</xref>(a) exist.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d1180e53" class="- topic/p ">
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1180e53" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
-                  
-                  
-						             This requirement does not apply to purchases of $3,500 or less ($20,000 or less for acquisitions as described in <xref href="FAR-i1111870.dita#i1111870"
-                        base="i1111870"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">13.201</xref>(g)(1)), or purchases from required sources of supply under <xref href="FAR-i1118293.dita#i1118293"
-                        base="i1118293"
-                        outputclass="fm:Part"
-                        class="- topic/xref ">part  8</xref>(<i class="+ topic/ph hi-d/i ">e.g.,</i> Committee for Purchase From People Who are Blind or Severely Disabled, and Federal Supply Schedule contracts).</p>
-				        </li>
-			      </ol>
-			      
-		    </conbody>
-	  </concept>
+                  <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2014-002?>This requirement does not apply to purchases of $3,500 or less ($20,000 or less for acquisitions as described in <xref href="FAR-i1111870.dita#i1111870"
+                           base="i1111870"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">13.201</xref>(g)(1)), or purchases from required sources under <xref href="FAR-i1118293.dita#i1118293"
+                           base="i1118293"
+                           outputclass="fm:Part"
+                           class="- topic/xref ">part  8</xref>(e.g., Committee for Purchase From People Who are Blind or Severely Disabled).<?FM MARKER [Why] c. Revising paragraph (b).?></ph>
+               </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

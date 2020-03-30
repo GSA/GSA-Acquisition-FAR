@@ -4,96 +4,68 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="i4_1005-2"
+   <concept id="i4_1005-2"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">4.1005-2</ph> Exceptions.</title>
-		    <conbody class="- topic/body concept/conbody ">
-			      <ol id="d262e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d264e17" class="- topic/p ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">4.1005-2</ph> Exceptions.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d262e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d264e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
-                  
-                  
-						            
-						            <i class="+ topic/ph hi-d/i ">Indefinite-delivery contracts</i>-</p>
-					          <ol id="d262e26" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d264e30" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Indefinite-delivery contracts</i>-</p>
+               <ol id="d262e26" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d264e30" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
-                        
-                        
-								                
-								                <i class="+ topic/ph hi-d/i ">General</i>. The following required data elements are not known at time of issuance of an indefinite-delivery contract, but shall be provided in each order at the time of <ph class="- topic/ph ">issuance: accounting classification</ph>, delivery date and destination, or period and place of performance.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d264e45" class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">General</i>. The following required data elements are not known at time of issuance of an indefinite-delivery contract, but shall be provided in each order at the time of <ph class="- topic/ph ">issuance: accounting classification</ph>, delivery date and destination, or period and place of performance.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d264e45" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
-                        
-                        
-								                
-								                <i class="+ topic/ph hi-d/i ">Indefinite-delivery indefinite-quantity (IDIQ) and requirements contracts</i>. IDIQ and requirements contracts may omit the quantity at the line item level for the base award provided that the total contract minimum and maximum, or the estimate, respectively, is stated.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d264e59" class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Indefinite-delivery indefinite-quantity (IDIQ) and requirements contracts</i>. IDIQ and requirements contracts may omit the quantity at the line item level for the base award provided that the total contract minimum and maximum, or the estimate, respectively, is stated.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d264e59" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
-                  
-                  
-						            
-						            <i class="+ topic/ph hi-d/i ">Item description and PSC</i>. These data elements are not required in the line item if there are associated deliverable subline items that include the actual detailed identification. When this exception applies, use a general narrative description for the line item.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d264e71" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Item description and PSC</i>. These data elements are not required in the line item if there are associated deliverable subline items that include the actual detailed identification. When this exception applies, use a general narrative description for the line item.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d264e71" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
-                  
-                  
-						            
-						            <i class="+ topic/ph hi-d/i ">Single unit price or single total price</i>. The requirement for a single unit price or single total price at the line item level does not apply if any of the following conditions are present:</p>
-					          <ol id="d262e77" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d264e84" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Single unit price or single total price</i>. The requirement for a single unit price or single total price at the line item level does not apply if any of the following conditions are present:</p>
+               <ol id="d262e77" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d264e84" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 There are associated deliverable subline items that are priced.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d264e93" class="- topic/p ">
+                        There are associated deliverable subline items that are priced.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d264e93" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 The line item or subline item is not separately priced.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d264e102" class="- topic/p ">
+                        The line item or subline item is not separately priced.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d264e102" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 The supplies or services are being acquired on a cost-reimbursement, time-and-materials, or labor-hour basis.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d264e111" class="- topic/p ">
+                        The supplies or services are being acquired on a cost-reimbursement, time-and-materials, or labor-hour basis.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d264e111" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                 The procurement instrument is for services and firm prices have been established for elements of the total price, but the actual number of the elements is not known until performance (<i class="+ topic/ph hi-d/i ">e.g.</i>, a labor-hour contract for maintenance/repair). The contracting officer may structure these procurement instruments to reflect a firm or estimated total amount for each line item.</p>
-						            </li>
-					          </ol>
-				        </li>
-			      </ol>
-			      
-		    </conbody>
-	  </concept>
+                        The procurement instrument is for services and firm prices have been established for elements of the total price, but the actual number of the elements is not known until performance (<i class="+ topic/ph hi-d/i ">e.g.</i>, a labor-hour contract for maintenance/repair). The contracting officer may structure these procurement instruments to reflect a firm or estimated total amount for each line item.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

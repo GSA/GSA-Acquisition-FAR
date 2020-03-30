@@ -2,249 +2,135 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="i1101844"
-            ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="i1101844"
+            rev="FAC 2020-05 March 30, 2020"
+            ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">19.102</ph> Size standards.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <ol id="d1128e13" class="- topic/ol ">
-				        <li props="Runin" class="- topic/li ">
-					          <p id="d1149e17" class="- topic/p ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">19.102</ph> 
+         <?FM MARKER [CaseNumber] FAR Case 2014-002?> Small business size	standards and North American Industry Classification System codes.<?FM MARKER [CaseNumber] Revise section 19.102.?></title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d1128e13" class="- topic/ol ">
+            <li props="Runin" class="- topic/li ">
+               <p id="d1149e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
-                  
-                  
-						            
-					          </p>
-					          <ol id="d1128e23" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d1149e27" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Locating size standards and	North American Industry Classification System codes.</i>
+               </p>
+               <ol id="d1128e23" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1149e27" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 The SBA establishes small business size standards on an industry-by-industry basis. (See 13 CFR Part 121). Small business size standards matched to industry NAICS codes are published by the Small Business Administration and are available at <xref href="http://www.sba.gov/content/table-small-business-size-standards"
+                        SBA	establishes small business size standards on an industry-by-industry	basis. Small business size standards and corresponding North American Industry	Classification System (NAICS) codes are provided at<xref href="https://www.govinfo.gov/content/pkg/CFR-2019-title13-vol1/xml/CFR-2019-title13-vol1-sec121-201.xml"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">http://www.sba.gov/content/table-small-business-size-standards</xref>.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1149e39" class="- topic/p ">
+                              class="- topic/xref ">13 CFR 121.201</xref>. They	are also available at https://<xref href="www.sba.gov/content/?table-small-business-size-standards"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">www.sba.gov/content/?table-small-business-size-standards</xref>.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1149e39" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                 NAICS codes are updated by the Office of Management and Budget through its Economic Classification Policy Committee every five years. New NAICS codes are not available for use in Federal contracting until the Small Business Administration publishes corresponding industry size standards (see 19.102(a)(1)).</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d1149e50" class="- topic/p ">
+                        NAICS codes	are updated by the Office of Management and Budget through its Economic	Classification Policy Committee every five years. New NAICS codes	are not available for use in Federal contracting until SBA publishes	corresponding size standards. NAICS codes are available from the	U.S. Census Bureau at<xref href="https://www.census.gov/?eos/?www/?naics/"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">https://www.census.gov/?eos/?www/?naics/</xref>.</p>
+                  </li>
+               </ol>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p id="d1149e50" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
-                  
-                  
-						             Small business size standards are applied by-</p>
-					          <ol id="d1128e56" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d1149e60" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Determining	the appropriate NAICS codes for the solicitation.</i>
+               </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="id2034A3008L0" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Classifying the product or service being acquired in the industry whose definition, as found in the North American Industry Classification System (NAICS) Manual (available at <xref href="https://www.census.gov/eos/www/naics/"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">http://www.census.gov/eos/www/naics/</xref>), best describes the principal nature of the product or service being acquired;</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1149e72" class="- topic/p ">
+                        Unless	required to do otherwise by paragraph (b)(2)(ii)(B) of this section,	contracting officers shall assign one NAICS code and corresponding	size standard to all solicitations, contracts, and task and delivery	orders. The contracting officer shall determine the appropriate	NAICS code by classifying the product or service being acquired	in the one industry that best describes the principal purpose of	the supply or service being acquired. Primary consideration is given	to the industry descriptions in the U.S. NAICS Manual, the product	or service descriptions in the solicitation, the relative value	and importance of the components of the requirement making up the	end item being procured, and the function of the goods or services	being purchased. A procurement is usually classified according to	the component that accounts for the greatest percentage of contract	value.</p>
+                  </li>
+                  <li props="Runin" class="- topic/li ">
+                     <p id="id2034A300N9T" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
-                        
-                        
-								                 Identifying the size standard SBA established for that industry; and</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1149e81" class="- topic/p ">
+                     </p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="id2034A4003NH" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              For	solicitations issued on or before October 1, 2022, that will result	in multiple-award contracts, the contracting officer shall assign	a NAICS code in accordance with paragraph (b)(1) of this section.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="id2034B10D0C7" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              For	solicitations issued after October 1, 2022, that will result in	multiple-award contracts, the contracting officer shall–</p>
+                           <ol class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="id2034B200126" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
+                                    Assign	a single NAICS code (and corresponding size standard) that best	describes the principal purpose of both the acquisition and each	subsequent order; or</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="id2034B200AIY" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
+                                    Divide	the acquisition into distinct portions or categories (<i class="+ topic/ph hi-d/i ">e.g.</i>,	line item numbers, Special Item Numbers, sectors, functional areas,	or equivalent) and assign each portion or category a single NAICS	code and size standard that best describes the principal purpose	of the supplies or services to be acquired under that distinct portion	or category.</p>
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li props="Runin" class="- topic/li ">
+                     <p id="id2034A300OAS" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
-                        
-                        
-								                 Specifying the size standard in the solicitation so that offerors can appropriately represent themselves as small or large.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d1149e92" class="- topic/p ">
+                     </p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="id2034B5004GE" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              When	placing orders under multiple-award contracts with a single NAICS	code, the contracting officer shall assign the order the same NAICS	code and corresponding size standard designated in the contract.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="id2034B500FIV" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              When	placing orders under multiple-award contracts with more than one	NAICS code, the contracting officer shall assign the order the NAICS	code and corresponding size standard designated in the contract	for the distinct portion or category against which the order is	placed. If an order covers multiple portions or categories, select	the NAICS code and corresponding size standard designated in the	contract for the distinct portion or category that best represents	the principal purpose of the order.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="id2034A300OAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        The	contracting officer's designation is final unless appealed in accordance	with the procedures in <xref href="FAR-19.103.dita#id2034C060YX5"
+                              base="id2034C060YX5"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">19.103</xref>.</p>
+                  </li>
+               </ol>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p id="id2034B6070BE" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
-                  
-                  
-						             For size standard purposes, a product or service shall be classified in only one industry, whose definition best describes the principal nature of the product or service being acquired even though for other purposes it could be classified in more than one.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d1149e101" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-						             When acquiring a product or service that could be classified in two or more industries with different size standards, contracting officers shall apply the size standard for the industry accounting for the greatest percentage of the contract price.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d1149e110" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
-                  
-						            If a solicitation calls for more than one item and allows offers to be submitted on any or all of the items, an offeror must meet the size standard for each item it offers to furnish. If a solicitation calling for more than one item requires offers on all or none of the items, an offeror may qualify as a small business by meeting the size standard for the item accounting for the greatest percentage of the total contract price.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d1149e120" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  
-                  
-                  
-						             Any concern submitting a bid or offer in its own name, other than on a construction or service contract, that proposes to furnish an end product it did not manufacture (a “nonmanufacturer”), is a small business if it has no more than 500 employees, and-</p>
-					          <ol id="d1128e126" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d1149e130" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Application	of small business size standards to solicitations.</i>
+               </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="id2034B60N0KO" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-								                 Except as provided in paragraphs (f)(4) through (f)(7) of this section, in the case of Government acquisitions set-aside for small businesses, furnishes in the performance of the contract, the product of a small business manufacturer or producer. The end product furnished must be manufactured or produced in the United States or its outlying areas. The term “nonmanufacturer” includes a concern that can, but elects not to, manufacture or produce the end product for the specific acquisition. For size determination purposes, there can be only one manufacturer of the end product being acquired. The manufacturer of the end product being acquired is the concern that, with its own forces, transforms inorganic or organic substances including raw materials and/or miscellaneous parts or components into the end product. However, see the limitations on subcontracting at <xref href="FAR-i1057730.dita#i1057730"
-                              base="i1057730"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">52.219-14</xref> that apply to any small business offeror other than a nonmanufacturer for purposes of set-asides and 8(a) awards, <xref href="FAR-i1057314.dita#i1057314"
-                              base="i1057314"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">52.219-3</xref> for HUBZone set-asides and HUBZone sole source awards, <xref href="FAR-i1057823.dita#i1057823"
-                              base="i1057823"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">52.219-27</xref> for SDVOSB set-asides and SDVOSB sole source awards, <xref href="FAR-i1057902.dita#i1057902"
-                              base="i1057902"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">52.219-29</xref> for economically disadvantaged women-owned small business (EDWOSB) set-asides and EDWOSB sole source awards, and <xref href="FAR-i1057947.dita#i1057947"
-                              base="i1057947"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">52.219-30</xref> for set-asides and sole source awards to women-owned small business (WOSB) concerns eligible under the WOSB Program.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1149e155" class="- topic/p ">
+                        The contracting	officer shall apply the size standard in effect on the date the	solicitation is issued.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="id2034B700BLK" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-								                A concern which purchases items and packages them into a kit is considered to be a nonmanufacturer small business and can qualify as such for a given acquisition if it meets the size qualifications of a small nonmanufacturer for the acquisition, and if more than 50 percent of the total value of the kit and its contents are accounted for by items manufactured by small business.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1149e164" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-								                 For the purpose of receiving a Certificate of Competency on an unrestricted acquisition, a small business nonmanufacturer may furnish any domestically produced or manufactured product.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1149e173" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-								                In the case of acquisitions set aside for small business or awarded under section 8(a) of the Small Business Act, when the acquisition is for a specific product (or a product in a class of products) for which the SBA has determined that there are no small business manufacturers or processors in the Federal market, then the SBA may grant a class waiver so that a nonmanufacturer does not have to furnish the product of a small business. For the most current listing of classes for which SBA has granted a waiver, contact an SBA Office of Government Contracting. A listing is also available on SBA’s Internet Homepage at <xref href="http://www.sba.gov/content/class-waivers"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">http://www.sba.gov/content/class-waivers</xref>. Contracting officers may request that the SBA waive the nonmanufacturer rule for a particular class of products. For procedures in requesting a waiver see 13 CFR 121.1204.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1149e185" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-								                 For a specific solicitation, a contracting officer may request a waiver of that part of the nonmanufacturer rule which requires that the actual manufacturer or processor be a small business concern if no known domestic small business manufacturers or processors can reasonably be expected to offer a product meeting the requirements of the solicitation.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1149e195" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-								                 Requests for waivers shall be sent to the-</p>
-							              <p id="d1149e201" class="- topic/p "/>
-							              <p id="d1149e203" class="- topic/p ">Associate Administrator for Government Contracting</p>
-							              <p id="d1149e206" class="- topic/p ">United States Small Business Administration</p>
-							              <p id="d1149e209" class="- topic/p ">Mail Code 6250</p>
-							              <p id="d1149e213" class="- topic/p ">409 Third Street, SW</p>
-							              <p id="d1149e216" class="- topic/p ">Washington, DC 20416.</p>
-							              <p id="d1149e219" class="- topic/p "/>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1149e224" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        
-                        
-                        
-								                 The SBA provides for an exception to the nonmanufacturer rule if-</p>
-							              <ol id="d1128e222" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d1149e234" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-										                     The procurement of a manufactured end product processed under the procedures set forth in <xref href="FAR-i1112458.dita#i1112458"
-                                    base="i1112458"
-                                    outputclass="fm:Part"
-                                    class="- topic/xref ">part  13</xref>-</p>
-									                  <ol id="d1128e235" class="- topic/ol ">
-										                    <li class="- topic/li ">
-											                      <p id="d1149e247" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    
-                                    
-												                        Is set aside for small business; and</p>
-										                    </li>
-										                    <li class="- topic/li ">
-											                      <p id="d1149e256" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    
-                                    
-												                        Is not anticipated to exceed $25,000; and</p>
-										                    </li>
-									                  </ol>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d1149e267" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-										                     The offeror supplies an end product that is manufactured or produced in the United States or its outlying areas.</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d1149e278" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        
-                        
-                        
-								                 For non-manufacturer rules pertaining to HUBZone contracts, see <xref href="FAR-i1099561.dita#i1099561"
-                              base="i1099561"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">19.1303</xref>(e).</p>
-						            </li>
-					          </ol>
-				        </li>
-			      </ol>
-			      
-		    </conbody>
-	  </concept>
+                        The	contracting officer may amend the solicitation and use the new size	standard if SBA amends the size standard and it becomes effective	before the due date for receipt of initial offers.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>
