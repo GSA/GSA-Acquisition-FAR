@@ -5,18 +5,20 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="id203KG0I04WS"
             rev="FAC 2020-05 March 30, 2020"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.219-33</ph>
+         <ph props="autonumber" class="- topic/ph ">52.219-33</ph> 
          <?FM MARKER [CaseNumber] FAR Case 2014-002?> Nonmanufacturer
 Rule.<?FM MARKER [Why] Add section 52.219-33.?></title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p id="d3308e10" class="- topic/p ">As prescribed
 in <ph class="- topic/ph ">
-               <xref href="FAR-19.1507.dita#id203GGE0G0O3"
+               <xref href="FAR-i1100931.dita#i1100931"
+                     base="i1100931"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">19.1507</xref>(h)</ph>, insert
+                     class="- topic/xref ">19.507</xref>(h)</ph>, insert
 the following clause:</p>
          <p id="id203KG0I0FTL" outputclass="Ctr_SmCaps" class="- topic/p ">Nonmanufacturer
 Rule (Mar2020)</p>
@@ -75,8 +77,8 @@ contracts as described in <xref href="FAR-19.504.dita#id203CEK0I0HS"
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3308e69" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The
-Contractor shall—</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The Contractor
+shall—</p>
                      <ol class="- topic/ol ">
                         <li props="Runin" class="- topic/li ">
                            <p id="d3308e75" class="- topic/p ">
@@ -93,8 +95,8 @@ in the United States or its outlying areas; or</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3308e85" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> If
-this procurement is an order as described in <xref href="FAR-i1117805.dita#i1117805"
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> If this
+procurement is an order as described in <xref href="FAR-i1117805.dita#i1117805"
                                           base="i1117805"
                                           outputclass="fm:ParaNumOnly"
                                           class="- topic/xref ">8.405-5</xref> or <xref href="FAR-i1104008.dita#i1104008"
@@ -112,14 +114,14 @@ manufacturer;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3308e99" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Not
-exceed 500 employees;</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Not exceed
+500 employees;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3308e104" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Be
-primarily engaged in the retail or wholesale trade and normally
-sell the type of item being supplied; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Be primarily
+engaged in the retail or wholesale trade and normally sell the type
+of item being supplied; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3308e109" class="- topic/p ">
@@ -131,15 +133,14 @@ or facilities in a manner consistent with industry practice.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3308e114" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> In
-addition to the requirements set forth in paragraph (c)(1) of this
-clause, when the end item being acquired is a kit of supplies or
-other goods, 50 percent of the total value of the components of
-the kit shall be manufactured in the United States or its outlying
-areas by small business concerns. Where the Government has specified
-an item for the kit which is not produced by U.S. small business
-concerns, such items shall be excluded from the 50 percent calculation.
-See <xref href="https://www.govinfo.gov/content/pkg/CFR-2019-title13-vol1/xml/CFR-2019-title13-vol1-sec121-406.xml"
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> In addition
+to the requirements set forth in paragraph (c)(1) of this clause,
+when the end item being acquired is a kit of supplies or other goods,
+50 percent of the total value of the components of the kit shall
+be manufactured in the United States or its outlying areas by small
+business concerns. Where the Government has specified an item for
+the kit which is not produced by U.S. small business concerns, such
+items shall be excluded from the 50 percent calculation. See <xref href="https://www.govinfo.gov/content/pkg/CFR-2019-title13-vol1/xml/CFR-2019-title13-vol1-sec121-406.xml"
                               format="html"
                               scope="external"
                               class="- topic/xref ">13 CFR 121.406</xref>(c)
@@ -147,9 +148,9 @@ for further information regarding nonmanufacturers.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3308e122" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> For
-size determination purposes, there can be only one manufacturer
-of the end product being acquired. For the purposes of the nonmanufacturer
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> For size
+determination purposes, there can be only one manufacturer of the
+end product being acquired. For the purposes of the nonmanufacturer
 rule, the manufacturer of the end product being acquired is the
 concern that transforms raw materials and/or miscellaneous parts
 or components into the end product. Firms which only minimally alter
