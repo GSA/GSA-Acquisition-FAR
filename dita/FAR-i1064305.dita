@@ -2,68 +2,114 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1064305"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.204-17</ph> Ownership or Control of Offeror.</title>
-      <conbody outputclass="provision" class="- topic/body concept/conbody ">
-         <p id="d3096e8" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+         <ph props="autonumber" class="- topic/ph ">52.204-17</ph> Ownership or Control
+of Offeror.</title>
+      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
+         <p id="d3096e8" class="- topic/p ">As prescribed
+in <ph class="- topic/ph ">
                <xref href="FAR-i1121289.dita#i1121289"
                      base="i1121289"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">4.1804</xref>(b)</ph>, use the following provision:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Ownership or Control of Offeror (Jul 2016)</p>
+                     class="- topic/xref ">4.1804</xref>(b)</ph>, use the
+following provision:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Ownership or Control of Offeror (Jul
+2016)</p>
          <ol id="d3062e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3096e19" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  Definitions. As used in this provision–</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Definitions.
+As used in this provision–</p>
                <p id="d3096e23" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.204-17" xtrc="d3089e37">Commercial and Government Entity (CAGE) code</i> means–</p>
+                  <i outputclass="Term"
+                     xtrc="d3089e37"
+                     xtrf="_52.204-17"
+                     class="+ topic/ph hi-d/i ">Commercial and Government
+Entity (CAGE) code</i> means–</p>
                <ol id="d3062e44" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3096e29" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        An identifier assigned to entities located in the United States or its outlying areas by the Defense Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch to identify a commercial or government entity; or</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> An identifier
+assigned to entities located in the United States or its outlying
+areas by the Defense Logistics Agency (DLA) Commercial and Government
+Entity (CAGE) Branch to identify a commercial or government entity;
+or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3096e34" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        An identifier assigned by a member of the North Atlantic Treaty Organization (NATO) or by the NATO Support and Procurement Agency (NSPA) to entities located outside the United States and its outlying areas that the DLA Commercial and Government Entity (CAGE) Branch records and maintains in the CAGE master file. This type of code is known as a NATO CAGE (NCAGE) code.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> An identifier
+assigned by a member of the North Atlantic Treaty Organization (NATO)
+or by the NATO Support and Procurement Agency (NSPA) to entities
+located outside the United States and its outlying areas that the
+DLA Commercial and Government Entity (CAGE) Branch records and maintains
+in the CAGE master file. This type of code is known as a NATO CAGE
+(NCAGE) code.</p>
                      <p id="d3096e38" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.204-17" xtrc="d3089e62">Highest-level owner</i> means the entity that owns or controls an immediate owner of the offeror, or that owns or controls one or more entities that control an immediate owner of the offeror. No entity owns or exercises control of the highest level owner.</p>
+                        <i outputclass="Term"
+                           xtrc="d3089e62"
+                           xtrf="_52.204-17"
+                           class="+ topic/ph hi-d/i ">Highest-level owner</i> means
+the entity that owns or controls an immediate owner of the offeror,
+or that owns or controls one or more entities that control an immediate
+owner of the offeror. No entity owns or exercises control of the
+highest level owner.</p>
                      <p id="d3096e42" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.204-17" xtrc="d3089e68">Immediate owner</i> means an entity, other than the offeror, that has direct control of the offeror. Indicators of control include, but are not limited to, one or more of the following: ownership or interlocking management, identity of interests among family members, shared facilities and equipment, and the common use of employees.</p>
+                        <i outputclass="Term"
+                           xtrc="d3089e68"
+                           xtrf="_52.204-17"
+                           class="+ topic/ph hi-d/i ">Immediate owner</i> means
+an entity, other than the offeror, that has direct control of the
+offeror. Indicators of control include, but are not limited to,
+one or more of the following: ownership or interlocking management,
+identity of interests among family members, shared facilities and
+equipment, and the common use of employees.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
                <p id="d3096e47" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  The Offeror represents that it □ has or □ does not have an immediate owner. If the Offeror has more than one immediate owner (such as a joint venture), then the Offeror shall respond to paragraph (c) and if applicable, paragraph (d) of this provision for each participant in the joint venture.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The Offeror
+represents that it <cite outputclass="Checkbox" xtrc="52.204-17_d73e51">□</cite> has
+or <cite outputclass="Checkbox" xtrc="52.204-17_d73e54">□</cite> does not have
+an immediate owner. If the Offeror has more than one immediate owner
+(such as a joint venture), then the Offeror shall respond to paragraph (c)
+and if applicable, paragraph (d) of this provision for each participant
+in the joint venture.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3096e52" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  If the Offeror indicates “has” in paragraph (b) of this provision, enter the following information:</p>
-               <p id="d3096e56" class="- topic/p ">Immediate owner CAGE code: ____________________</p>
-               <p id="d3096e58" class="- topic/p ">Immediate owner legal name: ______________________</p>
-               <p id="d3096e60" class="- topic/p ">(Do not use a “doing business as” name)</p>
-               <p id="d3096e62" class="- topic/p ">Is the immediate owner owned or controlled by another entity?: □ Yes or □ No.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> If the
+Offeror indicates “has” in paragraph (b) of this provision, enter
+the following information:</p>
+               <p id="d3096e56" class="- topic/p ">Immediate owner
+CAGE code: ____________________</p>
+               <p id="d3096e58" class="- topic/p ">Immediate
+owner legal name: ______________________</p>
+               <p id="d3096e60" class="- topic/p ">(Do
+not use a “doing business as” name)</p>
+               <p id="d3096e62" class="- topic/p ">Is the
+immediate owner owned or controlled by another entity?: <cite outputclass="Checkbox" xtrc="52.204-17_d73e70">□</cite> Yes or <cite outputclass="Checkbox" xtrc="52.204-17_d73e73">□</cite> No.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3096e65" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  If the Offeror indicates “yes” in paragraph (c) of this provision, indicating that the immediate owner is owned or controlled by another entity, then enter the following information:</p>
-               <p id="d3096e69" class="- topic/p ">Highest-level owner CAGE code: ___________________</p>
-               <p id="d3096e71" class="- topic/p ">Highest-level owner legal name: ___________________</p>
-               <p id="d3096e73" class="- topic/p ">(Do not use a “doing business as” name)</p>
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph> If the
+Offeror indicates “yes” in paragraph (c) of this provision, indicating
+that the immediate owner is owned or controlled by another entity,
+then enter the following information:</p>
+               <p id="d3096e69" class="- topic/p ">Highest-level
+owner CAGE code: ___________________</p>
+               <p id="d3096e71" class="- topic/p ">Highest-level
+owner legal name: ___________________</p>
+               <p id="d3096e73" class="- topic/p ">(Do
+not use a “doing business as” name)</p>
             </li>
          </ol>
-         <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
+         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
       </conbody>
    </concept>
 </dita>

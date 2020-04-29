@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1057874"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -43,13 +44,13 @@ Services, or other appropriate authority.</p>
 business concern</i> means a concern, including its affiliates,
 that is independently owned and operated, not dominant in the field
 of operation in which it is bidding on Government contracts, and
-qualified as a small business under the criteria in <ph outputclass = "CFR">13 CFR part
-121</ph> and the size standard in <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2014-002?>paragraph
-(d)<?FM MARKER [Why] b. Removing from the definition of “Small business concern” in paragraph (a) the phrase “paragraph (c)” and adding “paragraph (d)” in its place;?></ph> of this clause. Such a concern is “not dominant in its
-field of operation” when it does not exercise a controlling or major
-influence on a national basis in a kind of business activity in which
-a number of business concerns are primarily engaged. In determining
-whether dominance exists, consideration shall be given to all appropriate
+qualified as a small business under the criteria in <ph outputclass="CFR" class="- topic/ph ">13 CFR part 121</ph> and the size standard
+in <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2014-002?>paragraph (d)<?FM MARKER [Why] b. Removing from the definition of “Small business concern” in paragraph (a) the phrase “paragraph (c)” and adding “paragraph (d)” in its place;?></ph> of
+this clause. Such a concern is “not dominant in its field of operation”
+when it does not exercise a controlling or major influence on a
+national basis in a kind of business activity in which a number
+of business concerns are primarily engaged. In determining whether
+dominance exists, consideration shall be given to all appropriate
 factors, including volume of business, number of employees, financial
 resources, competitive status or position, ownership or control
 of materials, processes, patents, license agreements, facilities,
@@ -181,30 +182,31 @@ number and the date on which the rerepresentation was completed:<?FM MARKER [Why
                      <p id="d3303e146" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">The Contractor represents
-that it □ is, □ is not a small business concern
-under NAICS Code _____ assigned to contract number _____.</ph>
+that it <cite outputclass="Checkbox" xtrc="52.219-28_d77e154">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-28_d77e157">□</cite> is not a small business
+concern under NAICS Code _____ assigned to contract number _____.</ph>
                      </p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3303e152" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">[</ph>
+                        <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">[</ph> 
                         <i class="+ topic/ph hi-d/i ">Complete only if
 the Contractor represented itself as a small business concern in
 paragraph (h)(1) of this clause</i>.<ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">] The Contractor represents
-that it □ is, □ is not, a small disadvantaged business concern as
-defined in <ph outputclass = "CFR">13 CFR 124.1002</ph>.</ph>
+that it <cite outputclass="Checkbox" xtrc="52.219-28_d77e172">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-28_d77e175">□</cite> is not, a small disadvantaged
+business concern as defined in <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.1002</ph>.</ph>
                      </p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3303e163" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">[</ph>
+                        <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">[</ph> 
                         <i class="+ topic/ph hi-d/i ">Complete only if
 the Contractor represented itself as a small business concern in
-paragraph (h)(1) of this clause.</i>
+paragraph (h)(1) of this clause.</i> 
                         <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">] The Contractor represents
-that it □ is, □ is not a women-owned small business concern.</ph>
+that it <cite outputclass="Checkbox" xtrc="52.219-28_d77e193">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-28_d77e196">□</cite> is not a women-owned small
+business concern.</ph>
                      </p>
                   </li>
                   <li class="- topic/li ">
@@ -220,25 +222,26 @@ that—</ph>
                         <li class="- topic/li ">
                            <p id="d3303e186" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It □ is, □ is not a WOSB
-concern eligible under the WOSB Program, has provided all the required
-documents to the WOSB Repository, and no change in circumstances
-or adverse decisions have been issued that affects its eligibility;
-and</ph>
+                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It <cite outputclass="Checkbox" xtrc="52.219-28_d77e218">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-28_d77e221">□</cite> is not a WOSB concern eligible
+under the WOSB Program, has provided all the required documents
+to the WOSB Repository, and no change in circumstances or adverse
+decisions have been issued that affects its eligibility; and</ph>
                            </p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3303e192" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It □ is, □ is not a joint
-venture that complies with the requirements of <ph outputclass = "CFR">13 CFR part 127</ph>,
-and the representation in paragraph (h)(4)(i) of this clause is
-accurate for each WOSB concern eligible under the WOSB Program participating
-in the joint venture.</ph>
-                              <cite outputclass="SingleLine" xtrc="52.219-28_d25e199">[<i class="+ topic/ph hi-d/i ">The
+                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It <cite outputclass="Checkbox" xtrc="52.219-28_d77e230">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-28_d77e233">□</cite> is not a joint venture that
+complies with the requirements of <ph outputclass="CFR" class="- topic/ph ">13 CFR
+part 127</ph>, and the representation in paragraph (h)(4)(i) of
+this clause is accurate for each WOSB concern eligible under the
+WOSB Program participating in the joint venture.</ph> 
+                              <cite outputclass="SingleLine"
+                                    xtrc="52.219-28_d25e199"
+                                    class="- topic/cite ">[<i class="+ topic/ph hi-d/i ">The
 Contractor shall enter the name or names of the WOSB concern eligible
-under the WOSB Program and other small businesses that are participating
-in the joint venture:</i>_____.]</cite>
+under the WOSB Program and other small businesses that are participating in
+the joint venture:</i>_____.]</cite> 
                               <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">Each WOSB concern eligible
 under the WOSB Program participating in the joint venture shall
 submit a separate signed copy of the WOSB representation.</ph>
@@ -252,7 +255,7 @@ submit a separate signed copy of the WOSB representation.</ph>
                         <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">Economically disadvantaged
 women-owned small business (EDWOSB) concern.</ph>[<i class="+ topic/ph hi-d/i ">Complete only
 if the Contractor represented itself as a women-owned small business
-concern eligible under the WOSB Program in (h)(4) of this clause.</i>
+concern eligible under the WOSB Program in (h)(4) of this clause.</i> 
                         <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">] The Contractor represents
 that—</ph>
                      </p>
@@ -260,24 +263,24 @@ that—</ph>
                         <li class="- topic/li ">
                            <p id="d3303e217" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It □ is, □ is not an EDWOSB
-concern eligible under the WOSB Program, has provided all the required
-documents to the WOSB Repository, and no change in circumstances
-or adverse decisions have been issued that affects its eligibility;
-and</ph>
+                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It <cite outputclass="Checkbox" xtrc="52.219-28_d77e267">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-28_d77e270">□</cite> is not an EDWOSB concern eligible
+under the WOSB Program, has provided all the required documents
+to the WOSB Repository, and no change in circumstances or adverse
+decisions have been issued that affects its eligibility; and</ph>
                            </p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3303e223" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It □ is, □ is not a joint
-venture that complies with the requirements of <ph outputclass = "CFR">13 CFR part 127</ph>,
-and the representation in paragraph (h)(5)(i) of this clause is
-accurate for each EDWOSB concern participating in the joint venture.
-[The Contractor shall enter the name or names of the EDWOSB concern
-and other small businesses that are participating in the joint venture:
-_____.] Each EDWOSB concern participating in the joint venture shall
-submit a separate signed copy of the EDWOSB representation.</ph>
+                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It <cite outputclass="Checkbox" xtrc="52.219-28_d77e279">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-28_d77e282">□</cite> is not a joint venture that
+complies with the requirements of <ph outputclass="CFR" class="- topic/ph ">13 CFR
+part 127</ph>, and the representation in paragraph (h)(5)(i) of
+this clause is accurate for each EDWOSB concern participating in
+the joint venture. [The Contractor shall enter the name or names
+of the EDWOSB concern and other small businesses that are participating
+in the joint venture: _____.] Each EDWOSB concern participating
+in the joint venture shall submit a separate signed copy of the
+EDWOSB representation.</ph>
                            </p>
                         </li>
                      </ol>
@@ -285,32 +288,33 @@ submit a separate signed copy of the EDWOSB representation.</ph>
                   <li class="- topic/li ">
                      <p id="d3303e229" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">[</ph>
+                        <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">[</ph> 
                         <i class="+ topic/ph hi-d/i ">Complete only if
 the Contractor represented itself as a small business concern in
-paragraph (h)(1) of this clause.</i>
+paragraph (h)(1) of this clause.</i> 
                         <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">] The Contractor represents
-that it □ is, □ is not a veteran-owned small business concern.</ph>
+that it <cite outputclass="Checkbox" xtrc="52.219-28_d77e300">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-28_d77e303">□</cite> is not a veteran-owned small
+business concern.</ph>
                      </p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3303e239" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">[</ph>
+                        <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">[</ph> 
                         <i class="+ topic/ph hi-d/i ">Complete only if
 the Contractor represented itself as a veteran-owned small business
 concern in paragraph (h)(6) of this clause.</i>] <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">The Contractor represents
-that it □ is, □ is not a service-disabled veteran-owned small business
-concern.</ph>
+that it <cite outputclass="Checkbox" xtrc="52.219-28_d77e318">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-28_d77e321">□</cite> is not a service-disabled veteran-owned
+small business concern.</ph>
                      </p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3303e250" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">[</ph>
+                        <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">[</ph> 
                         <i class="+ topic/ph hi-d/i ">Complete only if
 the Contractor represented itself as a small business concern in
-paragraph (h)(1) of this clause.</i>
+paragraph (h)(1) of this clause.</i> 
                         <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">] The Contractor represents
 that—</ph>
                      </p>
@@ -318,32 +322,33 @@ that—</ph>
                         <li class="- topic/li ">
                            <p id="d3303e261" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It □ is, □ is not a HUBZone
-small business concern listed, on the date of this representation,
-on the List of Qualified HUBZone Small Business Concerns maintained
-by the Small Business Administration, and no material changes in
-ownership and control, principal office, or HUBZone employee percentage
-have occurred since it was certified in accordance with 13 CFR part
-126; and</ph>
+                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It <cite outputclass="Checkbox" xtrc="52.219-28_d77e343">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-28_d77e346">□</cite> is not a HUBZone small business
+concern listed, on the date of this representation, on the List
+of Qualified HUBZone Small Business Concerns maintained by the Small
+Business Administration, and no material changes in ownership and
+control, principal office, or HUBZone employee percentage have occurred
+since it was certified in accordance with 13 CFR part 126; and</ph>
                            </p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3303e267" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It □ is, □ is not a HUBZone
-joint venture that complies with the requirements of 13 CFR part
-126, and the representation in paragraph (h)(8)(i) of this clause
-is accurate for each HUBZone small business concern participating in
-the HUBZone joint venture.</ph>
-                              <cite outputclass="SingleLine" xtrc="52.219-28_d25e281"> [<i class="+ topic/ph hi-d/i ">The
-Contractor shall enter the names of each of the HUBZone small business
-concerns participating in the HUBZone joint venture: _____.</i>]</cite>
+                              <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">It <cite outputclass="Checkbox" xtrc="52.219-28_d77e355">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-28_d77e358">□</cite> is not a HUBZone joint venture
+that complies with the requirements of 13 CFR part 126, and the
+representation in paragraph (h)(8)(i) of this clause is accurate
+for each HUBZone small business concern participating in the HUBZone
+joint venture.</ph> 
+                              <cite outputclass="SingleLine"
+                                    xtrc="52.219-28_d25e281"
+                                    class="- topic/cite ">[<i class="+ topic/ph hi-d/i ">The Contractor shall enter the names
+of each of the HUBZone small business concerns participating in
+the HUBZone joint venture: _____.</i>]</cite> 
                               <ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph ">Each HUBZone small business
 concern participating in the HUBZone joint venture shall submit
 a separate signed copy of the HUBZone representation.</ph>
                            </p>
-                           <p id="d3303e279" outputclass="List4" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">Contractor to
-sign and date and insert authorized signer's name and title.</i>]<ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph "> </ph>
+                           <p id="d3303e279" outputclass="List4" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">Contractor to sign
+and date and insert authorized signer's name and title.</i>]<ph rev="FAC 2020-05 March 30, 2020" class="- topic/ph "> </ph>
                            </p>
                         </li>
                      </ol>
@@ -352,7 +357,7 @@ sign and date and insert authorized signer's name and title.</i>]<ph rev="FAC 20
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
+         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?> 
             <p id="id203KC0R09L7"
                rev="FAC 2020-05 March 30, 2020"
                class="- topic/p "><?FM MARKER [CaseNumber] FAR Case 2014-002?>
@@ -408,12 +413,16 @@ one of the NAICS codes assigned to this contract.</p>
                            <p rev="FAC 2020-05 March 30, 2020"
                               outputclass="Ctr"
                               class="- topic/p ">
-                              <cite outputclass="SingleLine" xtrc="52.219-28_d25e330">________________________________</cite>
+                              <cite outputclass="SingleLine"
+                                    xtrc="52.219-28_d25e330"
+                                    class="- topic/cite ">________________________________</cite>
                            </p>
                         </entry>
                         <entry colname="2" class="- topic/entry ">
                            <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine" xtrc="52.219-28_d25e334">________________________________</cite>
+                              <cite outputclass="SingleLine"
+                                    xtrc="52.219-28_d25e334"
+                                    class="- topic/cite ">________________________________</cite>
                            </p>
                         </entry>
                      </row>
@@ -422,12 +431,16 @@ one of the NAICS codes assigned to this contract.</p>
                            <p rev="FAC 2020-05 March 30, 2020"
                               outputclass="Ctr"
                               class="- topic/p ">
-                              <cite outputclass="SingleLine" xtrc="52.219-28_d25e339">________________________________</cite>
+                              <cite outputclass="SingleLine"
+                                    xtrc="52.219-28_d25e339"
+                                    class="- topic/cite ">________________________________</cite>
                            </p>
                         </entry>
                         <entry colname="2" class="- topic/entry ">
                            <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine" xtrc="52.219-28_d25e343">________________________________</cite>
+                              <cite outputclass="SingleLine"
+                                    xtrc="52.219-28_d25e343"
+                                    class="- topic/cite ">________________________________</cite>
                            </p>
                         </entry>
                      </row>
@@ -436,12 +449,16 @@ one of the NAICS codes assigned to this contract.</p>
                            <p rev="FAC 2020-05 March 30, 2020"
                               outputclass="Ctr"
                               class="- topic/p ">
-                              <cite outputclass="SingleLine" xtrc="52.219-28_d25e348">________________________________</cite>
+                              <cite outputclass="SingleLine"
+                                    xtrc="52.219-28_d25e348"
+                                    class="- topic/cite ">________________________________</cite>
                            </p>
                         </entry>
                         <entry colname="2" class="- topic/entry ">
                            <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine" xtrc="52.219-28_d25e352">________________________________</cite>
+                              <cite outputclass="SingleLine"
+                                    xtrc="52.219-28_d25e352"
+                                    class="- topic/cite ">________________________________</cite>
                            </p>
                         </entry>
                      </row>
@@ -449,7 +466,7 @@ one of the NAICS codes assigned to this contract.</p>
                </tgroup>
             </table>
             <p rev="FAC 2020-05 March 30, 2020" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">Contracting
-Officer to insert NAICS codes.</i>]</p>
+Officer to insert NAICS codes.</i>]</p> 
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>
