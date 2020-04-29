@@ -2,30 +2,38 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1059247"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.215-6</ph> Place of Performance.</title>
-      <conbody outputclass="provision" class="- topic/body concept/conbody ">
-         <p id="d3213e8" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
+         <p id="d3213e8" class="- topic/p ">As prescribed
+in <ph class="- topic/ph ">
                <xref href="FAR-i1109112.dita#i1109112"
                      base="i1109112"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">15.209</xref>(f)</ph>, insert the following provision:</p>
+                     class="- topic/xref ">15.209</xref>(f)</ph>, insert
+the following provision:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">Place of Performance (Oct 1997)</p>
          <ol id="d3175e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3213e19" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  The offeror or respondent, in the performance of any contract resulting from this solicitation, <term outputclass="ZapfDingbats" class="- topic/term "></term> intends, <term outputclass="ZapfDingbats" class="- topic/term "></term> does not intend [<i class="+ topic/ph hi-d/i ">check applicable block</i>] to use one or more plants or facilities located at a different address from the address of the offeror or respondent as indicated in this proposal or response to request for information.</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The
+offeror or respondent, in the performance of any contract resulting
+from this solicitation, <cite outputclass="Checkbox" xtrc="52.215-6_d3e23">□</cite> intends, <cite outputclass="Checkbox" xtrc="52.215-6_d3e26">□</cite> does not intend [<i class="+ topic/ph hi-d/i ">check
+applicable block</i>] to use one or more plants or facilities located
+at a different address from the address of the offeror or respondent
+as indicated in this proposal or response to request for information.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3213e33" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  If the offeror or respondent checks “intends” in paragraph (a) of this provision, it shall insert in the following spaces the required information:</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> If the
+offeror or respondent checks “intends” in paragraph (a) of this
+provision, it shall insert in the following spaces the required
+information:</p>
             </li>
          </ol>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
@@ -38,26 +46,27 @@
                         colname="1"
                         colwidth="46*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="54*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1"
                             align="center"
                             outputclass="CellBody_9pt_CtrSmallCaps"
                             xtrc="9pt_SmallCaps"
-                            class="- topic/entry ">Place of Performance (Street Address, City, State, County, ZIP Code)</entry>
+                            class="- topic/entry ">Place
+of Performance (Street Address, City, State, County, ZIP Code)</entry>
                      <entry colname="2"
                             align="center"
                             outputclass="CellBody_9pt_CtrSmallCaps"
                             xtrc="9pt_SmallCaps"
-                            class="- topic/entry ">Name and Address of Owner and Operator of the Plant or Facility if Other than Offeror or Respondent</entry>
+                            class="- topic/entry ">Name
+and Address of Owner and Operator of the Plant or Facility if Other
+than Offeror or Respondent</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -78,7 +87,7 @@
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
+         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
       </conbody>
    </concept>
 </dita>
