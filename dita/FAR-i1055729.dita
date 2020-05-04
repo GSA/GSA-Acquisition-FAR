@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1055729"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -12,14 +11,15 @@
 and Compliance Reports.</title>
       <conbody outputclass="provision" class="- topic/body  concept/conbody ">
          <p id="d3333e8" class="- topic/p ">As prescribed
-in <ph class="- topic/ph ">
+in 
                <xref href="FAR-i1097344.dita#i1097344"
-                     base="i1097344"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">22.810</xref>(a)(2)</ph>, insert
+                  base="i1097344"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">22.810</xref>(a)(2), insert
 the following provision:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">Previous Contracts and Compliance
-Reports <ph outputclass = "SmCaps">(Feb 1999)</ph></p>
+Reports <ph outputclass="SmCaps">(Feb 1999)</ph>
+         </p>
          <p class="- topic/p ">The offeror represents that-</p>
          <p class="- topic/p ">It <cite outputclass="Checkbox" xtrc="52.222-22_d107e21">□</cite> has, <cite outputclass="Checkbox" xtrc="52.222-22_d107e24">□</cite> has not participated in a
 previous contract or subcontract subject to the Equal Opportunity
