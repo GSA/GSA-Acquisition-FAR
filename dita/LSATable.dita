@@ -1,1117 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="lsa-d1e9">
-      <title>List of Sections Affected</title>
-      <conbody>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="lsa-d1e9"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">List of Sections Affected</title>
+      <conbody class="- topic/body  concept/conbody ">
          <table frame="all"
                 colsep="1"
                 rowsep="1"
-                class="- topic/table "
-                otherprops="LSA">
-            <title>FAC 2020-05 Effective March 30, 2020</title>
+                otherprops="LSA"
+                class="- topic/table ">
+            <title class="- topic/title ">FAC 2020-06 Effective May 6, 2020</title>
             <tgroup cols="3"
                     colsep="1"
                     rowsep="1"
                     outputclass="Title_rule"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="32*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colwidth="18*" class="- topic/colspec "/>
+               <colspec colnum="1" colname="1" colwidth="24*" class="- topic/colspec "/>
+               <colspec colnum="2" colname="2" colwidth="55*" class="- topic/colspec "/>
+               <colspec colnum="3" colname="3" colwidth="21*" class="- topic/colspec "/>
                <thead class="- topic/thead ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">Section</entry>
                      <entry colname="2" class="- topic/entry ">Description of Change</entry>
-                     <entry colname="3" class="- topic/entry ">Case
-												Number</entry>
+                     <entry colname="3" class="- topic/entry ">Case Number</entry>
                   </row>
                </thead>
                <tbody class="- topic/tbody ">
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1125359.dita#i1125359">2.101</xref>
-                        <xref outputclass="fm:List" href="FAR-i1125359.dita#i1125359/d75e1310"> (4)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 2.101 in paragraph (b)(2) by adding paragraph (4) to the definition “HUBZone contract”.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1122357.dita#i1122357">4.803</xref>
-                        <xref outputclass="fm:List" href="FAR-i1122357.dita#i1122357/d241e46"> (a)(6)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 4.803 in paragraph (a)(6) by  removing “decision” and adding “decision (see 19.506)” in  its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1121905.dita#i1121905">4.1202</xref>
-                        <xref outputclass="fm:List" href="FAR-i1121905.dita#i1121905/d278e10">(a)</xref> and <xref outputclass="fm:List" href="FAR-i1121905.dita#i1121905/d278e142"> (a)(14)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 4.1202 by revising paragraphs (a)  introductory text and (a)(14).</p>
-                        <p>Amend section 4.1202 by revising paragraphs (a)  introductory text and (a)(14).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1118917.dita#i1118917">7.104</xref>
-                        <xref outputclass="fm:List" href="FAR-i1118917.dita#i1118917/d417e25">(d)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 7.104 by removing from the first sentence of paragraph (d) “entirely reserved or” and adding “totally” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1117401.dita#i1117401">8.404</xref>
-                        <xref outputclass="fm:List" href="FAR-i1117401.dita#i1117401/d470e10">(a)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 8.404 in the first sentence in paragraph (a) by removing “requirement at 19.202-1(e)(1)(iii))” and adding “requirements at 19.102(b)(3) and 19.202-1(e)(1)(iii))” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1117805.dita#i1117805">8.405-5</xref>
-                        <xref outputclass="fm:List" href="FAR-i1117805.dita#i1117805/d476e72">(b)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 8.405-5 in the first sentence of paragraph (b) by removing “against” and adding “under” in its place and revising the second and last sentences.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1116122.dita#i1116122">9.104-3</xref>
-                        <xref outputclass="fm:List" href="FAR-i1116122.dita#i1116122/d547e58"> (d)(2)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 9.104-3 by revising paragraph (d)(2).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1114676.dita#i1114676">10.001</xref>
-                        <xref outputclass="fm:List" href="FAR-i1114676.dita#i1114676/d647e147"> (a)(3)(vii)</xref>,<xref outputclass="fm:List" href="FAR-i1114676.dita#i1114676/d647e162"> (a)(3)(viii)</xref>,<xref outputclass="fm:List" href="FAR-i1114676.dita#i1114676/d647e173"> (a)(3)(ix)</xref> and <xref outputclass="fm:List" href="FAR-i1114676.dita#i1114676/d647e173"> (a)(3)(ix)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 10.001 by— a.Removing from paragraph (a)(3)(vii) “and”;</p>
-                        <p>c.Adding new paragraph (a)(3)(viii); and</p>
-                        <p>b.Redesignating paragraph (a)(3)(viii) as paragraph (a)(3)(ix);</p>
-                        <p>d.Removing from newly designated paragraph (a)(3)(ix) “Subpart 39.2” and adding “subpart 39.2” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1114728.dita#i1114728">10.002</xref>
-                        <xref outputclass="fm:List" href="FAR-i1114728.dita#i1114728/d648e73"> (b)(1)(vii)</xref> and <xref outputclass="fm:List" href="FAR-i1114728.dita#i1114728/d648e133"> (b)(2)(ix)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 10.002 by revising paragraph (b)(1)(vii) and</p>
-                        <p>adding paragraph (b)(2)(ix).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD00S3U.dita#id1617MD00S3U">13.003</xref>
-                        <xref outputclass="fm:List"
-                              href="FAR-id1617MD00S3U.dita#id1617MD00S3U/d745e42"> (b)(1)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 13.003 in paragraph (b)(1) by removing “are reserved exclusively for small business concerns and” and by removing “shall be set aside” and adding in its place “shall be set aside for small business concerns”</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-15.101-3.dita#id202SC0906K2">15.101-3</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Add section 15.101-3.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MA040R0.dita#id1617MA040R0">16.500</xref>
-                        <xref outputclass="fm:List"
-                              href="FAR-id1617MA040R0.dita#id1617MA040R0/d1032e45">(e)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 16.500 by adding paragraph (e).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1104008.dita#i1104008">16.505</xref>
-                        <xref outputclass="fm:List" href="FAR-i1104008.dita#i1104008/d1039e172"> (a)(7)(ix)</xref>,<xref outputclass="fm:List" href="FAR-i1104008.dita#i1104008/d1039e296"> (a)(10)(iii)</xref>,<xref outputclass="fm:List" href="FAR-i1104008.dita#i1104008/d1039e347"> (b)(1)(i)</xref>,<xref outputclass="fm:List" href="FAR-i1104008.dita#i1104008/d1039e854"> (b)(4)</xref>,<xref outputclass="fm:List" href="FAR-i1104008.dita#i1104008/d1039e867"> (b)(5)</xref>,<xref outputclass="fm:List" href="FAR-i1104008.dita#i1104008/d1039e881"> (b)(6)</xref> and <xref outputclass="fm:List" href="FAR-i1104008.dita#i1104008/d1039e942"> (b)(9)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 16.505 by— a. Adding paragraphs (a)(7)(ix) and</p>
-                        <p>(a)(10)(iii);</p>
-                        <p>b. Revising paragraphs (b)(1)(i) and</p>
-                        <p>(b)(4);</p>
-                        <p>c. Adding a paragraph (b)(5) subject heading;</p>
-                        <p>d. Revising the paragraph (b)(6) subject heading; and</p>
-                        <p>e. Adding paragraph (b)(9).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1101771.dita#i1101771">19.000</xref>
-                        <xref outputclass="fm:List" href="FAR-i1101771.dita#i1101771/d1146e35"> (a)(3)</xref>,<xref outputclass="fm:List" href="FAR-i1101771.dita#i1101771/d1146e65"> (a)(8)</xref>,<xref outputclass="fm:List" href="FAR-i1101771.dita#i1101771/d1146e74"> (a)(9)</xref> and <xref outputclass="fm:List" href="FAR-i1101771.dita#i1101771/d1146e83"> (a)(10)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.000 by— a. Removing from paragraph (a)(3) “aside” and adding “aside, in total or in part,” in its place;</p>
-                        <p>b. Removing from paragraph (a)(8) “and”; </p>
-                        <p>c. Removing the period at the end of paragraph (a)(9) and adding “; and” in its place; and </p>
-                        <p>d.Adding paragraph (a)(10).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1101793.dita#i1101793">19.001</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.001 by removing the definition “Nonmanufacturer rule” and adding in alphabetical order a definition for “Nonmanufacturer”.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-19.103.dita#id2034C060YX5">19.103</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Add section 19.103.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1101517.dita#i1101517">19.201</xref>
-                        <xref outputclass="fm:List" href="FAR-i1101517.dita#i1101517/d1153e20">(c)</xref>,<xref outputclass="fm:List" href="FAR-i1101517.dita#i1101517/d1153e37"> (c)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1101517.dita#i1101517/d1153e55"> (c)(3)</xref>,<xref outputclass="fm:List" href="FAR-i1101517.dita#i1101517/d1153e68"> (c)(5)</xref>,<xref outputclass="fm:List" href="FAR-i1101517.dita#i1101517/d1153e162">(d)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.201 by— a. Revising the second sentence of paragraph (c) introductory text;</p>
-                        <p>b. Removing from paragraph (c)(1) “Director of” and adding “Director of the Office of” in its place, in two places; and</p>
-                        <p>c. Revising paragraphs (c)(3),</p>
-                        <p>(5)</p>
-                        <p>and (d).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD000EE.dita#id1617MD000EE">19.202</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.202.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1101585.dita#i1101585">19.202-1</xref>
-                        <xref outputclass="fm:List" href="FAR-i1101585.dita#i1101585/d1155e43"> (e)(1)</xref> and <xref outputclass="fm:List" href="FAR-i1101585.dita#i1101585/d1155e112"> (e)(4)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.202-1 by revising paragraphs (e)(1) introductory text and</p>
-                        <p>(e)(4)</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"> and <xref outputclass="fm:List"
-                              href="FAR-id1617MD0007S.dita#id1617MD0007S/d1156e17">(a)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>revising paragraph (a).</p>
-                     </entry>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1101641.dita#i1101641">19.202-4</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.202-4 in the introductory text by removing “must” and adding “shall” in its place; and</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD000DH.dita#id1617MD000DH">19.202-5</xref>,<xref outputclass="fm:List"
-                              href="FAR-id1617MD000DH.dita#id1617MD000DH/d1159e42"> (c)(1)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.202-5 in the introductory text by removing “must” and adding “shall” in its place and</p>
-                        <p>by revising paragraph (c)(1).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1101663.dita#i1101663">19.202-6</xref>
-                        <xref outputclass="fm:List" href="FAR-i1101663.dita#i1101663/d1160e19"> (a)(1)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.202-6 in paragraph (a)(1) by removing “set-asides” and adding “set-asides, and reserves” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1101696.dita#i1101696">19.203</xref>
-                        <xref outputclass="fm:List" href="FAR-i1101696.dita#i1101696/d1161e27">(b)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.203 in paragraph (b) by removing “exclusively reserve” and adding “set aside” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD000BJ.dita#id1617MD000BJ">19.301-1</xref>
-                        <xref outputclass="fm:List"
-                              href="FAR-id1617MD000BJ.dita#id1617MD000BJ/d1164e10">(a)</xref>,<xref outputclass="fm:List"
-                              href="FAR-id1617MD000BJ.dita#id1617MD000BJ/d1164e60">(b)</xref>,<xref outputclass="fm:List"
-                              href="FAR-id1617MD000BJ.dita#id1617MD000BJ/d1164e87">(c)</xref>,<xref outputclass="fm:List"
-                              href="FAR-id1617MD000BJ.dita#id1617MD000BJ/d1164e104">(d)</xref>,<xref outputclass="fm:List"
-                              href="FAR-id1617MD000BJ.dita#id1617MD000BJ/d1164e115">(e)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.301-1 by— a. Revising paragraph (a);</p>
-                        <p>b. Redesignating paragraphs (b) through (d) as paragraphs (f) through (h); and c. Adding new paragraphs (b) through</p>
-                        <p>through</p>
-                        <p>(d) and</p>
-                        <p>paragraph (e).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i19_301-2.dita#i19_301-2">19.301-2</xref>
-                        <xref outputclass="fm:List" href="FAR-i19_301-2.dita#i19_301-2/d1165e24">(b)</xref>,<xref outputclass="fm:List" href="FAR-i19_301-2.dita#i19_301-2/d1165e86">(c)</xref>,<xref outputclass="fm:List" href="FAR-i19_301-2.dita#i19_301-2/d1165e99"> (d)(1)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.301-2 by revising paragraphs (b),</p>
-                        <p>(c), and</p>
-                        <p>(d).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i19_302.dita#i19_302">19.302</xref>
-                        <xref outputclass="fm:List" href="FAR-i19_302.dita#i19_302/d1167e15"> (a)(1)</xref> and <xref outputclass="fm:List" href="FAR-i19_302.dita#i19_302/d1167e32">(b)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.302 by revising paragraphs (a) and (b)</p>
-                        <p>(b).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1101201.dita#i1101201">19.303</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Remove and reserve section 19.303.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1101313.dita#i1101313">19.307</xref>
-                        <xref outputclass="fm:List" href="FAR-i1101313.dita#i1101313/d1172e10">(a)</xref> and <xref outputclass="fm:List" href="FAR-i1101313.dita#i1101313/d1172e23"> (b)(1)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.307 by removing and reserving paragraph (a) and</p>
-                        <p>revising paragraph (b)(1).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1101433.dita#i1101433">19.309</xref>
-                        <xref outputclass="fm:List" href="FAR-i1101433.dita#i1101433/d1174e28"> (a)(3)</xref>,<xref outputclass="fm:List" href="FAR-i1101433.dita#i1101433/d1174e52"> (c)(1)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.309 by adding paragraph (a)(3) and</p>
-                        <p>revising paragraph (c).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD000RF.dita#id1617MD000RF">19.401</xref>
-                        <xref outputclass="fm:List"
-                              href="FAR-id1617MD000RF.dita#id1617MD000RF/d1176e15">(b)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.401 by revising paragraph (b).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1101041.dita#i1101041">19.402</xref>
-                        <xref outputclass="fm:List" href="FAR-i1101041.dita#i1101041/d1177e15"> (a)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1101041.dita#i1101041/d1177e32">(b)</xref> and <xref outputclass="fm:List" href="FAR-i1101041.dita#i1101041/d1177e40">(c)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.402 by revising paragraphs (a), </p>
-                        <p> (b), and </p>
-                        <p> (c) introductory text.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD000AG.dita#id1617MD000AG">19.403</xref>
-                        <xref outputclass="fm:List"
-                              href="FAR-id1617MD000AG.dita#id1617MD000AG/d1178e78"> (c)(8)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.403 in paragraph (c)(8) by removing “in 19.505” and adding “in 19.502-8” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100725.dita#i1100725">19.501</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.501.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100744.dita#i1100744">19.502-1</xref>
-                        <xref outputclass="fm:List" href="FAR-i1100744.dita#i1100744/d1182e16"> (a)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1100744.dita#i1100744/d1182e26"> (a)(2)</xref> and <xref outputclass="fm:List" href="FAR-i1100744.dita#i1100744/d1182e42">(b)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.502-1 by— a.Removing from paragraph (a)(1) “Nations” and adding “Nation’s” in its place;</p>
-                        <p>b. Removing from paragraph (a)(2) “category”; and</p>
-                        <p>c. Revising paragraph (b).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100762.dita#i1100762">19.502-2</xref>
-                        <xref outputclass="fm:List" href="FAR-i1100762.dita#i1100762/d1183e10">(a)</xref>,<xref outputclass="fm:List" href="FAR-i1100762.dita#i1100762/d1183e39"> (b)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1100762.dita#i1100762/d1183e47"> (b)(2)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.502-2 by revising paragraphs (a) and</p>
-                        <p>(b)(1) and</p>
-                        <p>(2) and removing paragraph (c).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100796.dita#i1100796">19.502-3</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.502-3.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD000PP.dita#id1617MD000PP">19.502-4</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.502-4.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">,<xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD000JQ.dita#id1617MD000JQ">19.502-6</xref>
-                        <xref outputclass="fm:List"
-                              href="FAR-id1617MD000JQ.dita#id1617MD000JQ/d1187e42"> (c)(2)</xref> and <xref outputclass="fm:List"
-                              href="FAR-id1617MD000JQ.dita#id1617MD000JQ/d1187e65">(d)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend newly designated section 19.502-6 by— a. Removing from paragraph (c)(2) “reserved for small business concerns” and adding “set aside” in its place; and</p>
-                        <p>b. Removing from paragraph (d) “(see 19.506(a))” and the two occurrences of “procurement center representative” and adding “(see 19.502-9(a))” and “PCR” twice in their places.</p>
-                     </entry>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">,<xref outputclass="fm:ParaNumOnly" href="FAR-i1100896.dita#i1100896">19.502-8</xref>
-                        <xref outputclass="fm:List" href="FAR-i1100896.dita#i1100896/d1189e12">(a)</xref>,<xref outputclass="fm:List" href="FAR-i1100896.dita#i1100896/d1189e20">(b)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend newly designated section 19.502-8 by— a. Revising paragraph (a); and</p>
-                        <p>b. Removing from paragraph (b) the two occurrences of “procurement center representative” and adding “PCR” in their places and removing the two occurrences of “(or designee)”.</p>
-                     </entry>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100917.dita#i1100917">19.502-9</xref>
-                        <xref outputclass="fm:List" href="FAR-i1100917.dita#i1100917/d1190e10">(a)</xref>,<xref outputclass="fm:List" href="FAR-i1100917.dita#i1100917/d1190e21">(b)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend newly designated section 19.502-9 by revising paragraph (a) and</p>
-                        <p>removing from paragraph (b) “SBA representative” and “procurement center representative” and adding “SBA PCR” and “PCR” in their places, respectively. The revision reads as follows:</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-19.503.dita#id203CD00105Z">19.503</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.503.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-19.504.dita#id203CEK0I0HS">19.504</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.504.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-19.505.dita#id203CGK00TBF">19.505</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Add new section 19.505.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-19.506.dita#id203CH0ND02J">19.506</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Add new section 19.506.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100931.dita#i1100931">19.507</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Redesignate section 19.508 as section 19.507 and revise paragraphs (c) through (f) and add paragraphs (g) and (h).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100669.dita#i1100669">19.602-3</xref>
-                        <xref outputclass="fm:List" href="FAR-i1100669.dita#i1100669/d1202e21"> (a)(2)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.602-3 in paragraph (a)(2) by removing “Director,” and “(OSDBU)” and adding “Director of the” and “(OSDBU) or, for the Department of Defense, the Director of the Office of Small Business Programs,” in their places, respectively.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD010PA.dita#id1617MD010PA">19.602-4</xref>
-                        <xref outputclass="fm:List"
-                              href="FAR-id1617MD010PA.dita#id1617MD010PA/d1203e15">(b)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.602-4 by adding a sentence to the end of paragraph (b).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100224.dita#i1100224">19.702</xref>
-                        <xref outputclass="fm:List" href="FAR-i1100224.dita#i1100224/d1206e17"> (a)(1)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.702 by revising paragraph (a).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100278.dita#i1100278">19.704</xref>
-                        <xref outputclass="fm:List" href="FAR-i1100278.dita#i1100278/d1208e10">(a)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.704 in paragraph (a) introductory text by removing “19.702(a)(1), (2), and (3)” and adding “19.702(a)(1)(i), (ii), and (iii)” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD0106V.dita#id1617MD0106V">19.705-1</xref>
-                        <xref outputclass="fm:List"
-                              href="FAR-id1617MD0106V.dita#id1617MD0106V/d1210e26"> (b)(1)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.705-1 in paragraph (b)(1) by removing “19.702(a)(1)” and adding “19.702(a)” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100344.dita#i1100344">19.705-2</xref>
-                        <xref outputclass="fm:List" href="FAR-i1100344.dita#i1100344/d1211e75">(f)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.705-2 in paragraph (f) by removing “19.702(a)(3)” and “re-representation” and adding “19.702(a)(1)(iii)” and “rerepresentation” in their place, respectively.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD0107H.dita#id1617MD0107H">19.705-5</xref>
-                        <xref outputclass="fm:List"
-                              href="FAR-id1617MD0107H.dita#id1617MD0107H/d1214e44">(b)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.705-5 in paragraph (b) by removing “19.702(a)(1) and (2)” and adding “19.702(a)(1)(i) and (ii)” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD010IA.dita#id1617MD010IA">19.707</xref>
-                        <xref outputclass="fm:List"
-                              href="FAR-id1617MD010IA.dita#id1617MD010IA/d1218e21"> (a)(2)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.707 in paragraph (a)(2) by removing “19.702(a)(1) or (2)” and adding “19.702(a)(1)(i) or (ii)” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100497.dita#i1100497">19.708</xref>
-                        <xref outputclass="fm:List" href="FAR-i1100497.dita#i1100497/d1219e70"> (b)(1)(iv)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.708 in paragraph (b)(1))(iv) by removing “19.702(a)(3)” and adding “19.702(a)(1)(iii)” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1099900.dita#i1099900">19.804-2</xref>
-                        <xref outputclass="fm:List" href="FAR-i1099900.dita#i1099900/d1227e10">(a)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.804-2 by revising the first sentence of paragraph (a).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD0100P.dita#id1617MD0100P">19.804-6</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.804-6.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100020.dita#i1100020">19.809</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.809.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-19.809-1.dita#id203G80H0D5Z">19.809-1</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.809-1.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-19.809-2.dita#id203G80S70HS">19.809-2</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.809-2.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100026.dita#i1100026">19.810</xref>
-                        <xref outputclass="fm:List" href="FAR-i1100026.dita#i1100026/d1243e47"> (b)(1)(ii)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.810 in paragraph (b)(1)(ii) by removing “Director for Small” and “Director of” and adding “Director for the Office of Small” and “Director of the Office of” in their places, respectively.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1100084.dita#i1100084">19.811-3</xref>
-                        <xref outputclass="fm:List" href="FAR-i1100084.dita#i1100084/d1247e46">(d)</xref> and <xref outputclass="fm:List" href="FAR-i1100084.dita#i1100084/d1247e66">(e)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.811-3 by revising paragraphs (d)</p>
-                        <p>and (e).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1099561.dita#i1099561">19.1303</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.1303 by removing paragraph (e).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1099672.dita#i1099672">19.1307</xref>
-                        <xref outputclass="fm:List" href="FAR-i1099672.dita#i1099672/d1264e16"> (a)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1099672.dita#i1099672/d1264e28"> (a)(2)</xref> and <xref outputclass="fm:List" href="FAR-i1099672.dita#i1099672/d1264e40"> (a)(3)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.1307 by— a. Removing from paragraph (a)(1) “or”;</p>
-                        <p>b. Removing the period from the end of paragraph (a)(2) and adding “; or” in its place; and</p>
-                        <p>c. Adding paragraph (a)(3).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1099682.dita#i1099682">19.1308</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.1308.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1099698.dita#i1099698">19.1309</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Revise section 19.1309.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="FAR-id1617MD0109N.dita#id1617MD0109N">19.1403</xref>
-                        <xref outputclass="fm:List"
-                              href="FAR-id1617MD0109N.dita#id1617MD0109N/d1270e63">(d)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.1403 by revising paragraph (d).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-19.1407.dita#id203GFK0L04B">19.1407</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Add new section 19.1407.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1099507.dita#i1099507">19.1408</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Redesignate section 19.1407 as section 19.1408.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1099188.dita#i1099188">19.1503</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 19.1503 by removing paragraph (g).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-19.1507.dita#id203GGE0G0O3">19.1507</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Add new section 19.1507.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">,<xref outputclass="fm:List" href="FAR-i1099324.dita#i1099324/d1285e15"> (a)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1099324.dita#i1099324/d1285e48"> (a)(2)</xref>,<xref outputclass="fm:List" href="FAR-i1099324.dita#i1099324/d1285e61"> (b)(1)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend newly designated section 19.1508 by— a. Redesignating paragraph (a) as paragraph (a)(1); b. Removing from the newly designated paragraph (a)(1) “or reserved”; c. Revising the second sentence of newly designated paragraph (a)(1);</p>
-                        <p>d.Adding paragraph (a)(2); and</p>
-                        <p>e.Revising paragraph (b).</p>
-                     </entry>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i42_1503.dita#i42_1503">42.1503</xref>
-                        <xref outputclass="fm:List" href="FAR-i42_1503.dita#i42_1503/d2579e98"> (b)(2)(vi)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 42.1503 by revising paragraph (b)(2)(vi).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1063887.dita#i1063887">52.204-8</xref>,<xref outputclass="fm:List" href="FAR-i1063887.dita#i1063887/d3087e222"> (c)(1)(xii)</xref>,<xref outputclass="fm:List" href="FAR-i1063887.dita#i1063887/d3087e243"> (c)(1)(xii)(C)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.204-8 by— a. Revising the date of the provision;</p>
-                        <p>b. Revising paragraph (c)(1)(xii) introductory text;</p>
-                        <p>c. Adding paragraph (c)(1)(xii)(C); and</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i52_212-1.dita#i52_212-1">52.212-1</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.212-1 by revising the date of the provision and</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1060550.dita#i1060550">52.212-3</xref>,<xref outputclass="fm:List" href="FAR-i1060550.dita#i1060550/d3163e328"> (b)(2)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.212-3 by— a. Revising the date of the provision; and</p>
-                        <p>b. Removing from paragraph (b)(2) introductory text “business size standard” and “NAICS code” and adding “business size standard(s)” and “NAICS code(s)” in their place, respectively.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i52_212_5.dita#i52_212_5">52.212-5</xref>,<xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e217"> (b)(11)(i)</xref>,<xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e245"> (b)(12)(i)</xref>,<xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e277"> (b)(14)(i)</xref>,<xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e309"> (b)(15)(i)</xref>,<xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e360"> (b)(17)(i)</xref>,<xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e424"> (b)(19)</xref>,<xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e450"> (b)(21)</xref>,<xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e468"> (b)(22)(i)</xref>,<xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e491"> (b)(23)</xref>,<xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e504"> (b)(24)</xref>,<xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e517"> (b)(25)</xref> and <xref outputclass="fm:List" href="FAR-i52_212_5.dita#i52_212_5/d3165e528"> (b)(26)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.212-5 by— a. Revising the date of the clause;</p>
-                        <p>b.Revising paragraphs (b)(11),</p>
-                        <p>(12),</p>
-                        <p>(14),</p>
-                        <p>(15),</p>
-                        <p>(17) through</p>
-                        <p>(19), and</p>
-                        <p>(21)</p>
-                        <p>(21) through</p>
-                        <p>through</p>
-                        <p>(24).</p>
-                        <p>d. Adding new paragraphs (b)(25)</p>
-                        <p>and (26).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1057235.dita#i1057235">52.219-1</xref>,<xref outputclass="fm:List" href="FAR-i1057235.dita#i1057235/d3276e144"> (b)(3)</xref>,<xref outputclass="fm:List" href="FAR-i1057235.dita#i1057235/d3276e249">(d)</xref>,</entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-1 by— a. Revising the date of the clause and</p>
-                        <p>paragraph (b)(3);</p>
-                        <p>b. Removing paragraph (d)(1); c. Redesignating the paragraph (d)(2) introductory text as paragraph (d) introductory text;; d. Redesignating paragraphs (d)(2)(i) through (iii) as paragraphs (d)(1) through (3);</p>
-                        <p>e .Adding Alternate II.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1057314.dita#i1057314">52.219-3</xref>,<xref outputclass="fm:List" href="FAR-i1057314.dita#i1057314/d3278e21">(a)</xref>,<xref outputclass="fm:List" href="FAR-i1057314.dita#i1057314/d3278e46"> (b)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1057314.dita#i1057314/d3278e56"> (b)(2)</xref>,<xref outputclass="fm:List" href="FAR-i1057314.dita#i1057314/d3278e65"> (b)(3)</xref>,<xref outputclass="fm:List" href="FAR-i1057314.dita#i1057314/d3278e80"> (b)(4)</xref>,<xref outputclass="fm:List" href="FAR-i1057314.dita#i1057314/d3278e109">(d)</xref>,<xref outputclass="fm:List" href="FAR-i1057314.dita#i1057314/d3278e186">(e)</xref>,<xref outputclass="fm:List" href="FAR-i1057314.dita#i1057314/d3278e219">(f)</xref>,</entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-3 by— a. Revising the introductory text, the date of the clause, and</p>
-                        <p>paragraph (a);</p>
-                        <p>b. Removing from paragraph (b)(1) “or reserved for,”;</p>
-                        <p>c. Removing from paragraph (b)(2) “and”;</p>
-                        <p>d. Removing the period from the end of paragraph (b)(3) and adding “; and” in its place;</p>
-                        <p>e. Adding paragraph (b)(4);</p>
-                        <p>f. Revising paragraph (d);</p>
-                        <p>g. Removing paragraph (f); h. Redesignating paragraph (e) as paragraph (f); i. Adding new paragraph (e);</p>
-                        <p>j. Removing from newly designated paragraph (f) “will” and adding “shall” in its place; and</p>
-                        <p>I. Revising Alternate I.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1057352.dita#i1057352">52.219-4</xref>,,<xref outputclass="fm:List" href="FAR-i1057352.dita#i1057352/d3279e21">(a)</xref>,<xref outputclass="fm:List" href="FAR-i1057352.dita#i1057352/d3279e76">(d)</xref>,<xref outputclass="fm:List" href="FAR-i1057352.dita#i1057352/d3279e158">(f)</xref>,</entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-4 by— a. Revising the introductory text,</p>
-                        <p>clause date, and</p>
-                        <p>paragraph (a);</p>
-                        <p>b. Revising paragraph (d);</p>
-                        <p>c. Removing paragraph (f); d. Redesignating paragraph (g) as paragraph (f); and</p>
-                        <p>e. Revising Alternate I.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1057393.dita#i1057393">52.219-6</xref>,<xref outputclass="fm:List" href="FAR-i1057393.dita#i1057393/d3281e34"> (b)(1)</xref>, and </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-6 by— a. Revising the introductory text and the date of the clause;</p>
-                        <p>b. Removing from paragraph (b)(1) “or reserved”;</p>
-                        <p>c. Removing paragraph (d) and Alternate I; d. Redesignating Alternate II as Alternate I; and</p>
-                        <p>e. Revising the date and the introductory text of the newly designated Alternate I.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1057419.dita#i1057419">52.219-7</xref>,<xref outputclass="fm:List" href="FAR-i1057419.dita#i1057419/d3282e26">(b)</xref>,<xref outputclass="fm:List" href="FAR-i1057419.dita#i1057419/d3282e42"> (c)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1057419.dita#i1057419/d3282e59">(d)</xref>,<xref outputclass="fm:List" href="FAR-i1057419.dita#i1057419/d3282e87"> (e)(1)</xref>,</entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-7 by— a. Revising the introductory text and the date of the clause;</p>
-                        <p>b. Revising paragraphs (b) and</p>
-                        <p>(c);</p>
-                        <p>c. Adding paragraphs (d) and</p>
-                        <p>(e);</p>
-                        <p>d. Removing Alternate I; and e. Redesignating Alternate II as Alternate I and revising it.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i52_219-9.dita#i52_219-9">52.219-9</xref>,<xref outputclass="fm:List" href="FAR-i52_219-9.dita#i52_219-9/d3284e677"> (l)(1)(ii)(B)</xref>, and </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-9 by— a. Revising the date of the clause;</p>
-                        <p>b. Removing from paragraph (l)(1)(ii)(B) “19.702(a)(3)” and adding “19.702(a)(1)(iii)” in its place;</p>
-                        <p>c. Revising the date of Alternate III; and</p>
-                        <p>d. Removing from paragraph (l)(1)(ii)(B) of Alternate III “19.702(a)(3)” and adding “19.702(a)(1)(iii)” in its place.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1057715.dita#i1057715">52.219-13</xref>,<xref outputclass="fm:List" href="FAR-i1057715.dita#i1057715/d3288e21">(a)</xref>,<xref outputclass="fm:List" href="FAR-i1057715.dita#i1057715/d3288e32">(b)</xref>,</entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-13 by— a. Revising the introductory text and the date of the clause;</p>
-                        <p>c. Adding paragraph (a); and</p>
-                        <p>b. Designating the undesignated paragraph as paragraph (b);</p>
-                        <p>d. Adding Alternate I.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1057730.dita#i1057730">52.219-14</xref>,<xref outputclass="fm:List" href="FAR-i1057730.dita#i1057730/d3289e32"> (b)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1057730.dita#i1057730/d3289e42"> (b)(2)</xref>,<xref outputclass="fm:List" href="FAR-i1057730.dita#i1057730/d3289e51"> (b)(3)</xref>,<xref outputclass="fm:List" href="FAR-i1057730.dita#i1057730/d3289e69"> (b)(4)</xref>,<xref outputclass="fm:List" href="FAR-i1057730.dita#i1057730/d3289e80">(c)</xref>,<xref outputclass="fm:List" href="FAR-i1057730.dita#i1057730/d3289e119">(d)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-14 by— a. Revising the introductory text and the date of the clause;</p>
-                        <p>b. Removing from paragraph (b)(1) “or reserved”;</p>
-                        <p>c. Removing from paragraph (b)(2) “and”;</p>
-                        <p>d. Removing from paragraph (b)(3) “small business” and adding “small business concerns” in its place and removing the period at the end and adding “; and” in its place;</p>
-                        <p>e. Adding paragraph (b)(4); </p>
-                        <p>f. Revising paragraph (c) introductory text; and</p>
-                        <p>g. Adding paragraph (d).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1057789.dita#i1057789">52.219-18</xref>,<xref outputclass="fm:List" href="FAR-i1057789.dita#i1057789/d3293e47">(d)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-18 by revising the date of the clause and</p>
-                        <p>paragraph (d) and removing Alternate II.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">,<xref outputclass="fm:List" href="FAR-i1057823.dita#i1057823/d3302e61"> (b)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1057823.dita#i1057823/d3302e71"> (b)(2)</xref>,<xref outputclass="fm:List" href="FAR-i1057823.dita#i1057823/d3302e80"> (b)(3)</xref>,<xref outputclass="fm:List" href="FAR-i1057823.dita#i1057823/d3302e95"> (b)(4)</xref>,<xref outputclass="fm:List" href="FAR-i1057823.dita#i1057823/d3302e122">(d)</xref>,<xref outputclass="fm:List" href="FAR-i1057823.dita#i1057823/d3302e155">(e)</xref> and <xref outputclass="fm:List" href="FAR-i1057823.dita#i1057823/d3302e189">(f)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>b. Removing from paragraph (b)(1) “or reserved”;</p>
-                        <p>c. Removing from paragraph (b)(2) “and”;</p>
-                        <p>d. Removing the period from the end of paragraph (b)(3) and adding “; and” in its place;</p>
-                        <p>e .Adding paragraph (b)(4);</p>
-                        <p>f. Revising the paragraph (d) subject heading;</p>
-                        <p>g. Removing paragraph (f); h. Redesignating paragraph (e) as paragraph (f); and i. Adding new paragraph (e).</p>
-                        <p>h. Redesignating paragraph (e) as paragraph (f); and</p>
-                     </entry>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1057874.dita#i1057874">52.219-28</xref>,<xref outputclass="fm:List" href="FAR-i1057874.dita#i1057874/d3303e21">(a)</xref>,<xref outputclass="fm:List" href="FAR-i1057874.dita#i1057874/d3303e44">(b)</xref>,<xref outputclass="fm:List" href="FAR-i1057874.dita#i1057874/d3303e82">(c)</xref>,<xref outputclass="fm:List" href="FAR-i1057874.dita#i1057874/d3303e93">(d)</xref>,<xref outputclass="fm:List" href="FAR-i1057874.dita#i1057874/d3303e117">(f)</xref>,<xref outputclass="fm:List" href="FAR-i1057874.dita#i1057874/d3303e137">(h)</xref>,</entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-28 by— a. Revising the introductory text and the date of the clause;</p>
-                        <p>b. Removing from the definition of “Small business concern” in paragraph (a) the phrase “paragraph (c)” and adding “paragraph (d)” in its place;</p>
-                        <p>c. Revising paragraph (b) introductory text;</p>
-                        <p>d. Designating paragraphs (c) through (g) as paragraphs (d) through (h); e. Adding new paragraph (c);</p>
-                        <p>f. Removing from newly designated paragraph (d) the two occurrences of “code” and adding “code(s)” in their places;</p>
-                        <p>g. Revising newly designated paragraph (f);</p>
-                        <p>i. Revising newly designated paragraph (h); and</p>
-                        <p>j. Adding Alternate I.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1057902.dita#i1057902">52.219-29</xref>,<xref outputclass="fm:List" href="FAR-i1057902.dita#i1057902/d3304e38"> (b)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1057902.dita#i1057902/d3304e48"> (b)(2)</xref>,<xref outputclass="fm:List" href="FAR-i1057902.dita#i1057902/d3304e57"> (b)(3)</xref>,<xref outputclass="fm:List" href="FAR-i1057902.dita#i1057902/d3304e72"> (b)(4)</xref>,<xref outputclass="fm:List" href="FAR-i1057902.dita#i1057902/d3304e89"> (c)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1057902.dita#i1057902/d3304e104"> (c)(3)</xref>,<xref outputclass="fm:List" href="FAR-i1057902.dita#i1057902/d3304e114">(d)</xref>,<xref outputclass="fm:List" href="FAR-i1057902.dita#i1057902/d3304e146">(e)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-29 by— a. Revising the introductory text and the date of the clause;</p>
-                        <p>b. Removing from paragraph (b)(1) “or reserved”;</p>
-                        <p>c. Removing from paragraph (b)(2) “and”;</p>
-                        <p>d. Removing from paragraph (b)(3) the period at the end and adding “; and” in its place;</p>
-                        <p>e. Adding paragraph (b)(4);</p>
-                        <p>f. Removing from paragraph (c)(1) “apparent successful offeror” and adding “EDWOSB concerns” in its place;</p>
-                        <p>g.Removing from paragraph (c)(3) “contracting officer” and adding “Contracting Officer” in its place;</p>
-                        <p>h. Revising the paragraph (d) subject heading;</p>
-                        <p>i. Removing paragraph (f); j. Redesignating paragraph (e) as paragraph (f); and k.Adding new paragraph (e).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i1057947.dita#i1057947">52.219-30</xref>,<xref outputclass="fm:List" href="FAR-i1057947.dita#i1057947/d3305e36"> (b)(1)</xref>,<xref outputclass="fm:List" href="FAR-i1057947.dita#i1057947/d3305e46"> (b)(2)</xref>,<xref outputclass="fm:List" href="FAR-i1057947.dita#i1057947/d3305e55"> (b)(3)</xref>,<xref outputclass="fm:List" href="FAR-i1057947.dita#i1057947/d3305e70"> (b)(4)</xref>,<xref outputclass="fm:List" href="FAR-i1057947.dita#i1057947/d3305e102">(d)</xref>,<xref outputclass="fm:List" href="FAR-i1057947.dita#i1057947/d3305e134">(e)</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.219-30 by— a. Revising the introductory text and the date of the clause;</p>
-                        <p>b. Removing from paragraph (b)(1) “or reserved”;</p>
-                        <p>c. Removing from paragraph (b)(2) “and”;</p>
-                        <p>d. Removing from paragraph (b)(3) the period at the end and adding “; and” in its place;</p>
-                        <p>e. Adding paragraph (b)(4);</p>
-                        <p>f. Revising the paragraph (d) subject heading;</p>
-                        <p>g. Removing paragraph (f); h. Redesignating paragraph (e) as paragraph (f); and i. Adding new paragraph (e).</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i52_219-31.dita#id203KF0S062J">52.219-31</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Add section 52.219-31.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i52_219-32.dita#id203KG070CVU">52.219-32</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Add section 52.219-32.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="FAR-i52_219-33.dita#id203KG0I04WS">52.219-33</xref>
-                     </entry>
-                     <entry colname="2">
-                        <p>Add section 52.219-33.</p>
-                     </entry>
-                     <entry colname="3">FAR Case 2014-002</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1122074.dita#i1122074"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">4.1102</xref> 
+                        <xref href="FAR-i1122074.dita#i1122074/d271e49"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(a)(3)(ii)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 4.1102 by removing from paragraph
+(a)(3)(ii) “http://aoprals.state.gov/Web920/danger__pay__all.asp”
+and adding “<xref href="https://aoprals.state.gov/"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://aoprals.state.gov/</xref>” in its
+place.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1101844.dita#i1101844"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">19.102</xref>
+                        <xref href="FAR-i1101844.dita#i1101844/d1150e19"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(1)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 19.102 by removing from paragraph
+(a)(1) “https://www.sba.gov/content/table-small-business-size-standards”
+and adding “<xref href="https://www.sba.gov/document/support--table-size-standards"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://www.sba.gov/document/support--table-size-standards</xref>” in
+its place.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-id1617MD080R8.dita#id1617MD080R8"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">25.301-1</xref>
+                        <xref href="FAR-id1617MD080R8.dita#id1617MD080R8/d1639e43"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(2)(i)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 25.301-1 by removing from
+paragraph (a)(2)(i) “http://aoprals.state.gov/Web920/danger__pay__all.asp”
+and adding “<xref href="https://aoprals.state.gov/"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://aoprals.state.gov/</xref>” in its
+place.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1092942.dita#i1092942"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">25.301-4</xref> 
+                        <xref href="FAR-i1092942.dita#i1092942/d1642e43"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(b)(1)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 25.301-4 by removing from
+paragraph (b)(1) “http://aoprals.state.gov/Web920/danger__pay__all.asp”
+and adding “<xref href="https://aoprals.state.gov/"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://aoprals.state.gov/</xref>” in its
+place.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1057874.dita#i1057874"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.219-28</xref> and <xref href="FAR-i1057874.dita#i1057874/d3303e93"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(d)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.219-28 by revising the
+date of the clause and</p>
+                        <p class="- topic/p ">removing from paragraph (d) “http://www.sba.gov/content/table-small-business-size-standards”
+and adding “<xref href="https://www.sba.gov/document/support--table-size-standards"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://www.sba.gov/document/support--table-size-standards</xref>”
+in its place.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1053246.dita#i1053246"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.223-15</xref> and <xref href="FAR-i1053246.dita#i1053246/d3389e114"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(d)(2)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.223-15 by revising the
+date of the clause and</p>
+                        <p class="- topic/p ">removing from paragraph (d)(2) “http://www1.eere.energy.gov/femp/procurement/eep__requirements.html”
+and adding “<xref href="https://www.energy.gov/eere/femp/energy-efficient-products-and-energy-saving-technologies"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://www.energy.gov/eere/femp/energy-efficient-products-and-energy-saving-technologies</xref>”
+in its place.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1054312.dita#i1054312"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.225-19</xref>,<xref href="FAR-i1054312.dita#i1054312/d3420e83"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (b)(1)(ii)(A)</xref> and<xref href="FAR-i1054312.dita#i1054312/d3420e583"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (q)(2)(i)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.225-19 by revising the
+date of the clause and</p>
+                        <p class="- topic/p ">removing from paragraphs (b)(1)(ii)(A)
+and</p>
+                        <p class="- topic/p ">(q)(2)(i) “http://aoprals.state.gov/Web920/danger__pay__all.asp” and
+adding “<xref href="https://aoprals.state.gov/"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://aoprals.state.gov/</xref>” in their
+places, respectively.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
                   </row>
                </tbody>
             </tgroup>

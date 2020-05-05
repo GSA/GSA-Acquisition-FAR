@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="id1989I600I4C"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -16,7 +15,8 @@ Certain Telecommunications and Video Surveillance Services or Equipment.</title>
                   class="- topic/xref ">4.2105</xref>(a), insert the
 following provision:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">Representation Regarding Certain Telecommunications
-and Video Surveillance Services or Equipment <ph outputclass = "SmCaps">(Dec 2019)</ph></p>
+and Video Surveillance Services or Equipment <ph outputclass="SmCaps">(Dec 2019)</ph>
+         </p>
          <p class="- topic/p ">The Offeror shall not complete the representation in this provision
 if the Offeror has represented that it “does not provide covered
 telecommunications equipment or services as a part of its offered
@@ -37,9 +37,9 @@ and Certifications-Commercial Items.</p>
                   <i class="+ topic/ph hi-d/i ">Definitions.</i> As
 used in this provision—</p>
                <p id="d3103e31" class="- topic/p ">
-                  <ph class="- topic/ph ">“Covered telecommunications
+                  “Covered telecommunications
 equipment or services”, “critical technology”, and “substantial
-or</ph> essential component” have the meanings provided in clause <xref href="FAR-52.204-25.dita#id1989I600I4C"
+or essential component” have the meanings provided in clause <xref href="FAR-52.204-25.dita#id1989I600I4C"
                         base="id1989I600I4C"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.204-25</xref>, Prohibition
@@ -107,8 +107,8 @@ offer—</p>
                   <li class="- topic/li ">
                      <p id="d3103e82" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <ph class="- topic/ph ">A
-description of all</ph> covered telecommunications equipment and
+                        A
+description of all covered telecommunications equipment and
 services offered (include brand; model number, such as original
 equipment manufacturer (OEM) number, manufacturer part number, or
 wholesaler number; and item description, as applicable);</p>

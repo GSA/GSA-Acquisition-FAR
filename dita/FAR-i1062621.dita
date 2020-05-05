@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1062621"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -12,15 +11,16 @@
 Responsibility Matters.</title>
       <conbody outputclass="provision" class="- topic/body  concept/conbody ">
          <p id="d3132e8" class="- topic/p ">As prescribed
-at <ph class="- topic/ph ">
+at 
                <xref href="FAR-i1116212.dita#i1116212"
-                     base="i1116212"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">9.104-7</xref>
-            </ph>(b), insert
+                  base="i1116212"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">9.104-7</xref>
+            (b), insert
 the following provision:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">Information Regarding Responsibility
-Matters <ph outputclass = "SmCaps">(Oct 2018)</ph></p>
+Matters <ph outputclass="SmCaps">(Oct 2018)</ph>
+         </p>
          <ol id="d3094e30" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3132e18" class="- topic/p ">
@@ -155,7 +155,7 @@ registration in the System for Award Management, which can be accessed
 via<xref href="https://www.sam.gov"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">https://www.sam.gov</xref> (<ph class="- topic/ph ">see</ph> 
+                        class="- topic/xref ">https://www.sam.gov</xref> (see 
                   <xref href="FAR-i1063838.dita#i1063838"
                         base="i1063838"
                         outputclass="fm:ParaNumOnly"
