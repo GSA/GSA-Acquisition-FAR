@@ -2,117 +2,98 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1054288"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.225-18</ph> Place of Manufacture.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p id="d3419e8" class="- topic/p ">As prescribed
-in 
+         <p id="d3419e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1090819.dita#i1090819"
-                  base="i1090819"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">25.1101</xref>(f)(, insert
-the following solicitation provision:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Place of Manufacture <ph outputclass="SmCaps">(Aug 2018)</ph>
+                     base="i1090819"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">25.1101</xref>
+            </ph>(f)(, insert the following solicitation provision:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Place of Manufacture <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2018)</ph>
          </p>
          <ol id="d3377e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3419e19" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Definitions</i>.
-As used in this provision—</p>
+                  <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this provision—</p>
                <p id="d3419e25" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d3412e40"
                      xtrf="_52.225-18"
-                     class="+ topic/ph hi-d/i ">Manufactured end product</i> means
-any end product in product and service codes (PSCs) 1000-9999, except-<ol id="d3377e47" class="- topic/ol ">
+                     class="+ topic/ph hi-d/i ">Manufactured end product</i> means any end product in product and service codes (PSCs) 1000-9999, except-<ol id="d3377e47" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3419e31" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> FPSC
-5510, Lumber and Related Basic Wood Materials;</p>
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> FPSC 5510, Lumber and Related Basic Wood Materials;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d3419e36" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Product
-or Service Group (PSG) 87, Agricultural Supplies;</p>
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Product or Service Group (PSG) 87, Agricultural Supplies;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d3419e41" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(3)</ph> PSG 88,
-Live Animals;</p>
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph> PSG 88, Live Animals;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d3419e46" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(4)</ph> PSG 89,
-Subsistence;</p>
+                           <ph props="autonumber" class="- topic/ph ">(4)</ph> PSG 89, Subsistence;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d3419e51" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(5)</ph> PSC 9410,
-Crude Grades of Plant Materials;</p>
+                           <ph props="autonumber" class="- topic/ph ">(5)</ph> PSC 9410, Crude Grades of Plant Materials;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d3419e56" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(6)</ph> PSC 9430,
-Miscellaneous Crude Animal Products, Inedible;</p>
+                           <ph props="autonumber" class="- topic/ph ">(6)</ph> PSC 9430, Miscellaneous Crude Animal Products, Inedible;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d3419e61" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(7)</ph> PSC 9440,
-Miscellaneous Crude Agricultural and Forestry Products;</p>
+                           <ph props="autonumber" class="- topic/ph ">(7)</ph> PSC 9440, Miscellaneous Crude Agricultural and Forestry Products;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d3419e66" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(8)</ph> PSC 9610,
-Ores;</p>
+                           <ph props="autonumber" class="- topic/ph ">(8)</ph> PSC 9610, Ores;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d3419e71" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(9)</ph> PSC 9620,
-Minerals, Natural and Synthetic; and</p>
+                           <ph props="autonumber" class="- topic/ph ">(9)</ph> PSC 9620, Minerals, Natural and Synthetic; and</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d3419e76" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(10)</ph> PSC 9630,
-Additive Metal Materials.</p>
+                           <ph props="autonumber" class="- topic/ph ">(10)</ph> PSC 9630, Additive Metal Materials.</p>
                         <p id="d3419e80" class="- topic/p ">
                            <i outputclass="Term"
                               xtrc="d3412e137"
                               xtrf="_52.225-18"
-                              class="+ topic/ph hi-d/i ">Place of manufacture</i> means
-the place where an end product is assembled out of components, or
-otherwise made or processed from raw materials into the finished
-product that is to be provided to the Government. If a product is
-disassembled and reassembled, the place of reassembly is not the
-place of manufacture.</p>
+                              class="+ topic/ph hi-d/i ">Place of manufacture</i> means the place where an end product is assembled out of components, or otherwise made or processed from raw materials into the finished product that is to be provided to the Government. If a product is disassembled and reassembled, the place of reassembly is not the place of manufacture.</p>
                      </li>
                   </ol>
                </p>
             </li>
             <li class="- topic/li ">
                <p id="d3419e85" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> For statistical
-purposes only, the offeror shall indicate whether the place of manufacture
-of the end products it expects to provide in response to this solicitation
-is predominantly-</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> For statistical purposes only, the offeror shall indicate whether the place of manufacture of the end products it expects to provide in response to this solicitation is predominantly-</p>
                <ol id="d3377e153" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3419e91" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <cite outputclass="Checkbox" xtrc="52.225-18_d29e94">□</cite> In
-the United States (Check this box if the total anticipated price
-of offered end products manufactured in the United States exceeds
-the total anticipated price of offered end products manufactured
-outside the United States); or</p>
+                        <cite outputclass="Checkbox"
+                              xtrc="52.225-18_d29e94"
+                              class="- topic/cite ">□</cite> In the United States (Check this box if the total anticipated price of offered end products manufactured in the United States exceeds the total anticipated price of offered end products manufactured outside the United States); or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3419e98" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <cite outputclass="Checkbox" xtrc="52.225-18_d29e101">□</cite> Outside the United States.</p>
+                        <cite outputclass="Checkbox"
+                              xtrc="52.225-18_d29e101"
+                              class="- topic/cite ">□</cite> Outside the United States.</p>
                   </li>
                </ol>
             </li>

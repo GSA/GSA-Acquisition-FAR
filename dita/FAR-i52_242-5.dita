@@ -6,16 +6,17 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="i52_242-5"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.242-5</ph> Payments to Small Business Subcontractors.</title>
       <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p id="d3611e8" class="- topic/p ">As prescribed in 
+         <p id="d3611e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i42_1504.dita#i42_1504"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">42.1504</xref>
-            , insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Payments to Small Business Subcontractors <ph outputclass="SmCaps">(Jan 2017)</ph>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">42.1504</xref>
+            </ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Payments to Small Business Subcontractors <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph>
          </p>
          <ol id="d3570e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -23,9 +24,15 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause-</p>
                <p id="d3611e24" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.242-5" xtrc="d3604e40">Reduced payment</i> means a payment that is for less than the amount agreed upon in a subcontract in accordance with its terms and conditions, for supplies and services for which the Government has paid the prime contractor.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.242-5"
+                     xtrc="d3604e40"
+                     class="+ topic/ph hi-d/i ">Reduced payment</i> means a payment that is for less than the amount agreed upon in a subcontract in accordance with its terms and conditions, for supplies and services for which the Government has paid the prime contractor.</p>
                <p id="d3611e28" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.242-5" xtrc="d3604e46">Untimely payment</i> means a payment that is more than 90 days past due under the terms and conditions of a subcontract, for supplies and services for which the Government has paid the prime contractor.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.242-5"
+                     xtrc="d3604e46"
+                     class="+ topic/ph hi-d/i ">Untimely payment</i> means a payment that is more than 90 days past due under the terms and conditions of a subcontract, for supplies and services for which the Government has paid the prime contractor.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3611e33" class="- topic/p ">
@@ -34,23 +41,19 @@
                <ol id="d3570e59" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3611e41" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        A small business subcontractor was entitled to payment under the terms and conditions of the subcontract; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>A small business subcontractor was entitled to payment under the terms and conditions of the subcontract; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3611e46" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        The Contractor-</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor-</p>
                      <ol id="d3570e78" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3611e52" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Made a reduced or untimely payment to the small business subcontractor; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Made a reduced or untimely payment to the small business subcontractor; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3611e57" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Failed to make a payment, which is now untimely.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Failed to make a payment, which is now untimely.</p>
                         </li>
                      </ol>
                   </li>

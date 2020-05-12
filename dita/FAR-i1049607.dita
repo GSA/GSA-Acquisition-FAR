@@ -6,16 +6,17 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1049607"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.232-12</ph> Advance Payments.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="d3508e8" class="- topic/p ">As prescribed in 
+      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+         <p id="d3508e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                  href="FAR-i1082865.dita#i1082865"
-                  base="i1082865"
-                  class="- topic/xref ">32.412</xref>(a), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Advance Payments <ph outputclass="SmCaps">(May 2001)</ph>
+                     href="FAR-i1082865.dita#i1082865"
+                     base="i1082865"
+                     class="- topic/xref ">32.412</xref>(a)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Advance Payments <ph outputclass="SmCaps" class="- topic/ph ">(May 2001)</ph>
          </p>
          <ol id="d3466e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -61,48 +62,40 @@
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3508e86" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  Interest.</p>
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>Interest. </p>
                <ol id="d3466e113" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3508e92" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        The Contractor shall pay interest to the Government on the daily unliquidated advance payments at the daily rate specified in paragraph (f)(3) of this clause. Interest shall be computed at the end of each calendar month for the actual number of days involved. For the purpose of computing the interest charge-</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The Contractor shall pay interest to the Government on the daily unliquidated advance payments at the daily rate specified in paragraph (f)(3) of this clause. Interest shall be computed at the end of each calendar month for the actual number of days involved. For the purpose of computing the interest charge-</p>
                      <ol id="d3466e123" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3508e98" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Advance payments shall be considered as increasing the unliquidated balance as of the date of the advance payment check;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Advance payments shall be considered as increasing the unliquidated balance as of the date of the advance payment check;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e103" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Repayments by Contractor check shall be considered as decreasing the unliquidated balance as of the date on which the check is received by the Government authority designated by the Contracting Officer; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Repayments by Contractor check shall be considered as decreasing the unliquidated balance as of the date on which the check is received by the Government authority designated by the Contracting Officer; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e108" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              Liquidations by deductions from Government payments to the Contractor shall be considered as decreasing the unliquidated balance as of the date of the check for the reduced payment.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Liquidations by deductions from Government payments to the Contractor shall be considered as decreasing the unliquidated balance as of the date of the check for the reduced payment.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e113" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Interest charges resulting from the monthly computation shall be deducted from payments, other than advance payments, due the Contractor. If the accrued interest exceeds the payment due, any excess interest shall be carried forward and deducted from subsequent payments. Interest carried forward shall not be compounded. Interest on advance payments shall cease to accrue upon satisfactory completion or termination of the contract for the convenience of the Government. The Contractor shall charge interest on advance payments to subcontractors in the manner described above and credit the interest to the Government. Interest need not be charged on advance payments to nonprofit educational or research subcontractors for experimental, developmental, or research work.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Interest charges resulting from the monthly computation shall be deducted from payments, other than advance payments, due the Contractor. If the accrued interest exceeds the payment due, any excess interest shall be carried forward and deducted from subsequent payments. Interest carried forward shall not be compounded. Interest on advance payments shall cease to accrue upon satisfactory completion or termination of the contract for the convenience of the Government. The Contractor shall charge interest on advance payments to subcontractors in the manner described above and credit the interest to the Government. Interest need not be charged on advance payments to nonprofit educational or research subcontractors for experimental, developmental, or research work.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e118" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        If interest is required under the contract, the Contracting Officer shall determine a daily interest rate based on the higher of (i) the published prime rate of the financial institution (depository) in which the special account is established or (ii) the rate established by the Secretary of the Treasury under Pub.L.92-41 (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>If interest is required under the contract, the Contracting Officer shall determine a daily interest rate based on the higher of (i) the published prime rate of the financial institution (depository) in which the special account is established or (ii) the rate established by the Secretary of the Treasury under Pub.L.92-41 (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
                               class="- topic/xref ">50 U.S.C. App.1215(b)(2)</xref>). The Contracting Officer shall revise the daily interest rate during the contract period in keeping with any changes in the cited interest rates.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e126" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        If the full amount of interest charged under this paragraph has not been paid by deduction or otherwise upon completion or termination of this contract, the Contractor shall pay the remaining interest to the Government on demand.</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>If the full amount of interest charged under this paragraph has not been paid by deduction or otherwise upon completion or termination of this contract, the Contractor shall pay the remaining interest to the Government on demand.</p>
                   </li>
                </ol>
             </li>
@@ -121,38 +114,31 @@
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3508e148" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                  Lien on property under contract.</p>
+                  <ph props="autonumber" class="- topic/ph ">(i)</ph>Lien on property under contract. </p>
                <ol id="d3466e222" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3508e154" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        All advance payments under this contract, together with interest charges, shall be secured, when made, by a lien in favor of the Government, paramount to all other liens, on the supplies or other things covered by this contract and on material and other property acquired for or allocated to the performance of this contract, except to the extent that the Government by virtue of any other terms of this contract, or otherwise, shall have valid title to the supplies, materials, or other property as against other creditors of the Contractor.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>All advance payments under this contract, together with interest charges, shall be secured, when made, by a lien in favor of the Government, paramount to all other liens, on the supplies or other things covered by this contract and on material and other property acquired for or allocated to the performance of this contract, except to the extent that the Government by virtue of any other terms of this contract, or otherwise, shall have valid title to the supplies, materials, or other property as against other creditors of the Contractor.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e159" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        The Contractor shall identify, by marking or segregation, all property that is subject to a lien in favor of the Government by virtue of any terms of this contract in such a way as to indicate that it is subject to a lien and that it has been acquired for or allocated to performing this contract. If, for any reason, the supplies, materials, or other property are not identified by marking or segregation, the Government shall be considered to have a lien to the extent of the Government’s interest under this contract on any mass of property with which the supplies, materials, or other property are commingled. The Contractor shall maintain adequate accounting control over the property on its books and records.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor shall identify, by marking or segregation, all property that is subject to a lien in favor of the Government by virtue of any terms of this contract in such a way as to indicate that it is subject to a lien and that it has been acquired for or allocated to performing this contract. If, for any reason, the supplies, materials, or other property are not identified by marking or segregation, the Government shall be considered to have a lien to the extent of the Government’s interest under this contract on any mass of property with which the supplies, materials, or other property are commingled. The Contractor shall maintain adequate accounting control over the property on its books and records.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e164" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        If, at any time during the progress of the work on the contract, it becomes necessary to deliver to a third person any items or materials on which the Government has a lien, the Contractor shall notify the third person of the lien and shall obtain from the third person a receipt in duplicate acknowledging the existence of the lien. The Contractor shall provide a copy of each receipt to the Contracting Officer.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>If, at any time during the progress of the work on the contract, it becomes necessary to deliver to a third person any items or materials on which the Government has a lien, the Contractor shall notify the third person of the lien and shall obtain from the third person a receipt in duplicate acknowledging the existence of the lien. The Contractor shall provide a copy of each receipt to the Contracting Officer.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e169" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        If, under the termination clause, the Contracting Officer authorizes the Contractor to sell or retain termination inventory, the approval shall constitute a release of the Government’s lien to the extent that-</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>If, under the termination clause, the Contracting Officer authorizes the Contractor to sell or retain termination inventory, the approval shall constitute a release of the Government’s lien to the extent that-</p>
                      <ol id="d3466e259" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3508e175" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              The termination inventory is sold or retained; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The termination inventory is sold or retained; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e180" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              The sale proceeds or retention credits are applied to reduce any outstanding advance payments.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The sale proceeds or retention credits are applied to reduce any outstanding advance payments.</p>
                         </li>
                      </ol>
                   </li>
@@ -160,50 +146,41 @@
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3508e185" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(j)</ph>
-                  Insurance.</p>
+                  <ph props="autonumber" class="- topic/ph ">(j)</ph>Insurance. </p>
                <ol id="d3466e291" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3508e191" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        The Contractor shall maintain with responsible insurance carriers-</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The Contractor shall maintain with responsible insurance carriers-</p>
                      <ol id="d3466e301" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3508e197" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Insurance on plant and equipment against fire and other hazards, to the extent that similar properties are usually insured by others operating plants and properties of similar character in the same general locality;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Insurance on plant and equipment against fire and other hazards, to the extent that similar properties are usually insured by others operating plants and properties of similar character in the same general locality;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e202" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Adequate insurance against liability on account of damage to persons or property; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Adequate insurance against liability on account of damage to persons or property; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e207" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              Adequate insurance under all applicable workers’ compensation laws.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Adequate insurance under all applicable workers’ compensation laws.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e212" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Until work under this contract has been completed and all advance payments made under the contract have been liquidated, the Contractor shall-</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Until work under this contract has been completed and all advance payments made under the contract have been liquidated, the Contractor shall-</p>
                      <ol id="d3466e340" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3508e218" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Maintain this insurance;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Maintain this insurance;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e223" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Maintain adequate insurance on any materials, parts, assemblies, subassemblies, supplies, equipment, and other property acquired for or allocable to this contract and subject to the Government lien under paragraph (i) of this clause; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Maintain adequate insurance on any materials, parts, assemblies, subassemblies, supplies, equipment, and other property acquired for or allocable to this contract and subject to the Government lien under paragraph (i) of this clause; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e228" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              Furnish any evidence with respect to its insurance that the administering office may require.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Furnish any evidence with respect to its insurance that the administering office may require.</p>
                         </li>
                      </ol>
                   </li>
@@ -211,99 +188,81 @@
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3508e233" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(k)</ph>
-                  Default.</p>
+                  <ph props="autonumber" class="- topic/ph ">(k)</ph>Default. </p>
                <ol id="d3466e381" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3508e239" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        If any of the following events occurs, the Government may, by written notice to the Contractor, withhold further withdrawals from the special account and further payments on this contract:</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>If any of the following events occurs, the Government may, by written notice to the Contractor, withhold further withdrawals from the special account and further payments on this contract:</p>
                      <ol id="d3466e391" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3508e245" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Termination of this contract for a fault of the Contractor.</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Termination of this contract for a fault of the Contractor.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e250" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              A finding by the administering office that the Contractor has failed to-</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>A finding by the administering office that the Contractor has failed to-</p>
                            <ol id="d3466e410" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3508e256" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    Observe any of the conditions of the advance payment terms;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Observe any of the conditions of the advance payment terms;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3508e261" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    Comply with any material term of this contract;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Comply with any material term of this contract;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3508e266" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                    Make progress or maintain a financial condition adequate for performance of this contract;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>Make progress or maintain a financial condition adequate for performance of this contract;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3508e271" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>
-                                    Limit inventory allocated to this contract to reasonable requirements; or</p>
+                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>Limit inventory allocated to this contract to reasonable requirements; or</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3508e276" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(E)</ph>
-                                    Avoid delinquency in payment of taxes or of the costs of performing this contract in the ordinary course of business.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(E)</ph>Avoid delinquency in payment of taxes or of the costs of performing this contract in the ordinary course of business.</p>
                               </li>
                            </ol>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e281" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              The appointment of a trustee, receiver, or liquidator for all or a substantial part of the Contractor’s property, or the institution of proceedings by or against the Contractor for bankruptcy, reorganization, arrangement, or liquidation.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>The appointment of a trustee, receiver, or liquidator for all or a substantial part of the Contractor’s property, or the institution of proceedings by or against the Contractor for bankruptcy, reorganization, arrangement, or liquidation.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e286" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              The service of any writ of attachment, levy of execution, or commencement of garnishment proceedings concerning the special account.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>The service of any writ of attachment, levy of execution, or commencement of garnishment proceedings concerning the special account.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e291" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                              The commission of an act of bankruptcy.</p>
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>The commission of an act of bankruptcy.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e296" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        If any of the events described in paragraph (k)(1) of this clause continue for 30 days after the written notice to the Contractor, the Government may take any of the following additional actions:</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>If any of the events described in paragraph (k)(1) of this clause continue for 30 days after the written notice to the Contractor, the Government may take any of the following additional actions:</p>
                      <ol id="d3466e496" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3508e302" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Withdraw by checks payable to the Treasurer of the United States, signed only by the countersigning agency, all or any part of the balance in the special account and apply the amounts to reduce outstanding advance payments and any other claims of the Government against the Contractor.</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Withdraw by checks payable to the Treasurer of the United States, signed only by the countersigning agency, all or any part of the balance in the special account and apply the amounts to reduce outstanding advance payments and any other claims of the Government against the Contractor.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e307" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Charge interest, in the manner prescribed in paragraph (f) of this clause, on outstanding advance payments during the period of any event described in paragraph (k)(1) of this clause.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Charge interest, in the manner prescribed in paragraph (f) of this clause, on outstanding advance payments during the period of any event described in paragraph (k)(1) of this clause.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e312" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              Demand immediate repayment by the Contractor of the unliquidated balance of advance payments.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Demand immediate repayment by the Contractor of the unliquidated balance of advance payments.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3508e317" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              Take possession of and, with or without advertisement, sell at public or private sale all or any part of the property on which the Government has a lien under this contract and, after deducting any expenses incident to the sale, apply the net proceeds of the sale to reduce the unliquidated balance of advance payments or other Government claims against the Contractor.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>Take possession of and, with or without advertisement, sell at public or private sale all or any part of the property on which the Government has a lien under this contract and, after deducting any expenses incident to the sale, apply the net proceeds of the sale to reduce the unliquidated balance of advance payments or other Government claims against the Contractor.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e322" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        The Government may take any of the actions described in paragraphs (k)(1) and (2) of this clause it considers appropriate at its discretion and without limiting any other rights of the Government.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The Government may take any of the actions described in paragraphs (k)(1) and (2) of this clause it considers appropriate at its discretion and without limiting any other rights of the Government.</p>
                   </li>
                </ol>
             </li>
@@ -329,43 +288,35 @@
                <ol id="d3466e595" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3508e357" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        The balance sheet, the profit and loss statement, and any other supporting financial statements furnished to the administering office fairly reflect the financial condition of the Contractor at the date shown or the period covered, and there has been no subsequent materially adverse change in the financial condition of the Contractor.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The balance sheet, the profit and loss statement, and any other supporting financial statements furnished to the administering office fairly reflect the financial condition of the Contractor at the date shown or the period covered, and there has been no subsequent materially adverse change in the financial condition of the Contractor.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e362" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        No litigation or proceedings are presently pending or threatened against the Contractor, except as shown in the financial statements.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>No litigation or proceedings are presently pending or threatened against the Contractor, except as shown in the financial statements.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e367" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        The Contractor has disclosed all contingent liabilities, except for liability resulting from the renegotiation of defense production contracts, in the financial statements furnished to the administering office.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The Contractor has disclosed all contingent liabilities, except for liability resulting from the renegotiation of defense production contracts, in the financial statements furnished to the administering office.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e372" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        None of the terms in this clause conflict with the authority under which the Contractor is doing business or with the provision of any existing indenture or agreement of the Contractor.</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>None of the terms in this clause conflict with the authority under which the Contractor is doing business or with the provision of any existing indenture or agreement of the Contractor.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e377" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        The Contractor has the power to enter into this contract and accept advance payments, and has taken all necessary action to authorize the acceptance under the terms of this contract.</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>The Contractor has the power to enter into this contract and accept advance payments, and has taken all necessary action to authorize the acceptance under the terms of this contract.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e382" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        The assets of the Contractor are not subject to any lien or encumbrance of any character except for current taxes not delinquent, and except as shown in the financial statements furnished by the Contractor. There is no current assignment of claims under any contract affected by these advance payment provisions.</p>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>The assets of the Contractor are not subject to any lien or encumbrance of any character except for current taxes not delinquent, and except as shown in the financial statements furnished by the Contractor. There is no current assignment of claims under any contract affected by these advance payment provisions.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e387" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        All information furnished by the Contractor to the administering office in connection with each request for advance payments is true and correct.</p>
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>All information furnished by the Contractor to the administering office in connection with each request for advance payments is true and correct.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e392" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        These representations shall be continuing and shall be considered to have been repeated by the submission of each invoice for advance payments.</p>
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph>These representations shall be continuing and shall be considered to have been repeated by the submission of each invoice for advance payments.</p>
                   </li>
                </ol>
             </li>
@@ -376,82 +327,67 @@
                <ol id="d3466e683" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3508e405" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Mortgage, pledge, or otherwise encumber or allow to be encumbered, any of the assets of the Contractor now owned or subsequently acquired, or permit any preexisting mortgages, liens, or other encumbrances to remain on or attach to any assets of the Contractor which are allocated to performing this contract and with respect to which the Government has a lien under this contract;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Mortgage, pledge, or otherwise encumber or allow to be encumbered, any of the assets of the Contractor now owned or subsequently acquired, or permit any preexisting mortgages, liens, or other encumbrances to remain on or attach to any assets of the Contractor which are allocated to performing this contract and with respect to which the Government has a lien under this contract;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e410" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Sell, assign, transfer, or otherwise dispose of accounts receivable, notes, or claims for money due or to become due;</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Sell, assign, transfer, or otherwise dispose of accounts receivable, notes, or claims for money due or to become due;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e415" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Declare or pay any dividends, except dividends payable in stock of the corporation, or make any other distribution on account of any shares of its capital stock, or purchase, redeem, or otherwise acquire for value any of its stock, except as required by sinking fund or redemption arrangements reported to the administering office incident to the establishment of these advance payment provisions;</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Declare or pay any dividends, except dividends payable in stock of the corporation, or make any other distribution on account of any shares of its capital stock, or purchase, redeem, or otherwise acquire for value any of its stock, except as required by sinking fund or redemption arrangements reported to the administering office incident to the establishment of these advance payment provisions;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e420" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        Sell, convey, or lease all or a substantial part of its assets;</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Sell, convey, or lease all or a substantial part of its assets;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e425" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        Acquire for value the stock or other securities of any corporation, municipality, or governmental authority, except direct obligations of the United States;</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>Acquire for value the stock or other securities of any corporation, municipality, or governmental authority, except direct obligations of the United States;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e430" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        Make any advance or loan or incur any liability as guarantor, surety, or accommodation endorser for any party;</p>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>Make any advance or loan or incur any liability as guarantor, surety, or accommodation endorser for any party;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e435" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        Permit a writ of attachment or any similar process to be issued against its property without getting a release or bonding the property within 30 days after the entry of the writ of attachment or other process;</p>
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>Permit a writ of attachment or any similar process to be issued against its property without getting a release or bonding the property within 30 days after the entry of the writ of attachment or other process;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e440" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        Pay any remuneration in any form to its directors, officers, or key employees higher than rates provided in existing agreements of which notice has been given to the administering office; accrue excess remuneration without first obtaining an agreement subordinating it to all claims of the Government; or employ any person at a rate of compensation over $_____ ayear;</p>
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph>Pay any remuneration in any form to its directors, officers, or key employees higher than rates provided in existing agreements of which notice has been given to the administering office; accrue excess remuneration without first obtaining an agreement subordinating it to all claims of the Government; or employ any person at a rate of compensation over $_____ ayear;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e445" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(9)</ph>
-                        Change substantially the management, ownership, or control of the corporation;</p>
+                        <ph props="autonumber" class="- topic/ph ">(9)</ph>Change substantially the management, ownership, or control of the corporation;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e450" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(10)</ph>
-                        Merge or consolidate with any other firm or corporation, change the type of business, or engage in any transaction outside the ordinary course of the Contractor’s business as presently conducted;</p>
+                        <ph props="autonumber" class="- topic/ph ">(10)</ph>Merge or consolidate with any other firm or corporation, change the type of business, or engage in any transaction outside the ordinary course of the Contractor’s business as presently conducted;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e455" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(11)</ph>
-                        Deposit any of its funds except in a bank or trust company insured by the Federal Deposit Insurance Corporation or a credit union insured by the National Credit Union Administration;</p>
+                        <ph props="autonumber" class="- topic/ph ">(11)</ph>Deposit any of its funds except in a bank or trust company insured by the Federal Deposit Insurance Corporation or a credit union insured by the National Credit Union Administration;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e461" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(12)</ph>
-                        Create or incur indebtedness for advances, other than advances to be made under the terms of this contract, or for borrowings;</p>
+                        <ph props="autonumber" class="- topic/ph ">(12)</ph>Create or incur indebtedness for advances, other than advances to be made under the terms of this contract, or for borrowings;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e466" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(13)</ph>
-                        Make or covenant for capital expenditures exceeding $<cite outputclass="SingleLine"
+                        <ph props="autonumber" class="- topic/ph ">(13)</ph>Make or covenant for capital expenditures exceeding $<cite outputclass="SingleLine"
                               xtrc="52.232-12_d3490e815"
                               class="- topic/cite ">_____</cite> in total;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e474" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(14)</ph>
-                        Permit its net current assets, computed in accordance with generally accepted accounting principles, to become less than $<cite outputclass="SingleLine"
+                        <ph props="autonumber" class="- topic/ph ">(14)</ph>Permit its net current assets, computed in accordance with generally accepted accounting principles, to become less than $<cite outputclass="SingleLine"
                               xtrc="52.232-12_d3490e827"
                               class="- topic/cite ">_____</cite>; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3508e482" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(15)</ph>
-                        Make any payments on account of the obligations listed below, except in the manner and to the extent provided in this contract:</p>
+                        <ph props="autonumber" class="- topic/ph ">(15)</ph>Make any payments on account of the obligations listed below, except in the manner and to the extent provided in this contract:</p>
                      <p id="d3508e486" class="- topic/p ">
                         <cite outputclass="MultiLine"
                               xtrc="52.232-12_d3490e842"

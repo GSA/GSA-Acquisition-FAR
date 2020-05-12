@@ -6,16 +6,17 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1051386"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.228-15</ph> Performance and Payment Bonds-Construction.</title>
       <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p id="d3474e8" class="- topic/p ">As prescribed in 
+         <p id="d3474e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1088607.dita#i1088607"
-                  base="i1088607"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">28.102-3</xref>(a), insert a clause substantially as follows:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Performance and Payment Bonds-Construction <ph outputclass="SmCaps">(Oct 2010)</ph>
+                     base="i1088607"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">28.102-3</xref>(a)</ph>, insert a clause substantially as follows:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Performance and Payment Bonds-Construction <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2010)</ph>
          </p>
          <ol id="d3432e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -23,7 +24,10 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause-</p>
                <p id="d3474e25" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.228-15" xtrc="d3467e40">Original contract price</i> means the award price of the contract; or, for requirements contracts, the price payable for the estimated total quantity; or, for indefinite-quantity contracts, the price payable for the specified minimum quantity. Original contract price does not include the price of any options, except those options exercised at the time of contract award.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.228-15"
+                     xtrc="d3467e40"
+                     class="+ topic/ph hi-d/i ">Original contract price</i> means the award price of the contract; or, for requirements contracts, the price payable for the estimated total quantity; or, for indefinite-quantity contracts, the price payable for the specified minimum quantity. Original contract price does not include the price of any options, except those options exercised at the time of contract award.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3474e30" class="- topic/p ">
@@ -48,18 +52,15 @@
                   </li>
                   <li props="Runin" class="- topic/li ">
                      <p id="d3474e58" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Additional bond protection.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Additional bond protection. </p>
                      <ol id="d3432e96" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3474e64" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              The Government may require additional performance and payment bond protection if the contract price is increased. The increase in protection generally will equal 100 percent of the increase in contract price.</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The Government may require additional performance and payment bond protection if the contract price is increased. The increase in protection generally will equal 100 percent of the increase in contract price.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3474e69" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              The Government may secure the additional protection by directing the Contractor to increase the penal amount of the existing bond or to obtain an additional bond.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The Government may secure the additional protection by directing the Contractor to increase the penal amount of the existing bond or to obtain an additional bond.</p>
                         </li>
                      </ol>
                   </li>

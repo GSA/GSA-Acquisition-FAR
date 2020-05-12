@@ -6,23 +6,24 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="i1049486"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.232-7</ph> Payments under Time-and-Materials and Labor-Hour Contracts.</title>
       <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p id="d3503e8" class="- topic/p ">As prescribed in 
+         <p id="d3503e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1083775.dita#i1083775"
-                  base="i1083775"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">32.111</xref>(a)(7), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Payments under Time-and-Materials and Labor-Hour Contracts <ph outputclass="SmCaps">(Aug 2012)</ph>
+                     base="i1083775"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">32.111</xref>(a)(7)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Payments under Time-and-Materials and Labor-Hour Contracts <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2012)</ph>
          </p>
          <p class="- topic/p ">The Government will pay the Contractor as follows upon the submission of vouchers approved by the Contracting Officer or the authorized representative:</p>
          <ol id="d3461e28" class="- topic/ol ">
             <li props="Runin" class="- topic/li ">
                <p id="d3503e21" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Hourly rate</i>.</p>
+                  <i class="+ topic/ph hi-d/i ">Hourly rate</i>. </p>
                <ol id="d3461e41" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3503e29" class="- topic/p ">
@@ -31,85 +32,71 @@
                      <ol id="d3461e54" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3503e37" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Performed by the Contractor;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Performed by the Contractor;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3503e42" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Performed by the subcontractors; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Performed by the subcontractors; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3503e47" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              Transferred between divisions, subsidiaries, or affiliates of the Contractor under a common control.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Transferred between divisions, subsidiaries, or affiliates of the Contractor under a common control.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e52" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        The amounts shall be computed by multiplying the appropriate hourly rates prescribed in the Schedule by the number of direct labor hours performed.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The amounts shall be computed by multiplying the appropriate hourly rates prescribed in the Schedule by the number of direct labor hours performed.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e57" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        The hourly rates shall be paid for all labor performed on the contract that meets the labor qualifications specified in the contract. Labor hours incurred to perform tasks for which labor qualifications were specified in the contract will not be paid to the extent the work is performed by employees that do not meet the qualifications specified in the contract, unless specifically authorized by the Contracting Officer.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The hourly rates shall be paid for all labor performed on the contract that meets the labor qualifications specified in the contract. Labor hours incurred to perform tasks for which labor qualifications were specified in the contract will not be paid to the extent the work is performed by employees that do not meet the qualifications specified in the contract, unless specifically authorized by the Contracting Officer.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e62" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        The hourly rates shall include wages, indirect costs, general and administrative expense, and profit. Fractional parts of an hour shall be payable on a prorated basis.</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>The hourly rates shall include wages, indirect costs, general and administrative expense, and profit. Fractional parts of an hour shall be payable on a prorated basis.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e67" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        Vouchers may be submitted not more than once every two weeks, to the Contracting Officer or authorized representative. A small business concern may receive more frequent payments than every two weeks. The Contractor shall substantiate vouchers (including any subcontractor hours reimbursed at the hourly rate in the schedule) by evidence of actual payment and by-</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>Vouchers may be submitted not more than once every two weeks, to the Contracting Officer or authorized representative. A small business concern may receive more frequent payments than every two weeks. The Contractor shall substantiate vouchers (including any subcontractor hours reimbursed at the hourly rate in the schedule) by evidence of actual payment and by-</p>
                      <ol id="d3461e120" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3503e73" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Individual daily job timekeeping records;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Individual daily job timekeeping records;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3503e78" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Records that verify the employees meet the qualifications for the labor categories specified in the contract; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Records that verify the employees meet the qualifications for the labor categories specified in the contract; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3503e83" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              Other substantiation approved by the Contracting Officer.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Other substantiation approved by the Contracting Officer.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e88" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        Promptly after receipt of each substantiated voucher, the Government shall, except as otherwise provided in this contract, and subject to the terms of paragraph (e) of this clause, pay the voucher as approved by the Contracting Officer or authorized representative.</p>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>Promptly after receipt of each substantiated voucher, the Government shall, except as otherwise provided in this contract, and subject to the terms of paragraph (e) of this clause, pay the voucher as approved by the Contracting Officer or authorized representative.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e93" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        Unless otherwise prescribed in the Schedule, the Contracting Officer may unilaterally issue a contract modification requiring the Contractor to withhold amounts from its billings until a reserve is set aside in an amount that the Contracting Officer considers necessary to protect the Government's interests. The Contracting Officer may require a withhold of 5 percent of the amounts due under paragraph (a) of this clause, but the total amount withheld for the contract shall not exceed $50,000. The amounts withheld shall be retained until the Contractor executes and delivers the release required by paragraph (g) of this clause.</p>
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>Unless otherwise prescribed in the Schedule, the Contracting Officer may unilaterally issue a contract modification requiring the Contractor to withhold amounts from its billings until a reserve is set aside in an amount that the Contracting Officer considers necessary to protect the Government's interests. The Contracting Officer may require a withhold of 5 percent of the amounts due under paragraph (a) of this clause, but the total amount withheld for the contract shall not exceed $50,000. The amounts withheld shall be retained until the Contractor executes and delivers the release required by paragraph (g) of this clause.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e98" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        Unless the Schedule prescribes otherwise, the hourly rates in the Schedule shall not be varied by virtue of the Contractor having performed work on an overtime basis. If no overtime rates are provided in the Schedule and overtime work is approved in advance by the Contracting Officer, overtime rates shall be negotiated. Failure to agree upon these overtime rates shall be treated as a dispute under the Disputes clause of this contract. If the Schedule provides rates for overtime, the premium portion of those rates will be reimbursable only to the extent the overtime is approved by the Contracting Officer.</p>
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph>Unless the Schedule prescribes otherwise, the hourly rates in the Schedule shall not be varied by virtue of the Contractor having performed work on an overtime basis. If no overtime rates are provided in the Schedule and overtime work is approved in advance by the Contracting Officer, overtime rates shall be negotiated. Failure to agree upon these overtime rates shall be treated as a dispute under the Disputes clause of this contract. If the Schedule provides rates for overtime, the premium portion of those rates will be reimbursable only to the extent the overtime is approved by the Contracting Officer.</p>
                   </li>
                </ol>
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3503e103" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <i class="+ topic/ph hi-d/i ">Materials.</i>
+                  <i class="+ topic/ph hi-d/i ">Materials.</i> 
                </p>
                <ol id="d3461e192" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3503e110" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        For the purposes of this clause-</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>For the purposes of this clause-</p>
                      <ol id="d3461e202" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3503e116" class="- topic/p ">
@@ -123,23 +110,19 @@
                            <ol id="d3461e227" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3503e131" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    Direct materials, including supplies transferred between divisions, subsidiaries, or affiliates of the Contractor under a common control;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Direct materials, including supplies transferred between divisions, subsidiaries, or affiliates of the Contractor under a common control;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3503e136" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    Subcontracts for supplies and incidental services for which there is not a labor category specified in the contract;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Subcontracts for supplies and incidental services for which there is not a labor category specified in the contract;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3503e141" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                    Other direct costs (<i class="+ topic/ph hi-d/i ">e.g.</i>, incidental services for which there is not a labor category specified in the contract, travel, computer usage charges, etc.); and</p>
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>Other direct costs (<i class="+ topic/ph hi-d/i ">e.g.</i>, incidental services for which there is not a labor category specified in the contract, travel, computer usage charges, etc.); and</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3503e149" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>
-                                    Applicable indirect costs.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>Applicable indirect costs.</p>
                               </li>
                            </ol>
                         </li>
@@ -147,92 +130,77 @@
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e154" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        If the Contractor furnishes its own materials that meet the definition of a commercial item at <xref href="FAR-i1125359.dita#i1125359"
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>If the Contractor furnishes its own materials that meet the definition of a commercial item at <xref href="FAR-i1125359.dita#i1125359"
                               base="i1125359"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">2.101</xref>, the price to be paid for such materials shall not exceed the Contractor's established catalog or market price, adjusted to reflect the-</p>
                      <ol id="d3461e283" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3503e163" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Quantities being acquired; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Quantities being acquired; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3503e168" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Actual cost of any modifications necessary because of contract requirements.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Actual cost of any modifications necessary because of contract requirements.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e173" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Except as provided for in paragraph (b)(2) of this clause, the Government will reimburse the Contractor for allowable cost of materials provided the Contractor-</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Except as provided for in paragraph (b)(2) of this clause, the Government will reimburse the Contractor for allowable cost of materials provided the Contractor-</p>
                      <ol id="d3461e313" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3503e179" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Has made payments for materials in accordance with the terms and conditions of the agreement or invoice; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Has made payments for materials in accordance with the terms and conditions of the agreement or invoice; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3503e184" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Ordinarily makes these payments within 30 days of the submission of the Contractor's payment request to the Government and such payment is in accordance with the terms and conditions of the agreement or invoice.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Ordinarily makes these payments within 30 days of the submission of the Contractor's payment request to the Government and such payment is in accordance with the terms and conditions of the agreement or invoice.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e189" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        Payment for materials is subject to the Allowable Cost and Payment clause of this contract. The Contracting Officer will determine allowable costs of materials in accordance with <xref href="FAR-i1084539.dita#i1084539"
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Payment for materials is subject to the Allowable Cost and Payment clause of this contract. The Contracting Officer will determine allowable costs of materials in accordance with <xref href="FAR-i1084539.dita#i1084539"
                               base="i1084539"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  31.2</xref> of the Federal Acquisition Regulation (FAR) in effect on the date of this contract.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e197" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        The Contractor may include allocable indirect costs and other direct costs to the extent they are-</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>The Contractor may include allocable indirect costs and other direct costs to the extent they are-</p>
                      <ol id="d3461e355" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3503e203" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Comprised only of costs that are clearly excluded from the hourly rate;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Comprised only of costs that are clearly excluded from the hourly rate;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3503e208" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Allocated in accordance with the Contractor's written or established accounting practices; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Allocated in accordance with the Contractor's written or established accounting practices; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3503e213" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              Indirect costs are not applied to subcontracts that are paid at the hourly rates.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Indirect costs are not applied to subcontracts that are paid at the hourly rates.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e218" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        To the extent able, the Contractor shall-</p>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>To the extent able, the Contractor shall-</p>
                      <ol id="d3461e395" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3503e224" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Obtain materials at the most advantageous prices available with due regard to securing prompt delivery of satisfactory materials; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Obtain materials at the most advantageous prices available with due regard to securing prompt delivery of satisfactory materials; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3503e229" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Take all cash and trade discounts, rebates, allowances, credits, salvage, commissions, and other benefits. When unable to take advantage of the benefits, the Contractor shall promptly notify the Contracting Officer and give the reasons. The Contractor shall give credit to the Government for cash and trade discounts, rebates, scrap, commissions, and other amounts that have accrued to the benefit of the Contractor, or would have accrued except for the fault or neglect of the Contractor. The Contractor shall not deduct from gross costs the benefits lost without fault or neglect on the part of the Contractor, or lost through fault of the Government.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Take all cash and trade discounts, rebates, allowances, credits, salvage, commissions, and other benefits. When unable to take advantage of the benefits, the Contractor shall promptly notify the Contracting Officer and give the reasons. The Contractor shall give credit to the Government for cash and trade discounts, rebates, scrap, commissions, and other amounts that have accrued to the benefit of the Contractor, or would have accrued except for the fault or neglect of the Contractor. The Contractor shall not deduct from gross costs the benefits lost without fault or neglect on the part of the Contractor, or lost through fault of the Government.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e234" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        Except as provided for in <xref href="FAR-i1085305.dita#i1085305"
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>Except as provided for in <xref href="FAR-i1085305.dita#i1085305"
                               base="i1085305"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">31.205-26</xref>(e) and (f), the Government will not pay profit or fee to the prime Contractor on materials.</p>
@@ -241,8 +209,7 @@
             </li>
             <li class="- topic/li ">
                <p id="d3503e242" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  If the Contractor enters into any subcontract that requires consent under the clause at <xref href="FAR-i1048325.dita#i1048325"
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>If the Contractor enters into any subcontract that requires consent under the clause at <xref href="FAR-i1048325.dita#i1048325"
                         base="i1048325"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.244-2</xref>, Subcontracts, without obtaining such consent, the Government is not required to reimburse the Contractor for any costs incurred under the subcontract prior to the date the Contractor obtains the required consent. Any reimbursement of subcontract costs incurred prior to the date the consent was obtained shall be at the sole discretion of the Government.</p>
@@ -269,36 +236,31 @@
                <ol id="d3461e491" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3503e279" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Specified claims in stated amounts, or in estimated amounts if the amounts are not susceptible of exact statement by the Contractor.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Specified claims in stated amounts, or in estimated amounts if the amounts are not susceptible of exact statement by the Contractor.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e284" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Claims, together with reasonable incidental expenses, based upon the liabilities of the Contractor to third parties arising out of performing this contract, that are not known to the Contractor on the date of the execution of the release, and of which the Contractor gives notice in writing to the Contracting Officer not more than 6 years after the date of the release or the date of any notice to the Contractor that the Government is prepared to make final payment, whichever is earlier.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Claims, together with reasonable incidental expenses, based upon the liabilities of the Contractor to third parties arising out of performing this contract, that are not known to the Contractor on the date of the execution of the release, and of which the Contractor gives notice in writing to the Contracting Officer not more than 6 years after the date of the release or the date of any notice to the Contractor that the Government is prepared to make final payment, whichever is earlier.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e289" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Claims for reimbursement of costs (other than expenses of the Contractor by reason of its indemnification of the Government against patent liability), including reasonable incidental expenses, incurred by the Contractor under the terms of this contract relating to patents.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Claims for reimbursement of costs (other than expenses of the Contractor by reason of its indemnification of the Government against patent liability), including reasonable incidental expenses, incurred by the Contractor under the terms of this contract relating to patents.</p>
                   </li>
                </ol>
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3503e294" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(h)</ph>
-                  <i class="+ topic/ph hi-d/i ">Interim payments on contracts for other than services.</i>
+                  <i class="+ topic/ph hi-d/i ">Interim payments on contracts for other than services.</i> 
                </p>
                <ol id="d3461e533" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3503e301" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Interim payments made prior to the final payment under the contract are contract financing payments. Contract financing payments are not subject to the interest penalty provisions of the Prompt Payment Act.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Interim payments made prior to the final payment under the contract are contract financing payments. Contract financing payments are not subject to the interest penalty provisions of the Prompt Payment Act.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3503e306" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        The designated payment office will make interim payments for contract financing on the _________ [<i class="+ topic/ph hi-d/i ">Contracting Officer insert day as prescribed by agency head; if not prescribed, insert “30th”</i>] day after the designated billing office receives a proper payment request. In the event that the Government requires an audit or other review of a specific payment request to ensure compliance with the terms and conditions of the contract, the designated payment office is not compelled to make payment by the specified due date.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The designated payment office will make interim payments for contract financing on the _________ [<i class="+ topic/ph hi-d/i ">Contracting Officer insert day as prescribed by agency head; if not prescribed, insert “30th”</i>] day after the designated billing office receives a proper payment request. In the event that the Government requires an audit or other review of a specific payment request to ensure compliance with the terms and conditions of the contract, the designated payment office is not compelled to make payment by the specified due date.</p>
                   </li>
                </ol>
             </li>
@@ -308,7 +270,7 @@
                   <i class="+ topic/ph hi-d/i ">Interim payments on contracts for services</i>. For interim payments made prior to the final payment under this contract, the Government will make payment in accordance with the Prompt Payment Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">31 U.S.C. 3903</xref>) and prompt payment regulations at <ph outputclass="CFR">5 CFR part 1315</ph>.</p>
+                        class="- topic/xref ">31 U.S.C. 3903</xref>) and prompt payment regulations at <ph outputclass="CFR" class="- topic/ph ">5 CFR part 1315</ph>.</p>
                <p id="d3503e323" class="- topic/p "/>
             </li>
          </ol>

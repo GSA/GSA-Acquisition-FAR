@@ -6,17 +6,18 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1048291"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.243-7</ph> Notification of Changes.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p id="d3631e8" class="- topic/p ">As prescribed in 
+         <p id="d3631e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                  href="FAR-i1074075.dita#i1074075"
-                  base="i1074075"
-                  class="- topic/xref ">43.107</xref>
-            , insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Notification of Changes <ph outputclass="SmCaps">(Jan 2017)</ph>
+                     href="FAR-i1074075.dita#i1074075"
+                     base="i1074075"
+                     class="- topic/xref ">43.107</xref>
+            </ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Notification of Changes <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph>
          </p>
          <ol id="d3590e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -34,55 +35,45 @@
                <ol id="d3590e56" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3631e38" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        The date, nature, and circumstances of the conduct regarded as a change;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The date, nature, and circumstances of the conduct regarded as a change;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3631e43" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        The name, function, and activity of each Government individual and Contractor official or employee involved in or knowledgeable about such conduct;</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The name, function, and activity of each Government individual and Contractor official or employee involved in or knowledgeable about such conduct;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3631e48" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        The identification of any documents and the substance of any oral communication involved in such conduct;</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The identification of any documents and the substance of any oral communication involved in such conduct;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3631e53" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        In the instance of alleged acceleration of scheduled performance or delivery, the basis upon which it arose;</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>In the instance of alleged acceleration of scheduled performance or delivery, the basis upon which it arose;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3631e58" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        The particular elements of contract performance for which the Contractor may seek an equitable adjustment under this clause, including-</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>The particular elements of contract performance for which the Contractor may seek an equitable adjustment under this clause, including-</p>
                      <ol id="d3590e102" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3631e64" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              What line items have been or may be affected by the alleged change;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>What line items have been or may be affected by the alleged change;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3631e69" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              What labor or materials or both have been or may be added, deleted, or wasted by the alleged change;</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>What labor or materials or both have been or may be added, deleted, or wasted by the alleged change;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3631e74" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              To the extent practicable, what delay and disruption in the manner and sequence of performance and effect on continued performance have been or may be caused by the alleged change;</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>To the extent practicable, what delay and disruption in the manner and sequence of performance and effect on continued performance have been or may be caused by the alleged change;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3631e79" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              What adjustments to contract price, delivery schedule, and other provisions affected by the alleged change are estimated; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>What adjustments to contract price, delivery schedule, and other provisions affected by the alleged change are estimated; and</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3631e84" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        The Contractor’s estimate of the time by which the Government must respond to the Contractor’s notice to minimize cost, delay or disruption of performance.</p>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>The Contractor’s estimate of the time by which the Government must respond to the Contractor’s notice to minimize cost, delay or disruption of performance.</p>
                   </li>
                </ol>
             </li>
@@ -100,52 +91,43 @@
                <ol id="d3590e177" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3631e107" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Confirm that the conduct of which the Contractor gave notice constitutes a change and when necessary direct the mode of further performance;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Confirm that the conduct of which the Contractor gave notice constitutes a change and when necessary direct the mode of further performance;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3631e112" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Countermand any communication regarded as a change;</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Countermand any communication regarded as a change;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3631e117" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Deny that the conduct of which the Contractor gave notice constitutes a change and when necessary direct the mode of further performance; or</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Deny that the conduct of which the Contractor gave notice constitutes a change and when necessary direct the mode of further performance; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3631e122" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        In the event the Contractor’s notice information is inadequate to make a decision under paragraphs (d)(1), (2), or (3) of this clause, advise the Contractor what additional information is required, and establish the date by which it should be furnished and the date thereafter by which the Government will respond.</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>In the event the Contractor’s notice information is inadequate to make a decision under paragraphs (d)(1), (2), or (3) of this clause, advise the Contractor what additional information is required, and establish the date by which it should be furnished and the date thereafter by which the Government will respond.</p>
                   </li>
                </ol>
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3631e127" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  Equitable adjustments.</p>
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>Equitable adjustments. </p>
                <ol id="d3590e225" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3631e133" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        If the Contracting Officer confirms that Government conduct effected a change as alleged by the Contractor, and the conduct causes an increase or decrease in the Contractor’s cost of, or the time required for, performance of any part of the work under this contract, whether changed or not changed by such conduct, an equitable adjustment shall be made-</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>If the Contracting Officer confirms that Government conduct effected a change as alleged by the Contractor, and the conduct causes an increase or decrease in the Contractor’s cost of, or the time required for, performance of any part of the work under this contract, whether changed or not changed by such conduct, an equitable adjustment shall be made-</p>
                      <ol id="d3590e235" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3631e139" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              In the contract price or delivery schedule or both; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>In the contract price or delivery schedule or both; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3631e144" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              In such other provisions of the contract as may be affected.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>In such other provisions of the contract as may be affected.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3631e149" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        The contract shall be modified in writing accordingly. In the case of drawings, designs or specifications which are defective and for which the Government is responsible, the equitable adjustment shall include the cost and time extension for delay reasonably incurred by the Contractor in attempting to comply with the defective drawings, designs or specifications before the Contractor identified, or reasonably should have identified, such defect. When the cost of property made obsolete or excess as a result of a change confirmed by the Contracting Officer under this clause is included in the equitable adjustment, the Contracting Officer shall have the right to prescribe the manner of disposition of the property. The equitable adjustment shall not include increased costs or time extensions for delay resulting from the Contractor’s failure to provide notice or to continue performance as provided, respectively, in paragraphs (b) and (c) of this clause.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The contract shall be modified in writing accordingly. In the case of drawings, designs or specifications which are defective and for which the Government is responsible, the equitable adjustment shall include the cost and time extension for delay reasonably incurred by the Contractor in attempting to comply with the defective drawings, designs or specifications before the Contractor identified, or reasonably should have identified, such defect. When the cost of property made obsolete or excess as a result of a change confirmed by the Contracting Officer under this clause is included in the equitable adjustment, the Contracting Officer shall have the right to prescribe the manner of disposition of the property. The equitable adjustment shall not include increased costs or time extensions for delay resulting from the Contractor’s failure to provide notice or to continue performance as provided, respectively, in paragraphs (b) and (c) of this clause.</p>
                      <p id="d3631e153" class="- topic/p ">
                         <term class="- topic/term ">Note:</term> The phrases “contract price” and “cost” wherever they appear in the clause, may be appropriately modified to apply to cost-reimbursement or incentive contracts, or to combinations thereof.</p>
                   </li>

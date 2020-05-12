@@ -6,23 +6,23 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1063685"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.203-17</ph> Contractor Employee Whistleblower Rights and Requirement To Inform Employees of Whistleblower Rights.</title>
       <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p id="d3076e8" class="- topic/p ">As prescribed in 
+         <p id="d3076e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1123984.dita#i1123984"
-                  base="i1123984"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">3.908-9</xref>
-            , insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Contractor Employee Whistleblower Rights and Requirement to Inform Employees of Whistleblower Rights <ph outputclass="SmCaps">(Apr 2014)</ph>
+                     base="i1123984"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">3.908-9</xref>
+            </ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Contractor Employee Whistleblower Rights and Requirement to Inform Employees of Whistleblower Rights <ph outputclass="SmCaps" class="- topic/ph ">(Apr 2014)</ph>
          </p>
          <ol id="d3042e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3076e18" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  This contract and employees working on this contract will be subject to the whistleblower rights and remedies in the pilot program on Contractor employee whistleblower protections established at <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>This contract and employees working on this contract will be subject to the whistleblower rights and remedies in the pilot program on Contractor employee whistleblower protections established at <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
                         class="- topic/xref ">41 U.S.C. 4712</xref> by section 828 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239) and FAR <xref href="FAR-i1123923.dita#i1123923"
@@ -32,8 +32,7 @@
             </li>
             <li class="- topic/li ">
                <p id="d3076e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  The Contractor shall inform its employees in writing, in the predominant language of the workforce, of employee whistleblower rights and protections under <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The Contractor shall inform its employees in writing, in the predominant language of the workforce, of employee whistleblower rights and protections under <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
                         class="- topic/xref ">41 U.S.C. 4712</xref>, as described in section <xref href="FAR-i1123923.dita#i1123923"
@@ -43,8 +42,7 @@
             </li>
             <li class="- topic/li ">
                <p id="d3076e40" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  The Contractor shall insert the substance of this clause, including this paragraph (c), in all subcontracts over the simplified acquisition threshold.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>The Contractor shall insert the substance of this clause, including this paragraph (c), in all subcontracts over the simplified acquisition threshold.</p>
             </li>
          </ol>
          <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>

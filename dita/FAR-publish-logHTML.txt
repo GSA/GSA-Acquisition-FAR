@@ -1,7 +1,50 @@
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/Users/tomal/Desktop/GSA-Acquisition-FAR_DONOTERASE/dita/4.1102.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/Users/tomal/Desktop/GSA-Acquisition-FAR_DONOTERASE/dita/19.102.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/Users/tomal/Desktop/GSA-Acquisition-FAR_DONOTERASE/dita/25.301-1.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/Users/tomal/Desktop/GSA-Acquisition-FAR_DONOTERASE/dita/25.301-4.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/Users/tomal/Desktop/GSA-Acquisition-FAR_DONOTERASE/dita/52.219-28.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/Users/tomal/Desktop/GSA-Acquisition-FAR_DONOTERASE/dita/52.223-15.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/Users/tomal/Desktop/GSA-Acquisition-FAR_DONOTERASE/dita/52.225-19.dita' does not exist or cannot be loaded.
 [move-meta] [DOTX019W][WARN]: The type attribute on a topicref was set to 'concept', but the topicref references a 'topic' topic. This may cause your links to sort incorrectly in the output. Note that the type attribute cascades in maps, so the value 'concept' may come from an ancestor topicref. 
-[topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\i1064748.dita (The system cannot find the file specified)
-[topicpull] [DOTX031E][ERROR]: The file i1064748.dita#i52_219-9 is not available to resolve link information. 
-[topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\i1064748.dita (The system cannot find the file specified)
-[topicpull] [DOTX031E][ERROR]: The file i1064748.dita#i52_219-9 is not available to resolve link information. 
-[topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\i1064748.dita (The system cannot find the file specified)
-[topicpull] [DOTX031E][ERROR]: The file i1064748.dita#i52_219-9 is not available to resolve link information. 
+[topicpull] [DOTX030W][WARN]: The type attribute on a link element was set to concept, but the reference is to a topic topic. This may cause your links to sort incorrectly in the output. 
+[topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\FAR-i52_219-9.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file FAR-i52_219-9.dita#i52_219-9 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\FAR-i52_219-9.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file FAR-i52_219-9.dita#i52_219-9 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\4.1102.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 4.1102.dita#i1122074 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\4.1102.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 4.1102.dita#i1122074/d271e49 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\19.102.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 19.102.dita#i1101844 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\19.102.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 19.102.dita#i1101844/d1150e19 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\25.301-1.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 25.301-1.dita#id1617MD080R8 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\25.301-1.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 25.301-1.dita#id1617MD080R8/d1639e43 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\25.301-4.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 25.301-4.dita#i1092942 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\25.301-4.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 25.301-4.dita#i1092942/d1642e43 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\52.219-28.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 52.219-28.dita#i1057874 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\52.219-28.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 52.219-28.dita#i1057874/d3303e93 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\52.223-15.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 52.223-15.dita#i1053246 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\52.223-15.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 52.223-15.dita#i1053246/d3389e114 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\52.225-19.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 52.225-19.dita#i1054312 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\52.225-19.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 52.225-19.dita#i1054312/d3420e83 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200512152522721\52.225-19.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file 52.225-19.dita#i1054312/d3420e583 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\FAR-i52_219-9.dita (The system cannot find the file specified)
+[topicpull] [DOTX031E][ERROR]: The file FAR-i52_219-9.dita#i52_219-9 is not available to resolve link information. 
+[topicpull] [DOTX029I][INFO]: The type attribute on a link element was set to topic, but the reference is to a more specific concept topic. This may cause your links to sort incorrectly in the output. 
+[topicpull] [DOTX029I][INFO]: The type attribute on a link element was set to topic, but the reference is to a more specific concept topic. This may cause your links to sort incorrectly in the output. 
+[topicpull] [DOTX029I][INFO]: The type attribute on a link element was set to topic, but the reference is to a more specific concept topic. This may cause your links to sort incorrectly in the output. 
+[topicpull] [DOTX029I][INFO]: The type attribute on a link element was set to topic, but the reference is to a more specific concept topic. This may cause your links to sort incorrectly in the output. 
+[topicpull] [DOTX029I][INFO]: The type attribute on a link element was set to topic, but the reference is to a more specific concept topic. This may cause your links to sort incorrectly in the output. 

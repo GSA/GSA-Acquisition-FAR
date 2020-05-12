@@ -6,17 +6,18 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1044553"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.248-3</ph> Value Engineering-Construction.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p id="d3748e8" class="- topic/p ">As prescribed in 
+         <p id="d3748e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1069432.dita#i1069432"
-                  base="i1069432"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">48.202</xref>
-            , insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Value Engineering-Construction <ph outputclass="SmCaps">(Oct 2015)</ph>
+                     base="i1069432"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">48.202</xref>
+            </ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Value Engineering-Construction <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2015)</ph>
          </p>
          <ol id="d3706e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -29,15 +30,30 @@
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>. “Collateral costs,” as used in this clause, means agency costs of operation, maintenance, logistic support, or Government-furnished property.</p>
                <p id="d3748e31" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.248-3" xtrc="d3741e52">Collateral savings,</i> as used in this clause, means those measurable net reductions resulting from a VECP in the agency’s overall projected collateral costs, exclusive of acquisition savings, whether or not the acquisition cost changes.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.248-3"
+                     xtrc="d3741e52"
+                     class="+ topic/ph hi-d/i ">Collateral savings,</i> as used in this clause, means those measurable net reductions resulting from a VECP in the agency’s overall projected collateral costs, exclusive of acquisition savings, whether or not the acquisition cost changes.</p>
                <p id="d3748e35" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.248-3" xtrc="d3741e58">Contractor’s development and implementation costs,</i> as used in this clause, means those costs the Contractor incurs on a VECP specifically in developing, testing, preparing, and submitting the VECP, as well as those costs the Contractor incurs to make the contractual changes required by Government acceptance of a VECP.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.248-3"
+                     xtrc="d3741e58"
+                     class="+ topic/ph hi-d/i ">Contractor’s development and implementation costs,</i> as used in this clause, means those costs the Contractor incurs on a VECP specifically in developing, testing, preparing, and submitting the VECP, as well as those costs the Contractor incurs to make the contractual changes required by Government acceptance of a VECP.</p>
                <p id="d3748e39" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.248-3" xtrc="d3741e64">Government costs,</i> as used in this clause, means those agency costs that result directly from developing and implementing the VECP, such as any net increases in the cost of testing, operations, maintenance, and logistic support. The term does not include the normal administrative costs of processing the VECP.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.248-3"
+                     xtrc="d3741e64"
+                     class="+ topic/ph hi-d/i ">Government costs,</i> as used in this clause, means those agency costs that result directly from developing and implementing the VECP, such as any net increases in the cost of testing, operations, maintenance, and logistic support. The term does not include the normal administrative costs of processing the VECP.</p>
                <p id="d3748e43" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.248-3" xtrc="d3741e70">Instant contract savings,</i> as used in this clause, means the estimated reduction in Contractor cost of performance resulting from acceptance of the VECP, minus allowable Contractor’s development and implementation costs, including subcontractors’ development and implementation costs (see paragraph (h) of this clause).</p>
+                  <i outputclass="Term"
+                     xtrf="_52.248-3"
+                     xtrc="d3741e70"
+                     class="+ topic/ph hi-d/i ">Instant contract savings,</i> as used in this clause, means the estimated reduction in Contractor cost of performance resulting from acceptance of the VECP, minus allowable Contractor’s development and implementation costs, including subcontractors’ development and implementation costs (see paragraph (h) of this clause).</p>
                <p id="d3748e47" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.248-3" xtrc="d3741e77">Value engineering change proposal (VECP)</i> means a proposal that-<ol id="d3706e72" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.248-3"
+                     xtrc="d3741e77"
+                     class="+ topic/ph hi-d/i ">Value engineering change proposal (VECP)</i> means a proposal that-<ol id="d3706e72" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3748e53" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Requires a change to this, the instant contract, to implement; and</p>
@@ -66,38 +82,31 @@
                <ol id="d3706e132" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3748e85" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        A description of the difference between the existing contract requirement and that proposed, the comparative advantages and disadvantages of each, a justification when an item’s function or characteristics are being altered, and the effect of the change on the end item’s performance.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>A description of the difference between the existing contract requirement and that proposed, the comparative advantages and disadvantages of each, a justification when an item’s function or characteristics are being altered, and the effect of the change on the end item’s performance.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3748e90" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        A list and analysis of the contract requirements that must be changed if the VECP is accepted, including any suggested specification revisions.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>A list and analysis of the contract requirements that must be changed if the VECP is accepted, including any suggested specification revisions.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3748e95" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        A separate, detailed cost estimate for (i) the affected portions of the existing contract requirement and (ii) the VECP. The cost reduction associated with the VECP shall take into account the Contractor’s allowable development and implementation costs, including any amount attributable to subcontracts under paragraph (h) of this clause.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>A separate, detailed cost estimate for (i) the affected portions of the existing contract requirement and (ii) the VECP. The cost reduction associated with the VECP shall take into account the Contractor’s allowable development and implementation costs, including any amount attributable to subcontracts under paragraph (h) of this clause.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3748e100" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        A description and estimate of costs the Government may incur in implementing the VECP, such as test and evaluation and operating and support costs.</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>A description and estimate of costs the Government may incur in implementing the VECP, such as test and evaluation and operating and support costs.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3748e105" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        A prediction of any effects the proposed change would have on collateral costs to the agency.</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>A prediction of any effects the proposed change would have on collateral costs to the agency.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3748e110" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        A statement of the time by which a contract modification accepting the VECP must be issued in order to achieve the maximum cost reduction, noting any effect on the contract completion time or delivery schedule.</p>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>A statement of the time by which a contract modification accepting the VECP must be issued in order to achieve the maximum cost reduction, noting any effect on the contract completion time or delivery schedule.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3748e115" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        Identification of any previous submissions of the VECP, including the dates submitted, the agencies and contract numbers involved, and previous Government actions, if known.</p>
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>Identification of any previous submissions of the VECP, including the dates submitted, the agencies and contract numbers involved, and previous Government actions, if known.</p>
                   </li>
                </ol>
             </li>
@@ -108,30 +117,25 @@
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3748e127" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  Government action.</p>
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>Government action. </p>
                <ol id="d3706e220" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3748e133" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        The Contracting Officer will notify the Contractor of the status of the VECP within 45 calendar days after the contracting office receives it. If additional time is required, the Contracting Officer will notify the Contractor within the 45-day period and provide the reason for the delay and the expected date of the decision. The Government will process VECP’s expeditiously; however, it will not be liable for any delay in acting upon a VECP.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The Contracting Officer will notify the Contractor of the status of the VECP within 45 calendar days after the contracting office receives it. If additional time is required, the Contracting Officer will notify the Contractor within the 45-day period and provide the reason for the delay and the expected date of the decision. The Government will process VECP’s expeditiously; however, it will not be liable for any delay in acting upon a VECP.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3748e138" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        If the VECP is not accepted, the Contracting Officer will notify the Contractor in writing, explaining the reasons for rejection. The Contractor may withdraw any VECP, in whole or in part, at any time before it is accepted by the Government. The Contracting Officer may require that the Contractor provide written notification before undertaking significant expenditures for VECP effort.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>If the VECP is not accepted, the Contracting Officer will notify the Contractor in writing, explaining the reasons for rejection. The Contractor may withdraw any VECP, in whole or in part, at any time before it is accepted by the Government. The Contracting Officer may require that the Contractor provide written notification before undertaking significant expenditures for VECP effort.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3748e143" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Any VECP may be accepted, in whole or in part, by the Contracting Officer’s award of a modification to this contract citing this clause. The Contracting Officer may accept the VECP, even though an agreement on price reduction has not been reached, by issuing the Contractor a notice to proceed with the change. Until a notice to proceed is issued or a contract modification applies a VECP to this contract, the Contractor shall perform in accordance with the existing contract. The decision to accept or reject all or part of any VECP is a unilateral decision made solely at the discretion of the Contracting Officer.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Any VECP may be accepted, in whole or in part, by the Contracting Officer’s award of a modification to this contract citing this clause. The Contracting Officer may accept the VECP, even though an agreement on price reduction has not been reached, by issuing the Contractor a notice to proceed with the change. Until a notice to proceed is issued or a contract modification applies a VECP to this contract, the Contractor shall perform in accordance with the existing contract. The decision to accept or reject all or part of any VECP is a unilateral decision made solely at the discretion of the Contracting Officer.</p>
                   </li>
                </ol>
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3748e148" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  Sharing-</p>
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>Sharing- </p>
                <ol id="d3706e259" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3748e154" class="- topic/p ">
@@ -140,13 +144,11 @@
                      <ol id="d3706e272" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3748e162" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              45 percent for fixed-price contracts; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>45 percent for fixed-price contracts; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3748e167" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              75 percent for cost-reimbursement contracts.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>75 percent for cost-reimbursement contracts.</p>
                         </li>
                      </ol>
                   </li>
@@ -157,18 +159,15 @@
                      <ol id="d3706e305" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3748e180" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Accept the VECP;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Accept the VECP;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3748e185" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Reduce the contract price or estimated cost by the amount of instant contract savings; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Reduce the contract price or estimated cost by the amount of instant contract savings; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3748e190" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              Provide the Contractor’s share of savings by adding the amount calculated to the contract price or fee.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Provide the Contractor’s share of savings by adding the amount calculated to the contract price or fee.</p>
                         </li>
                      </ol>
                   </li>

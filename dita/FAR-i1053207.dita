@@ -6,24 +6,27 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1053207"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.223-13</ph> Acquisition of EPEAT®–Registered Imaging Equipment.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p id="d3387e8" class="- topic/p ">As prescribed in 
+         <p id="d3387e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1094423.dita#i1094423"
-                  base="i1094423"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">23.705</xref>(b)(1), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Acquisition of EPEAT®–Registered Imaging Equipment <ph outputclass="SmCaps">(Jun 2014)</ph>
+                     base="i1094423"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">23.705</xref>(b)(1)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Acquisition of EPEAT®–Registered Imaging Equipment <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2014)</ph>
          </p>
          <ol id="d3345e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3387e19" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  Definitions. As used in this clause-</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Definitions. As used in this clause-</p>
                <p id="d3387e23" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.223-13" xtrc="d3380e37">Imaging equipment</i> means the following products:<ol id="d3345e44" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.223-13"
+                     xtrc="d3380e37"
+                     class="+ topic/ph hi-d/i ">Imaging equipment</i> means the following products:<ol id="d3345e44" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3387e29" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Copier-A commercially available imaging product with a sole function of the production of hard copy duplicates from graphic hard-copy originals. The unit is capable of being powered from a wall outlet or from a data or network connection. This definition is intended to cover products that are marketed as copiers or upgradeable digital copiers (UDCs).</p>
@@ -57,21 +60,18 @@
             </li>
             <li class="- topic/li ">
                <p id="d3387e64" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  Under this contract, the Contractor shall deliver, furnish for Government use, or furnish for Contractor use at a Federally controlled facility, only imaging equipment that, at the time of submission of proposals and at the time of award, was EPEAT® bronze-registered or higher.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Under this contract, the Contractor shall deliver, furnish for Government use, or furnish for Contractor use at a Federally controlled facility, only imaging equipment that, at the time of submission of proposals and at the time of award, was EPEAT® bronze-registered or higher.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3387e69" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  For information about EPEAT®, see <xref href="http://www.epa.gov/epeat/"
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>For information about EPEAT®, see <xref href="http://www.epa.gov/epeat/"
                         scope="external"
                         class="- topic/xref ">www.epa.gov/epeat/</xref>.</p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
-            <p class="- topic/p ">Alternate I <i class="+ topic/ph hi-d/i ">(<i class="+ topic/ph hi-d/i ">Oct</i> 2015). As prescribed in 
-                     <xref href="FAR-i1094423.dita#i1094423"
+            <p class="- topic/p ">Alternate I <i class="+ topic/ph hi-d/i ">(<i class="+ topic/ph hi-d/i ">Oct</i> 2015). As prescribed in <xref href="FAR-i1094423.dita#i1094423"
                         base="i1094423"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">23.705</xref>(c)(2), substitute the following paragraph (b) for paragraph (b) of the basic clause:</i>

@@ -2,8 +2,10 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1060550"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -11,13 +13,14 @@
 and Certifications-Commercial Items.</title>
       <conbody outputclass="prescribed" class="- topic/body  concept/conbody ">
          <p id="d3154e13" class="- topic/p ">As prescribed
-in <xref href="FAR-i1113145.dita#i1113145"
-                  base="i1113145"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">12.301</xref>(b)(2), insert the
-following provision:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Offeror
-Representations and Certifications-Commercial Items (Mar 2020)</p>
+in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref href="FAR-i1113145.dita#i1113145"
+                     base="i1113145"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">12.301</xref>(b)(2)</ph>, insert
+the following provision:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Offeror Representations and Certifications-Commercial
+Items (Mar 2020)</p>
          <p id="d3163e17" class="- topic/p ">The Offeror shall complete only paragraph (b)
 of this provision if the Offeror has completed the annual representations
 and certification electronically in the System for Award Management
@@ -34,34 +37,30 @@ certifications electronically, the Offeror shall complete only paragraphs
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>.
 As used in this provision—</p>
-               <p id="d3163e33" class="- topic/p ">
-                  “Covered telecommunications
+               <p id="d3163e33" class="- topic/p ">“Covered telecommunications
 equipment or services” has the meaning provided in the clause <xref href="FAR-52.204-25.dita#id1989I600I4C"
                         base="id1989I600I4C"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.204-25</xref>, Prohibition
 on Contracting for Certain Telecommunications and Video Surveillance
-Services or Equipment.
-               </p>
+Services or Equipment.</p>
                <p id="d3163e39" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d3156e60"
                      xtrf="_52.212-3"
-                     class="+ topic/ph hi-d/i ">Economically
-disadvantaged women-owned small business (EDWOSB) concern</i> means
-a small business concern that is at least 51 percent directly and
-unconditionally owned by, and the management and daily business
-operations of which are controlled by, one or more women who are
-citizens of the United States and who are economically disadvantaged
-in accordance with <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph>.
-It automatically qualifies as a women-owned small business eligible
-under the WOSB Program.</p>
+                     class="+ topic/ph hi-d/i ">Economically disadvantaged
+women-owned small business (EDWOSB) concern</i> means a small business
+concern that is at least 51 percent directly and unconditionally
+owned by, and the management and daily business operations of which
+are controlled by, one or more women who are citizens of the United
+States and who are economically disadvantaged in accordance with <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph>. It automatically qualifies
+as a women-owned small business eligible under the WOSB Program.</p>
                <p id="d3163e43" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d3156e66"
                      xtrf="_52.212-3"
-                     class="+ topic/ph hi-d/i ">Forced or indentured child
-labor</i> means all work or service—</p>
+                     class="+ topic/ph hi-d/i ">Forced or indentured child labor</i> means
+all work or service—</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3163e49" class="- topic/p ">
@@ -126,7 +125,7 @@ product in product and service codes (PSCs) 1000-9999, except—</p>
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> Product
 or Service Group (PSG) 87, Agricultural Supplies;</p>
                   </li>
-                  <li class="- topic/li "> 
+                  <li class="- topic/li ">
                      <p id="d3163e92" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph> PSG 88,
 Live Animals;</p>
@@ -264,7 +263,7 @@ monitor, or otherwise restrict speech of the people of Iran; and</p>
 include information or informational materials the export of which
 the President does not have the authority to regulate or prohibit
 pursuant to section 203(b)(3)of the International Emergency Economic
-Powers Act (50 U.S.C. 1702(b)(3)).</p>  
+Powers Act (50 U.S.C. 1702(b)(3)).</p>
                   </li>
                </ol>
                <p id="d3163e201" class="- topic/p ">
@@ -441,7 +440,7 @@ more women.</p>
             <li props="Runin" class="- topic/li ">
                <p id="d3163e316" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-               </p>
+                </p>
                <ol id="d3125e414" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3163e321" class="- topic/p ">
@@ -465,16 +464,16 @@ posted electronically at FAR <xref href="#i1060550" outputclass="fm:ParaNumOnly"
 and Certifications-Commercial Items, have been entered or updated
 in the last 12 months, are current, accurate, complete, and applicable
 to this solicitation (including the business size standard(s) applicable
-to the NAICS code(s) referenced
-for this solicitation), at the time this offer is submitted and
-are incorporated in this offer by reference (see FAR <xref href="FAR-i1121876.dita#i1121876"
+to the NAICS code(s) referenced for this solicitation), at the time
+this offer is submitted and are incorporated in this offer by reference
+(see FAR <xref href="FAR-i1121876.dita#i1121876"
                               base="i1121876"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">4.1201</xref>), except for paragraphs
 ______________.</p>
                      <p id="d3163e349" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">Offeror to identify the
-applicable paragraphs at (c) through (v) of this provision
-that the offeror has completed for the purposes of this solicitation
+applicable paragraphs at (c) through (v) of this provision that
+the offeror has completed for the purposes of this solicitation
 only, if any.</i>
                      </p>
                      <p id="d3163e356" class="- topic/p ">
@@ -501,7 +500,11 @@ all that apply.</p>
                      <p id="d3163e370" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         <i class="+ topic/ph hi-d/i ">Small business concern</i>.
-The offeror represents as part of its offer that it <cite outputclass="Checkbox" xtrc="52.212-3_d81e393">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e396">□</cite> is
+The offeror represents as part of its offer that it <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e393"
+                              class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e396"
+                              class="- topic/cite ">□</cite> is
 not a small business concern.</p>
                   </li>
                   <li class="- topic/li ">
@@ -510,7 +513,11 @@ not a small business concern.</p>
                         <i class="+ topic/ph hi-d/i ">Veteran-owned
 small business concern</i>. [<i class="+ topic/ph hi-d/i ">Complete only if the offeror represented
 itself as a small business concern in paragraph (c)(1) of this provision</i>.]
-The offeror represents as part of its offer that it <cite outputclass="Checkbox" xtrc="52.212-3_d81e409">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e412">□</cite> is
+The offeror represents as part of its offer that it <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e409"
+                              class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e412"
+                              class="- topic/cite ">□</cite> is
 not a veteran-owned small business concern.</p>
                   </li>
                   <li class="- topic/li ">
@@ -520,8 +527,12 @@ not a veteran-owned small business concern.</p>
 veteran-owned small business concern</i>. [<i class="+ topic/ph hi-d/i ">Complete only if the
 offeror represented itself as a veteran-owned small business concern
 in paragraph (c)(2) of this provision</i>.] The offeror represents
-as part of its offer that it <cite outputclass="Checkbox" xtrc="52.212-3_d81e425">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e428">□</cite> is not a service-disabled
-veteran-owned small business concern.</p>
+as part of its offer that it <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e425"
+                              class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e428"
+                              class="- topic/cite ">□</cite> is
+not a service-disabled veteran-owned small business concern.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3163e397" class="- topic/p ">
@@ -529,7 +540,11 @@ veteran-owned small business concern.</p>
                         <i class="+ topic/ph hi-d/i ">Small
 disadvantaged business concern</i>. [<i class="+ topic/ph hi-d/i ">Complete only if the offeror
 represented itself as a small business concern in paragraph (c)(1)
-of this provision</i>.] The offeror represents, that it <cite outputclass="Checkbox" xtrc="52.212-3_d81e441">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e444">□</cite> is not
+of this provision</i>.] The offeror represents, that it <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e441"
+                              class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e444"
+                              class="- topic/cite ">□</cite> is not
 a small disadvantaged business concern as defined in 13 CFR124.1002.</p>
                   </li>
                   <li class="- topic/li ">
@@ -538,8 +553,12 @@ a small disadvantaged business concern as defined in 13 CFR124.1002.</p>
                         <i class="+ topic/ph hi-d/i ">Women-owned
 small business concern</i>. [<i class="+ topic/ph hi-d/i ">Complete only if the offeror represented
 itself as a small business concern in paragraph (c)(1) of this provision</i>.]
-The offeror represents that it <cite outputclass="Checkbox" xtrc="52.212-3_d81e457">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e460">□</cite> is not a women-owned small
-business concern.</p>
+The offeror represents that it <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e457"
+                              class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e460"
+                              class="- topic/cite ">□</cite> is
+not a women-owned small business concern.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3163e417" class="- topic/p ">
@@ -550,14 +569,23 @@ of this provision.] The offeror represents that-</p>
                      <ol id="d3125e557" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3163e423" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e474">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e477">□</cite> is not a WOSB concern
-eligible under the WOSB Program, has provided all the required documents
-to the WOSB Repository, and no change in circumstances or adverse
-decisions have been issued that affects its eligibility; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e474"
+                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e477"
+                                    class="- topic/cite ">□</cite> is
+not a WOSB concern eligible under the WOSB Program, has provided
+all the required documents to the WOSB Repository, and no change
+in circumstances or adverse decisions have been issued that affects
+its eligibility; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3163e428" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e485">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e488">□</cite> is
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e485"
+                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e488"
+                                    class="- topic/cite ">□</cite> is
 not a joint venture that complies with the requirements of <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph>, and the representation
 in paragraph (c)(6)(i) of this provision is accurate for each WOSB
 concern eligible under the WOSB Program participating in the joint
@@ -579,14 +607,22 @@ represents that-</p>
                      <ol id="d3125e587" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3163e439" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e505">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e508">□</cite> is not an EDWOSB
-concern, has provided all the required documents to the WOSB Repository,
-and no change in circumstances or adverse decisions have been issued
-that affects its eligibility; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e505"
+                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e508"
+                                    class="- topic/cite ">□</cite> is
+not an EDWOSB concern, has provided all the required documents to
+the WOSB Repository, and no change in circumstances or adverse decisions
+have been issued that affects its eligibility; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3163e444" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e516">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e519">□</cite> is
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e516"
+                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e519"
+                                    class="- topic/cite ">□</cite> is
 not a joint venture that complies with the requirements of <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph>, and the representation
 in paragraph (c)(7)(i) of this provision is accurate for each EDWOSB
 concern participating in the joint venture. [<i class="+ topic/ph hi-d/i ">The offeror shall
@@ -608,8 +644,10 @@ acquisition threshold.</p>
 business concern (other than small business concern</i>). [<i class="+ topic/ph hi-d/i ">Complete
 only if the offeror is a women-owned business concern and did not
 represent itself as a small business concern in paragraph (c)(1)
-of this provision</i>.] The offeror represents that it <cite outputclass="Checkbox" xtrc="52.212-3_d81e542">□</cite> is a women-owned
-business concern.</p>
+of this provision</i>.] The offeror represents that it <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e542"
+                              class="- topic/cite ">□</cite> is
+a women-owned business concern.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3163e466" class="- topic/p ">
@@ -631,7 +669,11 @@ The offeror represents, as part of its offer, that–</p>
                      <ol id="d3125e659" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3163e484" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e568">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e571">□</cite> is
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e568"
+                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e571"
+                                    class="- topic/cite ">□</cite> is
 not a HUBZone small business concern listed, on the date of this
 representation, on the List of Qualified HUBZone Small Business
 Concerns maintained by the Small Business Administration, and no
@@ -642,7 +684,11 @@ and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3163e489" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e582">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e585">□</cite> is
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e582"
+                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e585"
+                                    class="- topic/cite ">□</cite> is
 not a HUBZone joint venture that complies with the requirements
 of <ph outputclass="CFR" class="- topic/ph ">13 CFR Part 126</ph>, and the representation
 in paragraph (c)(10)(i) of this provision is accurate for each HUBZone
@@ -660,7 +706,7 @@ representation.</p>
             <li props="Runin" class="- topic/li ">
                <p id="d3163e494" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph> Representations
-required to implement provisions of Executive Order11246-</p>
+required to implement provisions of Executive Order11246- </p>
                <ol id="d3125e691" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3163e500" class="- topic/p ">
@@ -669,14 +715,22 @@ contracts and compliance. The offeror represents that-</p>
                      <ol id="d3125e701" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3163e506" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e608">□</cite> has, <cite outputclass="Checkbox" xtrc="52.212-3_d81e611">□</cite> has not participated in a
-previous contract or subcontract subject to the Equal Opportunity
-clause of this solicitation; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e608"
+                                    class="- topic/cite ">□</cite> has, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e611"
+                                    class="- topic/cite ">□</cite> has
+not participated in a previous contract or subcontract subject to
+the Equal Opportunity clause of this solicitation; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3163e511" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e619">□</cite> has, <cite outputclass="Checkbox" xtrc="52.212-3_d81e622">□</cite> has not filed all required
-compliance reports.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e619"
+                                    class="- topic/cite ">□</cite> has, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e622"
+                                    class="- topic/cite ">□</cite> has
+not filed all required compliance reports.</p>
                         </li>
                      </ol>
                   </li>
@@ -688,16 +742,24 @@ Action Compliance</i>. The offeror represents that-</p>
                      <ol id="d3125e734" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3163e524" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e638">□</cite> has developed and has on file, <cite outputclass="Checkbox" xtrc="52.212-3_d81e641">□</cite> has not developed and does
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e638"
+                                    class="- topic/cite ">□</cite> has
+developed and has on file, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e641"
+                                    class="- topic/cite ">□</cite> has not developed and does
 not have on file, at each establishment, affirmative action programs
 required by rules and regulations of the Secretary of Labor (41
 CFR parts 60-1 and 60-2), or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3163e529" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e649">□</cite> has not previously had contracts
-subject to the written affirmative action programs requirement of
-the rules and regulations of the Secretary of Labor.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e649"
+                                    class="- topic/cite ">□</cite> has
+not previously had contracts subject to the written affirmative
+action programs requirement of the rules and regulations of the
+Secretary of Labor.</p>
                         </li>
                      </ol>
                   </li>
@@ -833,7 +895,7 @@ of FAR <xref href="FAR-i1093771.dita#i1093771"
             <li props="Runin" class="- topic/li ">
                <p id="d3163e613" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph>
-               </p>
+                </p>
                <ol id="d3125e914" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3163e618" class="- topic/p ">
@@ -1295,7 +1357,7 @@ of Origin</entry>
                                           <p outputclass="Ctr" class="- topic/p ">_______________</p>
                                        </entry>
                                        <entry colname="2" class="- topic/entry ">
-                                          <p outputclass="Ctr" class="- topic/p ">__________________</p>  
+                                          <p outputclass="Ctr" class="- topic/p ">__________________</p>
                                        </entry>
                                     </row>
                                     <row rowsep="0" class="- topic/row ">
@@ -1352,18 +1414,26 @@ knowledge and belief, that the offeror and/or any of its principals–</p>
                   <li class="- topic/li ">
                      <p id="d3163e947" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <cite outputclass="Checkbox" xtrc="52.212-3_d81e1070">□</cite> Are, <cite outputclass="Checkbox" xtrc="52.212-3_d81e1073">□</cite> are not presently
-debarred, suspended, proposed for debarment, or declared ineligible
-for the award of contracts by any Federal agency;</p>
+                        <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1070"
+                              class="- topic/cite ">□</cite> Are, <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1073"
+                              class="- topic/cite ">□</cite> are
+not presently debarred, suspended, proposed for debarment, or declared
+ineligible for the award of contracts by any Federal agency;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3163e952" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <cite outputclass="Checkbox" xtrc="52.212-3_d81e1080">□</cite> Have, <cite outputclass="Checkbox" xtrc="52.212-3_d81e1083">□</cite> have not, within
-a three-year period preceding this offer, been convicted of or had
-a civil judgment rendered against them for: commission of fraud
-or a criminal offense in connection with obtaining, attempting to
-obtain, or performing a Federal, state or local government contract
+                        <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1080"
+                              class="- topic/cite ">□</cite> Have, <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1083"
+                              class="- topic/cite ">□</cite> have
+not, within a three-year period preceding this offer, been convicted
+of or had a civil judgment rendered against them for: commission
+of fraud or a criminal offense in connection with obtaining, attempting
+to obtain, or performing a Federal, state or local government contract
 or subcontract; violation of Federal or state antitrust statutes
 relating to the submission of offers; or commission of embezzlement,
 theft, forgery, bribery, falsification or destruction of records,
@@ -1373,31 +1443,39 @@ laws, or receiving stolen property;</p>
                   <li class="- topic/li ">
                      <p id="d3163e957" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        <cite outputclass="Checkbox" xtrc="52.212-3_d81e1090">□</cite> Are, <cite outputclass="Checkbox" xtrc="52.212-3_d81e1093">□</cite> are not presently
-indicted for, or otherwise criminally or civilly charged by a Government
-entity with, commission of any of these offenses enumerated in paragraph
-(h)(2) of this clause; and</p>
+                        <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1090"
+                              class="- topic/cite ">□</cite> Are, <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1093"
+                              class="- topic/cite ">□</cite> are
+not presently indicted for, or otherwise criminally or civilly charged
+by a Government entity with, commission of any of these offenses
+enumerated in paragraph (h)(2) of this clause; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3163e962" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        <cite outputclass="Checkbox" xtrc="52.212-3_d81e1100">□</cite> Have, <cite outputclass="Checkbox" xtrc="52.212-3_d81e1103">□</cite> have not, within
-a three-year period preceding this offer, been notified of any delinquent
-Federal taxes in an amount that exceeds $3,500 for which the liability
-remains unsatisfied.</p>
+                        <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1100"
+                              class="- topic/cite ">□</cite> Have, <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1103"
+                              class="- topic/cite ">□</cite> have
+not, within a three-year period preceding this offer, been notified
+of any delinquent Federal taxes in an amount that exceeds $3,500
+for which the liability remains unsatisfied.</p>
                      <ol id="d3125e1628" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3163e968" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Taxes are considered delinquent
-if both of the following criteria apply:</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Taxes
+are considered delinquent if both of the following criteria apply:</p>
                            <ol id="d3125e1638" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3163e974" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    <i class="+ topic/ph hi-d/i ">The tax
-liability is finally determined</i>. The liability is finally determined
-if it has been assessed. A liability is not finally determined if
-there is a pending administrative or judicial challenge. In the
+                                    <i class="+ topic/ph hi-d/i ">The
+tax liability is finally determined</i>. The liability is finally
+determined if it has been assessed. A liability is not finally determined
+if there is a pending administrative or judicial challenge. In the
 case of a judicial challenge to the liability, the liability is
 not finally determined until all judicial appeal rights have been
 exhausted.</p>
@@ -1416,7 +1494,7 @@ enforced collection action is precluded.</p>
                         <li props="Runin" class="- topic/li ">
                            <p id="d3163e988" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              <i class="+ topic/ph hi-d/i ">Examples</i>.</p>
+                              <i class="+ topic/ph hi-d/i ">Examples</i>. </p>
                            <ol id="d3125e1677" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3163e996" class="- topic/p ">
@@ -1519,7 +1597,7 @@ Countries of Origin</entry>
                                     <p outputclass="Ctr" class="- topic/p ">___________________</p>
                                  </entry>
                                  <entry colname="2" class="- topic/entry ">
-                                    <p outputclass="Ctr" class="- topic/p ">___________________</p>
+                                    <p outputclass="Ctr" class="- topic/p ">___________________</p>  
                                  </entry>
                               </row>
                               <row rowsep="0" class="- topic/row ">
@@ -1580,16 +1658,21 @@ is predominantly-</p>
                   <li class="- topic/li ">
                      <p id="d3163e1082" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <cite outputclass="Checkbox" xtrc="52.212-3_d81e1225">□</cite> In
-the United States (Check this box if the total anticipated price
-of offered end products manufactured in the United States exceeds
-the total anticipated price of offered end products manufactured
-outside the United States); or</p>
+                        <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1225"
+                              class="- topic/cite ">□</cite> In the United States (Check
+this box if the total anticipated price of offered end products
+manufactured in the United States exceeds the total anticipated
+price of offered end products manufactured outside the United States);
+or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3163e1087" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <cite outputclass="Checkbox" xtrc="52.212-3_d81e1232">□</cite> Outside the United States.</p>
+                        <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1232"
+                              class="- topic/cite ">□</cite> Outside
+the United States.</p>
                   </li>
                </ol>
             </li>
@@ -1610,16 +1693,20 @@ to indicate if paragraph (k)(1) or (k)(2) applies.</i>]</p>
 calibration, or repair of certain equipment as described in FAR <xref href="FAR-i1096436.dita#i1096436"
                               base="i1096436"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">22.1003-4</xref>(c)(1). The offeror <cite outputclass="Checkbox" xtrc="52.212-3_d81e1254">□</cite> does <cite outputclass="Checkbox" xtrc="52.212-3_d81e1257">□</cite> does not certify that–</p>
+                              class="- topic/xref ">22.1003-4</xref>(c)(1). The offeror <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1254"
+                              class="- topic/cite ">□</cite> does <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1257"
+                              class="- topic/cite ">□</cite> does
+not certify that–</p>
                      <ol id="d3125e1893" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3163e1112" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The
-items of equipment to be serviced under this contract are used regularly
-for other than Governmental purposes and are sold or traded by the
-offeror (or subcontractor in the case of an exempt subcontract)
-in substantial quantities to the general public in the course of
-normal business operations;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The items of equipment to be serviced
+under this contract are used regularly for other than Governmental
+purposes and are sold or traded by the offeror (or subcontractor
+in the case of an exempt subcontract) in substantial quantities to
+the general public in the course of normal business operations;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3163e1117" class="- topic/p ">
@@ -1648,15 +1735,20 @@ services as described in FAR <xref href="FAR-i1096436.dita#i1096436"
                               base="i1096436"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">22.1003-4</xref>(d)(1).
-The offeror <cite outputclass="Checkbox" xtrc="52.212-3_d81e1287">□</cite> does <cite outputclass="Checkbox" xtrc="52.212-3_d81e1290">□</cite> does not certify that-</p>
+The offeror <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1287"
+                              class="- topic/cite ">□</cite> does <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1290"
+                              class="- topic/cite ">□</cite> does
+not certify that-</p>
                      <ol id="d3125e1938" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3163e1139" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The
-services under the contract are offered and sold regularly to non-Governmental
-customers, and are provided by the offeror (or subcontractor in
-the case of an exempt subcontract) to the general public in substantial
-quantities in the course of normal business operations;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The services under the contract
+are offered and sold regularly to non-Governmental customers, and
+are provided by the offeror (or subcontractor in the case of an
+exempt subcontract) to the general public in substantial quantities in
+the course of normal business operations;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3163e1144" class="- topic/p ">
@@ -1765,31 +1857,29 @@ the accuracy of the offeror’s TIN.</p>
                         <i class="+ topic/ph hi-d/i ">Taxpayer
 Identification Number (TIN)</i>.</p>
                      <ul class="- topic/ul ">
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1378">
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1378" class="- topic/li ">
                            <p id="d3163e1222" class="- topic/p ">TIN: ________________________________.</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1381">
-                           <p id="d3163e1225" class="- topic/p ">TIN has been applied
-for.</p>
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1381" class="- topic/li ">
+                           <p id="d3163e1225" class="- topic/p ">TIN has been applied for.</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1384">
-                           <p id="d3163e1228" class="- topic/p ">TIN is not required
-because:</p>
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1384" class="- topic/li ">
+                           <p id="d3163e1228" class="- topic/p ">TIN is not required because:</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1387">
-                           <p id="d3163e1231" class="- topic/p ">Offeror is a nonresident
-alien, foreign corporation, or foreign partnership that does not
-have income effectively connected with the conduct of a trade or
-business in the United States and does not have an office or place
-of business or a fiscal paying agent in the United States;</p>
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1387" class="- topic/li ">
+                           <p id="d3163e1231" class="- topic/p ">Offeror is a nonresident alien, foreign corporation,
+or foreign partnership that does not have income effectively connected with
+the conduct of a trade or business in the United States and does
+not have an office or place of business or a fiscal paying agent
+in the United States;</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1390">
-                           <p id="d3163e1234" class="- topic/p ">Offeror is an
-agency or instrumentality of a foreign government;</p>
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1390" class="- topic/li ">
+                           <p id="d3163e1234" class="- topic/p ">Offeror is an agency or instrumentality of
+a foreign government;</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1393">
-                           <p id="d3163e1237" class="- topic/p ">Offeror is an
-agency or instrumentality of the Federal Government.</p>
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1393" class="- topic/li ">
+                           <p id="d3163e1237" class="- topic/p ">Offeror is an agency or instrumentality of
+the Federal Government.</p>
                         </li>
                      </ul>
                   </li>
@@ -1799,32 +1889,28 @@ agency or instrumentality of the Federal Government.</p>
                         <i class="+ topic/ph hi-d/i ">Type
 of organization</i>.</p>
                      <ul class="- topic/ul ">
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1404">
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1404" class="- topic/li ">
                            <p id="d3163e1248" class="- topic/p ">Sole proprietorship;</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1407">
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1407" class="- topic/li ">
                            <p id="d3163e1251" class="- topic/p ">Partnership;</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1410">
-                           <p id="d3163e1254" class="- topic/p ">Corporate entity
-(not tax-exempt);</p>
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1410" class="- topic/li ">
+                           <p id="d3163e1254" class="- topic/p ">Corporate entity (not tax-exempt);</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1413">
-                           <p id="d3163e1257" class="- topic/p ">Corporate entity
-(tax-exempt);</p>
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1413" class="- topic/li ">
+                           <p id="d3163e1257" class="- topic/p ">Corporate entity (tax-exempt);</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1416">
-                           <p id="d3163e1260" class="- topic/p ">Government entity
-(Federal, State, or local);</p>
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1416" class="- topic/li ">
+                           <p id="d3163e1260" class="- topic/p ">Government entity (Federal, State, or local);</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1419">
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1419" class="- topic/li ">
                            <p id="d3163e1263" class="- topic/p ">Foreign government;</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1422">
-                           <p id="d3163e1266" class="- topic/p ">International
-organization per 26 CFR1.6049-4;</p>
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1422" class="- topic/li ">
+                           <p id="d3163e1266" class="- topic/p ">International organization per 26 CFR1.6049-4;</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1425">
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1425" class="- topic/li ">
                            <p id="d3163e1269" class="- topic/p ">Other ________________________________.</p>
                         </li>
                      </ul>
@@ -1835,19 +1921,17 @@ organization per 26 CFR1.6049-4;</p>
                         <i class="+ topic/ph hi-d/i ">Common
 parent</i>.</p>
                      <ul class="- topic/ul ">
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1436">
-                           <p id="d3163e1280" class="- topic/p ">Offeror
-is not owned or controlled by a common parent;</p>
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1436" class="- topic/li ">
+                           <p id="d3163e1280" class="- topic/p ">Offeror is not owned or controlled by a common
+parent;</p>
                         </li>
-                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1439">
-                           <p id="d3163e1283" class="- topic/p ">Name and TIN of
-common parent:</p>
+                        <li outputclass="Bulleted" xtrf="52.212-3_d81e1439" class="- topic/li ">
+                           <p id="d3163e1283" class="- topic/p ">Name and TIN of common parent:</p>
                         </li>
                      </ul>
                   </li>
                </ol>
-               <p id="d3163e1285" class="- topic/p ">Name
-________________________________.</p>
+               <p id="d3163e1285" class="- topic/p ">Name ________________________________.</p>
                <p id="d3163e1287" class="- topic/p ">TIN _________________________________.</p>
             </li>
             <li class="- topic/li ">
@@ -1861,7 +1945,7 @@ business operations in Sudan.</p>
             <li props="Runin" class="- topic/li ">
                <p id="d3163e1297" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(n)</ph> Prohibition
-on Contracting with Inverted Domestic Corporations.</p>
+on Contracting with Inverted Domestic Corporations. </p>
                <ol id="d3125e2255" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3163e1303" class="- topic/p ">
@@ -1887,12 +1971,20 @@ The Offeror represents that–</p>
                      <ol id="d3125e2283" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3163e1322" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e1483">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e1486">□</cite> is
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1483"
+                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1486"
+                                    class="- topic/cite ">□</cite> is
 not an inverted domestic corporation; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3163e1327" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox" xtrc="52.212-3_d81e1494">□</cite> is, <cite outputclass="Checkbox" xtrc="52.212-3_d81e1497">□</cite> is
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1494"
+                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1497"
+                                    class="- topic/cite ">□</cite> is
 not a subsidiary of an inverted domestic corporation.</p>
                         </li>
                      </ol>
@@ -1903,7 +1995,7 @@ not a subsidiary of an inverted domestic corporation.</p>
                <p id="d3163e1332" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(o)</ph> Prohibition
 on contracting with entities engaging in certain activities or transactions
-relating to Iran.</p>
+relating to Iran. </p>
                <ol id="d3125e2316" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3163e1338" class="- topic/p ">
@@ -1988,12 +2080,15 @@ a unique entity identifier in the solicitation).</p>
                   <li class="- topic/li ">
                      <p id="d3163e1402" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> The
-Offeror represents that it <cite outputclass="Checkbox" xtrc="52.212-3_d81e1575">□</cite> has
-or <cite outputclass="Checkbox" xtrc="52.212-3_d81e1578">□</cite> does not have an immediate
-owner. If the Offeror has more than one immediate owner (such as
-a joint venture), then the Offeror shall respond to paragraph (2)
-and if applicable, paragraph (3) of this provision for each participant
-in the joint venture.</p>
+Offeror represents that it <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1575"
+                              class="- topic/cite ">□</cite> has or <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1578"
+                              class="- topic/cite ">□</cite> does
+not have an immediate owner. If the Offeror has more than one immediate
+owner (such as a joint venture), then the Offeror shall respond
+to paragraph (2) and if applicable, paragraph (3) of this provision
+for each participant in the joint venture.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3163e1411" class="- topic/p ">
@@ -2007,7 +2102,12 @@ owner legal name: _____________________.</p>
                      <p id="d3163e1419" class="- topic/p ">(Do
 not use a “doing business as” name)</p>
                      <p id="d3163e1421" class="- topic/p ">Is the
-immediate owner owned or controlled by another entity: <cite outputclass="Checkbox" xtrc="52.212-3_d81e1594">□</cite> Yes or <cite outputclass="Checkbox" xtrc="52.212-3_d81e1597">□</cite> No.</p>
+immediate owner owned or controlled by another entity: <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1594"
+                              class="- topic/cite ">□</cite> Yes
+or <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1597"
+                              class="- topic/cite ">□</cite> No.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3163e1424" class="- topic/p ">
@@ -2070,19 +2170,27 @@ represents that–</p>
                      <ol id="d3125e2547" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3163e1467" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It is <cite outputclass="Checkbox" xtrc="52.212-3_d81e1648">□</cite> is
-not <cite outputclass="Checkbox" xtrc="52.212-3_d81e1651">□</cite> a corporation that has
-any unpaid Federal tax liability that has been assessed, for which
-all judicial and administrative remedies have been exhausted or
-have lapsed, and that is not being paid in a timely manner pursuant
-to an agreement with the authority responsible for collecting the
-tax liability; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It is <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1648"
+                                    class="- topic/cite ">□</cite> is not <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1651"
+                                    class="- topic/cite ">□</cite> a
+corporation that has any unpaid Federal tax liability that has been
+assessed, for which all judicial and administrative remedies have
+been exhausted or have lapsed, and that is not being paid in a timely
+manner pursuant to an agreement with the authority responsible for
+collecting the tax liability; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3163e1472" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It is <cite outputclass="Checkbox" xtrc="52.212-3_d81e1659">□</cite> is not <cite outputclass="Checkbox" xtrc="52.212-3_d81e1662">□</cite> a corporation that was convicted
-of a felony criminal violation under a Federal law within the preceding
-24 months.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It is <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1659"
+                                    class="- topic/cite ">□</cite> is
+not <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1662"
+                                    class="- topic/cite ">□</cite> a
+corporation that was convicted of a felony criminal violation under
+a Federal law within the preceding 24 months.</p>
                         </li>
                      </ol>
                   </li>
@@ -2101,10 +2209,13 @@ and Government Entity Code Reporting.)</p>
                   <li class="- topic/li ">
                      <p id="d3163e1488" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> The Offeror
-represents that it <cite outputclass="Checkbox" xtrc="52.212-3_d81e1681">□</cite> is
-or <cite outputclass="Checkbox" xtrc="52.212-3_d81e1684">□</cite> is not a successor
-to a predecessor that held a Federal contract or grant within the
-last three years.</p>
+represents that it <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1681"
+                              class="- topic/cite ">□</cite> is or <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1684"
+                              class="- topic/cite ">□</cite> is
+not a successor to a predecessor that held a Federal contract or
+grant within the last three years.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3163e1493" class="- topic/p ">
@@ -2121,7 +2232,7 @@ one predecessor, list in reverse chronological order):</p>
                                  <u class="+ topic/ph hi-d/u "/>
                                  <u class="+ topic/ph hi-d/u "/>
                                  <u class="+ topic/ph hi-d/u "/>
-                              </u>.</p>
+                              </u>____.</p>
                            <p id="d3163e1511" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">Do not use a “doing business as” name</i>).</p>
                         </li>
                      </ul>
@@ -2155,26 +2266,35 @@ million in Federal contract awards in the prior Federal fiscal year.</p>
                      <p id="d3163e1538" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> Representation.
 [Offeror to check applicable block(s) in paragraph (t)(2)(i) and
-(ii)].</p>
+(ii)]. </p>
                      <ol id="d3125e2680" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3163e1544" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> The Offeror (itself or through
-its immediate owner or highest-level owner) <cite outputclass="Checkbox" xtrc="52.212-3_d81e1743">□</cite> does, <cite outputclass="Checkbox" xtrc="52.212-3_d81e1746">□</cite> does not publicly disclose
-greenhouse gas emissions, i.e., makes available on a publicly accessible
-website the results of a greenhouse gas inventory, performed in
-accordance with an accounting standard with publicly available and
-consistently applied criteria, such as the Greenhouse Gas Protocol
-Corporate Standard.</p>
+its immediate owner or highest-level owner) <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1743"
+                                    class="- topic/cite ">□</cite> does, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1746"
+                                    class="- topic/cite ">□</cite> does
+not publicly disclose greenhouse gas emissions, i.e., makes available
+on a publicly accessible website the results of a greenhouse gas
+inventory, performed in accordance with an accounting standard with
+publicly available and consistently applied criteria, such as the
+Greenhouse Gas Protocol Corporate Standard.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3163e1549" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> The
 Offeror (itself or through its immediate owner or highest-level
-owner) <cite outputclass="Checkbox" xtrc="52.212-3_d81e1754">□</cite> does, <cite outputclass="Checkbox" xtrc="52.212-3_d81e1757">□</cite> does not publicly disclose
-a quantitative greenhouse gas emissions reduction goal, i.e., make
-available on a publicly accessible website a target to reduce absolute
-emissions or emissions intensity by a specific quantity or percentage.</p>
+owner) <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1754"
+                                    class="- topic/cite ">□</cite> does, <cite outputclass="Checkbox"
+                                    xtrc="52.212-3_d81e1757"
+                                    class="- topic/cite ">□</cite> does
+not publicly disclose a quantitative greenhouse gas emissions reduction
+goal, i.e., make available on a publicly accessible website a target
+to reduce absolute emissions or emissions intensity by a specific quantity
+or percentage.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3163e1554" class="- topic/p ">
@@ -2197,7 +2317,7 @@ goals are reported:_________________.</p>
             <li props="Runin" class="- topic/li ">
                <p id="d3163e1564" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(u)</ph>
-               </p>
+                </p>
                <ol id="d3125e2730" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3163e1569" class="- topic/p ">
@@ -2259,10 +2379,15 @@ telecommunications equipment or services”.</p>
                   <li class="- topic/li ">
                      <p id="d3163e1605" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> The Offeror
-represents that it <cite outputclass="Checkbox" xtrc="52.212-3_d81e1816">□</cite> does, <cite outputclass="Checkbox" xtrc="52.212-3_d81e1819">□</cite> does not provide covered telecommunications
-equipment or services as a part of its offered products or services
-to the Government in the performance of any contract, subcontract,
-or other contractual instrument.</p>
+represents that it <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1816"
+                              class="- topic/cite ">□</cite> does, <cite outputclass="Checkbox"
+                              xtrc="52.212-3_d81e1819"
+                              class="- topic/cite ">□</cite> does
+not provide covered telecommunications equipment or services as
+a part of its offered products or services to the Government in
+the performance of any contract, subcontract, or other contractual
+instrument.</p>
                   </li>
                </ol>
             </li>
@@ -2271,19 +2396,18 @@ or other contractual instrument.</p>
          <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?> 
             <p id="d3163e1613" class="- topic/p ">
                <i class="+ topic/ph hi-d/i ">Alternate
-I (Oct2014).</i> As prescribed in 
-                  <xref href="FAR-i1113145.dita#i1113145"
+I (Oct2014).</i> As prescribed in <xref href="FAR-i1113145.dita#i1113145"
                      base="i1113145"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">12.301</xref>(b)(2), add
-the following paragraph (c)(11) to the basic provision:</p>
+                     class="- topic/xref ">12.301</xref>(b)(2), add the
+following paragraph (c)(11) to the basic provision:</p>
             <p outputclass="List1" class="- topic/p ">(11) (Complete if the offeror has represented
 itself as disadvantaged in paragraph (c)(4) of this provision.)</p>
             <p class="- topic/p ">____
 Black American.</p>
             <p class="- topic/p ">____ Hispanic American.</p>
             <p class="- topic/p ">____ Native
-American (American Indians, Eskimos, Aleuts, or Native Hawaiians).</p>
+American (American Indians, Eskimos, Aleuts, or Native Hawaiians).</p>  
             <p class="- topic/p ">____
 Asian-Pacific American (persons with origins from Burma, Thailand,
 Malaysia, Indonesia, Singapore, Brunei, Japan, China, Taiwan, Laos,

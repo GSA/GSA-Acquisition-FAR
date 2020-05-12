@@ -6,22 +6,22 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1060530"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.212-2</ph> Evaluation-Commercial Items.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p id="d3162e8" class="- topic/p ">As prescribed in 
+         <p id="d3162e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                  href="FAR-i1113145.dita#i1113145"
-                  base="i1113145"
-                  class="- topic/xref ">12.301</xref>(c), the Contracting Officer may insert a provision substantially as follows:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Evaluation-Commercial Items <ph outputclass="SmCaps">(Oct 2014)</ph>
+                     href="FAR-i1113145.dita#i1113145"
+                     base="i1113145"
+                     class="- topic/xref ">12.301</xref>(c)</ph>, the Contracting Officer may insert a provision substantially as follows:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Evaluation-Commercial Items <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2014)</ph>
          </p>
          <ol id="d3124e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3162e19" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  The Government will award a contract resulting from this solicitation to the responsible offeror whose offer conforming to the solicitation will be most advantageous to the Government, price and other factors considered. The following factors shall be used to evaluate offers:</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The Government will award a contract resulting from this solicitation to the responsible offeror whose offer conforming to the solicitation will be most advantageous to the Government, price and other factors considered. The following factors shall be used to evaluate offers:</p>
                <p id="d3162e23" class="- topic/p ">
                   <cite outputclass="MultiLine"
                         xtrc="52.212-2_d3147e36"
@@ -45,8 +45,7 @@
             </li>
             <li class="- topic/li ">
                <p id="d3162e50" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  A written notice of award or acceptance of an offer, mailed or otherwise furnished to the successful offeror within the time for acceptance specified in the offer, shall result in a binding contract without further action by either party. Before the offer’s specified expiration time, the Government may accept an offer (or part of an offer), whether or not there are negotiations after its receipt, unless a written notice of withdrawal is received before award.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>A written notice of award or acceptance of an offer, mailed or otherwise furnished to the successful offeror within the time for acceptance specified in the offer, shall result in a binding contract without further action by either party. Before the offer’s specified expiration time, the Government may accept an offer (or part of an offer), whether or not there are negotiations after its receipt, unless a written notice of withdrawal is received before award.</p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of provision)</p>

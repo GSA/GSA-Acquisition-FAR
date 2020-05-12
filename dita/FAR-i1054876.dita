@@ -6,17 +6,17 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1054876"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.225-25</ph> Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran-Representation and Certifications.</title>
       <conbody outputclass="provision" class="- topic/body concept/conbody ">
-         <p id="d3426e8" class="- topic/p ">As prescribed at 
+         <p id="d3426e8" class="- topic/p ">As prescribed at <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1090971.dita#i1090971"
-                  base="i1090971"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">25.1103</xref>
-            (e), insert the following provision:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran-Representation and Certifications <ph outputclass="SmCaps">(Aug 2018)</ph>
+                     base="i1090971"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">25.1103</xref>(e)</ph>, insert the following provision:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran-Representation and Certifications <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2018)</ph>
          </p>
          <ol id="d3384e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -24,60 +24,57 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this provision-</p>
                <p id="d3426e24" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-25" xtrc="d3419e40">Person</i>-</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-25"
+                     xtrc="d3419e40"
+                     class="+ topic/ph hi-d/i ">Person</i>-</p>
                <ol id="d3384e47" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3426e30" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Means-</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Means-</p>
                      <ol id="d3384e57" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3426e36" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              A natural person;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>A natural person;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3426e41" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              A corporation, business association, partnership, society, trust, financial institution, insurer, underwriter, guarantor, and any other business organization, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>A corporation, business association, partnership, society, trust, financial institution, insurer, underwriter, guarantor, and any other business organization, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3426e46" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              Any successor to any entity described in paragraph (1)(ii) of this definition; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Any successor to any entity described in paragraph (1)(ii) of this definition; and</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3426e51" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Does not include a government or governmental entity that is not operating as a business enterprise.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Does not include a government or governmental entity that is not operating as a business enterprise.</p>
                   </li>
                </ol>
                <p id="d3426e55" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-25" xtrc="d3419e97">Sensitive technology</i>-</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-25"
+                     xtrc="d3419e97"
+                     class="+ topic/ph hi-d/i ">Sensitive technology</i>-</p>
                <ol id="d3384e101" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3426e61" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Means hardware, software, telecommunications equipment, or any other technology that is to be used specifically-</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Means hardware, software, telecommunications equipment, or any other technology that is to be used specifically-</p>
                      <ol id="d3384e111" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3426e67" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              To restrict the free flow of unbiased information in Iran; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>To restrict the free flow of unbiased information in Iran; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3426e72" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              To disrupt, monitor, or otherwise restrict speech of the people of Iran; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>To disrupt, monitor, or otherwise restrict speech of the people of Iran; and</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3426e77" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Does not include information or informational materials the export of which the President does not have the authority to regulate or prohibit pursuant to section 203(b)(3) of the International Emergency Economic Powers Act (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&amp;num=0&amp;edition=prelim"
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Does not include information or informational materials the export of which the President does not have the authority to regulate or prohibit pursuant to section 203(b)(3) of the International Emergency Economic Powers Act (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&amp;num=0&amp;edition=prelim"
                               format="html"
                               scope="external"
                               class="- topic/xref ">50 U.S.C. 1702</xref>(b)(3)).</p>
@@ -86,34 +83,29 @@
             </li>
             <li class="- topic/li ">
                <p id="d3426e85" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  The offeror shall e-mail questions concerning sensitive technology to the Department of State at <xref href="mailto:CISADA106@state.gov"
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The offeror shall e-mail questions concerning sensitive technology to the Department of State at <xref href="mailto:CISADA106@state.gov"
                         format="html"
                         scope="external"
                         class="- topic/xref ">CISADA106@state.gov</xref>.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3426e93" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  Except as provided in paragraph (d) of this provision or if a waiver has been granted in accordance with <xref href="FAR-i1091310.dita#i1091310"
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>Except as provided in paragraph (d) of this provision or if a waiver has been granted in accordance with <xref href="FAR-i1091310.dita#i1091310"
                         base="i1091310"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">25.703-4</xref>, by submission of its offer, the offeror-</p>
                <ol id="d3384e218" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3426e102" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Represents, to the best of its knowledge and belief, that the offeror does not export any sensitive technology to the government of Iran or any entities or individuals owned or controlled by, or acting on behalf or at the direction of, the government of Iran;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Represents, to the best of its knowledge and belief, that the offeror does not export any sensitive technology to the government of Iran or any entities or individuals owned or controlled by, or acting on behalf or at the direction of, the government of Iran;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3426e107" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Certifies that the offeror, or any person owned or controlled by the offeror, does not engage in any activities for which sanctions may be imposed under section 5 of the Iran Sanctions Act. These sanctioned activities are in the areas of development of the petroleum resources of Iran, production of refined petroleum products in Iran, sale and provision of refined petroleum products to Iran, and contributing to Iran's ability to acquire or develop certain weapons or technologies; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Certifies that the offeror, or any person owned or controlled by the offeror, does not engage in any activities for which sanctions may be imposed under section 5 of the Iran Sanctions Act. These sanctioned activities are in the areas of development of the petroleum resources of Iran, production of refined petroleum products in Iran, sale and provision of refined petroleum products to Iran, and contributing to Iran's ability to acquire or develop certain weapons or technologies; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3426e112" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Certifies that the offeror, and any person owned or controlled by the offeror, does not knowingly engage in any transaction that exceeds $3,500 with Iran's Revolutionary Guard Corps or any of its officials, agents, or affiliates, the property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (see OFAC's Specially Designated Nationals and Blocked Persons List at <xref href="https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx"
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Certifies that the offeror, and any person owned or controlled by the offeror, does not knowingly engage in any transaction that exceeds $3,500 with Iran's Revolutionary Guard Corps or any of its officials, agents, or affiliates, the property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (see OFAC's Specially Designated Nationals and Blocked Persons List at <xref href="https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx"
                               format="html"
                               scope="external"
                               class="- topic/xref ">h<term class="- topic/term ">ttps://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.asp</term>x</xref>).</p>
@@ -127,8 +119,7 @@
                <ol id="d3384e263" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3426e131" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        This solicitation includes a trade agreements notice or certification (<i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="FAR-i1053526.dita#i1053526"
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>This solicitation includes a trade agreements notice or certification (<i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="FAR-i1053526.dita#i1053526"
                               base="i1053526"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">52.225-4</xref>, <xref href="FAR-i1053693.dita#i1053693"
@@ -144,8 +135,7 @@
                   </li>
                   <li class="- topic/li ">
                      <p id="d3426e151" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        The offeror has certified that all the offered products to be supplied are designated country end products or designated country construction material.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The offeror has certified that all the offered products to be supplied are designated country end products or designated country construction material.</p>
                   </li>
                </ol>
             </li>

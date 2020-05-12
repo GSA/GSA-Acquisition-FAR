@@ -6,16 +6,17 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1052684"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.227-17</ph> Rights in Data-Special Works.</title>
       <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p id="d3452e8" class="- topic/p ">As prescribed in 
+         <p id="d3452e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1089472.dita#i1089472"
-                  base="i1089472"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">27.409</xref>(e), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Rights in Data-Special Works <ph outputclass="SmCaps">(Dec 2007)</ph>
+                     base="i1089472"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">27.409</xref>(e)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Rights in Data-Special Works <ph outputclass="SmCaps" class="- topic/ph ">(Dec 2007)</ph>
          </p>
          <ol id="d3410e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -23,66 +24,62 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause-</p>
                <p id="d3452e25" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.227-17" xtrc="d3445e40">Data</i> means recorded information, regardless of form or the media on which it may be recorded. The term includes technical data and computer software. The term does not include information incidental to contract administration, such as financial, administrative, cost or pricing, or management information.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.227-17"
+                     xtrc="d3445e40"
+                     class="+ topic/ph hi-d/i ">Data</i> means recorded information, regardless of form or the media on which it may be recorded. The term includes technical data and computer software. The term does not include information incidental to contract administration, such as financial, administrative, cost or pricing, or management information.</p>
                <p id="d3452e29" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.227-17" xtrc="d3445e46">Unlimited rights</i> means the rights of the Government to use, disclose, reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly, in any manner and for any purpose, and to have or permit others to do so.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.227-17"
+                     xtrc="d3445e46"
+                     class="+ topic/ph hi-d/i ">Unlimited rights</i> means the rights of the Government to use, disclose, reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly, in any manner and for any purpose, and to have or permit others to do so.</p>
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3452e34" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  Allocation of Rights.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Allocation of Rights. </p>
                <ol id="d3410e56" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3452e40" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        The Government shall have-</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The Government shall have-</p>
                      <ol id="d3410e66" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3452e46" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Unlimited rights in all data delivered under this contract, and in all data first produced in the performance of this contract, except as provided in paragraph (c) of this clause.</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Unlimited rights in all data delivered under this contract, and in all data first produced in the performance of this contract, except as provided in paragraph (c) of this clause.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3452e51" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              The right to limit assertion of copyright in data first produced in the performance of this contract, and to obtain assignment of copyright in that data, in accordance with paragraph (c)(1) of this clause.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The right to limit assertion of copyright in data first produced in the performance of this contract, and to obtain assignment of copyright in that data, in accordance with paragraph (c)(1) of this clause.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3452e56" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              The right to limit the release and use of certain data in accordance with paragraph (d) of this clause.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>The right to limit the release and use of certain data in accordance with paragraph (d) of this clause.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3452e61" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        The Contractor shall have, to the extent permission is granted in accordance with paragraph (c)(1) of this clause, the right to assert claim to copyright subsisting in data first produced in the performance of this contract.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor shall have, to the extent permission is granted in accordance with paragraph (c)(1) of this clause, the right to assert claim to copyright subsisting in data first produced in the performance of this contract.</p>
                   </li>
                </ol>
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3452e66" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  Copyright-</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>Copyright- </p>
                <ol id="d3410e116" class="- topic/ol ">
                   <li props="Runin" class="- topic/li ">
                      <p id="d3452e72" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Data first produced in the performance of this contract.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Data first produced in the performance of this contract. </p>
                      <ol id="d3410e126" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3452e78" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              The Contractor shall not assert or authorize others to assert any claim to copyright subsisting in any data first produced in the performance of this contract without prior written permission of the Contracting Officer. When copyright is asserted, the Contractor shall affix the appropriate copyright notice of <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The Contractor shall not assert or authorize others to assert any claim to copyright subsisting in any data first produced in the performance of this contract without prior written permission of the Contracting Officer. When copyright is asserted, the Contractor shall affix the appropriate copyright notice of <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                     format="html"
                                     scope="external"
                                     class="- topic/xref ">17 U.S.C. 401 or 402</xref> and acknowledgment of Government sponsorship (including contract number) to the data when delivered to the Government, as well as when the data are published or deposited for registration as a published work in the U.S. Copyright Office. The Contractor grants to the Government, and others acting on its behalf, a paid-up, nonexclusive, irrevocable, worldwide license for all delivered data to reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly, by or on behalf of the Government.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3452e86" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              If the Government desires to obtain copyright in data first produced in the performance of this contract and permission has not been granted as set forth in paragraph (c)(1)(i) of this clause, the Contracting Officer shall direct the Contractor to assign (with or without registration), or obtain the assignment of, the copyright to the Government or its designated assignee.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>If the Government desires to obtain copyright in data first produced in the performance of this contract and permission has not been granted as set forth in paragraph (c)(1)(i) of this clause, the Contracting Officer shall direct the Contractor to assign (with or without registration), or obtain the assignment of, the copyright to the Government or its designated assignee.</p>
                         </li>
                      </ol>
                   </li>

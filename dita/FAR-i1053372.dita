@@ -6,16 +6,17 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1053372"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.225-1</ph> Buy American-Supplies</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p id="d3402e8" class="- topic/p ">As prescribed in 
+         <p id="d3402e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1090819.dita#i1090819"
-                  base="i1090819"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">25.1101</xref>(a)(1), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Buy American-Supplies <ph outputclass="SmCaps">(May 2014)</ph>
+                     base="i1090819"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">25.1101</xref>(a)(1)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Buy American-Supplies <ph outputclass="SmCaps" class="- topic/ph ">(May 2014)</ph>
          </p>
          <ol id="d3360e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -23,7 +24,10 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause-</p>
                <p id="d3402e25" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-1" xtrc="d3395e40">Commercially available off-the-shelf (COTS) item</i>-<ol class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-1"
+                     xtrc="d3395e40"
+                     class="+ topic/ph hi-d/i ">Commercially available off-the-shelf (COTS) item</i>-<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3402e31" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Means any item of supply (including construction material) that is-</p>
@@ -55,9 +59,15 @@
                   </ol>
                </p>
                <p id="d3402e62" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-1" xtrc="d3395e103">Component</i> means an article, material, or supply incorporated directly into an end product.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-1"
+                     xtrc="d3395e103"
+                     class="+ topic/ph hi-d/i ">Component</i> means an article, material, or supply incorporated directly into an end product.</p>
                <p id="d3402e66" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-1" xtrc="d3395e109">Cost of components</i> means-<ol class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-1"
+                     xtrc="d3395e109"
+                     class="+ topic/ph hi-d/i ">Cost of components</i> means-<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3402e72" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> For components purchased by the Contractor, the acquisition cost, including transportation costs to the place of incorporation into the end product (whether or not such costs are paid to a domestic firm), and any applicable duty (whether or not a duty-free entry certificate is issued); or</p>
@@ -69,7 +79,10 @@
                   </ol>
                </p>
                <p id="d3402e81" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-1" xtrc="d3395e136">Domestic end product</i> means-<ol class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-1"
+                     xtrc="d3395e136"
+                     class="+ topic/ph hi-d/i ">Domestic end product</i> means-<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3402e87" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> An unmanufactured end product mined or produced in the United States;</p>
@@ -88,11 +101,20 @@
                            </li>
                         </ol>
                         <p id="d3402e107" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_52.225-1" xtrc="d3395e181">End product</i> means those articles, materials, and supplies to be acquired under the contract for public use.</p>
+                           <i outputclass="Term"
+                              xtrf="_52.225-1"
+                              xtrc="d3395e181"
+                              class="+ topic/ph hi-d/i ">End product</i> means those articles, materials, and supplies to be acquired under the contract for public use.</p>
                         <p id="d3402e111" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_52.225-1" xtrc="d3395e187">Foreign end product</i> means an end product other than a domestic end product.</p>
+                           <i outputclass="Term"
+                              xtrf="_52.225-1"
+                              xtrc="d3395e187"
+                              class="+ topic/ph hi-d/i ">Foreign end product</i> means an end product other than a domestic end product.</p>
                         <p id="d3402e115" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_52.225-1" xtrc="d3395e193">United States</i> means the 50 States, the District of Columbia, and outlying areas.</p>
+                           <i outputclass="Term"
+                              xtrf="_52.225-1"
+                              xtrc="d3395e193"
+                              class="+ topic/ph hi-d/i ">United States</i> means the 50 States, the District of Columbia, and outlying areas.</p>
                      </li>
                   </ol>
                </p>
@@ -113,13 +135,11 @@
             </li>
             <li class="- topic/li ">
                <p id="d3402e133" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  Offerors may obtain from the Contracting Officer a list of foreign articles that the Contracting Officer will treat as domestic for this contract.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>Offerors may obtain from the Contracting Officer a list of foreign articles that the Contracting Officer will treat as domestic for this contract.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3402e138" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  The Contractor shall deliver only domestic end products except to the extent that it specified delivery of foreign end products in the provision of the solicitation entitled “Buy American Certificate.”</p>
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>The Contractor shall deliver only domestic end products except to the extent that it specified delivery of foreign end products in the provision of the solicitation entitled “Buy American Certificate.”</p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>

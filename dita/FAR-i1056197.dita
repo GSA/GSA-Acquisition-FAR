@@ -6,16 +6,17 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="i1056197"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.222-34</ph> Project Labor Agreement.</title>
       <conbody class="- topic/body concept/conbody ">
-         <p id="d3345e8" class="- topic/p ">As prescribed in 
+         <p id="d3345e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1097603.dita#i1097603"
-                  base="i1097603"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">22.505</xref>(b)(1), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Project Labor Agreement <ph outputclass="SmCaps">(May 2010)</ph>
+                     base="i1097603"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">22.505</xref>(b)(1)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Project Labor Agreement <ph outputclass="SmCaps" class="- topic/ph ">(May 2010)</ph>
          </p>
          <ol id="d3303e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -23,20 +24,25 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause-</p>
                <p id="d3345e25" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.222-34" xtrc="d3338e40">Labor organization</i> means a labor organization as defined in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  <i outputclass="Term"
+                     xtrf="_52.222-34"
+                     xtrc="d3338e40"
+                     class="+ topic/ph hi-d/i ">Labor organization</i> means a labor organization as defined in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
                         class="- topic/xref ">29 U. S.C. 152(5)</xref>.</p>
                <p id="d3345e32" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.222-34" xtrc="d3338e49">Project labor agreement</i> means a pre-hire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific construction project and is an agreement described in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  <i outputclass="Term"
+                     xtrf="_52.222-34"
+                     xtrc="d3338e49"
+                     class="+ topic/ph hi-d/i ">Project labor agreement</i> means a pre-hire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific construction project and is an agreement described in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
                         class="- topic/xref ">29U. S.C.158(f)</xref>.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3345e40" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  The Contractor shall maintain in a current status throughout the life of the contract the project labor agreement entered into prior to the award of this contract in accordance with solicitation provision <xref href="FAR-i1056167.dita#i1056167"
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The Contractor shall maintain in a current status throughout the life of the contract the project labor agreement entered into prior to the award of this contract in accordance with solicitation provision <xref href="FAR-i1056167.dita#i1056167"
                         base="i1056167"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.222-33</xref>, Notice of Requirement for Project Labor Agreement.</p>
@@ -50,8 +56,7 @@
          <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
             <p id="d3345e58" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">May</i> 2010)</i>. As prescribed in 
-                  <xref href="FAR-i1097603.dita#i1097603"
+               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">May</i> 2010)</i>. As prescribed in <xref href="FAR-i1097603.dita#i1097603"
                      base="i1097603"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">22.505</xref>(b)(2), substitute the following paragraphs (b) through (f) for paragraphs (b) and (c) of the basic clause:</p>

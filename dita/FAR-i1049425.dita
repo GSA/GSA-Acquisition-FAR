@@ -6,16 +6,17 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="i1049425"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.232-5</ph> Payments under Fixed-Price Construction Contracts.</title>
       <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p id="d3501e8" class="- topic/p ">As prescribed in 
+         <p id="d3501e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1083775.dita#i1083775"
-                  base="i1083775"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">32.111</xref>(a)(5), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Payments under Fixed-Price Construction Contracts <ph outputclass="SmCaps">(May 2014)</ph>
+                     base="i1083775"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">32.111</xref>(a)(5)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Payments under Fixed-Price Construction Contracts <ph outputclass="SmCaps" class="- topic/ph ">(May 2014)</ph>
          </p>
          <ol id="d3459e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -30,50 +31,41 @@
                <ol id="d3459e50" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3501e34" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        The Contractor’s request for progress payments shall include the following substantiation:</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The Contractor’s request for progress payments shall include the following substantiation:</p>
                      <ol id="d3459e60" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3501e40" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              An itemization of the amounts requested, related to the various elements of work required by the contract covered by the payment requested.</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>An itemization of the amounts requested, related to the various elements of work required by the contract covered by the payment requested.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3501e45" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              A listing of the amount included for work performed by each subcontractor under the contract.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>A listing of the amount included for work performed by each subcontractor under the contract.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3501e50" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              A listing of the total amount of each subcontract under the contract.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>A listing of the total amount of each subcontract under the contract.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3501e55" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              A listing of the amounts previously paid to each such subcontractor under the contract.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>A listing of the amounts previously paid to each such subcontractor under the contract.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3501e60" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                              Additional supporting data in a form and detail required by the Contracting Officer.</p>
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>Additional supporting data in a form and detail required by the Contracting Officer.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3501e65" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        In the preparation of estimates, the Contracting Officer may authorize material delivered on the site and preparatory work done to be taken into consideration. Material delivered to the Contractor at locations other than the site also may be taken into consideration if-</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>In the preparation of estimates, the Contracting Officer may authorize material delivered on the site and preparatory work done to be taken into consideration. Material delivered to the Contractor at locations other than the site also may be taken into consideration if-</p>
                      <ol id="d3459e117" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3501e71" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Consideration is specifically authorized by this contract; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Consideration is specifically authorized by this contract; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3501e76" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              The Contractor furnishes satisfactory evidence that it has acquired title to such material and that the material will be used to perform this contract.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The Contractor furnishes satisfactory evidence that it has acquired title to such material and that the material will be used to perform this contract.</p>
                         </li>
                      </ol>
                   </li>
@@ -99,23 +91,19 @@
                <ol id="d3459e201" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3501e121" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Notify the Contracting Officer of such performance deficiency; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Notify the Contracting Officer of such performance deficiency; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3501e126" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Be obligated to pay the Government an amount (computed by the Contracting Officer in the manner provided in paragraph (j) of this clause) equal to interest on the unearned amount from the 8 thday after the date of receipt of the unearned amount until-</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Be obligated to pay the Government an amount (computed by the Contracting Officer in the manner provided in paragraph (j) of this clause) equal to interest on the unearned amount from the 8 thday after the date of receipt of the unearned amount until-</p>
                      <ol id="d3459e220" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3501e132" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              The date the Contractor notifies the Contracting Officer that the performance deficiency has been corrected; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The date the Contractor notifies the Contracting Officer that the performance deficiency has been corrected; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3501e137" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              The date the Contractor reduces the amount of any subsequent certified request for progress payments by an amount equal to the unearned amount.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The date the Contractor reduces the amount of any subsequent certified request for progress payments by an amount equal to the unearned amount.</p>
                         </li>
                      </ol>
                   </li>
@@ -133,13 +121,11 @@
                <ol id="d3459e267" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3501e157" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Relieving the Contractor from the sole responsibility for all material and work upon which payments have been made or the restoration of any damaged work; or</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Relieving the Contractor from the sole responsibility for all material and work upon which payments have been made or the restoration of any damaged work; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3501e162" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Waiving the right of the Government to require the fulfillment of all of the terms of the contract.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Waiving the right of the Government to require the fulfillment of all of the terms of the contract.</p>
                   </li>
                </ol>
             </li>
@@ -155,18 +141,15 @@
                <ol id="d3459e312" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3501e182" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Completion and acceptance of all work;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Completion and acceptance of all work;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3501e187" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Presentation of a properly executed voucher; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Presentation of a properly executed voucher; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3501e192" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Presentation of release of all claims against the Government arising by virtue of this contract, other than claims, in stated amounts, that the Contractor has specifically excepted from the operation of the release. A release may also be required of the assignee if the Contractor’s claim to amounts payable under this contract has been assigned under the Assignment of Claims Act of1940 (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Presentation of release of all claims against the Government arising by virtue of this contract, other than claims, in stated amounts, that the Contractor has specifically excepted from the operation of the release. A release may also be required of the assignee if the Contractor’s claim to amounts payable under this contract has been assigned under the Assignment of Claims Act of1940 (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
                               class="- topic/xref ">31 U.S.C.3727</xref> and <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
@@ -194,13 +177,11 @@
                <ol id="d3459e379" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3501e224" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Computed at the rate of average bond equivalent rates of 91-day Treasury bills auctioned at the most recent auction of such bills prior to the date the Contractor receives the unearned amount; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Computed at the rate of average bond equivalent rates of 91-day Treasury bills auctioned at the most recent auction of such bills prior to the date the Contractor receives the unearned amount; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3501e229" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Deducted from the next available payment to the Contractor.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Deducted from the next available payment to the Contractor.</p>
                   </li>
                </ol>
             </li>

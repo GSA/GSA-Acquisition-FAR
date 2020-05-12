@@ -6,16 +6,17 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="i1064147"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.204-12</ph> Unique Entity Identifier Maintenance.</title>
       <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p id="d3091e8" class="- topic/p ">As prescribed in 
+         <p id="d3091e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1122944.dita#i1122944"
-                  base="i1122944"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">4.607</xref>(c), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Unique Entity Identifier Maintenance <ph outputclass="SmCaps">(Oct 2016)</ph>
+                     base="i1122944"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">4.607</xref>(c)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Unique Entity Identifier Maintenance <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2016)</ph>
          </p>
          <ol id="d3057e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -28,8 +29,7 @@
             </li>
             <li class="- topic/li ">
                <p id="d3091e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  The Contractor shall ensure that the unique entity identifier is maintained with the entity designated at the System for Award Management (SAM) for establishment of the unique entity identifier throughout the life of the contract. The Contractor shall communicate any change to the unique entity identifier to the Contracting Officer within 30 days after the change, so an appropriate modification can be issued to update the data on the contract. A change in the unique entity identifier does not necessarily require a novation be accomplished.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The Contractor shall ensure that the unique entity identifier is maintained with the entity designated at the System for Award Management (SAM) for establishment of the unique entity identifier throughout the life of the contract. The Contractor shall communicate any change to the unique entity identifier to the Contracting Officer within 30 days after the change, so an appropriate modification can be issued to update the data on the contract. A change in the unique entity identifier does not necessarily require a novation be accomplished.</p>
             </li>
          </ol>
          <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>

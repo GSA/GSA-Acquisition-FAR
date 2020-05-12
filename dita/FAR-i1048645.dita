@@ -6,22 +6,22 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1048645"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.233-2</ph> Service of Protest.</title>
       <conbody outputclass="provision" class="- topic/body  concept/conbody ">
-         <p id="d3539e8" class="- topic/p ">As prescribed in 
+         <p id="d3539e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                  href="FAR-i1080584.dita#i1080584"
-                  base="i1080584"
-                  class="- topic/xref ">33.106</xref>
-            , insert the following provision:</p>
+                     href="FAR-i1080584.dita#i1080584"
+                     base="i1080584"
+                     class="- topic/xref ">33.106</xref>
+            </ph>, insert the following provision:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">Service of Protest (Sept 2006)</p>
          <ol id="d3497e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3539e18" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  Protests, as defined in section <xref outputclass="fm:ParaNumOnly"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Protests, as defined in section <xref outputclass="fm:ParaNumOnly"
                         href="FAR-i1080401.dita#i1080401"
                         base="i1080401"
                         class="- topic/xref ">33.101</xref> of the Federal Acquisition Regulation, that are filed directly with an agency, and copies of any protests that are filed with the Government Accountability Office (GAO), shall be served on the Contracting Officer (addressed as follows) by obtaining written and dated acknowledgment of receipt from <cite outputclass="MultiLine"
@@ -31,8 +31,7 @@
             </li>
             <li class="- topic/li ">
                <p id="d3539e31" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  The copy of any protest shall be received in the office designated above within oneday of filing a protest with the GAO.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The copy of any protest shall be received in the office designated above within oneday of filing a protest with the GAO.</p>
             </li>
          </ol>
          <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>

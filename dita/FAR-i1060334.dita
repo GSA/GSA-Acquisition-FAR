@@ -6,16 +6,17 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1060334"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.214-31</ph> Facsimile Bids.</title>
       <conbody outputclass="provision" class="- topic/body  concept/conbody ">
-         <p id="d3202e8" class="- topic/p ">As prescribed in 
+         <p id="d3202e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                  href="FAR-i1110459.dita#i1110459"
-                  base="i1110459"
-                  class="- topic/xref ">14.201-6</xref>(v), insert the following provision:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Facsimile Bids <ph outputclass="SmCaps">(Dec 1989)</ph>
+                     href="FAR-i1110459.dita#i1110459"
+                     base="i1110459"
+                     class="- topic/xref ">14.201-6</xref>(v)</ph>, insert the following provision:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Facsimile Bids <ph outputclass="SmCaps" class="- topic/ph ">(Dec 1989)</ph>
          </p>
          <ol id="d3164e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -25,41 +26,34 @@
             </li>
             <li class="- topic/li ">
                <p id="d3202e26" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  Bidders may submit facsimile bids as responses to this solicitation. These responses must arrive at the place and by the time, specified in the solicitation.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Bidders may submit facsimile bids as responses to this solicitation. These responses must arrive at the place and by the time, specified in the solicitation.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3202e31" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  Facsimile bids that fail to furnish required representations or information or that reject any of the terms, conditions, and provisions of the solicitation may be excluded from consideration.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>Facsimile bids that fail to furnish required representations or information or that reject any of the terms, conditions, and provisions of the solicitation may be excluded from consideration.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3202e36" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  Facsimile bids must contain the required signatures.</p>
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>Facsimile bids must contain the required signatures.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3202e41" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  The Government reserves the right to make award solely on the facsimile bid. However, if requested to do so by the Contracting Officer, the apparently successful bidder agrees to promptly submit the complete original signed bid.</p>
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>The Government reserves the right to make award solely on the facsimile bid. However, if requested to do so by the Contracting Officer, the apparently successful bidder agrees to promptly submit the complete original signed bid.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3202e46" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  Facsimile receiving data and compatibility characteristics are as follows:</p>
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>Facsimile receiving data and compatibility characteristics are as follows:</p>
                <ol id="d3164e84" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3202e52" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Telephone number of receiving facsimile equipment:<cite outputclass="SingleLine"
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Telephone number of receiving facsimile equipment:<cite outputclass="SingleLine"
                               xtrc="52.214-31_d3187e92"
                               class="- topic/cite ">_____________________</cite>
                      </p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3202e59" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Compatibility characteristics of receiving facsimile equipment (<i class="+ topic/ph hi-d/i ">e.g.,</i> make and model number, receiving speed, communications protocol):<cite outputclass="SingleLine"
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Compatibility characteristics of receiving facsimile equipment (<i class="+ topic/ph hi-d/i ">e.g.,</i> make and model number, receiving speed, communications protocol):<cite outputclass="SingleLine"
                               xtrc="52.214-31_d3187e107"
                               class="- topic/cite ">_____________________</cite>
                      </p>
@@ -68,43 +62,35 @@
             </li>
             <li class="- topic/li ">
                <p id="d3202e69" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(g)</ph>
-                  If the bidder chooses to transmit a facsimile bid, the Government will not be responsible for any failure attributable to the transmission or receipt of the facsimile bid including, but not limited to, the following:</p>
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph>If the bidder chooses to transmit a facsimile bid, the Government will not be responsible for any failure attributable to the transmission or receipt of the facsimile bid including, but not limited to, the following:</p>
                <ol id="d3164e117" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3202e75" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Receipt of garbled or incomplete bid.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Receipt of garbled or incomplete bid.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3202e80" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Availability or condition of the receiving facsimile equipment.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Availability or condition of the receiving facsimile equipment.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3202e85" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Incompatibility between the sending and receiving equipment.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Incompatibility between the sending and receiving equipment.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3202e90" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        Delay in transmission or receipt of bid.</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Delay in transmission or receipt of bid.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3202e95" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        Failure of the bidder to properly identify the bid.</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>Failure of the bidder to properly identify the bid.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3202e100" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        Illegibility of bid.</p>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>Illegibility of bid.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3202e105" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        Security of bid data.</p>
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>Security of bid data.</p>
                   </li>
                </ol>
             </li>

@@ -6,16 +6,17 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1054633"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.225-23</ph> Required Use of American Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials under Trade Agreements.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="d3424e8" class="- topic/p ">As prescribed in 
+      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+         <p id="d3424e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1090904.dita#i1090904"
-                  base="i1090904"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">25.1102</xref>(e), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Required Use of American Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials under Trade Agreements <ph outputclass="SmCaps">(Oct 2019)</ph>
+                     base="i1090904"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">25.1102</xref>(e)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Required Use of American Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials under Trade Agreements <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2019)</ph>
          </p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
@@ -23,31 +24,36 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause—</p>
                <p id="d3424e25" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e40">Component</i> means an article, material, or supply incorporated directly into a construction material.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e40"
+                     class="+ topic/ph hi-d/i ">Component</i> means an article, material, or supply incorporated directly into a construction material.</p>
                <p id="d3424e29" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e46">Construction material</i> means an article, material, or supply brought to the construction site by the Contractor or subcontractor for incorporation into the building or work. The term also includes an item brought to the site preassembled from articles, materials, or supplies. However, emergency lifes afety systems, such as emergency lighting, fire alarm, and audio evacuation systems, that are discrete systems incorporated into a public building or work and that are produced as complete systems, are evaluated as a single and distinct construction material regardless of when or how the individual parts or components of those systems are delivered to the construction site.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e46"
+                     class="+ topic/ph hi-d/i ">Construction material</i> means an article, material, or supply brought to the construction site by the Contractor or subcontractor for incorporation into the building or work. The term also includes an item brought to the site preassembled from articles, materials, or supplies. However, emergency lifes afety systems, such as emergency lighting, fire alarm, and audio evacuation systems, that are discrete systems incorporated into a public building or work and that are produced as complete systems, are evaluated as a single and distinct construction material regardless of when or how the individual parts or components of those systems are delivered to the construction site.</p>
                <p id="d3424e33" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e52">Designated country</i> means any of the following countries:</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e52"
+                     class="+ topic/ph hi-d/i ">Designated country</i> means any of the following countries:</p>
                <ol id="d3382e29" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3424e39" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3424e47" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        A Free Trade Agreement (FTA) country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>A Free Trade Agreement (FTA) country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3424e52" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia); or</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia); or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3424e57" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        A Caribbean Basin country (Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, Bonaire, British Virgin Islands, Curacao, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, Saba, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sint Eustatius, Sint Maarten, or Trinidad and Tobago).</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>A Caribbean Basin country (Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, Bonaire, British Virgin Islands, Curacao, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, Saba, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sint Eustatius, Sint Maarten, or Trinidad and Tobago).</p>
                   </li>
                </ol>
                <p id="d3424e61" class="- topic/p ">“Designated country construction material” means a construction material that is a WTO GPA country construction material, an FTA country construction material, a least developed country construction material, or a Caribbean Basin country construction material.</p>
@@ -55,19 +61,23 @@
                <ol id="d3382e74" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3424e67" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        An unmanufactured construction material mined or produced in the United States. (The Buy American statute applies.)</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>An unmanufactured construction material mined or produced in the United States. (The Buy American statute applies.)</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3424e72" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        A manufactured construction material that is manufactured in the United States and, if the construction material consists wholly or predominantly of iron or steel, the iron or steel was produced in the United States. (Section 1605 of the Recovery Act applies.)</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>A manufactured construction material that is manufactured in the United States and, if the construction material consists wholly or predominantly of iron or steel, the iron or steel was produced in the United States. (Section 1605 of the Recovery Act applies.)</p>
                   </li>
                </ol>
                <p id="d3424e76" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e128">Foreign construction material</i> means a construction material other than a domestic construction material.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e128"
+                     class="+ topic/ph hi-d/i ">Foreign construction material</i> means a construction material other than a domestic construction material.</p>
                <p id="d3424e80" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e134">Free trade agreement (FTA) country construction material</i> means a construction material that-<ol id="d3382e130" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e134"
+                     class="+ topic/ph hi-d/i ">Free trade agreement (FTA) country construction material</i> means a construction material that-<ol id="d3382e130" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3424e86" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Is wholly the growth, product, or manufacture of an FTA country; or</p>
@@ -79,7 +89,10 @@
                   </ol>
                </p>
                <p id="d3424e95" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e161">Least developed country construction material</i> means a construction material that-<ol id="d3382e154" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e161"
+                     class="+ topic/ph hi-d/i ">Least developed country construction material</i> means a construction material that-<ol id="d3382e154" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3424e101" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Is wholly the growth, product, or manufacture of a least developed country; or</p>
@@ -91,35 +104,50 @@
                   </ol>
                </p>
                <p id="d3424e111" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e189">Manufactured construction material</i> means any construction material that is not unmanufactured construction material.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e189"
+                     class="+ topic/ph hi-d/i ">Manufactured construction material</i> means any construction material that is not unmanufactured construction material.</p>
                <p id="d3424e115" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e195">Nondesignated country</i> means a country other than the United States or a designated country.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e195"
+                     class="+ topic/ph hi-d/i ">Nondesignated country</i> means a country other than the United States or a designated country.</p>
                <p id="d3424e119" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e201">Recovery Act designated country</i> means any of the following countries:</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e201"
+                     class="+ topic/ph hi-d/i ">Recovery Act designated country</i> means any of the following countries:</p>
                <ol id="d3382e185" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3424e125" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3424e133" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        A Free Trade Agreement country (FTA) (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore); or</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>A Free Trade Agreement country (FTA) (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore); or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3424e138" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia).</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia).</p>
                   </li>
                </ol>
                <p id="d3424e142" class="- topic/p ">“Recovery Act designated country construction material” means a construction material that is a WTO GPA country construction material, an FTA country construction material, or a least developed country construction material.</p>
                <p id="d3424e144" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e243">Steel</i> means an alloy that includes at least 50 percent iron, between .02 and 2 percent carbon, and may include other elements.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e243"
+                     class="+ topic/ph hi-d/i ">Steel</i> means an alloy that includes at least 50 percent iron, between .02 and 2 percent carbon, and may include other elements.</p>
                <p id="d3424e148" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e250">United States</i> means the 50 States, the District of Columbia, and outlying areas.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e250"
+                     class="+ topic/ph hi-d/i ">United States</i> means the 50 States, the District of Columbia, and outlying areas.</p>
                <p id="d3424e152" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e256">Unmanufactured construction material</i> means raw material brought to the construction site for incorporation into the building or work that has not been-<ol id="d3382e227" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e256"
+                     class="+ topic/ph hi-d/i ">Unmanufactured construction material</i> means raw material brought to the construction site for incorporation into the building or work that has not been-<ol id="d3382e227" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3424e158" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Processed into a specific form and shape; or</p>
@@ -131,7 +159,10 @@
                   </ol>
                </p>
                <p id="d3424e167" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e283">WTO GPA country construction material</i> means a construction material that-<ol id="d3382e251" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-23"
+                     xtrc="d3417e283"
+                     class="+ topic/ph hi-d/i ">WTO GPA country construction material</i> means a construction material that-<ol id="d3382e251" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3424e173" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Is wholly the growth, product, or manufacture of a WTO GPA country; or</p>
@@ -146,35 +177,30 @@
             <li props="Runin" class="- topic/li ">
                <p id="d3424e183" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <i class="+ topic/ph hi-d/i ">Construction materials.</i>
+                  <i class="+ topic/ph hi-d/i ">Construction materials.</i> 
                </p>
                <ol id="d3382e290" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3424e190" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        The restrictions of section 1605 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act) do not apply to Recovery Act designated country manufactured construction material. The restrictions of the Buy American statute do not apply to designated country unmanufactured construction material. Consistent with U.S. obligations under international agreements, this clause implements-</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The restrictions of section 1605 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act) do not apply to Recovery Act designated country manufactured construction material. The restrictions of the Buy American statute do not apply to designated country unmanufactured construction material. Consistent with U.S. obligations under international agreements, this clause implements-</p>
                      <ol id="d3382e300" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3424e196" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Section 1605 of the Recovery Act by requiring, unless an exception applies, that all manufactured construction material in the project is manufactured in the United States and, if the construction material consists wholly or predominantly of iron or steel, the iron or steel was produced in the United States (produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, except metallurgical processes involving refinement of steel additives); and.</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Section 1605 of the Recovery Act by requiring, unless an exception applies, that all manufactured construction material in the project is manufactured in the United States and, if the construction material consists wholly or predominantly of iron or steel, the iron or steel was produced in the United States (produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, except metallurgical processes involving refinement of steel additives); and.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3424e201" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              The Buy American statute by providing a preference for unmanufactured construction material mined or produced in the United States over unmanufactured construction material mined or produced in a nondesignated country.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The Buy American statute by providing a preference for unmanufactured construction material mined or produced in the United States over unmanufactured construction material mined or produced in a nondesignated country.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3424e206" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        The Contractor shall use only domestic construction material, Recovery Act designated country manufactured construction material, or designated country unmanufactured construction material in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor shall use only domestic construction material, Recovery Act designated country manufactured construction material, or designated country unmanufactured construction material in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3424e211" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        The requirement in paragraph (b)(2) of this clause does not apply to the construction materials or components listed by the Government as follows:</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The requirement in paragraph (b)(2) of this clause does not apply to the construction materials or components listed by the Government as follows:</p>
                      <p id="d3424e215" class="- topic/p ">
                         <cite outputclass="MultiLine"
                               xtrc="52.225-23_d3406e332"
@@ -183,35 +209,29 @@
                   </li>
                   <li class="- topic/li ">
                      <p id="d3424e222" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        The Contracting Officer may add other construction material to the list in paragraph (b)(3) of this clause if the Government determines that-</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>The Contracting Officer may add other construction material to the list in paragraph (b)(3) of this clause if the Government determines that-</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3424e228" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              The cost of domestic construction material would be unreasonable;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The cost of domestic construction material would be unreasonable;</p>
                            <ol class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3424e234" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    The cost of domestic manufactured construction material is unreasonable when the cumulative cost of such material, when compared to the cost of comparable foreign manufactured construction material, other than Recovery Act designated country construction material, will increase the overall cost of the contract by more than 25 percent;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>The cost of domestic manufactured construction material is unreasonable when the cumulative cost of such material, when compared to the cost of comparable foreign manufactured construction material, other than Recovery Act designated country construction material, will increase the overall cost of the contract by more than 25 percent;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3424e239" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    The cost of domestic unmanufactured construction material is unreasonable when the cost of such material exceeds the cost of comparable foreign unmanufactured construction material, other than designated country construction material, by more than 6 percent;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>The cost of domestic unmanufactured construction material is unreasonable when the cost of such material exceeds the cost of comparable foreign unmanufactured construction material, other than designated country construction material, by more than 6 percent;</p>
                               </li>
                            </ol>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3424e244" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              The construction material is not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities of a satisfactory quality; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The construction material is not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities of a satisfactory quality; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3424e249" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              The application of the restriction of section 1605 of the Recovery Act to a particular manufactured construction material would be inconsistent with the public interest or the application of the Buy American statute to a particular unmanufactured construction material would be impracticable or inconsistent with the public interest.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>The application of the restriction of section 1605 of the Recovery Act to a particular manufactured construction material would be inconsistent with the public interest or the application of the Buy American statute to a particular unmanufactured construction material would be impracticable or inconsistent with the public interest.</p>
                         </li>
                      </ol>
                   </li>
@@ -224,82 +244,68 @@
                <ol id="d3382e366" class="- topic/ol ">
                   <li props="Runin" class="- topic/li ">
                      <p id="d3424e262" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> 
                      </p>
                      <ol id="d3382e376" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3424e267" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Any Contractor request to use foreign construction material in accordance with paragraph (b)(4) of this clause shall include adequate information for Government evaluation of the request, including-</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Any Contractor request to use foreign construction material in accordance with paragraph (b)(4) of this clause shall include adequate information for Government evaluation of the request, including-</p>
                            <ol id="d3382e386" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3424e273" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    A description of the foreign and domestic construction materials;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>A description of the foreign and domestic construction materials;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3424e278" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    Unit of measure;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Unit of measure;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3424e283" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                    Quantity;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>Quantity;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3424e288" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>
-                                    Cost;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>Cost;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3424e293" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(E)</ph>
-                                    Time of delivery or availability;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(E)</ph>Time of delivery or availability;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3424e298" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(F)</ph>
-                                    Location of the construction project;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(F)</ph>Location of the construction project;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3424e303" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(G)</ph>
-                                    Name and address of the proposed supplier; and</p>
+                                    <ph props="autonumber" class="- topic/ph ">(G)</ph>Name and address of the proposed supplier; and</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3424e308" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(H)</ph>
-                                    A detailed justification of the reason for use of foreign construction materials cited in accordance with paragraph (b)(4) of this clause.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(H)</ph>A detailed justification of the reason for use of foreign construction materials cited in accordance with paragraph (b)(4) of this clause.</p>
                               </li>
                            </ol>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3424e313" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              A request based on unreasonable cost shall include a reasonable survey of the market and a completed cost comparison table in the format in paragraph (d) of this clause.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>A request based on unreasonable cost shall include a reasonable survey of the market and a completed cost comparison table in the format in paragraph (d) of this clause.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3424e318" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              The cost of construction material shall include all delivery costs to the construction site and any applicable duty.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>The cost of construction material shall include all delivery costs to the construction site and any applicable duty.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3424e323" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              Any Contractor request for a determination submitted after contract award shall explain why the Contractor could not reasonably foresee the need for such determination and could not have requested the determination before contract award. If the Contractor does not submit a satisfactory explanation, the Contracting Officer need not make a determination.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>Any Contractor request for a determination submitted after contract award shall explain why the Contractor could not reasonably foresee the need for such determination and could not have requested the determination before contract award. If the Contractor does not submit a satisfactory explanation, the Contracting Officer need not make a determination.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3424e328" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        If the Government determines after contract award that an exception to section 1605 of the Recovery Act or the Buy American statute applies and the Contracting Officer and the Contractor negotiate adequate consideration, the Contracting Officer will modify the contract to allow use of the foreign construction material. However, when the basis for the exception is the unreasonable cost of a domestic construction material, adequate consideration is not less than the differential established in paragraph (b)(4)(i) of this clause.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>If the Government determines after contract award that an exception to section 1605 of the Recovery Act or the Buy American statute applies and the Contracting Officer and the Contractor negotiate adequate consideration, the Contracting Officer will modify the contract to allow use of the foreign construction material. However, when the basis for the exception is the unreasonable cost of a domestic construction material, adequate consideration is not less than the differential established in paragraph (b)(4)(i) of this clause.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3424e333" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Unless the Government determines that an exception to section 1605 of the Recovery Act or the Buy American statute applies, use of foreign construction material other than manufactured construction material from a Recovery Act designated country or unmanufactured construction material from a designated country is noncompliant with the applicable statute.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Unless the Government determines that an exception to section 1605 of the Recovery Act or the Buy American statute applies, use of foreign construction material other than manufactured construction material from a Recovery Act designated country or unmanufactured construction material from a designated country is noncompliant with the applicable statute.</p>
                   </li>
                </ol>
             </li>
@@ -505,14 +511,15 @@
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
             <p id="d3424e492" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">May</i> 2014)</i>. As prescribed in 
-                  <xref href="FAR-i1090904.dita#i1090904"
+               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">May</i> 2014)</i>. As prescribed in <xref href="FAR-i1090904.dita#i1090904"
                      base="i1090904"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">25.1102</xref>
-               (e), add the following definition of “Bahrainian, Mexican, or Omani construction material” to paragraph (a) of the basic clause, and substitute the following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of the basic clause:</p>
+                     class="- topic/xref ">25.1102</xref>(e), add the following definition of “Bahrainian, Mexican, or Omani construction material” to paragraph (a) of the basic clause, and substitute the following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of the basic clause:</p>
             <p outputclass="List1" class="- topic/p ">
-               <i outputclass="Term" xtrf="_52.225-23" xtrc="d3417e933">Bahrainian, Mexican, or Omani construction material</i> means a construction material that-<ol class="- topic/ol ">
+               <i outputclass="Term"
+                  xtrf="_52.225-23"
+                  xtrc="d3417e933"
+                  class="+ topic/ph hi-d/i ">Bahrainian, Mexican, or Omani construction material</i> means a construction material that-<ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">

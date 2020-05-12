@@ -6,17 +6,18 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="i1046671"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.247-68</ph> Report of Shipment (REPSHIP).</title>
       <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p id="d3744e8" class="- topic/p ">As prescribed in 
+         <p id="d3744e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1071192.dita#i1071192"
-                  base="i1071192"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">47.208-2</xref>
-            , insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Report of Shipment (REPSHIP) <ph outputclass="SmCaps">(Feb 2006)</ph>
+                     base="i1071192"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">47.208-2</xref>
+            </ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Report of Shipment (REPSHIP) <ph outputclass="SmCaps" class="- topic/ph ">(Feb 2006)</ph>
          </p>
          <ol id="d3702e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -26,40 +27,33 @@
                <ol id="d3702e38" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3744e26" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        A destination within the contiguous United States; or</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>A destination within the contiguous United States; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3744e31" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        If shipment originates in Alaska or Hawaii, a destination in Alaska or Hawaii, respectively.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>If shipment originates in Alaska or Hawaii, a destination in Alaska or Hawaii, respectively.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
                <p id="d3744e36" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  Unless otherwise directed by the Contracting Officer, the Contractor shall-</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Unless otherwise directed by the Contracting Officer, the Contractor shall-</p>
                <ol id="d3702e68" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3744e42" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Send a prepaid notice of shipment to the consignee transportation officer-</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Send a prepaid notice of shipment to the consignee transportation officer-</p>
                      <ol id="d3702e78" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3744e48" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              For all shipments of-</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>For all shipments of-</p>
                            <ol id="d3702e88" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3744e54" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    Classified material, protected sensitive, and protected controlled material;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Classified material, protected sensitive, and protected controlled material;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3744e59" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    Explosives and poisons, class 1, division <xref outputclass="fm:ParaNumOnly"
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Explosives and poisons, class 1, division <xref outputclass="fm:ParaNumOnly"
                                           class="- topic/xref "
                                           base="id1617MA00YSR"
                                           href="FAR-id1617MA00YSR.dita#id1617MA00YSR">1.1</xref>, <xref outputclass="fm:ParaNumOnly"
@@ -75,27 +69,23 @@
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3744e76" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                    Radioactive materials requiring the use of a III bar label; or</p>
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>Radioactive materials requiring the use of a III bar label; or</p>
                               </li>
                            </ol>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3744e81" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              When a truckload/carload shipment of supplies weighing 20,000 pounds or more, or a shipment of less weight that occupies the full visible capacity of a railway car or motor vehicle, is given to any carrier (common, contract, or private) for transportation to a domestic destination (other than a port for export);</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>When a truckload/carload shipment of supplies weighing 20,000 pounds or more, or a shipment of less weight that occupies the full visible capacity of a railway car or motor vehicle, is given to any carrier (common, contract, or private) for transportation to a domestic destination (other than a port for export);</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3744e86" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Transmits the notice by rapid means to be received by the consignee transportation officer at least 24 hours before the arrival of the shipment; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Transmits the notice by rapid means to be received by the consignee transportation officer at least 24 hours before the arrival of the shipment; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3744e91" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Send, to the receiving transportation officer, the bill of lading or letter or other document containing the following information and prominently identified as a “Report of Shipment”or “REPSHIP FOR T.O.”</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Send, to the receiving transportation officer, the bill of lading or letter or other document containing the following information and prominently identified as a “Report of Shipment”or “REPSHIP FOR T.O.”</p>
                      <p id="d3744e95" class="- topic/p ">REPSHIP FOR T.O. 81 JUN 01</p>
                      <p id="d3744e97" class="- topic/p ">TRANSPORTATION OFFICER</p>
                      <p id="d3744e99" class="- topic/p ">DEFENSE DEPOT, MEMPHIS, TN.</p>

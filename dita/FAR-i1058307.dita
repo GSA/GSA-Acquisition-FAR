@@ -6,43 +6,40 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1058307"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.216-7</ph> Allowable Cost and Payment.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="d3238e8" class="- topic/p ">As prescribed in 
+      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+         <p id="d3238e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                  href="FAR-i1104745.dita#i1104745"
-                  base="i1104745"
-                  class="- topic/xref ">16.307</xref>(a), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Allowable Cost and Payment <ph outputclass="SmCaps">(Aug 2018)</ph>
+                     href="FAR-i1104745.dita#i1104745"
+                     base="i1104745"
+                     class="- topic/xref ">16.307</xref>(a)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Allowable Cost and Payment <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2018)</ph>
          </p>
          <ol id="d3200e25" class="- topic/ol ">
             <li props="Runin" class="- topic/li ">
                <p id="d3238e19" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  Invoicing.</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Invoicing. </p>
                <ol id="d3200e35" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3238e25" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        The Government will make payments to the Contractor when requested as work progresses, but (except for small business concerns) not more often than once every 2 weeks, in amounts determined to be allowable by the Contracting Officer in accordance with Federal Acquisition Regulation (FAR) <xref outputclass="fm:Subpart"
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The Government will make payments to the Contractor when requested as work progresses, but (except for small business concerns) not more often than once every 2 weeks, in amounts determined to be allowable by the Contracting Officer in accordance with Federal Acquisition Regulation (FAR) <xref outputclass="fm:Subpart"
                               href="FAR-i1084539.dita#i1084539"
                               base="i1084539"
                               class="- topic/xref ">subpart  31.2</xref> in effect on the date of this contract and the terms of this contract. The Contractor may submit to an authorized representative of the Contracting Officer, in such form and reasonable detail as the representative may require, an invoice or voucher supported by a statement of the claimed allowable cost for performing this contract.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3238e33" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Contract financing payments are not subject to the interest penalty provisions of the Prompt Payment Act. Interim payments made prior to the final payment under the contract are contract financing payments, except interim payments if this contract contains Alternate I to the clause at <xref outputclass="fm:ParaNumOnly"
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Contract financing payments are not subject to the interest penalty provisions of the Prompt Payment Act. Interim payments made prior to the final payment under the contract are contract financing payments, except interim payments if this contract contains Alternate I to the clause at <xref outputclass="fm:ParaNumOnly"
                               href="FAR-i1050125.dita#i1050125"
                               base="i1050125"
                               class="- topic/xref ">52.232-25</xref>.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3238e41" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        The designated payment office will make interim payments for contract financing on the <cite outputclass="SingleLine"
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The designated payment office will make interim payments for contract financing on the <cite outputclass="SingleLine"
                               xtrc="52.216-7_d3223e65"
                               class="- topic/cite ">_________ [<i class="+ topic/ph hi-d/i ">Contracting Officer insert day as prescribed by agency head; if not prescribed, insert “30th”</i>]</cite> day after the designated billing office receives a proper payment request. In the event that the Government requires an audit or other review of a specific payment request to ensure compliance with the terms and conditions of the contract, the designated payment office is not compelled to make payment by the specified due date.</p>
                   </li>
@@ -50,101 +47,83 @@
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3238e52" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  Reimbursing costs.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Reimbursing costs. </p>
                <ol id="d3200e83" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3238e58" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        For the purpose of reimbursing allowable costs (except as provided in paragraph (b)(2) of this clause, with respect to pension, deferred profit sharing, and employee stock ownership plan contributions), the term “costs” includes only—</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>For the purpose of reimbursing allowable costs (except as provided in paragraph (b)(2) of this clause, with respect to pension, deferred profit sharing, and employee stock ownership plan contributions), the term “costs” includes only—</p>
                      <ol id="d3200e93" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3238e64" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Those recorded costs that, at the time of the request for reimbursement, the Contractor has paid by cash, check, or other form of actual payment for items or services purchased directly for the contract;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Those recorded costs that, at the time of the request for reimbursement, the Contractor has paid by cash, check, or other form of actual payment for items or services purchased directly for the contract;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3238e69" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              When the Contractor is not delinquent in paying costs of contract performance in the ordinary course of business, costs incurred, but not necessarily paid, for-</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>When the Contractor is not delinquent in paying costs of contract performance in the ordinary course of business, costs incurred, but not necessarily paid, for-</p>
                            <ol id="d3200e112" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3238e75" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    Supplies and services purchased directly for the contract and associated financing payments to subcontractors, provided payments determined due will be made–</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Supplies and services purchased directly for the contract and associated financing payments to subcontractors, provided payments determined due will be made–</p>
                                  <ol id="d3200e122" class="- topic/ol ">
                                     <li outputclass="italic" class="- topic/li ">
                                        <p id="d3238e81" class="- topic/p ">
-                                          <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                                          In accordance with the terms and conditions of a subcontract or invoice; and</p>
+                                          <ph props="autonumber" class="- topic/ph ">(1)</ph>In accordance with the terms and conditions of a subcontract or invoice; and</p>
                                     </li>
                                     <li outputclass="italic" class="- topic/li ">
                                        <p id="d3238e86" class="- topic/p ">
-                                          <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                                          Ordinarily within 30 days of the submission of the Contractor’s payment request to the Government;</p>
+                                          <ph props="autonumber" class="- topic/ph ">(2)</ph>Ordinarily within 30 days of the submission of the Contractor’s payment request to the Government;</p>
                                     </li>
                                  </ol>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e91" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    Materials issued from the Contractor’s inventory and placed in the production process for use on the contract;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Materials issued from the Contractor’s inventory and placed in the production process for use on the contract;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e96" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                    Direct labor;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>Direct labor;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e101" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>
-                                    Direct travel;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>Direct travel;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e106" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(E)</ph>
-                                    Other direct in-house costs; and</p>
+                                    <ph props="autonumber" class="- topic/ph ">(E)</ph>Other direct in-house costs; and</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e111" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(F)</ph>
-                                    Properly allocable and allowable indirect costs, as shown in the records maintained by the Contractor for purposes of obtaining reimbursement under Government contracts; and</p>
+                                    <ph props="autonumber" class="- topic/ph ">(F)</ph>Properly allocable and allowable indirect costs, as shown in the records maintained by the Contractor for purposes of obtaining reimbursement under Government contracts; and</p>
                               </li>
                            </ol>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3238e116" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              The amount of financing payments that have been paid by cash, check, or other forms of payment to subcontractors.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>The amount of financing payments that have been paid by cash, check, or other forms of payment to subcontractors.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3238e121" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Accrued costs of Contractor contributions under employee pension plans shall be excluded until actually paid unless-</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Accrued costs of Contractor contributions under employee pension plans shall be excluded until actually paid unless-</p>
                      <ol id="d3200e211" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3238e127" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              The Contractor’s practice is to make contributions to the retirement fund quarterly or more frequently; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The Contractor’s practice is to make contributions to the retirement fund quarterly or more frequently; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3238e132" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              The contribution does not remain unpaid 30 days after the end of the applicable quarter or shorter payment period (any contribution remaining unpaid shall be excluded from the Contractor’s indirect costs for payment purposes).</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The contribution does not remain unpaid 30 days after the end of the applicable quarter or shorter payment period (any contribution remaining unpaid shall be excluded from the Contractor’s indirect costs for payment purposes).</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3238e137" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Notwithstanding the audit and adjustment of invoices or vouchers under paragraph (g) of this clause, allowable indirect costs under this contract shall be obtained by applying indirect cost rates established in accordance with paragraph (d) of this clause.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Notwithstanding the audit and adjustment of invoices or vouchers under paragraph (g) of this clause, allowable indirect costs under this contract shall be obtained by applying indirect cost rates established in accordance with paragraph (d) of this clause.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3238e142" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        Any statements in specifications or other documents incorporated in this contract by reference designating performance of services or furnishing of materials at the Contractor’s expense or at no cost to the Government shall be disregarded for purposes of cost-reimbursement under this clause.</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Any statements in specifications or other documents incorporated in this contract by reference designating performance of services or furnishing of materials at the Contractor’s expense or at no cost to the Government shall be disregarded for purposes of cost-reimbursement under this clause.</p>
                   </li>
                </ol>
             </li>
@@ -155,41 +134,35 @@
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3238e154" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  Final indirect cost rates.</p>
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>Final indirect cost rates. </p>
                <ol id="d3200e273" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3238e160" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Final annual indirect cost rates and the appropriate bases shall be established in accordance with <xref outputclass="fm:Subpart"
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Final annual indirect cost rates and the appropriate bases shall be established in accordance with <xref outputclass="fm:Subpart"
                               href="FAR-i1075062.dita#i1075062"
                               base="i1075062"
                               class="- topic/xref ">subpart  42.7</xref> of the Federal Acquisition Regulation (FAR) in effect for the period covered by the indirect cost rate proposal.</p>
                   </li>
                   <li props="Runin" class="- topic/li ">
                      <p id="d3238e168" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> 
                      </p>
                      <ol id="d3200e295" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3238e173" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              The Contractor shall submit an adequate final indirect cost rate proposal to the Contracting Officer (or cognizant Federal agency official) and auditor within the 6-month period following the expiration of each of its fiscal years. Reasonable extensions, for exceptional circumstances only, may be requested in writing by the Contractor and granted in writing by the Contracting Officer. The Contractor shall support its proposal with adequate supporting data.</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The Contractor shall submit an adequate final indirect cost rate proposal to the Contracting Officer (or cognizant Federal agency official) and auditor within the 6-month period following the expiration of each of its fiscal years. Reasonable extensions, for exceptional circumstances only, may be requested in writing by the Contractor and granted in writing by the Contracting Officer. The Contractor shall support its proposal with adequate supporting data.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3238e178" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              The proposed rates shall be based on the Contractor’s actual cost experience for that period. The appropriate Government representative and the Contractor shall establish the final indirect cost rates as promptly as practical after receipt of the Contractor’s proposal.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The proposed rates shall be based on the Contractor’s actual cost experience for that period. The appropriate Government representative and the Contractor shall establish the final indirect cost rates as promptly as practical after receipt of the Contractor’s proposal.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3238e183" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              An adequate indirect cost rate proposal shall include the following data unless otherwise specified by the cognizant Federal agency official:</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>An adequate indirect cost rate proposal shall include the following data unless otherwise specified by the cognizant Federal agency official:</p>
                            <ol id="d3200e323" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3238e189" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    Summary of all claimed indirect expense rates, including pool, base, and calculated indirect rate.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Summary of all claimed indirect expense rates, including pool, base, and calculated indirect rate.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e194" class="- topic/p ">
@@ -208,28 +181,23 @@
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e215" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(E)</ph>
-                                    Claimed allocation bases, by element of cost, used to distribute indirect costs.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(E)</ph>Claimed allocation bases, by element of cost, used to distribute indirect costs.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e220" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(F)</ph>
-                                    Facilities capital cost of money factors computation.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(F)</ph>Facilities capital cost of money factors computation.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e225" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(G)</ph>
-                                    Reconciliation of books of account (<i class="+ topic/ph hi-d/i ">i.e.</i>, General Ledger) and claimed direct costs by major cost element.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(G)</ph>Reconciliation of books of account (<i class="+ topic/ph hi-d/i ">i.e.</i>, General Ledger) and claimed direct costs by major cost element.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e233" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(H)</ph>
-                                    Schedule of direct costs by contract and subcontract and indirect expense applied at claimed rates, as well as a subsidiary schedule of Government participation percentages in each of the allocation base amounts.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(H)</ph>Schedule of direct costs by contract and subcontract and indirect expense applied at claimed rates, as well as a subsidiary schedule of Government participation percentages in each of the allocation base amounts.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e238" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(I)</ph>
-                                    Schedule of cumulative direct and indirect costs claimed and billed by contract and subcontract.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(I)</ph>Schedule of cumulative direct and indirect costs claimed and billed by contract and subcontract.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e243" class="- topic/p ">
@@ -238,48 +206,40 @@
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e250" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(K)</ph>
-                                    Summary of each time-and-materials and labor-hour contract information, including labor categories, labor rates, hours, and amounts; direct materials; other direct costs; and, indirect expense applied at claimed rates.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(K)</ph>Summary of each time-and-materials and labor-hour contract information, including labor categories, labor rates, hours, and amounts; direct materials; other direct costs; and, indirect expense applied at claimed rates.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e256" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(L)</ph>
-                                    Reconciliation of total payroll per IRS form 941 to total labor costs distribution.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(L)</ph>Reconciliation of total payroll per IRS form 941 to total labor costs distribution.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e261" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(M)</ph>
-                                    Listing of decisions/agreements/approvals and description of accounting/organizational changes.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(M)</ph>Listing of decisions/agreements/approvals and description of accounting/organizational changes.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e266" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(N)</ph>
-                                    Certificate of final indirect costs (see <xref outputclass="fm:ParaNumOnly"
+                                    <ph props="autonumber" class="- topic/ph ">(N)</ph>Certificate of final indirect costs (see <xref outputclass="fm:ParaNumOnly"
                                           href="FAR-i1048049.dita#i1048049"
                                           base="i1048049"
                                           class="- topic/xref ">52.242-4</xref>, Certification of Final Indirect Costs).</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e274" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(O)</ph>
-                                    Contract closing information for contracts physically completed in this fiscal year (include contract number, period of performance, contract ceiling amounts, contract fee computations, level of effort, and indicate if the contract is ready to close).</p>
+                                    <ph props="autonumber" class="- topic/ph ">(O)</ph>Contract closing information for contracts physically completed in this fiscal year (include contract number, period of performance, contract ceiling amounts, contract fee computations, level of effort, and indicate if the contract is ready to close).</p>
                               </li>
                            </ol>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3238e279" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              The following supplemental information is not required to determine if a proposal is adequate, but may be required during the audit process:</p>
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>The following supplemental information is not required to determine if a proposal is adequate, but may be required during the audit process:</p>
                            <ol id="d3200e490" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3238e285" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    Comparative analysis of indirect expense pools detailed by account to prior fiscal year and budgetary data.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Comparative analysis of indirect expense pools detailed by account to prior fiscal year and budgetary data.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e290" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    General organizational information and limitation on allowability of compensation for certain contractor personnel. See <xref outputclass="fm:ParaNumOnly"
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>General organizational information and limitation on allowability of compensation for certain contractor personnel. See <xref outputclass="fm:ParaNumOnly"
                                           href="FAR-i1084735.dita#i1084735"
                                           base="i1084735"
                                           class="- topic/xref ">31.205-6</xref>(p). Additional salary reference information is available at <xref href="https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf"
@@ -292,119 +252,98 @@
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e304" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                    Identification of prime contracts under which the contractor performs as a subcontractor.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>Identification of prime contracts under which the contractor performs as a subcontractor.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e309" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>
-                                    Description of accounting system (excludes contractors required to submit a CAS Disclosure Statement or contractors where the description of the accounting system has not changed from the previous year’s submission).</p>
+                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>Description of accounting system (excludes contractors required to submit a CAS Disclosure Statement or contractors where the description of the accounting system has not changed from the previous year’s submission).</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e314" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(E)</ph>
-                                    Procedures for identifying and excluding unallowable costs from the costs claimed and billed (excludes contractors where the procedures have not changed from the previous year’s submission).</p>
+                                    <ph props="autonumber" class="- topic/ph ">(E)</ph>Procedures for identifying and excluding unallowable costs from the costs claimed and billed (excludes contractors where the procedures have not changed from the previous year’s submission).</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e319" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(F)</ph>
-                                    Certified financial statements and other financial data (<i class="+ topic/ph hi-d/i ">e.g.</i>, trial balance, compilation, review, <i class="+ topic/ph hi-d/i ">etc.</i>).</p>
+                                    <ph props="autonumber" class="- topic/ph ">(F)</ph>Certified financial statements and other financial data (<i class="+ topic/ph hi-d/i ">e.g.</i>, trial balance, compilation, review, <i class="+ topic/ph hi-d/i ">etc.</i>).</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e330" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(G)</ph>
-                                    Management letter from outside CPAs concerning any internal control weaknesses.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(G)</ph>Management letter from outside CPAs concerning any internal control weaknesses.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e335" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(H)</ph>
-                                    Actions that have been and/or will be implemented to correct the weaknesses described in the management letter from subparagraph (G) of this section.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(H)</ph>Actions that have been and/or will be implemented to correct the weaknesses described in the management letter from subparagraph (G) of this section.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e340" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(I)</ph>
-                                    List of all internal audit reports issued since the last disclosure of internal audit reports to the Government.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(I)</ph>List of all internal audit reports issued since the last disclosure of internal audit reports to the Government.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e345" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(J)</ph>
-                                    Annual internal audit plan of scheduled audits to be performed in the fiscal year when the final indirect cost rate submission is made.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(J)</ph>Annual internal audit plan of scheduled audits to be performed in the fiscal year when the final indirect cost rate submission is made.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e350" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(K)</ph>
-                                    Federal and State income tax returns.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(K)</ph>Federal and State income tax returns.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e356" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(L)</ph>
-                                    Securities and Exchange Commission 10-K annual report.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(L)</ph>Securities and Exchange Commission 10-K annual report.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e361" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(M)</ph>
-                                    Minutes from board of directors meetings.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(M)</ph>Minutes from board of directors meetings.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e366" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(N)</ph>
-                                    Listing of delay claims and termination claims submitted which contain costs relating to the subject fiscal year.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(N)</ph>Listing of delay claims and termination claims submitted which contain costs relating to the subject fiscal year.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e371" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(O)</ph>
-                                    Contract briefings, which generally include a synopsis of all pertinent contract provisions, such as: contract type, contract amount, product or service(s) to be provided, contract performance period, rate ceilings, advance approval requirements, pre-contract cost allowability limitations, and billing limitations.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(O)</ph>Contract briefings, which generally include a synopsis of all pertinent contract provisions, such as: contract type, contract amount, product or service(s) to be provided, contract performance period, rate ceilings, advance approval requirements, pre-contract cost allowability limitations, and billing limitations.</p>
                               </li>
                            </ol>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3238e376" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                              The Contractor shall update the billings on all contracts to reflect the final settled rates and update the schedule of cumulative direct and indirect costs claimed and billed, as required in paragraph (d)(2)(iii)(I) of this section, within 60 days after settlement of final indirect cost rates.</p>
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>The Contractor shall update the billings on all contracts to reflect the final settled rates and update the schedule of cumulative direct and indirect costs claimed and billed, as required in paragraph (d)(2)(iii)(I) of this section, within 60 days after settlement of final indirect cost rates.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3238e381" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        The Contractor and the appropriate Government representative shall execute a written understanding setting forth the final indirect cost rates. The understanding shall specify (i) the agreed-upon final annual indirect cost rates, (ii) the bases to which the rates apply, (iii) the periods for which the rates apply, (iv) any specific indirect cost items treated as direct costs in the settlement, and (v) the affected contract and/or subcontract, identifying any with advance agreements or special terms and the applicable rates. The understanding shall not change any monetary ceiling, contract obligation, or specific cost allowance or disallowance provided for in this contract. The understanding is incorporated into this contract upon execution.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The Contractor and the appropriate Government representative shall execute a written understanding setting forth the final indirect cost rates. The understanding shall specify (i) the agreed-upon final annual indirect cost rates, (ii) the bases to which the rates apply, (iii) the periods for which the rates apply, (iv) any specific indirect cost items treated as direct costs in the settlement, and (v) the affected contract and/or subcontract, identifying any with advance agreements or special terms and the applicable rates. The understanding shall not change any monetary ceiling, contract obligation, or specific cost allowance or disallowance provided for in this contract. The understanding is incorporated into this contract upon execution.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3238e386" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        Failure by the parties to agree on a final annual indirect cost rate shall be a dispute within the meaning of the Disputes clause.</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Failure by the parties to agree on a final annual indirect cost rate shall be a dispute within the meaning of the Disputes clause.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3238e391" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        Within 120 days (or longer period if approved in writing by the Contracting Officer) after settlement of the final annual indirect cost rates for all years of a physically complete contract, the Contractor shall submit a completion invoice or voucher to reflect the settled amounts and rates. The completion invoice or voucher shall include settled subcontract amounts and rates. The prime contractor is responsible for settling subcontractor amounts and rates included in the completion invoice or voucher and providing status of subcontractor audits to the contracting officer upon request.</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>Within 120 days (or longer period if approved in writing by the Contracting Officer) after settlement of the final annual indirect cost rates for all years of a physically complete contract, the Contractor shall submit a completion invoice or voucher to reflect the settled amounts and rates. The completion invoice or voucher shall include settled subcontract amounts and rates. The prime contractor is responsible for settling subcontractor amounts and rates included in the completion invoice or voucher and providing status of subcontractor audits to the contracting officer upon request.</p>
                   </li>
                   <li props="Runin" class="- topic/li ">
                      <p id="d3238e396" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> 
                      </p>
                      <ol id="d3200e690" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3238e401" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              If the Contractor fails to submit a completion invoice or voucher within the time specified in paragraph (d)(5) of this clause, the Contracting Officer may-</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>If the Contractor fails to submit a completion invoice or voucher within the time specified in paragraph (d)(5) of this clause, the Contracting Officer may-</p>
                            <ol id="d3200e700" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3238e407" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    Determine the amounts due to the Contractor under the contract; and</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Determine the amounts due to the Contractor under the contract; and</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e412" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    Record this determination in a unilateral modification to the contract.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Record this determination in a unilateral modification to the contract.</p>
                               </li>
                            </ol>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3238e417" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              This determination constitutes the final decision of the Contracting Officer in accordance with the Disputes clause.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>This determination constitutes the final decision of the Contracting Officer in accordance with the Disputes clause.</p>
                         </li>
                      </ol>
                   </li>
@@ -417,13 +356,11 @@
                <ol id="d3200e749" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3238e430" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Shall be the anticipated final rates; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Shall be the anticipated final rates; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3238e435" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        May be prospectively or retroactively revised by mutual agreement, at either party’s request, to prevent substantial overpayment or underpayment.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>May be prospectively or retroactively revised by mutual agreement, at either party’s request, to prevent substantial overpayment or underpayment.</p>
                   </li>
                </ol>
             </li>
@@ -442,55 +379,45 @@
                <ol id="d3200e798" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3238e458" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Reduced by amounts found by the Contracting Officer not to constitute allowable costs; or</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Reduced by amounts found by the Contracting Officer not to constitute allowable costs; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3238e463" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Adjusted for prior overpayments or underpayments.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Adjusted for prior overpayments or underpayments.</p>
                   </li>
                </ol>
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d3238e468" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(h)</ph>
-                  Final payment.</p>
+                  <ph props="autonumber" class="- topic/ph ">(h)</ph>Final payment. </p>
                <ol id="d3200e828" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3238e474" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Upon approval of a completion invoice or voucher submitted by the Contractor in accordance with paragraph (d)(5) of this clause, and upon the Contractor’s compliance with all terms of this contract, the Government shall promptly pay any balance of allowable costs and that part of the fee (if any) not previously paid.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Upon approval of a completion invoice or voucher submitted by the Contractor in accordance with paragraph (d)(5) of this clause, and upon the Contractor’s compliance with all terms of this contract, the Government shall promptly pay any balance of allowable costs and that part of the fee (if any) not previously paid.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3238e479" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        The Contractor shall pay to the Government any refunds, rebates, credits, or other amounts (including interest, if any) accruing to or received by the Contractor or any assignee under this contract, to the extent that those amounts are properly allocable to costs for which the Contractor has been reimbursed by the Government. Reasonable expenses incurred by the Contractor for securing refunds, rebates, credits, or other amounts shall be allowable costs if approved by the Contracting Officer. Before final payment under this contract, the Contractor and each assignee whose assignment is in effect at the time of final payment shall execute and deliver-</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor shall pay to the Government any refunds, rebates, credits, or other amounts (including interest, if any) accruing to or received by the Contractor or any assignee under this contract, to the extent that those amounts are properly allocable to costs for which the Contractor has been reimbursed by the Government. Reasonable expenses incurred by the Contractor for securing refunds, rebates, credits, or other amounts shall be allowable costs if approved by the Contracting Officer. Before final payment under this contract, the Contractor and each assignee whose assignment is in effect at the time of final payment shall execute and deliver-</p>
                      <ol id="d3200e847" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3238e485" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              An assignment to the Government, in form and substance satisfactory to the Contracting Officer, of refunds, rebates, credits, or other amounts (including interest, if any) properly allocable to costs for which the Contractor has been reimbursed by the Government under this contract; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>An assignment to the Government, in form and substance satisfactory to the Contracting Officer, of refunds, rebates, credits, or other amounts (including interest, if any) properly allocable to costs for which the Contractor has been reimbursed by the Government under this contract; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3238e490" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              A release discharging the Government, its officers, agents, and employees from all liabilities, obligations, and claims arising out of or under this contract, except-</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>A release discharging the Government, its officers, agents, and employees from all liabilities, obligations, and claims arising out of or under this contract, except-</p>
                            <ol id="d3200e866" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3238e496" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    Specified claims stated in exact amounts, or in estimated amounts when the exact amounts are not known;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Specified claims stated in exact amounts, or in estimated amounts when the exact amounts are not known;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e501" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    Claims (including reasonable incidental expenses) based upon liabilities of the Contractor to third parties arising out of the performance of this contract; provided, that the claims are not known to the Contractor on the date of the execution of the release, and that the Contractor gives notice of the claims in writing to the Contracting Officer within 6 years following the release date or notice of final payment date, whichever is earlier; and</p>
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Claims (including reasonable incidental expenses) based upon liabilities of the Contractor to third parties arising out of the performance of this contract; provided, that the claims are not known to the Contractor on the date of the execution of the release, and that the Contractor gives notice of the claims in writing to the Contracting Officer within 6 years following the release date or notice of final payment date, whichever is earlier; and</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3238e506" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                    Claims for reimbursement of costs, including reasonable incidental expenses, incurred by the Contractor under the patent clauses of this contract, excluding, however, any expenses arising from the Contractor’s indemnification of the Government against patent liability.</p>
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>Claims for reimbursement of costs, including reasonable incidental expenses, incurred by the Contractor under the patent clauses of this contract, excluding, however, any expenses arising from the Contractor’s indemnification of the Government against patent liability.</p>
                               </li>
                            </ol>
                         </li>
@@ -502,8 +429,7 @@
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
             <p id="d3238e514" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">Feb</i>1997)</i>. As prescribed in 
-                  <xref outputclass="fm:ParaNumOnly"
+               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">Feb</i>1997)</i>. As prescribed in <xref outputclass="fm:ParaNumOnly"
                      href="FAR-i1104745.dita#i1104745"
                      base="i1104745"
                      class="- topic/xref ">16.307</xref>(a)(2), substitute the following paragraph (b)(1)(iii) for paragraph (b)(1)(iii) of the basic clause:</p>

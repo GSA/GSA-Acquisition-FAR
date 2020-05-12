@@ -6,22 +6,23 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1062501"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.209-3</ph> First Article Approval-Contractor Testing.</title>
       <conbody outputclass="prescribed" class="- topic/body  concept/conbody ">
-         <p id="d3128e8" class="- topic/p ">As prescribed in 
+         <p id="d3128e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                  href="FAR-i1115743.dita#i1115743"
-                  base="i1115743"
-                  class="- topic/xref ">9.308-1</xref>(a) and (b), insert the following clause:</p>
+                     href="FAR-i1115743.dita#i1115743"
+                     base="i1115743"
+                     class="- topic/xref ">9.308-1</xref>
+            </ph>(a) and (b), insert the following clause:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">First Article Approval-Contractor Testing (Sept 1989)</p>
          <p outputclass="Ctr" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">Contracting Officer shall insert details</i>]</p>
          <ol id="d3090e31" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3128e24" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  The Contractor shall test <cite outputclass="SingleLine"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The Contractor shall test <cite outputclass="SingleLine"
                         xtrc="52.209-3_d3113e39"
                         class="- topic/cite ">_____</cite> unit(s) of Lot/Item <cite outputclass="SingleLine"
                         xtrc="52.209-3_d3113e42"
@@ -31,8 +32,7 @@
             </li>
             <li class="- topic/li ">
                <p id="d3128e38" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  The Contractor shall submit the first article test report within <cite outputclass="SingleLine"
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The Contractor shall submit the first article test report within <cite outputclass="SingleLine"
                         xtrc="52.209-3_d3113e57"
                         class="- topic/cite ">_____</cite> calendar days from the date of this contract to <cite outputclass="SingleLine"
                         xtrc="52.209-3_d3113e60"
@@ -46,40 +46,33 @@
             </li>
             <li class="- topic/li ">
                <p id="d3128e65" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  If the first article is disapproved, the Contractor, upon Government request, shall repeat any or all first article tests. After each request for additional tests, the Contractor shall make any necessary changes, modifications, or repairs to the first article or select another first article for testing. All costs related to these tests are to be borne by the Contractor, including any and all costs for additional tests following a disapproval. The Contractor shall then conduct the tests and deliver another report to the Government under the terms and conditions and within the time specified by the Government. The Government shall take action on this report within the time specified in paragraph (b) of this subsection. The Government reserves the right to require an equitable adjustment of the contract price for any extension of the delivery schedule, or for any additional costs to the Government related to these tests.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>If the first article is disapproved, the Contractor, upon Government request, shall repeat any or all first article tests. After each request for additional tests, the Contractor shall make any necessary changes, modifications, or repairs to the first article or select another first article for testing. All costs related to these tests are to be borne by the Contractor, including any and all costs for additional tests following a disapproval. The Contractor shall then conduct the tests and deliver another report to the Government under the terms and conditions and within the time specified by the Government. The Government shall take action on this report within the time specified in paragraph (b) of this subsection. The Government reserves the right to require an equitable adjustment of the contract price for any extension of the delivery schedule, or for any additional costs to the Government related to these tests.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3128e70" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  If the Contractor fails to deliver any first article report on time, or the Contracting Officer disapproves any first article, the Contractor shall be deemed to have failed to make delivery within the meaning of the Default clause of this contract.</p>
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>If the Contractor fails to deliver any first article report on time, or the Contracting Officer disapproves any first article, the Contractor shall be deemed to have failed to make delivery within the meaning of the Default clause of this contract.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3128e75" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  Unless otherwise provided in the contract, and if the approved first article is not consumed or destroyed in testing, the Contractor may deliver the approved first article as part of the contract quantity if it meets all contract requirements for acceptance.</p>
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>Unless otherwise provided in the contract, and if the approved first article is not consumed or destroyed in testing, the Contractor may deliver the approved first article as part of the contract quantity if it meets all contract requirements for acceptance.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3128e80" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  If the Government does not act within the time specified in paragraph (b) or (c) of this subsection, the Contracting Officer shall, upon timely written request from the Contractor, equitably adjust under the changes clause of this contract the delivery or performance dates and/or the contract price, and any other contractual term affected by the delay.</p>
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>If the Government does not act within the time specified in paragraph (b) or (c) of this subsection, the Contracting Officer shall, upon timely written request from the Contractor, equitably adjust under the changes clause of this contract the delivery or performance dates and/or the contract price, and any other contractual term affected by the delay.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3128e85" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(g)</ph>
-                  Before first article approval, the acquisition of materials or components for, or the commencement of production of, the balance of the contract quantity is at the sole risk of the Contractor. Before first article approval, the costs thereof shall not be allocable to this contract for (1) progress payments, or (2) termination settlements if the contract is terminated for the convenience of the Government.</p>
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph>Before first article approval, the acquisition of materials or components for, or the commencement of production of, the balance of the contract quantity is at the sole risk of the Contractor. Before first article approval, the costs thereof shall not be allocable to this contract for (1) progress payments, or (2) termination settlements if the contract is terminated for the convenience of the Government.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3128e90" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(h)</ph>
-                  The Government may waive the requirement for first article approval test where supplies identical or similar to those called for in the schedule have been previously furnished by the offeror/contractor and have been accepted by the Government. The offeror/contractor may request a waiver.</p>
+                  <ph props="autonumber" class="- topic/ph ">(h)</ph>The Government may waive the requirement for first article approval test where supplies identical or similar to those called for in the schedule have been previously furnished by the offeror/contractor and have been accepted by the Government. The offeror/contractor may request a waiver.</p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
             <p id="d3128e98" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">Jan</i>1997)</i>. As prescribed in 
-                  <xref outputclass="fm:ParaNumOnly"
+               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">Jan</i>1997)</i>. As prescribed in <xref outputclass="fm:ParaNumOnly"
                      href="FAR-i1115743.dita#i1115743"
                      base="i1115743"
                      class="- topic/xref ">9.308-1</xref>(a)(2) and (b)(2), add the following paragraph (i) to the basic clause:</p>

@@ -6,15 +6,16 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1053180"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.223-11</ph> Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p id="d3385e8" class="- topic/p ">As prescribed in 
+         <p id="d3385e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1094309.dita#i1094309"
-                  base="i1094309"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">23.804</xref>(a)(1), insert the following clause:</p>
+                     base="i1094309"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">23.804</xref>(a)(1)</ph>, insert the following clause:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons ( Jun 2016)</p>
          <ol id="d3343e27" class="- topic/ol ">
             <li class="- topic/li ">
@@ -24,22 +25,34 @@
                <ul class="- topic/ul ">
                   <li class="- topic/li ">
                      <p id="d3385e27" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.223-11" xtrc="d3378e44">Global warming potential</i> means how much a given mass of a chemical contributes to global warming over a given time period compared to the same mass of carbon dioxide. Carbon dioxide’s global warming potential is defined as 1.0.</p>
+                        <i outputclass="Term"
+                           xtrf="_52.223-11"
+                           xtrc="d3378e44"
+                           class="+ topic/ph hi-d/i ">Global warming potential</i> means how much a given mass of a chemical contributes to global warming over a given time period compared to the same mass of carbon dioxide. Carbon dioxide’s global warming potential is defined as 1.0.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3385e32" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.223-11" xtrc="d3378e53">High global warming potential hydrofluorocarbons</i> means any hydrofluorocarbons in a particular end use for which EPA’s Significant New Alternatives Policy (SNAP) program has identified other acceptable alternatives that have lower global warming potential. The SNAP list of alternatives is found at <ph outputclass="CFR">40 CFR Part 82</ph> subpart G with supplemental tables of alternatives available at (<xref href="http://www.epa.gov/snap/"
+                        <i outputclass="Term"
+                           xtrf="_52.223-11"
+                           xtrc="d3378e53"
+                           class="+ topic/ph hi-d/i ">High global warming potential hydrofluorocarbons</i> means any hydrofluorocarbons in a particular end use for which EPA’s Significant New Alternatives Policy (SNAP) program has identified other acceptable alternatives that have lower global warming potential. The SNAP list of alternatives is found at <ph outputclass="CFR" class="- topic/ph ">40 CFR Part 82</ph> subpart G with supplemental tables of alternatives available at (<xref href="http://www.epa.gov/snap/"
                               format="html"
                               scope="external"
                               class="- topic/xref ">http://www.epa.gov/snap/</xref>).</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3385e40" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.223-11" xtrc="d3378e65">Hydrofluorocarbons</i> means compounds that only contain hydrogen, fluorine, and carbon.</p>
+                        <i outputclass="Term"
+                           xtrf="_52.223-11"
+                           xtrc="d3378e65"
+                           class="+ topic/ph hi-d/i ">Hydrofluorocarbons</i> means compounds that only contain hydrogen, fluorine, and carbon.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3385e45" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.223-11" xtrc="d3378e74">Ozone-depleting substance,</i> means any substance the Environmental Protection Agency designates in <ph outputclass="CFR">40 CFR part 82</ph> as-</p>
+                        <i outputclass="Term"
+                           xtrf="_52.223-11"
+                           xtrc="d3378e74"
+                           class="+ topic/ph hi-d/i ">Ozone-depleting substance,</i> means any substance the Environmental Protection Agency designates in <ph outputclass="CFR" class="- topic/ph ">40 CFR part 82</ph> as-</p>
                   </li>
                </ul>
             </li>
@@ -47,21 +60,18 @@
                <ol id="d3343e70" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3385e52" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Class I, including, but not limited to, chlorofluorocarbons, halons, carbon tetrachloride, and methyl chloroform; or</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Class I, including, but not limited to, chlorofluorocarbons, halons, carbon tetrachloride, and methyl chloroform; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3385e57" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Class II, including, but not limited to, hydrochlorofluorocarbons.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Class II, including, but not limited to, hydrochlorofluorocarbons.</p>
                   </li>
                </ol>
                <p id="d3385e61" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  The Contractor shall label products that contain or are manufactured with ozone-depleting substances in the manner and to the extent required by <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The Contractor shall label products that contain or are manufactured with ozone-depleting substances in the manner and to the extent required by <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">42 U.S.C.7671j</xref>(b), (c), (d), and (e) and <ph outputclass="CFR">40 CFR part 82</ph>, subpartE, as follows:</p>
+                        class="- topic/xref ">42 U.S.C.7671j</xref>(b), (c), (d), and (e) and <ph outputclass="CFR" class="- topic/ph ">40 CFR part 82</ph>, subpartE, as follows:</p>
                <ul class="- topic/ul ">
                   <li class="- topic/li ">
                      <p id="d3385e70" class="- topic/p ">Warning</p>
@@ -81,42 +91,35 @@
                <ol id="d3343e136" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3385e87" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        Track on an annual basis, between October 1 and September 30, the amount in pounds of hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons contained in the equipment and appliances delivered to the Government under this contract by–</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Track on an annual basis, between October 1 and September 30, the amount in pounds of hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons contained in the equipment and appliances delivered to the Government under this contract by–</p>
                      <ol id="d3343e146" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3385e93" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Type of hydrofluorocarbon (e.g., HFC-134 a, HFC-125, R-410 A, R-404 A, <i class="+ topic/ph hi-d/i ">etc</i>.);</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Type of hydrofluorocarbon (e.g., HFC-134 a, HFC-125, R-410 A, R-404 A, <i class="+ topic/ph hi-d/i ">etc</i>.);</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3385e101" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              Contract number; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Contract number; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3385e106" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              Equipment/appliance;</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Equipment/appliance;</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3385e111" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        Report that information to the Contracting Officer for FY16 and to<xref href="http://uscode.house.gov/"
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Report that information to the Contracting Officer for FY16 and to<xref href="http://uscode.house.gov/"
                               scope="external"
                               class="- topic/xref ">www.sam.gov</xref>, for FY17 and after–</p>
                      <ol id="d3343e191" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3385e120" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Annually by November 30 of each year during contract performance; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Annually by November 30 of each year during contract performance; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3385e125" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              At the end of contract performance.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>At the end of contract performance.</p>
                         </li>
                      </ol>
                   </li>
@@ -124,11 +127,10 @@
             </li>
             <li class="- topic/li ">
                <p id="d3385e130" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  The Contractor shall refer to EPA’s SNAP program (available at <xref href="http://www.epa.gov/snap"
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>The Contractor shall refer to EPA’s SNAP program (available at <xref href="http://www.epa.gov/snap"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">http://www.epa.gov/snap</xref>) to identify alternatives. The SNAP list of alternatives is found at <ph outputclass="CFR">40 CFR part 82</ph> subpart G with supplemental tables available at <xref href="http://www.epa.gov/snap"
+                        class="- topic/xref ">http://www.epa.gov/snap</xref>) to identify alternatives. The SNAP list of alternatives is found at <ph outputclass="CFR" class="- topic/ph ">40 CFR part 82</ph> subpart G with supplemental tables available at <xref href="http://www.epa.gov/snap"
                         format="html"
                         scope="external"
                         class="- topic/xref ">http://www.epa.gov/snap</xref>.</p>

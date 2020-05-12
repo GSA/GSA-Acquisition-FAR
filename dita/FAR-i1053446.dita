@@ -6,16 +6,18 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1053446"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.225-3</ph> Buy American-Free Trade Agreements-Israeli Trade Act.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p id="d3404e8" class="- topic/p ">As prescribed in 
+         <p id="d3404e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1090819.dita#i1090819"
-                  base="i1090819"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">25.1101</xref>(b)(1)(i), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Buy American-Free Trade Agreements-Israeli Trade Act <ph outputclass="SmCaps">(May 2014)</ph>
+                     base="i1090819"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">25.1101</xref>
+            </ph>(b)(1)(i), insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Buy American-Free Trade Agreements-Israeli Trade Act <ph outputclass="SmCaps" class="- topic/ph ">(May 2014)</ph>
          </p>
          <ol id="d3362e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -23,7 +25,10 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause-</p>
                <p id="d3404e25" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e40">Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end product</i> means an article that-<ol id="d3362e47" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-3"
+                     xtrc="d3397e40"
+                     class="+ topic/ph hi-d/i ">Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end product</i> means an article that-<ol id="d3362e47" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3404e31" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Is wholly the growth, product, or manufacture of Bahrain, Morocco, Oman, Panama, or Peru; or</p>
@@ -35,7 +40,10 @@
                   </ol>
                </p>
                <p id="d3404e40" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e67">Commercially available off-the-shelf (COTS) item</i>-<ol class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-3"
+                     xtrc="d3397e67"
+                     class="+ topic/ph hi-d/i ">Commercially available off-the-shelf (COTS) item</i>-<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3404e46" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Means any item of supply (including construction material) that is-</p>
@@ -64,9 +72,15 @@
                   </ol>
                </p>
                <p id="d3404e74" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e127">Component</i> means an article, material, or supply incorporated directly into an end product.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-3"
+                     xtrc="d3397e127"
+                     class="+ topic/ph hi-d/i ">Component</i> means an article, material, or supply incorporated directly into an end product.</p>
                <p id="d3404e78" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e133">Cost of components</i> means-<ol class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-3"
+                     xtrc="d3397e133"
+                     class="+ topic/ph hi-d/i ">Cost of components</i> means-<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3404e84" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> For components purchased by the Contractor, the acquisition cost, including transportation costs to the place of incorporation into the end product (whether or not such costs are paid to a domestic firm), and any applicable duty (whether or not a duty-free entry certificate is issued); or</p>
@@ -78,7 +92,10 @@
                   </ol>
                </p>
                <p id="d3404e93" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e161">Domestic end product</i> means-<ol id="d3362e152" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-3"
+                     xtrc="d3397e161"
+                     class="+ topic/ph hi-d/i ">Domestic end product</i> means-<ol id="d3362e152" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3404e99" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> An unmanufactured end product mined or produced in the United States;</p>
@@ -100,13 +117,25 @@
                   </ol>
                </p>
                <p id="d3404e119" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e209">End product</i> means those articles, materials, and supplies to be acquired under the contract for public use.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-3"
+                     xtrc="d3397e209"
+                     class="+ topic/ph hi-d/i ">End product</i> means those articles, materials, and supplies to be acquired under the contract for public use.</p>
                <p id="d3404e123" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e215">Foreign end product</i> means an end product other than a domestic end product.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-3"
+                     xtrc="d3397e215"
+                     class="+ topic/ph hi-d/i ">Foreign end product</i> means an end product other than a domestic end product.</p>
                <p id="d3404e127" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e221">Free Trade Agreement country</i> means Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-3"
+                     xtrc="d3397e221"
+                     class="+ topic/ph hi-d/i ">Free Trade Agreement country</i> means Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore.</p>
                <p id="d3404e131" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e227">Free Trade Agreement country end product</i> means an article that-<ol id="d3362e206" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-3"
+                     xtrc="d3397e227"
+                     class="+ topic/ph hi-d/i ">Free Trade Agreement country end product</i> means an article that-<ol id="d3362e206" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3404e137" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Is wholly the growth, product, or manufacture of a Free Trade Agreement country; or</p>
@@ -118,7 +147,10 @@
                   </ol>
                </p>
                <p id="d3404e146" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e254">Israeli end product</i> means an article that-<ol id="d3362e231" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.225-3"
+                     xtrc="d3397e254"
+                     class="+ topic/ph hi-d/i ">Israeli end product</i> means an article that-<ol id="d3362e231" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3404e152" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Is wholly the growth, product, or manufacture of Israel; or</p>
@@ -130,7 +162,10 @@
                   </ol>
                </p>
                <p id="d3404e162" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e282">United States</i> means the 50 States, the District of Columbia, and outlying areas.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.225-3"
+                     xtrc="d3397e282"
+                     class="+ topic/ph hi-d/i ">United States</i> means the 50 States, the District of Columbia, and outlying areas.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3404e167" class="- topic/p ">
@@ -160,7 +195,10 @@
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">25.1101</xref>(b)(1)(ii), add the following definition to paragraph (a) of the basic clause, and substitute the following paragraph (c) for paragraph (c) of the basic clause:</p>
             <p class="- topic/p ">
-               <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e341">Canadian end product</i> means an article that-<ol class="- topic/ol ">
+               <i outputclass="Term"
+                  xtrf="_52.225-3"
+                  xtrc="d3397e341"
+                  class="+ topic/ph hi-d/i ">Canadian end product</i> means an article that-<ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
@@ -191,7 +229,10 @@
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">25.1101</xref>(b)(1)(iii), add the following definition to paragraph (a) of the basic clause, and substitute the following paragraph (c) for paragraph (c) of the basic clause:</p>
             <p class="- topic/p ">
-               <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e400">Canadian end product</i> means an article that-<ol class="- topic/ol ">
+               <i outputclass="Term"
+                  xtrf="_52.225-3"
+                  xtrc="d3397e400"
+                  class="+ topic/ph hi-d/i ">Canadian end product</i> means an article that-<ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
@@ -222,7 +263,10 @@
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">25.1101</xref>(b)(1)(iv), delete the definition of “Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end product” and add in its place the following definition of “Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian end product” in paragraph (a) of the basic clause; and substitute the following paragraph (c) for paragraph (c) of the basic clause:</p>
             <p class="- topic/p ">
-               <i outputclass="Term" xtrf="_52.225-3" xtrc="d3397e459">Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian end product</i> means an article that-<ol class="- topic/ol ">
+               <i outputclass="Term"
+                  xtrf="_52.225-3"
+                  xtrc="d3397e459"
+                  class="+ topic/ph hi-d/i ">Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian end product</i> means an article that-<ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
