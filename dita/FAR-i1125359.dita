@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1125359"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -34,13 +35,13 @@ particular part or portion of the part.</p>
                <p id="d75e26" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph> If a word
 or term that is defined in this section is defined differently in
-another part, subpart, or section of this regulation (48 CFR
-chapter 1), the definition in—</p>
+another part, subpart, or section of this regulation (48 CFR chapter
+1), the definition in—</p>
                <ol id="d73e53" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d75e35" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> This section
-includes a cross-reference to the other definitions; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> This section includes a cross-reference
+to the other definitions; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d75e40" class="- topic/p ">
@@ -518,7 +519,8 @@ Government; or</p>
                               <p id="d75e310" class="- topic/p ">
                                  <ph props="autonumber" class="- topic/ph ">(ii)</ph> Has been
 classified by the Department of Energy as privately generated restricted
-data following the procedures in <ph outputclass="CFR">10 CFR 1045.21</ph>; and</p>
+data following the procedures in <ph outputclass="CFR" class="- topic/ph ">10 CFR
+1045.21</ph>; and</p>
                            </li>
                         </ol>
                      </li>
@@ -700,7 +702,7 @@ or to multiple foreign governments.</p>
                      xtrc="d72e697"
                      xtrf="_2.101"
                      class="+ topic/ph hi-d/i ">Commercially
-available off-the-shelf (COTS) item—</i>
+available off-the-shelf (COTS) item—</i> 
                   <ol id="d73e626" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e430" class="- topic/p ">
@@ -1176,8 +1178,7 @@ the validity of determinations of costs already incurred. They also
 include, but are not limited to, such factors as-<ol id="d73e1042" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e756" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Vendor
-quotations;</p>
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Vendor quotations;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d75e761" class="- topic/p ">
@@ -1268,7 +1269,7 @@ cost realism. Such data may include the identical types of data
 as certified cost or pricing data, consistent with <xref href="FAR-i1106593.dita#i1106593/i1106753"
                         base="i1106753"
                         outputclass="fm:Table"
-                        class="- topic/xref ">Table  15-1</xref> of <xref href="FAR-i1106593.dita#i1106593"
+                        class="- topic/xref ">Table  15-2</xref> of <xref href="FAR-i1106593.dita#i1106593"
                         base="i1106593"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">15.408</xref>, but without the
@@ -1349,40 +1350,39 @@ of the system or equipment.</p>
                   <i outputclass="Term"
                      xtrc="d72e1390"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Designated
-operational area</i> means a geographic area designated by the combatant
-commander or subordinate joint force commander for the conduct or
-support of specified military operations.</p>
+                     class="+ topic/ph hi-d/i ">Designated operational area</i> means
+a geographic area designated by the combatant commander or subordinate
+joint force commander for the conduct or support of specified military
+operations.</p>
                <p id="d75e876" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e1396"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Direct
-acquisition</i> means a type of interagency acquisition where a
-requesting agency places an order directly against a servicing agency’s
-indefinite-delivery contract. The servicing agency manages the indefinite-delivery
-contract but does not participate in the placement or administration
-of an order.</p>
+                     class="+ topic/ph hi-d/i ">Direct acquisition</i> means
+a type of interagency acquisition where a requesting agency places
+an order directly against a servicing agency’s indefinite-delivery
+contract. The servicing agency manages the indefinite-delivery contract
+but does not participate in the placement or administration of an
+order.</p>
                <p id="d75e880" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e1402"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Direct cost</i> means any
-cost that is identified specifically with a particular final cost
-objective. Direct costs are not limited to items that are incorporated
-in the end product as material or labor. Costs identified specifically
-with a contract are direct costs of that contract. All costs identified
-specifically with other final cost objectives of the contractor
-are direct costs of those cost objectives.</p>
+                     class="+ topic/ph hi-d/i ">Direct cost</i> means any cost that is identified
+specifically with a particular final cost objective. Direct costs
+are not limited to items that are incorporated in the end product
+as material or labor. Costs identified specifically with a contract
+are direct costs of that contract. All costs identified specifically
+with other final cost objectives of the contractor are direct costs
+of those cost objectives.</p>
                <p id="d75e884" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e1408"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Disaster
-Response Registry</i> means a voluntary registry of contractors
-who are willing to perform debris removal, distribution of supplies,
-reconstruction, and other disaster or emergency relief activities
-established in accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                     class="+ topic/ph hi-d/i ">Disaster Response Registry</i> means
+a voluntary registry of contractors who are willing to perform debris
+removal, distribution of supplies, reconstruction, and other disaster
+or emergency relief activities established in accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
                         class="- topic/xref ">6 U.S.C. 796</xref>,
@@ -1481,23 +1481,23 @@ terminals. For purposes of compliance with <xref href="http://uscode.house.gov/b
                         format="html"
                         scope="external"
                         class="- topic/xref ">31 U.S.C.3332</xref> and
-implementing regulations at <ph outputclass="CFR">31 CFR part 208</ph>, the term “electronic funds
-transfer” includes a Governmentwide commercial purchase card transaction.</p>
+implementing regulations at <ph outputclass="CFR" class="- topic/ph ">31 CFR part
+208</ph>, the term “electronic funds transfer” includes a Governmentwide
+commercial purchase card transaction.</p>
                <p id="d75e936" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e1479"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Electronic Funds Transfer (EFT) indicator</i> means
-a four-character suffix to the unique entity identifier. The suffix
-is assigned at the discretion of the commercial, nonprofit, or Government
-entity to establish additional System for Award Management records
-for identifying alternative EFT accounts (see <xref href="FAR-i1080713.dita#i1080713"
+                     class="+ topic/ph hi-d/i ">Electronic
+Funds Transfer (EFT) indicator</i> means a four-character suffix
+to the unique entity identifier. The suffix is assigned at the discretion
+of the commercial, nonprofit, or Government entity to establish
+additional System for Award Management records for identifying alternative
+EFT accounts (see <xref href="FAR-i1080713.dita#i1080713"
                         outputclass="fm:Subpart"
-                        class="- topic/xref ">subpart  32.11</xref>)
-for the same entity.</p>
-               <p id="d75e943" class="- topic/p ">
-                  “Emergency,” as used
-in <xref href="FAR-i1119977.dita#i1119977"
+                        class="- topic/xref ">subpart  32.11</xref>) for
+the same entity.</p>
+               <p id="d75e943" class="- topic/p ">“Emergency,” as used in <xref href="FAR-i1119977.dita#i1119977"
                         base="i1119977"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">6.208</xref>, <xref href="FAR-i1111870.dita#i1111870"
@@ -1525,8 +1525,7 @@ or to lessen or avert the threat of a catastrophe in any part of
 the United States (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&amp;num=0&amp;edition=prelim"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">42 U.S.C. 5122</xref>).
-               </p>
+                        class="- topic/xref ">42 U.S.C. 5122</xref>).</p>
                <p id="d75e971" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e1519"
@@ -1690,17 +1689,17 @@ and any wholly owned Government corporation within the meaning of <xref href="ht
                      xtrf="_2.101"
                      class="+ topic/ph hi-d/i ">Facilities capital cost of money</i> means “cost
 of money as an element of the cost of facilities capital” as used
-at <ph outputclass="CFR">48 CFR 9904.414</ph>-Cost Accounting Standard-Cost of Money as an
-Element of the Cost of Facilities Capital.</p>
+at <ph outputclass="CFR" class="- topic/ph ">48 CFR 9904.414</ph>-Cost Accounting
+Standard-Cost of Money as an Element of the Cost of Facilities Capital.</p>
                <p id="d75e1093" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e1702"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Federal
-agency</i> means any executive agency or any independent establishment
-in the legislative or judicial branch of the Government (except
-the Senate, the House of Representatives, the Architect of the Capitol,
-and any activities under the Architect’s direction).</p>
+                     class="+ topic/ph hi-d/i ">Federal agency</i> means any executive agency
+or any independent establishment in the legislative or judicial
+branch of the Government (except the Senate, the House of Representatives,
+the Architect of the Capitol, and any activities under the Architect’s
+direction).</p>
                <p id="d75e1097" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e1708"
@@ -1858,9 +1857,7 @@ at <xref href="FAR-i1045849.dita#i1045849"
                         base="i1045849"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.247-29</xref>(a).</p>
-               <p id="d75e1206" class="- topic/p ">
-                  F.o.b.... (For other types of F.o.b.,
-see <xref href="FAR-i1070167.dita#i1070167"
+               <p id="d75e1206" class="- topic/p ">F.o.b.... (For other types of F.o.b., see <xref href="FAR-i1070167.dita#i1070167"
                         base="i1070167"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">47.303</xref>).</p>
@@ -1995,17 +1992,17 @@ at <xref href="http://www.epa.gov/snap/"
                      xtrf="_2.101"
                      class="+ topic/ph hi-d/i ">Historically black college or university</i> means
 an institution determined by the Secretary of Education to meet
-the requirements of <ph outputclass="CFR">34 CFR 608.2</ph>.</p>
+the requirements of <ph outputclass="CFR" class="- topic/ph ">34 CFR 608.2</ph>.</p>
                <p id="d75e1285" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e1994"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">HUBZone</i> means
-a historically underutilized business zone that is an area located
-within one or more qualified census tracts, qualified nonmetropolitan
-counties, lands within the external boundaries of an Indian reservation,
-qualified base closure areas, or redesignated areas, as defined
-in <ph outputclass="CFR">13 CFR 126.103</ph>.</p>
+                     class="+ topic/ph hi-d/i ">HUBZone</i> means a historically underutilized
+business zone that is an area located within one or more qualified
+census tracts, qualified nonmetropolitan counties, lands within
+the external boundaries of an Indian reservation, qualified base closure
+areas, or redesignated areas, as defined in <ph outputclass="CFR" class="- topic/ph ">13
+CFR 126.103</ph>.</p>
                <p id="d75e1289" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e2001"
@@ -2034,11 +2031,9 @@ concerns.</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d75e1310" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                           Awards based on a reserve
-for HUBZone small business concerns in a solicitation for a multiple-award
-contract.
-                        </p>
+                           <ph props="autonumber" class="- topic/ph ">(4)</ph> Awards
+based on a reserve for HUBZone small business concerns in a solicitation
+for a multiple-award contract.</p>
                      </li>
                   </ol>
                </p>
@@ -2388,19 +2383,20 @@ or condition the letter of credit.</p>
                      xtrf="_2.101"
                      class="+ topic/ph hi-d/i ">Labor
 surplus area</i> means a geographical area identified by the Department
-of Labor in accordance with <ph outputclass="CFR">20 CFR part 654</ph>, subpart A, as an area
-of concentrated unemployment or underemployment or an area of labor
-surplus.</p>
+of Labor in accordance with <ph outputclass="CFR" class="- topic/ph ">20 CFR part
+654</ph>, subpart A, as an area of concentrated unemployment or
+underemployment or an area of labor surplus.</p>
                <p id="d75e1542" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e2430"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Labor surplus area concern</i> means a concern
-that together with its first-tier subcontractors will perform substantially
-in labor surplus areas. Performance is substantially in labor surplus
-areas if the costs incurred under the contract on account of manufacturing,
-production, or performance of appropriate services in labor surplus
-areas exceed 50 percent of the contract price.</p>
+                     class="+ topic/ph hi-d/i ">Labor
+surplus area concern</i> means a concern that together with its
+first-tier subcontractors will perform substantially in labor surplus
+areas. Performance is substantially in labor surplus areas if the
+costs incurred under the contract on account of manufacturing, production,
+or performance of appropriate services in labor surplus areas exceed
+50 percent of the contract price.</p>
                <p id="d75e1546" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e2436"
@@ -2423,8 +2419,7 @@ item,” as applicable.</p>
                      xtrf="_2.101"
                      class="+ topic/ph hi-d/i ">Line item number</i> means
 either a numeric or alphanumeric format to identify a line item.</p>
-               <p id="d75e1558" class="- topic/p ">
-                  “Major disaster,” as used in <xref href="FAR-i1119977.dita#i1119977"
+               <p id="d75e1558" class="- topic/p ">“Major disaster,” as used in <xref href="FAR-i1119977.dita#i1119977"
                         base="i1119977"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">6.208</xref>, <xref href="FAR-i1111870.dita#i1111870"
@@ -2458,8 +2453,7 @@ in alleviating the damage, loss, hardship, or suffering caused thereby
 (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&amp;num=0&amp;edition=prelim"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">42 U.S.C. 5122</xref>).
-               </p>
+                        class="- topic/xref ">42 U.S.C. 5122</xref>).</p>
                <p id="d75e1586" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e2486"
@@ -2627,12 +2621,11 @@ Service Contract Labor Standards, $2,500; and</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d75e1710" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                           For
-acquisitions of supplies or services that, as determined by the
-head of the agency, are to be used to support a contingency operation;
-to facilitate defense against or recovery from cyber, nuclear, biological,
-chemical or radiological attack; to support a request from the Secretary
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph> For acquisitions
+of supplies or services that, as determined by the head of the agency,
+are to be used to support a contingency operation; to facilitate
+defense against or recovery from cyber, nuclear, biological, chemical
+or radiological attack; to support a request from the Secretary
 of State or the Administrator of the United States Agency for International Development
 to facilitate provision of international disaster assistance pursuant
 to <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2292&amp;num=0&amp;edition=prelim"
@@ -2654,8 +2647,7 @@ construction subject to <xref href="http://uscode.house.gov/browse.xhtml;jsessio
 subchapter IV, Wage Rate Requirements (Construction) (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                  format="html"
                                  scope="external"
-                                 class="- topic/xref ">41 U.S.C. 1903</xref>)–
-                        </p>
+                                 class="- topic/xref ">41 U.S.C. 1903</xref>)–</p>
                         <ol class="- topic/ol ">
                            <li class="- topic/li ">
                               <p id="d75e1732" class="- topic/p ">
@@ -2872,33 +2864,33 @@ of Defense.</p>
                      class="+ topic/ph hi-d/i ">OMB Uniform Guidance at 2
 CFR part 200</i> is the abbreviated title for Uniform Administrative
 Requirements, Cost Principles, and Audit Requirements for Federal
-Awards (<ph outputclass="CFR">2 CFR part 200</ph>), which supersedes OMB Circulars A-21, A-87,
-A-89, A-102, A-110, A-122, and A-133, and the guidance in Circular
-A-50 on Audit Followup.</p>
+Awards (<ph outputclass="CFR" class="- topic/ph ">2 CFR part 200</ph>), which supersedes
+OMB Circulars A-21, A-87, A-89, A-102, A-110, A-122, and A-133,
+and the guidance in Circular A-50 on Audit Followup.</p>
                <p id="d75e1885" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e2962"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Option</i> means a unilateral
-right in a contract by which, for a specified time, the Government
-may elect to purchase additional supplies or services called for
-by the contract, or may elect to extend the term of the contract.</p>
+                     class="+ topic/ph hi-d/i ">Option</i> means a unilateral right in a contract
+by which, for a specified time, the Government may elect to purchase
+additional supplies or services called for by the contract, or may
+elect to extend the term of the contract.</p>
                <p id="d75e1889" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e2968"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Organizational conflict of interest</i> means
-that because of other activities or relationships with other persons,
-a person is unable or potentially unable to render impartial assistance
-or advice to the Government, or the person’s objectivity in performing
-the contract work is or might be otherwise impaired, or a person
-has an unfair competitive advantage.</p>
+                     class="+ topic/ph hi-d/i ">Organizational
+conflict of interest</i> means that because of other activities
+or relationships with other persons, a person is unable or potentially
+unable to render impartial assistance or advice to the Government,
+or the person’s objectivity in performing the contract work is or
+might be otherwise impaired, or a person has an unfair competitive
+advantage.</p>
                <p id="d75e1893" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e2975"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Outlying
-areas</i> means-<ol id="d73e2367" class="- topic/ol ">
+                     class="+ topic/ph hi-d/i ">Outlying areas</i> means-<ol id="d73e2367" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e1899" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Commonwealths</p>
@@ -3010,13 +3002,12 @@ extra-pay-shift work.</p>
                      xtrc="d72e3168"
                      xtrf="_2.101"
                      class="+ topic/ph hi-d/i ">Ozone-depleting substance</i> means
-any substance the Environmental Protection Agency designates in
-<ph outputclass="CFR">40 CFR Part 82</ph> as—<ol id="d73e2551" class="- topic/ol ">
+any substance the Environmental Protection Agency designates in <ph outputclass="CFR" class="- topic/ph ">40 CFR Part 82</ph> as—<ol id="d73e2551" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e2007" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Class I, including, but not limited
-to, chlorofluorocarbons, halons, carbon tetrachloride, and methyl
-chloroform; or</p>
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Class I, including,
+but not limited to, chlorofluorocarbons, halons, carbon tetrachloride,
+and methyl chloroform; or</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d75e2012" class="- topic/p ">
@@ -3564,8 +3555,7 @@ purchases of supplies or services.</p>
 acquisition threshold</i> means $150,000, except for—<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e2384" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                           Acquisitions
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Acquisitions
 of supplies or services that, as determined by the head of the agency,
 are to be used to support a contingency operation; to facilitate
 defense against or recovery from cyber, nuclear, biological, chemical,
@@ -3583,14 +3573,13 @@ seq.; or to support response to an emergency or major disaster (<xref href="http
                                  format="html"
                                  scope="external"
                                  class="- topic/xref ">41 U.S.C. 1903</xref>),
-the term means–
-                        </p>
+the term means–</p>
                         <ol class="- topic/ol ">
                            <li class="- topic/li ">
                               <p id="d75e2400" class="- topic/p ">
-                                 <ph props="autonumber" class="- topic/ph ">(i)</ph> $750,000 for any contract to be
-awarded and performed, or purchase to be made, inside the United
-States; and</p>
+                                 <ph props="autonumber" class="- topic/ph ">(i)</ph> $750,000
+for any contract to be awarded and performed, or purchase to be
+made, inside the United States; and</p>
                            </li>
                            <li class="- topic/li ">
                               <p id="d75e2405" class="- topic/p ">
@@ -3631,19 +3620,19 @@ business concern</i> means a concern, including its affiliates,
 that is independently owned and operated, not dominant in the field
 of operation in which it is bidding on Government contracts, and
 qualified as a small business under the criteria and size standards
-in <ph outputclass="CFR">13 CFR part 121</ph> (see <xref href="FAR-i1101844.dita#i1101844"
+in <ph outputclass="CFR" class="- topic/ph ">13 CFR part 121</ph> (see <xref href="FAR-i1101844.dita#i1101844"
                         base="i1101844"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">19.102</xref>).
-Such a concern is “not dominant in its field of operation” when
-it does not exercise a controlling or major influence on a national
-basis in a kind of business activity in which a number of business concerns
-are primarily engaged. In determining whether dominance exists,
-consideration must be given to all appropriate factors, including
-volume of business, number of employees, financial resources, competitive
-status or position, ownership or control of materials, processes,
-patents, license agreements, facilities, sales territory, and nature
-of business activity. (See <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&amp;num=0&amp;edition=prelim"
+                        class="- topic/xref ">19.102</xref>). Such a concern
+is “not dominant in its field of operation” when it does not exercise
+a controlling or major influence on a national basis in a kind of
+business activity in which a number of business concerns are primarily
+engaged. In determining whether dominance exists, consideration
+must be given to all appropriate factors, including volume of business,
+number of employees, financial resources, competitive status or
+position, ownership or control of materials, processes, patents,
+license agreements, facilities, sales territory, and nature of business activity.
+(See <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&amp;num=0&amp;edition=prelim"
                         format="html"
                         scope="external"
                         class="- topic/xref ">15 U.S.C. 632</xref>.)</p>
@@ -3705,7 +3694,8 @@ allocations) of work as it relates to the acquisition;</p>
 civilian agencies, may include two business concerns in a mentor-protégé
 relationship when both the mentor and the protégé are small or the
 protégé is small and the concerns have received an exception to
-affiliation pursuant to <ph outputclass="CFR">13 CFR 121.103(h)(3)(ii) or (iii)</ph>.</p>
+affiliation pursuant to <ph outputclass="CFR" class="- topic/ph ">13 CFR 121.103(h)(3)(ii)
+or (iii)</ph>.</p>
                            </li>
                            <li class="- topic/li ">
                               <p id="d75e2479" class="- topic/p ">
@@ -3738,20 +3728,22 @@ a solicitation of offers for a bundled contract with a reserve.</p>
                      xtrc="d72e3961"
                      xtrf="_2.101"
                      class="+ topic/ph hi-d/i ">Small disadvantaged business concern</i> consistent
-with <ph outputclass="CFR">13 CFR 124.1002</ph>, means a small business concern under the size standard
-applicable to the acquisition, that:<ol id="d73e3112" class="- topic/ol ">
+with <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.1002</ph>, means a small
+business concern under the size standard applicable to the acquisition,
+that:<ol id="d73e3112" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e2497" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Is at least
-51 percent unconditionally and directly owned (as defined at 13
-CFR 124.105) by—</p>
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Is
+at least 51 percent unconditionally and directly owned (as defined
+at 13 CFR 124.105) by—</p>
                         <ol id="d73e3122" class="- topic/ol ">
                            <li class="- topic/li ">
                               <p id="d75e2503" class="- topic/p ">
                                  <ph props="autonumber" class="- topic/ph ">(i)</ph> One or more socially disadvantaged
-(as defined at <ph outputclass="CFR">13 CFR 124.103</ph>) and economically disadvantaged (as
-defined at <ph outputclass="CFR">13 CFR 124.104</ph>) individuals who are citizens of the United
-States; and</p>
+(as defined at <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.103</ph>) and
+economically disadvantaged (as defined at <ph outputclass="CFR" class="- topic/ph ">13
+CFR 124.104</ph>) individuals who are citizens of the United States;
+and</p>
                            </li>
                            <li class="- topic/li ">
                               <p id="d75e2508" class="- topic/p ">
@@ -3766,8 +3758,8 @@ after taking into account the applicable exclusions set forth at
                         <p id="d75e2513" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(2)</ph> The management
 and daily business operations of which are controlled (as defined
-at <ph outputclass="CFR">13 CFR 124.106</ph>) by individuals who meet the criteria in paragraphs
-(1)(i) and (ii) of this definition.</p>
+at <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.106</ph>) by individuals who
+meet the criteria in paragraphs (1)(i) and (ii) of this definition.</p>
                      </li>
                   </ol>
                </p>
@@ -3775,17 +3767,17 @@ at <ph outputclass="CFR">13 CFR 124.106</ph>) by individuals who meet the criter
                   <i outputclass="Term"
                      xtrc="d72e4009"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Sole
-source acquisition</i> means a contract for the purchase of supplies
-or services that is entered into or proposed to be entered into
-by an agency after soliciting and negotiating with only one source.</p>
+                     class="+ topic/ph hi-d/i ">Sole source acquisition</i> means a contract
+for the purchase of supplies or services that is entered into or
+proposed to be entered into by an agency after soliciting and negotiating
+with only one source.</p>
                <p id="d75e2521" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e4015"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Solicitation</i> means any request to submit
-offers or quotations to the Government. Solicitations under sealed
-bid procedures are called “invitations for bids.” Solicitations
+                     class="+ topic/ph hi-d/i ">Solicitation</i> means any
+request to submit offers or quotations to the Government. Solicitations
+under sealed bid procedures are called “invitations for bids.” Solicitations
 under negotiated procedures are called “requests for proposals.”
 Solicitations under simplified acquisition procedures may require
 submission of either a quotation or an offer.</p>
@@ -4010,25 +4002,25 @@ sum of the bond. A limit of liability for each surety may be stated.</p>
                      xtrf="_2.101"
                      class="+ topic/ph hi-d/i ">Surplus property</i> means excess personal property
 not required by any Federal agency as determined by the Administrator of
-the General Services Administration (GSA). (See <ph outputclass="CFR">41 CFR 102-36.40</ph>).</p>
+the General Services Administration (GSA). (See <ph outputclass="CFR" class="- topic/ph ">41
+CFR 102-36.40</ph>).</p>
                <p id="d75e2659" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e4244"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Suspension</i> means action taken by a suspending
-official under <xref href="FAR-i1115455.dita#i1115455"
+                     class="+ topic/ph hi-d/i ">Suspension</i> means action
+taken by a suspending official under <xref href="FAR-i1115455.dita#i1115455"
                         base="i1115455"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">9.407</xref> to
-disqualify a contractor temporarily from Government contracting
-and Government-approved subcontracting; a contractor that is disqualified
-is “suspended.”</p>
+                        class="- topic/xref ">9.407</xref> to disqualify a
+contractor temporarily from Government contracting and Government-approved
+subcontracting; a contractor that is disqualified is “suspended.”</p>
                <p id="d75e2666" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e4254"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Sustainable acquisition</i> means
-acquiring goods and services in order to create and maintain conditions-<ol class="- topic/ol ">
+                     class="+ topic/ph hi-d/i ">Sustainable acquisition</i> means acquiring
+goods and services in order to create and maintain conditions-<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e2672" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Under which
@@ -4105,8 +4097,7 @@ The term includes recorded information of a scientific or technical
 nature that is included in computer databases (see <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">41 U.S.C. 116</xref>
-                  ).</p>
+                        class="- topic/xref ">41 U.S.C. 116</xref> ).</p>
                <p id="d75e2722" class="- topic/p ">
                   <i outputclass="Term"
                      xtrc="d72e4345"
@@ -4578,7 +4569,7 @@ more women; or</p>
                         <p id="d75e3078" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(2)</ph> A small
 business concern eligible under the Women-Owned Small Business Program
-in accordance with <ph outputclass="CFR">13 CFR part 127</ph> (see <xref href="FAR-i1099174.dita#i1099174"
+in accordance with <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph> (see <xref href="FAR-i1099174.dita#i1099174"
                                  base="i1099174"
                                  outputclass="fm:Subpart"
                                  class="- topic/xref ">subpart  19.15</xref>).</p>
@@ -4589,7 +4580,7 @@ in accordance with <ph outputclass="CFR">13 CFR part 127</ph> (see <xref href="F
                   <i outputclass="Term"
                      xtrc="d72e4912"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Women-Owned Small Business (WOSB) Program.</i>
+                     class="+ topic/ph hi-d/i ">Women-Owned Small Business (WOSB) Program.</i> 
                   <ol id="d73e382945" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e3091" class="- topic/p ">
@@ -4624,9 +4615,9 @@ a small business concern that is at least 51 percent directly and
 unconditionally owned by, and the management and daily business
 operations of which are controlled by, one or more women who are
 citizens of the United States and who are economically disadvantaged
-in accordance with <ph outputclass="CFR">13 CFR part 127</ph>. It automatically qualifies as
-a women-owned small business (WOSB) concern eligible under the WOSB
-Program.</p>
+in accordance with <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph>.
+It automatically qualifies as a women-owned small business (WOSB) concern
+eligible under the WOSB Program.</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d75e3112" class="- topic/p ">
@@ -4635,7 +4626,8 @@ small business (WOSB)” concern eligible under the WOSB Program means
 a small business concern that is at least 51 percent directly and
 unconditionally owned by, and the management and daily business
 operations of which are controlled by, one or more women who are
-citizens of the United States (<ph outputclass="CFR">13 CFR part 127</ph>).</p>
+citizens of the United States (<ph outputclass="CFR" class="- topic/ph ">13 CFR part
+127</ph>).</p>
                      </li>
                   </ol>
                </p>
@@ -4643,7 +4635,8 @@ citizens of the United States (<ph outputclass="CFR">13 CFR part 127</ph>).</p>
                   <i outputclass="Term"
                      xtrc="d72e4969"
                      xtrf="_2.101"
-                     class="+ topic/ph hi-d/i ">Writing or written</i> (see “in writing”).</p>
+                     class="+ topic/ph hi-d/i ">Writing or written</i> (see
+“in writing”).</p>
             </li>
          </ol>
       </conbody>
