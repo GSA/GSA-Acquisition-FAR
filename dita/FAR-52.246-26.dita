@@ -2,96 +2,156 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="id19BQC0I08YF"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.246-26</ph> 	Reporting Nonconforming Items.</title>
+         <ph props="autonumber" class="- topic/ph ">52.246-26</ph> Reporting Nonconforming
+Items.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="id19BQC10J0SK" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-46.317.dita#id19BQE03705E"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">46.317</xref>
-            </ph>, insert the following clause</p>
-         <p id="id19BQC10J0F2" outputclass="Ctr_SmCaps" class="- topic/p ">Reporting Nonconforming Items <ph outputclass="SmCaps" class="- topic/ph ">(Dec 2019)</ph>
-         </p>
+            </ph>, insert the
+following clause</p>
+         <p id="id19BQC10J0F2"
+            rev="FAC 2020-06 June 5, 2020"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p "><?FM MARKER [CaseNumber] FAR Case 2018-007?>Reporting Nonconforming Items (Jun
+2020)<?FM MARKER [Why] Amend section 52.246-26 by—
+a. Revising the date of the clause; and?></p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3675e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause—</p>
+                  <i class="+ topic/ph hi-d/i ">Definitions.</i> As
+used in this clause—</p>
                <p id="d3675e23" class="- topic/p ">
                   <i outputclass="Term"
-                     xtrf="_52.246-26"
                      xtrc="d3668e37"
-                     class="+ topic/ph hi-d/i ">Common item</i> means an item that has multiple applications versus a single or peculiar application.</p>
+                     xtrf="_52.246-26"
+                     class="+ topic/ph hi-d/i ">Common item</i> means
+an item that has multiple applications versus a single or peculiar
+application.</p>
                <p id="d3675e27" class="- topic/p ">
                   <i outputclass="Term"
-                     xtrf="_52.246-26"
                      xtrc="d3668e43"
-                     class="+ topic/ph hi-d/i ">Counterfeit item</i> means an unlawful or unauthorized reproduction, substitution, or alteration that has been knowingly mismarked, misidentified, or otherwise misrepresented to be an authentic, unmodified item from the original manufacturer, or a source with the express written authority of the original manufacturer or current design activity, including an authorized aftermarket manufacturer. Unlawful or unauthorized substitution includes used items represented as new, or the false identification of grade, serial number, lot number, date code, or performance characteristics.</p>
+                     xtrf="_52.246-26"
+                     class="+ topic/ph hi-d/i ">Counterfeit item</i> means
+an unlawful or unauthorized reproduction, substitution, or alteration
+that has been knowingly mismarked, misidentified, or otherwise misrepresented
+to be an authentic, unmodified item from the original manufacturer, or
+a source with the express written authority of the original manufacturer
+or current design activity, including an authorized aftermarket
+manufacturer. Unlawful or unauthorized substitution includes used
+items represented as new, or the false identification of grade,
+serial number, lot number, date code, or performance characteristics.</p>
                <p id="d3675e31" class="- topic/p ">
                   <i outputclass="Term"
-                     xtrf="_52.246-26"
                      xtrc="d3668e49"
-                     class="+ topic/ph hi-d/i ">Critical item</i> means an item, the failure of which is likely to result in hazardous or unsafe conditions for individuals using, maintaining, or depending upon the item; or is likely to prevent performance of a vital agency mission.</p>
+                     xtrf="_52.246-26"
+                     class="+ topic/ph hi-d/i ">Critical item</i> means an item, the failure
+of which is likely to result in hazardous or unsafe conditions for
+individuals using, maintaining, or depending upon the item; or is
+likely to prevent performance of a vital agency mission.</p>
                <p id="d3675e35" class="- topic/p ">
                   <i outputclass="Term"
-                     xtrf="_52.246-26"
                      xtrc="d3668e55"
-                     class="+ topic/ph hi-d/i ">Critical nonconformance</i> means a nonconformance that is likely to result in hazardous or unsafe conditions for individuals using, maintaining, or depending upon the supplies or services; or is likely to prevent performance of a vital agency mission.</p>
+                     xtrf="_52.246-26"
+                     class="+ topic/ph hi-d/i ">Critical nonconformance</i> means a nonconformance
+that is likely to result in hazardous or unsafe conditions for individuals using,
+maintaining, or depending upon the supplies or services; or is likely
+to prevent performance of a vital agency mission.</p>
                <p id="d3675e39" class="- topic/p ">
                   <i outputclass="Term"
-                     xtrf="_52.246-26"
                      xtrc="d3668e62"
-                     class="+ topic/ph hi-d/i ">Design activity</i> means an organization, Government or contractor, that has responsibility for the design and configuration of an item, including the preparation or maintenance of design documents. Design activity could be the original organization, or an organization to which design responsibility has been transferred.</p>
+                     xtrf="_52.246-26"
+                     class="+ topic/ph hi-d/i ">Design
+activity</i> means an organization, Government or contractor, that
+has responsibility for the design and configuration of an item,
+including the preparation or maintenance of design documents. Design
+activity could be the original organization, or an organization
+to which design responsibility has been transferred.</p>
                <p id="d3675e43" class="- topic/p ">
                   <i outputclass="Term"
-                     xtrf="_52.246-26"
                      xtrc="d3668e68"
-                     class="+ topic/ph hi-d/i ">Major nonconformance</i> means a nonconformance, other than critical, that is likely to result in failure of the supplies or services, or to materially reduce the usability of the supplies or services for their intended purpose.</p>
+                     xtrf="_52.246-26"
+                     class="+ topic/ph hi-d/i ">Major nonconformance</i> means a nonconformance,
+other than critical, that is likely to result in failure of the
+supplies or services, or to materially reduce the usability of the
+supplies or services for their intended purpose.</p>
                <p id="d3675e47" class="- topic/p ">
                   <i outputclass="Term"
-                     xtrf="_52.246-26"
                      xtrc="d3668e74"
-                     class="+ topic/ph hi-d/i ">Suspect counterfeit item</i> means an item for which credible evidence (including but not limited to, visual inspection or testing) provides reasonable doubt that the item is authentic.</p>
+                     xtrf="_52.246-26"
+                     class="+ topic/ph hi-d/i ">Suspect
+counterfeit item</i> means an item for which credible evidence (including
+but not limited to, visual inspection or testing) provides reasonable
+doubt that the item is authentic.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3675e52" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The Contractor shall—</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The Contractor
+shall—</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3675e58" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Screen Government-Industry Data Exchange Program (GIDEP) reports, available at <xref href="http://www.gidep.org/"
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Screen
+Government-Industry Data Exchange Program (GIDEP) reports, available
+at <xref href="http://www.gidep.org/"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">www.gidep.org</xref>, as a part of the Contractor's inspection system or program for the control of quality, to avoid the use and delivery of counterfeit or suspect counterfeit items or delivery of items that contain a major or critical nonconformance. This requirement does not apply if the Contractor is a foreign corporation or partnership that does not have an office, place of business, or fiscal paying agent in the United States;</p>
+                              class="- topic/xref ">www.gidep.org</xref>, as a part of the Contractor's
+inspection system or program for the control of quality, to avoid
+the use and delivery of counterfeit or suspect counterfeit items
+or delivery of items that contain a major or critical nonconformance.
+This requirement does not apply if the Contractor is a foreign corporation
+or partnership that does not have an office, place of business,
+or fiscal paying agent in the United States;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3675e66" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Provide written notification to the Contracting Officer within 60 days of becoming aware or having reason to suspect, such as through inspection, testing, record review, or notification from another source (<i class="+ topic/ph hi-d/i ">e.g.</i>, seller, customer, third party) that any end item, component, subassembly, part, or material contained in supplies purchased by the Contractor for delivery to, or for, the Government is counterfeit or suspect counterfeit;</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Provide
+written notification to the Contracting Officer within 60 days of
+becoming aware or having reason to suspect, such as through inspection,
+testing, record review, or notification from another source (<i class="+ topic/ph hi-d/i ">e.g.</i>,
+seller, customer, third party) that any end item, component, subassembly,
+part, or material contained in supplies purchased by the Contractor
+for delivery to, or for, the Government is counterfeit or suspect
+counterfeit;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3675e74" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Retain counterfeit or suspect counterfeit items in its possession at the time of discovery until disposition instructions have been provided by the Contracting Officer; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Retain counterfeit
+or suspect counterfeit items in its possession at the time of discovery
+until disposition instructions have been provided by the Contracting
+Officer; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3675e79" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Except as provided in paragraph (c) of this clause, submit a report to GIDEP at <xref href="http://www.gidep.org/"
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Except as
+provided in paragraph (c) of this clause, submit a report to GIDEP
+at <xref href="http://www.gidep.org/"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">www.gidep.org</xref> within 60 days of becoming aware or having reason to suspect, such as through inspection, testing, record review, or notification from another source (<i class="+ topic/ph hi-d/i ">e.g.</i>, seller, customer, third party) that an item purchased by the Contractor for delivery to, or for, the Government is–</p>
+                              class="- topic/xref ">www.gidep.org</xref> within 60 days of becoming
+aware or having reason to suspect, such as through inspection, testing,
+record review, or notification from another source (<i class="+ topic/ph hi-d/i ">e.g.</i>,
+seller, customer, third party) that an item purchased by the Contractor
+for delivery to, or for, the Government is–</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3675e91" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>A counterfeit or suspect counterfeit item; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>A counterfeit
+or suspect counterfeit item; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3675e96" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>A common item that has a major or critical nonconformance.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>A common
+item that has a major or critical nonconformance.</p>
                         </li>
                      </ol>
                   </li>
@@ -99,49 +159,82 @@
             </li>
             <li class="- topic/li ">
                <p id="d3675e101" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>The Contractor shall not submit a report as required by paragraph (b)(4) of this clause, if—</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>The Contractor
+shall not submit a report as required by paragraph (b)(4) of this
+clause, if—</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3675e107" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The Contractor is a foreign corporation or partnership that does not have an office, place of business, or fiscal paying agent in the United States;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The
+Contractor is a foreign corporation or partnership that does not
+have an office, place of business, or fiscal paying agent in the
+United States;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3675e112" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor is aware that the counterfeit, suspect counterfeit, or nonconforming item is the subject of an on-going criminal investigation, unless the report is approved by the cognizant law-enforcement agency; or</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor
+is aware that the counterfeit, suspect counterfeit, or nonconforming
+item is the subject of an on-going criminal investigation, unless
+the report is approved by the cognizant law-enforcement agency;
+or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3675e117" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>For nonconforming items other than counterfeit or suspect counterfeit items, it can be confirmed that the organization where the defect was generated (<i class="+ topic/ph hi-d/i ">e.g.</i>, original component manufacturer, original equipment manufacturer, aftermarket manufacturer, or distributor that alters item properties or configuration) has not released the item to more than one customer.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>For nonconforming
+items other than counterfeit or suspect counterfeit items, it can
+be confirmed that the organization where the defect was generated
+(<i class="+ topic/ph hi-d/i ">e.g.</i>, original component manufacturer, original equipment
+manufacturer, aftermarket manufacturer, or distributor that alters
+item properties or configuration) has not released the item to more
+than one customer.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
                <p id="d3675e125" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>Reports submitted in accordance with paragraph (b)(4) of this clause shall not include—</p>
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>Reports
+submitted in accordance with paragraph (b)(4) of this clause shall
+not include—</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3675e131" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Trade secrets or confidential commercial or financial information protected under the Trade Secrets Act (<xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&amp;num=0&amp;edition=prelim"
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Trade
+secrets or confidential commercial or financial information protected
+under the Trade Secrets Act (<xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&amp;num=0&amp;edition=prelim"
                               format="html"
                               scope="external"
                               class="- topic/xref ">18 U.S.C. 1905</xref>); or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3675e139" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Any other information prohibited from disclosure by statute or regulation.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Any other
+information prohibited from disclosure by statute or regulation.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
                <p id="d3675e144" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>Additional guidance on the use of GIDEP is provided at <xref href="http://www.gidep.org/about/opmanual/opmanual.htm"
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>Additional
+guidance on the use of GIDEP is provided at <xref href="http://www.gidep.org/about/opmanual/opmanual.htm"
                         format="html"
                         scope="external"
                         class="- topic/xref ">http://www.gidep.org/about/opmanual/opmanual.htm</xref>.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3675e152" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>If this is a contract with the Department of Defense, as provided in paragraph (c)(5) of section 818 of the National Defense Authorization Act for Fiscal Year 2012 (Pub. L. 112-81), the Contractor or subcontractor that provides a written report or notification under this clause that the end item, component, part, or material contained electronic parts (<i class="+ topic/ph hi-d/i ">i.e.</i>, an integrated circuit, a discrete electronic component (including, but not limited to, a transistor, capacitor, resistor, or diode), or a circuit assembly)) that are counterfeit electronic parts or suspect counterfeit electronic parts shall not be subject to civil liability on the basis of such reporting, provided that the Contractor or any subcontractor made a reasonable effort to determine that the report was factual.</p>
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>If this
+is a contract with the Department of Defense, as provided in paragraph
+(c)(5) of section 818 of the National Defense Authorization Act
+for Fiscal Year 2012 (Pub. L. 112-81), the Contractor or subcontractor
+that provides a written report or notification under this clause
+that the end item, component, part, or material contained electronic
+parts (<i class="+ topic/ph hi-d/i ">i.e.</i>, an integrated circuit, a discrete electronic
+component (including, but not limited to, a transistor, capacitor,
+resistor, or diode), or a circuit assembly)) that are counterfeit
+electronic parts or suspect counterfeit electronic parts shall not
+be subject to civil liability on the basis of such reporting, provided
+that the Contractor or any subcontractor made a reasonable effort
+to determine that the report was factual.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3675e160" class="- topic/p ">
@@ -149,45 +242,72 @@
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3675e166" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Except as provided in paragraph (g)(2) of this clause, the Contractor shall insert this clause, including this paragraph (g), in subcontracts that are for–</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Except
+as provided in paragraph (g)(2) of this clause, the Contractor shall
+insert this clause, including this paragraph (g), in subcontracts
+that are for–</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3675e172" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Items subject to higher-level quality standards in accordance with the clause at FAR <xref href="FAR-i1047059.dita#i1047059"
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Items
+subject to higher-level quality standards in accordance with the
+clause at FAR <xref href="FAR-i1047059.dita#i1047059"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.246-11</xref>, Higher-Level Contract Quality Requirement;</p>
+                                    class="- topic/xref ">52.246-11</xref>, Higher-Level
+Contract Quality Requirement;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3675e180" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Items that the Contractor determines to be critical items for which use of the clause is appropriate;</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Items
+that the Contractor determines to be critical items for which use
+of the clause is appropriate;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3675e185" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Electronic parts or end items, components, parts, or materials containing electronic parts, whether or not covered in paragraph (g)(1)(i) or (ii) of this clause, if the subcontract exceeds the simplified acquisition threshold and this contract is by, or for, the Department of Defense (as required by paragraph (c)(4) of section 818 of the National Defense Authorization Act for Fiscal Year 2012 (Pub. L. 112-81)); or</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Electronic
+parts or end items, components, parts, or materials containing electronic
+parts, whether or not covered in paragraph (g)(1)(i) or (ii) of
+this clause, if the subcontract exceeds the simplified acquisition <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-007?>threshold, as defined in FAR <xref href="FAR-i1125359.dita#i1125359"
+                                       base="i1125359"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">2.101</xref> on the date of subcontract
+award,<?FM MARKER [Why] b. Removing from paragraph (g)(1)(iii) “threshold” and adding “threshold, as defined in FAR 2.101 on the date of subcontract award,” in its place.?></ph>and this contract is by, or for, the Department of Defense
+(as required by paragraph (c)(4) of section 818 of the National
+Defense Authorization Act for Fiscal Year 2012 (Pub. L. 112-81));
+or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3675e190" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>For the acquisition of services, if the subcontractor will furnish, as part of the service, any items that meet the criteria specified in paragraphs (g)(1)(i) through (g)(1)(iii) of this clause.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>For the
+acquisition of services, if the subcontractor will furnish, as part
+of the service, any items that meet the criteria specified in paragraphs
+(g)(1)(i) through (g)(1)(iii) of this clause.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3675e195" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor shall not insert the clause in subcontracts for–</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor
+shall not insert the clause in subcontracts for–</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3675e201" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Commercial items; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Commercial
+items; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3675e206" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Medical devices that are subject to the Food and Drug Administration reporting requirements at <ph outputclass="CFR" class="- topic/ph ">21 CFR 803</ph>.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Medical
+devices that are subject to the Food and Drug Administration reporting
+requirements at <ph outputclass="CFR" class="- topic/ph ">21 CFR 803</ph>.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3675e211" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The Contractor shall not alter the clause other than to identify the appropriate parties.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The Contractor
+shall not alter the clause other than to identify the appropriate
+parties.</p>
                   </li>
                </ol>
             </li>
