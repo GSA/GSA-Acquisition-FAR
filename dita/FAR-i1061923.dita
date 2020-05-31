@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1061923"
             domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
@@ -19,8 +18,12 @@ in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">13.302-5</xref>(d)</ph>, insert
 the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Terms and Conditions-Simplified Acquisitions
-(Other Than Commercial Items) (Jan 2020)</p>
+         <p rev="FAC 2020-06 June 5, 2020"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p "><?FM MARKER [CaseNumber] FAR Case 2018-007?>Terms
+and Conditions-Simplified Acquisitions (Other Than Commercial Items)
+(Jun 2020)<?FM MARKER [Why] Amend section 52.213-4 by—
+a. Revising the date of the clause;?></p>
          <ol id="d3132e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3170e19" class="- topic/p ">
@@ -164,7 +167,9 @@ Prompt Payment <ph outputclass="SmCaps" class="- topic/ph ">(Feb 2002)</ph>.</p>
                               <xref href="FAR-i1050125.dita#i1050125"
                                     base="i1050125"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.232-25</xref>, Prompt Payment <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph>.</p>
+                                    class="- topic/xref ">52.232-25</xref>, Prompt Payment <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph> 
+                              <ph class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-007?>.<?FM MARKER [Why] b. Adding a period to the end of paragraph (a)(2)(iv);?></ph>
+                           </p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3170e171" class="- topic/p ">
@@ -183,7 +188,7 @@ of Unauthorized Obligations <ph outputclass="SmCaps" class="- topic/ph ">(Jun 20
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.232-40</xref>, Providing Accelerated
 Payments to Small Business Subcontractors <ph outputclass="SmCaps" class="- topic/ph ">(Dec
-2013)</ph>
+2013).</ph>
                            </p>
                         </li>
                         <li class="- topic/li ">
@@ -197,11 +202,13 @@ Payments to Small Business Subcontractors <ph outputclass="SmCaps" class="- topi
                         <li class="- topic/li ">
                            <p id="d3170e201" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(viii)</ph>
-                              <xref href="FAR-i1048410.dita#i1048410"
-                                    base="i1048410"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.244-6</xref>, Subcontracts
-for Commercial Items (Aug 2019).</p>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1048410.dita#i1048410"
+                                       base="i1048410"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.244-6</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Subcontracts
+for Commercial Items <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2019)</ph>.<?FM MARKER [Why] c. Revising paragraphs (a)(2)(viii) and (b)(1)(i) through (iv), the first sentence of paragraph (b)(1)(v), and paragraph (b)(1)(vi);?></ph>
+                           </p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3170e212" class="- topic/p ">
@@ -230,83 +237,117 @@ listed below implement provisions of law or Executive order:</p>
                         <li class="- topic/li ">
                            <p id="d3170e234" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              <xref href="FAR-i1064087.dita#i1064087"
-                                    base="i1064087"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.204-10</xref>, Reporting Executive
-Compensation and First-Tier Subcontract Awards (<term class="- topic/term ">Oct 2018)</term>(Pub.
-L. 109-282) (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6101&amp;num=0&amp;edition=prelim"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">31 U.S.C. 6101 note</xref>)
-(Applies to contracts valued at $30,000 or more).</p>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1064087.dita#i1064087"
+                                       base="i1064087"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.204-10</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Reporting Executive
+Compensation and First-Tier Subcontract Awards <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph>(Pub. L. 109-282) (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6101&amp;num=0&amp;edition=prelim"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">31 U.S.C. 6101 note</xref>)
+(Applies to contracts valued at or above the threshold specified
+in FAR <xref href="FAR-i1121777.dita#i1121777"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">4.1403</xref>(a) on the date
+of award of this contract).<?FM MARKER [Why] c. Revising paragraphs (a)(2)(viii) and (b)(1)(i) through (iv), the first sentence of paragraph (b)(1)(v), and paragraph (b)(1)(vi);?></ph>
+                           </p>
                         </li>
-                        <li class="- topic/li "> 
+                        <li class="- topic/li ">
                            <p id="d3170e247" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              <xref href="FAR-i1055664.dita#i1055664"
-                                    base="i1055664"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-19</xref>, Child Labor-Cooperation
-with Authorities and Remedies (Jan 2020) (E.O.13126) (Applies
-to contracts for supplies exceeding the micro-purchase threshold.)</p>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1055664.dita#i1055664"
+                                       base="i1055664"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.222-19</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Child Labor-Cooperation
+with Authorities and Remedies (<ph outputclass="SmCaps" class="- topic/ph ">Jan 2020)</ph> (E.O.13126)
+(Applies to contracts for supplies exceeding the micro-purchase
+threshold, as defined in FAR <xref href="FAR-i1125359.dita#i1125359"
+                                       base="i1125359"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">2.101</xref> on
+the date of award of this contract).<?FM MARKER [Why] c. Revising paragraphs (a)(2)(viii) and (b)(1)(i) through (iv), the first sentence of paragraph (b)(1)(v), and paragraph (b)(1)(vi);?></ph>
+                           </p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3170e258" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              <xref href="FAR-i1055699.dita#i1055699"
-                                    base="i1055699"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-20</xref>, Contracts for
-Materials, Supplies, Articles, and Equipment Exceeding $15,000 <ph outputclass="SmCaps" class="- topic/ph ">(May 2014)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">41 U.S.C.chapter 65</xref>)
-(Applies to supply contracts over $15,000 in the United States,
-Puerto Rico, or the U.S. Virgin Islands).</p>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1055699.dita#i1055699"
+                                       base="i1055699"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.222-20</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Contracts for
+Materials, Supplies, Articles, and Equipment <ph outputclass="SmCaps" class="- topic/ph ">(Jun
+2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">41 U.S.C.chapter 65</xref>) (Applies
+to supply contracts over the threshold specified in FAR <xref href="FAR-i1097467.dita#i1097467"
+                                       base="i1097467"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">22.602</xref> on the date of
+award of this contract, in the United States, Puerto Rico, or the
+U.S. Virgin Islands).<?FM MARKER [Why] c. Revising paragraphs (a)(2)(viii) and (b)(1)(i) through (iv), the first sentence of paragraph (b)(1)(v), and paragraph (b)(1)(vi);?></ph>
+                           </p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3170e271" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              <xref href="FAR-i1056230.dita#i1056230"
-                                    base="i1056230"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-35</xref>, Equal Opportunity
-for Veterans <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2015)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">38 U.S.C.4212</xref>) (applies
-to contracts of $150,000 or more).</p>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1056230.dita#i1056230"
+                                       base="i1056230"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.222-35</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Equal Opportunity
+for Veterans <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">38 U.S.C.4212</xref>) (Applies
+to contracts valued at or above the threshold specified in FAR <xref href="FAR-id1617MD05061.dita#id1617MD05061"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">22.1303</xref>(a) on the date
+of award of this contract).<?FM MARKER [Why] c. Revising paragraphs (a)(2)(viii) and (b)(1)(i) through (iv), the first sentence of paragraph (b)(1)(v), and paragraph (b)(1)(vi);?></ph>
+                           </p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3170e284" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                              <xref href="FAR-i1056250.dita#i1056250"
-                                    base="i1056250"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-36</xref>, Equal Employment
-for Workers with Disabilities <ph outputclass="SmCaps" class="- topic/ph ">(Jul 2014)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">29 U.S.C.793</xref>) (Applies
-to contracts over $15,000, unless the work is to be performed outside
-the United States by employees recruited outside the United States.)
-(For purposes of this clause, “United States” includes the 50 States,
-the District of Columbia, Puerto Rico, the Northern Mariana Islands,
-American Samoa, Guam, the U.S. Virgin Islands, and Wake Island.)</p>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1056250.dita#i1056250"
+                                       base="i1056250"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.222-36</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Equal Employment
+for Workers with Disabilities <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">29 U.S.C.793</xref>) (Applies
+to contracts over the threshold specified in FAR <xref href="FAR-i1095976.dita#i1095976"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">22.1408</xref>(a)
+on the date of award of this contract, unless the work is to be
+performed outside the United States by employees recruited outside
+the United States).<?FM MARKER [Why] c. Revising paragraphs (a)(2)(viii) and (b)(1)(i) through (iv), the first sentence of paragraph (b)(1)(v), and paragraph (b)(1)(vi);?></ph> (For purposes of this clause, “United States”
+includes the 50 States, the District of Columbia, Puerto Rico, the
+Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin
+Islands, and Wake Island.)</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3170e297" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(vi)</ph>
-                              <xref href="FAR-i1056265.dita#i1056265"
-                                    base="i1056265"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-37</xref>, Employment
-Reports on Veterans <ph outputclass="SmCaps" class="- topic/ph ">(Feb 2016)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">38 U.S.C.4212</xref>) (Applies
-to contracts of $150,000 or more).</p>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1056265.dita#i1056265"
+                                       base="i1056265"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.222-37</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Employment
+Reports on Veterans <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">38 U.S.C.4212</xref>) (Applies
+to contracts valued at or above the threshold specified in FAR <xref href="FAR-id1617MD05061.dita#id1617MD05061"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">22.1303</xref>(a) on the date
+of award of this contract).<?FM MARKER [Why] c. Revising paragraphs (a)(2)(viii) and (b)(1)(i) through (iv), the first sentence of paragraph (b)(1)(v), and paragraph (b)(1)(vi);?></ph>
+                           </p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3170e310" class="- topic/p ">
@@ -328,7 +369,7 @@ Johnston Island, Wake Island, or the outer Continental Shelf).</p>
                         <li props="Runin" class="- topic/li ">
                            <p id="d3170e323" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(viii)</ph>
-                            </p>
+                           </p>
                            <ol id="d3132e463" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3170e328" class="- topic/p ">
@@ -501,13 +542,16 @@ or facilities.</p>
 (Applies to contracts for supplies, and to contracts for services
 involving the furnishing of supplies, for use in the United States
 or its outlying areas, if the value of the supply contract or supply
-portion of a service contract exceeds the micro-purchase threshold and
-the acquisition-</p>
+portion of a service contract exceeds the micro-purchase <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-007?>threshold, as defined in FAR <xref href="FAR-i1125359.dita#i1125359"
+                                       base="i1125359"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">2.101</xref> on the date of award
+of this contract,<?FM MARKER [Why] d. Removing from paragraph (b)(1)(xvii) introductory text “threshold” and adding “threshold, as defined in FAR 2.101 on the date of award of this contract,” in its place; and?></ph> and the acquisition-</p>
                            <ol id="d3132e689" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3170e486" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Is set aside for small business
-concerns; or</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Is set
+aside for small business concerns; or</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3170e491" class="- topic/p ">
@@ -523,17 +567,23 @@ exceed $25,000).</p>
                         <li class="- topic/li ">
                            <p id="d3170e499" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(xviii)</ph>
-                              <xref href="FAR-i1055065.dita#i1055065"
-                                    base="i1055065"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.226-6</xref>, Promoting Excess
-Food Donation to Nonprofit Organizations <ph outputclass="SmCaps" class="- topic/ph ">(May
-2014)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">42 U.S.C. 1792</xref>) (Applies
-to contracts greater than $25,000 that provide for the provision,
-the service, or the sale of food in the United States).</p>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1055065.dita#i1055065"
+                                       base="i1055065"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.226-6</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Promoting Excess
+Food Donation to Nonprofit Organizations <ph outputclass="SmCaps" class="- topic/ph ">(Jun
+2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">42 U.S.C. 1792</xref>) (Applies
+to contracts greater than the threshold specified in FAR <xref href="FAR-i1090493.dita#i1090493"
+                                       base="i1090493"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">26.404</xref> on the date of
+award of this contract, that provide for the provision, the service,
+or the sale of food in the United States).<?FM MARKER [Why] e. Revising paragraphs (b)(1)(xviii) and (b)(2)(ii).?></ph>
+                           </p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3170e512" class="- topic/p ">
@@ -597,13 +647,20 @@ transiting through its information system.</p>
                         <li class="- topic/li ">
                            <p id="d3170e564" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              <xref href="FAR-i1062590.dita#i1062590"
-                                    base="i1062590"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.209-6</xref>, Protecting the
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1062590.dita#i1062590"
+                                       base="i1062590"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.209-6</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Protecting the
 Government’s Interest When Subcontracting with Contractors Debarred,
-Suspended, or Proposed for Debarment <ph outputclass="SmCaps" class="- topic/ph ">(Oct
-2015)</ph> (Applies to contracts over $35,000).</p>
+Suspended, or Proposed for Debarment <ph outputclass="SmCaps" class="- topic/ph ">(Jun
+2020)</ph> (Applies to contracts over the threshold specified in
+FAR <xref href="FAR-i1115270.dita#i1115270"
+                                       base="i1115270"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">9.405-2</xref>(b) on the date
+of award of this contract).<?FM MARKER [Why] e. Revising paragraphs (b)(1)(xviii) and (b)(2)(ii).?></ph>
+                           </p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3170e574" class="- topic/p ">
