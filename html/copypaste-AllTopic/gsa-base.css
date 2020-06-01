@@ -353,4 +353,8 @@ li[class*= 'Runin'] > p{
     float:left;
 }
 
+input[type=checkbox], input[type=radio] {
+float: left;
+}
+
 
