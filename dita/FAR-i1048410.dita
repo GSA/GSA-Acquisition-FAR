@@ -2,239 +2,314 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1048410"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.244-6</ph> Subcontracts for Commercial Items.</title>
+         <ph props="autonumber" class="- topic/ph ">52.244-6</ph> Subcontracts for Commercial
+Items.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p id="d3638e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+         <p id="d3629e8" class="- topic/p ">As prescribed
+in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1073398.dita#i1073398"
                      base="i1073398"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">44.403</xref>
-            </ph>, insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Subcontracts for Commercial Items <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2019)</ph>
-         </p>
+            </ph>, insert the
+following clause:</p>
+         <p rev="FAC 2020-06 June 5, 2020"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p "><?FM MARKER [CaseNumber] FAR Case 2018-007?>Subcontracts
+for Commercial Items (Jun 2020)<?FM MARKER [Why] Amend section 52.244-6 by—
+a. Revising the date of the clause;?></p>
          <ol id="d3597e25" class="- topic/ol ">
             <li class="- topic/li ">
-               <p id="d3638e18" class="- topic/p ">
+               <p id="d3629e20" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause—</p>
-               <p id="d3638e24" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Definitions.</i> As
+used in this clause—</p>
+               <p id="d3629e26" class="- topic/p ">
                   <i outputclass="Term"
-                     xtrf="_52.244-6"
                      xtrc="d3631e40"
-                     class="+ topic/ph hi-d/i ">Commercial item</i> and “commercially available off-the-shelf item” have the meanings contained in Federal Acquisition Regulation <xref href="FAR-i1125359.dita#i1125359"
-                        base="i1125359"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">2.101</xref>, Definitions.</p>
-               <p id="d3638e31" class="- topic/p ">
-                  <i outputclass="Term"
                      xtrf="_52.244-6"
+                     class="+ topic/ph hi-d/i ">Commercial item</i> and <i class="+ topic/ph hi-d/i ">commercially
+available off-the-shelf item</i>
+                  <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-007?>have
+the meanings contained in Federal Acquisition Regulation <xref href="FAR-i1125359.dita#i1125359"
+                           base="i1125359"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">2.101</xref>.<?FM MARKER [Why] b. In paragraph (a), revising the definition “Commercial item” and “commercially available off-the-shelf item”;?></ph>
+               </p>
+               <p id="d3629e39" class="- topic/p ">
+                  <i outputclass="Term"
                      xtrc="d3631e49"
-                     class="+ topic/ph hi-d/i ">Subcontract</i> includes a transfer of commercial items between divisions, subsidiaries, or affiliates of the Contractor or subcontractor at any tier.</p>
+                     xtrf="_52.244-6"
+                     class="+ topic/ph hi-d/i ">Subcontract</i> includes a transfer of commercial
+items between divisions, subsidiaries, or affiliates of the Contractor
+or subcontractor at any tier.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d3638e36" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>To the maximum extent practicable, the Contractor shall incorporate, and require its subcontractors at all tiers to incorporate, commercial items or non-developmental items as components of items to be supplied under this contract.</p>
+               <p id="d3629e44" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>To the maximum
+extent practicable, the Contractor shall incorporate, and require
+its subcontractors at all tiers to incorporate, commercial items
+or non-developmental items as components of items to be supplied
+under this contract.</p>
             </li>
             <li props="Runin" class="- topic/li ">
-               <p id="d3638e41" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> 
+               <p id="d3629e49" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
                </p>
                <ol id="d3597e65" class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d3638e46" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The Contractor shall insert the following clauses in subcontracts for commercial items:</p>
+                     <p id="d3629e54" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The
+Contractor shall insert the following clauses in subcontracts for
+commercial items:</p>
                      <ol id="d3597e75" class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d3638e52" class="- topic/p ">
+                           <p id="d3629e60" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              <xref href="FAR-i1063504.dita#i1063504"
-                                    base="i1063504"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.203-13</xref>, Contractor Code of Business Ethics and Conduct <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2015)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">41 U.S.C. 3509</xref>), if the subcontract exceeds $5.5 million and has a performance period of more than 120 days. In altering this clause to identify the appropriate parties, all disclosures of violation of the civil False Claims Act or of Federal criminal law shall be directed to the agency Office of the Inspector General, with a copy to the Contracting Officer.</p>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-007?>
+                                 <xref href="FAR-i1063504.dita#i1063504"
+                                       base="i1063504"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.203-13</xref>, Contractor
+Code of Business Ethics and Conduct <ph outputclass="SmCaps" class="- topic/ph ">(Jun
+2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">41 U.S.C. 3509</xref>),
+if the subcontract exceeds the threshold specified in FAR <xref href="FAR-i1123740.dita#i1123740"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">3.1004</xref>(a)
+on the date of subcontract award, and has a performance period of
+more than 120 days. <?FM MARKER [Why] c. Revising the first sentence in paragraph (c)(1)(i);?></ph>In altering this clause to identify the
+appropriate parties, all disclosures of violation of the civil False
+Claims Act or of Federal criminal law shall be directed to the agency
+Office of the Inspector General, with a copy to the Contracting
+Officer.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e65" class="- topic/p ">
+                           <p id="d3629e80" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               <xref href="FAR-i1063607.dita#i1063607"
                                     base="i1063607"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.203-15</xref>, Whistleblower Protections Under the American Recovery and Reinvestment Act of 2009 <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2010)</ph> (Section 1553 of Pub. L. 111-5), if the subcontract is funded under the Recovery Act.</p>
+                                    class="- topic/xref ">52.203-15</xref>, Whistleblower
+Protections Under the American Recovery and Reinvestment Act of
+2009 <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2010)</ph> (Section 1553 of
+Pub. L. 111-5), if the subcontract is funded under the Recovery
+Act.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e75" class="- topic/p ">
+                           <p id="d3629e90" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
                               <xref href="FAR-i52_203-19.dita#i52_203-19"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.203-19</xref>, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph>.</p>
+                                    class="- topic/xref ">52.203-19</xref>, Prohibition
+on Requiring Certain Internal Confidentiality Agreements or Statements <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph>.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e85" class="- topic/p ">
+                           <p id="d3629e100" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iv)</ph>
                               <xref href="FAR-id1669B0A0E67.dita#id1669B0A0E67"
                                     base="i1063607"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.204-21</xref>, Basic Safeguarding of Covered Contractor Information Systems <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2016)</ph>, other than subcontracts for commercially available off-the-shelf items, if flow down is required in accordance with paragraph (c) of FAR clause <xref href="FAR-id1669B0A0E67.dita#id1669B0A0E67"
+                                    class="- topic/xref ">52.204-21</xref>, Basic Safeguarding
+of Covered Contractor Information Systems <ph outputclass="SmCaps" class="- topic/ph ">(Jun
+2016)</ph>, other than subcontracts for commercially available off-the-shelf
+items, if flow down is required in accordance with paragraph (c)
+of FAR clause <xref href="FAR-id1669B0A0E67.dita#id1669B0A0E67"
                                     base="i1063607"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.204-21</xref>.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e98" class="- topic/p ">
+                           <p id="d3629e113" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(v)</ph>
                               <xref href="FAR-52.204-23.dita#id189A70O0P1N"
                                     base="id189A70O0P1N"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.204-23</xref>, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities <ph outputclass="SmCaps" class="- topic/ph ">(Jul 2018)</ph> (Section 1634 of Pub. L. 115-91).</p>
+                                    class="- topic/xref ">52.204-23</xref>, Prohibition
+on Contracting for Hardware, Software, and Services Developed or
+Provided by Kaspersky Lab and Other Covered Entities <ph outputclass="SmCaps" class="- topic/ph ">(Jul 2018)</ph> (Section 1634 of Pub.
+L. 115-91).</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e109" class="- topic/p ">
+                           <p id="d3629e123" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(vi)</ph>
                               <xref href="FAR-52.204-25.dita#id1989I600I4C"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.204-25</xref>, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2019)</ph> (Section 889(a)(1)(A) of Pub. L. 115-232).</p>
+                                    class="- topic/xref ">52.204-25</xref>, Prohibition
+on Contracting for Certain Telecommunications and Video Surveillance
+Services or Equipment. <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2019)</ph> (Section
+889(a)(1)(A) of Pub. L. 115-232).</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e117" class="- topic/p ">
+                           <p id="d3629e133" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(vii)</ph>
                               <xref href="FAR-i52_219-8.dita#i52_219-8"
                                     base="i1057444"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.219-8</xref>, Utilization of Small Business Concerns <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2018)</ph> (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637&amp;num=0&amp;edition=prelim"
+                                    class="- topic/xref ">52.219-8</xref>, Utilization
+of Small Business Concerns <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2018)</ph> (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637&amp;num=0&amp;edition=prelim"
                                     format="html"
                                     scope="external"
-                                    class="- topic/xref ">15 U.S.C.637</xref>(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include <xref href="FAR-i52_219-8.dita#i52_219-8"
+                                    class="- topic/xref ">15 U.S.C.637</xref>(d)(2)
+and (3)), if the subcontract offers further subcontracting opportunities.
+If the subcontract (except subcontracts to small business concerns) exceeds <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-007?>the applicable threshold specified
+in FAR <xref href="FAR-i1100224.dita#i1100224"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">19.702</xref>(a) on the date
+of subcontract award,<?FM MARKER [Why] d. Removing from paragraph (c)(1)(vii) “$700,000 ($1.5 million for construction of any public facility)” and adding “the applicable threshold specified in FAR 19.702(a) on the date of subcontract award” in its place; and?></ph> the subcontractor must include <xref href="FAR-i52_219-8.dita#i52_219-8"
                                     base="i1057444"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.219-8</xref> in lower tier subcontracts that offer subcontracting opportunities.</p>
+                                    class="- topic/xref ">52.219-8</xref> in lower tier
+subcontracts that offer subcontracting opportunities.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e136" class="- topic/p ">
+                           <p id="d3629e157" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(viii)</ph>
                               <xref href="FAR-i1055713.dita#i1055713"
                                     base="i1055713"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-21</xref>, <term class="- topic/term ">Prohibition</term>of Segregated Facilities <ph outputclass="SmCaps" class="- topic/ph ">(Apr 2015)</ph>.</p>
+                                    class="- topic/xref ">52.222-21</xref>, <term class="- topic/term ">Prohibition</term>of
+Segregated Facilities <ph outputclass="SmCaps" class="- topic/ph ">(Apr 2015)</ph>.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e150" class="- topic/p ">
+                           <p id="d3629e170" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ix)</ph>
                               <xref href="FAR-i1055793.dita#i1055793"
                                     base="i1055793"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-26</xref>, Equal Opportunity (<term class="- topic/term ">Sept</term> 2015) (E.O.11246).</p>
+                                    class="- topic/xref ">52.222-26</xref>, Equal Opportunity
+(<term class="- topic/term ">Sept</term> 2015) (E.O.11246).</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e163" class="- topic/p ">
+                           <p id="d3629e180" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(x)</ph>
-                              <xref href="FAR-i1056230.dita#i1056230"
-                                    base="i1056230"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-35</xref>, Equal Opportunity for Veterans <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2015)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">38 U.S.C.4212(a)</xref>);</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p id="d3638e179" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(xi)</ph>
-                              <xref href="FAR-i1056250.dita#i1056250"
-                                    base="i1056250"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-36</xref>, Equal Opportunity for Workers with Disabilities <ph outputclass="SmCaps" class="- topic/ph ">(Jul 2014)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">29 U.S.C.793</xref>).</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p id="d3638e196" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(xii)</ph>
-                              <xref href="FAR-i1056265.dita#i1056265"
-                                    base="i1056265"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-37</xref>, Employment Reports on Veterans <ph outputclass="SmCaps" class="- topic/ph ">(Feb 2016)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">38 U.S.C.4212)</xref>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1056230.dita#i1056230"
+                                       base="i1056230"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.222-35</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Equal Opportunity
+for Veterans <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">38 U.S.C.4212(a)</xref>);<?FM MARKER [Why] e. Revising paragraphs (c)(1)(x), (xi), and (xii).?></ph>
                            </p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e211" class="- topic/p ">
+                           <p id="d3629e197" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(xi)</ph>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1056250.dita#i1056250"
+                                       base="i1056250"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.222-36</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Equal Opportunity
+for Workers with Disabilities <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">29 U.S.C.793</xref>).<?FM MARKER [Why] e. Revising paragraphs (c)(1)(x), (xi), and (xii).?></ph>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3629e215" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(xii)</ph>
+                              <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">
+                                 <xref href="FAR-i1056265.dita#i1056265"
+                                       base="i1056265"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.222-37</xref>, <?FM MARKER [CaseNumber] FAR Case 2018-007?>Employment
+Reports on Veterans <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">38 U.S.C.4212)</xref>.<?FM MARKER [Why] e. Revising paragraphs (c)(1)(x), (xi), and (xii).?></ph>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3629e232" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(xiii)</ph>
                               <xref href="FAR-i1056304.dita#i1056304"
                                     base="i1056304"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-40</xref>, Notification of Employee Rights Under the National Labor Relations Act <ph outputclass="SmCaps" class="- topic/ph ">(Dec 2010)</ph> (E.O. 13496), if flow down is required in accordance with paragraph (f) of FAR clause <xref href="FAR-i1056304.dita#i1056304"
+                                    class="- topic/xref ">52.222-40</xref>, Notification
+of Employee Rights Under the National Labor Relations Act <ph outputclass="SmCaps" class="- topic/ph ">(Dec 2010)</ph> (E.O. 13496), if flow
+down is required in accordance with paragraph (f) of FAR clause <xref href="FAR-i1056304.dita#i1056304"
                                     base="i1056304"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.222-40</xref>.</p>
                         </li>
                         <li props="Runin" class="- topic/li ">
-                           <p id="d3638e227" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(xiv)</ph> 
+                           <p id="d3629e245" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(xiv)</ph>
                            </p>
                            <ol id="d3597e276" class="- topic/ol ">
                               <li class="- topic/li ">
-                                 <p id="d3638e232" class="- topic/p ">
+                                 <p id="d3629e250" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
                                     <xref href="FAR-i1056535.dita#i1056535"
                                           base="i1056535"
                                           outputclass="fm:ParaNumOnly"
-                                          class="- topic/xref ">52.222-50</xref>, Combating Trafficking in Persons <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2019)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                          class="- topic/xref ">52.222-50</xref>, Combating Trafficking
+in Persons <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2019)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                           format="html"
                                           scope="external"
-                                          class="- topic/xref ">22 U.S.C. chapter 78</xref> and E.O. 13627).</p>
+                                          class="- topic/xref ">22 U.S.C. chapter
+78</xref> and E.O. 13627).</p>
                               </li>
                               <li class="- topic/li ">
-                                 <p id="d3638e248" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Alternate I <ph outputclass="SmCaps" class="- topic/ph ">(Mar 2015)</ph> of <xref href="FAR-i1056535.dita#i1056535"
+                                 <p id="d3629e263" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Alternate
+I <ph outputclass="SmCaps" class="- topic/ph ">(Mar 2015)</ph> of <xref href="FAR-i1056535.dita#i1056535"
                                           base="i1056535"
                                           outputclass="fm:ParaNumOnly"
                                           class="- topic/xref ">52.222-50</xref>(<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                           format="html"
                                           scope="external"
-                                          class="- topic/xref ">22 U.S.C. chapter 78</xref> and E.O. 13627).</p>
+                                          class="- topic/xref ">22 U.S.C. chapter
+78</xref> and E.O. 13627).</p>
                               </li>
                            </ol>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e262" class="- topic/p ">
+                           <p id="d3629e277" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(xv)</ph>
                               <xref href="FAR-i1056818.dita#i1056818"
                                     base="i1056818"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-55</xref>, Minimum Wages under Executive Order 13658 <ph outputclass="SmCaps" class="- topic/ph ">(Dec 2015)</ph>, if flow down is required in accordance with paragraph (k) of FAR clause <xref href="FAR-i1056818.dita#i1056818"
+                                    class="- topic/xref ">52.222-55</xref>, Minimum Wages
+under Executive Order 13658 <ph outputclass="SmCaps" class="- topic/ph ">(Dec 2015)</ph>,
+if flow down is required in accordance with paragraph (k) of FAR
+clause <xref href="FAR-i1056818.dita#i1056818"
                                     base="i1056818"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.222-55</xref>.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e278" class="- topic/p ">
+                           <p id="d3629e290" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(xvi)</ph>
                               <xref href="FAR-i52_222_62.dita#i52_222_62"
                                     base="i1054921"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.222-62</xref>, Paid Sick Leave Under Executive Order 13706 <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph> (E.O. 13706), if flow down is required in accordance with paragraph (m) of FAR clause <xref href="FAR-i52_222_62.dita#i52_222_62"
+                                    class="- topic/xref ">52.222-62</xref>, Paid Sick Leave
+Under Executive Order 13706 <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph> (E.O.
+13706), if flow down is required in accordance with paragraph (m)
+of FAR clause <xref href="FAR-i52_222_62.dita#i52_222_62"
                                     base="i1054921"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.222-62</xref>.</p>
                         </li>
                         <li props="Runin" class="- topic/li ">
-                           <p id="d3638e294" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(xvii)</ph> 
+                           <p id="d3629e303" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(xvii)</ph>
                            </p>
                            <ol id="d3597e360" class="- topic/ol ">
                               <li class="- topic/li ">
-                                 <p id="d3638e299" class="- topic/p ">
+                                 <p id="d3629e308" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
                                     <xref href="FAR-i52_224_3.dita#i52_224_3"
                                           base="i1056535"
@@ -242,58 +317,70 @@
                                           class="- topic/xref ">52.224-3</xref>, Privacy Training <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph> (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&amp;num=0&amp;edition=prelim"
                                           format="html"
                                           scope="external"
-                                          class="- topic/xref ">5 U.S.C. 552a</xref>) if flow down is required in accordance with <xref href="FAR-i52_224_3.dita#i52_224_3"
+                                          class="- topic/xref ">5 U.S.C. 552a</xref>)
+if flow down is required in accordance with <xref href="FAR-i52_224_3.dita#i52_224_3"
                                           base="i1056535"
                                           outputclass="fm:ParaNumOnly"
                                           class="- topic/xref ">52.224-3</xref>(f).</p>
                               </li>
                               <li class="- topic/li ">
-                                 <p id="d3638e318" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Alternate I <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph> of <xref href="FAR-i52_224_3.dita#i52_224_3"
+                                 <p id="d3629e324" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Alternate
+I <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph> of <xref href="FAR-i52_224_3.dita#i52_224_3"
                                           base="i1056535"
                                           outputclass="fm:ParaNumOnly"
-                                          class="- topic/xref ">52.224-3</xref>, if flow down is required in accordance with <xref href="FAR-i52_224_3.dita#i52_224_3"
+                                          class="- topic/xref ">52.224-3</xref>, if flow down
+is required in accordance with <xref href="FAR-i52_224_3.dita#i52_224_3"
                                           base="i1056535"
                                           outputclass="fm:ParaNumOnly"
-                                          class="- topic/xref ">52.224-3</xref>(f) and the agency specifies that only its agency-provided training is acceptable).</p>
+                                          class="- topic/xref ">52.224-3</xref>(f) and the agency specifies
+that only its agency-provided training is acceptable).</p>
                               </li>
                            </ol>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e332" class="- topic/p ">
+                           <p id="d3629e338" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(xviii)</ph>
                               <xref href="FAR-i1054921.dita#i1054921"
                                     base="i1054921"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.225-26</xref>, Contractors Performing Private Security Functions Outside the United States <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2016)</ph> (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                    class="- topic/xref ">52.225-26</xref>, Contractors
+Performing Private Security Functions Outside the United States <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2016)</ph> (Section 862, as amended,
+of the National Defense Authorization Act for Fiscal Year 2008; <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                     format="html"
                                     scope="external"
                                     class="- topic/xref ">10 U.S.C. 2302 Note)</xref>.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e348" class="- topic/p ">
+                           <p id="d3629e351" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(xix)</ph>
                               <xref href="FAR-i1050853.dita#i1050853"
                                     base="i1050853"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.232-40</xref>, Providing Accelerated Payments to Small Business Subcontractors <ph outputclass="SmCaps" class="- topic/ph ">(Dec 2013)</ph>, if flow down is required in accordance with paragraph (c) of FAR clause <xref href="FAR-i1050853.dita#i1050853"
+                                    class="- topic/xref ">52.232-40</xref>, Providing Accelerated
+Payments to Small Business Subcontractors <ph outputclass="SmCaps" class="- topic/ph ">(Dec
+2013)</ph>, if flow down is required in accordance with paragraph
+(c) of FAR clause <xref href="FAR-i1050853.dita#i1050853"
                                     base="i1050853"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.232-40</xref>.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3638e364" class="- topic/p ">
+                           <p id="d3629e364" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(xx)</ph>
                               <xref href="FAR-i1046560.dita#i1046560"
                                     base="i1046560"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.247-64</xref>, Preference for Privately Owned U.S.-Flag Commercial Vessels <ph outputclass="SmCaps" class="- topic/ph ">(Feb 2006)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                    class="- topic/xref ">52.247-64</xref>, Preference
+for Privately Owned U.S.-Flag Commercial Vessels <ph outputclass="SmCaps" class="- topic/ph ">(Feb 2006)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                     format="html"
                                     scope="external"
                                     class="- topic/xref ">46 U.S.C. App.1241</xref> and <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                     format="html"
                                     scope="external"
-                                    class="- topic/xref ">10 U.S.C.2631</xref>), if flow down is required in accordance with paragraph (d) of FAR clause <xref href="FAR-i1046560.dita#i1046560"
+                                    class="- topic/xref ">10 U.S.C.2631</xref>),
+if flow down is required in accordance with paragraph (d) of FAR
+clause <xref href="FAR-i1046560.dita#i1046560"
                                     base="i1046560"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.247-64</xref>).</p>
@@ -301,14 +388,19 @@
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d3638e387" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>While not required, the Contractor may flow down to subcontracts for commercial items a minimal number of additional clauses necessary to satisfy its contractual obligations.</p>
+                     <p id="d3629e383" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>While not
+required, the Contractor may flow down to subcontracts for commercial
+items a minimal number of additional clauses necessary to satisfy
+its contractual obligations.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d3638e392" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>The Contractor shall include the terms of this clause, including this paragraph (d), in subcontracts awarded under this contract.</p>
+               <p id="d3629e388" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>The Contractor
+shall include the terms of this clause, including this paragraph
+(d), in subcontracts awarded under this contract.</p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>

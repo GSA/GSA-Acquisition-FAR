@@ -2,49 +2,78 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1063244"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.202-1</ph> Definitions.</title>
-      <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p id="d3058e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+         <p id="d3047e8" class="- topic/p ">As prescribed
+in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="FAR-i1125324.dita#i1125324"
                      base="i1125324"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">2.201</xref>
-            </ph>, insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Definitions <ph outputclass="SmCaps" class="- topic/ph ">(Nov 2013)</ph>
+            </ph>, insert the
+following clause:</p>
+         <p id="d3047e14" outputclass="Ctr_SmCaps" class="- topic/p "><?FM MARKER [CaseNumber] FAR Case 2018-007?>
+            <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">Definitions (Jun 2020)<?FM MARKER [Why] Amend section 52.202-1 by—
+a. Revising the date of the clause;?></ph>
          </p>
-         <p class="- topic/p ">When a solicitation provision or contract clause uses a word or term that is defined in the Federal Acquisition Regulation (FAR), the word or term has the same meaning as the definition in FAR <xref href="FAR-i1125359.dita#i1125359"
+         <p class="- topic/p ">When a solicitation provision or contract clause uses a word
+or term that is defined in the Federal Acquisition Regulation (FAR),
+the word or term has the same meaning as the definition in FAR <xref href="FAR-i1125359.dita#i1125359"
                   base="i1125359"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">2.101</xref> in effect at the time the solicitation was issued, unless-</p>
+                  class="- topic/xref ">2.101</xref> in effect at the
+time the solicitation was issued, unless-</p>
          <ol id="d3024e31" class="- topic/ol ">
             <li class="- topic/li ">
-               <p id="d3058e23" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The solicitation, or amended solicitation, provides a different definition;</p>
+               <p id="d3047e27" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The
+solicitation, or amended solicitation, provides a different definition;</p>
             </li>
             <li class="- topic/li ">
-               <p id="d3058e28" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The contracting parties agree to a different definition;</p>
+               <p id="d3047e32" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The contracting
+parties agree to a different definition;</p>
             </li>
             <li class="- topic/li ">
-               <p id="d3058e33" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>The part, subpart, or section of the FAR where the provision or clause is prescribed provides a different meaning; or</p>
+               <p id="d3047e37" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>The part,
+subpart, or section of the FAR where the provision or clause is
+prescribed provides a different meaning; <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-007?> <?FM MARKER [Why] b. Removing the word “or” at the end of paragraph (c);?></ph>
+               </p>
             </li>
             <li class="- topic/li ">
-               <p id="d3058e38" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>The word or term is defined in FAR <xref href="FAR-i1086363.dita#i1086363"
-                        base="i1086363"
-                        outputclass="fm:Part"
-                        class="- topic/xref ">part  31</xref>, for use in the cost principles and procedures.</p>
+               <p id="d3047e46" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>The word
+or term is defined in <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-007?>FAR <xref href="FAR-i1086363.dita#i1086363"
+                           base="i1086363"
+                           outputclass="fm:Part"
+                           class="- topic/xref ">part  31</xref>,<?FM MARKER [Why] c. Removing from paragraph (d) “FAR Part” and “procedures.” and adding “FAR part” and “procedures; or” in their places, respectively; and?></ph> for use
+in the cost principles and <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph ">procedures;
+or</ph>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3047e61" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-007?>The word or term defines an
+acquisition-related threshold, and if the threshold is adjusted
+for inflation as set forth in FAR <xref href="FAR-id1617MD00FX5.dita#id1617MD00FX5"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">1.109</xref>(a), then the changed
+threshold applies throughout the remaining term of the contract,
+unless there is a subsequent threshold adjustment; see FAR <xref href="FAR-id1617MD00FX5.dita#id1617MD00FX5"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">1.109</xref>(d).<?FM MARKER [Why] d. Adding paragraph (e).?></ph>
+               </p>
             </li>
          </ol>
-         <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

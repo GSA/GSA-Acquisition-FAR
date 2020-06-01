@@ -2,35 +2,30 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1097526"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">22.610</ph> Contract clause.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p id="d1374e8" class="- topic/p ">The contracting officer shall insert the clause at 
-               <xref href="FAR-i1055699.dita#i1055699"
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d1374e8" class="- topic/p ">The contracting officer shall insert
+the clause at <xref href="FAR-i1055699.dita#i1055699"
                   base="i1055699"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">52.222-20</xref>
-            , Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000, in solicitations and contracts covered by the statute (see 
-               <xref href="FAR-i1097474.dita#i1097474"
+                  class="- topic/xref ">52.222-20</xref>,
+Contracts for Materials, Supplies, Articles, and <ph rev="FAC 2020-06 June 5, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-007?>Equipment,<?FM MARKER [Why] Amend section 22.610 by removing “Exceeding $15,000”.?></ph> in solicitations
+and contracts covered by the statute (see <xref href="FAR-i1097474.dita#i1097474"
                   base="i1097474"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">22.603</xref>
-            , 
-               <xref href="FAR-i1097486.dita#i1097486"
+                  class="- topic/xref ">22.603</xref>, <xref href="FAR-i1097486.dita#i1097486"
                   base="i1097486"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">22.604</xref>
-            , and 
-               <xref href="FAR-i1097511.dita#i1097511"
+                  class="- topic/xref ">22.604</xref>, and <xref href="FAR-i1097511.dita#i1097511"
                   base="i1097511"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">22.605</xref>
-            ).</p>
+                  class="- topic/xref ">22.605</xref>).</p>
       </conbody>
    </concept>
 </dita>
