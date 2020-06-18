@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="id203KG070CVU"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -21,6 +20,8 @@
             <li class="- topic/li ">
                <p id="d3296e19" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   <i class="+ topic/ph hi-d/i ">Applicability.</i> This clause applies only to contracts that were reserved for any of the small business concerns identified at <xref href="FAR-i1101771.dita#i1101771"
                         base="i1101771"
                         outputclass="fm:ParaNumOnly"
@@ -28,7 +29,9 @@
             </li>
             <li class="- topic/li ">
                <p id="d3296e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> If there is only one contract award to any one type of small business concern identified in <xref href="FAR-i1101771.dita#i1101771"
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                   If there is only one contract award to any one type of small business concern identified in <xref href="FAR-i1101771.dita#i1101771"
                         base="i1101771"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">19.000</xref>(a)(3) as a result of the reserve, the Contracting Officer may issue an order or orders directly to the concern.</p>

@@ -6,8 +6,7 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1052648"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.227-15</ph> Representation of Limited Rights Data and Restricted Computer Software.</title>
       <conbody outputclass="provision" class="- topic/body  concept/conbody ">
@@ -21,7 +20,9 @@
          <ol id="d3408e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3439e21" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> This solicitation sets forth the Government’s known delivery requirements for data (as defined in the clause at <xref href="FAR-i1052520.dita#i1052520"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                   This solicitation sets forth the Government’s known delivery requirements for data (as defined in the clause at <xref href="FAR-i1052520.dita#i1052520"
                         base="i1052520"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.227-14</xref>, Rights in Data-General). Any resulting contract may also provide the Government the option to order additional data under the Additional Data Requirements clause at <xref href="FAR-i1052670.dita#i1052670"
@@ -34,7 +35,9 @@
             </li>
             <li class="- topic/li ">
                <p id="d3439e35" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> By completing the remainder of this paragraph, the offeror represents that it has reviewed the requirements for the delivery of technical data or computer software and states [<i class="+ topic/ph hi-d/i ">offeror check appropriate block</i>]-</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                   By completing the remainder of this paragraph, the offeror represents that it has reviewed the requirements for the delivery of technical data or computer software and states [<i class="+ topic/ph hi-d/i ">offeror check appropriate block</i>]-</p>
                <p id="d3439e42" class="- topic/p ">
                   <cite outputclass="Checkbox"
                         xtrc="52.227-15_d45e41"
@@ -49,7 +52,9 @@
             </li>
             <li class="- topic/li ">
                <p id="d3439e57" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Any identification of limited rights data or restricted computer software in the offeror’s response is not determinative of the status of the data should a contract be awarded to the offeror.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                   Any identification of limited rights data or restricted computer software in the offeror’s response is not determinative of the status of the data should a contract be awarded to the offeror.</p>
             </li>
          </ol>
          <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>

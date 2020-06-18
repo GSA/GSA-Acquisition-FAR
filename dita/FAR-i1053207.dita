@@ -6,8 +6,7 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i1053207"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.223-13</ph> Acquisition of EPEAT®–Registered Imaging Equipment.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -21,7 +20,9 @@
          <ol id="d3345e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3376e21" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Definitions. As used in this clause-</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  Definitions. As used in this clause-</p>
                <p id="d3376e25" class="- topic/p ">
                   <i outputclass="Term"
                      xtrf="_52.223-13"
@@ -60,11 +61,15 @@
             </li>
             <li class="- topic/li ">
                <p id="d3376e66" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Under this contract, the Contractor shall deliver, furnish for Government use, or furnish for Contractor use at a Federally controlled facility, only imaging equipment that, at the time of submission of proposals and at the time of award, was EPEAT® bronze-registered or higher.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  Under this contract, the Contractor shall deliver, furnish for Government use, or furnish for Contractor use at a Federally controlled facility, only imaging equipment that, at the time of submission of proposals and at the time of award, was EPEAT® bronze-registered or higher.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3376e71" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>For information about EPEAT®, see <xref href="http://www.epa.gov/epeat/"
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  For information about EPEAT®, see <xref href="http://www.epa.gov/epeat/"
                         scope="external"
                         class="- topic/xref ">www.epa.gov/epeat/</xref>.</p>
             </li>
