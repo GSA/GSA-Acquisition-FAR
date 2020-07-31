@@ -5,16 +5,17 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1126974"
             props="2Col"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">1.106</ph> OMB approval under the
 Paperwork Reduction Act.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p id="d22e8" class="- topic/p ">The Paperwork Reduction Act of1980 ( <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+         <p id="d22e8" class="- topic/p ">The Paperwork Reduction Act of1980 (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                   format="html"
                   scope="external"
-                  class="- topic/xref ">44 U.S.C. chapter 35</xref> )
+                  class="- topic/xref ">44 U.S.C. chapter 35</xref>)
 imposes a requirement on Federal agencies to obtain approval from
 the Office of Management and Budget (OMB) before collecting information
 from 10 or more members of the public. The information collection
@@ -511,18 +512,6 @@ and 9000-0007</entry>
                      <entry colname="2" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">9000-0066</p>
                      </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1"
-                            align="left"
-                            outputclass="CellBody_Left"
-                            class="- topic/entry ">
-                        <p id="d22e259" class="- topic/p ">
-                             
-                           
-                        </p>
-                     </entry>
-                     <entry colname="2" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1"
@@ -2160,18 +2149,6 @@ and 9000-0007</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">
-                        <p id="d22e1110" class="- topic/p ">
-                             
-                           
-                        </p>
-                     </entry>
-                     <entry colname="2" class="- topic/entry "/>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1"
-                            align="left"
-                            outputclass="CellBody_Left"
-                            class="- topic/entry ">
                         <xref href="FAR-i1055635.dita#i1055635"
                               base="i1055635"
                               outputclass="fm:ParaNumOnly"
@@ -3053,9 +3030,7 @@ and 1250-0008</entry>
                               class="- topic/xref ">52.229-11</xref>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p id="d22e1569" outputclass="Ctr" class="- topic/p ">
-                           1545-2263
-                        </p>
+                        <p id="d22e1569" outputclass="Ctr" class="- topic/p ">1545-2263</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -3068,9 +3043,7 @@ and 1250-0008</entry>
                               class="- topic/xref ">52.229-12</xref>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p id="d22e1579" outputclass="Ctr" class="- topic/p ">
-                           1545-2263
-                        </p>
+                        <p id="d22e1579" outputclass="Ctr" class="- topic/p ">1545-2263</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -4809,6 +4782,23 @@ and 1250-0008</entry>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">9000-0089</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1"
+                            align="left"
+                            outputclass="CellBody_Left"
+                            class="- topic/entry ">
+                        <xref href="https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">DD Form 254</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p id="id207DC0TH05Z"
+                           rev="FAC 2020-07 August 3, 2020"
+                           outputclass="Ctr"
+                           class="- topic/p "><?FM MARKER [CaseNumber] FAR Case 2015-002?>0706-0567<?FM MARKER [Why] In section 1.106 amend the table following by adding an entry for “DD Form 254” at the end of the table.?></p>
                      </entry>
                   </row>
                </tbody>
