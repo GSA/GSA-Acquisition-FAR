@@ -1,0 +1,360 @@
+/* ====================================================
+ * Base CSS for GSA HTML output
+ * ====================================================
+ */
+ 
+ body 
+ {
+   font-family: 'Times New Roman', serif;
+ }
+ 
+ h1.Subpart
+ {
+   text-align: center;
+   margin-bottom: 2em;
+ }
+ 
+ ul, ol, sl
+ {
+   list-style: none;
+   display: inline;
+   -webkit-padding-start: 0px;
+   padding-left: 0px;
+ }
+
+ p
+ {
+   text-indent: 1em;
+ }
+ 
+/* 
+ * Table styles
+ */
+  
+table.Landscape
+{
+  font-size: 8pt;
+}
+  
+ td, 
+ th
+ {
+   padding: 1em;
+ }
+
+ table.Landscape td, 
+ table.Landscape th
+ {
+   padding: 4px;
+ }
+
+ td[class *= 'Ind1']
+ {
+   padding-left: 2em;
+ }
+
+ 
+ /* 
+CellBody_Decimal
+CellBody_Hanging_FL
+  */
+ 
+ td > p,
+ th > p
+ {
+   text-indent: 0em;
+ }
+ 
+ 
+
+ /* Runin list items 
+  * 
+  * The li elements do indenting so that runin paragraphs
+  * and list items can be flowed together.
+  */
+ 
+ li
+ {
+   list-style-type: none;
+   margin-left: 1em;
+   text-indent: 1em;
+ }
+ 
+ p[class *= 'Runin'],
+ p[class *= 'Runin'] + ol,
+ p[class *= 'Runin'] + ol > li:nth-child(1),
+ p[class *= 'Runin'] + ol > li:nth-child(1) > p
+ {
+   display: inline;
+ }
+ 
+ span.autonumber:after
+ {
+   content: '\00a0'; /* non-breaking space */
+ }
+ 
+ /* Formatting @outputclass values */
+
+.BlankLeft:before 
+{
+  content: '_______________';
+}
+
+*[class *= 'LightBlueText']
+{
+color: #4863A0;
+}	
+
+*[class *= 'Right']
+{
+  text-align: right;
+}
+ 
+*[class *= 'Ctr']
+{
+  text-align: center;
+}
+ 
+p[class *= 'SmallCaps'],
+p[class *= 'SmCaps']
+{
+  font-variant: small-caps;
+}
+
+ph[class *= 'SmallCaps']
+{
+  font-variant: small-caps;
+}
+
+/* Text Lists  */
+
+p[class *= 'List1']
+{
+     text-indent: .25in;
+}
+
+p[class *= 'List2']
+{
+     text-indent: .5in;
+}
+
+p[class *= 'List3']
+{
+     text-indent: .75in;
+}
+
+p[class *= 'List4']
+{
+     text-indent: 1in;
+}
+
+span[class *= 'SmallCaps'],
+span[class *= 'SmCaps']
+{
+  font-variant: small-caps;
+}
+
+*[class *= 'NoIndent'],
+*[class *= '_FL']
+{
+  text-indent: 0em;
+}
+
+.Asterisks:after
+{
+  display: block;
+  content: '* * * * * *';
+  letter-spacing: 1em;
+  text-align: center;
+}
+
+.BlockIndent
+{
+  margin-left: 2em;
+}
+ 
+.Endofclause
+{
+
+  text-align: center;
+}
+
+.Endofprovision
+{
+  text-align: center;
+}
+
+*[class *= '8pt']
+{
+  font-size: 8pt;
+}
+
+*[class *= '9pt']
+{
+  font-size: 9pt;
+}
+
+*[class *= 'talic'] /* Match Italic and italic */
+{
+  font-style: italic;
+}
+
+p[class *= 'Checkbox']:before,
+p[class *= 'Bulleted']:before
+
+{
+  content: '\25A1\00A0';
+  font-size: 18pt;
+}
+
+p[class *= 'Underline']:before
+{
+  content: '__';
+}
+
+*[class *= 'Roman']
+{
+  font-style: normal;
+}
+
+*[class *= 'Justified']
+{
+  text-align: justify;
+}
+  
+/* 
+Body_Alternate_Body
+Body_Alternate_Ctr
+Body_Alternate_CtrSmallCaps
+Body_Alternate_List1
+Body_Alternate_List2
+Body_Alternate_List3
+Body_Alternate_List4
+Body_Alternate_NoIndent
+Body_FL
+H5Text
+Matrix_Alternate
+Matrix_Ctr
+Matrix_Hanging
+Matrix_Key
+Matrix_KeyHead1
+Matrix_SmCaps_Ctr_Bold
+Matrix_SmCaps_FL_Bold
+  */
+ 
+ /* ===============
+  * GSAM-specific
+  * =============== 
+  */
+ /*  
+*[class *= 'Grey']
+{
+  background-color: #E5E5E5;
+}
+ */
+
+h1[class *= 'GSAR']
+{
+  background-color: #E5E5E5;
+}
+
+h2[class *= 'GSAR']
+{
+  background-color: #E5E5E5;
+}
+
+h3[class *= 'GSAR']
+{
+  background-color: #E5E5E5;
+}
+
+h4[class *= 'GSAR']
+{
+  background-color: #E5E5E5;
+}
+
+h4[class *= 'GSAR']
+{
+  background-color: #E5E5E5;
+}
+
+h5[class *= 'GSAR']
+{
+  background-color: #E5E5E5;
+}
+
+h6[class *= 'GSAR']
+{
+  background-color: #E5E5E5;
+}
+
+h7[class *= 'GSAR']
+{
+  background-color: #E5E5E5;
+}
+
+p[class *= 'GSAR']
+{
+  background-color: #E5E5E5;
+}
+
+entry[class *= 'GSAR']
+{
+  background-color: #E5E5E5;
+}
+
+note[class *= 'DODdeviation']
+{
+  background-color: #00FFFF;
+}
+
+p[class *= 'DODdeviation']
+{
+  background-color: #00FFFF;
+}
+
+
+/*
+*[class *= 'Fac']
+{
+  border-right: solid medium green;
+  padding-right:0.3em;
+}
+ */
+
+/* fix for runin */
+li[class*= 'Runin'] > p{
+    margin-top: 0;
+    float:left;
+    margin-bottom: 0px;
+}
+[class *= 'Underline']:before
+{
+    content: '__';
+    float:left;
+}
+
+[class *= 'Box']:before
+{
+    content: '☐';
+    float:left;
+}
+
+
+[class *= 'CheckedBox']:before
+{
+    content: '☑';
+    float:left;
+}
+
+[class *= 'CheckMark']:before
+{
+    content: '✓';
+    float:left;
+}
+
+input[type=checkbox], input[type=radio] {
+float: left;
+}
+
+
