@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1061923"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -17,23 +18,22 @@ in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">13.302-5</xref>(d)</ph>, insert
 the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Terms
+         <p rev="FAC 2020-08 August 13, 2020"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p "><?FM MARKER [CaseNumber] FAR Case 2019-009?>Terms
 and Conditions-Simplified Acquisitions (Other Than Commercial Items)
-(Jun 2020)</p>
+(Aug 2020)<?FM MARKER [Why] Amend section 52.213-4 by—
+a. Revising the date of the clause;?></p>
          <ol id="d3132e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3159e19" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  The
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The
 Contractor shall comply with the following Federal Acquisition Regulation
 (FAR) clauses that are incorporated by reference:</p>
                <ol id="d3132e35" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3159e25" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        The clauses
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The clauses
 listed below implement provisions of law or Executive order:</p>
                      <ol id="d3132e45" class="- topic/ol ">
                         <li class="- topic/li ">
@@ -64,8 +64,8 @@ L. 115-91).</p>
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.204-25</xref>, Prohibition
 on Contracting for Certain Telecommunications and Video Surveillance
-Services or Equipment. <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2019)</ph> (Section
-889(a)(1)(A) of Pub. L. 115-232).</p>
+Services or Equipment. <ph rev="FAC 2020-08 August 13, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-009?>(<ph outputclass="SmCaps" class="- topic/ph ">Aug</ph> 2020)<?FM MARKER [Why] b. Removing from paragraph (a)(1)(iii) “AUG 2019” and adding “AUG 2020” in its place; and?></ph> (Section 889(a)(1)(A)
+of Pub. L. 115-232).</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3159e61" class="- topic/p ">
@@ -133,9 +133,7 @@ for Breach of Contract Claim <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2
                   </li>
                   <li class="- topic/li ">
                      <p id="d3159e124" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        Listed
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Listed
 below are additional clauses that apply:</p>
                      <ol id="d3132e172" class="- topic/ol ">
                         <li class="- topic/li ">
@@ -169,9 +167,7 @@ Prompt Payment <ph outputclass="SmCaps" class="- topic/ph ">(Feb 2002)</ph>.</p>
                               <xref href="FAR-i1050125.dita#i1050125"
                                     base="i1050125"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.232-25</xref>, Prompt Payment <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph> 
-                              .
-                           </p>
+                                    class="- topic/xref ">52.232-25</xref>, Prompt Payment <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph> .</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3159e170" class="- topic/p ">
@@ -208,7 +204,7 @@ Payments to Small Business Subcontractors <ph outputclass="SmCaps" class="- topi
                                     base="i1048410"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.244-6</xref>, Subcontracts
-for Commercial Items <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph>.
+for Commercial Items <ph rev="FAC 2020-08 August 13, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-009?>(<ph outputclass="SmCaps" class="- topic/ph ">Aug</ph> 2020).<?FM MARKER [Why] c. Removing from paragraph (a)(2)(viii) “JUN 2020” and adding “AUG 2020” in its place.?></ph>
                            </p>
                         </li>
                         <li class="- topic/li ">
@@ -226,17 +222,13 @@ Forms <ph outputclass="SmCaps" class="- topic/ph ">(Jan 1991)</ph>.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3159e219" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  The Contractor
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The Contractor
 shall comply with the following FAR clauses, incorporated by reference,
 unless the circumstances do not apply:</p>
                <ol id="d3132e319" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3159e225" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        The clauses
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The clauses
 listed below implement provisions of law or Executive order:</p>
                      <ol id="d3132e329" class="- topic/ol ">
                         <li class="- topic/li ">
@@ -254,8 +246,7 @@ Compensation and First-Tier Subcontract Awards <ph outputclass="SmCaps" class="-
 in FAR <xref href="FAR-i1121777.dita#i1121777"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">4.1403</xref>(a) on the date
-of award of this contract).
-                           </p>
+of award of this contract).</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3159e247" class="- topic/p ">
@@ -270,8 +261,7 @@ threshold, as defined in FAR <xref href="FAR-i1125359.dita#i1125359"
                                     base="i1125359"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">2.101</xref> on
-the date of award of this contract).
-                           </p>
+the date of award of this contract).</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3159e260" class="- topic/p ">
@@ -280,19 +270,17 @@ the date of award of this contract).
                                     base="i1055699"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">for Materials, Supplies,
-Articles, and Equipment.</xref>, Contracts for
-Materials, Supplies, Articles, and Equipment <ph outputclass="SmCaps" class="- topic/ph ">(Jun
-2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+Articles, and Equipment.</xref>, Contracts for Materials, Supplies,
+Articles, and Equipment <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                     format="html"
                                     scope="external"
-                                    class="- topic/xref ">41 U.S.C.chapter 65</xref>) (Applies
-to supply contracts over the threshold specified in FAR <xref href="FAR-i1097467.dita#i1097467"
+                                    class="- topic/xref ">41 U.S.C.chapter 65</xref>)
+(Applies to supply contracts over the threshold specified in FAR <xref href="FAR-i1097467.dita#i1097467"
                                     base="i1097467"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">22.602</xref> on the date of
 award of this contract, in the United States, Puerto Rico, or the
-U.S. Virgin Islands).
-                           </p>
+U.S. Virgin Islands).</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3159e276" class="- topic/p ">
@@ -308,8 +296,7 @@ for Veterans <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph> (<xref
 to contracts valued at or above the threshold specified in FAR <xref href="FAR-id1617MD05061.dita#id1617MD05061"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">22.1303</xref>(a) on the date
-of award of this contract).
-                           </p>
+of award of this contract).</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3159e292" class="- topic/p ">
@@ -346,8 +333,7 @@ Reports on Veterans <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph>
 to contracts valued at or above the threshold specified in FAR <xref href="FAR-id1617MD05061.dita#id1617MD05061"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">22.1303</xref>(a) on the date
-of award of this contract).
-                           </p>
+of award of this contract).</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3159e324" class="- topic/p ">
@@ -386,9 +372,7 @@ E.O 13627) (Applies to all solicitations and contracts).</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3159e355" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    Alternate
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> Alternate
 I <ph outputclass="SmCaps" class="- topic/ph ">(Mar 2015)</ph> (Applies if the Contracting
 Officer has filled in the following information with regard to applicable
 directives or notices: Document title(s), source for obtaining document(s),
@@ -487,30 +471,22 @@ or Federal Energy Management Program (FEMP)) will be-</p>
                            <ol id="d3132e608" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3159e446" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    Delivered;</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> Delivered;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3159e451" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    Acquired
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> Acquired
 by the Contractor for use in performing services at a Federally-controlled
 facility;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3159e456" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                    
-                                    Furnished
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph> Furnished
 by the Contractor for use by the Government; or</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3159e461" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>
-                                    
-                                    Specified
+                                    <ph props="autonumber" class="- topic/ph ">(D)</ph> Specified
 in the design of a building or work, or incorporated during its
 construction, renovation, or maintenance).</p>
                               </li>
@@ -552,24 +528,21 @@ or facilities.</p>
 (Applies to contracts for supplies, and to contracts for services
 involving the furnishing of supplies, for use in the United States
 or its outlying areas, if the value of the supply contract or supply
-portion of a service contract exceeds the micro-purchase threshold, as defined in FAR <xref href="FAR-i1125359.dita#i1125359"
+portion of a service contract exceeds the micro-purchase threshold, as
+defined in FAR <xref href="FAR-i1125359.dita#i1125359"
                                     base="i1125359"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">2.101</xref> on the date of award
-of this contract, and the acquisition-</p>
+                                    class="- topic/xref ">2.101</xref> on
+the date of award of this contract, and the acquisition-</p>
                            <ol id="d3132e689" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3159e503" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    Is set
-aside for small business concerns; or</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> Is
+set aside for small business concerns; or</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d3159e508" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    Cannot
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> Cannot
 be set aside for small business concerns (see <xref href="FAR-i1100762.dita#i1100762"
                                           base="i1100762"
                                           outputclass="fm:ParaNumOnly"
@@ -585,9 +558,8 @@ exceed $25,000).</p>
                                     base="i1055065"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">Excess Food Donation
-to Nonprofit Organizations.</xref>, Promoting Excess
-Food Donation to Nonprofit Organizations <ph outputclass="SmCaps" class="- topic/ph ">(Jun
-2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+to Nonprofit Organizations.</xref>, Promoting Excess Food Donation
+to Nonprofit Organizations <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                     format="html"
                                     scope="external"
                                     class="- topic/xref ">42 U.S.C. 1792</xref>) (Applies
@@ -596,8 +568,7 @@ to contracts greater than the threshold specified in FAR <xref href="FAR-i109049
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">26.404</xref> on the date of
 award of this contract, that provide for the provision, the service,
-or the sale of food in the United States).
-                           </p>
+or the sale of food in the United States).</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3159e532" class="- topic/p ">
@@ -643,9 +614,7 @@ subcontracts listed at <xref href="FAR-i1069858.dita#i1069858"
                   </li>
                   <li class="- topic/li ">
                      <p id="d3159e568" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        Listed
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Listed
 below are additional clauses that may apply:</p>
                      <ol id="d3132e794" class="- topic/ol ">
                         <li class="- topic/li ">
@@ -674,8 +643,7 @@ FAR <xref href="FAR-i1115270.dita#i1115270"
                                     base="i1115270"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">9.405-2</xref>(b) on the date
-of award of this contract).
-                           </p>
+of award of this contract).</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3159e597" class="- topic/p ">
@@ -751,17 +719,13 @@ its postacceptance rights-</p>
                <ol id="d3132e916" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3159e657" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        Within a reasonable
-period of time after the defect was discovered or should have been
-discovered; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Within a
+reasonable period of time after the defect was discovered or should
+have been discovered; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3159e662" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        Before
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Before
 any substantial change occurs in the condition of the item, unless
 the change is due to the defect in the item.</p>
                   </li>

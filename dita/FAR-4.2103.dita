@@ -2,9 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="id1989G0W90SA"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,8 +14,7 @@
             <li class="- topic/li ">
                <p id="d324e10" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">
-                     Representations.</i>
+                  <i class="+ topic/ph hi-d/i ">Representations.</i>
                </p>
                <ol class="- topic/ol ">
                   <li props="Runin" class="- topic/li ">
@@ -25,25 +24,26 @@
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d324e22" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              If the offeror selects “does not” in response to the provision at <xref href="FAR-52.204-26.dita#id19CAC0P0ESS"
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> If the offeror
+selects “does not” in response to the provision at <xref href="FAR-52.204-26.dita#id19CAC0P0ESS"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.204-26</xref> or <xref href="FAR-i1060550.dita#i1060550"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.212-3</xref>(v), the contracting officer may rely on the representation, unless the contracting officer has reason to question the representation. If the contracting officer has a reason to question the representation, the contracting officer shall follow agency procedures.</p>
+                                    class="- topic/xref ">52.212-3</xref>(v),
+the contracting officer may rely on the representation, unless the
+contracting officer has reason to question the representation. If the
+contracting officer has a reason to question the representation,
+the contracting officer shall follow agency procedures.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d324e33" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              If the offeror selects “does” in response to the provision at <xref href="FAR-52.204-26.dita#id19CAC0P0ESS"
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> If the
+offeror selects “does” in response to the provision at <xref href="FAR-52.204-26.dita#id19CAC0P0ESS"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.204-26</xref> or <xref href="FAR-i1060550.dita#i1060550"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.212-3</xref>(v), the offeror must complete the representation at <xref href="FAR-52.204-24.dita#id1989I600I4C"
+                                    class="- topic/xref ">52.212-3</xref>(v),
+the offeror must complete the representation at <xref href="FAR-52.204-24.dita#id1989I600I4C"
                                     base="id1989I600I4C"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.204-24</xref>.</p>
@@ -58,37 +58,68 @@
                         <li class="- topic/li ">
                            <p id="d324e52" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              If the offeror selects “will not” in paragraph (d) of the provision at <xref href="FAR-52.204-24.dita#id1989I600I4C"
-                                    base="id1989I600I4C"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.204-24</xref>, the contracting officer may rely on the representation, unless the contracting officer has reason to question the representation. If the contracting officer has a reason to question the representation, the contracting officer shall follow agency procedures.</p>
+                              <ph rev="FAC 2020-08 August 13, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-009?>If the offeror selects “will
+not” in paragraph (d)(1) of the provision at <xref href="FAR-52.204-24.dita#id1989I600I4C"
+                                       base="id1989I600I4C"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.204-24</xref> or “does not”
+in paragraph (d)(2) of the provision at <xref href="FAR-52.204-24.dita#id1989I600I4C"
+                                       base="id1989I600I4C"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.204-24</xref>, the contracting
+officer may rely on the representations, unless the contracting officer
+has reason to question the representations. If the contracting officer
+has a reason to question the representations, the contracting officer
+shall follow agency procedures.<?FM MARKER [Why] Amend section 4.2103 by revising paragraph (a)(2).?></ph>
+                           </p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d324e60" class="- topic/p ">
+                           <p id="d324e66" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              If an offeror selects “will” in paragraph (d) of the provision at <xref href="FAR-52.204-24.dita#id1989I600I4C"
-                                    base="id1989I600I4C"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.204-24</xref>, the offeror must provide the information required by paragraph <xref href="FAR-52.204-24.dita#id1989I600I4C"
-                                    base="id1989I600I4C"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.204-24</xref>(e), and the contracting officer shall follow agency procedures.</p>
+                              <ph rev="FAC 2020-08 August 13, 2020" class="- topic/ph ">If an offeror selects “will”
+in paragraph (d)(1) of the provision at <xref href="FAR-52.204-24.dita#id1989I600I4C"
+                                       base="id1989I600I4C"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.204-24</xref>, the offeror
+must provide the information required by paragraph (e)(1) of the
+provision at <xref href="FAR-52.204-24.dita#id1989I600I4C"
+                                       base="id1989I600I4C"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.204-24</xref>,
+and the contracting officer shall follow agency procedures.</ph>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d324e78" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              <ph rev="FAC 2020-08 August 13, 2020" class="- topic/ph ">If
+an offeror selects “does” in paragraph (d)(2) of the provision at <xref href="FAR-52.204-24.dita#id1989I600I4C"
+                                       base="id1989I600I4C"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.204-24</xref>, the offeror
+must complete the disclosure at paragraph (e)(2) of the provision
+at <xref href="FAR-52.204-24.dita#id1989I600I4C"
+                                       base="id1989I600I4C"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">52.204-24</xref>,
+and the contracting officer shall follow agency procedures.</ph>
+                           </p>
                         </li>
                      </ol>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d324e71" class="- topic/p ">
+               <p id="d324e90" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <i class="+ topic/ph hi-d/i ">Reporting</i>. If a contractor provides a report pursuant to paragraph (d) of the clause at <xref href="FAR-52.204-25.dita#id1989I600I4C"
+                  <i class="+ topic/ph hi-d/i ">Reporting</i>.
+If a contractor provides a report pursuant to paragraph (d) of the
+clause at <xref href="FAR-52.204-25.dita#id1989I600I4C"
                         base="id1989I600I4C"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">52.204-25</xref>, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment, follow agency procedures.</p>
+                        class="- topic/xref ">52.204-25</xref>,
+Prohibition on Contracting for Certain Telecommunications and Video
+Surveillance Services or Equipment, follow agency procedures.</p>
             </li>
          </ol>
       </conbody>
