@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="id189A70O0P1N"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">52.204-23</ph>  Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d3091e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref href="FAR-4.2004.dita#id1897F0KE0VG"
+                     base="id1897F0KE0VG"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">4.2004</xref>
+            </ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p " id="d3091e14">Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities <ph outputclass="SmCaps" class="- topic/ph ">(Jul 2018)</ph>
+         </p>
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d3091e20" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause—</p>
+               <p id="d3091e26" class="- topic/p ">
+                  <i outputclass="Term"
+                     xtrf="_52.204-23"
+                     xtrc="d3095e40"
+                     class="+ topic/ph hi-d/i ">Covered article</i> means any hardware, software, or service that–</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3091e32" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        Is developed or provided by a covered entity;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3091e37" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        Includes any hardware, software, or service developed or provided in whole or in part by a covered entity; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3091e42" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        Contains components using any hardware or software developed in whole or in part by a covered entity.</p>
+                  </li>
+               </ol>
+               <p id="d3091e46" class="- topic/p ">
+                  <i outputclass="Term"
+                     xtrf="_52.204-23"
+                     xtrc="d3095e76"
+                     class="+ topic/ph hi-d/i ">Covered entity</i> means–</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3091e52" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        Kaspersky Lab;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3091e57" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        Any successor entity to Kaspersky Lab;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3091e62" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        Any entity that controls, is controlled by, or is under common control with Kaspersky Lab; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3091e67" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
+                        Any entity of which Kaspersky Lab has a majority ownership.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3091e72" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Prohibition</i>. Section 1634 of Division A of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91) prohibits Government use of any covered article. The Contractor is prohibited from—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3091e80" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        Providing any covered article that the Government will use on or after October 1, 2018; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3091e85" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        Using any covered article on or after October 1, 2018, in the development of data or deliverables first produced in the performance of the contract.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3091e90" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Reporting requirement</i>.</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3091e98" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        In the event the Contractor identifies a covered article provided to the Government during contract performance, or the Contractor is notified of such by a subcontractor at any tier or any other source, the Contractor shall report, in writing, to the Contracting Officer or, in the case of the Department of Defense, to the website at <xref href="https://dibnet.dod.mil"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">https://dibnet.dod.mil</xref>. For indefinite delivery contracts, the Contractor shall report to the Contracting Officer for the indefinite delivery contract and the Contracting Officer(s) for any affected order or, in the case of the Department of Defense, identify both the indefinite delivery contract and any affected orders in the report provided at <xref href="https://dibnet.dod.mil"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">https://dibnet.dod.mil</xref>.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3091e109" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        The Contractor shall report the following information pursuant to paragraph (c)(1) of this clause:</p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3091e115" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              Within 1 business day from the date of such identification or notification: the contract number; the order number(s), if applicable; supplier name; brand; model number (Original Equipment Manufacturer (OEM) number, manufacturer part number, or wholesaler number); item description; and any readily available information about mitigation actions undertaken or recommended.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3091e120" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              Within 10 business days of submitting the report pursuant to paragraph (c)(1) of this clause: any further available information about mitigation actions undertaken or recommended. In addition, the Contractor shall describe the efforts it undertook to prevent use or submission of a covered article, any reasons that led to the use or submission of the covered article, and any additional efforts that will be incorporated to prevent future use or submission of covered articles.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3091e125" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  Subcontracts. The Contractor shall insert the substance of this clause, including this paragraph (d), in all subcontracts, including subcontracts for the acquisition of commercial items.</p>
+            </li>
+         </ol>
+         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

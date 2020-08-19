@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
+   <concept id="i1121469"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">4.1602</ph> Identifying the PIID and supplementary PIID.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d294e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d296e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Identifying the PIID in solicitation and contract award documentation (including forms and electronic generated formats).</i> Agencies shall include all PIIDs for all related procurement actions as identified in paragraphs (a)(1) through (5) of this section.</p>
+               <ol id="d294e26" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d296e18" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <i class="+ topic/ph hi-d/i ">Solicitation</i>. Identify the PIID for all solicitations. For amendments to solicitations, identify a supplementary PIID, in conjunction with the PIID for the solicitation.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d296e25" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <i class="+ topic/ph hi-d/i ">Contracts and purchase orders</i>. Identify the PIID for contracts and purchase orders.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d296e32" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        <i class="+ topic/ph hi-d/i ">Delivery and task orders.</i> For delivery and task orders placed by an agency under a contract (<i class="+ topic/ph hi-d/i ">e.g.</i>, indefinite delivery indefinite quantity (IDIQ) contracts, multi-agency contracts (MAC), Governmentwide acquisition contracts (GWACs), or Multiple Award Schedule (MAS) contracts), identify the PIID for the delivery and task order and the PIID for the contract.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d296e42" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        <i class="+ topic/ph hi-d/i ">Blanket purchase agreements and basic ordering agreements.</i> Identify the PIID for blanket purchase agreements issued in accordance with <xref href="FAR-i1111591.dita#i1111591"
+                              base="i1111591"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">13.303</xref>, and for basic agreements and basic ordering agreements issued in accordance with subpart <xref href="FAR-i1103566.dita#i1103566"
+                              base="i1103566"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">16.7</xref>. For blanket purchase agreements issued in accordance with subpart <xref href="FAR-i1117301.dita#i1117301"
+                              base="i1117301"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">8.4</xref> under a MAS contract, identify the PIID for the blanket purchase agreement and the PIID for the MAS contract.</p>
+                     <ol id="d294e87" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d296e59" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              <i class="+ topic/ph hi-d/i ">Orders</i>. For orders against basic ordering agreements or blanket purchase agreements issued in accordance with <xref href="FAR-i1111591.dita#i1111591"
+                                    base="i1111591"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">13.303</xref>, identify the PIID for the order and the PIID for the blanket purchase agreement or basic ordering agreement.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d296e69" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              <i class="+ topic/ph hi-d/i ">Orders under subpart <xref href="FAR-i1117301.dita#i1117301"
+                                       base="i1117301"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">8.4</xref>.</i> For orders against a blanket purchase agreement established under a MAS contract, identify the PIID for the order, the PIID for the blanket purchase agreement, and the PIID for the MAS contract.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d296e79" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                        <i class="+ topic/ph hi-d/i ">Modifications.</i> For modifications to actions described in paragraphs (a)(2) through (4) of this section, and in accordance with agency procedures, identify a supplementary PIID for the modification in conjunction with the PIID for the contract, order, or agreement being modified.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d296e86" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Placement of the PIID on forms.</i> When the form (including electronic generated format) does not provide spaces or fields for the PIID or supplementary PIID required in paragraph (a) of this section, identify the PIID in accordance with agency procedures.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d296e93" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  Additional agency specific identification information. If agency procedures require additional identification information in solicitations, contracts, or other related procurement instruments for administrative purposes, separate and clearly identify the additional information from the PIID.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

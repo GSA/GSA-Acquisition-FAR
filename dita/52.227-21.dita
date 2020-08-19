@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="i1052807"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">52.227-21</ph> Technical Data Declaration, Revision, and Withholding of Payment-Major Systems.</title>
+      <conbody outputclass="clause" class="- topic/body concept/conbody ">
+         <p id="d3445e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref href="FAR-i1089472.dita#i1089472"
+                     base="i1089472"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">27.409</xref>(j)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p " id="d3445e15">Technical Data Declaration, Revision, and Withholding of Payment-Major Systems <ph outputclass="SmCaps" class="- topic/ph ">(May 2014)</ph>
+         </p>
+         <ol id="d3414e25" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d3445e21" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Scope of declaration.</i> The Contractor shall provide, in accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">41 U.S.C. 2302(e)(7)</xref>, the following declaration with respect to all technical data that relate to a major system and that are delivered or required to be delivered under this contract or that are delivered within 3 years after acceptance of all items (other than technical data) delivered under this contract unless a different period is set forth in the contract. The Contracting Officer may release the Contractor from all or part of the requirements of this clause for specifically identified technical data items at any time during the period covered by this clause.</p>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p id="d3445e31" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  Technical data declaration. </p>
+               <ol id="d3414e50" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3445e37" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        All technical data that are subject to this clause shall be accompanied by the following declaration upon delivery:</p>
+                     <p id="d3445e41" class="- topic/p " outputclass="Ctr_SmCaps">Technical Data Declaration <ph outputclass="SmCaps" class="- topic/ph ">(Jan 1997)</ph>
+                     </p>
+                     <p id="d3445e45" class="- topic/p ">The Contractor, __________________, hereby declares that, to the best of its knowledge and belief, the technical data delivered herewith under Government contract No. _______ (and subcontract _________________, if appropriate) are complete, accurate, and comply with the requirements of the contract concerning such technical data.</p>
+                     <p id="d3445e47" class="- topic/p " outputclass="Ctr">(End of declaration)</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3445e50" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        The Government may, at any time during the period covered by this clause, direct correction of any deficiencies that are not in compliance with contract requirements. The corrections shall be made at the expense of the Contractor. Unauthorized markings on data shall not be considered a deficiency for the purpose of this clause, but will be treated in accordance with paragraph (e) of the Rights in Data-General clause included in this contract.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3445e55" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Technical data revision.</i> The Contractor also shall, at the request of the Contracting Officer, revise technical data that are subject to this clause to reflect engineering design changes made during the performance of this contract and affecting the form, fit, and function of any item (other than technical data) delivered under this contract. The Contractor may submit a request for an equitable adjustment to the terms and conditions of this contract for any revisions to technical data made pursuant to this paragraph.</p>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p id="d3445e62" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  Withholding of payment. </p>
+               <ol id="d3414e113" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3445e68" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        At any time before final payment under this contract the Contracting Officer may withhold payment as a reserve up to an amount not exceeding $100,000 or 5 percent of the amount of this contract, whichever is less, if the Contractor fails to-</p>
+                     <ol id="d3414e123" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3445e74" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              Make timely delivery of the technical data;</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3445e79" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              Provide the declaration required by paragraph (b)(1) of this clause;</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3445e84" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                              Make the corrections required by paragraph (b)(2) of this clause; or</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3445e89" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                              
+                              Make revisions requested under paragraph (c) of this clause.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3445e94" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        The Contracting Officer may withhold the reserve until the Contractor has complied with the direction or requests of the Contracting Officer or determines that the deficiencies relating to delivered data, arose out of causes beyond the control of the Contractor and without the fault or negligence of the Contractor.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3445e99" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        The withholding of any reserve under this clause, or the subsequent payment of the reserve, shall not be construed as a waiver of any Government rights.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+         <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>
