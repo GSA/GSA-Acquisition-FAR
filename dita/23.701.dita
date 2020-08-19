@@ -4,7 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id1617MD0609Q"
+   <concept id="FAR_23_701"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -12,7 +12,10 @@
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As used in this subpart-</p>
          <p class="- topic/p ">
-            <i outputclass="Term" xtrf="_23.701" xtrc="d1570e18">Computer</i> means a device that performs logical operations and processes data. Computers are composed of, at a minimum:<ol class="- topic/ol ">
+            <i outputclass="Term"
+               xtrf="_23.701"
+               xtrc="d1570e18"
+               class="+ topic/ph hi-d/i ">Computer</i> means a device that performs logical operations and processes data. Computers are composed of, at a minimum:<ol class="- topic/ol ">
                <li class="- topic/li ">
                   <ol id="d1544e23" class="- topic/ol ">
                      <li class="- topic/li ">
@@ -32,13 +35,25 @@
             </ol>
          </p>
          <p id="d1558e51" class="- topic/p ">
-            <i outputclass="Term" xtrf="_23.701" xtrc="d1570e60">Computer display</i> means a display screen and its associated electronics encased in a single housing or within the computer housing (e.g., notebook or integrated desktop computer) that is capable of displaying output information from a computer via one or more inputs such as a VGA, DVI, USB, DisplayPort, and/or IEEE 1394-2008™, Standard for High Performance Serial Bus. Examples of computer display technologies are the cathode-ray tube (CRT) and liquid crystal display (LCD).</p>
+            <i outputclass="Term"
+               xtrf="_23.701"
+               xtrc="d1570e60"
+               class="+ topic/ph hi-d/i ">Computer display</i> means a display screen and its associated electronics encased in a single housing or within the computer housing (e.g., notebook or integrated desktop computer) that is capable of displaying output information from a computer via one or more inputs such as a VGA, DVI, USB, DisplayPort, and/or IEEE 1394-2008™, Standard for High Performance Serial Bus. Examples of computer display technologies are the cathode-ray tube (CRT) and liquid crystal display (LCD).</p>
          <p id="d1558e54" class="- topic/p ">
-            <i outputclass="Term" xtrf="_23.701" xtrc="d1570e66">Desktop computer</i> means a computer where the main unit is intended to be located in a permanent location, often on a desk or on the floor. Desktops are not designed for portability and utilize an external computer display, keyboard, and mouse. Desktops are designed for a broad range of home and office applications.</p>
+            <i outputclass="Term"
+               xtrf="_23.701"
+               xtrc="d1570e66"
+               class="+ topic/ph hi-d/i ">Desktop computer</i> means a computer where the main unit is intended to be located in a permanent location, often on a desk or on the floor. Desktops are not designed for portability and utilize an external computer display, keyboard, and mouse. Desktops are designed for a broad range of home and office applications.</p>
          <p id="d1558e57" class="- topic/p ">
-            <i outputclass="Term" xtrf="_23.701" xtrc="d1570e72">Electronic products</i> means products that are dependent on electric currents or electromagnetic fields in order to work properly.</p>
+            <i outputclass="Term"
+               xtrf="_23.701"
+               xtrc="d1570e72"
+               class="+ topic/ph hi-d/i ">Electronic products</i> means products that are dependent on electric currents or electromagnetic fields in order to work properly.</p>
          <p id="d1558e60" class="- topic/p ">
-            <i outputclass="Term" xtrf="_23.701" xtrc="d1570e79">Imaging equipment</i> means the following products:<ol class="- topic/ol ">
+            <i outputclass="Term"
+               xtrf="_23.701"
+               xtrc="d1570e79"
+               class="+ topic/ph hi-d/i ">Imaging equipment</i> means the following products:<ol class="- topic/ol ">
                <li class="- topic/li ">
                   <ol id="d1544e65" class="- topic/ol ">
                      <li class="- topic/li ">
@@ -81,7 +96,10 @@
             </ol>
          </p>
          <p id="d1558e151" class="- topic/p ">
-            <i outputclass="Term" xtrf="_23.701" xtrc="d1570e179">Integrated desktop computer</i> means a desktop system in which the computer and computer display function as a single unit that receives its AC power through a single cable. Integrated desktop computers come in one of two possible forms:<ol class="- topic/ol ">
+            <i outputclass="Term"
+               xtrf="_23.701"
+               xtrc="d1570e179"
+               class="+ topic/ph hi-d/i ">Integrated desktop computer</i> means a desktop system in which the computer and computer display function as a single unit that receives its AC power through a single cable. Integrated desktop computers come in one of two possible forms:<ol class="- topic/ol ">
                <li class="- topic/li ">
                   <ol id="d1544e156" class="- topic/ol ">
                      <li class="- topic/li ">
@@ -97,11 +115,20 @@
             </ol>
          </p>
          <p id="d1558e242" class="- topic/p ">
-            <i outputclass="Term" xtrf="_23.701" xtrc="d1570e212">Notebook computer</i> means a computer designed specifically for portability and to be operated for extended periods of time either with or without a direct connection to an AC power source. Notebooks must utilize an integrated computer display and be capable of operation off of an integrated battery or other portable power source. In addition, most notebooks use an external power supply and have an integrated keyboard and pointing device. Notebook computers are typically designed to provide similar functionality to desktops, including operation of software similar in functionality to that used in desktops. Docking stations are considered accessories for notebook computers, not notebook computers. Tablet PCs, which may use touch-sensitive screens along with, or instead of, other input devices, are considered notebook computers.</p>
+            <i outputclass="Term"
+               xtrf="_23.701"
+               xtrc="d1570e212"
+               class="+ topic/ph hi-d/i ">Notebook computer</i> means a computer designed specifically for portability and to be operated for extended periods of time either with or without a direct connection to an AC power source. Notebooks must utilize an integrated computer display and be capable of operation off of an integrated battery or other portable power source. In addition, most notebooks use an external power supply and have an integrated keyboard and pointing device. Notebook computers are typically designed to provide similar functionality to desktops, including operation of software similar in functionality to that used in desktops. Docking stations are considered accessories for notebook computers, not notebook computers. Tablet PCs, which may use touch-sensitive screens along with, or instead of, other input devices, are considered notebook computers.</p>
          <p id="id192BB0EB0OF" class="- topic/p ">
-            <i outputclass="Term" xtrf="_23.701" xtrc="d1570e218">Personal computer product</i> means a computer, computer display, desktop computer, integrated desktop computer, or notebook computer.</p>
+            <i outputclass="Term"
+               xtrf="_23.701"
+               xtrc="d1570e218"
+               class="+ topic/ph hi-d/i ">Personal computer product</i> means a computer, computer display, desktop computer, integrated desktop computer, or notebook computer.</p>
          <p id="id192BB0EN0WB" class="- topic/p ">
-            <i outputclass="Term" xtrf="_23.701" xtrc="d1570e224">Television, or TV</i>, means a commercially available electronic product designed primarily for the reception and display of audiovisual signals received from terrestrial, cable, satellite, Internet Protocol TV (IPTV), or other digital or analog sources. A TV consists of a tuner/receiver and a display encased in a single enclosure. The product usually relies upon a cathode-ray tube (CRT), liquid crystal display (LCD), plasma display, or other display technology. Televisions with computer capability (<i class="+ topic/ph hi-d/i ">e.g.</i>, computer input port) may be considered to be a TV as long as they are marketed and sold to consumers primarily as televisions.</p>
+            <i outputclass="Term"
+               xtrf="_23.701"
+               xtrc="d1570e224"
+               class="+ topic/ph hi-d/i ">Television, or TV</i>, means a commercially available electronic product designed primarily for the reception and display of audiovisual signals received from terrestrial, cable, satellite, Internet Protocol TV (IPTV), or other digital or analog sources. A TV consists of a tuner/receiver and a display encased in a single enclosure. The product usually relies upon a cathode-ray tube (CRT), liquid crystal display (LCD), plasma display, or other display technology. Televisions with computer capability (<i class="+ topic/ph hi-d/i ">e.g.</i>, computer input port) may be considered to be a TV as long as they are marketed and sold to consumers primarily as televisions.</p>
       </conbody>
    </concept>
 </dita>

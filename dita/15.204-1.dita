@@ -2,8 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="id1617MD00V6N"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_15_204_1"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,41 +15,48 @@
                <p id="d900e10" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
-                   Contracting officers shall prepare
-solicitations and resulting contracts using the uniform contract
-format outlined in <xref href="#id1617MD00V6N/i1108889"
-                        base="i1108889"
-                        outputclass="fm:Table"
-                        class="- topic/xref ">Table  15-1</xref> of
-this subsection.</p>
+                  
+                  
+                  
+                  
+							           
+							Contracting officers shall prepare
+							solicitations and resulting contracts using the uniform contract
+							format outlined in Table 15-1 of
+							this subsection.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d900e18" class="- topic/p ">
+               <p id="d900e15" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
-                   Solicitations
-using the uniform contract format shall include Parts I, II, III,
-and IV (see <xref href="FAR-i15_204-2.dita#i15_204-2"
+                  
+                  
+                  
+                  
+							           
+							Solicitations
+							using the uniform contract format shall include Parts I, II, III,
+							and IV (see <xref href="15.204-2.dita#FAR_15_204_2"
                         base="i1108964"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">15.204-2</xref> through <xref href="FAR-i1109014.dita#i1109014"
+                        class="- topic/xref ">15.204-2</xref> through <xref href="15.204-5.dita#FAR_15_204_5"
                         base="i1109014"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">15.204-5</xref>). Upon award,
-contracting officers shall not physically include Part IV in the
-resulting contract, but shall retain it in the contract file. (See <xref href="FAR-i1121876.dita#i1121876"
+							contracting officers shall not physically include Part IV in the
+							resulting contract, but shall retain it in the contract file. (See <xref href="4.1201.dita#FAR_4_1201"
                         base="i1121876"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">4.1201</xref>(c).) The representations
-and certifications are incorporated by reference in the contract
-by using <xref href="FAR-i1064350.dita#i1064350"
+							and certifications are incorporated by reference in the contract
+							by using <xref href="52.204-19.dita#FAR_52_204_19"
                         base="i1064350"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">52.204-19</xref>(see <xref href="FAR-i1121905.dita#i1121905"
+                        class="- topic/xref ">52.204-19</xref>(see <xref href="4.1202.dita#FAR_4_1202"
                         base="i1121905"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">4.1202</xref>(b)) or for acquisitions
-of commercial items see <xref href="FAR-i1060971.dita#i1060971"
+							of commercial items see <xref href="52.212-4.dita#FAR_52_212_4"
                         base="i1060971"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.212-4</xref>(v).</p>
@@ -60,7 +68,7 @@ of commercial items see <xref href="FAR-i1060971.dita#i1060971"
                 id="i1108889"
                 class="- topic/table ">
             <title class="- topic/title ">Table
-15-1 - Uniform Contract Format</title>
+						15-1 - Uniform Contract Format</title>
             <tgroup cols="2"
                     colsep="0"
                     rowsep="0"
@@ -70,12 +78,14 @@ of commercial items see <xref href="FAR-i1060971.dita#i1060971"
                         colname="1"
                         colwidth="22*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="78*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <thead class="- topic/thead ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1"
@@ -98,7 +108,7 @@ of commercial items see <xref href="FAR-i1060971.dita#i1060971"
                             outputclass="CellBody_CtrUnderline"
                             xtrc="Underline"
                             class="- topic/entry ">Part
-I-The Schedule</entry>
+									I-The Schedule</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -108,7 +118,7 @@ I-The Schedule</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Solicitation/contract
-form</entry>
+									form</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -118,7 +128,7 @@ form</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Supplies
-or services and prices/costs</entry>
+									or services and prices/costs</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -128,7 +138,7 @@ or services and prices/costs</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Description/specifications/statement
-of work</entry>
+									of work</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -138,7 +148,7 @@ of work</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Packaging
-and marking</entry>
+									and marking</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -148,7 +158,7 @@ and marking</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Inspection
-and acceptance</entry>
+									and acceptance</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -158,7 +168,7 @@ and acceptance</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Deliveries
-or performance</entry>
+									or performance</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -168,7 +178,7 @@ or performance</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Contract
-administration data</entry>
+									administration data</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -178,7 +188,7 @@ administration data</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Special
-contract requirements</entry>
+									contract requirements</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry namest="1"
@@ -187,7 +197,7 @@ contract requirements</entry>
                             outputclass="CellBody_CtrUnderline"
                             xtrc="Underline"
                             class="- topic/entry ">Part
-II-Contract Clauses</entry>
+									II-Contract Clauses</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -197,7 +207,7 @@ II-Contract Clauses</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Contract
-clauses</entry>
+									clauses</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry namest="1"
@@ -206,7 +216,7 @@ clauses</entry>
                             outputclass="CellBody_CtrUnderline"
                             xtrc="Underline"
                             class="- topic/entry ">Part
-III-List of Documents, Exhibits, and Other Attachments</entry>
+									III-List of Documents, Exhibits, and Other Attachments</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -216,7 +226,7 @@ III-List of Documents, Exhibits, and Other Attachments</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">List
-of attachments</entry>
+									of attachments</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry namest="1"
@@ -225,7 +235,7 @@ of attachments</entry>
                             outputclass="CellBody_CtrUnderline"
                             xtrc="Underline"
                             class="- topic/entry ">Part
-IV-Representations and Instructions</entry>
+									IV-Representations and Instructions</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -235,7 +245,7 @@ IV-Representations and Instructions</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Representations,
-certifications, and other statements of offerors or respondents</entry>
+									certifications, and other statements of offerors or respondents</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -245,7 +255,7 @@ certifications, and other statements of offerors or respondents</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Instructions,
-conditions, and notices to offerors or respondents</entry>
+									conditions, and notices to offerors or respondents</entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -255,7 +265,7 @@ conditions, and notices to offerors or respondents</entry>
                             align="left"
                             outputclass="CellBody_Left"
                             class="- topic/entry ">Evaluation
-factors for award</entry>
+									factors for award</entry>
                   </row>
                </tbody>
             </tgroup>

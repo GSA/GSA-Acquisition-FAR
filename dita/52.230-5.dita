@@ -3,8 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <concept id="i1051741"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+   <concept id="FAR_52_230_5"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -15,17 +14,20 @@ Institution.</title>
 in <ph rev="FAC 2020-07 August 3, 2020"
                 outputclass="ClauseProvisionXREF"
                 class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-005?>
-               <xref href="FAR-i1087135.dita#i1087135"
-                     base="i1087135"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">30.201-4</xref>(e)(1)<?FM MARKER [Why] Amend section 52.230-5 by removing from the clause prescription “30.201-4(e)” and adding “30.201-4(e)(1)” in its place.?></ph>, insert
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="FAR_30_201_4"
+                     href="30.201-4.dita#FAR_30_201_4">30.201-4</xref>(e)(1)<?FM MARKER [Why] Amend section 52.230-5 by removing from the clause prescription “30.201-4(e)” and adding “30.201-4(e)(1)” in its place.?></ph>, insert
 the following clause:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">Cost Accounting Standards-Educational
 Institution (Jun 2020)</p>
          <ol id="d3450e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d3483e21" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Unless
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                   Unless
 the contract is exempt under <ph outputclass="CFR" class="- topic/ph ">48 CFR 9903.201-1</ph> and
 9903.201-2, the provisions of <ph outputclass="CFR" class="- topic/ph ">48 CFR 9903</ph> are
 incorporated herein by reference and the Contractor, in connection
@@ -34,6 +36,9 @@ with this contract, shall-</p>
                   <li class="- topic/li ">
                      <p id="d3483e33" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
                         <i class="+ topic/ph hi-d/i ">(CAS-covered Contracts Only)</i>.
 If a business unit of an educational institution (defined as an
 institution of higher education in the OMB Uniform Guidance at <ph outputclass="CFR" class="- topic/ph ">2 CFR part 200</ph>, subpart A and <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
@@ -55,7 +60,10 @@ and shall not be released outside of the Government.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3483e49" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Follow
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                         Follow
 consistently the Contractor’s cost accounting practices in accumulating
 and reporting contract performance cost data concerning this contract.
 If any change in cost accounting practices is made for the purposes
@@ -73,7 +81,10 @@ adjustment shall be made in accordance with paragraph (a)(4) or
                   </li>
                   <li class="- topic/li ">
                      <p id="d3483e57" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Comply
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                         Comply
 with all CAS, including any modifications and interpretations indicated
 thereto contained in <ph outputclass="CFR" class="- topic/ph ">48 CFR 9905</ph> in
 effect on the date of award of this contract or, if the Contractor
@@ -88,11 +99,17 @@ such contract or subcontract.</p>
                   <li props="Runin" class="- topic/li ">
                      <p id="d3483e65" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
+                        
+                        
                      </p>
                      <ol id="d3450e78" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3483e70" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Agree
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              
+                               Agree
 to an equitable adjustment as provided in the Changes clause of
 this contract if the contract cost is affected by a change which,
 pursuant to paragraph (a)(3) of this clause, the Contractor is required
@@ -100,7 +117,10 @@ to make to the Contractor’s established cost accounting practices.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3483e75" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Negotiate
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
+                               Negotiate
 with the Contracting Officer to determine the terms and conditions
 under which a change may be made to a cost accounting practice,
 other than a change made under other provisions of paragraph (a)(4)
@@ -109,7 +129,10 @@ provision that will increase costs paid by the United States.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3483e80" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> When
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                              
+                               When
 the parties agree to a change to a cost accounting practice, other
 than a change under subdivision (a)(4)(i) or (a)(4)(iv) of this
 clause, negotiate an equitable adjustment as provided in the Changes
@@ -117,7 +140,10 @@ clause of this contract.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3483e85" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph> Agree
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                              
+                              
+                               Agree
 to an equitable adjustment as provided in the Changes clause of
 this contract, if the contract cost is materially affected by an
 accounting principle amendment required under the OMB Uniform Guidance
@@ -130,7 +156,10 @@ cost accounting practices.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3483e93" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Agree to
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                        
+                        
+                         Agree to
 an adjustment of the contract price or cost allowance, as appropriate,
 if the Contractor or a subcontractor fails to comply with an applicable
 Cost Accounting Standard, or to follow any cost accounting practice
@@ -155,7 +184,10 @@ to the Government.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3483e101" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> If the
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                   If the
 parties fail to agree whether the Contractor or a subcontractor
 has complied with an applicable CAS or a CAS rule or regulation
 in <ph outputclass="CFR" class="- topic/ph ">48 CFR 9903</ph> and as to any cost adjustment
@@ -168,14 +200,20 @@ Contract Disputes.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3483e112" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> The Contractor
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                   The Contractor
 shall permit any authorized representatives of the Government to
 examine and make copies of any documents, papers, or records relating
 to compliance with the requirements of this clause.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3483e117" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph> The Contractor
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+                   The Contractor
 shall include in all negotiated subcontracts which the Contractor
 enters into, the substance of this clause, except paragraph (b),
 and shall require such inclusion in all other subcontracts, of any
@@ -187,7 +225,10 @@ of Current Cost or Pricing Data, except that-</p>
                <ol id="d3450e161" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3483e123" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> If the
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                         If the
 subcontract is awarded to a business unit which pursuant to <ph outputclass="CFR" class="- topic/ph ">48 CFR 9903.201-2</ph> is subject to other
 types of CAS coverage, the substance of the applicable clause set
 forth in <ph outputclass="CFR" class="- topic/ph ">48 CFR 9903.201-4</ph> shall be
@@ -195,18 +236,23 @@ inserted;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3483e134" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The requirement
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                         The requirement
 in this paragraph (d) shall apply only to negotiated subcontracts
 in excess of the lower CAS threshold specified in Federal Acquisition
-Regulation (FAR) <xref href="FAR-i1087135.dita#i1087135"
-                              base="i1087135"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">30.201-4</xref>(b)
-on the date of subcontract award; and</p>
+Regulation (FAR) <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="FAR_30_201_4"
+                              href="30.201-4.dita#FAR_30_201_4">30.201-4</xref>(b) on the date of subcontract award; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3483e142" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> The requirement
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                         The requirement
 shall not apply to negotiated subcontracts otherwise exempt from
 the requirement to include a CAS clause as specified in <ph outputclass="CFR" class="- topic/ph ">48 CFR 9903.201-1</ph>.</p>
                   </li>

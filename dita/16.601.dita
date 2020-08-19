@@ -4,7 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="i1103674"
+   <concept id="FAR_16_601"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -16,11 +16,21 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
-                  Definitions for the purposes of Time-and-Materials Contracts.</p>
+                  
+                  
+                  
+							           
+							Definitions for the purposes of Time-and-Materials Contracts.</p>
                <p id="d1043e14" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_16.601" xtrc="d1040e25">Direct materials</i> means those materials that enter directly into the end product, or that are used or consumed directly in connection with the furnishing of the end product or service.</p>
+                  <i outputclass="Term"
+                     xtrf="_16.601"
+                     xtrc="d1040e25"
+                     class="+ topic/ph hi-d/i ">Direct materials</i> means those materials that enter directly into the end product, or that are used or consumed directly in connection with the furnishing of the end product or service.</p>
                <p id="d1043e18" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_16.601" xtrc="d1040e31">Hourly rate</i> means the rate(s) prescribed in the contract for payment for labor that meets the labor category qualifications of a labor category specified in the contract that are-<ol id="d1021e31" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_16.601"
+                     xtrc="d1040e31"
+                     class="+ topic/ph hi-d/i ">Hourly rate</i> means the rate(s) prescribed in the contract for payment for labor that meets the labor category qualifications of a labor category specified in the contract that are-<ol id="d1021e31" class="- topic/ol ">
                      <li class="- topic/li ">
                         <ol id="d1021e35" class="- topic/ol ">
                            <li class="- topic/li ">
@@ -35,7 +45,10 @@
                               <p id="d1043e36" class="- topic/p ">
                                  <ph props="autonumber" class="- topic/ph ">(3)</ph> Transferred between divisions, subsidiaries, or affiliates of the contractor under a common control.</p>
                               <p id="d1043e40" class="- topic/p ">
-                                 <i outputclass="Term" xtrf="_16.601" xtrc="d1040e68">Materials</i> means-<ol id="d1021e68" class="- topic/ol ">
+                                 <i outputclass="Term"
+                                    xtrf="_16.601"
+                                    xtrc="d1040e68"
+                                    class="+ topic/ph hi-d/i ">Materials</i> means-<ol id="d1021e68" class="- topic/ol ">
                                     <li class="- topic/li ">
                                        <p id="d1043e46" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Direct materials, including supplies transferred between divisions, subsidiaries, or affiliates of the contractor under a common control;</p>
@@ -67,7 +80,7 @@
                               </li>
                               <li class="- topic/li ">
                                  <p id="d1043e82" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(2)</ph> Actual cost for materials (except as provided for in <xref href="FAR-i1085305.dita#i1085305"
+                                    <ph props="autonumber" class="- topic/ph ">(2)</ph> Actual cost for materials (except as provided for in <xref href="31.205-26.dita#FAR_31_205_26"
                                           base="i1085305"
                                           outputclass="fm:ParaNumOnly"
                                           class="- topic/xref ">31.205-26</xref>(e) and (f)).</p>
@@ -78,7 +91,7 @@
                      <li class="- topic/li ">
                         <p id="d1043e90" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                           <i class="+ topic/ph hi-d/i ">Application</i>. A time-and-materials contract may be used only when it is not possible at the time of placing the contract to estimate accurately the extent or duration of the work or to anticipate costs with any reasonable degree of confidence. See <xref href="FAR-i1113491.dita#i1113491"
+                           <i class="+ topic/ph hi-d/i ">Application</i>. A time-and-materials contract may be used only when it is not possible at the time of placing the contract to estimate accurately the extent or duration of the work or to anticipate costs with any reasonable degree of confidence. See <xref href="12.207.dita#FAR_12_207"
                                  base="i1113491"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">12.207</xref>(b) for the use of time-and-material contracts for certain commercial services.</p>
@@ -95,14 +108,17 @@
                               <ol id="d1021e233" class="- topic/ol ">
                                  <li class="- topic/li ">
                                     <p id="d1043e116" class="- topic/p ">
-                                       <ph props="autonumber" class="- topic/ph ">(i)</ph> The contract shall specify separate fixed hourly rates that include wages, overhead, general and administrative expenses, and profit for each category of labor (see <xref href="#i1103674"
+                                       <ph props="autonumber" class="- topic/ph ">(i)</ph> The contract shall specify separate
+												fixed hourly rates that include wages, overhead,
+												general and administrative expenses, and profit
+												for each category of labor (see <xref href="#FAR_16_601"
                                              base="i1103674"
                                              outputclass="fm:ParaNumOnly"
                                              class="- topic/xref ">16.601</xref>(f)(1)).</p>
                                  </li>
                                  <li class="- topic/li ">
                                     <p id="d1043e124" class="- topic/p ">
-                                       <ph props="autonumber" class="- topic/ph ">(ii)</ph> For acquisitions of noncommercial items awarded without adequate price competition (see <xref href="FAR-i1105936.dita#i1105936"
+                                       <ph props="autonumber" class="- topic/ph ">(ii)</ph> For acquisitions of noncommercial items awarded without adequate price competition (see <xref href="15.403-1.dita#FAR_15_403_1"
                                              base="i1105936"
                                              outputclass="fm:ParaNumOnly"
                                              class="- topic/xref ">15.403-1</xref>(c)(1)), the contract shall specify separate fixed hourly rates that include wages, overhead, general and administrative expenses, and profit for each category of labor to be performed by-</p>
@@ -137,7 +153,7 @@
                                  </li>
                                  <li class="- topic/li ">
                                     <p id="d1043e164" class="- topic/p ">
-                                       <ph props="autonumber" class="- topic/ph ">(iv)</ph> For contract actions that are not awarded using competitive procedures, the fixed hourly rates for services that meet the definition of commercial item at <xref href="FAR-i1125359.dita#i1125359"
+                                       <ph props="autonumber" class="- topic/ph ">(iv)</ph> For contract actions that are not awarded using competitive procedures, the fixed hourly rates for services that meet the definition of commercial item at <xref href="2.101.dita#FAR_2_101"
                                              base="i1125359"
                                              outputclass="fm:ParaNumOnly"
                                              class="- topic/xref ">2.101</xref> that are transferred between divisions, subsidiaries, or affiliates of the contractor under a common control may be the established catalog or market rate when-</p>
@@ -157,7 +173,7 @@
                            <li class="- topic/li ">
                               <p id="d1043e183" class="- topic/p ">
                                  <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                                 <i class="+ topic/ph hi-d/i ">Material handling costs</i>. When included as part of material costs, material handling costs shall include only costs clearly excluded from the labor-hour rate. Material handling costs may include all appropriate indirect costs allocated to direct materials in accordance with the contractor's usual accounting procedures consistent with <xref href="FAR-i1086363.dita#i1086363"
+                                 <i class="+ topic/ph hi-d/i ">Material handling costs</i>. When included as part of material costs, material handling costs shall include only costs clearly excluded from the labor-hour rate. Material handling costs may include all appropriate indirect costs allocated to direct materials in accordance with the contractor's usual accounting procedures consistent with <xref href="Part_31.dita#FAR_Part_31"
                                        base="i1086363"
                                        outputclass="fm:Part"
                                        class="- topic/xref ">part  31</xref>.</p>
@@ -184,7 +200,7 @@
                               </li>
                               <li class="- topic/li ">
                                  <p id="d1043e217" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(2)</ph> The contract or order includes a ceiling price that the contractor exceeds at its own risk. Also see <xref href="FAR-i1113491.dita#i1113491"
+                                    <ph props="autonumber" class="- topic/ph ">(2)</ph> The contract or order includes a ceiling price that the contractor exceeds at its own risk. Also see <xref href="12.207.dita#FAR_12_207"
                                           base="i1113491"
                                           outputclass="fm:ParaNumOnly"
                                           class="- topic/xref ">12.207</xref> (b) for further limitations on use of time-and-materials or labor-hour contracts for acquisition of commercial items.</p>
@@ -210,21 +226,21 @@
                               <ol id="d1021e479" class="- topic/ol ">
                                  <li class="- topic/li ">
                                     <p id="d1043e247" class="- topic/p ">
-                                       <ph props="autonumber" class="- topic/ph ">(i)</ph> A contract, follow the procedures at <xref href="FAR-i1119735.dita#i1119735"
+                                       <ph props="autonumber" class="- topic/ph ">(i)</ph> A contract, follow the procedures at <xref href="6.303.dita#FAR_6_303"
                                              base="i1119735"
                                              outputclass="fm:ParaNumOnly"
                                              class="- topic/xref ">6.303</xref>;</p>
                                  </li>
                                  <li class="- topic/li ">
                                     <p id="d1043e255" class="- topic/p ">
-                                       <ph props="autonumber" class="- topic/ph ">(ii)</ph> An order issued under the Federal Supply Schedules, follow the procedures at <xref href="FAR-i1117840.dita#i1117840"
+                                       <ph props="autonumber" class="- topic/ph ">(ii)</ph> An order issued under the Federal Supply Schedules, follow the procedures at <xref href="8.405-6.dita#FAR_8_405_6"
                                              base="i1117840"
                                              outputclass="fm:ParaNumOnly"
                                              class="- topic/xref ">8.405-6</xref>; or</p>
                                  </li>
                                  <li class="- topic/li ">
                                     <p id="d1043e263" class="- topic/p ">
-                                       <ph props="autonumber" class="- topic/ph ">(iii)</ph> An order issued under multiple award task and delivery order contracts, follow the procedures at <xref href="FAR-i1104008.dita#i1104008"
+                                       <ph props="autonumber" class="- topic/ph ">(iii)</ph> An order issued under multiple award task and delivery order contracts, follow the procedures at <xref href="16.505.dita#FAR_16_505"
                                              base="i1104008"
                                              outputclass="fm:ParaNumOnly"
                                              class="- topic/xref ">16.505</xref>(b)(2).</p>
@@ -240,21 +256,21 @@
                         <ol id="d1021e532" class="- topic/ol ">
                            <li class="- topic/li ">
                               <p id="d1043e279" class="- topic/p ">
-                                 <ph props="autonumber" class="- topic/ph ">(1)</ph> The contracting officer shall insert the provision at <xref href="FAR-i1058887.dita#i1058887"
+                                 <ph props="autonumber" class="- topic/ph ">(1)</ph> The contracting officer shall insert the provision at <xref href="52.216-29.dita#FAR_52_216_29"
                                        base="i1058887"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">52.216-29</xref>, Time-and-Materials/Labor-Hour Proposal Requirements-Non-Commercial Item Acquisitions With Adequate Price Competition, in solicitations contemplating use of a Time-and-Materials or Labor-Hour type of contract for noncommercial items, if the price is expected to be based on adequate price competition. If authorized by agency procedures, the contracting officer may amend the provision to make mandatory one of the three approaches in paragraph (c) of the provision, and/or to require the identification of all subcontractors, divisions, subsidiaries, or affiliates included in a blended labor rate.</p>
                            </li>
                            <li class="- topic/li ">
                               <p id="d1043e287" class="- topic/p ">
-                                 <ph props="autonumber" class="- topic/ph ">(2)</ph> The contracting officer shall insert the provision at <xref href="FAR-i1058904.dita#i1058904"
+                                 <ph props="autonumber" class="- topic/ph ">(2)</ph> The contracting officer shall insert the provision at <xref href="52.216-30.dita#FAR_52_216_30"
                                        base="i1058904"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">52.216-30</xref>, Time-and-Materials/Labor-Hour Proposal Requirements-Non-Commercial Item Acquisitions without Adequate Price Competition, in solicitations for noncommercial items contemplating use of a Time-and-Materials or Labor-Hour type of contract if the price is not expected to be based on adequate price competition.</p>
                            </li>
                            <li class="- topic/li ">
                               <p id="d1043e295" class="- topic/p ">
-                                 <ph props="autonumber" class="- topic/ph ">(3)</ph> The contracting officer shall insert the provision at <xref href="FAR-i1058924.dita#i1058924"
+                                 <ph props="autonumber" class="- topic/ph ">(3)</ph> The contracting officer shall insert the provision at <xref href="52.216-31.dita#FAR_52_216_31"
                                        base="i1058924"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">52.216-31</xref>, Time-and-Materials/Labor-Hour Proposal Requirements-Commercial Item Acquisitions, in solicitations contemplating use of a Commercial Time-and-Materials or Labor-Hour contract.</p>

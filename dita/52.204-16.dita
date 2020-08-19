@@ -3,8 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <concept id="i1064275"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+   <concept id="FAR_52_204_16"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -13,10 +12,10 @@ Entity Code Reporting.</title>
       <conbody outputclass="provision" class="- topic/body  concept/conbody ">
          <p id="d3084e8" class="- topic/p ">As prescribed
 in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="FAR-i1121289.dita#i1121289"
-                     base="i1121289"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">4.1804</xref>(a)</ph>, use the
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="FAR_4_1804"
+                     href="4.1804.dita#FAR_4_1804">4.1804</xref>(a)</ph>, use the
 following provision:</p>
          <p id="d3084e15"
             rev="FAC 2020-07 August 3, 2020"
@@ -30,6 +29,9 @@ a. Revising the date of the provision;?>
             <li class="- topic/li ">
                <p id="d3084e23" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
                   <i class="+ topic/ph hi-d/i ">Definition.</i> As
 used in this provision –</p>
                <p id="d3084e29" class="- topic/p ">
@@ -38,7 +40,10 @@ Entity (CAGE) code</i> means–</p>
                <ol id="d3061e47" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3084e35" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> An identifier
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                         An identifier
 assigned to entities located in the United States or its outlying
 areas by the Defense Logistics Agency (DLA) Commercial and Government
 Entity (CAGE) Branch to identify a commercial or government <ph rev="FAC 2020-07 August 3, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-002?>entity by unique location;
@@ -47,7 +52,10 @@ or<?FM MARKER [Why] b. Removing from the end of paragraph (a)(1) “entity; or�
                   </li>
                   <li class="- topic/li ">
                      <p id="d3084e44" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> An identifier
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                         An identifier
 assigned by a member of the North Atlantic Treaty Organization (NATO)
 or by the NATO Support and Procurement Agency (NSPA) to entities
 located outside the United States and its outlying areas that the
@@ -60,6 +68,9 @@ in the CAGE master file. This type of code is known as a NATO CAGE
             <li class="- topic/li ">
                <p id="d3084e49" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
                   <ph rev="FAC 2020-07 August 3, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-002?>The Offeror shall provide
 its CAGE code with its offer with its name and location address
 or otherwise include it prominently in its proposal. The CAGE code
@@ -69,12 +80,18 @@ before the number. The CAGE code is required prior to award.<?FM MARKER [Why] c.
             </li>
             <li class="- topic/li ">
                <p id="d3084e57" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> CAGE codes
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                   CAGE codes
 may be obtained via–</p>
                <ol id="d3061e89" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3084e63" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Registration in the System for
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                         Registration in the System for
 Award Management (SAM) at <xref href="https://www.sam.gov"
                               format="html"
                               scope="external"
@@ -89,6 +106,9 @@ prior to registration in SAM (see paragraph (c)(3) of this provision).</p>
                   <li class="- topic/li ">
                      <p id="d3084e71" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
                         <i class="+ topic/ph hi-d/i ">The DLA
 Contractor and Government Entity (CAGE) Branch.</i> If registration
 in SAM is not required for the subject procurement, and the <ph rev="FAC 2020-07 August 3, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-002?>Offeror<?FM MARKER [Why] d. In paragraph (c)(2) removing the word “offeror” and adding “Offeror” in its places;?></ph> does not otherwise
@@ -101,7 +121,10 @@ a request at <xref href="https://cage.dla.mil"
                   </li>
                   <li class="- topic/li ">
                      <p id="d3084e86" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> The appropriate
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                         The appropriate
 country codification bureau. Entities located outside the United
 States and its outlying areas may obtain an NCAGE code by contacting
 the Codification Bureau in the foreign entity's country if that
@@ -121,7 +144,10 @@ information on obtaining NCAGE codes, are available at <xref href="http://www.na
             </li>
             <li class="- topic/li ">
                <p id="d3084e97" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph> Additional
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+                   Additional
 guidance for establishing and maintaining CAGE codes is available
 at <xref href="https://cage.dla.mil"
                         format="html"
@@ -131,44 +157,52 @@ at <xref href="https://cage.dla.mil"
             <li class="- topic/li ">
                <p id="d3084e105" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  
+                  
+                  
                   <ph rev="FAC 2020-07 August 3, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-002?>When a CAGE code is required
 for the immediate owner and/or the highest-level owner by Federal
-Acquisition Regulation (FAR) <xref href="FAR-i1064305.dita#i1064305"
-                           base="i1064305"
-                           outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">52.204-17</xref> or <xref href="FAR-i1060550.dita#i1060550"
-                           base="i1060550"
-                           outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">52.212-3</xref>(p), the Offeror
+Acquisition Regulation (FAR) <xref outputclass="fm:ParaNumOnly"
+                           class="- topic/xref "
+                           base="FAR_52_204_17"
+                           href="52.204-17.dita#FAR_52_204_17">52.204-17</xref> or <xref outputclass="fm:ParaNumOnly"
+                           class="- topic/xref "
+                           base="FAR_52_212_3"
+                           href="52.212-3.dita#FAR_52_212_3">52.212-3</xref>(p), the Offeror
 shall obtain the respective CAGE code from that entity to supply
 the CAGE code to the Government.<?FM MARKER [Why] e. Revising paragraph (e); and?></ph>
                </p>
             </li>
             <li class="- topic/li ">
                <p id="d3084e119" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph> Do not
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+                  
+                  
+                   Do not
 delay submission of the offer pending receipt of a CAGE code.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3084e124" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph>
+                  
+                  
+                  
                   <ph rev="FAC 2020-07 August 3, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-002?>If the solicitation includes
-FAR clause <xref href="FAR-i1063713.dita#i1063713"
-                           base="i1063713"
-                           outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">52.204-2</xref>, Security Requirements,
-a subcontractor requiring access to classified information under
-a contract shall be identified with a CAGE code on the DD Form 254.
-The Contractor shall require a subcontractor requiring access to
-classified information to provide its CAGE code with its name and
-location address or otherwise include it prominently in the proposal.
-Each location of subcontractor performance listed on the DD Form
-254 is required to reflect a corresponding unique CAGE code for
-each listed location unless the work is being performed at a Government
-facility, in which case the agency location code shall be used.
-The CAGE code must be for that name and location address. Insert
-the word “CAGE” before the number. The CAGE code is required prior
-to award.<?FM MARKER [Why] f. Adding paragraph (g).?></ph>
+FAR clause <xref outputclass="fm:ParaNumOnly"
+                           class="- topic/xref "
+                           base="FAR_52_204_2"
+                           href="52.204-2.dita#FAR_52_204_2">52.204-2</xref>, Security Requirements, a subcontractor requiring
+access to classified information under a contract shall be identified
+with a CAGE code on the DD Form 254. The Contractor shall require
+a subcontractor requiring access to classified information to provide
+its CAGE code with its name and location address or otherwise include
+it prominently in the proposal. Each location of subcontractor performance
+listed on the DD Form 254 is required to reflect a corresponding
+unique CAGE code for each listed location unless the work is being
+performed at a Government facility, in which case the agency location
+code shall be used. The CAGE code must be for that name and location
+address. Insert the word “CAGE” before the number. The CAGE code
+is required prior to award.<?FM MARKER [Why] f. Adding paragraph (g).?></ph>
                </p>
             </li>
          </ol>
