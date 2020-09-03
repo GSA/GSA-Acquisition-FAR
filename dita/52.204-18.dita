@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_52_204_18"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -12,16 +13,16 @@ Entity Code Maintenance.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p id="d3086e8" class="- topic/p ">As prescribed
 in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+               <xref href="4.1804.dita#FAR_4_1804"
                      base="FAR_4_1804"
-                     href="4.1804.dita#FAR_4_1804">4.1804</xref>(c)</ph>, use the
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">4.1804</xref>(c)</ph>, use the
 following clause:</p>
          <p id="d3086e15"
             rev="FAC 2020-07 August 3, 2020"
             outputclass="Ctr_SmCaps"
             class="- topic/p "><?FM MARKER [CaseNumber] FAR Case 2015-002?>Commercial and Government Entity
-Code Maintenance <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2020)</ph>
+Code Maintenance <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2020)</ph> 
             <?FM MARKER [Why] Amend section 52.204-18 by—
 a. Revising the date of the clause;?>
          </p>
@@ -33,36 +34,28 @@ a. Revising the date of the clause;?>
 used in this clause–</p>
                <p id="d3086e29" class="- topic/p ">
                   <i outputclass="Term" xtrf="_52.204-18" xtrc="d3090e40">Commercial and Government
-Entity (CAGE) code</i> means–</p>
-               <ol id="d3063e47" class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d3086e35" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                         An identifier
-assigned to entities located in the United States or its outlying
-areas by the Defense Logistics Agency (DLA) Commercial and Government
-Entity (CAGE) Branch to identify a commercial or government <ph rev="FAC 2020-07 August 3, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-002?>entity by unique location;
+Entity (CAGE) code</i> means–<ol id="d3063e47" class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p id="d3086e35" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> An identifier assigned to entities
+located in the United States or its outlying areas by the Defense
+Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch
+to identify a commercial or government <ph rev="FAC 2020-07 August 3, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-002?>entity by unique location;
 or<?FM MARKER [Why] b. Removing from paragraph (a)(1) “entity; or” and adding “entity by unique location; or” in its place;?></ph>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d3086e44" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                         An identifier
+                        </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d3086e44" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> An identifier
 assigned by a member of the North Atlantic Treaty Organization (NATO)
 or by the NATO Support and Procurement Agency (NSPA) to entities
 located outside the United States and its outlying areas that the
 DLA Commercial and Government Entity (CAGE) Branch records and maintains
 in the CAGE master file. This type of code is known as a NATO CAGE
 (NCAGE) code.</p>
-                  </li>
-               </ol>
+                     </li>
+                  </ol>
+               </p>
             </li>
             <li class="- topic/li ">
                <p id="d3086e49" class="- topic/p ">
@@ -75,20 +68,17 @@ the DLA Commercial and Government Entity (CAGE) Branch shall only
 modify data received from SAM in the CAGE master file if the contractor
 initiates those changes via update of its SAM registration. Contractors
 undergoing a novation or change-of-name agreement shall notify the
-contracting officer in accordance with subpart  <xref outputclass="fm:ParaNumOnly"
-                        class="- topic/xref "
+contracting officer in accordance with subpart <xref href="Subpart_42.12.dita#FAR_Subpart_42_12"
                         base="FAR_Subpart_42_12"
-                        href="Subpart_42.12.dita#FAR_Subpart_42_12">42.12</xref>. The contractor shall communicate any change to the CAGE code to
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">42.12</xref>.
+The contractor shall communicate any change to the CAGE code to
 the contracting officer within 30 days after the change, so that
 a modification can be issued to update the CAGE code on the contract.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3086e61" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                   Contractors
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Contractors
 located in the United States or its outlying areas that are not
 registered in SAM shall submit written change requests to the DLA
 Commercial and Government Entity (CAGE) Branch. Requests for changes
@@ -101,11 +91,7 @@ by the code.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3086e69" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                   Contractors
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph> Contractors
 located outside the United States and its outlying areas that are
 not registered in SAM shall contact the appropriate National Codification
 Bureau (points of contact available at <xref href="http://www.nato.int/structur/AC/135/main/links/contacts.htm"
@@ -120,11 +106,7 @@ request CAGE changes.</p>
             </li>
             <li class="- topic/li ">
                <p id="d3086e80" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
-                  
-                   Additional
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph> Additional
 guidance for maintaining CAGE codes is available at <xref href="https://cage.dla.mil"
                         format="html"
                         scope="external"
@@ -134,10 +116,10 @@ guidance for maintaining CAGE codes is available at <xref href="https://cage.dla
                <p id="d3086e88" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   <ph rev="FAC 2020-07 August 3, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-002?>If the contract includes
-Federal Acquisition Regulation clause <xref outputclass="fm:ParaNumOnly"
-                           class="- topic/xref "
+Federal Acquisition Regulation clause <xref href="52.204-2.dita#FAR_52_204_2"
                            base="FAR_52_204_2"
-                           href="52.204-2.dita#FAR_52_204_2">52.204-2</xref>, Security Requirements,
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">52.204-2</xref>, Security Requirements,
 the contractor shall ensure that subcontractors maintain their CAGE
 code(s) throughout the life of the contract.<?FM MARKER [Why] d. Adding paragraph (f).?></ph>
                </p>
