@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <topic id="FAR_53_300"
           ditaarch:DITAArchVersion="1.2"
-          class="- topic/topic ">
+          class="- topic/topic "
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">53.300</ph> Listing of Standard,
 Optional, and Agency forms.</title>
@@ -33,8 +35,16 @@ GSA Forms Library</title>
                           rowsep="1"
                           outputclass="Title_rule"
                           class="- topic/tgroup ">
-                     <colspec colnum="1" colname="1" colwidth="15*" class="- topic/colspec "/>
-                     <colspec colnum="2" colname="2" colwidth="85*" class="- topic/colspec "/>
+                     <colspec colnum="1"
+                              colname="1"
+                              colwidth="15*"
+                              class="- topic/colspec "
+                              rowheader="headers"/>
+                     <colspec colnum="2"
+                              colname="2"
+                              colwidth="85*"
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <thead class="- topic/thead ">
                         <row rowsep="1" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">Form Number</entry>
@@ -381,9 +391,21 @@ access the forms in Table 53-2 at the websites listed in the table.</p>
                           rowsep="1"
                           outputclass="Title_rule"
                           class="- topic/tgroup ">
-                     <colspec colnum="1" colname="1" colwidth="12*" class="- topic/colspec "/>
-                     <colspec colnum="2" colname="2" colwidth="47*" class="- topic/colspec "/>
-                     <colspec colnum="3" colname="3" colwidth="41*" class="- topic/colspec "/>
+                     <colspec colnum="1"
+                              colname="1"
+                              colwidth="12*"
+                              class="- topic/colspec "
+                              rowheader="headers"/>
+                     <colspec colnum="2"
+                              colname="2"
+                              colwidth="47*"
+                              class="- topic/colspec "
+                              rowheader="headers"/>
+                     <colspec colnum="3"
+                              colname="3"
+                              colwidth="41*"
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <thead class="- topic/thead ">
                         <row rowsep="1" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">Form Number</entry>

@@ -2,16 +2,21 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_22_001"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">22.001</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">
-            <i outputclass="Term" xtrf="_22.001" xtrc="d1286e15">Administrator</i> or
-“Administrator, Wage and Hour Division,” as used in this part, means
+            <i outputclass="Term"
+               xtrf="_22.001"
+               xtrc="d1286e15"
+               class="+ topic/ph hi-d/i ">Administrator</i> or
+"Administrator, Wage and Hour Division," as used in this part, means
 the— <ul class="- topic/ul ">
                <li class="- topic/li ">
                   <p class="- topic/p " id="d1290e14">Administrator</p>
@@ -31,11 +36,17 @@ the— <ul class="- topic/ul ">
             </ul>
          </p>
          <p class="- topic/p ">
-            <i outputclass="Term" xtrf="_22.001" xtrc="d1286e37">Agency
+            <i outputclass="Term"
+               xtrf="_22.001"
+               xtrc="d1286e37"
+               class="+ topic/ph hi-d/i ">Agency
 labor advisor</i> means an individual responsible for advising contracting
 agency officials on Federal contract labor matters.</p>
          <p class="- topic/p ">
-            <i outputclass="Term" xtrf="_22.001" xtrc="d1286e43">e98</i> means
+            <i outputclass="Term"
+               xtrf="_22.001"
+               xtrc="d1286e43"
+               class="+ topic/ph hi-d/i ">e98</i> means
 the Department of Labor’s approved electronic application ( <xref href="http://www.wdol.gov"
                   format="html"
                   scope="external"
@@ -44,7 +55,10 @@ whereby a contracting officer submits pertinent information to the
 Department of Labor and requests a Service Contract Labor Standards
 statute wage determination directly from the Wage and Hour Division.</p>
          <p id="d1290e39" class="- topic/p ">
-            <i outputclass="Term" xtrf="_22.001" xtrc="d1286e52">Service contract</i> means any Government contract,
+            <i outputclass="Term"
+               xtrf="_22.001"
+               xtrc="d1286e52"
+               class="+ topic/ph hi-d/i ">Service contract</i> means any Government contract,
 or subcontract thereunder, the principal purpose of which is to
 furnish services in the United States through the use of service
 employees, except as exempted by <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
@@ -63,15 +77,21 @@ Service Contract Labor Standards; see <xref href="22.1003-3.dita#FAR_22_1003_3"
                   class="- topic/xref ">22.1003-5</xref> and <ph outputclass="CFR" class="- topic/ph ">29 CFR 4.130</ph> for a partial list of
 services covered by the Service Contract Labor Standards statute.</p>
          <p id="d1290e58" class="- topic/p ">
-            <i outputclass="Term" xtrf="_22.001" xtrc="d1286e70">Service employee</i> means any person engaged
+            <i outputclass="Term"
+               xtrf="_22.001"
+               xtrc="d1286e70"
+               class="+ topic/ph hi-d/i ">Service employee</i> means any person engaged
 in the performance of a service contract other than any person employed
 in a bona fide executive, administrative, or professional capacity,
 as those terms are defined in <ph outputclass="CFR" class="- topic/ph ">29 CFR part
-541</ph>. The term “service employee” includes all such persons
+541</ph>. The term "service employee" includes all such persons
 regardless of any contractual relationship that may be alleged to
 exist between a contractor or subcontractor and such persons.</p>
          <p class="- topic/p ">
-            <i outputclass="Term" xtrf="_22.001" xtrc="d1286e76">Wage
+            <i outputclass="Term"
+               xtrf="_22.001"
+               xtrc="d1286e76"
+               class="+ topic/ph hi-d/i ">Wage
 Determinations OnLine (WDOL)</i> means the Government Internet website
 for both Construction Wage Rate Requirements statute and Service
 Contract Labor Standards statute wage determinations available at <xref href="http://www.wdol.gov"

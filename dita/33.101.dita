@@ -2,16 +2,21 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_33_101"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">33.101</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As used in this subpart-</p>
          <p class="- topic/p ">
-            <i outputclass="Term" xtrf="_33.101" xtrc="d2214e18">Day</i> means
+            <i outputclass="Term"
+               xtrf="_33.101"
+               xtrc="d2214e18"
+               class="+ topic/ph hi-d/i ">Day</i> means
 a calendar day, unless otherwise specified. In the computation of
 any period-<ol id="d2188e19" class="- topic/ol ">
                <li class="- topic/li ">
@@ -41,18 +46,27 @@ the closing of the forum for all or part of the day, in which event
 the next day on which the appropriate administrative forum is open
 is included.</p>
                               <p id="d2207e38" class="- topic/p ">
-                                 <i outputclass="Term" xtrf="_33.101" xtrc="d2214e65">Filed</i> means the complete
+                                 <i outputclass="Term"
+                                    xtrf="_33.101"
+                                    xtrc="d2214e65"
+                                    class="+ topic/ph hi-d/i ">Filed</i> means the complete
 receipt of any document by an agency before its close of business.
 Documents received after close of business are considered filed
 as of the next day. Unless otherwise stated, the agency close of
 business is presumed to be 4:30 p.m., local time.</p>
                               <p id="d2207e42" class="- topic/p ">
-                                 <i outputclass="Term" xtrf="_33.101" xtrc="d2214e71">Interested
+                                 <i outputclass="Term"
+                                    xtrf="_33.101"
+                                    xtrc="d2214e71"
+                                    class="+ topic/ph hi-d/i ">Interested
 party for the purpose of filing a protest</i> means an actual or
 prospective offeror whose direct economic interest would be affected
 by the award of a contract or by the failure to award a contract.</p>
                               <p id="d2207e46" class="- topic/p ">
-                                 <i outputclass="Term" xtrf="_33.101" xtrc="d2214e77">Protest</i> means a written objection by an
+                                 <i outputclass="Term"
+                                    xtrf="_33.101"
+                                    xtrc="d2214e77"
+                                    class="+ topic/ph hi-d/i ">Protest</i> means a written objection by an
 interested party to any of the following:<ul id="d2188e74" class="- topic/ul ">
                                     <li class="- topic/li ">
                                        <p id="d2207e52" class="- topic/p ">
@@ -77,7 +91,10 @@ of an award of the contract, if the written objection contains an
 allegation that the termination or cancellation is based in whole
 or in part on improprieties concerning the award of the contract.</p>
                                        <p id="d2207e63" class="- topic/p ">
-                                          <i outputclass="Term" xtrf="_33.101" xtrc="d2214e124">Protest venue</i> means protests filed with
+                                          <i outputclass="Term"
+                                             xtrf="_33.101"
+                                             xtrc="d2214e124"
+                                             class="+ topic/ph hi-d/i ">Protest venue</i> means protests filed with
 the agency, the Government Accountability Office, or the U.S. Court
 of Federal Claims. U.S. District Courts do not have any bid protest
 jurisdiction.</p>

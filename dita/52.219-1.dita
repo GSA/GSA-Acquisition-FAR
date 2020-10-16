@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_219_1"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.219-1</ph> Small Business Program
 Representations.</title>
@@ -25,8 +27,8 @@ Representations <ph outputclass="SmCaps" class="- topic/ph ">(Mar 2020)</ph>
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>.
 As used in this provision-</p>
-               <p id="d3265e27" class="- topic/p ">“Economically disadvantaged
-women-owned small business (EDWOSB) concern” means a small business
+               <p id="d3265e27" class="- topic/p ">"Economically disadvantaged
+women-owned small business (EDWOSB) concern" means a small business
 concern that is at least 51 percent directly and unconditionally
 owned by, and the management and daily business operations of which are
 controlled by, one or more women who are citizens of the United
@@ -34,7 +36,10 @@ States and who are economically disadvantaged in accordance with <ph outputclass
 as a women-owned small business concern eligible under the WOSB
 Program.</p>
                <p id="d3265e32" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.219-1" xtrc="d3269e45">Service-disabled veteran-owned small business
+                  <i outputclass="Term"
+                     xtrf="_52.219-1"
+                     xtrc="d3269e45"
+                     class="+ topic/ph hi-d/i ">Service-disabled veteran-owned small business
 concern</i>-<ol id="d3237e50" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3265e38" class="- topic/p ">
@@ -60,8 +65,8 @@ caregiver of such veteran.</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d3265e54" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph> “Service-disabled
-veteran” means a veteran, as defined in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> "Service-disabled
+veteran" means a veteran, as defined in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                  format="html"
                                  scope="external"
                                  class="- topic/xref ">38 U.S.C.101(2)</xref>, with
@@ -73,14 +78,20 @@ a disability that is service-connected, as defined in <xref href="http://uscode.
                   </ol>
                </p>
                <p id="d3265e64" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.219-1" xtrc="d3269e99">Small business concern</i> means a concern,
+                  <i outputclass="Term"
+                     xtrf="_52.219-1"
+                     xtrc="d3269e99"
+                     class="+ topic/ph hi-d/i ">Small business concern</i> means a concern,
 including its affiliates, that is independently owned and operated,
 not dominant in the field of operation in which it is bidding on
 Government contracts, and qualified as a small business under the
 criteria in <ph outputclass="CFR" class="- topic/ph ">13 CFR Part 121</ph> and the
 size standard in paragraph (b) of this provision.</p>
                <p id="d3265e71" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.219-1" xtrc="d3269e105">Small
+                  <i outputclass="Term"
+                     xtrf="_52.219-1"
+                     xtrc="d3269e105"
+                     class="+ topic/ph hi-d/i ">Small
 disadvantaged business concern,</i> consistent with <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.1002</ph>, means a small business
 concern under the size standard applicable to the acquisition, that-<ol id="d3237e104" class="- topic/ol ">
                      <li class="- topic/li ">
@@ -114,7 +125,7 @@ meet the criteria in paragraphs (1)(i) and (ii) of this definition.</p>
                      </li>
                   </ol>
                </p>
-               <p id="d3265e115" class="- topic/p ">“Veteran-owned small business concern” means
+               <p id="d3265e115" class="- topic/p ">"Veteran-owned small business concern" means
 a small business concern-</p>
                <ol id="d3237e149" class="- topic/ol ">
                   <li class="- topic/li ">
@@ -135,8 +146,8 @@ and daily business operations of which are controlled by one or
 more veterans.</p>
                   </li>
                </ol>
-               <p id="d3265e131" class="- topic/p ">“Women-owned small
-business concern” means a small business concern-</p>
+               <p id="d3265e131" class="- topic/p ">"Women-owned small
+business concern" means a small business concern-</p>
                <ol id="d3237e221" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3265e135" class="- topic/p ">
@@ -152,8 +163,8 @@ management and daily business operations are controlled by one or
 more women.</p>
                   </li>
                </ol>
-               <p id="d3265e144" class="- topic/p ">“Women-owned small
-business (WOSB) concern eligible under the WOSB Program” (in accordance
+               <p id="d3265e144" class="- topic/p ">"Women-owned small
+business (WOSB) concern eligible under the WOSB Program" (in accordance
 with <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph>), means a small
 business concern that is at least 51 percent directly and unconditionally
 owned by, and the management and daily business operations of which
@@ -461,12 +472,14 @@ in the solicitation:</p>
                            colname="1"
                            colwidth="50*"
                            colsep="0"
-                           class="- topic/colspec "/>
+                           class="- topic/colspec "
+                           rowheader="headers"/>
                   <colspec colnum="2"
                            colname="2"
                            colwidth="50*"
                            colsep="0"
-                           class="- topic/colspec "/>
+                           class="- topic/colspec "
+                           rowheader="headers"/>
                   <thead class="- topic/thead ">
                      <row rowsep="0" class="- topic/row ">
                         <entry colname="1" class="- topic/entry ">
@@ -554,12 +567,14 @@ it is submitting an offer.</p>
                            colname="1"
                            colwidth="50*"
                            colsep="0"
-                           class="- topic/colspec "/>
+                           class="- topic/colspec "
+                           rowheader="headers"/>
                   <colspec colnum="2"
                            colname="2"
                            colwidth="50*"
                            colsep="0"
-                           class="- topic/colspec "/>
+                           class="- topic/colspec "
+                           rowheader="headers"/>
                   <thead class="- topic/thead ">
                      <row rowsep="0" class="- topic/row ">
                         <entry colname="1" class="- topic/entry ">

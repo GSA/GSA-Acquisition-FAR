@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_222_62"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.222-62</ph> Paid Sick Leave Under
 Executive Order 13706.</title>
@@ -30,14 +32,20 @@ As used in this clause (in accordance with 29 CFR <xref href="Subpart_13.2.dita#
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">13.2</xref>)-</p>
                <p id="d3362e29" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.222-62" xtrc="d3366e43">Child</i>,
-“domestic partner”, and “domestic violence” have the meaning given
+                  <i outputclass="Term"
+                     xtrf="_52.222-62"
+                     xtrc="d3366e43"
+                     class="+ topic/ph hi-d/i ">Child</i>,
+"domestic partner", and "domestic violence" have the meaning given
 in 29 CFR <xref href="Subpart_13.2.dita#FAR_Subpart_13_2"
                         base="i1111868"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">13.2</xref>.</p>
                <p id="d3362e36" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.222-62" xtrc="d3366e52">Employee</i>–<ol id="d3331e44" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.222-62"
+                     xtrc="d3366e52"
+                     class="+ topic/ph hi-d/i ">Employee</i>–<ol id="d3331e44" class="- topic/ol ">
                      <li props="Runin" class="- topic/li ">
                         <p id="d3362e42" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph>
@@ -96,13 +104,13 @@ Apprenticeship Agency recognized by the Office of Apprenticeship.</p>
                            <li class="- topic/li ">
                               <p id="d3362e84" class="- topic/p ">
                                  <ph props="autonumber" class="- topic/ph ">(i)</ph> An
-employee performs “on” a contract if the employee directly performs
+employee performs "on" a contract if the employee directly performs
 the specific services called for by the contract; and</p>
                            </li>
                            <li class="- topic/li ">
                               <p id="d3362e89" class="- topic/p ">
                                  <ph props="autonumber" class="- topic/ph ">(ii)</ph> An employee
-performs “in connection with” a contract if the employee's work
+performs "in connection with" a contract if the employee's work
 activities are necessary to the performance of a contract but are
 not the specific services called for by the contract.</p>
                            </li>
@@ -111,30 +119,45 @@ not the specific services called for by the contract.</p>
                   </ol>
                </p>
                <p id="d3362e93" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.222-62" xtrc="d3366e157">Individual related by blood or affinity
+                  <i outputclass="Term"
+                     xtrf="_52.222-62"
+                     xtrc="d3366e157"
+                     class="+ topic/ph hi-d/i ">Individual related by blood or affinity
 whose close association with the employee is the equivalent of a
 family relationship</i> has the meaning given in 29 CFR <xref href="Subpart_13.2.dita#FAR_Subpart_13_2"
                         base="i1111868"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">13.2</xref>.</p>
                <p id="d3362e100" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.222-62" xtrc="d3366e167">Multiemployer
+                  <i outputclass="Term"
+                     xtrf="_52.222-62"
+                     xtrc="d3366e167"
+                     class="+ topic/ph hi-d/i ">Multiemployer
 plan</i> means a plan to which more than one employer is required
 to contribute and which is maintained pursuant to one or more collective
 bargaining agreements between one or more employee organizations
 and more than one employer.</p>
                <p id="d3362e104" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.222-62" xtrc="d3366e173">Paid
+                  <i outputclass="Term"
+                     xtrf="_52.222-62"
+                     xtrc="d3366e173"
+                     class="+ topic/ph hi-d/i ">Paid
 sick leave</i> means compensated absence from employment that is
 required by E.O. 13706 and <ph outputclass="CFR" class="- topic/ph ">29 CFR Part 13</ph>.</p>
                <p id="d3362e111" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.222-62" xtrc="d3366e181">Parent</i>, “sexual assault”, “spouse”,
-and “stalking” have the meaning given in 29 CFR <xref href="Subpart_13.2.dita#FAR_Subpart_13_2"
+                  <i outputclass="Term"
+                     xtrf="_52.222-62"
+                     xtrc="d3366e181"
+                     class="+ topic/ph hi-d/i ">Parent</i>, "sexual assault", "spouse",
+and "stalking" have the meaning given in 29 CFR <xref href="Subpart_13.2.dita#FAR_Subpart_13_2"
                         base="i1111868"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">13.2</xref>.</p>
                <p id="d3362e118" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.222-62" xtrc="d3366e190">United
+                  <i outputclass="Term"
+                     xtrf="_52.222-62"
+                     xtrc="d3366e190"
+                     class="+ topic/ph hi-d/i ">United
 States</i> means the 50 States and the District of Columbia.</p>
             </li>
             <li props="Runin" class="- topic/li ">

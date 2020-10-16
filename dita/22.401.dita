@@ -2,16 +2,21 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_22_401"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">22.401</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As used in this subpart-</p>
          <p class="- topic/p ">
-            <i outputclass="Term" xtrf="_22.401" xtrc="d1314e18">Apprentice</i> means
+            <i outputclass="Term"
+               xtrf="_22.401"
+               xtrc="d1314e18"
+               class="+ topic/ph hi-d/i ">Apprentice</i> means
 a person-<ol id="d1288e19" class="- topic/ol ">
                <li class="- topic/li ">
                   <ol id="d1288e23" class="- topic/ol ">
@@ -32,7 +37,10 @@ in the program, but who has been certified by the OATELS or a State
 Apprenticeship Agency (where appropriate) to be eligible for probationary
 employment as an apprentice.</p>
                         <p id="d1318e27" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_22.401" xtrc="d1314e46">Construction,
+                           <i outputclass="Term"
+                              xtrf="_22.401"
+                              xtrc="d1314e46"
+                              class="+ topic/ph hi-d/i ">Construction,
 alteration, or repair</i> means all types of work done by laborers
 and mechanics employed by the construction contractor or construction
 subcontractor on a particular building or work at the site thereof,
@@ -58,10 +66,10 @@ building or work;</p>
                                  <p id="d1318e44" class="- topic/p ">
                                     (4) Transportation of materials
 and supplies between the site of the work within the meaning of
-paragraphs (1)(i) and (ii) of the “site of the work” definition
+paragraphs (1)(i) and (ii) of the "site of the work" definition
 of this section, and a facility which is dedicated to the construction
 of the building or work and is deemed part of the site of the work
-within the meaning of paragraph (2) of the “site of work” definition
+within the meaning of paragraph (2) of the "site of work" definition
 of this section; and</p>
                               </li>
                               <li class="- topic/li ">
@@ -69,12 +77,15 @@ of this section; and</p>
                                     (5) Transportation of portions of
 the building or work between a secondary site where a significant
 portion of the building or work is constructed, which is part of
-the “site of the work” definition in paragraph (1)(ii) of this section,
+the "site of the work" definition in paragraph (1)(ii) of this section,
 and the physical place or places where the building or work will
-remain (paragraph (1)(i) in the “site of the work” definition of
+remain (paragraph (1)(i) in the "site of the work" definition of
 this section).</p>
                                  <p id="d1318e49" class="- topic/p ">
-                                    <i outputclass="Term" xtrf="_22.401" xtrc="d1314e100">Laborers or mechanics.</i>-<ul id="d1288e98" class="- topic/ul ">
+                                    <i outputclass="Term"
+                                       xtrf="_22.401"
+                                       xtrc="d1314e100"
+                                       class="+ topic/ph hi-d/i ">Laborers or mechanics.</i>-<ul id="d1288e98" class="- topic/ul ">
                                        <li class="- topic/li ">
                                           <p id="d1318e55" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(1)</ph> Means-</p>
@@ -118,14 +129,20 @@ or clerical, rather than manual. Persons employed in a bona fide
 executive, administrative, or professional capacity as defined in <ph outputclass="CFR" class="- topic/ph ">29 CFR part 541</ph> are not deemed to be
 laborers or mechanics.</p>
                                           <p id="d1318e91" class="- topic/p ">
-                                             <i outputclass="Term" xtrf="_22.401" xtrc="d1314e166">Public building or public
+                                             <i outputclass="Term"
+                                                xtrf="_22.401"
+                                                xtrc="d1314e166"
+                                                class="+ topic/ph hi-d/i ">Public building or public
 work</i> means building or work, the construction, prosecution,
 completion, or repair of which, as defined in this section, is carried
 on directly by authority of, or with funds of, a Federal agency
 to serve the interest of the general public regardless of whether
 title thereof is in a Federal agency.</p>
                                           <p id="d1318e95" class="- topic/p ">
-                                             <i outputclass="Term" xtrf="_22.401" xtrc="d1314e172">Site
+                                             <i outputclass="Term"
+                                                xtrf="_22.401"
+                                                xtrc="d1314e172"
+                                                class="+ topic/ph hi-d/i ">Site
 of the work.</i>-<ul class="- topic/ul ">
                                                 <li class="- topic/li ">
                                                    <p id="d1318e101" class="- topic/p ">
@@ -174,8 +191,8 @@ or project; and</p>
                                                       <li class="- topic/li ">
                                                          <p id="d1318e139" outputclass="List4" class="- topic/p ">
                                                             <ph props="autonumber" class="- topic/ph ">(ii)</ph> They
-are adjacent or virtually adjacent to the “primary site of the work”
-as defined in paragraphs (1)(i) of “the secondary site of the work”
+are adjacent or virtually adjacent to the "primary site of the work"
+as defined in paragraphs (1)(i) of "the secondary site of the work"
 as defined in paragraph (1)(ii) of this definition;</p>
                                                       </li>
                                                    </ul>
@@ -190,13 +207,16 @@ to a particular Federal contract or project. In addition, fabrication
 plants, batch plants, borrow pits, job headquarters, yards, etc.,
 of a commercial or material supplier which are established by a
 supplier of materials for the project before opening of bids and
-not on the project site, are not included in the “site of the work.”
+not on the project site, are not included in the "site of the work."
 Such permanent, previously established facilities are not a part
-of the “site of the work”, even if the operations for a period of
+of the "site of the work", even if the operations for a period of
 time may be dedicated exclusively, or nearly so, to the performance
 of a contract.</p>
                                                    <p id="d1318e148" class="- topic/p ">
-                                                      <i outputclass="Term" xtrf="_22.401" xtrc="d1314e271">Trainee</i> means a person
+                                                      <i outputclass="Term"
+                                                         xtrf="_22.401"
+                                                         xtrc="d1314e271"
+                                                         class="+ topic/ph hi-d/i ">Trainee</i> means a person
 registered and receiving on-thejob training in a construction occupation
 under a program which has been approved in advance by the U.S. Department
 of Labor, Employment and Training Administration, Office of Apprenticeship
@@ -204,7 +224,10 @@ Training, Employer, and Labor Services (OATELS), as meeting its
 standards for on-the-job training programs and which has been so
 certified by that Administration.</p>
                                                    <p id="d1318e152" class="- topic/p ">
-                                                      <i outputclass="Term" xtrf="_22.401" xtrc="d1314e277">Wages</i> means
+                                                      <i outputclass="Term"
+                                                         xtrf="_22.401"
+                                                         xtrc="d1314e277"
+                                                         class="+ topic/ph hi-d/i ">Wages</i> means
 the basic hourly rate of pay; any contribution irrevocably made
 by a contractor or subcontractor to a trustee or to a third person
 pursuant to a bona fide fringe benefit fund, plan, or program; and

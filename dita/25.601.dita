@@ -2,16 +2,21 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_25_601"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">25.601</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As used in this subpart-</p>
          <p class="- topic/p ">
-            <i outputclass="Term" xtrf="_25.601" xtrc="d1667e18">Domestic
+            <i outputclass="Term"
+               xtrf="_25.601"
+               xtrc="d1667e18"
+               class="+ topic/ph hi-d/i ">Domestic
 construction material</i> means the following:<ol id="d1641e19" class="- topic/ol ">
                <li class="- topic/li ">
                   <ol id="d1641e23" class="- topic/ol ">
@@ -29,15 +34,24 @@ and, if the construction material consists wholly or predominantly
 of iron or steel, the iron or steel was produced in the United States.
 (Section 1605 of the Recovery Act applies.)</p>
                         <p id="d1657e27" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_25.601" xtrc="d1667e46">Foreign
+                           <i outputclass="Term"
+                              xtrf="_25.601"
+                              xtrc="d1667e46"
+                              class="+ topic/ph hi-d/i ">Foreign
 construction material</i> means a construction material other than
 a domestic construction material.</p>
                         <p id="d1657e31" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_25.601" xtrc="d1667e52">Manufactured
+                           <i outputclass="Term"
+                              xtrf="_25.601"
+                              xtrc="d1667e52"
+                              class="+ topic/ph hi-d/i ">Manufactured
 construction material</i> means any construction material that is
 not unmanufactured construction material.</p>
                         <p id="d1657e35" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_25.601" xtrc="d1667e58">Public
+                           <i outputclass="Term"
+                              xtrf="_25.601"
+                              xtrc="d1667e58"
+                              class="+ topic/ph hi-d/i ">Public
 building or public work</i> means a building or work, the construction,
 prosecution, completion, or repair of which is carried on directly
 or indirectly by authority of, or with funds of, a Federal agency
@@ -53,16 +67,25 @@ docks, piers, wharves, ways, lighthouses, buoys, jetties, breakwaters,
 levees, and canals, and the construction, alteration, maintenance,
 or repair of such buildings and works.</p>
                         <p id="d1657e42" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_25.601" xtrc="d1667e67">Recovery
+                           <i outputclass="Term"
+                              xtrf="_25.601"
+                              xtrc="d1667e67"
+                              class="+ topic/ph hi-d/i ">Recovery
 Act designated country</i> means a World Trade Organization Government
 Procurement Agreement country, a Free Trade Agreement country, or
 a least developed country.</p>
                         <p id="d1657e46" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_25.601" xtrc="d1667e74">Steel</i> means an alloy
+                           <i outputclass="Term"
+                              xtrf="_25.601"
+                              xtrc="d1667e74"
+                              class="+ topic/ph hi-d/i ">Steel</i> means an alloy
 that includes at least 50 percent iron, between .02 and 2 percent
 carbon, and may include other elements.</p>
                         <p id="d1657e50" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_25.601" xtrc="d1667e80">Unmanufactured
+                           <i outputclass="Term"
+                              xtrf="_25.601"
+                              xtrc="d1667e80"
+                              class="+ topic/ph hi-d/i ">Unmanufactured
 construction material</i> means raw material brought to the construction
 site for incorporation into the building or work that has not been-<ol id="d1641e66" class="- topic/ol ">
                               <li class="- topic/li ">

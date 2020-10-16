@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_219_8"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.219-8</ph> Utilization of Small
 Business Concerns.</title>
@@ -27,12 +29,18 @@ Business Concerns <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2018)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>.
 As used in this contract—</p>
                <p id="d3272e27" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.219-8" xtrc="d3276e40">HUBZone small business
+                  <i outputclass="Term"
+                     xtrf="_52.219-8"
+                     xtrc="d3276e40"
+                     class="+ topic/ph hi-d/i ">HUBZone small business
 concern</i> means a small business concern, certified by the Small
 Business Administration, that appears on the List of Qualified HUBZone
 Small Business Concerns maintained by the Small Business Administration.</p>
                <p id="d3272e31" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.219-8" xtrc="d3276e46">Service-disabled veteran-owned small business
+                  <i outputclass="Term"
+                     xtrf="_52.219-8"
+                     xtrc="d3276e46"
+                     class="+ topic/ph hi-d/i ">Service-disabled veteran-owned small business
 concern</i>—<ol id="d3244e50" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3272e37" class="- topic/p ">
@@ -71,11 +79,17 @@ a disability that is service-connected, as defined in <xref href="http://uscode.
                   </ol>
                </p>
                <p id="d3272e63" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.219-8" xtrc="d3276e100">Small business concern</i> means a small
+                  <i outputclass="Term"
+                     xtrf="_52.219-8"
+                     xtrc="d3276e100"
+                     class="+ topic/ph hi-d/i ">Small business concern</i> means a small
 business as defined pursuant to Section 3 of the Small Business
 Act and relevant regulations promulgated pursuant thereto.</p>
                <p id="d3272e67" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.219-8" xtrc="d3276e107">Small disadvantaged business concern</i>,
+                  <i outputclass="Term"
+                     xtrf="_52.219-8"
+                     xtrc="d3276e107"
+                     class="+ topic/ph hi-d/i ">Small disadvantaged business concern</i>,
 consistent with <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.1002</ph>, means
 a small business concern under the size standard applicable to the
 acquisition, that-<ol id="d3244e104" class="- topic/ol ">
@@ -111,7 +125,10 @@ at 13.CFR 124.106) by individuals, who meet the criteria in paragraphs
                   </ol>
                </p>
                <p id="d3272e108" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.219-8" xtrc="d3276e155">Veteran-owned
+                  <i outputclass="Term"
+                     xtrf="_52.219-8"
+                     xtrc="d3276e155"
+                     class="+ topic/ph hi-d/i ">Veteran-owned
 small business concern</i> means a small business concern-<ol id="d3244e194" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3272e114" class="- topic/p ">
@@ -133,7 +150,10 @@ more veterans.</p>
                   </ol>
                </p>
                <p id="d3272e126" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.219-8" xtrc="d3276e185">Women-owned
+                  <i outputclass="Term"
+                     xtrf="_52.219-8"
+                     xtrc="d3276e185"
+                     class="+ topic/ph hi-d/i ">Women-owned
 small business concern</i> means a small business concern-<ol id="d3244e221" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3272e132" class="- topic/p ">

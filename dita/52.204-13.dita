@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_204_13"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.204-13</ph> System for Award
 Management Maintenance.</title>
@@ -26,7 +28,10 @@ Maintenance. <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2018)</ph>
                   <ph props="autonumber" class="- topic/ph ">(a)</ph> Definitions.
 As used in this clause—</p>
                <p id="d3081e25" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.204-13" xtrc="d3085e37">Electronic Funds Transfer
+                  <i outputclass="Term"
+                     xtrf="_52.204-13"
+                     xtrc="d3085e37"
+                     class="+ topic/ph hi-d/i ">Electronic Funds Transfer
 (EFT) indicator</i> means a four-character suffix to the unique
 entity identifier. The suffix is assigned at the discretion of the
 commercial, nonprofit, or Government entity to establish additional
@@ -37,7 +42,10 @@ EFT accounts (see <xref href="Subpart_32.11.dita#FAR_Subpart_32_11"
                         class="- topic/xref ">subpart  32.11</xref>)
 for the same entity.</p>
                <p id="d3081e32" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.204-13" xtrc="d3085e46">Registered in the System
+                  <i outputclass="Term"
+                     xtrf="_52.204-13"
+                     xtrc="d3085e46"
+                     class="+ topic/ph hi-d/i ">Registered in the System
 for Award Management (SAM)</i> means that–<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3081e38" class="- topic/p ">
@@ -69,12 +77,15 @@ process; and</p>
                      <li class="- topic/li ">
                         <p id="d3081e56" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(4)</ph> The Government
-has marked the record “Active”.</p>
+has marked the record "Active".</p>
                      </li>
                   </ol>
                </p>
                <p id="d3081e60" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.204-13" xtrc="d3085e94">System
+                  <i outputclass="Term"
+                     xtrf="_52.204-13"
+                     xtrc="d3085e94"
+                     class="+ topic/ph hi-d/i ">System
 for Award Management (SAM)</i> means the primary Government repository
 for prospective Federal awardee and Federal awardee information
 and the centralized Government system for certain contracting, grants,
@@ -101,7 +112,10 @@ of those parties excluded from receiving Federal contracts, certain
 subcontracts, and certain types of Federal financial and non-financial
 assistance and benefits.</p>
                         <p id="d3081e83" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_52.204-13" xtrc="d3085e132">Unique entity identifier</i> means
+                           <i outputclass="Term"
+                              xtrf="_52.204-13"
+                              xtrc="d3085e132"
+                              class="+ topic/ph hi-d/i ">Unique entity identifier</i> means
 a number or other identifier used to identify a specific commercial,
 nonprofit, or Government entity. See <xref href="http://www.sam.gov"
                                  format="html"
@@ -153,7 +167,7 @@ for a properly executed contractual document.</p>
                         <li class="- topic/li ">
                            <p id="d3081e114" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> If a Contractor
-has legally changed its business name or “doing business as” name
+has legally changed its business name or "doing business as" name
 (whichever is shown on the contract), or has transferred the assets
 used in performing the contract, but has not completed the necessary requirements
 regarding novation and change-of-name agreements in subpart <xref href="Subpart_42.12.dita#FAR_Subpart_42_12"
@@ -194,7 +208,7 @@ of this clause, and, in the absence of a properly executed novation
 or change-of-name agreement, the SAM information that shows the
 Contractor to be other than the Contractor indicated in the contract
 will be considered to be incorrect information within the meaning
-of the “Suspension of Payment” paragraph of the electronic funds
+of the "Suspension of Payment" paragraph of the electronic funds
 transfer (EFT) clause of this contract.</p>
                         </li>
                      </ol>
@@ -212,7 +226,7 @@ of Claims). Assignees shall be separately registered in the SAM.
 Information provided to the Contractor’s SAM record that indicates
 payments, including those made by EFT, to an ultimate recipient
 other than that Contractor will be considered to be incorrect information
-within the meaning of the “Suspension of Payment” paragraph of the
+within the meaning of the "Suspension of Payment" paragraph of the
 EFT clause of this contract.</p>
                   </li>
                   <li class="- topic/li ">

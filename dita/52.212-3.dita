@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_212_3"
             domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
@@ -39,15 +40,18 @@ certifications electronically, the Offeror shall complete only paragraphs
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>.
 As used in this provision—</p>
-               <p id="d3152e32" class="- topic/p ">“Covered telecommunications
-equipment or services” has the meaning provided in the clause <xref href="52.204-25.dita#FAR_52_204_25"
+               <p id="d3152e32" class="- topic/p ">"Covered telecommunications
+equipment or services" has the meaning provided in the clause <xref href="52.204-25.dita#FAR_52_204_25"
                         base="id1989I600I4C"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.204-25</xref>, Prohibition
 on Contracting for Certain Telecommunications and Video Surveillance
 Services or Equipment.</p>
                <p id="d3152e37" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e60">Economically disadvantaged
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e60"
+                     class="+ topic/ph hi-d/i ">Economically disadvantaged
 women-owned small business (EDWOSB) concern</i> means a small business
 concern that is at least 51 percent directly and unconditionally
 owned by, and the management and daily business operations of which
@@ -55,7 +59,10 @@ are controlled by, one or more women who are citizens of the United
 States and who are economically disadvantaged in accordance with <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph>. It automatically qualifies
 as a women-owned small business eligible under the WOSB Program.</p>
                <p id="d3152e44" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e66">Forced or indentured child labor</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e66"
+                     class="+ topic/ph hi-d/i ">Forced or indentured child labor</i> means
 all work or service—<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3152e50" class="- topic/p ">
@@ -73,20 +80,29 @@ of which can be accomplished by process or penalties.</p>
                   </ol>
                </p>
                <p id="d3152e59" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e94">Highest-level owner</i> means the entity
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e94"
+                     class="+ topic/ph hi-d/i ">Highest-level owner</i> means the entity
 that owns or controls an immediate owner of the offeror, or that
 owns or controls one or more entities that control an immediate
 owner of the offeror. No entity owns or exercises control of the
 highest level owner.</p>
                <p id="d3152e63" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e100">Immediate owner</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e100"
+                     class="+ topic/ph hi-d/i ">Immediate owner</i> means
 an entity, other than the offeror, that has direct control of the
 offeror. Indicators of control include, but are not limited to,
 one or more of the following: ownership or interlocking management,
 identity of interests among family members, shared facilities and
 equipment, and the common use of employees.</p>
                <p id="d3152e67" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e106">Inverted
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e106"
+                     class="+ topic/ph hi-d/i ">Inverted
 domestic corporation</i>, means a foreign incorporated entity that
 meets the definition of an inverted domestic corporation under <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section395&amp;num=0&amp;edition=prelim"
                         format="html"
@@ -97,7 +113,10 @@ in accordance with the rules and definitions of <xref href="http://uscode.house.
                         scope="external"
                         class="- topic/xref ">6 U.S.C. 395</xref>(c).</p>
                <p id="d3152e77" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e118">Manufactured end product</i> means any end
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e118"
+                     class="+ topic/ph hi-d/i ">Manufactured end product</i> means any end
 product in product and service codes (PSCs) 1000-9999, except—<ol id="d3125e60" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3152e83" class="- topic/p ">
@@ -152,19 +171,28 @@ Additive Metal Materials.</p>
                   </ol>
                </p>
                <p id="d3152e132" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e218">Place
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e218"
+                     class="+ topic/ph hi-d/i ">Place
 of manufacture</i> means the place where an end product is assembled
 out of components, or otherwise made or processed from raw materials
 into the finished product that is to be provided to the Government.
 If a product is disassembled and reassembled, the place of reassembly
 is not the place of manufacture.</p>
                <p id="d3152e136" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e225">Predecessor</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e225"
+                     class="+ topic/ph hi-d/i ">Predecessor</i> means
 an entity that is replaced by a successor and includes any predecessors
 of the predecessor.</p>
                <p class="- topic/p " id="d3152e140">
                   <ph rev="FAC 2020-09 October 26, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-013?>
-                     <i outputclass="Term" xtrf="_52.212-3" xtrc="d41e143">Reasonable inquiry</i> has the meaning
+                     <i outputclass="Term"
+                        xtrf="_52.212-3"
+                        xtrc="d41e143"
+                        class="+ topic/ph hi-d/i ">Reasonable inquiry</i> has the meaning
 provided in the clause <xref href="52.204-25.dita#FAR_52_204_25"
                            base="id1989I600I4C"
                            outputclass="fm:ParaNumOnly"
@@ -173,7 +201,10 @@ Prohibition on Contracting for Certain Telecommunications and Video
 Surveillance Services or Equipment.<?FM MARKER [Why] b. In paragraph (a) adding the definition “Reasonable inquiry” in alphabetical order;?></ph>
                </p>
                <p id="d3152e151" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e231">Restricted
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e231"
+                     class="+ topic/ph hi-d/i ">Restricted
 business operations</i> means business operations in Sudan that
 include power production activities, mineral extraction activities,
 oil-related activities, or the production of military equipment,
@@ -216,12 +247,15 @@ or education; or</p>
                      <li class="- topic/li ">
                         <p id="d3152e182" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(6)</ph> Have been
-voluntarily suspended.“Sensitive technology”—</p>
+voluntarily suspended."Sensitive technology"—</p>
                      </li>
                   </ol>
                </p>
                <p id="d3152e186" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e295">Sensitive technology</i>—<ol id="d3125e222" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e295"
+                     class="+ topic/ph hi-d/i ">Sensitive technology</i>—<ol id="d3125e222" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3152e192" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Means
@@ -251,7 +285,10 @@ Powers Act (50 U.S.C. 1702(b)(3)).</p>
                   </ol>
                </p>
                <p id="d3152e212" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e343">Service-disabled
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e343"
+                     class="+ topic/ph hi-d/i ">Service-disabled
 veteran-owned small business concern</i>—<ol id="d3125e267" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3152e218" class="- topic/p ">
@@ -290,14 +327,20 @@ with a disability that is service connected, as defined in <xref href="http://us
                   </ol>
                </p>
                <p id="d3152e244" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e398">Small business concern</i> means a concern,
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e398"
+                     class="+ topic/ph hi-d/i ">Small business concern</i> means a concern,
 including its affiliates, that is independently owned and operated,
 not dominant in the field of operation in which it is bidding on
 Government contracts, and qualified as a small business under the
 criteria in <ph outputclass="CFR" class="- topic/ph ">13 CFR Part 121</ph> and size
 standards in this solicitation.</p>
                <p id="d3152e251" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e404">Small
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e404"
+                     class="+ topic/ph hi-d/i ">Small
 disadvantaged business concern</i>, consistent with13 CFR 124.1002,
 means a small business concern under the size standard applicable
 to the acquisition, that—<ol id="d3125e315" class="- topic/ol ">
@@ -333,7 +376,10 @@ at 13.CFR 124.106) by individuals, who meet the criteria in paragraphs
                   </ol>
                </p>
                <p id="d3152e283" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e452">Subsidiary</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e452"
+                     class="+ topic/ph hi-d/i ">Subsidiary</i> means
 an entity in which more than 50 percent of the entity is owned—<ol id="d3125e360" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3152e289" class="- topic/p ">
@@ -348,16 +394,22 @@ another subsidiary of a parent corporation</p>
                   </ol>
                </p>
                <p id="d3152e298" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e480">Successor</i> means an entity that has replaced
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e480"
+                     class="+ topic/ph hi-d/i ">Successor</i> means an entity that has replaced
 a predecessor by acquiring the assets and carrying out the affairs
 of the predecessor under a new name (often through acquisition or
-merger). The term “successor” does not include new offices/divisions
+merger). The term "successor" does not include new offices/divisions
 of the same company or a company that only changes its name. The
 extent of the responsibility of the successor for the liabilities
 of the predecessor may vary, depending on State law and specific
 circumstances.</p>
                <p id="d3152e302" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e486">Veteran-owned small business
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e486"
+                     class="+ topic/ph hi-d/i ">Veteran-owned small business
 concern</i> means a small business concern—<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3152e308" class="- topic/p ">
@@ -375,7 +427,10 @@ more veterans.</p>
                   </ol>
                </p>
                <p id="d3152e317" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.212-3" xtrc="d3156e513">Women-owned
+                  <i outputclass="Term"
+                     xtrf="_52.212-3"
+                     xtrc="d3156e513"
+                     class="+ topic/ph hi-d/i ">Women-owned
 small business (WOSB) concern eligible under the WOSB Program</i> (in
 accordance with <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph>), means
 a small business concern that is at least 51 percent directly and
@@ -775,11 +830,11 @@ outside the United States. The offeror shall list as foreign end
 products those end products manufactured in the United States that
 do not qualify as domestic end products,<i class="+ topic/ph hi-d/i ">i.e.</i>, an end product
 that is not a COTS item and does not meet the component test in
-paragraph (2) of the definition of “domestic end product.” The terms
-“commercially available off-the-shelf (COTS) item” “component,”
-“domestic end product,” “end product,” “foreign end product,” and
-“United States” are defined in the clause of this solicitation entitled
-“Buy American-Supplies.”</p>
+paragraph (2) of the definition of "domestic end product." The terms
+"commercially available off-the-shelf (COTS) item" "component,"
+"domestic end product," "end product," "foreign end product," and
+"United States" are defined in the clause of this solicitation entitled
+"Buy American-Supplies."</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3152e676" class="- topic/p ">
@@ -795,12 +850,14 @@ End Products:</p>
                                     colname="1"
                                     colwidth="50*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <colspec colnum="2"
                                     colname="2"
                                     colwidth="50*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <thead class="- topic/thead ">
                               <row rowsep="0" class="- topic/row ">
                                  <entry colname="1"
@@ -880,13 +937,13 @@ certifies that each end product, except those listed in paragraph
 (g)(1)(ii) or (g)(1)(iii) of this provision, is a domestic end product
 and that for other than COTS items, the offeror has considered components
 of unknown origin to have been mined, produced, or manufactured
-outside the United States. The terms “Bahrainian, Moroccan, Omani,
-Panamanian, or Peruvian end product,” “commercially available off-the-shelf
-(COTS) item,” “component,” “domestic end product,” “end product,”
-“foreign end product,” “Free Trade Agreement country,” “Free Trade
-Agreement country end product,” “Israeli end product,” and “United
-States” are defined in the clause of this solicitation entitled
-“Buy American-Free Trade Agreements–Israeli Trade Act.”</p>
+outside the United States. The terms "Bahrainian, Moroccan, Omani,
+Panamanian, or Peruvian end product," "commercially available off-the-shelf
+(COTS) item," "component," "domestic end product," "end product,"
+"foreign end product," "Free Trade Agreement country," "Free Trade
+Agreement country end product," "Israeli end product," and "United
+States" are defined in the clause of this solicitation entitled
+"Buy American-Free Trade Agreements–Israeli Trade Act."</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3152e747" class="- topic/p ">
@@ -894,8 +951,8 @@ States” are defined in the clause of this solicitation entitled
 certifies that the following supplies are Free Trade Agreement country
 end products (other than Bahrainian, Moroccan, Omani, Panamanian,
 or Peruvian end products) or Israeli end products as defined in
-the clause of this solicitation entitled “Buy American-Free Trade
-Agreements-Israeli Trade Act”:</p>
+the clause of this solicitation entitled "Buy American-Free Trade
+Agreements-Israeli Trade Act":</p>
                            <p id="d3152e751" outputclass="Ctr" class="- topic/p ">Free Trade Agreement Country End Products
 (Other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian End
 Products) or Israeli End Products:</p>
@@ -909,12 +966,14 @@ Products) or Israeli End Products:</p>
                                           colname="1"
                                           colwidth="50*"
                                           colsep="0"
-                                          class="- topic/colspec "/>
+                                          class="- topic/colspec "
+                                          rowheader="headers"/>
                                  <colspec colnum="2"
                                           colname="2"
                                           colwidth="50*"
                                           colsep="0"
-                                          class="- topic/colspec "/>
+                                          class="- topic/colspec "
+                                          rowheader="headers"/>
                                  <thead class="- topic/thead ">
                                     <row rowsep="0" class="- topic/row ">
                                        <entry colname="1"
@@ -965,12 +1024,12 @@ as necessary</i>]</p>
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph> The
 offeror shall list those supplies that are foreign end products
 (other than those listed in paragraph (g)(1)(ii) of this provision)
-as defined in the clause of this solicitation entitled “Buy American-Free
-Trade Agreements-Israeli Trade Act.” The offeror shall list as other
+as defined in the clause of this solicitation entitled "Buy American-Free
+Trade Agreements-Israeli Trade Act." The offeror shall list as other
 foreign end products those end products manufactured in the United
 States that do not qualify as domestic end products, <i class="+ topic/ph hi-d/i ">i.e.</i>,
 an end product that is not a COTS item and does not meet the component
-test in paragraph (2) of the definition of “domestic end product.”</p>
+test in paragraph (2) of the definition of "domestic end product."</p>
                            <p id="d3152e798" outputclass="Ctr" class="- topic/p ">Other Foreign End Products:</p>
                            <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
                               <tgroup cols="2"
@@ -982,12 +1041,14 @@ test in paragraph (2) of the definition of “domestic end product.”</p>
                                           colname="1"
                                           colwidth="50*"
                                           colsep="0"
-                                          class="- topic/colspec "/>
+                                          class="- topic/colspec "
+                                          rowheader="headers"/>
                                  <colspec colnum="2"
                                           colname="2"
                                           colwidth="50*"
                                           colsep="0"
-                                          class="- topic/colspec "/>
+                                          class="- topic/colspec "
+                                          rowheader="headers"/>
                                  <thead class="- topic/thead ">
                                     <row rowsep="0" class="- topic/row ">
                                        <entry colname="1"
@@ -1058,7 +1119,7 @@ for paragraph (g)(1)(ii) of the basic provision:</p>
                      <p id="d3152e852" class="- topic/p ">(g)(1)(ii)
 The offeror certifies that the following supplies are Canadian end
 products as defined in the clause of this solicitation entitled
-“Buy American-Free Trade Agreements-Israeli Trade Act”:</p>
+"Buy American-Free Trade Agreements-Israeli Trade Act":</p>
                      <p id="d3152e854" outputclass="Ctr" class="- topic/p ">Canadian End Products:</p>
                      <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
                         <tgroup cols="1"
@@ -1070,7 +1131,8 @@ products as defined in the clause of this solicitation entitled
                                     colname="1"
                                     colwidth="100*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <thead class="- topic/thead ">
                               <row rowsep="0" class="- topic/row ">
                                  <entry colname="1"
@@ -1116,8 +1178,8 @@ for paragraph (g)(1)(ii) of the basic provision:</p>
                      <p id="d3152e891" class="- topic/p ">(g)(1)(ii)
 The offeror certifies that the following supplies are Canadian end
 products or Israeli end products as defined in the clause of this
-solicitation entitled “Buy American-Free Trade Agreements-Israeli
-Trade Act”:</p>
+solicitation entitled "Buy American-Free Trade Agreements-Israeli
+Trade Act":</p>
                      <p id="d3152e893" outputclass="Ctr" class="- topic/p ">Canadian
 or Israeli End Products:</p>
                      <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
@@ -1130,12 +1192,14 @@ or Israeli End Products:</p>
                                     colname="1"
                                     colwidth="50*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <colspec colnum="2"
                                     colname="2"
                                     colwidth="50*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <thead class="- topic/thead ">
                               <row rowsep="0" class="- topic/row ">
                                  <entry colname="1"
@@ -1196,8 +1260,8 @@ for paragraph (g)(1)(ii) of the basic provision:</p>
 The offeror certifies that the following supplies are Free Trade
 Agreement country end products (other than Bahrainian, Korean, Moroccan,
 Omani, Panamanian, or Peruvian end products) or Israeli end products
-as defined in the clause of this solicitation entitled “Buy American-Free
-Trade Agreements-Israeli Trade Act”:</p>
+as defined in the clause of this solicitation entitled "Buy American-Free
+Trade Agreements-Israeli Trade Act":</p>
                      <p id="d3152e944" outputclass="Ctr" class="- topic/p ">Free Trade Agreement Country End Products
 (Other than Bahrainian, Korean, Moroccan, Omani, Panamanian, or
 Peruvian End Products) or Israeli End Products:</p>
@@ -1211,12 +1275,14 @@ Peruvian End Products) or Israeli End Products:</p>
                                     colname="1"
                                     colwidth="50*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <colspec colnum="2"
                                     colname="2"
                                     colwidth="50*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <thead class="- topic/thead ">
                               <row rowsep="0" class="- topic/row ">
                                  <entry colname="1"
@@ -1278,7 +1344,7 @@ is included in this solicitation.)</p>
 certifies that each end product, except those listed in paragraph
 (g)(5)(ii) of this provision, is a U.S.-made or designated country
 end product, as defined in the clause of this solicitation entitled
-“Trade Agreements.”</p>
+"Trade Agreements."</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d3152e1000" class="- topic/p ">
@@ -1296,12 +1362,14 @@ U.S.-made or designated country end products.</p>
                                           colname="1"
                                           colwidth="50*"
                                           colsep="0"
-                                          class="- topic/colspec "/>
+                                          class="- topic/colspec "
+                                          rowheader="headers"/>
                                  <colspec colnum="2"
                                           colname="2"
                                           colwidth="50*"
                                           colsep="0"
-                                          class="- topic/colspec "/>
+                                          class="- topic/colspec "
+                                          rowheader="headers"/>
                                  <thead class="- topic/thead ">
                                     <row rowsep="0" class="- topic/row ">
                                        <entry colname="1"
@@ -1540,12 +1608,14 @@ end products.</i>
                                     colname="1"
                                     colwidth="48*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <colspec colnum="2"
                                     colname="2"
                                     colwidth="52*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <thead class="- topic/thead ">
                               <row rowsep="0" class="- topic/row ">
                                  <entry colname="1"
@@ -2064,14 +2134,14 @@ for each participant in the joint venture.</p>
                   <li class="- topic/li ">
                      <p id="d3152e1580" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> If the
-Offeror indicates “has” in paragraph (p)(1) of this provision, enter
+Offeror indicates "has" in paragraph (p)(1) of this provision, enter
 the following information:</p>
                      <p id="d3152e1584" class="- topic/p ">Immediate owner
 CAGE code: ____________________.</p>
                      <p id="d3152e1586" class="- topic/p ">Immediate
 owner legal name: _____________________.</p>
                      <p id="d3152e1588" class="- topic/p ">(Do
-not use a “doing business as” name)</p>
+not use a "doing business as" name)</p>
                      <p id="d3152e1590" class="- topic/p ">Is the
 immediate owner owned or controlled by another entity: <cite outputclass="Checkbox"
                               xtrc="52.212-3_d81e1594"
@@ -2083,7 +2153,7 @@ or <cite outputclass="Checkbox"
                   <li class="- topic/li ">
                      <p id="d3152e1599" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph> If the
-Offeror indicates “yes” in paragraph (p)(2) of this provision, indicating
+Offeror indicates "yes" in paragraph (p)(2) of this provision, indicating
 that the immediate owner is owned or controlled by another entity,
 then enter the following information:</p>
                      <p id="d3152e1603" class="- topic/p ">Highest-level
@@ -2091,7 +2161,7 @@ owner CAGE code: __________________.</p>
                      <p id="d3152e1605" class="- topic/p ">Highest-level
 owner legal name: ___________________.</p>
                      <p id="d3152e1607" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">Do
-not use a “doing business as” name</i>)</p>
+not use a "doing business as" name</i>)</p>
                   </li>
                </ol>
             </li>
@@ -2191,20 +2261,20 @@ grant within the last three years.</p>
                   <li class="- topic/li ">
                      <p id="d3152e1686" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> If the
-Offeror has indicated “is” in paragraph (r)(1) of this provision,
+Offeror has indicated "is" in paragraph (r)(1) of this provision,
 enter the following information for all predecessors that held a
 Federal contract or grant within the last three years (if more than
 one predecessor, list in reverse chronological order):</p>
                      <ul class="- topic/ul ">
                         <li class="- topic/li ">
-                           <p id="d3152e1692" class="- topic/p ">Predecessor CAGE code: <u class="+ topic/ph hi-d/u "/>(or mark “Unknown”).</p>
+                           <p id="d3152e1692" class="- topic/p ">Predecessor CAGE code: <u class="+ topic/ph hi-d/u "/>(or mark "Unknown").</p>
                            <p id="d3152e1696" class="- topic/p ">Predecessor legal name:<u class="+ topic/ph hi-d/u ">
                                  <u class="+ topic/ph hi-d/u "/>
                                  <u class="+ topic/ph hi-d/u "/>
                                  <u class="+ topic/ph hi-d/u "/>
                                  <u class="+ topic/ph hi-d/u "/>
                               </u>____.</p>
-                           <p id="d3152e1704" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">Do not use a “doing business as” name</i>).</p>
+                           <p id="d3152e1704" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">Do not use a "doing business as" name</i>).</p>
                         </li>
                      </ul>
                   </li>
@@ -2278,7 +2348,7 @@ third-party greenhouse gas emissions reporting program.</p>
                   <li class="- topic/li ">
                      <p id="d3152e1764" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph> If the
-Offeror checked “does” in paragraphs (t)(2)(i) or (t)(2)(ii) of
+Offeror checked "does" in paragraphs (t)(2)(i) or (t)(2)(ii) of
 this provision, respectively, the Offeror shall provide the publicly
 accessible website(s) where greenhouse gas emissions and/or reduction
 goals are reported:_________________.</p>
@@ -2346,8 +2416,8 @@ Management (SAM) (<xref href="https://www.sam.gov"
                               format="html"
                               scope="external"
                               class="- topic/xref ">https://www.sam.gov</xref>) for entities
-excluded from receiving federal awards for “covered telecommunications
-equipment or services”.</p>
+excluded from receiving federal awards for "covered telecommunications
+equipment or services".</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3152e1815" class="- topic/p ">
@@ -2373,7 +2443,11 @@ instrument.</ph>
                            <p class="- topic/p " id="d3152e1836">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               <ph rev="FAC 2020-09 October 26, 2020" class="- topic/ph ">After conducting
-a reasonable inquiry for purposes of this representation, that it <cite outputclass="Checkbox" xtrc="52.212-3_d41e1840">□</cite> does, <cite outputclass="Checkbox" xtrc="52.212-3_d41e1843">□</cite> does not use covered telecommunications
+a reasonable inquiry for purposes of this representation, that it <cite outputclass="Checkbox"
+                                       xtrc="52.212-3_d41e1840"
+                                       class="- topic/cite ">□</cite> does, <cite outputclass="Checkbox"
+                                       xtrc="52.212-3_d41e1843"
+                                       class="- topic/cite ">□</cite> does not use covered telecommunications
 equipment or services, or any equipment, system, or service that
 uses covered telecommunications equipment or services.</ph>
                            </p>

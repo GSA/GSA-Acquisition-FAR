@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_8_405_3"
             domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
@@ -113,12 +114,12 @@ perform the work;</p>
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph> The BPA
 provides only for firm-fixed priced orders for-</p>
                                  <ol id="d459e174" class="- topic/ol ">
-                                    <li outputclass="italic" xtrf="8.405-3_d25e106">
+                                    <li outputclass="italic" xtrf="8.405-3_d25e106" class="- topic/li ">
                                        <p id="d474e107" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Products
 with unit prices established in the BPA; or</p>
                                     </li>
-                                    <li outputclass="italic" xtrf="8.405-3_d25e111">
+                                    <li outputclass="italic" xtrf="8.405-3_d25e111" class="- topic/li ">
                                        <p id="d474e112" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Services
 with prices established in the BPA for specific tasks to be performed;</p>
@@ -297,7 +298,7 @@ threshold.</i>
                                  <p id="d474e271" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph> The ordering activity shall:</p>
                                  <ol id="d459e458" class="- topic/ol ">
-                                    <li outputclass="italic" xtrf="8.405-3_d25e276">
+                                    <li outputclass="italic" xtrf="8.405-3_d25e276" class="- topic/li ">
                                        <p id="d474e277" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Consider reasonably available
 information about the supply or service offered under MAS contracts
@@ -309,7 +310,7 @@ quotations from at least three schedule contractors (see <xref href="8.405-5.dit
                                                 outputclass="fm:ParaNumOnly"
                                                 class="- topic/xref ">8.405-5</xref>); or</p>
                                     </li>
-                                    <li outputclass="italic" xtrf="8.405-3_d25e284">
+                                    <li outputclass="italic" xtrf="8.405-3_d25e284" class="- topic/li ">
                                        <p id="d474e285" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Document
 the circumstances for restricting consideration to fewer than three
@@ -605,7 +606,7 @@ in accordance with <xref href="8.405-6.dita#FAR_8_405_6"
                                           class="- topic/xref ">8.405-6</xref>.
 The ordering activity shall-</p>
                                  <ol id="d459e861" class="- topic/ol ">
-                                    <li outputclass="italic" xtrf="8.405-3_d25e516">
+                                    <li outputclass="italic" xtrf="8.405-3_d25e516" class="- topic/li ">
                                        <p id="d474e517" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Provide
 an RFQ to all BPA holders offering the required supplies or services
@@ -613,13 +614,13 @@ under the multiple-award BPAs, to include a description of the supplies
 to be delivered or the services to be performed and the basis upon
 which the selection will be made;</p>
                                     </li>
-                                    <li outputclass="italic" xtrf="8.405-3_d25e521">
+                                    <li outputclass="italic" xtrf="8.405-3_d25e521" class="- topic/li ">
                                        <p id="d474e522" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Afford
 all BPA holders responding to the RFQ an opportunity to submit a
 quote; and</p>
                                     </li>
-                                    <li outputclass="italic" xtrf="8.405-3_d25e526">
+                                    <li outputclass="italic" xtrf="8.405-3_d25e526" class="- topic/li ">
                                        <p id="d474e527" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(3)</ph> Fairly
 consider all responses received and make award in accordance with

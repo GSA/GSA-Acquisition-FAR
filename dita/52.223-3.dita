@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_223_3"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.223-3</ph> Hazardous Material
 				Identification and Material Safety Data.</title>
@@ -32,8 +33,8 @@
                   
                   
 							           
-							“Hazardous
-							material,” as used in this clause, includes any material defined
+							"Hazardous
+							material," as used in this clause, includes any material defined
 							as hazardous under the latest version of Federal Standard No.313
 							(including revisions adopted during the term of the contract).</p>
             </li>
@@ -75,7 +76,7 @@
                      <tbody class="- topic/tbody ">
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p outputclass="Ctr" class="- topic/p ">Material (<i class="+ topic/ph hi-d/i ">Ifnone,insert“None”</i>)</p>
+                              <p outputclass="Ctr" class="- topic/p ">Material (<i class="+ topic/ph hi-d/i ">Ifnone,insert"None"</i>)</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p outputclass="Ctr" class="- topic/p ">Identification No.</p>

@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_245_1"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.245-1</ph> Government Property.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -25,16 +27,22 @@ the following clause:</p>
                   <i class="+ topic/ph hi-d/i ">Definitions.</i> As
 used in this clause-</p>
                <p id="d3631e27" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">“Cannibalize”</i> means
+                  <i class="+ topic/ph hi-d/i ">"Cannibalize"</i> means
 to remove parts from Government property for use or for installation
 on other Government property.</p>
                <p id="d3631e31" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e46">Contractor-acquired
+                  <i outputclass="Term"
+                     xtrf="_52.245-1"
+                     xtrc="d3633e46"
+                     class="+ topic/ph hi-d/i ">Contractor-acquired
 property</i> means property acquired, fabricated, or otherwise provided
 by the Contractor for performing a contract, and to which the Government
 has title.</p>
                <p id="d3631e35" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e52">Contractor inventory</i> means-<ol id="d3599e50" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.245-1"
+                     xtrc="d3633e52"
+                     class="+ topic/ph hi-d/i ">Contractor inventory</i> means-<ol id="d3599e50" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3631e41" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Any
@@ -64,7 +72,10 @@ under the entire contract.</p>
             </li>
          </ol>
          <p id="d3628e81" class="- topic/p ">
-            <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e90">Contractor’s managerial personnel</i> means
+            <i outputclass="Term"
+               xtrf="_52.245-1"
+               xtrc="d3633e90"
+               class="+ topic/ph hi-d/i ">Contractor’s managerial personnel</i> means
 the Contractor’s directors, officers, managers, superintendents,
 or equivalent representativeswho have supervision or direction of-<ol id="d3599e85" class="- topic/ol ">
                <li class="- topic/li ">
@@ -87,16 +98,22 @@ and complete major industrial operation.</p>
                      </li>
                   </ol>
                   <p id="d3631e77" class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">(a)</ph> “Demilitarization” means rendering
+                     <ph props="autonumber" class="- topic/ph ">(a)</ph> "Demilitarization" means rendering
 a product unusable for, and not restorable to, the purpose for which
 it was designed or is customarily used.</p>
                   <p id="d3631e81" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e136">Discrepancies
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e136"
+                        class="+ topic/ph hi-d/i ">Discrepancies
 incident to shipment</i> means any differences (e.g., count or condition)
 between the items documented to have been shipped and items actually
 received.</p>
                   <p id="d3631e85" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e142">Equipment</i> means a
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e142"
+                        class="+ topic/ph hi-d/i ">Equipment</i> means a
 tangible item that is functionally complete for its intended purpose,
 durable, nonexpendable, and needed for the performance of a contract.
 Equipment is not intended for sale, and does not ordinarily lose
@@ -104,7 +121,10 @@ its identity or become a component part of another article when
 put into use. Equipment does not include material, real property,
 special test equipment or special tooling.</p>
                   <p id="d3631e89" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e148">Government-furnished
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e148"
+                        class="+ topic/ph hi-d/i ">Government-furnished
 property</i> means property in the possession of, or directly acquired
 by, the Government and subsequently furnished to the Contractor
 for performance of a contract. Government-furnished property includes,
@@ -114,14 +134,20 @@ includes contractor-acquired property if the contractor-acquired
 property is a deliverable under a cost contract when accepted by
 the Government for continued use under the contract.</p>
                   <p id="d3631e93" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e155">Government property</i> means all property
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e155"
+                        class="+ topic/ph hi-d/i ">Government property</i> means all property
 owned or leased by the Government. Government property includes
 both Government- furnished and Contractor-acquired property. Government
 property includes material, equipment, special tooling, special
 test equipment, and real property. Government property does not
 include intellectual property and software.</p>
                   <p id="d3631e97" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e161">Loss
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e161"
+                        class="+ topic/ph hi-d/i ">Loss
 of Government property</i> means unintended, unforeseen or accidental
 loss, damage or destruction to Government property that reduces
 the Government’s expected economic benefits of the property. Loss
@@ -152,50 +178,80 @@ purpose or beyond economical repair.</p>
                      </ol>
                   </p>
                   <p id="d3631e122" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e206">Material</i> means property that may be consumed
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e206"
+                        class="+ topic/ph hi-d/i ">Material</i> means property that may be consumed
 or expended during the performance of a contract, component parts
 of a higher assembly, or items that lose their individual identity
 through incorporation into an end item. Material does not include
 equipment, special tooling, special test equipment or real property.</p>
                   <p id="d3631e126" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e212">Nonseverable</i> means property that cannot
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e212"
+                        class="+ topic/ph hi-d/i ">Nonseverable</i> means property that cannot
 be removed after construction or installation without substantial
 loss of value or damage to the installed property or to the premises
 where installed.</p>
                   <p id="d3631e130" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e218">Precious metals</i> means
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e218"
+                        class="+ topic/ph hi-d/i ">Precious metals</i> means
 silver, gold, platinum, palladium, iridium, osmium, rhodium, and
 ruthenium.</p>
                   <p id="d3631e134" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e224">Production scrap</i> means
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e224"
+                        class="+ topic/ph hi-d/i ">Production scrap</i> means
 unusable material resulting from production, engineering, operations
 and maintenance, repair, and research and development contract activities.
 Production scrap may have value when re-melted or reprocessed, e.g., textile
 and metal clippings, borings, and faulty castings and forgings.</p>
                   <p id="d3631e139" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e231">Property</i> means all tangible property,
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e231"
+                        class="+ topic/ph hi-d/i ">Property</i> means all tangible property,
 both real and personal.</p>
                   <p id="d3631e143" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e237">Property Administrator</i> means
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e237"
+                        class="+ topic/ph hi-d/i ">Property Administrator</i> means
 an authorized representative of the Contracting Officer appointed
 in accordance with agency procedures, responsible for administering
 the contract requirements and obligations relating to Government
 property in the possession of a Contractor.</p>
                   <p id="d3631e147" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e243">Property
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e243"
+                        class="+ topic/ph hi-d/i ">Property
 records</i> means the records created and maintained by the contractor
 in support of its stewardship responsibilities for the management
 of Government property.</p>
                   <p id="d3631e151" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e249">Provide</i> means to furnish,
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e249"
+                        class="+ topic/ph hi-d/i ">Provide</i> means to furnish,
 as in Government-furnished property, or to acquire, as in contractor-acquired
 property.</p>
                   <p id="d3631e155" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e255">Real property</i> See
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e255"
+                        class="+ topic/ph hi-d/i ">Real property</i> See
 Federal Management Regulation 102-71.20 (<ph outputclass="CFR" class="- topic/ph ">41
 CFR 102-71.20</ph>).</p>
                   <p id="d3631e162" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e261">Sensitive property</i> means
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e261"
+                        class="+ topic/ph hi-d/i ">Sensitive property</i> means
 property potentially dangerous to the public safety or security
 if stolen, lost, or misplaced, or that shall be subject to exceptional
 physical security, protection, control, and accountability. Examples
@@ -203,7 +259,10 @@ include weapons, ammunition, explosives, controlled substances,
 radioactive materials, hazardous materials or wastes, or precious
 metals.</p>
                   <p id="d3631e166" class="- topic/p ">
-                     <i outputclass="Term" xtrf="_52.245-1" xtrc="d3633e268">Unit acquisition cost</i> means-<ol class="- topic/ol ">
+                     <i outputclass="Term"
+                        xtrf="_52.245-1"
+                        xtrc="d3633e268"
+                        class="+ topic/ph hi-d/i ">Unit acquisition cost</i> means-<ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3631e172" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(1)</ph> For Government-furnished
@@ -368,7 +427,7 @@ the contract (see also paragraph (f)(1)(ii)(A) of this clause).</p>
                            <li class="- topic/li ">
                               <p id="d3631e275" class="- topic/p ">
                                  <ph props="autonumber" class="- topic/ph ">(iii)</ph> The
-Government may, at its option, furnish property in an “as-is” condition.
+Government may, at its option, furnish property in an "as-is" condition.
 The Contractor will be given the opportunity to inspect such property
 prior to the property being provided. In such cases, the Government
 makes no warranty with respect to the serviceability and/or suitability
@@ -430,7 +489,7 @@ to Government property.</i>
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> All Government-furnished
 property and all property acquired by the Contractor, title to which
 vests in the Government under this paragraph (collectively referred
-to as “Government property”), is subject to the provisions of this
+to as "Government property"), is subject to the provisions of this
 clause. The Government shall retain title to all Government-furnished
 property. Title to Government property shall not be affected by
 its incorporation into or attachment to any property not owned by
@@ -566,7 +625,7 @@ records shall enable a complete, current, auditable record of all
 transactions and shall, unless otherwise approved by the Property
 Administrator, contain the following:</p>
                                     <ol id="d3599e702" class="- topic/ol ">
-                                       <li outputclass="italic" xtrf="52.245-1_d177e428">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e428" class="- topic/li ">
                                           <p id="d3631e428" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(1)</ph> The
 name, part number and description, National Stock Number (if needed
@@ -574,46 +633,46 @@ for additional item identification tracking and/or disposition),
 and other data elements as necessary and required in accordance
 with the terms and conditions of the contract.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e433">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e433" class="- topic/li ">
                                           <p id="d3631e433" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(2)</ph> Quantity
 received (or fabricated), issued, and balance-on-hand.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e438">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e438" class="- topic/li ">
                                           <p id="d3631e438" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(3)</ph> Unit
 acquisition cost.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e443">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e443" class="- topic/li ">
                                           <p id="d3631e443" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(4)</ph> Unique-item
 identifier or equivalent (if available and necessary for individual
 item tracking).</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e448">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e448" class="- topic/li ">
                                           <p id="d3631e448" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(5)</ph> Unit
 of measure.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e453">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e453" class="- topic/li ">
                                           <p id="d3631e453" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(6)</ph> Accountable
 contract number or equivalent code designation.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e458">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e458" class="- topic/li ">
                                           <p id="d3631e458" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(7)</ph> Location.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e463">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e463" class="- topic/li ">
                                           <p id="d3631e463" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(8)</ph> Disposition.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e468">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e468" class="- topic/li ">
                                           <p id="d3631e468" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(9)</ph> Posting
 reference and date of transaction.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e473">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e473" class="- topic/li ">
                                           <p id="d3631e473" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(10)</ph> Date
 placed in service (if required in accordance with the terms and
@@ -700,65 +759,65 @@ shall investigate and report to the Government all incidents of
 property loss as soon as the facts become known. Such reports shall,
 at a minimum, contain the following information:</p>
                                     <ol id="d3599e905" class="- topic/ol ">
-                                       <li outputclass="italic" xtrf="52.245-1_d177e542">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e542" class="- topic/li ">
                                           <p id="d3631e542" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(1)</ph> Date
 of incident (if known).</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e547">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e547" class="- topic/li ">
                                           <p id="d3631e547" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(2)</ph> The
 data elements required under (f)(1)(iii)(A).</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e552">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e552" class="- topic/li ">
                                           <p id="d3631e552" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(3)</ph> Quantity.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e557">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e557" class="- topic/li ">
                                           <p id="d3631e557" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(4)</ph> Accountable
 contract number.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e562">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e562" class="- topic/li ">
                                           <p id="d3631e562" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(5)</ph> A
 statement indicating current or future need.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e567">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e567" class="- topic/li ">
                                           <p id="d3631e567" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(6)</ph> Unit
 acquisition cost, or if applicable, estimated sales proceeds, estimated
 repair or replacement costs.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e572">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e572" class="- topic/li ">
                                           <p id="d3631e572" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(7)</ph> All
 known interests in commingled material of which includes Government
 material.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e577">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e577" class="- topic/li ">
                                           <p id="d3631e577" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(8)</ph> Cause
 and corrective action taken or to be taken to prevent recurrence.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e582">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e582" class="- topic/li ">
                                           <p id="d3631e582" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(9)</ph> A
 statement that the Government will receive compensation covering
 the loss of Government property, in the event the Contractor was
 or will be reimbursed or compensated.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e587">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e587" class="- topic/li ">
                                           <p id="d3631e587" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(10)</ph> Copies
 of all supporting documentation.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e592">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e592" class="- topic/li ">
                                           <p id="d3631e592" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(11)</ph> Last
 known location.</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e598">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e598" class="- topic/li ">
                                           <p id="d3631e598" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(12)</ph> 
 A statement that the property did or did not contain sensitive,
@@ -773,27 +832,27 @@ agencies and authorities were notified.</p>
 the contract provides otherwise, the Contractor shall be relieved
 of stewardship responsibility and liability for property when-</p>
                                     <ol id="d3599e1027" class="- topic/ol ">
-                                       <li outputclass="italic" xtrf="52.245-1_d177e609">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e609" class="- topic/li ">
                                           <p id="d3631e609" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(1)</ph> Such property is consumed or expended,
 reasonably and properly, or otherwise accounted for, in the performance
 of the contract, including reasonable inventory adjustments of material
 as determined by the Property Administrator;</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e614">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e614" class="- topic/li ">
                                           <p id="d3631e614" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(2)</ph> Property
 Administrator grants relief of responsibility and liability for
 loss of Government property;</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e619">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e619" class="- topic/li ">
                                           <p id="d3631e619" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(3)</ph> Property
 is delivered or shipped from the Contractor's plant, under Government
 instructions, except when shipment is to a subcontractor or other
 location of the Contractor; or</p>
                                        </li>
-                                       <li outputclass="italic" xtrf="52.245-1_d177e624">
+                                       <li outputclass="italic" xtrf="52.245-1_d177e624" class="- topic/li ">
                                           <p id="d3631e624" class="- topic/p ">
                                              <ph props="autonumber" class="- topic/ph ">(4)</ph> Property
 is disposed of in accordance with paragraphs (j) and (k) of this
@@ -1155,7 +1214,7 @@ may be grouped in a single line item.</p>
                            <li class="- topic/li ">
                               <p id="d3631e877" class="- topic/p ">
                                  <ph props="autonumber" class="- topic/ph ">(vi)</ph> Scrap
-should be reported by “lot” along with metal content, estimated
+should be reported by "lot" along with metal content, estimated
 weight and estimated value.</p>
                            </li>
                         </ol>
@@ -1358,10 +1417,10 @@ All communications under this clause shall be in writing.</p>
                      <ph props="autonumber" class="- topic/ph ">(m)</ph>
                      <i class="+ topic/ph hi-d/i ">Contracts
 outside the United States.</i> If this contract is to be performed
-outside of the United States and its outlying areas, the words “Government”
-and “Government-furnished” (wherever they appear in this clause)
-shall be construed as “United States Government” and “United States
-Government-furnished,” respectively.</p>
+outside of the United States and its outlying areas, the words "Government"
+and "Government-furnished" (wherever they appear in this clause)
+shall be construed as "United States Government" and "United States
+Government-furnished," respectively.</p>
                </li>
             </ol>
          </p>
@@ -1411,11 +1470,11 @@ to civil rights legislation, <xref href="http://uscode.house.gov/browse.xhtml;js
                      class="- topic/xref ">42 U.S.C. 2000d</xref>. Before
 title is vested and by signing this contract, the Contractor accepts
 and agrees that-</p>
-            <p outputclass="List1" class="- topic/p ">“No person in the United
+            <p outputclass="List1" class="- topic/p ">"No person in the United
 States or its outlying areas shall, on the ground of race, color,
 or national origin, be excluded from participation in, be denied
 the benefits of, or be otherwise subjected to discrimination under
-this contemplated financial assistance (title to property).”</p>
+this contemplated financial assistance (title to property)."</p>
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>

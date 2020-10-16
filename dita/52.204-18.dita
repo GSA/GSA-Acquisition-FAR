@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_204_18"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.204-18</ph> Commercial and Government
 Entity Code Maintenance.</title>
@@ -27,7 +29,10 @@ Code Maintenance <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2020)</ph>
                   <i class="+ topic/ph hi-d/i ">Definition.</i> As
 used in this clause–</p>
                <p id="d3086e27" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.204-18" xtrc="d3090e40">Commercial and Government
+                  <i outputclass="Term"
+                     xtrf="_52.204-18"
+                     xtrc="d3090e40"
+                     class="+ topic/ph hi-d/i ">Commercial and Government
 Entity (CAGE) code</i> means–<ol id="d3063e47" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3086e33" class="- topic/p ">

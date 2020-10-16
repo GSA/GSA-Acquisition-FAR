@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_16_505"
             domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
@@ -247,8 +248,8 @@ comply with all FAR requirements for a consolidated or bundled contract
 when the order meets the definition at <xref href="2.101.dita#FAR_2_101"
                                     base="FAR_2_101"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">2.101</xref>(b) of “consolidation”
-or “bundling”.</p>
+                                    class="- topic/xref ">2.101</xref>(b) of "consolidation"
+or "bundling".</p>
                         </li>
                      </ol>
                   </li>
@@ -745,7 +746,7 @@ in accordance with paragraph (b)(2)(ii)(C) of this section:</p>
                                        <p id="d1039e612" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Identification of the agency and
 the contracting activity, and specific identification of the document
-as a “Justification for an Exception to Fair Opportunity.”</p>
+as a "Justification for an Exception to Fair Opportunity."</p>
                                     </li>
                                     <li outputclass="italic" xtrf="16.505_d51e614" class="- topic/li ">
                                        <p id="d1039e617" class="- topic/p ">
@@ -973,8 +974,8 @@ and the prohibitions against disclosure in <xref href="24.202.dita#FAR_24_202"
                                                 outputclass="fm:ParaNumOnly"
                                                 class="- topic/xref ">24.202</xref> in determining
 whether other data should be removed. Although the submitter notice
-process set out in Executive Order 12600 “Predisclosure Notification Procedures
-for Confidential Commercial Information” does not apply, if the
+process set out in Executive Order 12600 "Predisclosure Notification Procedures
+for Confidential Commercial Information" does not apply, if the
 justification appears to contain proprietary data, the contracting
 officer should provide the contractor that submitted the information
 an opportunity to review the justification for proprietary data

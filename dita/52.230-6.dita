@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_230_6"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.230-6</ph> Administration of
 Cost Accounting Standards.</title>
@@ -29,7 +31,10 @@ the steps outlined in paragraphs (b) through (i) and (k) through
                   <ph props="autonumber" class="- topic/ph ">(a)</ph> Definitions.
 As used in this clause-</p>
                <p id="d3484e25" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e40">Affected CAS-covered contract
+                  <i outputclass="Term"
+                     xtrf="_52.230-6"
+                     xtrc="d3486e40"
+                     class="+ topic/ph hi-d/i ">Affected CAS-covered contract
 or subcontract</i> means a contract or subcontract subject to CAS
 rules and regulations for which a Contractor or subcontractor-<ol id="d3451e47" class="- topic/ol ">
                      <li class="- topic/li ">
@@ -48,18 +53,27 @@ and reporting costs under the contract or subcontract.</p>
                   </ol>
                </p>
                <p id="d3484e40" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e67">Cognizant Federal agency official (CFAO)</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.230-6"
+                     xtrc="d3486e67"
+                     class="+ topic/ph hi-d/i ">Cognizant Federal agency official (CFAO)</i> means
 the Contracting Officer assigned by the cognizant Federal agency
 to administer the CAS.</p>
                <p id="d3484e44" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e73">Desirable change</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.230-6"
+                     xtrc="d3486e73"
+                     class="+ topic/ph hi-d/i ">Desirable change</i> means
 a compliant change to a Contractor’s established or disclosed cost
 accounting practices that the CFAO finds is desirable and not detrimental
 to the Government and is, therefore, not subject to the no increased
 cost prohibition provisions of CAS-covered contracts and subcontracts
 affected by the change.</p>
                <p id="d3484e48" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e80">Fixed-price contracts and
+                  <i outputclass="Term"
+                     xtrf="_52.230-6"
+                     xtrc="d3486e80"
+                     class="+ topic/ph hi-d/i ">Fixed-price contracts and
 subcontracts</i> means-<ol id="d3451e77" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3484e54" class="- topic/p ">
@@ -110,7 +124,10 @@ subcontracts (FAR <xref href="Subpart_16.6.dita#FAR_Subpart_16_6"
                   </ol>
                </p>
                <p id="d3484e94" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e146">Flexibly-priced contracts and subcontracts</i> means-<ol id="d3451e203" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.230-6"
+                     xtrc="d3486e146"
+                     class="+ topic/ph hi-d/i ">Flexibly-priced contracts and subcontracts</i> means-<ol id="d3451e203" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3484e100" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Fixed-price
@@ -165,7 +182,10 @@ portion of time-and-materials contracts and subcontracts (FAR <xref href="Subpar
                   </ol>
                </p>
                <p id="d3484e148" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e224">Noncompliance</i> means a failure in estimating,
+                  <i outputclass="Term"
+                     xtrf="_52.230-6"
+                     xtrc="d3486e224"
+                     class="+ topic/ph hi-d/i ">Noncompliance</i> means a failure in estimating,
 accumulating, or reporting costs to-<ol id="d3451e278" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3484e154" class="- topic/p ">
@@ -180,7 +200,10 @@ follow disclosed or established cost accounting practices.</p>
                   </ol>
                </p>
                <p id="d3484e163" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e252">Required change</i> means-<ol id="d3451e303" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.230-6"
+                     xtrc="d3486e252"
+                     class="+ topic/ph hi-d/i ">Required change</i> means-<ol id="d3451e303" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3484e169" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph>  A change
@@ -201,7 +224,10 @@ remain in compliance.</p>
                   </ol>
                </p>
                <p id="d3484e178" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.230-6" xtrc="d3486e279">Unilateral
+                  <i outputclass="Term"
+                     xtrf="_52.230-6"
+                     xtrc="d3486e279"
+                     class="+ topic/ph hi-d/i ">Unilateral
 change</i> means a change in cost accounting practice from one compliant
 practice to another compliant practice that a Contractor with a
 CAS-covered contract(s) or subcontract(s) elects to make that has
