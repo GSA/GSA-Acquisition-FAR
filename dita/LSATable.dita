@@ -7,14 +7,155 @@
             domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">List of Sections Affected</title>
+      <title class="- topic/title ">FAC 2020-09 Effective October 26, 2020</title>
       <conbody class="- topic/body  concept/conbody ">
          <table frame="all"
                 colsep="1"
                 rowsep="1"
                 otherprops="LSA"
                 class="- topic/table ">
-            <title class="- topic/title ">FAC 2021-01 Effective October 1, 2020</title>
+            <tgroup cols="3"
+                    colsep="1"
+                    rowsep="1"
+                    outputclass="Title_rule"
+                    class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="32*" class="- topic/colspec "/>
+               <colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec "/>
+               <colspec colnum="3" colname="3" colwidth="18*" class="- topic/colspec "/>
+               <thead class="- topic/thead ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">Section</entry>
+                     <entry colname="2" class="- topic/entry ">Description of Change</entry>
+                     <entry colname="3" class="- topic/entry ">Case Number</entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="1.106.dita#FAR_1_106"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">1.106</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">In section 1.106 amend the table by adding
+in numerical order FAR segment entry “52.204-26” and its OMB control
+numbers.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry "> 
+                        <xref href="https://www.federalregister.gov/d/2020-18772/p-amd-2"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2019-009</xref>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="4.2103.dita#FAR_4_2103"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">4.2103</xref> 
+                        <xref href="4.2103.dita#FAR_4_2103/d324e22"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(a)(1)(i)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 4.2103 by revising paragraph
+(a)(1).</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry "> 
+                        <xref href="https://www.federalregister.gov/d/2020-18772/p-amd-3"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2019-009</xref>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="52.204-24.dita#FAR_52_204_24"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.204-24</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.204-24 by revising the
+date of provision and the introductory text.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry "> 
+                        <xref href="https://www.federalregister.gov/d/2020-18772/p-amd-4"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2019-009</xref>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="52.204-26.dita#FAR_52_204_26"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.204-26</xref> 
+                        <xref href="52.204-26.dita#FAR_52_204_26/d3094e21"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(a)</xref> and <xref href="52.204-26.dita#FAR_52_204_26/d3094e46"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(c)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.204-26 by—</p>
+                        <p outputclass="List2" class="- topic/p ">a. Revising the date of the provision;</p>
+                        <p outputclass="List2" class="- topic/p ">b. In paragraph (a), removing “has” and
+adding “and “reasonable inquiry” have” in its place; and</p>
+                        <p outputclass="List2" class="- topic/p ">c. Revising paragraph (c).</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry "> 
+                        <xref href="https://www.federalregister.gov/d/2020-18772/p-amd-5"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2019-009</xref>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="52.212-3.dita#FAR_52_212_3"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.212-3</xref> 
+                        <xref href="52.212-3.dita#FAR_52_212_3/d3152e26"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(a)</xref>,<xref href="52.212-3.dita#FAR_52_212_3/d3152e1794"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (v)</xref>, and<xref href="52.212-3.dita#FAR_52_212_3/d3152e1815"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (v)(2)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.212-3 by—</p>
+                        <p outputclass="List2" class="- topic/p ">a. Revising the date of the provision;</p>
+                        <p outputclass="List2" class="- topic/p ">b. In paragraph (a) adding the definition
+“Reasonable inquiry” in alphabetical order;</p>
+                        <p outputclass="List2" class="- topic/p ">c.
+Removing from paragraph (v) introductory text “of Public” and adding
+“and section 889 (a)(1)(B) of Public” in its place; and</p>
+                        <p outputclass="List2" class="- topic/p ">d. Revising paragraph (v)(2).</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry "> 
+                        <xref href="https://www.federalregister.gov/d/2020-18772/p-amd-9"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2019-009</xref>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
+   <concept id="id20AG90W105Z"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">FAC 2021-01 Effective October 1, 2020</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <table frame="all"
+                colsep="1"
+                rowsep="1"
+                otherprops="LSA"
+                class="- topic/table ">
             <tgroup cols="3"
                     colsep="1"
                     rowsep="1"
@@ -44,7 +185,7 @@
                         <p class="- topic/p ">Amend section 1.109, in paragraph (e) by
 removing “2014-022” and adding “2019-013” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -55,14 +196,14 @@ removing “2014-022” and adding “2019-013” in its place.</p>
                      <entry colname="1" class="- topic/entry "> 
                         <xref href="2.101.dita#FAR_2_101"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">2.101</xref> 
-                        <xref href="2.101.dita#FAR_2_101/d75e1591"
-                              outputclass="fm:List"
-                              class="- topic/xref ">(2)</xref>,<xref href="2.101.dita#FAR_2_101/d75e1735"
-                              outputclass="fm:List"
-                              class="- topic/xref "> (3)(ii)</xref> and <xref href="2.101.dita#FAR_2_101/d75e2433"
-                              outputclass="fm:List"
-                              class="- topic/xref ">(1)(i)</xref>
+                              class="- topic/xref ">2.101</xref> (b)(2) definitions <xref href="2.101.dita#FAR_2_101/d75e1593"
+                              outputclass="fm:TEXT"
+                              class="- topic/xref ">“Major system” paragraph (2)</xref>,<xref href="2.101.dita#FAR_2_101/d75e1737"
+                              outputclass="fm:TEXT"
+                              class="- topic/xref "> “Micro-purchase threshold
+paragraph (3)(ii)”</xref> and <xref href="2.101.dita#FAR_2_101/d75e2435"
+                              outputclass="fm:TEXT"
+                              class="- topic/xref ">“Simplified acquisition threshold” paragraph (1)(i)</xref>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Amend section 2.101, in paragraph (b)(2)
@@ -77,7 +218,7 @@ in its place; and</p>
 “Simplified acquisition threshold”, removing from paragraph (1)(i)
 “$750,000” and adding “$800,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -102,7 +243,7 @@ in its place; and</p>
 (a), (b)(1)(i), and (b)(3) “$5.5 million” and adding “$6 million”
 in their places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -122,7 +263,7 @@ in their places, respectively.</p>
                         <p class="- topic/p ">Amend section 5.303 in paragraph (a) by
 removing “$4 million” and adding “$4.5 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -142,7 +283,7 @@ removing “$4 million” and adding “$4.5 million” in its place.</p>
                         <p class="- topic/p ">Amend section 6.204 in paragraph (b) by
 removing “$22 million” and adding “$25 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -153,7 +294,7 @@ removing “$22 million” and adding “$25 million” in its place.</p>
                      <entry colname="1" class="- topic/entry "> 
                         <xref href="6.302-5.dita#FAR_6_302_5"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">6.302-5</xref>  
+                              class="- topic/xref ">6.302-5</xref> 
                         <xref href="6.302-5.dita#FAR_6_302_5/d398e84"
                               outputclass="fm:List"
                               class="- topic/xref ">(b)(4)</xref> and <xref href="6.302-5.dita#FAR_6_302_5/d398e201"
@@ -168,7 +309,7 @@ in its place; and</p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraph
 (c)(2)(iii) “$22 million” and adding “$25 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -188,7 +329,7 @@ in its place; and</p>
                         <p class="- topic/p ">Amend section 6.303-1 in paragraph (b) introductory
 text by removing “$22 million” and adding “$25 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -211,7 +352,7 @@ text by removing “$22 million” and adding “$25 million” in its place.</p
 introductory text of paragraphs (b) and (d) “$22 million” and adding
 “$25 million” in their places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -249,7 +390,7 @@ respectively; and</p>
 (a)(4) “$68 million” and “$93 million” and adding “$75 million”
 and “$100 million” in their places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -269,7 +410,7 @@ and “$100 million” in their places, respectively.</p>
                         <p class="- topic/p ">Amend section 8.404 in paragraph (b)(2)
 by removing “$550,000” and adding “$600,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -299,7 +440,7 @@ place;</p>
                         <p outputclass="List2" class="- topic/p ">c. Removing from paragraph (a)(7)(v) “$112
 million” and adding “$100 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -337,7 +478,7 @@ respectively; and</p>
 (d)(4) “$68 million” and “$93 million” and adding “$75 million”
 and “$100 million” in their places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -357,7 +498,7 @@ and “$100 million” in their places, respectively.</p>
                         <p class="- topic/p ">Amend section 9.104-5 in paragraph (c) by
 removing “$5,000,000” and adding “$5.5 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -384,7 +525,7 @@ removing “$5,000,000” and adding “$5.5 million” in its place.</p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (e) “$5,000,000”
 and adding “$5.5 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -404,7 +545,7 @@ and adding “$5.5 million” in its place.</p>
                         <p class="- topic/p ">Amend section 10.001 in paragraph (d) by
 removing “$5.5 million” and adding “$6 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -421,7 +562,7 @@ removing “$5.5 million” and adding “$6 million” in its place.</p>
                         <p class="- topic/p ">Amend section 10.003 by removing “$5.5 million”
 and adding “$6 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -441,7 +582,7 @@ and adding “$6 million” in its place.</p>
                         <p class="- topic/p ">Amend section 12.102 in paragraph (f)(2)
 by removing “$19 million” and adding “$20 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -458,7 +599,7 @@ by removing “$19 million” and adding “$20 million” in its place.</p>
                         <p class="- topic/p ">Amend section 12.203 by removing “$7 million
 ($13 million” and adding “$7.5 million ($15 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -475,7 +616,7 @@ by removing “$19 million” and adding “$20 million” in its place.</p>
                         <p class="- topic/p ">Amend section 13.000 by removing “$7 million
 ($13 million” and adding “$7.5 million ($15 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -498,7 +639,7 @@ by removing “$19 million” and adding “$20 million” in its place.</p>
 (c)(1)(ii) and (g)(2) “$7 million ($13 million” and adding “$7.5
 million ($15 million” in their places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -518,7 +659,7 @@ million ($15 million” in their places, respectively.</p>
                         <p class="- topic/p ">Amend section 13.201 in paragraph (g)(1)(ii)
 by removing “$30,000” and adding “$35,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -538,7 +679,7 @@ by removing “$30,000” and adding “$35,000” in its place.</p>
                         <p class="- topic/p ">b. Removing from paragraph (b)(2) “$7 million
 ($13 million” and adding “$7.5 million ($15 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -564,7 +705,7 @@ and</p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (c) introductory
 text “$13 million” and adding “$15 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -601,7 +742,7 @@ and</p>
 “$68 million” and “$93 million” and adding “$75 million” and “$100 million”
 in their places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -621,7 +762,7 @@ in their places, respectively.</p>
                         <p class="- topic/p ">Amend section 15.403-1 in paragraph (c)(3)(iv)
 by removing “$19 million” and adding “$20 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -641,7 +782,7 @@ by removing “$19 million” and adding “$20 million” in its place.</p>
                         <p class="- topic/p ">Amend section 15.404-3 in paragraph (c)(1)(i)
 by removing “$13.5 million” and adding “$15 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -664,7 +805,7 @@ by removing “$13.5 million” and adding “$15 million” in its place.</p>
 paragraphs (c)(1) and (c)(2) introductory text “$13.5 million” and
 adding “$15 million” in their places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -685,7 +826,7 @@ II, paragraph<xref href="15.408.dita#FAR_15_408/d947e534"
 II, paragraph A.(2) by removing “$13.5 million” and adding “$15
 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -710,7 +851,7 @@ million” and adding “$100 million” in its place; and</p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (d)(1) “$13.5
 million” and adding “$15 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -739,7 +880,7 @@ in their places, respectively; and</p>
 Removing from paragraph (c)(2)(i) introductory text “$13.5 million”
 and adding “$15 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -787,7 +928,7 @@ Removing from paragraph (b)(6) introductory text “$5.5 million”
 and “$5.5 million”, and adding “$6 million” and “$6 million” in
 their places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -814,7 +955,7 @@ their places, respectively.</p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (h) “$5.5 million”
 and adding “$6 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -839,7 +980,7 @@ million” and adding “$15 million” in its place; and</p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (b) “$135.5
 million” and adding “$150 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -859,7 +1000,7 @@ million” and adding “$150 million” in its place.</p>
                         <p class="- topic/p ">Amend section 17.500 in paragraph (c)(2)
 by removing “$550,000” and adding “$600,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -884,7 +1025,7 @@ by removing “$550,000” and adding “$600,000” in its place.</p>
 (a)(1)(i) through (iii) “$700,000” and adding “$750,000” in their
 places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -909,7 +1050,7 @@ text “plan” and adding “plan required” in its place; and</p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (a)(9) “$700,000”
 and adding “$750,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -930,7 +1071,7 @@ and adding “$750,000” in its place.</p>
 introductory text by removing “$700,000” and adding “$750,000” in
 its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -951,7 +1092,7 @@ its place.</p>
 by removing “$7 million” and “$4 million” and adding “$7.5 million”
 and “$4.5 million” in their places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -959,7 +1100,7 @@ and “$4.5 million” in their places, respectively.</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">  
+                     <entry colname="1" class="- topic/entry "> 
                         <xref href="19.805-1.dita#FAR_19_805_1"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">19.805-1</xref> 
@@ -972,7 +1113,7 @@ and “$4.5 million” in their places, respectively.</p>
 by removing “$7 million” and “$4 million” and adding “$7.5 million”
 and “$4.5 million” in their places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -992,7 +1133,7 @@ and “$4.5 million” in their places, respectively.</p>
                         <p class="- topic/p ">Amend section 19.808-1 in paragraph (a)
 by removing “$22 million” and adding “$25 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1017,7 +1158,7 @@ million” and adding “$7.5 million” in its place; and</p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (a)(2)(ii)
 “$4 million” and adding “$4.5 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1037,7 +1178,7 @@ million” and adding “$7.5 million” in its place; and</p>
                         <p class="- topic/p ">Amend section 19.1406 by removing from paragraph
 (a)(2)(i) “$6.5 million” and adding “$7 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1062,7 +1203,7 @@ million” and adding “$7 million” in its place; and</p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (c)(1)(ii)
 “$4 million” and adding “$4.5 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1079,7 +1220,7 @@ million” and adding “$7 million” in its place; and</p>
                         <p class="- topic/p ">Amend section 22.1103 by removing “$700,000”
 and adding “$750,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1099,7 +1240,7 @@ and adding “$750,000” in its place.</p>
                         <p class="- topic/p ">Amend section 22.1701 in paragraph (b)(2)
 by removing “$500,000” and adding “$550,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1122,7 +1263,7 @@ by removing “$500,000” and adding “$550,000” in its place.</p>
 and (c)(3)(i)(B) “$500,000” and adding “$550,000” in their places,
 respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1142,7 +1283,7 @@ respectively.</p>
                         <p class="- topic/p ">Amend section 22.1705 in paragraph (b)(1)
 by removing “$500,000” and adding “$550,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1159,7 +1300,7 @@ by removing “$500,000” and adding “$550,000” in its place.</p>
                         <p class="- topic/p ">Amend section 26.404 by removing “$25,000”
 and adding “$30,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1182,7 +1323,7 @@ and adding “$30,000” in its place.</p>
 (d)(2)(i) and (ii) “$2.5 million” and adding “$3 million” in their
 places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1202,7 +1343,7 @@ places, respectively.</p>
                         <p class="- topic/p ">Amend section 36.303-1 in paragraph (a)(4)
 by removing “$4 million” and adding “$4.5 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1222,7 +1363,7 @@ by removing “$4 million” and adding “$4.5 million” in its place.</p>
                         <p class="- topic/p ">Amend section 42.709-0 in paragraph (b)
 by removing “$750,000” and adding “$800,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1239,7 +1380,7 @@ by removing “$750,000” and adding “$800,000” in its place.</p>
                         <p class="- topic/p ">Amend section 42.709-6 by removing “$750,000”
 and adding “$800,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1259,7 +1400,7 @@ and adding “$800,000” in its place.</p>
                         <p class="- topic/p ">Amend section 42.1502 by removing from paragraph
 (e) “$700,000” twice and adding “$750,000” in their places, respectively.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1279,7 +1420,7 @@ and adding “$800,000” in its place.</p>
                         <p class="- topic/p ">Amend section 50.102-1 in paragraph (b)
 by removing “$70,000” and adding “$75,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1308,7 +1449,7 @@ and (ii) “$70,000” and adding “$75,000” in their places.</p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraphs (e)(1)(i)
 and (ii) “$70,000” and adding “$75,000” in their places.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1329,7 +1470,7 @@ and (ii) “$70,000” and adding “$75,000” in their places.</p>
 date of the provision, and removing from paragraph (b) “$5,000,000”
 and adding “$5.5 million” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1343,14 +1484,13 @@ and adding “$5.5 million” in its place.</p>
                               class="- topic/xref ">52.212-5</xref> 
                         <xref href="52.212-5.dita#FAR_52_212_5/d3154e698"
                               outputclass="fm:List"
-                              class="- topic/xref "> (b)(35)(i)</xref>,<xref href="52.212-5.dita#FAR_52_212_5/d3154e1519"
+                              class="- topic/xref ">(b)(35)(i)</xref>,<xref href="52.212-5.dita#FAR_52_212_5/d3154e1519"
                               outputclass="fm:List"
-                              class="- topic/xref "> (e)(1)(xiii)(A)</xref>,<xref href="52.212-5.dita#FAR_52_212_5/d3154e1685"
+                              class="- topic/xref "> (e)(1)(xiii)(A)</xref>,<xref href="52.212-5.dita#FAR_52_212_5/d3154e1687"
                               outputclass="fm:TEXT"
-                              class="- topic/xref "> Alternate II</xref>, and paragraph<xref href="52.212-5.dita#FAR_52_212_5/d3154e1825"
+                              class="- topic/xref "> Alternate II</xref>, and paragraph<xref href="52.212-5.dita#FAR_52_212_5/d3154e1828"
                               outputclass="fm:TEXT"
-                              class="- topic/xref "> (e)(1)(ii)(L) of Alternate
-II </xref>
+                              class="- topic/xref "> (e)(1)(ii)(L) of Alternate II </xref>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Amend section 52.212-5 by—</p>
@@ -1365,7 +1505,7 @@ and</p>
 Alternate II removing “(JAN 2019)” and adding “(OCT 2020)” in its
 place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1386,7 +1526,7 @@ place.</p>
 of the clause, and removing from paragraph (b)(1)(viii)(A) “(JAN
 2019)” and adding “(OCT 2020)” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1414,7 +1554,7 @@ in its place;</p>
 from newly redesignated paragraph (i)(1)(ii) “$500,000” and adding
 “$550,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1435,7 +1575,7 @@ from newly redesignated paragraph (i)(1)(ii) “$500,000” and adding
 date of the provision, and removing from paragraph (b)(2) “$500,000”
 and adding “$550,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1449,14 +1589,14 @@ and adding “$550,000” in its place.</p>
                               class="- topic/xref ">52.244-6</xref> 
                         <xref href="52.244-6.dita#FAR_52_244_6/d3629e221"
                               outputclass="fm:List"
-                              class="- topic/xref "> (c)(1)(xiv)(A)</xref>
+                              class="- topic/xref ">(c)(1)(xiv)(A)</xref>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Amend section 52.244-6 by revising the date
 of the clause, and removing from paragraph (c)(1)(xiv)(A) “(JAN
 2019)” and adding “(OCT 2020)” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1477,7 +1617,7 @@ of the clause, and removing from paragraph (c)(1)(xiv)(A) “(JAN
 of the clause, and removing from paragraph (h) “$70,000” and adding
 “$75,000” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
@@ -1494,7 +1634,7 @@ of the clause, and removing from paragraph (h) “$70,000” and adding
                         <p class="- topic/p ">Amend section 53.219 by removing “(Rev.
 8/2016)” and adding “(Rev. OCT 2020)” in its place.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry "> 
                         <xref href="https://www.federalregister.gov/documents/2020/10/02/2020-21690/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds"
                               format="html"
                               scope="external"
