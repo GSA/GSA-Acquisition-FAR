@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_101"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.101</ph> Using Part 52.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -14,7 +15,7 @@
             <li class="- topic/li ">
                <p id="d3036e10" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Definition</i>. “Modification,” as used in this subpart, means a minor change in the details of a provision or clause that is specifically authorized by the FAR and does not alter the substance of the provision or clause (see <xref href="52.104.dita#FAR_52_104"
+                  <i class="+ topic/ph hi-d/i ">Definition</i>. "Modification," as used in this subpart, means a minor change in the details of a provision or clause that is specifically authorized by the FAR and does not alter the substance of the provision or clause (see <xref href="52.104.dita#FAR_52_104"
                         base="i1064663"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.104</xref>).</p>
@@ -31,7 +32,7 @@
                         <i class="+ topic/ph hi-d/i ">FAR provisions and clauses</i>. <xref href="Subpart_52.2.dita#FAR_Subpart_52_2"
                               base="i1063236"
                               outputclass="fm:Subpart"
-                              class="- topic/xref ">subpart  52.2</xref> sets forth the text of all FAR provisions and clauses, each in its own separate subsection. The subpart is arranged by subject matter, in the same order as, and keyed to, the parts of the FAR. Each FAR provision or clause is uniquely identified. All FAR provision and clause numbers begin with “52.2,” since the text of all FAR provisions and clauses appear in <xref href="Subpart_52.2.dita#FAR_Subpart_52_2"
+                              class="- topic/xref ">subpart  52.2</xref> sets forth the text of all FAR provisions and clauses, each in its own separate subsection. The subpart is arranged by subject matter, in the same order as, and keyed to, the parts of the FAR. Each FAR provision or clause is uniquely identified. All FAR provision and clause numbers begin with "52.2," since the text of all FAR provisions and clauses appear in <xref href="Subpart_52.2.dita#FAR_Subpart_52_2"
                               base="i1063236"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  52.2</xref>. The next two digits of the provision or clause number correspond to the number of the FAR subject part in which the provision or clause is prescribed. The FAR provision or clause number is then completed by a hyphen and a sequential number assigned within each section of <xref href="Subpart_52.2.dita#FAR_Subpart_52_2"
@@ -138,7 +139,7 @@
                                     
                                     
 													                       
-													The sequential number shall be “70” or a higher number (see <xref href="1.303.dita#FAR_1_303"
+													The sequential number shall be "70" or a higher number (see <xref href="1.303.dita#FAR_1_303"
                                           base="i1126729"
                                           outputclass="fm:ParaNumOnly"
                                           class="- topic/xref ">1.303</xref>).</p>
@@ -161,7 +162,7 @@
                                     class="- topic/xref ">subpart  52.2</xref> of the agency acquisition regulation that contains its full text. If, for example, an agency acquisition regulation contains only one provision followed by only one clause supplementing the FAR in its section <xref outputclass="fm:ParaNumOnly"
                                     class="- topic/xref "
                                     base="id123456y"
-                                    href="52.236.dita#FAR_52_236">52.236</xref> (Construction and Architect-Engineer Contracts), then the sequential numbers would be “70” for the provision and “71” for the clause.</p>
+                                    href="52.236.dita#FAR_52_236">52.236</xref> (Construction and Architect-Engineer Contracts), then the sequential numbers would be "70" for the provision and "71" for the clause.</p>
                         </li>
                      </ol>
                   </li>
@@ -371,7 +372,7 @@
                         
                         
 									               
-									Since the matrix does not provide sufficient information to determine the applicability of a provision or clause in the “required-when-applicable” and “optional” categories, contracting officers shall refer to the FAR text (cited in the matrix) that prescribes its use.</p>
+									Since the matrix does not provide sufficient information to determine the applicability of a provision or clause in the "required-when-applicable" and "optional" categories, contracting officers shall refer to the FAR text (cited in the matrix) that prescribes its use.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3036e220" class="- topic/p ">

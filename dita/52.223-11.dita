@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_223_11"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.223-11</ph> Ozone-Depleting Substances
 and High Global Warming Potential Hydrofluorocarbons.</title>
@@ -28,7 +30,10 @@ As used in this clause–</p>
                <ul class="- topic/ul ">
                   <li class="- topic/li ">
                      <p id="d3374e27" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.223-11" xtrc="d3378e44">Global
+                        <i outputclass="Term"
+                           xtrf="_52.223-11"
+                           xtrc="d3378e44"
+                           class="+ topic/ph hi-d/i ">Global
 warming potential</i> means how much a given mass of a chemical
 contributes to global warming over a given time period compared
 to the same mass of carbon dioxide. Carbon dioxide’s global warming
@@ -36,7 +41,10 @@ potential is defined as 1.0.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3374e32" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.223-11" xtrc="d3378e53">High global warming potential hydrofluorocarbons</i> means
+                        <i outputclass="Term"
+                           xtrf="_52.223-11"
+                           xtrc="d3378e53"
+                           class="+ topic/ph hi-d/i ">High global warming potential hydrofluorocarbons</i> means
 any hydrofluorocarbons in a particular end use for which EPA’s Significant
 New Alternatives Policy (SNAP) program has identified other acceptable
 alternatives that have lower global warming potential. The SNAP
@@ -49,12 +57,18 @@ available at (<xref href="http://www.epa.gov/snap/"
                   </li>
                   <li class="- topic/li ">
                      <p id="d3374e43" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.223-11" xtrc="d3378e65">Hydrofluorocarbons</i> means compounds that
+                        <i outputclass="Term"
+                           xtrf="_52.223-11"
+                           xtrc="d3378e65"
+                           class="+ topic/ph hi-d/i ">Hydrofluorocarbons</i> means compounds that
 only contain hydrogen, fluorine, and carbon.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3374e48" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.223-11" xtrc="d3378e74">Ozone-depleting substance,</i> means any
+                        <i outputclass="Term"
+                           xtrf="_52.223-11"
+                           xtrc="d3378e74"
+                           class="+ topic/ph hi-d/i ">Ozone-depleting substance,</i> means any
 substance the Environmental Protection Agency designates in <ph outputclass="CFR" class="- topic/ph ">40 CFR part 82</ph> as-<ul id="d3343e70" class="- topic/ul ">
                            <li class="- topic/li ">
                               <p id="d3374e57" outputclass="List2" class="- topic/p ">

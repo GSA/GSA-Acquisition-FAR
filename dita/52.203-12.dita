@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_203_12"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.203-12</ph> Limitation on Payments
 to Influence Certain Federal Transactions.</title>
@@ -26,13 +28,19 @@ Certain Federal Transactions (Jun 2020)</p>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>.
 As used in this clause-</p>
                <p id="d3060e25" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e40">Agency</i> means “<i class="+ topic/ph hi-d/i ">executive
-agency</i>” as defined in Federal Acquisition Regulation (FAR) <xref href="2.101.dita#FAR_2_101"
+                  <i outputclass="Term"
+                     xtrf="_52.203-12"
+                     xtrc="d3064e40"
+                     class="+ topic/ph hi-d/i ">Agency</i> means "<i class="+ topic/ph hi-d/i ">executive
+agency</i>" as defined in Federal Acquisition Regulation (FAR) <xref href="2.101.dita#FAR_2_101"
                         base="i1125359"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">2.101</xref>.</p>
                <p id="d3060e35" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e52">Covered
+                  <i outputclass="Term"
+                     xtrf="_52.203-12"
+                     xtrc="d3064e52"
+                     class="+ topic/ph hi-d/i ">Covered
 Federal action</i> means any of the following actions:<ol id="d3037e50" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3060e41" class="- topic/p ">
@@ -60,8 +68,11 @@ into any cooperative agreement.</p>
 continuing, renewing, amending, or modifying any Federal contract,
 grant, loan, or cooperative agreement.</p>
                         <p id="d3060e65" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e103">Indian
-tribe</i> and “tribal organization” have the meaning provided in
+                           <i outputclass="Term"
+                              xtrf="_52.203-12"
+                              xtrc="d3064e103"
+                              class="+ topic/ph hi-d/i ">Indian
+tribe</i> and "tribal organization" have the meaning provided in
 section 4 of the Indian Self-Determination and Education Assistance
 Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                  format="html"
@@ -69,21 +80,30 @@ Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359
                                  class="- topic/xref ">25 U.S.C. 450b</xref>) and
 include Alaskan Natives.</p>
                         <p id="d3060e72" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e112">Influencing or attempting
+                           <i outputclass="Term"
+                              xtrf="_52.203-12"
+                              xtrc="d3064e112"
+                              class="+ topic/ph hi-d/i ">Influencing or attempting
 to influence</i> means making, with the intent to influence, any
 communication to or appearance before an officer or employee of
 any agency, a Member of Congress, an officer or employee of Congress,
 or an employee of a Member of Congress in connection with any covered
 Federal action.</p>
                         <p id="d3060e76" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e118">Local government</i> means
+                           <i outputclass="Term"
+                              xtrf="_52.203-12"
+                              xtrc="d3064e118"
+                              class="+ topic/ph hi-d/i ">Local government</i> means
 a unit of government in a State and, if chartered, established,
 or otherwise recognized by a State for the performance of a governmental
 duty, including a local public authority, a special district, an
 intrastate district, a council of governments, a sponsor group representative
 organization, and any other instrumentality of a local government.</p>
                         <p id="d3060e80" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e124">Officer or employee of an agency</i> includes
+                           <i outputclass="Term"
+                              xtrf="_52.203-12"
+                              xtrc="d3064e124"
+                              class="+ topic/ph hi-d/i ">Officer or employee of an agency</i> includes
 the following individuals who are employed by an agency:</p>
                      </li>
                   </ol>
@@ -115,7 +135,10 @@ who is a member of a Federal advisory committee, as defined by the
 Federal Advisory Committee Act, Title 5, United States Code, appendix
 2.</p>
                      <p id="d3060e105" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e170">Person</i> means an individual, corporation,
+                        <i outputclass="Term"
+                           xtrf="_52.203-12"
+                           xtrc="d3064e170"
+                           class="+ topic/ph hi-d/i ">Person</i> means an individual, corporation,
 company, association, authority, firm, partnership, society, State,
 and local government, regardless of whether such entity is operated
 for profit, or not for profit. This term excludes an Indian tribe,
@@ -125,18 +148,27 @@ from an agency, but only with respect to expenditures by such tribe
 or organization that are made for purposes specified in paragraph
 (b) of this clause and are permitted by other Federal law.</p>
                      <p id="d3060e109" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e176">Reasonable compensation</i> means, with
+                        <i outputclass="Term"
+                           xtrf="_52.203-12"
+                           xtrc="d3064e176"
+                           class="+ topic/ph hi-d/i ">Reasonable compensation</i> means, with
 respect to a regularly employed officer or employee of any person,
 compensation that is consistent with the normal compensation for
 such officer or employee for work that is not furnished to, not funded
 by, or not furnished in cooperation with the Federal Government.</p>
                      <p id="d3060e113" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e182">Reasonable payment</i> means, with respect
+                        <i outputclass="Term"
+                           xtrf="_52.203-12"
+                           xtrc="d3064e182"
+                           class="+ topic/ph hi-d/i ">Reasonable payment</i> means, with respect
 to professional and other technical services, a payment in an amount
 that is consistent with the amount normally paid for such services
 in the private sector.</p>
                      <p id="d3060e117" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e188">Recipient</i> includes
+                        <i outputclass="Term"
+                           xtrf="_52.203-12"
+                           xtrc="d3064e188"
+                           class="+ topic/ph hi-d/i ">Recipient</i> includes
 the Contractor and all subcontractors. This term excludes an Indian
 tribe, tribal organization, or any other Indian organization eligible
 to receive Federal contracts, grants, cooperative agreements, or
@@ -144,7 +176,10 @@ loans from an agency, but only with respect to expenditures by such
 tribe or organization that are made for purposes specified in paragraph (b)
 of this clause and <i class="+ topic/ph hi-d/i ">are</i> permitted by other Federal law.</p>
                      <p id="d3060e124" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e198">Regularly employed</i> means, with respect
+                        <i outputclass="Term"
+                           xtrf="_52.203-12"
+                           xtrc="d3064e198"
+                           class="+ topic/ph hi-d/i ">Regularly employed</i> means, with respect
 to an officer or employee of a person requesting or receiving a
 Federal contract, an officer or employee who is employed by such
 person for at least 130 working days within 1 year immediately preceding
@@ -156,7 +191,10 @@ agency consideration of such person shall be considered to be regularly employed
 as soon as he or she is employed by such person for 130 working
 days.</p>
                      <p id="d3060e128" class="- topic/p ">
-                        <i outputclass="Term" xtrf="_52.203-12" xtrc="d3064e204">State</i> means a State of the United States,
+                        <i outputclass="Term"
+                           xtrf="_52.203-12"
+                           xtrc="d3064e204"
+                           class="+ topic/ph hi-d/i ">State</i> means a State of the United States,
 the District of Columbia, or an outlying area of the United States,
 an agency or instrumentality of a State, and multi-State, regional,
 or interstate entity having governmental duties and powers.</p>
@@ -304,8 +342,8 @@ consultants and trade associations.</p>
                         <li class="- topic/li ">
                            <p id="d3060e230" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph> As used
-in paragraph (c)(2) of this clause, “professional and technical
-services” are limited to advice and analysis directly applying any
+in paragraph (c)(2) of this clause, "professional and technical
+services" are limited to advice and analysis directly applying any
 professional or technical discipline (for examples, see FAR <xref href="3.803.dita#FAR_3_803"
                                     base="i1124087"
                                     outputclass="fm:ParaNumOnly"

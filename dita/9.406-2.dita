@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_9_406_2"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">9.406-2</ph> Causes for debarment.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -53,7 +55,7 @@ criminal tax laws, or receiving stolen property;</p>
                   <li class="- topic/li ">
                      <p id="d608e49" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph> Intentionally
-affixing a label bearing a “Made in America” inscription (or any
+affixing a label bearing a "Made in America" inscription (or any
 inscription having the same meaning) to a product sold in or shipped
 to the United States or its outlying areas, when the product was
 not made in the United States or its outlying areas (see Section
@@ -132,7 +134,7 @@ workplace (see <xref href="23.504.dita#FAR_23_504"
                         <li class="- topic/li ">
                            <p id="d608e111" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph> Intentionally
-affixing a label bearing a “Made in America” inscription (or any
+affixing a label bearing a "Made in America" inscription (or any
 inscription having the same meaning) to a product sold in or shipped
 to the United States or its outlying areas, when the product was
 not made in the United States or its outlying areas (see Section
@@ -159,7 +161,7 @@ Federal taxes in an amount that exceeds $10;000.
 taxes are considered delinquent for purposes of this provision if
 both of the following criteria apply:</p>
                                  <ol id="d587e233" class="- topic/ol ">
-                                    <li outputclass="italic" xtrf="9.406-2_d19e139">
+                                    <li outputclass="italic" xtrf="9.406-2_d19e139" class="- topic/li ">
                                        <p id="d608e136" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(1)</ph>
                                           <i class="+ topic/ph hi-d/i ">The
@@ -170,7 +172,7 @@ case of a judicial challenge to the liability, the liability is
 not finally determined until all judicial appeal rights have been
 exhausted.</p>
                                     </li>
-                                    <li outputclass="italic" xtrf="9.406-2_d19e146">
+                                    <li outputclass="italic" xtrf="9.406-2_d19e146" class="- topic/li ">
                                        <p id="d608e143" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(2)</ph>
                                           <i class="+ topic/ph hi-d/i ">The
@@ -185,7 +187,7 @@ enforced collection action is precluded.</p>
                                  <p id="d608e150" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph> Examples.</p>
                                  <ol id="d587e269" class="- topic/ol ">
-                                    <li outputclass="italic" xtrf="9.406-2_d19e159">
+                                    <li outputclass="italic" xtrf="9.406-2_d19e159" class="- topic/li ">
                                        <p id="d608e156" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(1)</ph> The taxpayer has received a statutory
 notice of deficiency, under I.R.C. §6212, which entitles the taxpayer
@@ -194,7 +196,7 @@ a delinquent tax because it is not a final tax liability. Should
 the taxpayer seek Tax Court review, this will not be a final tax
 liability until the taxpayer has exercised all judicial appeal rights.</p>
                                     </li>
-                                    <li outputclass="italic" xtrf="9.406-2_d19e164">
+                                    <li outputclass="italic" xtrf="9.406-2_d19e164" class="- topic/li ">
                                        <p id="d608e161" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(2)</ph> The
 IRS has filed a notice of Federal tax lien with respect to an assessed
@@ -209,7 +211,7 @@ because it is not a final tax liability. Should the taxpayer seek
 tax court review, this will not be a final tax liability until the
 taxpayer has exercised all judicial appeal rights.</p>
                                     </li>
-                                    <li outputclass="italic" xtrf="9.406-2_d19e169">
+                                    <li outputclass="italic" xtrf="9.406-2_d19e169" class="- topic/li ">
                                        <p id="d608e166" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(3)</ph>
                                           <i class="+ topic/ph hi-d/i ">The
@@ -218,7 +220,7 @@ taxpayer has entered into an installment agreement pursuant to I.R.C.
 compliance with the agreement terms. The taxpayer is not delinquent
 because the taxpayer is not currently required to make full payment.</p>
                                     </li>
-                                    <li outputclass="italic" xtrf="9.406-2_d19e176">
+                                    <li outputclass="italic" xtrf="9.406-2_d19e176" class="- topic/li ">
                                        <p id="d608e173" class="- topic/p ">
                                           <ph props="autonumber" class="- topic/ph ">(4)</ph>
                                           <i class="+ topic/ph hi-d/i ">The

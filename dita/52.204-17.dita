@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_204_17"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.204-17</ph> 
          Ownership or Control of Offeror.
@@ -26,7 +28,10 @@ or Control of Offeror (Aug 2020)</p>
                   <ph props="autonumber" class="- topic/ph ">(a)</ph> Definitions.
 As used in this provision–</p>
                <p id="d3085e23" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.204-17" xtrc="d3089e37">Commercial and Government
+                  <i outputclass="Term"
+                     xtrf="_52.204-17"
+                     xtrc="d3089e37"
+                     class="+ topic/ph hi-d/i ">Commercial and Government
 Entity (CAGE) code</i> means–<ol id="d3062e44" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3085e29" class="- topic/p ">
@@ -47,13 +52,19 @@ DLA Commercial and Government Entity (CAGE) Branch records and maintains
 in the CAGE master file. This type of code is known as a NATO CAGE
 (NCAGE) code.</p>
                         <p id="d3085e38" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_52.204-17" xtrc="d3089e62">Highest-level owner</i> means
+                           <i outputclass="Term"
+                              xtrf="_52.204-17"
+                              xtrc="d3089e62"
+                              class="+ topic/ph hi-d/i ">Highest-level owner</i> means
 the entity that owns or controls an immediate owner of the offeror,
 or that owns or controls one or more entities that control an immediate
 owner of the offeror. No entity owns or exercises control of the
 highest level owner.</p>
                         <p id="d3085e42" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_52.204-17" xtrc="d3089e68">Immediate owner</i> means
+                           <i outputclass="Term"
+                              xtrf="_52.204-17"
+                              xtrc="d3089e68"
+                              class="+ topic/ph hi-d/i ">Immediate owner</i> means
 an entity, other than the offeror, that has direct control of the
 offeror. Indicators of control include, but are not limited to,
 one or more of the following: ownership or interlocking management,
@@ -79,14 +90,14 @@ for each participant in the joint venture.</p>
             <li class="- topic/li ">
                <p id="d3085e58" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph> If the
-Offeror indicates “has” in paragraph (b) of this provision, enter
+Offeror indicates "has" in paragraph (b) of this provision, enter
 the following information:</p>
                <p id="d3085e62" class="- topic/p ">Immediate owner
 CAGE code: ____________________</p>
                <p id="d3085e64" class="- topic/p ">Immediate
 owner legal name: ______________________</p>
                <p id="d3085e66" class="- topic/p ">(Do
-not use a “doing business as” name)</p>
+not use a "doing business as" name)</p>
                <p id="d3085e68" class="- topic/p ">Is the
 immediate owner owned or controlled by another entity?: <cite outputclass="Checkbox"
                         xtrc="52.204-17_d73e70"
@@ -98,7 +109,7 @@ or <cite outputclass="Checkbox"
             <li class="- topic/li ">
                <p id="d3085e77" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph> If the
-Offeror indicates “yes” in paragraph (c) of this provision, indicating
+Offeror indicates "yes" in paragraph (c) of this provision, indicating
 that the immediate owner is owned or controlled by another entity,
 then enter the following information:</p>
                <p id="d3085e81" class="- topic/p ">Highest-level
@@ -106,7 +117,7 @@ owner CAGE code: ___________________</p>
                <p id="d3085e83" class="- topic/p ">Highest-level
 owner legal name: ___________________</p>
                <p id="d3085e85" class="- topic/p ">(Do
-not use a “doing business as” name)</p>
+not use a "doing business as" name)</p>
             </li>
          </ol>
          <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>

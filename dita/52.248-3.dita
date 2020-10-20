@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_248_3"
             domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
@@ -36,38 +37,53 @@ VECP’s, in accordance with paragraph (f) of this clause.</p>
                <p id="d3739e27" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>.
-“Collateral costs,” as used in this clause, means agency costs of
+"Collateral costs," as used in this clause, means agency costs of
 operation, maintenance, logistic support, or Government-furnished
 property.</p>
                <p id="d3739e33" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.248-3" xtrc="d3741e52">Collateral savings,</i> as
+                  <i outputclass="Term"
+                     xtrf="_52.248-3"
+                     xtrc="d3741e52"
+                     class="+ topic/ph hi-d/i ">Collateral savings,</i> as
 used in this clause, means those measurable net reductions resulting
 from a VECP in the agency’s overall projected collateral costs,
 exclusive of acquisition savings, whether or not the acquisition
 cost changes.</p>
                <p id="d3739e37" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.248-3" xtrc="d3741e58">Contractor’s development
+                  <i outputclass="Term"
+                     xtrf="_52.248-3"
+                     xtrc="d3741e58"
+                     class="+ topic/ph hi-d/i ">Contractor’s development
 and implementation costs,</i> as used in this clause, means those
 costs the Contractor incurs on a VECP specifically in developing,
 testing, preparing, and submitting the VECP, as well as those costs
 the Contractor incurs to make the contractual changes required by
 Government acceptance of a VECP.</p>
                <p id="d3739e41" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.248-3" xtrc="d3741e64">Government
+                  <i outputclass="Term"
+                     xtrf="_52.248-3"
+                     xtrc="d3741e64"
+                     class="+ topic/ph hi-d/i ">Government
 costs,</i> as used in this clause, means those agency costs that
 result directly from developing and implementing the VECP, such
 as any net increases in the cost of testing, operations, maintenance,
 and logistic support. The term does not include the normal administrative
 costs of processing the VECP.</p>
                <p id="d3739e45" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.248-3" xtrc="d3741e70">Instant
+                  <i outputclass="Term"
+                     xtrf="_52.248-3"
+                     xtrc="d3741e70"
+                     class="+ topic/ph hi-d/i ">Instant
 contract savings,</i> as used in this clause, means the estimated
 reduction in Contractor cost of performance resulting from acceptance
 of the VECP, minus allowable Contractor’s development and implementation
 costs, including subcontractors’ development and implementation
 costs (see paragraph (h) of this clause).</p>
                <p id="d3739e49" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.248-3" xtrc="d3741e77">Value
+                  <i outputclass="Term"
+                     xtrf="_52.248-3"
+                     xtrc="d3741e77"
+                     class="+ topic/ph hi-d/i ">Value
 engineering change proposal (VECP)</i> means a proposal that-<ol id="d3706e72" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3739e55" class="- topic/p ">
@@ -310,8 +326,8 @@ the Contractor hereby grants the Government unlimited rights in
 the VECP and supporting data, except that, with respect to data
 qualifying and submitted as limited rights technical data, the Government
 shall have the rights specified in the contract modification implementing
-the VECP and shall appropriately mark the data. (The terms “unlimited
-rights” and “limited rights” are defined in <xref href="Part_27.dita#FAR_Part_27"
+the VECP and shall appropriately mark the data. (The terms "unlimited
+rights" and "limited rights" are defined in <xref href="Part_27.dita#FAR_Part_27"
                         base="i1090283"
                         outputclass="fm:Part"
                         class="- topic/xref ">part  27</xref> of the Federal

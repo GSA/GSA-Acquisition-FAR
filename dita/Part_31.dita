@@ -1,492 +1,685 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="FAR_Part_31">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="FAR_Part_31"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 31</ph> - Contract Cost Principles and Procedures</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p id="d1921e10">
-                  <xref outputclass="fm:TOC" href="31.000.dita#FAR_31_000">31.000 Scope of part.</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p id="d1921e10" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="31.000.dita#FAR_31_000"
+                        class="- topic/xref ">31.000 Scope of part.</xref>
                </p>
             </li>
-            <li>
-               <p id="d1921e14">
-                  <xref outputclass="fm:TOC" href="31.001.dita#FAR_31_001">31.001 Definitions.</xref>
+            <li class="- topic/li ">
+               <p id="d1921e14" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="31.001.dita#FAR_31_001"
+                        class="- topic/xref ">31.001 Definitions.</xref>
                </p>
             </li>
-            <li>
-               <p id="d1921e18">
-                  <xref outputclass="fm:TOC" href="31.002.dita#FAR_31_002">31.002 Availability of accounting guide.</xref>
+            <li class="- topic/li ">
+               <p id="d1921e18" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="31.002.dita#FAR_31_002"
+                        class="- topic/xref ">31.002 Availability of accounting guide.</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p id="d1921e22">
-                  <xref outputclass="fm:TOC" href="Subpart_31.1.dita#FAR_Subpart_31_1">Subpart 31.1 - Applicability</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d1921e22" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_31.1.dita#FAR_Subpart_31_1"
+                        class="- topic/xref ">Subpart 31.1 - Applicability</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d1921e27">
-                        <xref outputclass="fm:TOC" href="31.100.dita#FAR_31_100">31.100 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d1921e27" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.100.dita#FAR_31_100"
+                              class="- topic/xref ">31.100 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e31">
-                        <xref outputclass="fm:TOC" href="31.101.dita#FAR_31_101">31.101 Objectives.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e31" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.101.dita#FAR_31_101"
+                              class="- topic/xref ">31.101 Objectives.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e35">
-                        <xref outputclass="fm:TOC" href="31.102.dita#FAR_31_102">31.102 Fixed-price contracts.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e35" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.102.dita#FAR_31_102"
+                              class="- topic/xref ">31.102 Fixed-price contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e39">
-                        <xref outputclass="fm:TOC" href="31.103.dita#FAR_31_103">31.103 Contracts with commercial organizations.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e39" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.103.dita#FAR_31_103"
+                              class="- topic/xref ">31.103 Contracts with commercial organizations.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e43">
-                        <xref outputclass="fm:TOC" href="31.104.dita#FAR_31_104">31.104 Contracts with educational institutions.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e43" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.104.dita#FAR_31_104"
+                              class="- topic/xref ">31.104 Contracts with educational institutions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e47">
-                        <xref outputclass="fm:TOC" href="31.105.dita#FAR_31_105">31.105 Construction and architect-engineer contracts.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e47" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.105.dita#FAR_31_105"
+                              class="- topic/xref ">31.105 Construction and architect-engineer contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e51">
-                        <xref outputclass="fm:TOC" href="31.106.dita#FAR_31_106">31.106 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e51" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.106.dita#FAR_31_106"
+                              class="- topic/xref ">31.106 [Reserved]</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e55">
-                        <xref outputclass="fm:TOC" href="31.107.dita#FAR_31_107">31.107 Contracts with State, local, and federally recognized Indian tribal governments.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e55" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.107.dita#FAR_31_107"
+                              class="- topic/xref ">31.107 Contracts with State, local, and federally recognized Indian tribal governments.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e59">
-                        <xref outputclass="fm:TOC" href="31.108.dita#FAR_31_108">31.108 Contracts with nonprofit organizations.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e59" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.108.dita#FAR_31_108"
+                              class="- topic/xref ">31.108 Contracts with nonprofit organizations.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e63">
-                        <xref outputclass="fm:TOC" href="31.109.dita#FAR_31_109">31.109 Advance agreements.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e63" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.109.dita#FAR_31_109"
+                              class="- topic/xref ">31.109 Advance agreements.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e67">
-                        <xref outputclass="fm:TOC" href="31.110.dita#FAR_31_110">31.110 Indirect cost rate certification and penalties on unallowable costs.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e67" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.110.dita#FAR_31_110"
+                              class="- topic/xref ">31.110 Indirect cost rate certification and penalties on unallowable costs.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d1921e71">
-                  <xref outputclass="fm:TOC" href="Subpart_31.2.dita#FAR_Subpart_31_2">Subpart 31.2 - Contracts with Commercial Organizations</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d1921e71" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_31.2.dita#FAR_Subpart_31_2"
+                        class="- topic/xref ">Subpart 31.2 - Contracts with Commercial Organizations</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d1921e76">
-                        <xref outputclass="fm:TOC" href="31.201.dita#FAR_31_201">31.201 General.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d1921e76" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.201.dita#FAR_31_201"
+                              class="- topic/xref ">31.201 General.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p id="d1921e81">
-                              <xref outputclass="fm:TOC" href="31.201-1.dita#FAR_31_201_1">31.201-1 Composition of total cost.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p id="d1921e81" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.201-1.dita#FAR_31_201_1"
+                                    class="- topic/xref ">31.201-1 Composition of total cost.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e85">
-                              <xref outputclass="fm:TOC" href="31.201-2.dita#FAR_31_201_2">31.201-2 Determining allowability.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e85" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.201-2.dita#FAR_31_201_2"
+                                    class="- topic/xref ">31.201-2 Determining allowability.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e89">
-                              <xref outputclass="fm:TOC" href="31.201-3.dita#FAR_31_201_3">31.201-3 Determining reasonableness.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e89" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.201-3.dita#FAR_31_201_3"
+                                    class="- topic/xref ">31.201-3 Determining reasonableness.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e93">
-                              <xref outputclass="fm:TOC" href="31.201-4.dita#FAR_31_201_4">31.201-4 Determining allocability.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e93" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.201-4.dita#FAR_31_201_4"
+                                    class="- topic/xref ">31.201-4 Determining allocability.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e97">
-                              <xref outputclass="fm:TOC" href="31.201-5.dita#FAR_31_201_5">31.201-5 Credits.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e97" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.201-5.dita#FAR_31_201_5"
+                                    class="- topic/xref ">31.201-5 Credits.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e101">
-                              <xref outputclass="fm:TOC" href="31.201-6.dita#FAR_31_201_6">31.201-6 Accounting for unallowable costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e101" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.201-6.dita#FAR_31_201_6"
+                                    class="- topic/xref ">31.201-6 Accounting for unallowable costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e105">
-                              <xref outputclass="fm:TOC" href="31.201-7.dita#FAR_31_201_7">31.201-7 Construction and architect-engineer contracts.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e105" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.201-7.dita#FAR_31_201_7"
+                                    class="- topic/xref ">31.201-7 Construction and architect-engineer contracts.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p id="d1921e109">
-                        <xref outputclass="fm:TOC" href="31.202.dita#FAR_31_202">31.202 Direct costs.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e109" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.202.dita#FAR_31_202"
+                              class="- topic/xref ">31.202 Direct costs.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e113">
-                        <xref outputclass="fm:TOC" href="31.203.dita#FAR_31_203">31.203 Indirect costs.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e113" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.203.dita#FAR_31_203"
+                              class="- topic/xref ">31.203 Indirect costs.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e117">
-                        <xref outputclass="fm:TOC" href="31.204.dita#FAR_31_204">31.204 Application of principles and procedures.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e117" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.204.dita#FAR_31_204"
+                              class="- topic/xref ">31.204 Application of principles and procedures.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e121">
-                        <xref outputclass="fm:TOC" href="31.205.dita#FAR_31_205">31.205 Selected costs.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e121" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.205.dita#FAR_31_205"
+                              class="- topic/xref ">31.205 Selected costs.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p id="d1921e126">
-                              <xref outputclass="fm:TOC" href="31.205-1.dita#FAR_31_205_1">31.205-1 Public relations and advertising costs.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p id="d1921e126" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-1.dita#FAR_31_205_1"
+                                    class="- topic/xref ">31.205-1 Public relations and advertising costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e130">
-                              <xref outputclass="fm:TOC" href="31.205-2.dita#FAR_31_205_2">31.205-2 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e130" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-2.dita#FAR_31_205_2"
+                                    class="- topic/xref ">31.205-2 [Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e134">
-                              <xref outputclass="fm:TOC" href="31.205-3.dita#FAR_31_205_3">31.205-3 Bad debts.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e134" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-3.dita#FAR_31_205_3"
+                                    class="- topic/xref ">31.205-3 Bad debts.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e138">
-                              <xref outputclass="fm:TOC" href="31.205-4.dita#FAR_31_205_4">31.205-4 Bonding costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e138" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-4.dita#FAR_31_205_4"
+                                    class="- topic/xref ">31.205-4 Bonding costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e142">
-                              <xref outputclass="fm:TOC" href="31.205-5.dita#FAR_31_205_5">31.205-5 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e142" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-5.dita#FAR_31_205_5"
+                                    class="- topic/xref ">31.205-5 [Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e146">
-                              <xref outputclass="fm:TOC" href="31.205-6.dita#FAR_31_205_6">31.205-6 Compensation for personal services.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e146" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-6.dita#FAR_31_205_6"
+                                    class="- topic/xref ">31.205-6 Compensation for personal services.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e150">
-                              <xref outputclass="fm:TOC" href="31.205-7.dita#FAR_31_205_7">31.205-7 Contingencies.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e150" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-7.dita#FAR_31_205_7"
+                                    class="- topic/xref ">31.205-7 Contingencies.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e154">
-                              <xref outputclass="fm:TOC" href="31.205-8.dita#FAR_31_205_8">31.205-8 Contributions or donations.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e154" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-8.dita#FAR_31_205_8"
+                                    class="- topic/xref ">31.205-8 Contributions or donations.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e158">
-                              <xref outputclass="fm:TOC" href="31.205-9.dita#FAR_31_205_9">31.205-9 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e158" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-9.dita#FAR_31_205_9"
+                                    class="- topic/xref ">31.205-9 [Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e162">
-                              <xref outputclass="fm:TOC" href="31.205-10.dita#FAR_31_205_10">31.205-10 Cost of money.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e162" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-10.dita#FAR_31_205_10"
+                                    class="- topic/xref ">31.205-10 Cost of money.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e166">
-                              <xref outputclass="fm:TOC" href="31.205-11.dita#FAR_31_205_11">31.205-11 Depreciation.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e166" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-11.dita#FAR_31_205_11"
+                                    class="- topic/xref ">31.205-11 Depreciation.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e171">
-                              <xref outputclass="fm:TOC" href="31.205-12.dita#FAR_31_205_12">31.205-12 Economic planning costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e171" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-12.dita#FAR_31_205_12"
+                                    class="- topic/xref ">31.205-12 Economic planning costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e175">
-                              <xref outputclass="fm:TOC" href="31.205-13.dita#FAR_31_205_13">31.205-13 Employee morale, health, welfare, food service, and dormitory costs and credits.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e175" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-13.dita#FAR_31_205_13"
+                                    class="- topic/xref ">31.205-13 Employee morale, health, welfare, food service, and dormitory costs and credits.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e179">
-                              <xref outputclass="fm:TOC" href="31.205-14.dita#FAR_31_205_14">31.205-14 Entertainment costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e179" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-14.dita#FAR_31_205_14"
+                                    class="- topic/xref ">31.205-14 Entertainment costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e183">
-                              <xref outputclass="fm:TOC" href="31.205-15.dita#FAR_31_205_15">31.205-15 Fines, penalties, and mischarging costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e183" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-15.dita#FAR_31_205_15"
+                                    class="- topic/xref ">31.205-15 Fines, penalties, and mischarging costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e187">
-                              <xref outputclass="fm:TOC" href="31.205-16.dita#FAR_31_205_16">31.205-16 Gains and losses on disposition or impairment of depreciable property or other capital assets.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e187" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-16.dita#FAR_31_205_16"
+                                    class="- topic/xref ">31.205-16 Gains and losses on disposition or impairment of depreciable property or other capital assets.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e191">
-                              <xref outputclass="fm:TOC" href="31.205-17.dita#FAR_31_205_17">31.205-17 Idle facilities and idle capacity costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e191" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-17.dita#FAR_31_205_17"
+                                    class="- topic/xref ">31.205-17 Idle facilities and idle capacity costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e195">
-                              <xref outputclass="fm:TOC" href="31.205-18.dita#FAR_31_205_18">31.205-18 Independent research and development and bid and proposal costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e195" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-18.dita#FAR_31_205_18"
+                                    class="- topic/xref ">31.205-18 Independent research and development and bid and proposal costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e199">
-                              <xref outputclass="fm:TOC" href="31.205-19.dita#FAR_31_205_19">31.205-19 Insurance and indemnification.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e199" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-19.dita#FAR_31_205_19"
+                                    class="- topic/xref ">31.205-19 Insurance and indemnification.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e203">
-                              <xref outputclass="fm:TOC" href="31.205-20.dita#FAR_31_205_20">31.205-20 Interest and other financial costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e203" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-20.dita#FAR_31_205_20"
+                                    class="- topic/xref ">31.205-20 Interest and other financial costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e207">
-                              <xref outputclass="fm:TOC" href="31.205-21.dita#FAR_31_205_21">31.205-21 Labor relations costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e207" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-21.dita#FAR_31_205_21"
+                                    class="- topic/xref ">31.205-21 Labor relations costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e211">
-                              <xref outputclass="fm:TOC" href="31.205-22.dita#FAR_31_205_22">31.205-22 Lobbying and political activity costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e211" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-22.dita#FAR_31_205_22"
+                                    class="- topic/xref ">31.205-22 Lobbying and political activity costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e216">
-                              <xref outputclass="fm:TOC" href="31.205-23.dita#FAR_31_205_23">31.205-23 Losses on other contracts.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e216" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-23.dita#FAR_31_205_23"
+                                    class="- topic/xref ">31.205-23 Losses on other contracts.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e220">
-                              <xref outputclass="fm:TOC" href="31.205-24.dita#FAR_31_205_24">31.205-24 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e220" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-24.dita#FAR_31_205_24"
+                                    class="- topic/xref ">31.205-24 [Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e224">
-                              <xref outputclass="fm:TOC" href="31.205-25.dita#FAR_31_205_25">31.205-25 Manufacturing and production engineering costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e224" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-25.dita#FAR_31_205_25"
+                                    class="- topic/xref ">31.205-25 Manufacturing and production engineering costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e228">
-                              <xref outputclass="fm:TOC" href="31.205-26.dita#FAR_31_205_26">31.205-26 Material costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e228" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-26.dita#FAR_31_205_26"
+                                    class="- topic/xref ">31.205-26 Material costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e232">
-                              <xref outputclass="fm:TOC" href="31.205-27.dita#FAR_31_205_27">31.205-27 Organization costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e232" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-27.dita#FAR_31_205_27"
+                                    class="- topic/xref ">31.205-27 Organization costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e236">
-                              <xref outputclass="fm:TOC" href="31.205-28.dita#FAR_31_205_28">31.205-28 Other business expenses.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e236" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-28.dita#FAR_31_205_28"
+                                    class="- topic/xref ">31.205-28 Other business expenses.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e240">
-                              <xref outputclass="fm:TOC" href="31.205-29.dita#FAR_31_205_29">31.205-29 Plant protection costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e240" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-29.dita#FAR_31_205_29"
+                                    class="- topic/xref ">31.205-29 Plant protection costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e244">
-                              <xref outputclass="fm:TOC" href="31.205-30.dita#FAR_31_205_30">31.205-30 Patent costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e244" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-30.dita#FAR_31_205_30"
+                                    class="- topic/xref ">31.205-30 Patent costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e248">
-                              <xref outputclass="fm:TOC" href="31.205-31.dita#FAR_31_205_31">31.205-31 Plant reconversion costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e248" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-31.dita#FAR_31_205_31"
+                                    class="- topic/xref ">31.205-31 Plant reconversion costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e252">
-                              <xref outputclass="fm:TOC" href="31.205-32.dita#FAR_31_205_32">31.205-32 Precontract costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e252" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-32.dita#FAR_31_205_32"
+                                    class="- topic/xref ">31.205-32 Precontract costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e256">
-                              <xref outputclass="fm:TOC" href="31.205-33.dita#FAR_31_205_33">31.205-33 Professional and consultant service costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e256" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-33.dita#FAR_31_205_33"
+                                    class="- topic/xref ">31.205-33 Professional and consultant service costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e261">
-                              <xref outputclass="fm:TOC" href="31.205-34.dita#FAR_31_205_34">31.205-34 Recruitment costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e261" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-34.dita#FAR_31_205_34"
+                                    class="- topic/xref ">31.205-34 Recruitment costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e265">
-                              <xref outputclass="fm:TOC" href="31.205-35.dita#FAR_31_205_35">31.205-35 Relocation costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e265" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-35.dita#FAR_31_205_35"
+                                    class="- topic/xref ">31.205-35 Relocation costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e269">
-                              <xref outputclass="fm:TOC" href="31.205-36.dita#FAR_31_205_36">31.205-36 Rental costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e269" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-36.dita#FAR_31_205_36"
+                                    class="- topic/xref ">31.205-36 Rental costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e273">
-                              <xref outputclass="fm:TOC" href="31.205-37.dita#FAR_31_205_37">31.205-37 Royalties and other costs for use of patents.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e273" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-37.dita#FAR_31_205_37"
+                                    class="- topic/xref ">31.205-37 Royalties and other costs for use of patents.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e277">
-                              <xref outputclass="fm:TOC" href="31.205-38.dita#FAR_31_205_38">31.205-38 Selling costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e277" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-38.dita#FAR_31_205_38"
+                                    class="- topic/xref ">31.205-38 Selling costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e281">
-                              <xref outputclass="fm:TOC" href="31.205-39.dita#FAR_31_205_39">31.205-39 Service and warranty costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e281" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-39.dita#FAR_31_205_39"
+                                    class="- topic/xref ">31.205-39 Service and warranty costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e285">
-                              <xref outputclass="fm:TOC" href="31.205-40.dita#FAR_31_205_40">31.205-40 Special tooling and special test equipment costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e285" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-40.dita#FAR_31_205_40"
+                                    class="- topic/xref ">31.205-40 Special tooling and special test equipment costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e289">
-                              <xref outputclass="fm:TOC" href="31.205-41.dita#FAR_31_205_41">31.205-41 Taxes.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e289" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-41.dita#FAR_31_205_41"
+                                    class="- topic/xref ">31.205-41 Taxes.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e293">
-                              <xref outputclass="fm:TOC" href="31.205-42.dita#FAR_31_205_42">31.205-42 Termination costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e293" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-42.dita#FAR_31_205_42"
+                                    class="- topic/xref ">31.205-42 Termination costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e297">
-                              <xref outputclass="fm:TOC" href="31.205-43.dita#FAR_31_205_43">31.205-43 Trade, business, technical and professional activity costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e297" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-43.dita#FAR_31_205_43"
+                                    class="- topic/xref ">31.205-43 Trade, business, technical and professional activity costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e301">
-                              <xref outputclass="fm:TOC" href="31.205-44.dita#FAR_31_205_44">31.205-44 Training and education costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e301" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-44.dita#FAR_31_205_44"
+                                    class="- topic/xref ">31.205-44 Training and education costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e306">
-                              <xref outputclass="fm:TOC" href="31.205-45.dita#FAR_31_205_45">31.205-45 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e306" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-45.dita#FAR_31_205_45"
+                                    class="- topic/xref ">31.205-45 [Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e310">
-                              <xref outputclass="fm:TOC" href="31.205-46.dita#FAR_31_205_46">31.205-46 Travel costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e310" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-46.dita#FAR_31_205_46"
+                                    class="- topic/xref ">31.205-46 Travel costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e314">
-                              <xref outputclass="fm:TOC" href="31.205-47.dita#FAR_31_205_47">31.205-47 Costs related to legal and other proceedings.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e314" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-47.dita#FAR_31_205_47"
+                                    class="- topic/xref ">31.205-47 Costs related to legal and other proceedings.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e318">
-                              <xref outputclass="fm:TOC" href="31.205-48.dita#FAR_31_205_48">31.205-48 Research and development costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e318" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-48.dita#FAR_31_205_48"
+                                    class="- topic/xref ">31.205-48 Research and development costs.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e322">
-                              <xref outputclass="fm:TOC" href="31.205-49.dita#FAR_31_205_49">31.205-49 Goodwill.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e322" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-49.dita#FAR_31_205_49"
+                                    class="- topic/xref ">31.205-49 Goodwill.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e326">
-                              <xref outputclass="fm:TOC" href="31.205-50.dita#FAR_31_205_50">31.205-50 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e326" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-50.dita#FAR_31_205_50"
+                                    class="- topic/xref ">31.205-50 [Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e330">
-                              <xref outputclass="fm:TOC" href="31.205-51.dita#FAR_31_205_51">31.205-51 Costs of alcoholic beverages.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e330" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-51.dita#FAR_31_205_51"
+                                    class="- topic/xref ">31.205-51 Costs of alcoholic beverages.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d1921e334">
-                              <xref outputclass="fm:TOC" href="31.205-52.dita#FAR_31_205_52">31.205-52 Asset valuations resulting from business combinations.</xref>
+                        <li class="- topic/li ">
+                           <p id="d1921e334" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="31.205-52.dita#FAR_31_205_52"
+                                    class="- topic/xref ">31.205-52 Asset valuations resulting from business combinations.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d1921e338">
-                  <xref outputclass="fm:TOC" href="Subpart_31.3.dita#FAR_Subpart_31_3">Subpart 31.3 - Contracts with Educational Institutions</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d1921e338" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_31.3.dita#FAR_Subpart_31_3"
+                        class="- topic/xref ">Subpart 31.3 - Contracts with Educational Institutions</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d1921e343">
-                        <xref outputclass="fm:TOC" href="31.301.dita#FAR_31_301">31.301 Purpose.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d1921e343" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.301.dita#FAR_31_301"
+                              class="- topic/xref ">31.301 Purpose.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e347">
-                        <xref outputclass="fm:TOC" href="31.302.dita#FAR_31_302">31.302 General.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e347" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.302.dita#FAR_31_302"
+                              class="- topic/xref ">31.302 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e351">
-                        <xref outputclass="fm:TOC" href="31.303.dita#FAR_31_303">31.303 Requirements.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e351" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.303.dita#FAR_31_303"
+                              class="- topic/xref ">31.303 Requirements.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d1921e355">
-                  <xref outputclass="fm:TOC" href="Subpart_31.4.dita#FAR_Subpart_31_4">Subpart 31.4 - [Reserved]</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d1921e355" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_31.4.dita#FAR_Subpart_31_4"
+                        class="- topic/xref ">Subpart 31.4 - [Reserved]</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p id="d1921e359">
-                  <xref outputclass="fm:TOC" href="Subpart_31.5.dita#FAR_Subpart_31_5">Subpart 31.5 - [Reserved]</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d1921e359" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_31.5.dita#FAR_Subpart_31_5"
+                        class="- topic/xref ">Subpart 31.5 - [Reserved]</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p id="d1921e363">
-                  <xref outputclass="fm:TOC" href="Subpart_31.6.dita#FAR_Subpart_31_6">Subpart 31.6 - Contracts with State, Local, and Federally Recognized Indian Tribal Governments</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d1921e363" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_31.6.dita#FAR_Subpart_31_6"
+                        class="- topic/xref ">Subpart 31.6 - Contracts with State, Local, and Federally Recognized Indian Tribal Governments</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d1921e368">
-                        <xref outputclass="fm:TOC" href="31.601.dita#FAR_31_601">31.601 Purpose.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d1921e368" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.601.dita#FAR_31_601"
+                              class="- topic/xref ">31.601 Purpose.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e372">
-                        <xref outputclass="fm:TOC" href="31.602.dita#FAR_31_602">31.602 General.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e372" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.602.dita#FAR_31_602"
+                              class="- topic/xref ">31.602 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e376">
-                        <xref outputclass="fm:TOC" href="31.603.dita#FAR_31_603">31.603 Requirements.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e376" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.603.dita#FAR_31_603"
+                              class="- topic/xref ">31.603 Requirements.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d1921e380">
-                  <xref outputclass="fm:TOC" href="Subpart_31.7.dita#FAR_Subpart_31_7">Subpart 31.7 - Contracts with Nonprofit Organizations</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d1921e380" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_31.7.dita#FAR_Subpart_31_7"
+                        class="- topic/xref ">Subpart 31.7 - Contracts with Nonprofit Organizations</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d1921e385">
-                        <xref outputclass="fm:TOC" href="31.701.dita#FAR_31_701">31.701 Purpose.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d1921e385" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.701.dita#FAR_31_701"
+                              class="- topic/xref ">31.701 Purpose.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e389">
-                        <xref outputclass="fm:TOC" href="31.702.dita#FAR_31_702">31.702 General.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e389" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.702.dita#FAR_31_702"
+                              class="- topic/xref ">31.702 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d1921e393">
-                        <xref outputclass="fm:TOC" href="31.703.dita#FAR_31_703">31.703 Requirements.</xref>
+                  <li class="- topic/li ">
+                     <p id="d1921e393" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="31.703.dita#FAR_31_703"
+                              class="- topic/xref ">31.703 Requirements.</xref>
                      </p>
                   </li>
                </ul>

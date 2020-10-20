@@ -1,142 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="FAR_Part_41">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="FAR_Part_41"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 41</ph> - Acquisition of Utility Services</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p id="d2445e10">
-                  <xref outputclass="fm:TOC" href="Subpart_41.1.dita#FAR_Subpart_41_1">Subpart 41.1 - General</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2445e10" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_41.1.dita#FAR_Subpart_41_1"
+                        class="- topic/xref ">Subpart 41.1 - General</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2445e15">
-                        <xref outputclass="fm:TOC" href="41.100.dita#FAR_41_100">41.100 Scope of part.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2445e15" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.100.dita#FAR_41_100"
+                              class="- topic/xref ">41.100 Scope of part.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2445e19">
-                        <xref outputclass="fm:TOC" href="41.101.dita#FAR_41_101">41.101 Definitions.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2445e19" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.101.dita#FAR_41_101"
+                              class="- topic/xref ">41.101 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2445e23">
-                        <xref outputclass="fm:TOC" href="41.102.dita#FAR_41_102">41.102 Applicability.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2445e23" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.102.dita#FAR_41_102"
+                              class="- topic/xref ">41.102 Applicability.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2445e27">
-                        <xref outputclass="fm:TOC" href="41.103.dita#FAR_41_103">41.103 Statutory and delegated authority.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2445e27" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.103.dita#FAR_41_103"
+                              class="- topic/xref ">41.103 Statutory and delegated authority.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2445e31">
-                  <xref outputclass="fm:TOC" href="Subpart_41.2.dita#FAR_Subpart_41_2">Subpart 41.2 - Acquiring Utility Services</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2445e31" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_41.2.dita#FAR_Subpart_41_2"
+                        class="- topic/xref ">Subpart 41.2 - Acquiring Utility Services</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2445e36">
-                        <xref outputclass="fm:TOC" href="41.201.dita#FAR_41_201">41.201 Policy.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2445e36" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.201.dita#FAR_41_201"
+                              class="- topic/xref ">41.201 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2445e40">
-                        <xref outputclass="fm:TOC" href="41.202.dita#FAR_41_202">41.202 Procedures.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2445e40" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.202.dita#FAR_41_202"
+                              class="- topic/xref ">41.202 Procedures.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2445e44">
-                        <xref outputclass="fm:TOC" href="41.203.dita#FAR_41_203">41.203 GSA assistance.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2445e44" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.203.dita#FAR_41_203"
+                              class="- topic/xref ">41.203 GSA assistance.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2445e48">
-                        <xref outputclass="fm:TOC" href="41.204.dita#FAR_41_204">41.204 GSA areawide contracts.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2445e48" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.204.dita#FAR_41_204"
+                              class="- topic/xref ">41.204 GSA areawide contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2445e52">
-                        <xref outputclass="fm:TOC" href="41.205.dita#FAR_41_205">41.205 Separate contracts.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2445e52" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.205.dita#FAR_41_205"
+                              class="- topic/xref ">41.205 Separate contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2445e56">
-                        <xref outputclass="fm:TOC" href="41.206.dita#FAR_41_206">41.206 Interagency agreements.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2445e56" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.206.dita#FAR_41_206"
+                              class="- topic/xref ">41.206 Interagency agreements.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2445e60">
-                  <xref outputclass="fm:TOC" href="Subpart_41.3.dita#FAR_Subpart_41_3">Subpart 41.3 - Requests for Assistance</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2445e60" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_41.3.dita#FAR_Subpart_41_3"
+                        class="- topic/xref ">Subpart 41.3 - Requests for Assistance</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2445e65">
-                        <xref outputclass="fm:TOC" href="41.301.dita#FAR_41_301">41.301 Requirements.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2445e65" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.301.dita#FAR_41_301"
+                              class="- topic/xref ">41.301 Requirements.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2445e69">
-                  <xref outputclass="fm:TOC" href="Subpart_41.4.dita#FAR_Subpart_41_4">Subpart 41.4 - Administration</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2445e69" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_41.4.dita#FAR_Subpart_41_4"
+                        class="- topic/xref ">Subpart 41.4 - Administration</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2445e74">
-                        <xref outputclass="fm:TOC" href="41.401.dita#FAR_41_401">41.401 Monthly and annual review.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2445e74" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.401.dita#FAR_41_401"
+                              class="- topic/xref ">41.401 Monthly and annual review.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2445e78">
-                        <xref outputclass="fm:TOC" href="41.402.dita#FAR_41_402">41.402 Rate changes and regulatory intervention.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2445e78" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.402.dita#FAR_41_402"
+                              class="- topic/xref ">41.402 Rate changes and regulatory intervention.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2445e82">
-                  <xref outputclass="fm:TOC" href="Subpart_41.5.dita#FAR_Subpart_41_5">Subpart 41.5 - Solicitation Provision and Contract Clauses</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2445e82" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_41.5.dita#FAR_Subpart_41_5"
+                        class="- topic/xref ">Subpart 41.5 - Solicitation Provision and Contract Clauses</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2445e87">
-                        <xref outputclass="fm:TOC" href="41.501.dita#FAR_41_501">41.501 Solicitation provision and contract clauses.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2445e87" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.501.dita#FAR_41_501"
+                              class="- topic/xref ">41.501 Solicitation provision and contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2445e91">
-                  <xref outputclass="fm:TOC" href="Subpart_41.6.dita#FAR_Subpart_41_6">Subpart 41.6 - Forms</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2445e91" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_41.6.dita#FAR_Subpart_41_6"
+                        class="- topic/xref ">Subpart 41.6 - Forms</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2445e96">
-                        <xref outputclass="fm:TOC" href="41.601.dita#FAR_41_601">41.601 Utility services forms.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2445e96" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.601.dita#FAR_41_601"
+                              class="- topic/xref ">41.601 Utility services forms.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2445e100">
-                  <xref outputclass="fm:TOC" href="Subpart_41.7.dita#FAR_Subpart_41_7">Subpart 41.7 - Formats</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2445e100" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_41.7.dita#FAR_Subpart_41_7"
+                        class="- topic/xref ">Subpart 41.7 - Formats</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2445e105">
-                        <xref outputclass="fm:TOC" href="41.701.dita#FAR_41_701">41.701 Formats for utility service specifications.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2445e105" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.701.dita#FAR_41_701"
+                              class="- topic/xref ">41.701 Formats for utility service specifications.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2445e109">
-                        <xref outputclass="fm:TOC" href="41.702.dita#FAR_41_702">41.702 Formats for annual utility service review.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2445e109" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="41.702.dita#FAR_41_702"
+                              class="- topic/xref ">41.702 Formats for annual utility service review.</xref>
                      </p>
                   </li>
                </ul>

@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FAR_52_209_7"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.209-7</ph> Information Regarding
 Responsibility Matters.</title>
@@ -27,7 +29,10 @@ Responsibility Matters <ph outputclass="SmCaps" class="- topic/ph ">(Oct 2018)</
                   <i class="+ topic/ph hi-d/i ">Definitions</i>.
 As used in this provision—</p>
                <p id="d3121e27" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.209-7" xtrc="d3125e40">Administrative proceeding</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.209-7"
+                     xtrc="d3125e40"
+                     class="+ topic/ph hi-d/i ">Administrative proceeding</i> means
 a non-judicial process that is adjudicatory in nature in order to
 make a determination of fault or liability (<i class="+ topic/ph hi-d/i ">e.g.</i>, Securities
 and Exchange Commission Administrative Proceedings, Civilian Board
@@ -38,7 +43,10 @@ of a Federal contract or grant. It does not include agency actions
 such as contract audits, site visits, corrective plans, or inspection
 of deliverables.</p>
                <p id="d3121e34" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_52.209-7" xtrc="d3125e49">Federal contracts and grants
+                  <i outputclass="Term"
+                     xtrf="_52.209-7"
+                     xtrc="d3125e49"
+                     class="+ topic/ph hi-d/i ">Federal contracts and grants
 with total value greater than $10,000,000</i> means—<ol id="d3094e58" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d3121e40" class="- topic/p ">
@@ -53,7 +61,10 @@ value of all current, active orders including all priced options
 under indefinite-delivery, indefinite-quantity, 8(a), or requirements
 contracts (including task and delivery and multiple-award Schedules).</p>
                         <p id="d3121e49" class="- topic/p ">
-                           <i outputclass="Term" xtrf="_52.209-7" xtrc="d3125e74">Principal</i> means an officer, director,
+                           <i outputclass="Term"
+                              xtrf="_52.209-7"
+                              xtrc="d3125e74"
+                              class="+ topic/ph hi-d/i ">Principal</i> means an officer, director,
 owner, partner, or a person having primary management or supervisory
 responsibilities within a business entity (<i class="+ topic/ph hi-d/i ">e.g.</i>, general
 manager; plant manager; head of a division or business segment;
@@ -71,7 +82,7 @@ value greater than $10,000,000.</p>
             <li class="- topic/li ">
                <p id="d3121e68" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph> If the
-offeror checked “has” in paragraph (b) of this provision, the offeror
+offeror checked "has" in paragraph (b) of this provision, the offeror
 represents, by submission of this offer, that the information it
 has entered in the Federal Awardee Performance and Integrity Information
 System (FAPIIS) is current, accurate, and complete as of the date

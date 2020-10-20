@@ -1,551 +1,758 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="FAR_Part_42">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="FAR_Part_42"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 42</ph> - Contract Administration and Audit Services</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p id="d2472e10">
-                  <xref outputclass="fm:TOC" href="42.000.dita#FAR_42_000">42.000 Scope of part.</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p id="d2472e10" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="42.000.dita#FAR_42_000"
+                        class="- topic/xref ">42.000 Scope of part.</xref>
                </p>
             </li>
-            <li>
-               <p id="d2472e14">
-                  <xref outputclass="fm:TOC" href="42.001.dita#FAR_42_001">42.001 [Reserved]</xref>
+            <li class="- topic/li ">
+               <p id="d2472e14" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="42.001.dita#FAR_42_001"
+                        class="- topic/xref ">42.001 [Reserved]</xref>
                </p>
             </li>
-            <li>
-               <p id="d2472e18">
-                  <xref outputclass="fm:TOC" href="42.002.dita#FAR_42_002">42.002 Interagency agreements.</xref>
+            <li class="- topic/li ">
+               <p id="d2472e18" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="42.002.dita#FAR_42_002"
+                        class="- topic/xref ">42.002 Interagency agreements.</xref>
                </p>
             </li>
-            <li>
-               <p id="d2472e22">
-                  <xref outputclass="fm:TOC" href="42.003.dita#FAR_42_003">42.003 Cognizant Federal agency.</xref>
+            <li class="- topic/li ">
+               <p id="d2472e22" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="42.003.dita#FAR_42_003"
+                        class="- topic/xref ">42.003 Cognizant Federal agency.</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p id="d2472e26">
-                  <xref outputclass="fm:TOC" href="Subpart_42.1.dita#FAR_Subpart_42_1">Subpart 42.1 - Contract Audit Services</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e26" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.1.dita#FAR_Subpart_42_1"
+                        class="- topic/xref ">Subpart 42.1 - Contract Audit Services</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e31">
-                        <xref outputclass="fm:TOC" href="42.101.dita#FAR_42_101">42.101 Contract audit responsibilities.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e31" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.101.dita#FAR_42_101"
+                              class="- topic/xref ">42.101 Contract audit responsibilities.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e35">
-                        <xref outputclass="fm:TOC" href="42.102.dita#FAR_42_102">42.102 Assignment of contract audit services.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e35" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.102.dita#FAR_42_102"
+                              class="- topic/xref ">42.102 Assignment of contract audit services.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e39">
-                        <xref outputclass="fm:TOC" href="42.103.dita#FAR_42_103">42.103 Contract audit services directory.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e39" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.103.dita#FAR_42_103"
+                              class="- topic/xref ">42.103 Contract audit services directory.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2472e43">
-                  <xref outputclass="fm:TOC" href="Subpart_42.2.dita#FAR_Subpart_42_2">Subpart 42.2 - Contract Administration Services</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e43" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.2.dita#FAR_Subpart_42_2"
+                        class="- topic/xref ">Subpart 42.2 - Contract Administration Services</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e48">
-                        <xref outputclass="fm:TOC" href="42.201.dita#FAR_42_201">42.201 Contract administration responsibilities.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e48" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.201.dita#FAR_42_201"
+                              class="- topic/xref ">42.201 Contract administration responsibilities.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e52">
-                        <xref outputclass="fm:TOC" href="42.202.dita#FAR_42_202">42.202 Assignment of contract administration.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e52" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.202.dita#FAR_42_202"
+                              class="- topic/xref ">42.202 Assignment of contract administration.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e56">
-                        <xref outputclass="fm:TOC" href="42.203.dita#FAR_42_203">42.203 Contract administration services directory.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e56" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.203.dita#FAR_42_203"
+                              class="- topic/xref ">42.203 Contract administration services directory.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2472e60">
-                  <xref outputclass="fm:TOC" href="Subpart_42.3.dita#FAR_Subpart_42_3">Subpart 42.3 - Contract Administration Office Functions</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e60" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.3.dita#FAR_Subpart_42_3"
+                        class="- topic/xref ">Subpart 42.3 - Contract Administration Office Functions</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e65">
-                        <xref outputclass="fm:TOC" href="42.301.dita#FAR_42_301">42.301 General.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e65" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.301.dita#FAR_42_301"
+                              class="- topic/xref ">42.301 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e69">
-                        <xref outputclass="fm:TOC" href="42.302.dita#FAR_42_302">42.302 Contract administration functions.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e69" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.302.dita#FAR_42_302"
+                              class="- topic/xref ">42.302 Contract administration functions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2472e73">
-                  <xref outputclass="fm:TOC" href="Subpart_42.4.dita#FAR_Subpart_42_4">Subpart 42.4 - Correspondence and Visits</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e73" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.4.dita#FAR_Subpart_42_4"
+                        class="- topic/xref ">Subpart 42.4 - Correspondence and Visits</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e78">
-                        <xref outputclass="fm:TOC" href="42.401.dita#FAR_42_401">42.401 Contract correspondence.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e78" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.401.dita#FAR_42_401"
+                              class="- topic/xref ">42.401 Contract correspondence.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e82">
-                        <xref outputclass="fm:TOC" href="42.402.dita#FAR_42_402">42.402 Visits to contractors’ facilities.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e82" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.402.dita#FAR_42_402"
+                              class="- topic/xref ">42.402 Visits to contractors’ facilities.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e86">
-                        <xref outputclass="fm:TOC" href="42.403.dita#FAR_42_403">42.403 Evaluation of contract administration offices.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e86" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.403.dita#FAR_42_403"
+                              class="- topic/xref ">42.403 Evaluation of contract administration offices.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2472e90">
-                  <xref outputclass="fm:TOC" href="Subpart_42.5.dita#FAR_Subpart_42_5">Subpart 42.5 - Postaward Orientation</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e90" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.5.dita#FAR_Subpart_42_5"
+                        class="- topic/xref ">Subpart 42.5 - Postaward Orientation</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e95">
-                        <xref outputclass="fm:TOC" href="42.500.dita#FAR_42_500">42.500 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e95" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.500.dita#FAR_42_500"
+                              class="- topic/xref ">42.500 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e99">
-                        <xref outputclass="fm:TOC" href="42.501.dita#FAR_42_501">42.501 General.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e99" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.501.dita#FAR_42_501"
+                              class="- topic/xref ">42.501 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e103">
-                        <xref outputclass="fm:TOC" href="42.502.dita#FAR_42_502">42.502 Selecting contracts for postaward orientation.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e103" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.502.dita#FAR_42_502"
+                              class="- topic/xref ">42.502 Selecting contracts for postaward orientation.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e107">
-                        <xref outputclass="fm:TOC" href="42.503.dita#FAR_42_503">42.503 Postaward conferences.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e107" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.503.dita#FAR_42_503"
+                              class="- topic/xref ">42.503 Postaward conferences.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p id="d2472e112">
-                              <xref outputclass="fm:TOC" href="42.503-1.dita#FAR_42_503_1">42.503-1 Postaward conference arrangements.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p id="d2472e112" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.503-1.dita#FAR_42_503_1"
+                                    class="- topic/xref ">42.503-1 Postaward conference arrangements.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d2472e116">
-                              <xref outputclass="fm:TOC" href="42.503-2.dita#FAR_42_503_2">42.503-2 Postaward conference procedure.</xref>
+                        <li class="- topic/li ">
+                           <p id="d2472e116" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.503-2.dita#FAR_42_503_2"
+                                    class="- topic/xref ">42.503-2 Postaward conference procedure.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d2472e120">
-                              <xref outputclass="fm:TOC" href="42.503-3.dita#FAR_42_503_3">42.503-3 Postaward conference report.</xref>
+                        <li class="- topic/li ">
+                           <p id="d2472e120" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.503-3.dita#FAR_42_503_3"
+                                    class="- topic/xref ">42.503-3 Postaward conference report.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p id="d2472e124">
-                        <xref outputclass="fm:TOC" href="42.504.dita#FAR_42_504">42.504 Postaward letters.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e124" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.504.dita#FAR_42_504"
+                              class="- topic/xref ">42.504 Postaward letters.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e128">
-                        <xref outputclass="fm:TOC" href="42.505.dita#FAR_42_505">42.505 Postaward subcontractor conferences.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p id="d2472e132">
-                  <xref outputclass="fm:TOC" href="Subpart_42.6.dita#FAR_Subpart_42_6">Subpart 42.6 - Corporate Administrative Contracting Officer</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e137">
-                        <xref outputclass="fm:TOC" href="42.601.dita#FAR_42_601">42.601 General.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e141">
-                        <xref outputclass="fm:TOC" href="42.602.dita#FAR_42_602">42.602 Assignment and location.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e145">
-                        <xref outputclass="fm:TOC" href="42.603.dita#FAR_42_603">42.603 Responsibilities.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e128" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.505.dita#FAR_42_505"
+                              class="- topic/xref ">42.505 Postaward subcontractor conferences.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2472e149">
-                  <xref outputclass="fm:TOC" href="Subpart_42.7.dita#FAR_Subpart_42_7">Subpart 42.7 - Indirect Cost Rates</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e132" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.6.dita#FAR_Subpart_42_6"
+                        class="- topic/xref ">Subpart 42.6 - Corporate Administrative Contracting Officer</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e154">
-                        <xref outputclass="fm:TOC" href="42.700.dita#FAR_42_700">42.700 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e137" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.601.dita#FAR_42_601"
+                              class="- topic/xref ">42.601 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e158">
-                        <xref outputclass="fm:TOC" href="42.701.dita#FAR_42_701">42.701 Definition.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e141" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.602.dita#FAR_42_602"
+                              class="- topic/xref ">42.602 Assignment and location.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e162">
-                        <xref outputclass="fm:TOC" href="42.702.dita#FAR_42_702">42.702 Purpose.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e145" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.603.dita#FAR_42_603"
+                              class="- topic/xref ">42.603 Responsibilities.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e166">
-                        <xref outputclass="fm:TOC" href="42.703.dita#FAR_42_703">42.703 General.</xref>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e149" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.7.dita#FAR_Subpart_42_7"
+                        class="- topic/xref ">Subpart 42.7 - Indirect Cost Rates</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e154" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.700.dita#FAR_42_700"
+                              class="- topic/xref ">42.700 Scope of subpart.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p id="d2472e171">
-                              <xref outputclass="fm:TOC" href="42.703-1.dita#FAR_42_703_1">42.703-1 Policy.</xref>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e158" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.701.dita#FAR_42_701"
+                              class="- topic/xref ">42.701 Definition.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e162" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.702.dita#FAR_42_702"
+                              class="- topic/xref ">42.702 Purpose.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e166" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.703.dita#FAR_42_703"
+                              class="- topic/xref ">42.703 General.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p id="d2472e171" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.703-1.dita#FAR_42_703_1"
+                                    class="- topic/xref ">42.703-1 Policy.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d2472e175">
-                              <xref outputclass="fm:TOC" href="42.703-2.dita#FAR_42_703_2">42.703-2 Certificate of indirect costs.</xref>
+                        <li class="- topic/li ">
+                           <p id="d2472e175" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.703-2.dita#FAR_42_703_2"
+                                    class="- topic/xref ">42.703-2 Certificate of indirect costs.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p id="d2472e179">
-                        <xref outputclass="fm:TOC" href="42.704.dita#FAR_42_704">42.704 Billing rates.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e179" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.704.dita#FAR_42_704"
+                              class="- topic/xref ">42.704 Billing rates.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e183">
-                        <xref outputclass="fm:TOC" href="42.705.dita#FAR_42_705">42.705 Final indirect cost rates.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e183" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.705.dita#FAR_42_705"
+                              class="- topic/xref ">42.705 Final indirect cost rates.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p id="d2472e188">
-                              <xref outputclass="fm:TOC" href="42.705-1.dita#FAR_42_705_1">42.705-1 Contracting officer determination procedure.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p id="d2472e188" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.705-1.dita#FAR_42_705_1"
+                                    class="- topic/xref ">42.705-1 Contracting officer determination procedure.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d2472e192">
-                              <xref outputclass="fm:TOC" href="42.705-2.dita#FAR_42_705_2">42.705-2 Auditor determination procedure.</xref>
+                        <li class="- topic/li ">
+                           <p id="d2472e192" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.705-2.dita#FAR_42_705_2"
+                                    class="- topic/xref ">42.705-2 Auditor determination procedure.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d2472e196">
-                              <xref outputclass="fm:TOC" href="42.705-3.dita#FAR_42_705_3">42.705-3 Educational institutions.</xref>
+                        <li class="- topic/li ">
+                           <p id="d2472e196" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.705-3.dita#FAR_42_705_3"
+                                    class="- topic/xref ">42.705-3 Educational institutions.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d2472e200">
-                              <xref outputclass="fm:TOC" href="42.705-4.dita#FAR_42_705_4">42.705-4 State and local governments.</xref>
+                        <li class="- topic/li ">
+                           <p id="d2472e200" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.705-4.dita#FAR_42_705_4"
+                                    class="- topic/xref ">42.705-4 State and local governments.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p id="d2472e204">
-                              <xref outputclass="fm:TOC" href="42.705-5.dita#FAR_42_705_5">42.705-5 Nonprofit organizations other than educational and state and local governments.</xref>
-                           </p>
-                        </li>
-                     </ul>
-                  </li>
-                  <li>
-                     <p id="d2472e208">
-                        <xref outputclass="fm:TOC" href="42.706.dita#FAR_42_706">42.706 Distribution of documents.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e212">
-                        <xref outputclass="fm:TOC" href="42.707.dita#FAR_42_707">42.707 Cost-sharing rates and limitations on indirect cost rates.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e216">
-                        <xref outputclass="fm:TOC" href="42.708.dita#FAR_42_708">42.708 Quick-closeout procedure.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e220">
-                        <xref outputclass="fm:TOC" href="42.709.dita#FAR_42_709">42.709 Penalties for Unallowable Costs.</xref>
-                     </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p id="d2472e225">
-                              <xref outputclass="fm:TOC" href="42.709-0.dita#FAR_42_709_0"/>
-                           </p>
-                        </li>
-                        <li>
-                           <p id="d2472e228">
-                              <xref outputclass="fm:TOC" href="42.709-1.dita#FAR_42_709_1"/>
-                           </p>
-                        </li>
-                        <li>
-                           <p id="d2472e231">
-                              <xref outputclass="fm:TOC" href="42.709-2.dita#FAR_42_709_2"/>
-                           </p>
-                        </li>
-                        <li>
-                           <p id="d2472e234">
-                              <xref outputclass="fm:TOC" href="42.709-3.dita#FAR_42_709_3"/>
-                           </p>
-                        </li>
-                        <li>
-                           <p id="d2472e237">
-                              <xref outputclass="fm:TOC" href="42.709-4.dita#FAR_42_709_4"/>
-                           </p>
-                        </li>
-                        <li>
-                           <p id="d2472e240">
-                              <xref outputclass="fm:TOC" href="42.709-5.dita#FAR_42_709_5"/>
-                           </p>
-                        </li>
-                        <li>
-                           <p id="d2472e243">
-                              <xref outputclass="fm:TOC" href="42.709-6.dita#FAR_42_709_6"/>
+                        <li class="- topic/li ">
+                           <p id="d2472e204" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.705-5.dita#FAR_42_705_5"
+                                    class="- topic/xref ">42.705-5 Nonprofit organizations other than educational and state and local governments.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p id="d2472e247">
-                  <xref outputclass="fm:TOC" href="Subpart_42.8.dita#FAR_Subpart_42_8">Subpart 42.8 - Disallowance of Costs</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e252">
-                        <xref outputclass="fm:TOC" href="42.800.dita#FAR_42_800">42.800 Scope of subpart.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e208" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.706.dita#FAR_42_706"
+                              class="- topic/xref ">42.706 Distribution of documents.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e256">
-                        <xref outputclass="fm:TOC" href="42.801.dita#FAR_42_801">42.801 Notice of intent to disallow costs.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e212" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.707.dita#FAR_42_707"
+                              class="- topic/xref ">42.707 Cost-sharing rates and limitations on indirect cost rates.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e260">
-                        <xref outputclass="fm:TOC" href="42.802.dita#FAR_42_802">42.802 Contract clause.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e216" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.708.dita#FAR_42_708"
+                              class="- topic/xref ">42.708 Quick-closeout procedure.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e264">
-                        <xref outputclass="fm:TOC" href="42.803.dita#FAR_42_803">42.803 Disallowing costs after incurrence.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e220" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.709.dita#FAR_42_709"
+                              class="- topic/xref ">42.709 Penalties for Unallowable Costs.</xref>
                      </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p id="d2472e268">
-                  <xref outputclass="fm:TOC" href="Subpart_42.9.dita#FAR_Subpart_42_9">Subpart 42.9 - Bankruptcy</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e273">
-                        <xref outputclass="fm:TOC" href="42.900.dita#FAR_42_900">42.900 Scope of subpart.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e277">
-                        <xref outputclass="fm:TOC" href="42.901.dita#FAR_42_901">42.901 General.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e281">
-                        <xref outputclass="fm:TOC" href="42.902.dita#FAR_42_902">42.902 Procedures.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e285">
-                        <xref outputclass="fm:TOC" href="42.903.dita#FAR_42_903">42.903 Solicitation provision and contract clause.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p id="d2472e289">
-                  <xref outputclass="fm:TOC" href="Subpart_42.10.dita#FAR_Subpart_42_10">Subpart 42.10 - [Reserved]</xref>
-               </p>
-            </li>
-            <li props="Subpart">
-               <p id="d2472e293">
-                  <xref outputclass="fm:TOC" href="Subpart_42.11.dita#FAR_Subpart_42_11">Subpart 42.11 - Production Surveillance and Reporting</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e298">
-                        <xref outputclass="fm:TOC" href="42.1101.dita#FAR_42_1101">42.1101 General.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e302">
-                        <xref outputclass="fm:TOC" href="42.1102.dita#FAR_42_1102">42.1102 Applicability.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e306">
-                        <xref outputclass="fm:TOC" href="42.1103.dita#FAR_42_1103">42.1103 Policy.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e310">
-                        <xref outputclass="fm:TOC" href="42.1104.dita#FAR_42_1104">42.1104 Surveillance requirements.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e314">
-                        <xref outputclass="fm:TOC" href="42.1105.dita#FAR_42_1105">42.1105 Assignment of criticality designator.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e318">
-                        <xref outputclass="fm:TOC" href="42.1106.dita#FAR_42_1106">42.1106 Reporting requirements.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e322">
-                        <xref outputclass="fm:TOC" href="42.1107.dita#FAR_42_1107">42.1107 Contract clause.</xref>
-                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p id="d2472e225" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.709-0.dita#FAR_42_709_0"
+                                    class="- topic/xref "/>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d2472e228" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.709-1.dita#FAR_42_709_1"
+                                    class="- topic/xref "/>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d2472e231" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.709-2.dita#FAR_42_709_2"
+                                    class="- topic/xref "/>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d2472e234" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.709-3.dita#FAR_42_709_3"
+                                    class="- topic/xref "/>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d2472e237" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.709-4.dita#FAR_42_709_4"
+                                    class="- topic/xref "/>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d2472e240" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.709-5.dita#FAR_42_709_5"
+                                    class="- topic/xref "/>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d2472e243" class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="42.709-6.dita#FAR_42_709_6"
+                                    class="- topic/xref "/>
+                           </p>
+                        </li>
+                     </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2472e326">
-                  <xref outputclass="fm:TOC" href="Subpart_42.12.dita#FAR_Subpart_42_12">Subpart 42.12 - Novation and Change-of-Name Agreements</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e247" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.8.dita#FAR_Subpart_42_8"
+                        class="- topic/xref ">Subpart 42.8 - Disallowance of Costs</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e331">
-                        <xref outputclass="fm:TOC" href="42.1200.dita#FAR_42_1200">42.1200 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e252" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.800.dita#FAR_42_800"
+                              class="- topic/xref ">42.800 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e335">
-                        <xref outputclass="fm:TOC" href="42.1201.dita#FAR_42_1201">42.1201 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e256" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.801.dita#FAR_42_801"
+                              class="- topic/xref ">42.801 Notice of intent to disallow costs.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e339">
-                        <xref outputclass="fm:TOC" href="42.1202.dita#FAR_42_1202">42.1202 Responsibility for executing agreements.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e260" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.802.dita#FAR_42_802"
+                              class="- topic/xref ">42.802 Contract clause.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e343">
-                        <xref outputclass="fm:TOC" href="42.1203.dita#FAR_42_1203">42.1203 Processing agreements.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e347">
-                        <xref outputclass="fm:TOC" href="42.1204.dita#FAR_42_1204">42.1204 Applicability of novation agreements.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e351">
-                        <xref outputclass="fm:TOC" href="42.1205.dita#FAR_42_1205">42.1205 Agreement to recognize contractor’s change of name.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e264" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.803.dita#FAR_42_803"
+                              class="- topic/xref ">42.803 Disallowing costs after incurrence.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2472e355">
-                  <xref outputclass="fm:TOC" href="Subpart_42.13.dita#FAR_Subpart_42_13">Subpart 42.13 - Suspension of Work, Stop-Work Orders, and Government Delay of Work</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e268" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.9.dita#FAR_Subpart_42_9"
+                        class="- topic/xref ">Subpart 42.9 - Bankruptcy</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e360">
-                        <xref outputclass="fm:TOC" href="42.1301.dita#FAR_42_1301">42.1301 General.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e273" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.900.dita#FAR_42_900"
+                              class="- topic/xref ">42.900 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e364">
-                        <xref outputclass="fm:TOC" href="42.1302.dita#FAR_42_1302">42.1302 Suspension of work.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e277" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.901.dita#FAR_42_901"
+                              class="- topic/xref ">42.901 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e368">
-                        <xref outputclass="fm:TOC" href="42.1303.dita#FAR_42_1303">42.1303 Stop-work orders.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e281" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.902.dita#FAR_42_902"
+                              class="- topic/xref ">42.902 Procedures.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e372">
-                        <xref outputclass="fm:TOC" href="42.1304.dita#FAR_42_1304">42.1304 Government delay of work.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p id="d2472e376">
-                        <xref outputclass="fm:TOC" href="42.1305.dita#FAR_42_1305">42.1305 Contract clauses.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e285" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.903.dita#FAR_42_903"
+                              class="- topic/xref ">42.903 Solicitation provision and contract clause.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2472e380">
-                  <xref outputclass="fm:TOC" href="Subpart_42.14.dita#FAR_Subpart_42_14">Subpart 42.14 - [Reserved]</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e289" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.10.dita#FAR_Subpart_42_10"
+                        class="- topic/xref ">Subpart 42.10 - [Reserved]</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p id="d2472e384">
-                  <xref outputclass="fm:TOC" href="Subpart_42.15.dita#FAR_Subpart_42_15">Subpart 42.15 - Contractor Performance Information</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e293" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.11.dita#FAR_Subpart_42_11"
+                        class="- topic/xref ">Subpart 42.11 - Production Surveillance and Reporting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e389">
-                        <xref outputclass="fm:TOC" href="42.1500.dita#FAR_42_1500">42.1500 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e298" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1101.dita#FAR_42_1101"
+                              class="- topic/xref ">42.1101 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e393">
-                        <xref outputclass="fm:TOC" href="42.1501.dita#FAR_42_1501">42.1501 General.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e302" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1102.dita#FAR_42_1102"
+                              class="- topic/xref ">42.1102 Applicability.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e397">
-                        <xref outputclass="fm:TOC" href="42.1502.dita#FAR_42_1502">42.1502 Policy.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e306" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1103.dita#FAR_42_1103"
+                              class="- topic/xref ">42.1103 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e401">
-                        <xref outputclass="fm:TOC" href="42.1503.dita#FAR_42_1503">42.1503 Procedures.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e310" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1104.dita#FAR_42_1104"
+                              class="- topic/xref ">42.1104 Surveillance requirements.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2472e405">
-                        <xref outputclass="fm:TOC" href="42.1504.dita#FAR_42_1504">42.1504 Contract clause.</xref>
+                  <li class="- topic/li ">
+                     <p id="d2472e314" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1105.dita#FAR_42_1105"
+                              class="- topic/xref ">42.1105 Assignment of criticality designator.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e318" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1106.dita#FAR_42_1106"
+                              class="- topic/xref ">42.1106 Reporting requirements.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e322" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1107.dita#FAR_42_1107"
+                              class="- topic/xref ">42.1107 Contract clause.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2472e409">
-                  <xref outputclass="fm:TOC" href="Subpart_42.16.dita#FAR_Subpart_42_16">Subpart 42.16 - Small Business Contract Administration</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e326" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.12.dita#FAR_Subpart_42_12"
+                        class="- topic/xref ">Subpart 42.12 - Novation and Change-of-Name Agreements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e414">
-                        <xref outputclass="fm:TOC" href="42.1601.dita#FAR_42_1601">42.1601 General.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e331" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1200.dita#FAR_42_1200"
+                              class="- topic/xref ">42.1200 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e335" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1201.dita#FAR_42_1201"
+                              class="- topic/xref ">42.1201 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e339" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1202.dita#FAR_42_1202"
+                              class="- topic/xref ">42.1202 Responsibility for executing agreements.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e343" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1203.dita#FAR_42_1203"
+                              class="- topic/xref ">42.1203 Processing agreements.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e347" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1204.dita#FAR_42_1204"
+                              class="- topic/xref ">42.1204 Applicability of novation agreements.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e351" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1205.dita#FAR_42_1205"
+                              class="- topic/xref ">42.1205 Agreement to recognize contractor’s change of name.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2472e418">
-                  <xref outputclass="fm:TOC" href="Subpart_42.17.dita#FAR_Subpart_42_17">Subpart 42.17 - Forward Pricing Rate Agreements</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e355" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.13.dita#FAR_Subpart_42_13"
+                        class="- topic/xref ">Subpart 42.13 - Suspension of Work, Stop-Work Orders, and Government Delay of Work</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2472e423">
-                        <xref outputclass="fm:TOC" href="42.1701.dita#FAR_42_1701">42.1701 Procedures.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e360" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1301.dita#FAR_42_1301"
+                              class="- topic/xref ">42.1301 General.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e364" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1302.dita#FAR_42_1302"
+                              class="- topic/xref ">42.1302 Suspension of work.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e368" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1303.dita#FAR_42_1303"
+                              class="- topic/xref ">42.1303 Stop-work orders.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e372" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1304.dita#FAR_42_1304"
+                              class="- topic/xref ">42.1304 Government delay of work.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e376" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1305.dita#FAR_42_1305"
+                              class="- topic/xref ">42.1305 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e380" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.14.dita#FAR_Subpart_42_14"
+                        class="- topic/xref ">Subpart 42.14 - [Reserved]</xref>
+               </p>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e384" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.15.dita#FAR_Subpart_42_15"
+                        class="- topic/xref ">Subpart 42.15 - Contractor Performance Information</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e389" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1500.dita#FAR_42_1500"
+                              class="- topic/xref ">42.1500 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e393" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1501.dita#FAR_42_1501"
+                              class="- topic/xref ">42.1501 General.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e397" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1502.dita#FAR_42_1502"
+                              class="- topic/xref ">42.1502 Policy.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e401" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1503.dita#FAR_42_1503"
+                              class="- topic/xref ">42.1503 Procedures.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d2472e405" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1504.dita#FAR_42_1504"
+                              class="- topic/xref ">42.1504 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e409" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.16.dita#FAR_Subpart_42_16"
+                        class="- topic/xref ">Subpart 42.16 - Small Business Contract Administration</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e414" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1601.dita#FAR_42_1601"
+                              class="- topic/xref ">42.1601 General.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p id="d2472e418" class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_42.17.dita#FAR_Subpart_42_17"
+                        class="- topic/xref ">Subpart 42.17 - Forward Pricing Rate Agreements</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p id="d2472e423" class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="42.1701.dita#FAR_42_1701"
+                              class="- topic/xref ">42.1701 Procedures.</xref>
                      </p>
                   </li>
                </ul>
