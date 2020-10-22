@@ -1,183 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="lsa-d1e9"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">List of Sections Affected</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <table frame="all"
-                colsep="1"
-                rowsep="1"
-                otherprops="LSA"
-                class="- topic/table ">
-            <title class="- topic/title ">FAC 2020-06 Effective May 6, 2020</title>
-            <tgroup cols="3"
-                    colsep="1"
-                    rowsep="1"
-                    outputclass="Title_rule"
-                    class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="24*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="55*" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colwidth="21*" class="- topic/colspec "/>
-               <thead class="- topic/thead ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">Section</entry>
-                     <entry colname="2" class="- topic/entry ">Description of Change</entry>
-                     <entry colname="3" class="- topic/entry ">Case Number</entry>
-                  </row>
-               </thead>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> 
-                        <xref href="4.1102.dita#i1122074"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">4.1102</xref> 
-                        <xref href="4.1102.dita#i1122074/d271e49"
-                              outputclass="fm:List"
-                              class="- topic/xref ">(a)(3)(ii)</xref>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Amend section 4.1102 by removing from paragraph
-(a)(3)(ii) “http://aoprals.state.gov/Web920/danger__pay__all.asp”
-and adding “<xref href="https://aoprals.state.gov/"
-                                 format="html"
-                                 scope="external"
-                                 class="- topic/xref ">https://aoprals.state.gov/</xref>” in its
-place.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> 
-                        <xref href="19.102.dita#i1101844"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">19.102</xref>
-                        <xref href="19.102.dita#i1101844/d1150e19"
-                              outputclass="fm:List"
-                              class="- topic/xref "> (a)(1)</xref>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Amend section 19.102 by removing from paragraph
-(a)(1) “https://www.sba.gov/content/table-small-business-size-standards”
-and adding “<xref href="https://www.sba.gov/document/support--table-size-standards"
-                                 format="html"
-                                 scope="external"
-                                 class="- topic/xref ">https://www.sba.gov/document/support--table-size-standards</xref>” in
-its place.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> 
-                        <xref href="25.301-1.dita#id1617MD080R8"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">25.301-1</xref>
-                        <xref href="25.301-1.dita#id1617MD080R8/d1639e43"
-                              outputclass="fm:List"
-                              class="- topic/xref "> (a)(2)(i)</xref>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Amend section 25.301-1 by removing from
-paragraph (a)(2)(i) “http://aoprals.state.gov/Web920/danger__pay__all.asp”
-and adding “<xref href="https://aoprals.state.gov/"
-                                 format="html"
-                                 scope="external"
-                                 class="- topic/xref ">https://aoprals.state.gov/</xref>” in its
-place.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> 
-                        <xref href="25.301-4.dita#i1092942"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">25.301-4</xref> 
-                        <xref href="25.301-4.dita#i1092942/d1642e43"
-                              outputclass="fm:List"
-                              class="- topic/xref ">(b)(1)</xref>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Amend section 25.301-4 by removing from
-paragraph (b)(1) “http://aoprals.state.gov/Web920/danger__pay__all.asp”
-and adding “<xref href="https://aoprals.state.gov/"
-                                 format="html"
-                                 scope="external"
-                                 class="- topic/xref ">https://aoprals.state.gov/</xref>” in its
-place.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> 
-                        <xref href="52.219-28.dita#i1057874"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">52.219-28</xref> and <xref href="52.219-28.dita#i1057874/d3303e93"
-                              outputclass="fm:List"
-                              class="- topic/xref ">(d)</xref>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Amend section 52.219-28 by revising the
-date of the clause and</p>
-                        <p class="- topic/p ">removing from paragraph (d) “http://www.sba.gov/content/table-small-business-size-standards”
-and adding “<xref href="https://www.sba.gov/document/support--table-size-standards"
-                                 format="html"
-                                 scope="external"
-                                 class="- topic/xref ">https://www.sba.gov/document/support--table-size-standards</xref>”
-in its place.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> 
-                        <xref href="52.223-15.dita#i1053246"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">52.223-15</xref> and <xref href="52.223-15.dita#i1053246/d3389e114"
-                              outputclass="fm:List"
-                              class="- topic/xref ">(d)(2)</xref>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Amend section 52.223-15 by revising the
-date of the clause and</p>
-                        <p class="- topic/p ">removing from paragraph (d)(2) “http://www1.eere.energy.gov/femp/procurement/eep__requirements.html”
-and adding “<xref href="https://www.energy.gov/eere/femp/energy-efficient-products-and-energy-saving-technologies"
-                                 format="html"
-                                 scope="external"
-                                 class="- topic/xref ">https://www.energy.gov/eere/femp/energy-efficient-products-and-energy-saving-technologies</xref>”
-in its place.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> 
-                        <xref href="52.225-19.dita#i1054312"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">52.225-19</xref>,<xref href="52.225-19.dita#i1054312/d3420e83"
-                              outputclass="fm:List"
-                              class="- topic/xref "> (b)(1)(ii)(A)</xref> and<xref href="52.225-19.dita#i1054312/d3420e583"
-                              outputclass="fm:List"
-                              class="- topic/xref "> (q)(2)(i)</xref>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Amend section 52.225-19 by revising the
-date of the clause and</p>
-                        <p class="- topic/p ">removing from paragraphs (b)(1)(ii)(A)
-and</p>
-                        <p class="- topic/p ">(q)(2)(i) “http://aoprals.state.gov/Web920/danger__pay__all.asp” and
-adding “<xref href="https://aoprals.state.gov/"
-                                 format="html"
-                                 scope="external"
-                                 class="- topic/xref ">https://aoprals.state.gov/</xref>” in their
-places, respectively.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">Technical Amendment</entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-      </conbody>
-   </concept>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+	<concept id="lsa-d1e9" domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    " ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+		<title class="- topic/title ">List of Sections Affected</title>
+		<conbody class="- topic/body  concept/conbody ">
+			<table frame="all" colsep="1" rowsep="1" otherprops="LSA" class="- topic/table ">
+				<title class="- topic/title ">FAC 2020-06 Effective May 6, 2020</title>
+				<tgroup cols="3" colsep="1" rowsep="1" outputclass="Title_rule" class="- topic/tgroup ">
+					<colspec colnum="1" colname="1" colwidth="24*" class="- topic/colspec "/>
+					<colspec colnum="2" colname="2" colwidth="55*" class="- topic/colspec "/>
+					<colspec colnum="3" colname="3" colwidth="21*" class="- topic/colspec "/>
+					<thead class="- topic/thead ">
+						<row rowsep="1" class="- topic/row ">
+							<entry colname="1" class="- topic/entry ">Section</entry>
+							<entry colname="2" class="- topic/entry ">Description of Change</entry>
+							<entry colname="3" class="- topic/entry ">Case Number</entry>
+						</row>
+					</thead>
+					<tbody class="- topic/tbody ">
+						<row rowsep="1" class="- topic/row ">
+							<entry colname="1" class="- topic/entry ">
+								<xref href="4.1102.dita#i1122074" outputclass="fm:ParaNumOnly" class="- topic/xref ">4.1102</xref>
+								<xref href="4.1102.dita#i1122074/d271e49" outputclass="fm:List" class="- topic/xref ">(a)(3)(ii)</xref>
+							</entry>
+							<entry colname="2" class="- topic/entry ">
+								<p class="- topic/p ">Amend section 4.1102 by removing from paragraph (a)(3)(ii) “http://aoprals.state.gov/Web920/danger__pay__all.asp” and adding “<xref href="https://aoprals.state.gov/" format="html" scope="external" class="- topic/xref ">https://aoprals.state.gov/</xref>” in its place.</p>
+							</entry>
+							<entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+						</row>
+						<row rowsep="1" class="- topic/row ">
+							<entry colname="1" class="- topic/entry ">
+								<xref href="19.102.dita#i1101844" outputclass="fm:ParaNumOnly" class="- topic/xref ">19.102</xref>
+								<xref href="19.102.dita#i1101844/d1150e19" outputclass="fm:List" class="- topic/xref "> (a)(1)</xref>
+							</entry>
+							<entry colname="2" class="- topic/entry ">
+								<p class="- topic/p ">Amend section 19.102 by removing from paragraph (a)(1) “https://www.sba.gov/content/table-small-business-size-standards” and adding “<xref href="https://www.sba.gov/document/support--table-size-standards" format="html" scope="external" class="- topic/xref ">https://www.sba.gov/document/support--table-size-standards</xref>” in its place.</p>
+							</entry>
+							<entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+						</row>
+						<row rowsep="1" class="- topic/row ">
+							<entry colname="1" class="- topic/entry ">
+								<xref href="25.301-1.dita#id1617MD080R8" outputclass="fm:ParaNumOnly" class="- topic/xref ">25.301-1</xref>
+								<xref href="25.301-1.dita#id1617MD080R8/d1639e43" outputclass="fm:List" class="- topic/xref "> (a)(2)(i)</xref>
+							</entry>
+							<entry colname="2" class="- topic/entry ">
+								<p class="- topic/p ">Amend section 25.301-1 by removing from paragraph (a)(2)(i) “http://aoprals.state.gov/Web920/danger__pay__all.asp” and adding “<xref href="https://aoprals.state.gov/" format="html" scope="external" class="- topic/xref ">https://aoprals.state.gov/</xref>” in its place.</p>
+							</entry>
+							<entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+						</row>
+						<row rowsep="1" class="- topic/row ">
+							<entry colname="1" class="- topic/entry ">
+								<xref href="25.301-4.dita#i1092942" outputclass="fm:ParaNumOnly" class="- topic/xref ">25.301-4</xref>
+								<xref href="25.301-4.dita#i1092942/d1642e43" outputclass="fm:List" class="- topic/xref ">(b)(1)</xref>
+							</entry>
+							<entry colname="2" class="- topic/entry ">
+								<p class="- topic/p ">Amend section 25.301-4 by removing from paragraph (b)(1) “http://aoprals.state.gov/Web920/danger__pay__all.asp” and adding “<xref href="https://aoprals.state.gov/" format="html" scope="external" class="- topic/xref ">https://aoprals.state.gov/</xref>” in its place.</p>
+							</entry>
+							<entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+						</row>
+						<row rowsep="1" class="- topic/row ">
+							<entry colname="1" class="- topic/entry ">
+								<xref href="52.219-28.dita#i1057874" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.219-28</xref> and <xref href="52.219-28.dita#i1057874/d3303e93" outputclass="fm:List" class="- topic/xref ">(d)</xref>
+							</entry>
+							<entry colname="2" class="- topic/entry ">
+								<p class="- topic/p ">Amend section 52.219-28 by revising the date of the clause and</p>
+								<p class="- topic/p ">removing from paragraph (d) “http://www.sba.gov/content/table-small-business-size-standards” and adding “<xref href="https://www.sba.gov/document/support--table-size-standards" format="html" scope="external" class="- topic/xref ">https://www.sba.gov/document/support--table-size-standards</xref>” in its place.</p>
+							</entry>
+							<entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+						</row>
+						<row rowsep="1" class="- topic/row ">
+							<entry colname="1" class="- topic/entry ">
+								<xref href="52.223-15.dita#i1053246" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.223-15</xref> and <xref href="52.223-15.dita#i1053246/d3389e114" outputclass="fm:List" class="- topic/xref ">(d)(2)</xref>
+							</entry>
+							<entry colname="2" class="- topic/entry ">
+								<p class="- topic/p ">Amend section 52.223-15 by revising the date of the clause and</p>
+								<p class="- topic/p ">removing from paragraph (d)(2) “http://www1.eere.energy.gov/femp/procurement/eep__requirements.html” and adding “<xref href="https://www.energy.gov/eere/femp/energy-efficient-products-and-energy-saving-technologies" format="html" scope="external" class="- topic/xref ">https://www.energy.gov/eere/femp/energy-efficient-products-and-energy-saving-technologies</xref>” in its place.</p>
+							</entry>
+							<entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+						</row>
+						<row rowsep="0" class="- topic/row ">
+							<entry colname="1" class="- topic/entry ">
+								<xref href="52.225-19.dita#i1054312" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.225-19</xref>,<xref href="52.225-19.dita#i1054312/d3420e83" outputclass="fm:List" class="- topic/xref "> (b)(1)(ii)(A)</xref> and <xref href="52.225-19.dita#i1054312/d3420e583" outputclass="fm:List" class="- topic/xref "> (q)(2)(i)</xref>
+							</entry>
+							<entry colname="2" class="- topic/entry ">
+								<p class="- topic/p ">Amend section 52.225-19 by revising the date of the clause and</p>
+								<p class="- topic/p ">removing from paragraphs (b)(1)(ii)(A) and</p>
+								<p class="- topic/p ">(q)(2)(i) “http://aoprals.state.gov/Web920/danger__pay__all.asp” and adding “<xref href="https://aoprals.state.gov/" format="html" scope="external" class="- topic/xref ">https://aoprals.state.gov/</xref>” in their places, respectively.</p>
+							</entry>
+							<entry colname="3" class="- topic/entry ">Technical Amendment</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</conbody>
+	</concept>
 </dita>
