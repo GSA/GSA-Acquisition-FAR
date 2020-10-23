@@ -1,146 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
-   <concept id="FAR_52_208_8"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.208-8</ph> Required Sources for Helium and Helium Usage Data.</title>
-      <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p id="d3112e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="8.505.dita#FAR_8_505"
-                     base="i1117271"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">8.505</xref>
-            </ph>, insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p " id="d3112e14">Required Sources for Helium and Helium Usage Data <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2018)</ph>
-         </p>
-         <ol id="d3085e25" class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="d3112e20" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Definitions</i>.</p>
-               <p id="d3112e26" class="- topic/p ">
-                  <i outputclass="Term"
-                     xtrf="_52.208-8"
-                     xtrc="d3116e40"
-                     class="+ topic/ph hi-d/i ">Bureau of Land Management,</i> as used in this clause, means the Department of the Interior, Bureau of Land Management, Amarillo Field Office, Helium Operations, located at 801 South Fillmore Street, Suite 500, Amarillo, TX 79101-3545.</p>
-               <p id="d3112e30" class="- topic/p ">
-                  <i outputclass="Term"
-                     xtrf="_52.208-8"
-                     xtrc="d3116e46"
-                     class="+ topic/ph hi-d/i ">Federal helium supplier</i> means a private
-						helium vendor that has an in-kind crude helium sales contract with the
-						Bureau of Land Management (BLM) and that is on the BLM Amarillo Field
-						Office’s Authorized List of Federal Helium Suppliers available via the
-						Internet at <xref href="https://www.blm.gov/programs/energy-and-minerals/helium/partners"
-                        scope="external"
-                        class="- topic/xref "
-                        format="html">https://www.blm.gov/programs/energy-and-minerals/helium/partners</xref>.</p>
-               <p id="d3112e37" class="- topic/p ">
-                  <i outputclass="Term"
-                     xtrf="_52.208-8"
-                     xtrc="d3116e55"
-                     class="+ topic/ph hi-d/i ">Major helium requirement</i> means an estimated refined helium requirement greater than 200,000 standard cubic feet (scf) (measured at 14.7 pounds per square inch absolute pressure and 70 degrees Fahrenheit temperature) of gaseous helium or 7510 liters of liquid helium delivered to a helium use location peryear.</p>
-            </li>
-            <li props="Runin" class="- topic/li ">
-               <p id="d3112e42" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-							           
-							Requirements- </p>
-               <ol id="d3085e59" class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d3112e48" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-									               
-									Contractors must purchase major helium requirements from Federal helium suppliers, to the extent that supplies are available.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d3112e53" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-									               
-									The Contractor shall provide to the Contracting Officer the following data within 10 days after the Contractor or subcontractor receives a delivery of helium from a Federal helium supplier-</p>
-                     <ol id="d3085e78" class="- topic/ol ">
-                        <li class="- topic/li ">
-                           <p id="d3112e59" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-											                   
-											The name of the supplier;</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p id="d3112e64" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-											                   
-											The amount of helium purchased;</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p id="d3112e69" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-											                   
-											The delivery date(s); and</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p id="d3112e74" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-											                   
-											The location where the helium was used.</p>
-                        </li>
-                     </ol>
-                  </li>
-               </ol>
-            </li>
-            <li class="- topic/li ">
-               <p id="d3112e79" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  <i class="+ topic/ph hi-d/i ">Subcontracts</i>. The Contractor shall insert this clause, including this paragraph (c), in any subcontract or order that involves a major helium requirement.</p>
-            </li>
-         </ol>
-         <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-      </conbody>
-   </concept>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
+	<concept id="FAR_52_208_8" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+		<title class="- topic/title ">
+			<ph props="autonumber" class="- topic/ph ">52.208-8</ph> Required Sources for Helium and Helium Usage Data.</title>
+		<conbody outputclass="clause" class="- topic/body concept/conbody ">
+			<p id="d3112e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+					<xref href="8.505.dita#FAR_8_505" base="i1117271" outputclass="fm:ParaNumOnly" class="- topic/xref ">8.505</xref>
+				</ph>, insert the following clause:</p>
+			<p outputclass="Ctr_SmCaps" class="- topic/p " id="d3112e14">Required Sources for Helium and Helium Usage Data <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2018)</ph>
+			</p>
+			<ol id="d3085e25" class="- topic/ol ">
+				<li class="- topic/li ">
+					<p id="d3112e20" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(a)</ph>
+						<i class="+ topic/ph hi-d/i ">Definitions</i>.</p>
+					<p id="d3112e26" class="- topic/p ">
+						<i outputclass="Term" xtrf="_52.208-8" xtrc="d3116e40" class="+ topic/ph hi-d/i ">Bureau of Land Management</i>, as used in this clause, means the Department of the Interior, Bureau of Land Management, Amarillo Field Office, Helium Operations, located at 801 South Fillmore Street, Suite 500, Amarillo, TX 79101-3545.</p>
+					<p id="d3112e30" class="- topic/p ">
+						<i outputclass="Term" xtrf="_52.208-8" xtrc="d3116e46" class="+ topic/ph hi-d/i ">Federal helium supplier</i> means a private	helium vendor that has an in-kind crude helium sales contract with the	Bureau of Land Management (BLM) and that is on the BLM Amarillo Field	Office’s Authorized List of Federal Helium Suppliers available via the	Internet at <xref href="https://www.blm.gov/programs/energy-and-minerals/helium/partners" scope="external" class="- topic/xref " format="html">https://www.blm.gov/programs/energy-and-minerals/helium/partners</xref>.</p>
+					<p id="d3112e37" class="- topic/p ">
+						<i outputclass="Term" xtrf="_52.208-8" xtrc="d3116e55" class="+ topic/ph hi-d/i ">Major helium requirement</i> means an estimated refined helium requirement greater than 200,000 standard cubic feet (scf) (measured at 14.7 pounds per square inch absolute pressure and 70 degrees Fahrenheit temperature) of gaseous helium or 7510 liters of liquid helium delivered to a helium use location peryear.</p>
+				</li>
+				<li props="Runin" class="- topic/li ">
+					<p id="d3112e42" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(b)</ph>Requirements- </p>
+					<ol id="d3085e59" class="- topic/ol ">
+						<li class="- topic/li ">
+							<p id="d3112e48" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(1)</ph>Contractors must purchase major helium requirements from Federal helium suppliers, to the extent that supplies are available.</p>
+						</li>
+						<li class="- topic/li ">
+							<p id="d3112e53" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor shall provide to the Contracting Officer the following data within 10 days after the Contractor or subcontractor receives a delivery of helium from a Federal helium supplier-</p>
+							<ol id="d3085e78" class="- topic/ol ">
+								<li class="- topic/li ">
+									<p id="d3112e59" class="- topic/p ">
+										<ph props="autonumber" class="- topic/ph ">(i)</ph>The name of the supplier;</p>
+								</li>
+								<li class="- topic/li ">
+									<p id="d3112e64" class="- topic/p ">
+										<ph props="autonumber" class="- topic/ph ">(ii)</ph>The amount of helium purchased;</p>
+								</li>
+								<li class="- topic/li ">
+									<p id="d3112e69" class="- topic/p ">
+										<ph props="autonumber" class="- topic/ph ">(iii)</ph>The delivery date(s); and</p>
+								</li>
+								<li class="- topic/li ">
+									<p id="d3112e74" class="- topic/p ">
+										<ph props="autonumber" class="- topic/ph ">(iv)</ph>The location where the helium was used.</p>
+								</li>
+							</ol>
+						</li>
+					</ol>
+				</li>
+				<li class="- topic/li ">
+					<p id="d3112e79" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(c)</ph>
+						<i class="+ topic/ph hi-d/i ">Subcontracts</i>. The Contractor shall insert this clause, including this paragraph (c), in any subcontract or order that involves a major helium requirement.</p>
+				</li>
+			</ol>
+			<p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+		</conbody>
+	</concept>
 </dita>
