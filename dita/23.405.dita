@@ -1,55 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_23_405" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">23.405</ph> Procedures.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1529e13" class="- topic/ol ">
-				<li props="Runin" class="- topic/li ">
-					<p id="d1545e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
-						<i class="+ topic/ph hi-d/i ">Designated items and procurement guidelines.</i>
-					</p>
-					<ol id="d1529e26" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1545e17" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
-								<i class="+ topic/ph hi-d/i ">Recovered Materials.</i> Contracting officers should refer to EPA’s list of EPA-designated items (available via the Internet at <xref href="https://www.epa.gov/smm/comprehensive-procurement-guideline-cpg-program#FAR_products" format="html" scope="external" class="- topic/xref ">https://www.epa.gov/smm/comprehensive-procurement-guideline-cpg-program#products</xref>) and to their agencies’ affirmative procurement program when purchasing products that contain recovered material, or services that could include the use of products that contain recovered material.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1545e27" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>
-								<i class="+ topic/ph hi-d/i ">Biobased products.</i> Contracting officers should refer to USDA’s list of USDA-designated items (available through the Internet at <xref href="http://www.biopreferred.gov" format="html" scope="external" class="- topic/xref ">http://www.biopreferred.gov</xref>) and to their agencies affirmative procurement program when purchasing supplies that contain biobased material or when purchasing services that could include supplies that contain biobased material.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1545e37" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>When acquiring recovered material or biobased products, the contracting officer may request information or data on such products, including recycled or biobased content or related standards of the products (see <xref href="11.302.dita#FAR_11_302" base="i1114209" outputclass="fm:ParaNumOnly" class="- topic/xref ">11.302</xref>(c)).</p>
-						</li>
-					</ol>
-				</li>
-				<li props="Runin" class="- topic/li ">
-					<p id="d1545e45" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
-						<i class="+ topic/ph hi-d/i ">Procurement exemptions.</i>
-					</p>
-					<ol id="d1529e80" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1545e52" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>Once an item has been designated by either EPA or USDA, agencies shall purchase conforming products unless an exemption applies (see <xref href="23.404.dita#FAR_23_404" base="i1094692" outputclass="fm:ParaNumOnly" class="- topic/xref ">23.404</xref>(b)).</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1545e60" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>When an exemption is used for an EPA-designated item or the procurement of a product containing recovered material does not meet or exceed the EPA recovered material content guidelines, the contracting officer shall place a written justification in the contract file.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1545e65" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
-						<i class="+ topic/ph hi-d/i ">Program priorities.</i> When both the USDA-designated item and the EPA-designated item will be used for the same purposes, and both meet the agency’s needs, the agency shall purchase the EPA-designated item.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_23_405"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">23.405</ph> Procedures.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1529e13" class="- topic/ol ">
+            <li props="Runin" class="- topic/li ">
+               <p id="d1551e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Designated items and procurement guidelines.</i>
+               </p>
+               <ol id="d1529e26" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1551e17" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <i class="+ topic/ph hi-d/i ">Recovered Materials.</i> Contracting officers should refer to EPA’s list of EPA-designated items (available via the Internet at <xref href="https://www.epa.gov/smm/comprehensive-procurement-guideline-cpg-program#FAR_products"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">https://www.epa.gov/smm/comprehensive-procurement-guideline-cpg-program#products</xref>) and to their agencies’ affirmative procurement program when purchasing products that contain recovered material, or services that could include the use of products that contain recovered material.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1551e27" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <i class="+ topic/ph hi-d/i ">Biobased products.</i> Contracting officers should refer to USDA’s list of USDA-designated items (available through the Internet at <xref href="http://www.biopreferred.gov"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">http://www.biopreferred.gov</xref>) and to their agencies affirmative procurement program when purchasing supplies that contain biobased material or when purchasing services that could include supplies that contain biobased material.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1551e37" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                When acquiring recovered material or biobased products, the contracting officer may request information or data on such products, including recycled or biobased content or related standards of the products (see <xref href="11.302.dita#FAR_11_302"
+                              base="i1114209"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">11.302</xref>(c)).</p>
+                  </li>
+               </ol>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p id="d1551e45" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Procurement exemptions.</i>
+               </p>
+               <ol id="d1529e80" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1551e52" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                Once an item has been designated by either EPA or USDA, agencies shall purchase conforming products unless an exemption applies (see <xref href="23.404.dita#FAR_23_404"
+                              base="i1094692"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">23.404</xref>(b)).</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1551e60" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                When an exemption is used for an EPA-designated item or the procurement of a product containing recovered material does not meet or exceed the EPA recovered material content guidelines, the contracting officer shall place a written justification in the contract file.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1551e65" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Program priorities.</i> When both the USDA-designated item and the EPA-designated item will be used for the same purposes, and both meet the agency’s needs, the agency shall purchase the EPA-designated item.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

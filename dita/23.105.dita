@@ -1,42 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_23_105" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">23.105</ph> Exemption authority.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1509e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1525e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>The head of an agency may exempt-</p>
-					<ol id="d1509e23" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1525e16" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>Intelligence activities of the United States, and related personnel, resources, and facilities, to the extent the Director of National Intelligence or agency head determines it necessary to protect intelligence sources and methods from unauthorized disclosure;</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1525e21" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>Law enforcement activities of that agency and related personnel, resources, and facilities, to the extent the head of an agency determines it necessary to protect undercover operations from unauthorized disclosure;</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1525e26" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>Law enforcement, protective, emergency response, or military tactical vehicle fleets of that agency; and</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1525e31" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>Agency activities and facilities in the interest of national security.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1525e36" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>If the head of the agency issues an exemption under paragraph (a) of this section, the agency must notify the Chair of the Council on Environmental Quality in writing within 30 days of the issuance of the exemption.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1525e41" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>The agency head may submit through the Chair of the Council on Environmental Quality a request for exemption of an agency activity other than those activities listed in paragraph (a) of this section and related personnel, resources, and facilities.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_23_105"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">23.105</ph> Exemption authority.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1509e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1531e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            The head of an agency may exempt-</p>
+               <ol id="d1509e23" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1531e16" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                Intelligence activities of the United States, and related personnel, resources, and facilities, to the extent the Director of National Intelligence or agency head determines it necessary to protect intelligence sources and methods from unauthorized disclosure;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1531e21" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                Law enforcement activities of that agency and related personnel, resources, and facilities, to the extent the head of an agency determines it necessary to protect undercover operations from unauthorized disclosure;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1531e26" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                Law enforcement, protective, emergency response, or military tactical vehicle fleets of that agency; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1531e31" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+								                Agency activities and facilities in the interest of national security.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1531e36" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            If the head of the agency issues an exemption under paragraph (a) of this section, the agency must notify the Chair of the Council on Environmental Quality in writing within 30 days of the issuance of the exemption.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1531e41" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            The agency head may submit through the Chair of the Council on Environmental Quality a request for exemption of an agency activity other than those activities listed in paragraph (a) of this section and related personnel, resources, and facilities.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_22_1020" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">22.1020</ph> Seniority lists.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p id="d1435e8" class="- topic/p ">If a contract is performed at a Federal facility where employees may be hired/retained by a succeeding contractor, the incumbent prime contractor is required to furnish a certified list of all service employees on the contractor’s or subcontractor’s payroll during the last month of the contract, together with anniversary dates of employment, to the contracting officer no later than 10 days before contract completion. (See paragraph (n) of the clause at <xref href="52.222-41.dita#FAR_52_222_41" base="i1056332" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.222-41</xref>, Service Contract Labor Standards.) At the commencement of the succeeding contract, the contracting officer shall provide a copy of the list to the successor contractor for determining employee eligibility for vacation or other fringe benefits which are based upon length of service, including service with predecessor contractors if such benefit is required by an applicable wage determination.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_22_1020"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">22.1020</ph> Seniority lists.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p id="d1435e8" class="- topic/p ">If a contract is performed at a Federal facility where employees may be hired/retained by a succeeding contractor, the incumbent prime contractor is required to furnish a certified list of all service employees on the contractor’s or subcontractor’s payroll during the last month of the contract, together with anniversary dates of employment, to the contracting officer no later than 10 days before contract completion. (See paragraph (n) of the clause at <xref href="52.222-41.dita#FAR_52_222_41"
+                  base="i1056332"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">52.222-41</xref>, Service Contract Labor Standards.) At the commencement of the succeeding contract, the contracting officer shall provide a copy of the list to the successor contractor for determining employee eligibility for vacation or other fringe benefits which are based upon length of service, including service with predecessor contractors if such benefit is required by an applicable wage determination.</p>
+      </conbody>
+   </concept>
 </dita>

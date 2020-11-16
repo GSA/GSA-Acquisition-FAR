@@ -1,53 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_17_604" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">17.604</ph> Identifying management and operating contracts.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p id="d1099e8" class="- topic/p ">A management and operating contract is characterized both by its purpose (see <xref href="17.601.dita#FAR_17_601" base="i1102702" outputclass="fm:ParaNumOnly" class="- topic/xref ">17.601</xref>) and by the special relationship it creates between Government and contractor. The following criteria can generally be applied in identifying management and operating contracts:</p>
-			<ol id="d1077e22" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1099e15" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>Government-owned or -controlled facilities must be utilized; for instance-</p>
-					<ol id="d1077e32" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1099e21" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>In the interest of national defense or mobilization readiness;</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1099e26" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>To perform the agency’s mission adequately; or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1099e31" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>Because private enterprise is unable or unwilling to use its own facilities for the work.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1099e36" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>Because of the nature of the work, or because it is to be performed in Government facilities, the Government must maintain a special, close relationship with the contractor and the contractor’s personnel in various important areas (<i class="+ topic/ph hi-d/i ">e.g.,</i> safety, security, cost control, site conditions).</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1099e44" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>The conduct of the work is wholly or at least substantially separate from the contractor’s other business, if any.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1099e49" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph>The work is closely related to the agency’s mission and is of a long-term or continuing nature, and there is a need-</p>
-					<ol id="d1077e92" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1099e55" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>To ensure its continuity; and</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1099e60" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>For special protection covering the orderly transition of personnel and work in the event of a change in contractors.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_17_604"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">17.604</ph> Identifying management and operating contracts.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p id="d1099e8" class="- topic/p ">A management and operating contract is characterized both by its purpose (see <xref href="17.601.dita#FAR_17_601"
+                  base="i1102702"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">17.601</xref>) and by the special relationship it creates between Government and contractor. The following criteria can generally be applied in identifying management and operating contracts:</p>
+         <ol id="d1077e22" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1105e15" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            Government-owned or -controlled facilities must be utilized; for instance-</p>
+               <ol id="d1077e32" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1105e21" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                In the interest of national defense or mobilization readiness;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1105e26" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                To perform the agency’s mission adequately; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1105e31" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                Because private enterprise is unable or unwilling to use its own facilities for the work.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1105e36" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            Because of the nature of the work, or because it is to be performed in Government facilities, the Government must maintain a special, close relationship with the contractor and the contractor’s personnel in various important areas (<i class="+ topic/ph hi-d/i ">e.g.,</i> safety, security, cost control, site conditions).</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1105e44" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            The conduct of the work is wholly or at least substantially separate from the contractor’s other business, if any.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1105e49" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            The work is closely related to the agency’s mission and is of a long-term or continuing nature, and there is a need-</p>
+               <ol id="d1077e92" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1105e55" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                To ensure its continuity; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1105e60" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                For special protection covering the orderly transition of personnel and work in the event of a change in contractors.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

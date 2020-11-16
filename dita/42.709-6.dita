@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_42_709_6" domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    " ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">42.709-6</ph> Contract clause.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p id="d2530e8" class="- topic/p ">Use the clause at <xref href="52.242-3.dita#FAR_52_242_3" base="FAR_52_242_3" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.242-3</xref>, Penalties for Unallowable Costs, in all solicitations and contracts over <ph rev="FAC 2021-01 October 1, 2020" class="- topic/ph ">
-					<?FM MARKER [CaseNumber] FAR Case 2019-013?>$800,000<?FM MARKER [Why] Amend section 42.709-6 by removing “$750,000” and adding “$800,000” in its place.?>
-				</ph> except fixed-price contracts without cost incentives or any firm-fixed-price contract for the purchase of commercial items. Generally, covered contracts are those which contain one of the clauses at <xref href="52.216-7.dita#FAR_52_216_7" base="FAR_52_216_7" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.216-7</xref>, <xref href="52.216-16.dita#FAR_52_216_16" base="FAR_52_216_16" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.216-16</xref>, or <xref href="52.216-17.dita#FAR_52_216_17" base="FAR_52_216_17" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.216-17</xref>, or a similar clause from an executive agency’s supplement to the FAR.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="FAR_42_709_6"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">42.709-6</ph> Contract clause.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d2538e8" class="- topic/p ">Use the clause at <xref href="52.242-3.dita#FAR_52_242_3"
+                  base="FAR_52_242_3"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">52.242-3</xref>, Penalties for
+Unallowable Costs, in all solicitations and contracts over $800,000 except
+fixed-price contracts without cost incentives or any firm-fixed-price
+contract for the purchase of commercial items. Generally, covered contracts
+are those which contain one of the clauses at <xref href="52.216-7.dita#FAR_52_216_7"
+                  base="FAR_52_216_7"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">52.216-7</xref>, <xref href="52.216-16.dita#FAR_52_216_16"
+                  base="FAR_52_216_16"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">52.216-16</xref>, or <xref href="52.216-17.dita#FAR_52_216_17"
+                  base="FAR_52_216_17"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">52.216-17</xref>, or a similar
+clause from an executive agency’s supplement to the FAR.</p>
+      </conbody>
+   </concept>
 </dita>

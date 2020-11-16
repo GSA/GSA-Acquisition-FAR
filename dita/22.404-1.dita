@@ -1,31 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_22_404_1" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">22.404-1</ph> Types of wage determinations.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1298e13" class="- topic/ol ">
-				<li props="Runin" class="- topic/li ">
-					<p id="d1328e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>General wage determinations.</p>
-					<ol id="d1298e23" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1328e16" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>A general wage determination contains prevailing wage rates for the types of construction designated in the determination, and is used in contracts performed within a specified geographical area. General wage determinations contain no expiration date and remain valid until modified, superseded, or canceled by the Department of Labor. Once incorporated in a contract, a general wage determination normally remains effective for the life of the contract, unless the contracting officer exercises an option to extend the term of the contract (see <xref href="22.404-12.dita#FAR_22_404_12" base="i1097917" outputclass="fm:ParaNumOnly" class="- topic/xref ">22.404-12</xref>). These determinations shall be used whenever possible. They are issued at the discretion of the Department of Labor either upon receipt of an agency request or on the Department of Labor’s own initiative.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1328e24" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>General wage determinations are published on the WDOL website. General wage determinations are effective on the publication date of the wage determination or upon receipt of the wage determination by the contracting agency, whichever occurs first. "Publication" within the meaning of this section shall occur on the first date the wage determination is published on the WDOL. Archived Construction Wage Rate Requirements statute general wage determinations that are no longer current may be accessed in the "Archived DB WD" database on WDOL for information purposes only. Contracting officers may not use an archived wage determination in a contract action without obtaining prior approval of the Department of Labor. To obtain prior approval, contact the Department of Labor, Wage and Hour Division, using <xref href="http://www.wdol.gov" format="html" scope="external" class="- topic/xref ">http://www.wdol.gov</xref>, or contact the procurement agency labor advisor listed on <xref href="http://www.wdol.gov" format="html" scope="external" class="- topic/xref ">http://www.wdol.gov</xref>.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1328e35" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
-						<i class="+ topic/ph hi-d/i ">Project wage determinations</i>. A project wage determination is issued at the specific request of a contracting agency. It is used only when no general wage determination applies, and is effective for 180 calendar days from the date of the determination. However, if a determination expires before contract award, it may be possible to obtain an extension to the 180-day life of the determination (see <xref href="22.404-5.dita#FAR_22_404_5" base="i1097810" outputclass="fm:ParaNumOnly" class="- topic/xref ">22.404-5</xref>(b)(2)). Once incorporated in a contract, a project wage determination normally remains effective for the life of the contract, unless the contracting officer exercises an option to extend the term of the contract (see <xref href="22.404-12.dita#FAR_22_404_12" base="i1097917" outputclass="fm:ParaNumOnly" class="- topic/xref ">22.404-12</xref>).</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_22_404_1"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">22.404-1</ph> Types of wage determinations.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1298e13" class="- topic/ol ">
+            <li props="Runin" class="- topic/li ">
+               <p id="d1334e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            General wage determinations.</p>
+               <ol id="d1298e23" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1334e16" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                A general wage determination contains prevailing wage rates for the types of construction designated in the determination, and is used in contracts performed within a specified geographical area. General wage determinations contain no expiration date and remain valid until modified, superseded, or canceled by the Department of Labor. Once incorporated in a contract, a general wage determination normally remains effective for the life of the contract, unless the contracting officer exercises an option to extend the term of the contract (see <xref href="22.404-12.dita#FAR_22_404_12"
+                              base="i1097917"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.404-12</xref>). These determinations shall be used whenever possible. They are issued at the discretion of the Department of Labor either upon receipt of an agency request or on the Department of Labor’s own initiative.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1334e24" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                General wage determinations are published on the WDOL website. General wage determinations are effective on the publication date of the wage determination or upon receipt of the wage determination by the contracting agency, whichever occurs first. "Publication" within the meaning of this section shall occur on the first date the wage determination is published on the WDOL. Archived Construction Wage Rate Requirements statute general wage determinations that are no longer current may be accessed in the "Archived DB WD" database on WDOL for information purposes only. Contracting officers may not use an archived wage determination in a contract action without obtaining prior approval of the Department of Labor. To obtain prior approval, contact the Department of Labor, Wage and Hour Division, using <xref href="http://www.wdol.gov"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">http://www.wdol.gov</xref>, or contact the procurement agency labor advisor listed on <xref href="http://www.wdol.gov"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">http://www.wdol.gov</xref>.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1334e35" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Project wage determinations</i>. A project wage determination is issued at the specific request of a contracting agency. It is used only when no general wage determination applies, and is effective for 180 calendar days from the date of the determination. However, if a determination expires before contract award, it may be possible to obtain an extension to the 180-day life of the determination (see <xref href="22.404-5.dita#FAR_22_404_5"
+                        base="i1097810"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">22.404-5</xref>(b)(2)). Once incorporated in a contract, a project wage determination normally remains effective for the life of the contract, unless the contracting officer exercises an option to extend the term of the contract (see <xref href="22.404-12.dita#FAR_22_404_12"
+                        base="i1097917"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">22.404-12</xref>).</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

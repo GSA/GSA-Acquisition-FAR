@@ -1,38 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_22_1013" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">22.1013</ph> Review of wage determination.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1398e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1428e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
-						<i class="+ topic/ph hi-d/i ">Based on incumbent collective bargaining agreement.</i> (1)If wages, fringe benefits, or periodic increases provided for in a collective bargaining agreement vary substantially from those prevailing for similar services in the locality, the contracting officer shall immediately contact the agency labor advisor to consider instituting the procedures in <xref href="22.1021.dita#FAR_22_1021" base="i1097053" outputclass="fm:ParaNumOnly" class="- topic/xref ">22.1021</xref>.</p>
-					<ol id="d1398e29" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1428e21" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>If the contracting officer believes that an incumbent or predecessor contractor’s agreement was not the result of arm’s length negotiations, the contracting officer shall contact the agency labor advisor to determine appropriate action.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1428e26" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
-						<i class="+ topic/ph hi-d/i ">Based on other than incumbent collective bargaining agreement.</i> Upon receiving a wage determination not predicated upon a collective bargaining agreement, the contracting officer shall ascertain-</p>
-					<ol id="d1398e53" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1428e34" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>If the wage determination does not conform with wages and fringe benefits prevailing for similar services in the locality; or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1428e39" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>If the wage determination contains significant errors or omissions. If either subparagraph (b)(1) or (b)(2) of this section is evident, the contracting officer shall contact the agency labor advisor to determine appropriate action.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_22_1013"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">22.1013</ph> Review of wage determination.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1398e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1434e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Based on incumbent collective bargaining agreement.</i> (1)If wages, fringe benefits, or periodic increases provided for in a collective bargaining agreement vary substantially from those prevailing for similar services in the locality, the contracting officer shall immediately contact the agency labor advisor to consider instituting the procedures in <xref href="22.1021.dita#FAR_22_1021"
+                        base="i1097053"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">22.1021</xref>.</p>
+               <ol id="d1398e29" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1434e21" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                If the contracting officer believes that an incumbent or predecessor contractor’s agreement was not the result of arm’s length negotiations, the contracting officer shall contact the agency labor advisor to determine appropriate action.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1434e26" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Based on other than incumbent collective bargaining agreement.</i> Upon receiving a wage determination not predicated upon a collective bargaining agreement, the contracting officer shall ascertain-</p>
+               <ol id="d1398e53" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1434e34" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                If the wage determination does not conform with wages and fringe benefits prevailing for similar services in the locality; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1434e39" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                If the wage determination contains significant errors or omissions. If either subparagraph (b)(1) or (b)(2) of this section is evident, the contracting officer shall contact the agency labor advisor to determine appropriate action.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_47_303" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">47.303</ph> Standard delivery terms and contract clauses.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p id="d2788e8" class="- topic/p ">Standard delivery terms are listed in <xref href="47.303-1.dita#FAR_47_303_1" base="i1070179" outputclass="fm:ParaNumOnly" class="- topic/xref ">47.303-1</xref> through <xref href="47.303-16.dita#FAR_47_303_16" base="i1070416" outputclass="fm:ParaNumOnly" class="- topic/xref ">47.303-16</xref> (but see <xref href="47.300.dita#FAR_47_300" base="i1070103" outputclass="fm:ParaNumOnly" class="- topic/xref ">47.300</xref> regarding applicability to cost reimbursement contracts).</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_47_303"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">47.303</ph> Standard delivery terms and contract clauses.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p id="d2788e8" class="- topic/p ">Standard delivery terms are listed in <xref href="47.303-1.dita#FAR_47_303_1"
+                  base="i1070179"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">47.303-1</xref> through <xref href="47.303-16.dita#FAR_47_303_16"
+                  base="i1070416"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">47.303-16</xref> (but see <xref href="47.300.dita#FAR_47_300"
+                  base="i1070103"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">47.300</xref> regarding applicability to cost reimbursement contracts).</p>
+      </conbody>
+   </concept>
 </dita>

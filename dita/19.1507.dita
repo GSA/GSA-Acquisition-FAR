@@ -1,55 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_19_1507" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">19.1507</ph> 	Limitations on subcontracting	and nonmanufacturer rule.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<ol class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1284e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
-						<i class="+ topic/ph hi-d/i ">Limitations	on subcontracting.</i> To be awarded a contract or order under the	WOSB Program, the contractor is required to perform—</p>
-					<ol class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1284e18" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>For services	(except construction), at least 50 percent of the cost incurred	for personnel with its own employees;</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1284e23" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>For	supplies or products (other than a procurement from a nonmanufacturer	of such supplies or products), at least 50 percent of the cost of	manufacturing the supplies or products (not including the cost of	materials);</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1284e28" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>For	general construction, at least 15 percent of the cost with its own	employees (not including the cost of materials); or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1284e33" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>For	construction by special trade contractors, at least 25 percent of	the cost with its own employees (not including the cost of materials).</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1284e38" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
-						<i class="+ topic/ph hi-d/i ">Compliance	period.</i> An EDWOSB or WOSB contractor is required to comply with	the limitation on subcontracting—</p>
-					<ol class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1284e46" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>For a contract that has been set	aside or awarded on a sole source basis, either by the end of the	base term and then by the end of each subsequent option period or	by the end of the performance period for each order issued under	the contract, at the contracting officer's discretion; and</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1284e51" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>For	an order set aside as described in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1117805" href="8.405-5.dita#FAR_8_405_5">8.405-5</xref> and <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1104008" href="16.505.dita#FAR_16_505">16.505</xref>(b)(2)(i)(F) or for an order issued directly to an EDWOSB or WOSB contractor	in accordance with <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id203CEK0I0HS" href="19.504.dita#FAR_19_504">19.504</xref>(c)(1)(ii), by the end of the performance	period for the order.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1284e65" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
-						<i class="+ topic/ph hi-d/i ">Nonmanufacturer	rule.</i> See <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id203CGK00TBF" href="19.505.dita#FAR_19_505">19.505</xref>(c) for application of the nonmanufacturer rule,	inclusive of waivers and exceptions to the nonmanufacturer rule.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_19_1507"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">19.1507</ph> 	Limitations on subcontracting	and nonmanufacturer rule.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1290e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Limitations	on subcontracting.</i> To be awarded a contract or order under the	WOSB Program, the contractor is required to perform—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1290e18" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                For services	(except construction), at least 50 percent of the cost incurred	for personnel with its own employees;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1290e23" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                For	supplies or products (other than a procurement from a nonmanufacturer	of such supplies or products), at least 50 percent of the cost of	manufacturing the supplies or products (not including the cost of	materials);</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1290e28" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                For	general construction, at least 15 percent of the cost with its own	employees (not including the cost of materials); or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1290e33" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+								                For	construction by special trade contractors, at least 25 percent of	the cost with its own employees (not including the cost of materials).</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1290e38" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Compliance	period.</i> An EDWOSB or WOSB contractor is required to comply with	the limitation on subcontracting—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1290e46" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                For a contract that has been set	aside or awarded on a sole source basis, either by the end of the	base term and then by the end of each subsequent option period or	by the end of the performance period for each order issued under	the contract, at the contracting officer's discretion; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1290e51" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                For	an order set aside as described in <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="i1117805"
+                              href="8.405-5.dita#FAR_8_405_5">8.405-5</xref> and <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="i1104008"
+                              href="16.505.dita#FAR_16_505">16.505</xref>(b)(2)(i)(F) or for an order issued directly to an EDWOSB or WOSB contractor	in accordance with <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="id203CEK0I0HS"
+                              href="19.504.dita#FAR_19_504">19.504</xref>(c)(1)(ii), by the end of the performance	period for the order.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1290e65" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Nonmanufacturer	rule.</i> See <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id203CGK00TBF"
+                        href="19.505.dita#FAR_19_505">19.505</xref>(c) for application of the nonmanufacturer rule,	inclusive of waivers and exceptions to the nonmanufacturer rule.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

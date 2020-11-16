@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_17_108" domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    " ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">17.108</ph> Congressional notification.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<ol id="d1047e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1069e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph> Except for DoD, NASA, and the Coast Guard, a multi-year contract which includes a cancellation ceiling in excess of <ph rev="FAC 2021-01 October 1, 2020" class="- topic/ph ">
-							<?FM MARKER [CaseNumber] FAR Case 2019-013?>$15 million<?FM MARKER [Why] Amend section 17.108 by— a.  Removing from paragraph (a) “$13.5 million” and adding “$15 million” in its place; and ?>
-						</ph> may not be awarded until the head of the agency gives written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the committees on appropriations of the House of Representatives and Senate and the appropriate oversight committees of the House and Senate for the agency in question. Information on such committees may not be readily available to contracting officers. Accordingly, agencies should provide such information through its internal regulations. The contract may not be awarded until the thirty-firstday after the date of notification.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1069e20" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph> For DoD, NASA, and the Coast Guard, a multi-year contract which includes a cancellation ceiling in excess of <ph rev="FAC 2021-01 October 1, 2020" class="- topic/ph ">
-							<?FM MARKER [CaseNumber] FAR Case 2019-013?>$150 million<?FM MARKER [Why] b.  Removing from paragraph (b) “$135.5 million” and adding “$150 million” in its place.?>
-						</ph> may not be awarded until the head of the agency gives written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the committees on armed services and appropriations of the House of Representatives and Senate. The contract may not be awarded until the thirty-firstday after the date of notification.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_17_108"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">17.108</ph> Congressional notification.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d1047e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1075e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						             Except for DoD, NASA, and the Coast Guard, a multi-year contract which includes a cancellation ceiling in excess of 
+							$15 million
+						 may not be awarded until the head of the agency gives written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the committees on appropriations of the House of Representatives and Senate and the appropriate oversight committees of the House and Senate for the agency in question. Information on such committees may not be readily available to contracting officers. Accordingly, agencies should provide such information through its internal regulations. The contract may not be awarded until the thirty-firstday after the date of notification.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1075e15" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						             For DoD, NASA, and the Coast Guard, a multi-year contract which includes a cancellation ceiling in excess of 
+							$150 million
+						 may not be awarded until the head of the agency gives written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the committees on armed services and appropriations of the House of Representatives and Senate. The contract may not be awarded until the thirty-firstday after the date of notification.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

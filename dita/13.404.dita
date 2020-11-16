@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_13_404" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">13.404</ph> Contract clause.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p id="d792e8" class="- topic/p ">The contracting officer shall insert the clause at <xref href="52.213-1.dita#FAR_52_213_1" base="i1061864" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.213-1</xref>, Fast Payment Procedure, in solicitations and contracts when the conditions in <xref href="13.402.dita#FAR_13_402" base="i1111379" outputclass="fm:ParaNumOnly" class="- topic/xref ">13.402</xref> are applicable and it is intended that the fast payment procedure be used in the contract (in the case of BPAs, the contracting officer may elect to insert the clause either in the BPA or in orders under the BPA).</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_13_404"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">13.404</ph> Contract clause.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p id="d792e8" class="- topic/p ">The contracting officer shall insert the clause at <xref href="52.213-1.dita#FAR_52_213_1"
+                  base="i1061864"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">52.213-1</xref>, Fast Payment Procedure, in solicitations and contracts when the conditions in <xref href="13.402.dita#FAR_13_402"
+                  base="i1111379"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">13.402</xref> are applicable and it is intended that the fast payment procedure be used in the contract (in the case of BPAs, the contracting officer may elect to insert the clause either in the BPA or in orders under the BPA).</p>
+      </conbody>
+   </concept>
 </dita>

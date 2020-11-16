@@ -1,66 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_25_503" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">25.503</ph> Group offers.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<ol id="d1633e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1649e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>If the solicitation or an offer specifies that award can be made only on a group of line items or on all line items contained in the solicitation or offer, reject the offer-</p>
-					<ol id="d1633e23" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1649e16" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>If any part of the award would consist of prohibited end products (see <xref href="Subpart_25.7.dita#FAR_Subpart_25_7" base="i1091171" outputclass="fm:Subpart" class="- topic/xref ">subpart  25.7</xref>); or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1649e24" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>If the acquisition is covered by the WTO GPA and any part of the offer consists of items restricted in accordance with <xref href="25.403.dita#FAR_25_403" base="i1097710" outputclass="fm:ParaNumOnly" class="- topic/xref ">25.403</xref>(c).</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1649e32" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>If an offer restricts award to a group of line items or to all line items contained in the offer, determine for each line item whether to apply an evaluation factor (see <xref href="25.504-4.dita#FAR_25_504_4" base="i1091812" outputclass="fm:ParaNumOnly" class="- topic/xref ">25.504-4</xref>, Example 1).</p>
-					<ol id="d1633e62" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1649e41" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>First, evaluate offers that do not specify an award restriction on a line item basis in accordance with <xref href="25.502.dita#FAR_25_502" base="i1091565" outputclass="fm:ParaNumOnly" class="- topic/xref ">25.502</xref>, determining a tentative award pattern by selecting for each line item the offer with the lowest evaluated price.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1649e49" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>Evaluate an offer that specifies an award restriction against the offered prices of the tentative award pattern, applying the appropriate evaluation factor on a line item basis.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1649e54" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>Compute the total evaluated price for the tentative award pattern and the offer that specified an award restriction.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1649e59" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>Unless the total evaluated price of the offer that specified an award restriction is less than the total evaluated price of the tentative award pattern, award based on the tentative award pattern.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1649e64" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>If the solicitation specifies that award will be made only on a group of line items or all line items contained in the solicitation, determine the category of end products on the basis of each line item, but determine whether to apply an evaluation factor on the basis of the group of items (see <xref href="25.504-4.dita#FAR_25_504_4" base="i1091812" outputclass="fm:ParaNumOnly" class="- topic/xref ">25.504-4</xref>, Example 2).</p>
-					<ol id="d1633e116" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1649e73" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>If the proposed price of domestic end products exceeds 50 percent of the total proposed price of the group, evaluate the entire group as a domestic offer. Evaluate all other groups as foreign offers.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1649e78" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>For foreign offers, if the proposed price of domestic end products and eligible products exceeds 50 percent of the total proposed price of the group, evaluate the entire group as an eligible offer.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1649e83" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>Apply the evaluation factor to the entire group in accordance with <xref href="25.502.dita#FAR_25_502" base="i1091565" outputclass="fm:ParaNumOnly" class="- topic/xref ">25.502</xref>.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_25_503"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">25.503</ph> Group offers.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d1633e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1655e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            If the solicitation or an offer specifies that award can be made only on a group of line items or on all line items contained in the solicitation or offer, reject the offer-</p>
+               <ol id="d1633e23" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1655e16" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                If any part of the award would consist of prohibited end products (see <xref href="Subpart_25.7.dita#FAR_Subpart_25_7"
+                              base="i1091171"
+                              outputclass="fm:Subpart"
+                              class="- topic/xref ">subpart  25.7</xref>); or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1655e24" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                If the acquisition is covered by the WTO GPA and any part of the offer consists of items restricted in accordance with <xref href="25.403.dita#FAR_25_403"
+                              base="i1097710"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">25.403</xref>(c).</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1655e32" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            If an offer restricts award to a group of line items or to all line items contained in the offer, determine for each line item whether to apply an evaluation factor (see <xref href="25.504-4.dita#FAR_25_504_4"
+                        base="i1091812"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">25.504-4</xref>, Example 1).</p>
+               <ol id="d1633e62" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1655e41" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                First, evaluate offers that do not specify an award restriction on a line item basis in accordance with <xref href="25.502.dita#FAR_25_502"
+                              base="i1091565"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">25.502</xref>, determining a tentative award pattern by selecting for each line item the offer with the lowest evaluated price.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1655e49" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                Evaluate an offer that specifies an award restriction against the offered prices of the tentative award pattern, applying the appropriate evaluation factor on a line item basis.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1655e54" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                Compute the total evaluated price for the tentative award pattern and the offer that specified an award restriction.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1655e59" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+								                Unless the total evaluated price of the offer that specified an award restriction is less than the total evaluated price of the tentative award pattern, award based on the tentative award pattern.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1655e64" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            If the solicitation specifies that award will be made only on a group of line items or all line items contained in the solicitation, determine the category of end products on the basis of each line item, but determine whether to apply an evaluation factor on the basis of the group of items (see <xref href="25.504-4.dita#FAR_25_504_4"
+                        base="i1091812"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">25.504-4</xref>, Example 2).</p>
+               <ol id="d1633e116" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1655e73" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                If the proposed price of domestic end products exceeds 50 percent of the total proposed price of the group, evaluate the entire group as a domestic offer. Evaluate all other groups as foreign offers.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1655e78" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                For foreign offers, if the proposed price of domestic end products and eligible products exceeds 50 percent of the total proposed price of the group, evaluate the entire group as an eligible offer.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1655e83" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                Apply the evaluation factor to the entire group in accordance with <xref href="25.502.dita#FAR_25_502"
+                              base="i1091565"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">25.502</xref>.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

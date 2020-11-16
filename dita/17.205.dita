@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_17_205" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">17.205</ph> Documentation.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1055e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1077e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>The contracting officer shall justify in writing the quantities or the term under option, the notification period for exercising the option, and any limitation on option price under <xref href="17.203.dita#FAR_17_203" base="i1103053" outputclass="fm:ParaNumOnly" class="- topic/xref ">17.203</xref>(g); and shall include the justification document in the contract file.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1077e18" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>Any justifications and approvals and any determination and findings required by <xref href="Part_6.dita#FAR_Part_6" base="i1120119" outputclass="fm:Part" class="- topic/xref ">part  6</xref> shall specify both the basic requirement and the increase permitted by the option.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_17_205"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">17.205</ph> Documentation.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1055e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1083e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            The contracting officer shall justify in writing the quantities or the term under option, the notification period for exercising the option, and any limitation on option price under <xref href="17.203.dita#FAR_17_203"
+                        base="i1103053"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">17.203</xref>(g); and shall include the justification document in the contract file.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1083e18" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            Any justifications and approvals and any determination and findings required by <xref href="Part_6.dita#FAR_Part_6"
+                        base="i1120119"
+                        outputclass="fm:Part"
+                        class="- topic/xref ">part  6</xref> shall specify both the basic requirement and the increase permitted by the option.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

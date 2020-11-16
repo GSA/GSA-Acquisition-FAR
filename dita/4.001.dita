@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_4_001" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">4.001</ph> Definitions.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p class="- topic/p ">As used in this part-</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_4.001" xtrc="d192e18" class="+ topic/ph hi-d/i ">Procurement Instrument Identifier (PIID)</i> means the Government-unique identifier for each solicitation, contract, agreement, or order. For example, an agency may use as its PIID for procurement actions, such as delivery and task orders or basic ordering agreements, the order or agreement number in conjunction with the contract number (see <xref href="4.1602.dita#FAR_4_1602" base="i1121469" outputclass="fm:ParaNumOnly" class="- topic/xref ">4.1602</xref>).</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_4.001" xtrc="d192e27" class="+ topic/ph hi-d/i ">Supplementary procurement instrument identifier</i> means the non-unique identifier for a procurement action that is used in conjunction with the Government-unique identifier. For example, an agency may use as its PIID for an amended solicitation, the Government-unique identifier for a solicitation number (<i class="+ topic/ph hi-d/i ">e.g.</i>, N0002309R0009) in conjunction with a non-unique amendment number (<i class="+ topic/ph hi-d/i ">e.g.</i>, 0001). The non-unique amendment number represents the supplementary PIID.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_4_001"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">4.001</ph> Definitions.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p class="- topic/p ">As used in this part-</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_4.001"
+               xtrc="d192e18"
+               class="+ topic/ph hi-d/i ">Procurement Instrument Identifier (PIID)</i> means the Government-unique identifier for each solicitation, contract, agreement, or order. For example, an agency may use as its PIID for procurement actions, such as delivery and task orders or basic ordering agreements, the order or agreement number in conjunction with the contract number (see <xref href="4.1602.dita#FAR_4_1602"
+                  base="i1121469"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">4.1602</xref>).</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_4.001"
+               xtrc="d192e27"
+               class="+ topic/ph hi-d/i ">Supplementary procurement instrument identifier</i> means the non-unique identifier for a procurement action that is used in conjunction with the Government-unique identifier. For example, an agency may use as its PIID for an amended solicitation, the Government-unique identifier for a solicitation number (<i class="+ topic/ph hi-d/i ">e.g.</i>, N0002309R0009) in conjunction with a non-unique amendment number (<i class="+ topic/ph hi-d/i ">e.g.</i>, 0001). The non-unique amendment number represents the supplementary PIID.</p>
+      </conbody>
+   </concept>
 </dita>

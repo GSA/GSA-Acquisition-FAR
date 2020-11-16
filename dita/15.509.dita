@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_15_509" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">15.509</ph> Forms.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p class="- topic/p ">Optional Form (OF) 307, Contract Award, <xref href="https://www.gsa.gov/forms-library/awardcontract" format="html" scope="external" class="- topic/xref ">Standard Form (SF) 26</xref>, Award/Contract, or <xref href="https://www.gsa.gov/forms-library/solicitation-offer-and-award" format="html" scope="external" class="- topic/xref ">SF 33</xref>, Solicitation, Offer and Award, may be used to award negotiated contracts in which the signature of both parties on a single document is appropriate. Note however, if using the <xref href="https://www.gsa.gov/forms-library/awardcontract" format="html" scope="external" class="- topic/xref ">SF 26 </xref> for a negotiated procurement, block 18 is not to be used. If these forms are not used, the award document shall incorporate the agreement and award language from the OF 307.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_15_509"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">15.509</ph> Forms.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p class="- topic/p ">Optional Form (OF) 307, Contract Award, <xref href="https://www.gsa.gov/forms-library/awardcontract"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Standard Form (SF) 26</xref>, Award/Contract, or <xref href="https://www.gsa.gov/forms-library/solicitation-offer-and-award"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">SF 33</xref>, Solicitation, Offer and Award, may be used to award negotiated contracts in which the signature of both parties on a single document is appropriate. Note however, if using the <xref href="https://www.gsa.gov/forms-library/awardcontract"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">SF 26 </xref> for a negotiated procurement, block 18 is not to be used. If these forms are not used, the award document shall incorporate the agreement and award language from the OF 307.</p>
+      </conbody>
+   </concept>
 </dita>

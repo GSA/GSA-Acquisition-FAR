@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_32_902" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">32.902</ph> Definitions.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p class="- topic/p ">As used in this subpart-</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_32.902" xtrc="d2178e18" class="+ topic/ph hi-d/i ">Discount for prompt payment</i> means an invoice payment reduction offered by the contractor for payment prior to the due date.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_32.902" xtrc="d2178e24" class="+ topic/ph hi-d/i ">Mixed invoice</i> means an invoice that contains items with different payment due dates.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_32.902" xtrc="d2178e30" class="+ topic/ph hi-d/i ">Payment date</i> means the date on which a check for payment is dated or, for an electronic funds transfer (EFT), the settlement date.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_32.902" xtrc="d2178e36" class="+ topic/ph hi-d/i ">Settlement date</i>, as it applies to electronic funds transfer, means the date on which an electronic funds transfer payment is credited to the contractor’s financial institution.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_32_902"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">32.902</ph> Definitions.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p class="- topic/p ">As used in this subpart-</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_32.902"
+               xtrc="d2178e18"
+               class="+ topic/ph hi-d/i ">Discount for prompt payment</i> means an invoice payment reduction offered by the contractor for payment prior to the due date.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_32.902"
+               xtrc="d2178e24"
+               class="+ topic/ph hi-d/i ">Mixed invoice</i> means an invoice that contains items with different payment due dates.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_32.902"
+               xtrc="d2178e30"
+               class="+ topic/ph hi-d/i ">Payment date</i> means the date on which a check for payment is dated or, for an electronic funds transfer (EFT), the settlement date.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_32.902"
+               xtrc="d2178e36"
+               class="+ topic/ph hi-d/i ">Settlement date</i>, as it applies to electronic funds transfer, means the date on which an electronic funds transfer payment is credited to the contractor’s financial institution.</p>
+      </conbody>
+   </concept>
 </dita>

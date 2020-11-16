@@ -1,53 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_19_815" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">19.815</ph> Release for non-8(a) procurement.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1223e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1251e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>Once a requirement has been accepted by SBA into the 8(a) program, any follow-on requirements shall remain in the 8(a) program unless there is a mandatory source (see <xref href="8.002.dita#FAR_8_002" outputclass="fm:ParaNumOnly" class="- topic/xref ">8.002</xref> or <xref href="8.003.dita#FAR_8_003" outputclass="fm:ParaNumOnly" class="- topic/xref ">8.003</xref>) or SBA agrees to release the requirement from the 8(a) program in accordance with <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.504(d)</ph>.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1251e24" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>To obtain release of a requirement for a non-8(a) procurement (other than a mandatory source listed at <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i8_002" href="8.002.dita#FAR_8_002">8.002</xref> or <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i8_003" href="8.003.dita#FAR_8_003">8.003</xref>), the contracting officer shall make a written request to, and receive concurrence from, the SBA Associate Administrator for Business Development.</p>
-				</li>
-				<li props="Runin" class="- topic/li ">
-					<p id="d1251e35" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
-					</p>
-					<ol id="d1223e47" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1251e40" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>The written request to the SBA Associate Administrator for Business Development shall indicate</p>
-							<ol id="d1223e57" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d1251e46" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>Whether the agency has achieved its small disadvantaged business goal;</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1251e51" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>Whether the agency has achieved its HUBZone, SDVOSB, WOSB, or small business goal(s); and</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1251e56" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(iii)</ph>Whether the requirement is critical to the business development of the 8(a) contractor that is currently performing the requirement.</p>
-								</li>
-							</ol>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1251e61" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>Generally, a requirement that was previously accepted into the 8(a) program will only be released for procurements outside the 8(a) program when the contracting activity agency agrees to set aside the requirement under the small business, HUBZone, SDVOSB, or WOSB programs.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1251e66" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>The requirement that a follow-on procurement must be released from the 8(a) program in order for it to be fulfilled outside the 8(a) program does not apply to task or delivery orders offered to and accepted into the 8(a) program, where the basic contract was not accepted into the 8(a) program.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_19_815"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">19.815</ph> Release for non-8(a) procurement.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1223e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1257e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            Once a requirement has been accepted by SBA into the 8(a) program, any follow-on requirements shall remain in the 8(a) program unless there is a mandatory source (see <xref href="8.002.dita#FAR_8_002"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">8.002</xref> or <xref href="8.003.dita#FAR_8_003"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">8.003</xref>) or SBA agrees to release the requirement from the 8(a) program in accordance with <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.504(d)</ph>.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1257e24" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            To obtain release of a requirement for a non-8(a) procurement (other than a mandatory source listed at <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="i8_002"
+                        href="8.002.dita#FAR_8_002">8.002</xref> or <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="i8_003"
+                        href="8.003.dita#FAR_8_003">8.003</xref>), the contracting officer shall make a written request to, and receive concurrence from, the SBA Associate Administrator for Business Development.</p>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p id="d1257e35" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+               </p>
+               <ol id="d1223e47" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1257e40" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                The written request to the SBA Associate Administrator for Business Development shall indicate</p>
+                     <ol id="d1223e57" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d1257e46" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+										                    Whether the agency has achieved its small disadvantaged business goal;</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1257e51" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+										                    Whether the agency has achieved its HUBZone, SDVOSB, WOSB, or small business goal(s); and</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1257e56" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+										                    Whether the requirement is critical to the business development of the 8(a) contractor that is currently performing the requirement.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1257e61" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                Generally, a requirement that was previously accepted into the 8(a) program will only be released for procurements outside the 8(a) program when the contracting activity agency agrees to set aside the requirement under the small business, HUBZone, SDVOSB, or WOSB programs.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1257e66" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                The requirement that a follow-on procurement must be released from the 8(a) program in order for it to be fulfilled outside the 8(a) program does not apply to task or delivery orders offered to and accepted into the 8(a) program, where the basic contract was not accepted into the 8(a) program.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

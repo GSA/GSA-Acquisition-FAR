@@ -1,55 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_4_2001" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">4.2001</ph> Definitions.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p id="d316e21" class="- topic/p ">As used in this subpart—</p>
-			<p id="d316e27fcp" class="- topic/p ">
-				<i outputclass="Term" xtrf="_4.2001" xtrc="d313e18" class="+ topic/ph hi-d/i ">Covered article</i> means any hardware, software, or service that–<ol class="- topic/ol ">
-					<li class="- topic/li ">
-						<ol class="- topic/ol ">
-							<li class="- topic/li ">
-								<p id="d316e18" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(1)</ph> Is developed or provided by a covered entity;</p>
-							</li>
-							<li class="- topic/li ">
-								<p id="d316e23" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(2)</ph> Includes any hardware, software, or service developed or provided in whole or in part by a covered entity; or</p>
-							</li>
-							<li class="- topic/li ">
-								<p id="d316e28" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(3)</ph> Contains components using any hardware or software developed in whole or in part by a covered entity.</p>
-							</li>
-						</ol>
-					</li>
-				</ol>
-			</p>
-			<p id="d316e54" class="- topic/p ">
-				<i outputclass="Term" xtrf="_4.2001" xtrc="d313e60" class="+ topic/ph hi-d/i ">Covered entity</i> means–<ol class="- topic/ol ">
-					<li class="- topic/li ">
-						<ol class="- topic/ol ">
-							<li class="- topic/li ">
-								<p id="d316e40" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(1)</ph> Kaspersky Lab;</p>
-							</li>
-							<li class="- topic/li ">
-								<p id="d316e45" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(2)</ph> Any successor entity to Kaspersky Lab;</p>
-							</li>
-							<li class="- topic/li ">
-								<p id="d316e50" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(3)</ph> Any entity that controls, is controlled by, or is under common control with Kaspersky Lab; or</p>
-							</li>
-							<li class="- topic/li ">
-								<p id="d316e55" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(4)</ph> Any entity of which Kaspersky Lab has a majority ownership.</p>
-							</li>
-						</ol>
-					</li>
-				</ol>
-			</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_4_2001"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">4.2001</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d316e21" class="- topic/p ">As used in this subpart—</p>
+         <p id="d316e27fcp" class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_4.2001"
+               xtrc="d313e18"
+               class="+ topic/ph hi-d/i ">Covered article</i> means any hardware, software, or service that–<ol class="- topic/ol ">
+               <li class="- topic/li ">
+                  <ol class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p id="d316e18" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Is developed or provided by a covered entity;</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d316e23" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Includes any hardware, software, or service developed or provided in whole or in part by a covered entity; or</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d316e28" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph> Contains components using any hardware or software developed in whole or in part by a covered entity.</p>
+                     </li>
+                  </ol>
+               </li>
+            </ol>
+         </p>
+         <p id="d316e54" class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_4.2001"
+               xtrc="d313e60"
+               class="+ topic/ph hi-d/i ">Covered entity</i> means–<ol class="- topic/ol ">
+               <li class="- topic/li ">
+                  <ol class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p id="d316e40" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Kaspersky Lab;</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d316e45" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Any successor entity to Kaspersky Lab;</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d316e50" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph> Any entity that controls, is controlled by, or is under common control with Kaspersky Lab; or</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d316e55" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(4)</ph> Any entity of which Kaspersky Lab has a majority ownership.</p>
+                     </li>
+                  </ol>
+               </li>
+            </ol>
+         </p>
+      </conbody>
+   </concept>
 </dita>

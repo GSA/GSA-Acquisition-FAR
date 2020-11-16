@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_15_502" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">15.502</ph> Applicability.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p id="d950e8" class="- topic/p ">This subpart applies to competitive proposals, as described in <xref href="6.102.dita#FAR_6_102" base="i1120068" outputclass="fm:ParaNumOnly" class="- topic/xref ">6.102</xref>(b), and a combination of competitive procedures, as described in <xref href="6.102.dita#FAR_6_102" base="i1120068" outputclass="fm:ParaNumOnly" class="- topic/xref ">6.102</xref>(c). The procedures in <xref href="15.504.dita#FAR_15_504" base="i1105731" outputclass="fm:ParaNumOnly" class="- topic/xref ">15.504</xref>,<xref href="15.506.dita#FAR_15_506" base="i1105784" outputclass="fm:ParaNumOnly" class="- topic/xref ">15.506</xref>,<xref href="15.507.dita#FAR_15_507" base="i1105822" outputclass="fm:ParaNumOnly" class="- topic/xref ">15.507</xref>,<xref href="15.508.dita#FAR_15_508" base="i1105834" outputclass="fm:ParaNumOnly" class="- topic/xref ">15.508</xref>, and <xref href="15.509.dita#FAR_15_509" base="i1105840" outputclass="fm:ParaNumOnly" class="- topic/xref ">15.509</xref>, with reasonable modification, should be followed for sole source acquisitions and acquisitions described in <xref href="6.102.dita#FAR_6_102" base="i1120068" outputclass="fm:ParaNumOnly" class="- topic/xref ">6.102</xref>(d)(1) and (2).</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_15_502"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">15.502</ph> Applicability.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p id="d950e8" class="- topic/p ">This subpart applies to competitive proposals, as described in <xref href="6.102.dita#FAR_6_102"
+                  base="i1120068"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">6.102</xref>(b), and a combination of competitive procedures, as described in <xref href="6.102.dita#FAR_6_102"
+                  base="i1120068"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">6.102</xref>(c). The procedures in <xref href="15.504.dita#FAR_15_504"
+                  base="i1105731"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">15.504</xref>,<xref href="15.506.dita#FAR_15_506"
+                  base="i1105784"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">15.506</xref>,<xref href="15.507.dita#FAR_15_507"
+                  base="i1105822"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">15.507</xref>,<xref href="15.508.dita#FAR_15_508"
+                  base="i1105834"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">15.508</xref>, and <xref href="15.509.dita#FAR_15_509"
+                  base="i1105840"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">15.509</xref>, with reasonable modification, should be followed for sole source acquisitions and acquisitions described in <xref href="6.102.dita#FAR_6_102"
+                  base="i1120068"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">6.102</xref>(d)(1) and (2).</p>
+      </conbody>
+   </concept>
 </dita>
