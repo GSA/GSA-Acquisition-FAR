@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_16_602" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">16.602</ph> Labor-hour contracts.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p id="d1044e8" class="- topic/p ">
-				<i class="+ topic/ph hi-d/i ">Description.</i> A labor-hour contract is a variation of the time-and-materials contract, differing only in that materials are not supplied by the contractor. See <xref href="12.207.dita#FAR_12_207" base="i1113491" outputclass="fm:ParaNumOnly" class="- topic/xref ">12.207</xref>(b),<xref href="16.601.dita#FAR_16_601" base="i1103674" outputclass="fm:ParaNumOnly" class="- topic/xref ">16.601</xref>(c), and <xref href="16.601.dita#FAR_16_601" base="i1103674" outputclass="fm:ParaNumOnly" class="- topic/xref ">16.601</xref>(d) for application and limitations, for time-and-materials contracts that also apply to labor-hour contracts. See <xref href="12.207.dita#FAR_12_207" base="i1113491" outputclass="fm:ParaNumOnly" class="- topic/xref ">12.207</xref>(b) for the use of labor-hour contracts for certain commercial services.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_16_602"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">16.602</ph> Labor-hour contracts.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p id="d1044e8" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Description.</i> A labor-hour contract is a variation of the time-and-materials contract, differing only in that materials are not supplied by the contractor. See <xref href="12.207.dita#FAR_12_207"
+                  base="i1113491"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">12.207</xref>(b),<xref href="16.601.dita#FAR_16_601"
+                  base="i1103674"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">16.601</xref>(c), and <xref href="16.601.dita#FAR_16_601"
+                  base="i1103674"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">16.601</xref>(d) for application and limitations, for time-and-materials contracts that also apply to labor-hour contracts. See <xref href="12.207.dita#FAR_12_207"
+                  base="i1113491"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">12.207</xref>(b) for the use of labor-hour contracts for certain commercial services.</p>
+      </conbody>
+   </concept>
 </dita>

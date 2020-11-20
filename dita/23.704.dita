@@ -1,92 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_23_704" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">23.704</ph> Electronic products environmental assessment tool.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1547e13" class="- topic/ol ">
-				<li props="Runin" class="- topic/li ">
-					<p id="d1563e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
-					</p>
-					<ol id="d1547e23" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1563e15" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
-								<i class="+ topic/ph hi-d/i ">General</i>. As required by E.O.s 13423 and 13514, agencies, when acquiring an electronic product to meet their requirements, shall meet at least 95 percent of those requirements with Electronic Product Environmental Assessment Tool (EPEAT®)-registered electronic products, unless-</p>
-							<ol id="d1547e36" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d1563e23" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>There is no EPEAT® standard for such product;</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1563e28" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>No EPEAT®-registered product meets agency requirements; or</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1563e33" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(iii)</ph>The agency head has provided an exemption in accordance with <xref href="23.105.dita#FAR_23_105" base="i1095032" outputclass="fm:ParaNumOnly" class="- topic/xref ">23.105</xref>.</p>
-								</li>
-							</ol>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1563e41" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>Contracting officers, when acquiring an electronic product, except as specified in paragraphs (a)(1)(i), (ii), or (iii) of this section, shall acquire an EPEAT®-registered electronic product, unless the agency determines, in accordance with agency procedures, that the EPEAT®-registered product will not be cost effective over the life of the product.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1563e46" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>This section applies to acquisitions of electronic products to be used in the United States, unless otherwise provided by agency procedures. When acquiring electronic products to be used outside the United States, agencies must use their best efforts to comply with this section.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1563e51" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
-						<i class="+ topic/ph hi-d/i ">Personal computer products, imaging equipment, and televisions</i>. These are categories of EPEAT®-registered electronic products.</p>
-					<ol id="d1547e113" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1563e59" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>The IEEE 1680.1™-2009 Standard for the Environmental Assessment of Personal Computer Products, the IEEE 1680.2™-2012 Standard for the Environmental Assessment of Imaging Equipment, and the IEEE 1680.3™-2012 Standard for the Environmental Assessment of Televisions-</p>
-							<ol id="d1547e123" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d1563e65" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>Were as issued by the Institute of Electrical and Electronics Engineers, Inc., on March 5, 2010; October 19, 2012, and October 19, 2012, respectively;</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1563e70" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>Are voluntary consensus standards consistent with section 12(d) of Pub. L. 104-113, the "National Technology Transfer and Advancement Act of 1995", (see <xref href="11.102.dita#FAR_11_102" base="i1114444" outputclass="fm:ParaNumOnly" class="- topic/xref ">11.102</xref>);</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1563e78" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(iii)</ph>Meet EPA-issued guidance on environmentally preferable products and services; and</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1563e83" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(iv)</ph>Are described in more detail at <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">https://www.epa.gov/greenerproducts/epas-recommendations-specifications-standards-and-ecolabels</xref>
-									</p>
-								</li>
-							</ol>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1563e90" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>A list of EPEAT® product categories and EPEAT®-registered electronic products that are in conformance with these standards can be found at <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">https://www.epa.gov/greenerproducts/epas-recommendations-specifications-standards-and-ecolabels</xref>.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1563e98" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>EPEAT® electronic products are designated "bronze–," "silver–," or "gold–" registered.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1563e103" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>Agencies shall, at a minimum, acquire EPEAT® bronze-registered products.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1563e108" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(5)</ph>Agencies are encouraged to acquire EPEAT® silver– or gold–registered products.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_23_704"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">23.704</ph> Electronic products environmental assessment tool.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1547e13" class="- topic/ol ">
+            <li props="Runin" class="- topic/li ">
+               <p id="d1569e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+               </p>
+               <ol id="d1547e23" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1569e15" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <i class="+ topic/ph hi-d/i ">General</i>. As required by E.O.s 13423 and 13514, agencies, when acquiring an electronic product to meet their requirements, shall meet at least 95 percent of those requirements with Electronic Product Environmental Assessment Tool (EPEAT®)-registered electronic products, unless-</p>
+                     <ol id="d1547e36" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d1569e23" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+										                    There is no EPEAT® standard for such product;</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1569e28" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+										                    No EPEAT®-registered product meets agency requirements; or</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1569e33" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+										                    The agency head has provided an exemption in accordance with <xref href="23.105.dita#FAR_23_105"
+                                    base="i1095032"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">23.105</xref>.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1569e41" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                Contracting officers, when acquiring an electronic product, except as specified in paragraphs (a)(1)(i), (ii), or (iii) of this section, shall acquire an EPEAT®-registered electronic product, unless the agency determines, in accordance with agency procedures, that the EPEAT®-registered product will not be cost effective over the life of the product.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1569e46" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                This section applies to acquisitions of electronic products to be used in the United States, unless otherwise provided by agency procedures. When acquiring electronic products to be used outside the United States, agencies must use their best efforts to comply with this section.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1569e51" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Personal computer products, imaging equipment, and televisions</i>. These are categories of EPEAT®-registered electronic products.</p>
+               <ol id="d1547e113" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1569e59" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                The IEEE 1680.1™-2009 Standard for the Environmental Assessment of Personal Computer Products, the IEEE 1680.2™-2012 Standard for the Environmental Assessment of Imaging Equipment, and the IEEE 1680.3™-2012 Standard for the Environmental Assessment of Televisions-</p>
+                     <ol id="d1547e123" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d1569e65" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+										                    Were as issued by the Institute of Electrical and Electronics Engineers, Inc., on March 5, 2010; October 19, 2012, and October 19, 2012, respectively;</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1569e70" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+										                    Are voluntary consensus standards consistent with section 12(d) of Pub. L. 104-113, the "National Technology Transfer and Advancement Act of 1995", (see <xref href="11.102.dita#FAR_11_102"
+                                    base="i1114444"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">11.102</xref>);</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1569e78" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+										                    Meet EPA-issued guidance on environmentally preferable products and services; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1569e83" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+										                    Are described in more detail at <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://www.epa.gov/greenerproducts/epas-recommendations-specifications-standards-and-ecolabels</xref>
+                           </p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1569e90" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                A list of EPEAT® product categories and EPEAT®-registered electronic products that are in conformance with these standards can be found at <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">https://www.epa.gov/greenerproducts/epas-recommendations-specifications-standards-and-ecolabels</xref>.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1569e98" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                EPEAT® electronic products are designated "bronze–," "silver–," or "gold–" registered.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1569e103" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+								                Agencies shall, at a minimum, acquire EPEAT® bronze-registered products.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1569e108" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+								                Agencies are encouraged to acquire EPEAT® silver– or gold–registered products.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

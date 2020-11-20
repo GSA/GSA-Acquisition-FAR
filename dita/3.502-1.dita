@@ -1,39 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_3_502_1" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">3.502-1</ph> Definitions.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p class="- topic/p ">As used in this section—</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.502-1" xtrc="d119e18" class="+ topic/ph hi-d/i ">Kickback</i> means any money, fee, commission, credit, gift, gratuity, thing of value, or compensation of any kind which is provided to any prime contractor, prime contractor employee, subcontractor, or subcontractor employee for the purpose of improperly obtaining or rewarding favorable treatment in connection with a prime contract or in connection with a subcontract relating to a prime contract.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.502-1" xtrc="d119e24" class="+ topic/ph hi-d/i ">Person</i> means a corporation, partnership, business association of any kind, trust, joint-stock company, or individual.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.502-1" xtrc="d119e30" class="+ topic/ph hi-d/i ">Prime contract</i> means a contract or contractual action entered into by the United States for the purpose of obtaining supplies, materials, equipment, or services of any kind.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.502-1" xtrc="d119e36" class="+ topic/ph hi-d/i ">Prime Contractor</i> means a person who has entered into a prime contractor with the United States.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.502-1" xtrc="d119e43" class="+ topic/ph hi-d/i ">Prime Contractor employee</i>, as used in this section, means any officer, partner, employee, or agent of a prime contractor.</p>
-			<p id="d122e30" class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.502-1" xtrc="d119e49" class="+ topic/ph hi-d/i ">Subcontract</i> means a contract or contractual action entered into by a prime contractor or subcontractor for the purpose of obtaining supplies, materials, equipment, or services of any kind under a prime contract.</p>
-			<p id="d122e42" class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.502-1" xtrc="d119e58" class="+ topic/ph hi-d/i ">Subcontractor</i>—<ol class="- topic/ol ">
-					<li class="- topic/li ">
-						<ol class="- topic/ol ">
-							<li class="- topic/li ">
-								<p id="d122e43" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(1)</ph> Means any person, other than the prime contractor, who offers to furnish or furnishes any supplies, materials, equipment, or services of any kind under a prime contract or a subcontract entered into in connection with such prime contract; and </p>
-							</li>
-							<li class="- topic/li ">
-								<p id="d122e47" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(2)</ph> Includes any person who offers to furnish or furnishes general supplies to the prime contractor or a higher tier subcontractor.</p>
-							</li>
-						</ol>
-					</li>
-				</ol>
-			</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_3_502_1"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">3.502-1</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this section—</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.502-1"
+               xtrc="d119e18"
+               class="+ topic/ph hi-d/i ">Kickback</i> means any money, fee, commission, credit, gift, gratuity, thing of value, or compensation of any kind which is provided to any prime contractor, prime contractor employee, subcontractor, or subcontractor employee for the purpose of improperly obtaining or rewarding favorable treatment in connection with a prime contract or in connection with a subcontract relating to a prime contract.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.502-1"
+               xtrc="d119e24"
+               class="+ topic/ph hi-d/i ">Person</i> means a corporation, partnership, business association of any kind, trust, joint-stock company, or individual.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.502-1"
+               xtrc="d119e30"
+               class="+ topic/ph hi-d/i ">Prime contract</i> means a contract or contractual action entered into by the United States for the purpose of obtaining supplies, materials, equipment, or services of any kind.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.502-1"
+               xtrc="d119e36"
+               class="+ topic/ph hi-d/i ">Prime Contractor</i> means a person who has entered into a prime contractor with the United States.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.502-1"
+               xtrc="d119e43"
+               class="+ topic/ph hi-d/i ">Prime Contractor employee</i>, as used in this section, means any officer, partner, employee, or agent of a prime contractor.</p>
+         <p id="d122e30" class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.502-1"
+               xtrc="d119e49"
+               class="+ topic/ph hi-d/i ">Subcontract</i> means a contract or contractual action entered into by a prime contractor or subcontractor for the purpose of obtaining supplies, materials, equipment, or services of any kind under a prime contract.</p>
+         <p id="d122e43" class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.502-1"
+               xtrc="d119e58"
+               class="+ topic/ph hi-d/i ">Subcontractor</i>—<ol class="- topic/ol ">
+               <li class="- topic/li ">
+                  <ol class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p id="d122e42" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Means any person, other than the prime contractor, who offers to furnish or furnishes any supplies, materials, equipment, or services of any kind under a prime contract or a subcontract entered into in connection with such prime contract; and </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d122e47" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Includes any person who offers to furnish or furnishes general supplies to the prime contractor or a higher tier subcontractor.</p>
+                     </li>
+                  </ol>
+               </li>
+            </ol>
+         </p>
+      </conbody>
+   </concept>
 </dita>

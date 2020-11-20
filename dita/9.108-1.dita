@@ -1,29 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_9_108_1" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">9.108-1</ph> Definitions.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p class="- topic/p ">As used in this section-</p>
-			<p id="d551e16" class="- topic/p ">
-				<i outputclass="Term" xtrf="_9.108-1" xtrc="d560e18" class="+ topic/ph hi-d/i ">Inverted domestic corporation</i> means a foreign incorporated entity that	meets the definition of an inverted domestic corporation under <xref href="http://uscode.house.gov/" scope="external" class="- topic/xref " format="html">6 U.S.C. 395(b)</xref>, applied in accordance with the rules and	definitions of <xref href="http://uscode.house.gov/" scope="external" class="- topic/xref " format="html">6 U.S.C. 395(c)</xref>.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_9.108-1" xtrc="d560e30" class="+ topic/ph hi-d/i ">Subsidiary</i> means an entity in which more than 50 percent of the entity is owned-<ol id="d548e28" class="- topic/ol ">
-					<li class="- topic/li ">
-						<ol id="d548e32" class="- topic/ol ">
-							<li class="- topic/li ">
-								<p id="d563e28" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(1)</ph> Directly by a parent corporation; or</p>
-							</li>
-							<li class="- topic/li ">
-								<p id="d563e33" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(2)</ph> Through another subsidiary of a parent corporation.</p>
-							</li>
-						</ol>
-					</li>
-				</ol>
-			</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_9_108_1"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">9.108-1</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this section-</p>
+         <p id="d551e16" class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_9.108-1"
+               xtrc="d560e18"
+               class="+ topic/ph hi-d/i ">Inverted domestic corporation</i> means a foreign incorporated entity that	meets the definition of an inverted domestic corporation under <xref href="http://uscode.house.gov/"
+                  scope="external"
+                  class="- topic/xref "
+                  format="html">6 U.S.C. 395(b)</xref>, applied in accordance with the rules and	definitions of <xref href="http://uscode.house.gov/"
+                  scope="external"
+                  class="- topic/xref "
+                  format="html">6 U.S.C. 395(c)</xref>.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_9.108-1"
+               xtrc="d560e30"
+               class="+ topic/ph hi-d/i ">Subsidiary</i> means an entity in which more than 50 percent of the entity is owned-<ol id="d548e28" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <ol id="d548e32" class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p id="d563e28" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Directly by a parent corporation; or</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d563e33" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Through another subsidiary of a parent corporation.</p>
+                     </li>
+                  </ol>
+               </li>
+            </ol>
+         </p>
+      </conbody>
+   </concept>
 </dita>

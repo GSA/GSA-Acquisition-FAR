@@ -1,321 +1,427 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_25_002" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">25.002</ph> Applicability of subparts.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p id="d1620e8" class="- topic/p ">The following table shows the applicability of the subparts. <xref href="Subpart_25.5.dita#FAR_Subpart_25_5" base="i1091551" outputclass="fm:Subpart" class="- topic/xref ">subpart  25.5</xref> provides comprehensive procedures for offer evaluation and examples.</p>
-			<table frame="all" colsep="1" rowsep="1" class="- topic/table ">
-				<tgroup cols="7" colsep="1" rowsep="1" outputclass="Notitle_rule" class="- topic/tgroup ">
-					<colspec colnum="1" colname="1" colwidth="34*" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="2" colname="2" colwidth="11*" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="3" colname="3" colwidth="11*" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="4" colname="4" colwidth="11*" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="5" colname="5" colwidth="11*" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="6" colname="6" colwidth="11*" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="7" colname="7" colwidth="11*" class="- topic/colspec " rowheader="headers"/>
-					<thead class="- topic/thead ">
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" class="- topic/entry ">
-								<p id="d1604e47" class="- topic/p ">
-									<term class="- topic/term ">Subpart</term>
-								</p>
-							</entry>
-							<entry namest="2" nameend="3" class="- topic/entry ">
-								<p id="d1604e56" class="- topic/p ">
-									<term class="- topic/term ">Supplies For Use</term>
-								</p>
-							</entry>
-							<entry namest="4" nameend="5" class="- topic/entry ">
-								<p id="d1604e65" class="- topic/p ">
-									<term class="- topic/term ">Construction</term>
-								</p>
-							</entry>
-							<entry namest="6" nameend="7" class="- topic/entry ">
-								<p id="d1604e74" class="- topic/p ">
-									<term class="- topic/term ">Services Performed</term>
-								</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" class="- topic/entry "/>
-							<entry colname="2" class="- topic/entry ">
-								<p id="d1604e88" class="- topic/p ">
-									<term class="- topic/term ">Inside U.S.</term>
-								</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p id="d1604e97" class="- topic/p ">
-									<term class="- topic/term ">Outside U.S.</term>
-								</p>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p id="d1604e106" class="- topic/p ">
-									<term class="- topic/term ">Inside U.S.</term>
-								</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p id="d1604e115" class="- topic/p ">
-									<term class="- topic/term ">Outside U.S.</term>
-								</p>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p id="d1604e125" class="- topic/p ">
-									<term class="- topic/term ">Inside U.S</term>.</p>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p id="d1604e134" class="- topic/p ">
-									<term class="- topic/term ">Outside U.S</term>.</p>
-							</entry>
-						</row>
-					</thead>
-					<tbody class="- topic/tbody ">
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" outputclass="CellBody_Hanging_FL" xtrc="Hanging_FL" class="- topic/entry ">
-								<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1093494" href="Subpart_25.1.dita#FAR_Subpart_25_1">25.1</xref> Buy American- Supplies</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" outputclass="CellBody_Hanging_FL" xtrc="Hanging_FL" class="- topic/entry ">
-								<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1093050" href="Subpart_25.2.dita#FAR_Subpart_25_2">25.2</xref> Buy American- Construction Materials</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" outputclass="CellBody_Hanging_FL" xtrc="Hanging_FL" class="- topic/entry ">
-								<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id1617MA0807B" href="Subpart_25.3.dita#FAR_Subpart_25_3">25.3</xref> Contracts Performed Outside the United States</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" outputclass="CellBody_Hanging_FL" xtrc="Hanging_FL" class="- topic/entry ">
-								<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1092400" href="Subpart_25.4.dita#FAR_Subpart_25_4">25.4</xref> Trade Agreements</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" outputclass="CellBody_Hanging_FL" xtrc="Hanging_FL" class="- topic/entry ">
-								<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1091551" href="Subpart_25.5.dita#FAR_Subpart_25_5">25.5</xref> Evaluating Foreign Offers- Supply Contracts</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" outputclass="CellBody_Hanging_FL" xtrc="Hanging_FL" class="- topic/entry ">
-								<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1091369" href="Subpart_25.6.dita#FAR_Subpart_25_6">25.6</xref> American Recovery and Reinvestment Act-Buy American statute-Construction Materials</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p "/>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p "/>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p "/>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p "/>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p "/>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" outputclass="CellBody_Hanging_FL" xtrc="Hanging_FL" class="- topic/entry ">
-								<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1091171" href="Subpart_25.7.dita#FAR_Subpart_25_7">25.7</xref> Prohibited Sources</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" outputclass="CellBody_Hanging_FL" xtrc="Hanging_FL" class="- topic/entry ">
-								<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id1617MA080RG" href="Subpart_25.8.dita#FAR_Subpart_25_8">25.8</xref> Other International Agreements and Coordination</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" outputclass="CellBody_Hanging_FL" xtrc="Hanging_FL" class="- topic/entry ">
-								<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id1617MA080D9" href="Subpart_25.9.dita#FAR_Subpart_25_9">25.9</xref> Customs and Duties</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">-</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" outputclass="CellBody_Hanging_FL" xtrc="Hanging_FL" class="- topic/entry ">
-								<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id1617MA080O6" href="Subpart_25.10.dita#FAR_Subpart_25_10">25.10</xref> Additional Foreign Acquisition Regulations</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-						</row>
-						<row rowsep="0" class="- topic/row ">
-							<entry colname="1" outputclass="CellBody_Hanging_FL" xtrc="Hanging_FL" class="- topic/entry ">
-								<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id1617MA080OC" href="Subpart_25.11.dita#FAR_Subpart_25_11">25.11</xref> Solicitation Provisions and Contract Clauses</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="4" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="5" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="6" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-							<entry colname="7" class="- topic/entry ">
-								<p outputclass="Ctr" class="- topic/p ">X</p>
-							</entry>
-						</row>
-					</tbody>
-				</tgroup>
-			</table>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_25_002"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">25.002</ph> Applicability of subparts.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p id="d1620e8" class="- topic/p ">The following table shows the applicability of the subparts. <xref href="Subpart_25.5.dita#FAR_Subpart_25_5"
+                  base="i1091551"
+                  outputclass="fm:Subpart"
+                  class="- topic/xref ">subpart  25.5</xref> provides comprehensive procedures for offer evaluation and examples.</p>
+         <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
+            <tgroup cols="7"
+                    colsep="1"
+                    rowsep="1"
+                    outputclass="Notitle_rule"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="34*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <thead class="- topic/thead ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p id="d1604e47" class="- topic/p ">
+                           <term class="- topic/term ">Subpart</term>
+                        </p>
+                     </entry>
+                     <entry namest="2" nameend="3" class="- topic/entry ">
+                        <p id="d1604e56" class="- topic/p ">
+                           <term class="- topic/term ">Supplies For Use</term>
+                        </p>
+                     </entry>
+                     <entry namest="4" nameend="5" class="- topic/entry ">
+                        <p id="d1604e65" class="- topic/p ">
+                           <term class="- topic/term ">Construction</term>
+                        </p>
+                     </entry>
+                     <entry namest="6" nameend="7" class="- topic/entry ">
+                        <p id="d1604e74" class="- topic/p ">
+                           <term class="- topic/term ">Services Performed</term>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "/>
+                     <entry colname="2" class="- topic/entry ">
+                        <p id="d1604e88" class="- topic/p ">
+                           <term class="- topic/term ">Inside U.S.</term>
+                        </p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p id="d1604e97" class="- topic/p ">
+                           <term class="- topic/term ">Outside U.S.</term>
+                        </p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p id="d1604e106" class="- topic/p ">
+                           <term class="- topic/term ">Inside U.S.</term>
+                        </p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p id="d1604e115" class="- topic/p ">
+                           <term class="- topic/term ">Outside U.S.</term>
+                        </p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p id="d1604e125" class="- topic/p ">
+                           <term class="- topic/term ">Inside U.S</term>.</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p id="d1604e134" class="- topic/p ">
+                           <term class="- topic/term ">Outside U.S</term>.</p>
+                     </entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_Hanging_FL"
+                            xtrc="Hanging_FL"
+                            class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="i1093494"
+                              href="Subpart_25.1.dita#FAR_Subpart_25_1">25.1</xref> Buy American- Supplies</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_Hanging_FL"
+                            xtrc="Hanging_FL"
+                            class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="i1093050"
+                              href="Subpart_25.2.dita#FAR_Subpart_25_2">25.2</xref> Buy American- Construction Materials</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_Hanging_FL"
+                            xtrc="Hanging_FL"
+                            class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="id1617MA0807B"
+                              href="Subpart_25.3.dita#FAR_Subpart_25_3">25.3</xref> Contracts Performed Outside the United States</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_Hanging_FL"
+                            xtrc="Hanging_FL"
+                            class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="i1092400"
+                              href="Subpart_25.4.dita#FAR_Subpart_25_4">25.4</xref> Trade Agreements</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_Hanging_FL"
+                            xtrc="Hanging_FL"
+                            class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="i1091551"
+                              href="Subpart_25.5.dita#FAR_Subpart_25_5">25.5</xref> Evaluating Foreign Offers- Supply Contracts</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_Hanging_FL"
+                            xtrc="Hanging_FL"
+                            class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="i1091369"
+                              href="Subpart_25.6.dita#FAR_Subpart_25_6">25.6</xref> American Recovery and Reinvestment Act-Buy American statute-Construction Materials</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_Hanging_FL"
+                            xtrc="Hanging_FL"
+                            class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="i1091171"
+                              href="Subpart_25.7.dita#FAR_Subpart_25_7">25.7</xref> Prohibited Sources</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_Hanging_FL"
+                            xtrc="Hanging_FL"
+                            class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="id1617MA080RG"
+                              href="Subpart_25.8.dita#FAR_Subpart_25_8">25.8</xref> Other International Agreements and Coordination</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_Hanging_FL"
+                            xtrc="Hanging_FL"
+                            class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="id1617MA080D9"
+                              href="Subpart_25.9.dita#FAR_Subpart_25_9">25.9</xref> Customs and Duties</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">-</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_Hanging_FL"
+                            xtrc="Hanging_FL"
+                            class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="id1617MA080O6"
+                              href="Subpart_25.10.dita#FAR_Subpart_25_10">25.10</xref> Additional Foreign Acquisition Regulations</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_Hanging_FL"
+                            xtrc="Hanging_FL"
+                            class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="id1617MA080OC"
+                              href="Subpart_25.11.dita#FAR_Subpart_25_11">25.11</xref> Solicitation Provisions and Contract Clauses</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">X</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
 </dita>

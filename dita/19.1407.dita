@@ -1,55 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_19_1407" domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    " ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">19.1407</ph> Limitations on subcontracting	and nonmanufacturer rule.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<ol class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1274e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
-						<i class="+ topic/ph hi-d/i ">Limitations	on subcontracting.</i> To be awarded a contract or order under this	subpart, the SDVOSB concern is required to—</p>
-					<ol class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1274e18" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>For services	(except construction), spend at least 50 percent of the cost incurred	for personnel on its own employees or the employees of other SDVOSBs;</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1274e23" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>For supplies	or products (other than a procurement from a nonmanufacturer of	such supplies or products), spend at least 50 percent of the cost	of manufacturing the supplies or products (not including the cost	of materials) on itself or by other SDVOSBs;</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1274e28" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>For general	construction, spend at least 15 percent of the cost (not including	the cost of materials) incurred for personnel on its own employees	or the employees of other SDVOSBs; or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1274e33" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>For construction	by special trade contractors, spend at least 25 percent of the cost	(not including the cost of materials) incurred for personnel on	its own employees or the employees of other SDVOSBs.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1274e38" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
-						<i class="+ topic/ph hi-d/i ">Compliance	period.</i> An SDVOSB contractor is required to comply with the	limitations on subcontracting—</p>
-					<ol class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1274e46" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>For a contract that has been set	aside or awarded on a sole source basis to an SDVOSB concern, either	by the end of the base term and then by the end of each subsequent	option period or by the end of the performance period for each order	issued under the contract, at the contracting officer's discretion;	and</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1274e51" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>For an order	set aside for SDVOSB contractors as described in <xref href="8.405-5.dita#FAR_8_405_5" base="i1117805" outputclass="fm:ParaNumOnly" class="- topic/xref ">8.405-5</xref> and <xref href="16.505.dita#FAR_16_505" base="i1104008" outputclass="fm:ParaNumOnly" class="- topic/xref ">16.505</xref>(b)(2)(i)(F) or	for an order issued directly to an SDVOSB contractor in accordance	with <xref href="19.504.dita#FAR_19_504" base="id203CEK0I0HS" outputclass="fm:ParaNumOnly" class="- topic/xref ">19.504</xref>(c)(1)(ii), by the	end of the performance period for the order.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1274e65" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
-						<i class="+ topic/ph hi-d/i ">Nonmanufacturer	rule.</i> See <xref href="19.505.dita#FAR_19_505" base="id203CGK00TBF" outputclass="fm:ParaNumOnly" class="- topic/xref ">19.505</xref>(c)	for application of the nonmanufacturer rule, inclusive of waivers	and exceptions to the nonmanufacturer rule.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_19_1407"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">19.1407</ph> Limitations on subcontracting	and nonmanufacturer rule.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1280e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Limitations	on subcontracting.</i> To be awarded a contract or order under this	subpart, the SDVOSB concern is required to—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1280e18" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>For services	(except construction), spend at least 50 percent of the cost incurred	for personnel on its own employees or the employees of other SDVOSBs;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1280e23" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>For supplies	or products (other than a procurement from a nonmanufacturer of	such supplies or products), spend at least 50 percent of the cost	of manufacturing the supplies or products (not including the cost	of materials) on itself or by other SDVOSBs;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1280e28" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>For general	construction, spend at least 15 percent of the cost (not including	the cost of materials) incurred for personnel on its own employees	or the employees of other SDVOSBs; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1280e33" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>For construction	by special trade contractors, spend at least 25 percent of the cost	(not including the cost of materials) incurred for personnel on	its own employees or the employees of other SDVOSBs.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1280e38" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Compliance	period.</i> An SDVOSB contractor is required to comply with the	limitations on subcontracting—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1280e46" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>For a contract that has been set	aside or awarded on a sole source basis to an SDVOSB concern, either	by the end of the base term and then by the end of each subsequent	option period or by the end of the performance period for each order	issued under the contract, at the contracting officer's discretion;	and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1280e51" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>For an order	set aside for SDVOSB contractors as described in <xref href="8.405-5.dita#FAR_8_405_5"
+                              base="i1117805"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">8.405-5</xref> and <xref href="16.505.dita#FAR_16_505"
+                              base="i1104008"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">16.505</xref>(b)(2)(i)(F) or	for an order issued directly to an SDVOSB contractor in accordance	with <xref href="19.504.dita#FAR_19_504"
+                              base="id203CEK0I0HS"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">19.504</xref>(c)(1)(ii), by the	end of the performance period for the order.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1280e65" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Nonmanufacturer	rule.</i> See <xref href="19.505.dita#FAR_19_505"
+                        base="id203CGK00TBF"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">19.505</xref>(c)	for application of the nonmanufacturer rule, inclusive of waivers	and exceptions to the nonmanufacturer rule.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

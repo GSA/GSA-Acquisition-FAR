@@ -1,29 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_8_1101" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">8.1101</ph> Definitions.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p class="- topic/p ">As used in this subpart-</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_8.1101" xtrc="d530e18" class="+ topic/ph hi-d/i ">Leasing</i> means the acquisition of motor vehicles, other than by purchase from private or commercial sources, and includes the synonyms "hire" and "rent."</p>
-			<p id="id193QE0110SX" class="- topic/p ">
-				<i outputclass="Term" xtrf="_8.1101" xtrc="d530e24" class="+ topic/ph hi-d/i ">Motor vehicle</i> means an item of equipment, mounted on wheels and designed for highway and/or land use, that-<ol id="d518e22" class="- topic/ol ">
-					<li class="- topic/li ">
-						<ol id="d518e26" class="- topic/ol ">
-							<li class="- topic/li ">
-								<p id="d533e22" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(1)</ph> Derives power from a self-contained power unit; or</p>
-							</li>
-							<li class="- topic/li ">
-								<p id="d533e27" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(2)</ph> Is designed to be towed by and used in conjunction with self-propelled equipment.</p>
-							</li>
-						</ol>
-					</li>
-				</ol>
-			</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_8_1101"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">8.1101</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this subpart-</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_8.1101"
+               xtrc="d530e18"
+               class="+ topic/ph hi-d/i ">Leasing</i> means the acquisition of motor vehicles, other than by purchase from private or commercial sources, and includes the synonyms "hire" and "rent."</p>
+         <p id="id193QE0110SX" class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_8.1101"
+               xtrc="d530e24"
+               class="+ topic/ph hi-d/i ">Motor vehicle</i> means an item of equipment, mounted on wheels and designed for highway and/or land use, that-<ol id="d518e22" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <ol id="d518e26" class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p id="d533e22" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Derives power from a self-contained power unit; or</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d533e27" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Is designed to be towed by and used in conjunction with self-propelled equipment.</p>
+                     </li>
+                  </ol>
+               </li>
+            </ol>
+         </p>
+      </conbody>
+   </concept>
 </dita>

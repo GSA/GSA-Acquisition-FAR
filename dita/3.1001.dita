@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_3_1001" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">3.1001</ph> Definitions.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p class="- topic/p ">As used in this subpart-</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.1001" xtrc="d178e18" class="+ topic/ph hi-d/i ">Subcontract</i> means any contract entered into by a subcontractor to furnish supplies or services for performance of a prime contract or a subcontract.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.1001" xtrc="d178e24" class="+ topic/ph hi-d/i ">Subcontractor</i> means any supplier, distributor, vendor, or firm that furnished supplies or services to or for a prime contractor or another subcontractor.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.1001" xtrc="d178e30" class="+ topic/ph hi-d/i ">United States</i> means the 50 States, the District of Columbia, and outlying areas.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_3_1001"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">3.1001</ph> Definitions.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p class="- topic/p ">As used in this subpart-</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.1001"
+               xtrc="d178e18"
+               class="+ topic/ph hi-d/i ">Subcontract</i> means any contract entered into by a subcontractor to furnish supplies or services for performance of a prime contract or a subcontract.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.1001"
+               xtrc="d178e24"
+               class="+ topic/ph hi-d/i ">Subcontractor</i> means any supplier, distributor, vendor, or firm that furnished supplies or services to or for a prime contractor or another subcontractor.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.1001"
+               xtrc="d178e30"
+               class="+ topic/ph hi-d/i ">United States</i> means the 50 States, the District of Columbia, and outlying areas.</p>
+      </conbody>
+   </concept>
 </dita>

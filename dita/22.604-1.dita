@@ -1,29 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_22_604_1" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">22.604-1</ph> Statutory exemptions.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p class="- topic/p ">Contracts for acquisition of the following supplies are exempt from the statute:</p>
-			<ol id="d1337e16" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1367e12" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>Any item in those situations where the contracting officer is authorized by the express language of a statute to purchase "in the open market" generally (such as commercial items, see <xref href="Part_12.dita#FAR_Part_12" base="i1113784" outputclass="fm:Part" class="- topic/xref ">part  12</xref>); or where a specific purchase is made under the conditions described in <xref href="6.302-2.dita#FAR_6_302_2" base="i1119539" outputclass="fm:ParaNumOnly" class="- topic/xref ">6.302-2</xref> in circumstances where immediate delivery is required by the public exigency.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1367e23" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>Perishables, including dairy, livestock, and nursery products.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1367e28" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>Agricultural or farm products processed for first sale by the original producers.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1367e33" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph>Agricultural commodities or the products thereof purchased under contract by the Secretary of Agriculture.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_22_604_1"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">22.604-1</ph> Statutory exemptions.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p class="- topic/p ">Contracts for acquisition of the following supplies are exempt from the statute:</p>
+         <ol id="d1337e16" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1373e12" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            Any item in those situations where the contracting officer is authorized by the express language of a statute to purchase "in the open market" generally (such as commercial items, see <xref href="Part_12.dita#FAR_Part_12"
+                        base="i1113784"
+                        outputclass="fm:Part"
+                        class="- topic/xref ">part  12</xref>); or where a specific purchase is made under the conditions described in <xref href="6.302-2.dita#FAR_6_302_2"
+                        base="i1119539"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">6.302-2</xref> in circumstances where immediate delivery is required by the public exigency.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1373e23" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            Perishables, including dairy, livestock, and nursery products.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1373e28" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            Agricultural or farm products processed for first sale by the original producers.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1373e33" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            Agricultural commodities or the products thereof purchased under contract by the Secretary of Agriculture.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

@@ -1,54 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_17_701" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">17.701</ph> Definitions.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p class="- topic/p ">As used in this subpart-</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_17.701" xtrc="d1100e18" class="+ topic/ph hi-d/i ">Department of Defense (DoD) acquisition official</i> means- <ol id="d1081e19" class="- topic/ol ">
-					<li class="- topic/li ">
-						<ol id="d1081e23" class="- topic/ol ">
-							<li class="- topic/li ">
-								<p id="d1103e18" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(1)</ph> A DoD contracting officer; or</p>
-							</li>
-							<li class="- topic/li ">
-								<p id="d1103e23" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(2)</ph> Any other DoD official authorized to approve a direct acquisition or an assisted acquisition on behalf of DoD.</p>
-								<p id="d1103e27" class="- topic/p ">
-									<i outputclass="Term" xtrf="_17.701" xtrc="d1100e47" class="+ topic/ph hi-d/i ">Nondefense agency</i> means any department or agency of the Federal Government other than the Department of Defense.</p>
-								<p id="d1103e31" class="- topic/p ">
-									<i outputclass="Term" xtrf="_17.701" xtrc="d1100e53" class="+ topic/ph hi-d/i ">Nondefense agency that is an element of the intelligence community</i> means the agencies identified in 50 U.S.C. 401a(4) which include the- <ul id="d1081e50" class="- topic/ul ">
-										<li class="- topic/li ">
-											<p id="d1103e37" class="- topic/p ">(1) Office of the Director of National Intelligence;</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1103e40" class="- topic/p ">(2) Central Intelligence Agency;</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1103e43" class="- topic/p ">(3) Intelligence elements of the Federal Bureau of Investigation, Department of Energy, and Drug Enforcement Agency;</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1103e46" class="- topic/p ">(4) Bureau of Intelligence and Research of the Department of State;</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1103e49" class="- topic/p ">(5) Office of Intelligence and Analysis of the Department of the Treasury;</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1103e52" class="- topic/p ">(6) The Office of Intelligence and Analysis of the Department of Homeland Security and the Office of Intelligence of the Coast Guard; and</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1103e55" class="- topic/p ">(7) Such other elements of any department or agency as have been designated by the President, or designated jointly by the Director of National Intelligence and the head of the department or agency concerned, as an element of the intelligence community.</p>
-										</li>
-									</ul>
-								</p>
-							</li>
-						</ol>
-					</li>
-				</ol>
-			</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_17_701"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">17.701</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this subpart-</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_17.701"
+               xtrc="d1100e18"
+               class="+ topic/ph hi-d/i ">Department of Defense (DoD) acquisition official</i> means- <ol id="d1081e19" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <ol id="d1081e23" class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p id="d1109e18" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> A DoD contracting officer; or</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d1109e23" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Any other DoD official authorized to approve a direct acquisition or an assisted acquisition on behalf of DoD.</p>
+                        <p id="d1109e27" class="- topic/p ">
+                           <i outputclass="Term"
+                              xtrf="_17.701"
+                              xtrc="d1100e47"
+                              class="+ topic/ph hi-d/i ">Nondefense agency</i> means any department or agency of the Federal Government other than the Department of Defense.</p>
+                        <p id="d1109e31" class="- topic/p ">
+                           <i outputclass="Term"
+                              xtrf="_17.701"
+                              xtrc="d1100e53"
+                              class="+ topic/ph hi-d/i ">Nondefense agency that is an element of the intelligence community</i> means the agencies identified in 50 U.S.C. 401a(4) which include the- <ul id="d1081e50" class="- topic/ul ">
+                              <li class="- topic/li ">
+                                 <p id="d1109e37" class="- topic/p ">(1) Office of the Director of National Intelligence;</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1109e40" class="- topic/p ">(2) Central Intelligence Agency;</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1109e43" class="- topic/p ">(3) Intelligence elements of the Federal Bureau of Investigation, Department of Energy, and Drug Enforcement Agency;</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1109e46" class="- topic/p ">(4) Bureau of Intelligence and Research of the Department of State;</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1109e49" class="- topic/p ">(5) Office of Intelligence and Analysis of the Department of the Treasury;</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1109e52" class="- topic/p ">(6) The Office of Intelligence and Analysis of the Department of Homeland Security and the Office of Intelligence of the Coast Guard; and</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1109e55" class="- topic/p ">(7) Such other elements of any department or agency as have been designated by the President, or designated jointly by the Director of National Intelligence and the head of the department or agency concerned, as an element of the intelligence community.</p>
+                              </li>
+                           </ul>
+                        </p>
+                     </li>
+                  </ol>
+               </li>
+            </ol>
+         </p>
+      </conbody>
+   </concept>
 </dita>

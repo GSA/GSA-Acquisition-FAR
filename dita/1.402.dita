@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_1_402" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">1.402</ph> Policy.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p id="d40e8" class="- topic/p ">Unless precluded by law, executive order, or regulation, deviations from the FAR may be granted as specified in this subpart when necessary to meet the specific needs and requirements of each agency. The development and testing of new techniques and methods of acquisition should not be stifled simply because such action would require a FAR deviation. The fact that deviation authority is required should not, of itself, deter agencies in their development and testing of new techniques and acquisition methods. Refer to <xref href="31.101.dita#FAR_31_101" base="i1086063" outputclass="fm:ParaNumOnly" class="- topic/xref ">31.101</xref> for instructions concerning deviations pertaining to the subject matter of <xref href="Part_31.dita#FAR_Part_31" base="i1086363" outputclass="fm:Part" class="- topic/xref ">part  31</xref>, Contract Cost Principles and Procedures. Deviations are not authorized with respect to <xref href="30.201-3.dita#FAR_30_201_3" base="i1087121" outputclass="fm:ParaNumOnly" class="- topic/xref ">30.201-3</xref> and <xref href="30.201-4.dita#FAR_30_201_4" base="i1087135" outputclass="fm:ParaNumOnly" class="- topic/xref ">30.201-4</xref>, or the requirements of the Cost Accounting Standards Board (CASB) rules and regulations ( <ph outputclass="CFR" class="- topic/ph ">48 CFR Chapter 99 </ph>(FAR Appendix)). Refer to <xref href="30.201-5.dita#FAR_30_201_5" base="i1087182" outputclass="fm:ParaNumOnly" class="- topic/xref ">30.201-5</xref> for instructions concerning waivers pertaining to Cost Accounting Standards.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="FAR_1_402"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1.402</ph> Policy.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d40e8" class="- topic/p ">Unless precluded by law, executive order,
+or regulation, deviations from the FAR may be granted as specified
+in this subpart when necessary to meet the specific needs and requirements
+of each agency. The development and testing of new techniques and
+methods of acquisition should not be stifled simply because such
+action would require a FAR deviation. The fact that deviation authority
+is required should not, of itself, deter agencies in their development
+and testing of new techniques and acquisition methods. Refer to <xref href="31.101.dita#FAR_31_101"
+                  base="i1086063"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">31.101</xref> for instructions
+concerning deviations pertaining to the subject matter of <xref href="Part_31.dita#FAR_Part_31"
+                  base="i1086363"
+                  outputclass="fm:Part"
+                  class="- topic/xref ">part  31</xref>, Contract Cost
+Principles and Procedures. Deviations are not authorized with respect
+to <xref href="30.201-3.dita#FAR_30_201_3"
+                  base="i1087121"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">30.201-3</xref> and <xref href="30.201-4.dita#FAR_30_201_4"
+                  base="i1087135"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">30.201-4</xref>, or the requirements
+of the Cost Accounting Standards Board (CASB) rules and regulations
+(<ph rev="FAC 2020-02 November 23, 2020" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2020-003?>48 CFR chapter 99<?FM MARKER [Why] Amend section 1.402 by removing “Chapter 99 (FAR Appendix)” and adding “chapter 99” in its place.?></ph>).
+Refer to <xref href="30.201-5.dita#FAR_30_201_5"
+                  base="i1087182"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">30.201-5</xref> for instructions
+concerning waivers pertaining to Cost Accounting Standards.</p>
+      </conbody>
+   </concept>
 </dita>

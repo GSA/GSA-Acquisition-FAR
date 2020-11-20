@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_3_401" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">3.401</ph> Definitions.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p class="- topic/p ">As used in this subpart-</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.401" xtrc="d108e18" class="+ topic/ph hi-d/i ">Bona fide agency</i> means an established commercial or selling agency, maintained by a contractor for the purpose of securing business, that neither exerts nor proposes to exert improper influence to solicit or obtain Government contracts nor holds itself out as being able to obtain any Government contract or contracts through improper influence.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.401" xtrc="d108e24" class="+ topic/ph hi-d/i ">Bona fide employee</i> means a person, employed by a contractor and subject to the contractor’s supervision and control as to time, place, and manner of performance, who neither exerts nor proposes to exert improper influence to solicit or obtain Government contracts nor holds out as being able to obtain any Government contract or contracts through improper influence.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.401" xtrc="d108e30" class="+ topic/ph hi-d/i ">Contingent fee</i> means any commission, percentage, brokerage, or other fee that is contingent upon the success that a person or concern has in securing a Government contract.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_3.401" xtrc="d108e36" class="+ topic/ph hi-d/i ">Improper influence</i> means any influence that induces or tends to induce a Government employee or officer to give consideration or to act regarding a Government contract on any basis other than the merits of the matter.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_3_401"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">3.401</ph> Definitions.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p class="- topic/p ">As used in this subpart-</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.401"
+               xtrc="d108e18"
+               class="+ topic/ph hi-d/i ">Bona fide agency</i> means an established commercial or selling agency, maintained by a contractor for the purpose of securing business, that neither exerts nor proposes to exert improper influence to solicit or obtain Government contracts nor holds itself out as being able to obtain any Government contract or contracts through improper influence.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.401"
+               xtrc="d108e24"
+               class="+ topic/ph hi-d/i ">Bona fide employee</i> means a person, employed by a contractor and subject to the contractor’s supervision and control as to time, place, and manner of performance, who neither exerts nor proposes to exert improper influence to solicit or obtain Government contracts nor holds out as being able to obtain any Government contract or contracts through improper influence.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.401"
+               xtrc="d108e30"
+               class="+ topic/ph hi-d/i ">Contingent fee</i> means any commission, percentage, brokerage, or other fee that is contingent upon the success that a person or concern has in securing a Government contract.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_3.401"
+               xtrc="d108e36"
+               class="+ topic/ph hi-d/i ">Improper influence</i> means any influence that induces or tends to induce a Government employee or officer to give consideration or to act regarding a Government contract on any basis other than the merits of the matter.</p>
+      </conbody>
+   </concept>
 </dita>

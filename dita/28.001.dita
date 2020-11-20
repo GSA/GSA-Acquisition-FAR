@@ -1,67 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_28_001" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">28.001</ph> Definitions.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p class="- topic/p ">As used in this part-</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_28.001" xtrc="d1802e18" class="+ topic/ph hi-d/i ">Attorney-in-fact</i> means an agent, independent agent, underwriter, or any other company or individual holding a power of attorney granted by a surety (see also "power of attorney" at <xref href="2.101.dita#FAR_2_101" base="i1125359" outputclass="fm:ParaNumOnly" class="- topic/xref ">2.101</xref>).</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_28.001" xtrc="d1802e27" class="+ topic/ph hi-d/i ">Bid</i> means any response to a solicitation, including a proposal under a negotiated acquisition. See the definition of "offer" at <xref href="2.101.dita#FAR_2_101" base="i1125359" outputclass="fm:ParaNumOnly" class="- topic/xref ">2.101</xref>.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_28.001" xtrc="d1802e36" class="+ topic/ph hi-d/i ">Bid guarantee</i> means a form of security assuring that the bidder-<ol id="d1776e31" class="- topic/ol ">
-					<li class="- topic/li ">
-						<ol id="d1776e35" class="- topic/ol ">
-							<li class="- topic/li ">
-								<p id="d1793e32" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(1)</ph> Will not withdraw a bid within the period specified for acceptance; and</p>
-							</li>
-							<li class="- topic/li ">
-								<p id="d1793e37" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(2)</ph> Will execute a written contract and furnish required bonds, including any necessary coinsurance or reinsurance agreements, within the time specified in the bid, unless a longer time allowed, after receipt of the specified forms.</p>
-								<p id="d1793e41" class="- topic/p ">
-									<i outputclass="Term" xtrf="_28.001" xtrc="d1802e64" class="+ topic/ph hi-d/i ">Bidder</i> means any entity that is responding or has responded to a solicitation, including an offeror under a negotiated acquisition.</p>
-								<p id="d1793e45" class="- topic/p ">
-									<i outputclass="Term" xtrf="_28.001" xtrc="d1802e70" class="+ topic/ph hi-d/i ">Bond</i> means a written instrument executed by a bidder or contractor (the "principal"), and a second party (the "surety" or "sureties") (except as provided in <xref href="28.204.dita#FAR_28_204" base="i1088301" outputclass="fm:ParaNumOnly" class="- topic/xref ">28.204</xref>), to assure fulfillment of the principal’s obligations to a third party (the "obligee" or "Government"), identified in the bond. If the principal’s obligations are not met, the bond assures payment, to the extent stipulated, of any loss sustained by the obligee. The types of bonds and related documents are as follows:<ol id="d1776e65" class="- topic/ol ">
-										<li class="- topic/li ">
-											<p id="d1793e54" class="- topic/p ">
-												<ph props="autonumber" class="- topic/ph ">(1)</ph> An advance payment bond secures fulfillment of the contractor’s obligations under an advance payment provision.</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1793e59" class="- topic/p ">
-												<ph props="autonumber" class="- topic/ph ">(2)</ph> An annual bid bond is a single bond furnished by a bidder, in lieu of separate bonds, which secure all bids (on other than construction contracts) requiring bonds submitted during a specific Government fiscal year.</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1793e64" class="- topic/p ">
-												<ph props="autonumber" class="- topic/ph ">(3)</ph> An annual performance bond is a single bond furnished by a contractor, in lieu of separate performance bonds, to secure fulfillment of the contractor’s obligations under contracts (other than construction contracts) requiring bonds entered into during a specific Government fiscal year.</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1793e69" class="- topic/p ">
-												<ph props="autonumber" class="- topic/ph ">(4)</ph> A patent infringement bond secures fulfillment of the contractor’s obligations under a patent provision.</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1793e74" class="- topic/p ">
-												<ph props="autonumber" class="- topic/ph ">(5)</ph> A payment bond assures payments as required by law to all persons supplying labor or material in the prosecution of the work provided for in the contract.</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1793e79" class="- topic/p ">
-												<ph props="autonumber" class="- topic/ph ">(6)</ph> A performance bond secures performance and fulfillment of the contractor’s obligations under the contract.</p>
-											<p id="d1793e83" class="- topic/p ">
-												<i outputclass="Term" xtrf="_28.001" xtrc="d1802e134" class="+ topic/ph hi-d/i ">Consent of surety</i> means an acknowledgment by a surety that its bond given in connection with a contract continues to apply to the contract as modified.</p>
-											<p id="d1793e87" class="- topic/p ">
-												<i outputclass="Term" xtrf="_28.001" xtrc="d1802e140" class="+ topic/ph hi-d/i ">Penal sum</i> or "penal amount" means the amount of money specified in a bond (or a percentage of the bid price in a bid bond) as the maximum payment for which the surety is obligated or the amount of security required to be pledged to the Government in lieu of a corporate or individual surety for the bond.</p>
-											<p id="d1793e91" class="- topic/p ">
-												<i outputclass="Term" xtrf="_28.001" xtrc="d1802e146" class="+ topic/ph hi-d/i ">Reinsurance</i> means a transaction which provides that a surety, for a consideration, agrees to indemnify another surety against loss which the latter may sustain under a bond which it has issued.</p>
-										</li>
-									</ol>
-								</p>
-							</li>
-						</ol>
-					</li>
-				</ol>
-			</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_28_001"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">28.001</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this part-</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_28.001"
+               xtrc="d1802e18"
+               class="+ topic/ph hi-d/i ">Attorney-in-fact</i> means an agent, independent agent, underwriter, or any other company or individual holding a power of attorney granted by a surety (see also "power of attorney" at <xref href="2.101.dita#FAR_2_101"
+                  base="i1125359"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">2.101</xref>).</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_28.001"
+               xtrc="d1802e27"
+               class="+ topic/ph hi-d/i ">Bid</i> means any response to a solicitation, including a proposal under a negotiated acquisition. See the definition of "offer" at <xref href="2.101.dita#FAR_2_101"
+                  base="i1125359"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">2.101</xref>.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_28.001"
+               xtrc="d1802e36"
+               class="+ topic/ph hi-d/i ">Bid guarantee</i> means a form of security assuring that the bidder-<ol id="d1776e31" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <ol id="d1776e35" class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p id="d1799e32" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Will not withdraw a bid within the period specified for acceptance; and</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d1799e37" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Will execute a written contract and furnish required bonds, including any necessary coinsurance or reinsurance agreements, within the time specified in the bid, unless a longer time allowed, after receipt of the specified forms.</p>
+                        <p id="d1799e41" class="- topic/p ">
+                           <i outputclass="Term"
+                              xtrf="_28.001"
+                              xtrc="d1802e64"
+                              class="+ topic/ph hi-d/i ">Bidder</i> means any entity that is responding or has responded to a solicitation, including an offeror under a negotiated acquisition.</p>
+                        <p id="d1799e45" class="- topic/p ">
+                           <i outputclass="Term"
+                              xtrf="_28.001"
+                              xtrc="d1802e70"
+                              class="+ topic/ph hi-d/i ">Bond</i> means a written instrument executed by a bidder or contractor (the "principal"), and a second party (the "surety" or "sureties") (except as provided in <xref href="28.204.dita#FAR_28_204"
+                                 base="i1088301"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">28.204</xref>), to assure fulfillment of the principal’s obligations to a third party (the "obligee" or "Government"), identified in the bond. If the principal’s obligations are not met, the bond assures payment, to the extent stipulated, of any loss sustained by the obligee. The types of bonds and related documents are as follows:<ol id="d1776e65" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d1799e54" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(1)</ph> An advance payment bond secures fulfillment of the contractor’s obligations under an advance payment provision.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1799e59" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(2)</ph> An annual bid bond is a single bond furnished by a bidder, in lieu of separate bonds, which secure all bids (on other than construction contracts) requiring bonds submitted during a specific Government fiscal year.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1799e64" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(3)</ph> An annual performance bond is a single bond furnished by a contractor, in lieu of separate performance bonds, to secure fulfillment of the contractor’s obligations under contracts (other than construction contracts) requiring bonds entered into during a specific Government fiscal year.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1799e69" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(4)</ph> A patent infringement bond secures fulfillment of the contractor’s obligations under a patent provision.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1799e74" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(5)</ph> A payment bond assures payments as required by law to all persons supplying labor or material in the prosecution of the work provided for in the contract.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1799e79" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(6)</ph> A performance bond secures performance and fulfillment of the contractor’s obligations under the contract.</p>
+                                 <p id="d1799e83" class="- topic/p ">
+                                    <i outputclass="Term"
+                                       xtrf="_28.001"
+                                       xtrc="d1802e134"
+                                       class="+ topic/ph hi-d/i ">Consent of surety</i> means an acknowledgment by a surety that its bond given in connection with a contract continues to apply to the contract as modified.</p>
+                                 <p id="d1799e87" class="- topic/p ">
+                                    <i outputclass="Term"
+                                       xtrf="_28.001"
+                                       xtrc="d1802e140"
+                                       class="+ topic/ph hi-d/i ">Penal sum</i> or "penal amount" means the amount of money specified in a bond (or a percentage of the bid price in a bid bond) as the maximum payment for which the surety is obligated or the amount of security required to be pledged to the Government in lieu of a corporate or individual surety for the bond.</p>
+                                 <p id="d1799e91" class="- topic/p ">
+                                    <i outputclass="Term"
+                                       xtrf="_28.001"
+                                       xtrc="d1802e146"
+                                       class="+ topic/ph hi-d/i ">Reinsurance</i> means a transaction which provides that a surety, for a consideration, agrees to indemnify another surety against loss which the latter may sustain under a bond which it has issued.</p>
+                              </li>
+                           </ol>
+                        </p>
+                     </li>
+                  </ol>
+               </li>
+            </ol>
+         </p>
+      </conbody>
+   </concept>
 </dita>

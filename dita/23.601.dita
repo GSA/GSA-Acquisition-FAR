@@ -1,28 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_23_601" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">23.601</ph> Requirements.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1540e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1556e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>The clause at <xref href="52.223-7.dita#FAR_52_223_7" base="i1053118" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.223-7</xref>, Notice of Radioactive Materials, requires the contractor to notify the contracting officer prior to delivery of radioactive material.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1556e18" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>Upon receipt of the notice, the contracting officer shall notify receiving activities so that appropriate safeguards can be taken.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1556e23" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>The clause permits the contracting officer to waive the notification if the contractor states that the notification on prior deliveries is still current. The contracting officer may waive the notice only after consultation with cognizant technical representatives.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1556e28" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph>The contracting officer is required to specify in the clause at <xref href="52.223-7.dita#FAR_52_223_7" base="i1053118" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.223-7</xref>, the number of days in advance of delivery that the contractor will provide notification. The determination of the number of days should be done in coordination with the installation/facility radiation protection officer (RPO). The RPO is responsible for insuring the proper license, authorization or permit is obtained prior to receipt of the radioactive material.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_23_601"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">23.601</ph> Requirements.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1540e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1562e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            The clause at <xref href="52.223-7.dita#FAR_52_223_7"
+                        base="i1053118"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.223-7</xref>, Notice of Radioactive Materials, requires the contractor to notify the contracting officer prior to delivery of radioactive material.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1562e18" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            Upon receipt of the notice, the contracting officer shall notify receiving activities so that appropriate safeguards can be taken.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1562e23" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            The clause permits the contracting officer to waive the notification if the contractor states that the notification on prior deliveries is still current. The contracting officer may waive the notice only after consultation with cognizant technical representatives.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1562e28" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            The contracting officer is required to specify in the clause at <xref href="52.223-7.dita#FAR_52_223_7"
+                        base="i1053118"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.223-7</xref>, the number of days in advance of delivery that the contractor will provide notification. The determination of the number of days should be done in coordination with the installation/facility radiation protection officer (RPO). The RPO is responsible for insuring the proper license, authorization or permit is obtained prior to receipt of the radioactive material.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

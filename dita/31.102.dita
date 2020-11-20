@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_31_102" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">31.102</ph> Fixed-price contracts.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p id="d1939e8" class="- topic/p ">The applicable subparts of <xref href="Part_31.dita#FAR_Part_31" base="i1086363" outputclass="fm:Part" class="- topic/xref ">part  31</xref> shall be used in the pricing of fixed-price contracts, subcontracts, and modifications to contracts and subcontracts whenever (a) cost analysis is performed, or (b)a fixed-price contract clause requires the determination or negotiation of costs. However, application of cost principles to fixed-price contracts and subcontracts shall not be construed as a requirement to negotiate agreements on individual elements of cost in arriving at agreement on the total price. The final price accepted by the parties reflects agreement only on the total price. Further, notwithstanding the mandatory use of cost principles, the objective will continue to be to negotiate prices that are fair and reasonable, cost and other factors considered.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_31_102"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">31.102</ph> Fixed-price contracts.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p id="d1939e8" class="- topic/p ">The applicable subparts of <xref href="Part_31.dita#FAR_Part_31"
+                  base="i1086363"
+                  outputclass="fm:Part"
+                  class="- topic/xref ">part  31</xref> shall be used in the pricing of fixed-price contracts, subcontracts, and modifications to contracts and subcontracts whenever (a) cost analysis is performed, or (b)a fixed-price contract clause requires the determination or negotiation of costs. However, application of cost principles to fixed-price contracts and subcontracts shall not be construed as a requirement to negotiate agreements on individual elements of cost in arriving at agreement on the total price. The final price accepted by the parties reflects agreement only on the total price. Further, notwithstanding the mandatory use of cost principles, the objective will continue to be to negotiate prices that are fair and reasonable, cost and other factors considered.</p>
+      </conbody>
+   </concept>
 </dita>

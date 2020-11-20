@@ -1,25 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_8_701" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">8.701</ph> Definitions.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p class="- topic/p ">As used in this subpart-</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_8.701" xtrc="d502e18" class="+ topic/ph hi-d/i ">Allocation</i> means an action taken by a central nonprofit agency to designate the AbilityOne participating nonprofit agencies that will furnish definite quantities of supplies or perform specific services upon receipt of orders from ordering offices.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_8.701" xtrc="d502e24" class="+ topic/ph hi-d/i ">Central nonprofit agency</i> means National Industries for the Blind (NIB), which has been designated to represent people who are blind; or NISH, which has been designated to represent AbilityOne participating nonprofit agencies serving people with severe disabilities other than blindness.</p>
-			<p class="- topic/p " id="d505e18">"Committee" means the Committee for Purchase From People Who Are Blind or Severely Disabled.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_8.701" xtrc="d502e36" class="+ topic/ph hi-d/i ">Government</i> or "entity of the Government" means any entity of the legislative or judicial branch, any executive agency, military department, Government corporation, or independent establishment, the U.S. Postal Service, or any nonappropriated-fund instrumentality of the Armed Forces.</p>
-			<p id="d505e27" class="- topic/p ">
-				<i outputclass="Term" xtrf="_8.701" xtrc="d502e43" class="+ topic/ph hi-d/i ">Ordering office</i> means any activity in an entity of the Government that places orders for the purchase of supplies or services under the AbilityOne Program.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_8.701" xtrc="d502e52" class="+ topic/ph hi-d/i ">Procurement List</i> means a list of supplies (including military resale commodities) and services that the Committee has determined are suitable for purchase by the Government under <xref href="http://uscode.house.gov/view.xhtml?req=(title:41%20chapter:85%20edition:prelim)%20OR%20(granuleid:USC-prelim-title41-chapter85)&amp;f=treesort&amp;num=0&amp;edition=prelim" format="html" scope="external" class="- topic/xref ">41 U.S.C. chapter 85.</xref>
-			</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_8.701" xtrc="d502e61" class="+ topic/ph hi-d/i ">Nonprofit agency serving people who are blind</i> or "nonprofit agency serving people with other severe disabilities" (referred to jointly as AbilityOne participating nonprofit agencies) means a qualified nonprofit agency employing people who are blind or have other severe disabilities approved by the Committee to furnish a commodity or a service to the Government under <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">41 U.S.C. chapter 85</xref>.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_8_701"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">8.701</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this subpart-</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_8.701"
+               xtrc="d502e18"
+               class="+ topic/ph hi-d/i ">Allocation</i> means an action taken by a central nonprofit agency to designate the AbilityOne participating nonprofit agencies that will furnish definite quantities of supplies or perform specific services upon receipt of orders from ordering offices.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_8.701"
+               xtrc="d502e24"
+               class="+ topic/ph hi-d/i ">Central nonprofit agency</i> means National Industries for the Blind (NIB), which has been designated to represent people who are blind; or NISH, which has been designated to represent AbilityOne participating nonprofit agencies serving people with severe disabilities other than blindness.</p>
+         <p class="- topic/p " id="d505e18">"Committee" means the Committee for Purchase From People Who Are Blind or Severely Disabled.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_8.701"
+               xtrc="d502e36"
+               class="+ topic/ph hi-d/i ">Government</i> or "entity of the Government" means any entity of the legislative or judicial branch, any executive agency, military department, Government corporation, or independent establishment, the U.S. Postal Service, or any nonappropriated-fund instrumentality of the Armed Forces.</p>
+         <p id="d505e27" class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_8.701"
+               xtrc="d502e43"
+               class="+ topic/ph hi-d/i ">Ordering office</i> means any activity in an entity of the Government that places orders for the purchase of supplies or services under the AbilityOne Program.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_8.701"
+               xtrc="d502e52"
+               class="+ topic/ph hi-d/i ">Procurement List</i> means a list of supplies (including military resale commodities) and services that the Committee has determined are suitable for purchase by the Government under <xref href="http://uscode.house.gov/view.xhtml?req=(title:41%20chapter:85%20edition:prelim)%20OR%20(granuleid:USC-prelim-title41-chapter85)&amp;f=treesort&amp;num=0&amp;edition=prelim"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">41 U.S.C. chapter 85.</xref>
+         </p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_8.701"
+               xtrc="d502e61"
+               class="+ topic/ph hi-d/i ">Nonprofit agency serving people who are blind</i> or "nonprofit agency serving people with other severe disabilities" (referred to jointly as AbilityOne participating nonprofit agencies) means a qualified nonprofit agency employing people who are blind or have other severe disabilities approved by the Committee to furnish a commodity or a service to the Government under <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">41 U.S.C. chapter 85</xref>.</p>
+      </conbody>
+   </concept>
 </dita>

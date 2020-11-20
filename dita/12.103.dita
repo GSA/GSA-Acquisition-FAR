@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_12_103" domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    " ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">12.103</ph> Commercially available off-the-shelf (COTS) items.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p id="d700e8" class="- topic/p ">Commercially available off-the-shelf (COTS) items are defined in <xref href="2.101.dita#FAR_2_101" base="i1125359" outputclass="fm:ParaNumOnly" class="- topic/xref ">2.101</xref> . Unless indicated otherwise, all of the policies that apply to commercial items also apply to COTS items. Section <xref href="12.505.dita#FAR_12_505" base="i1112949" outputclass="fm:ParaNumOnly" class="- topic/xref ">12.505</xref> lists the laws that are not applicable to COTS (in addition to <xref href="12.503.dita#FAR_12_503" base="i1112774" outputclass="fm:ParaNumOnly" class="- topic/xref ">12.503</xref> and <xref href="12.504.dita#FAR_12_504" base="i1112857" outputclass="fm:ParaNumOnly" class="- topic/xref ">12.504</xref>).</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_12_103"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">12.103</ph> Commercially available off-the-shelf (COTS) items.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d700e8" class="- topic/p ">Commercially available off-the-shelf (COTS) items are defined in <xref href="2.101.dita#FAR_2_101"
+                  base="i1125359"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">2.101</xref> . Unless indicated otherwise, all of the policies that apply to commercial items also apply to COTS items. Section <xref href="12.505.dita#FAR_12_505"
+                  base="i1112949"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">12.505</xref> lists the laws that are not applicable to COTS (in addition to <xref href="12.503.dita#FAR_12_503"
+                  base="i1112774"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">12.503</xref> and <xref href="12.504.dita#FAR_12_504"
+                  base="i1112857"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">12.504</xref>).</p>
+      </conbody>
+   </concept>
 </dita>

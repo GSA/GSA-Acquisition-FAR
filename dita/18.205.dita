@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_18_205" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">18.205</ph> Resources.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<ol id="d1120e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1142e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
-						<i class="+ topic/ph hi-d/i ">National Response Framework</i>.	The National Response Framework (NRF) is a guide to how the Nation	conducts all-hazards response. This key document establishes a comprehensive,	national, all-hazards approach to domestic incident response. The	Framework identifies the key response principles, roles and structures	that organize national response. It describes how communities, States,	the Federal Government, the private-sector, and nongovernmental	partners apply these principles for a coordinated, effective national	response. It also describes special circumstances where the Federal	Government exercises a larger role, including incidents where Federal	interests are involved and catastrophic incidents where a State	would require significant support. The NRF is available at <xref href="https://www.fema.gov/media-library/assets/documents/117791" format="html" scope="external" class="- topic/xref ">https://www.fema.gov/media-library/assets/documents/117791</xref>.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1142e20" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
-						<i class="+ topic/ph hi-d/i ">OFPP	Guidelines</i>. The Office of Federal Procurement Policy (OFPP)	"Emergency Acquisitions Guide" is available at <xref href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/procurement_guides/emergency_acquisitions_guide.pdf" format="html" scope="external" class="- topic/xref ">https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/procurement_guides/emergency_acquisitions_guide.pdf</xref>
-						<i class="+ topic/ph hi-d/i ">.</i>
-					</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_18_205"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">18.205</ph> Resources.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d1120e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1148e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">National Response Framework</i>.	The National Response Framework (NRF) is a guide to how the Nation	conducts all-hazards response. This key document establishes a comprehensive,	national, all-hazards approach to domestic incident response. The	Framework identifies the key response principles, roles and structures	that organize national response. It describes how communities, States,	the Federal Government, the private-sector, and nongovernmental	partners apply these principles for a coordinated, effective national	response. It also describes special circumstances where the Federal	Government exercises a larger role, including incidents where Federal	interests are involved and catastrophic incidents where a State	would require significant support. The NRF is available at <xref href="https://www.fema.gov/media-library/assets/documents/117791"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://www.fema.gov/media-library/assets/documents/117791</xref>.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1148e20" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">OFPP	Guidelines</i>. The Office of Federal Procurement Policy (OFPP)	"Emergency Acquisitions Guide" is available at <xref href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/procurement_guides/emergency_acquisitions_guide.pdf"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/procurement_guides/emergency_acquisitions_guide.pdf</xref>
+                  <i class="+ topic/ph hi-d/i ">.</i>
+               </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

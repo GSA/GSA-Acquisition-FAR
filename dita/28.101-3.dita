@@ -1,75 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_28_101_3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">28.101-3</ph> Authority of an attorney-in-fact for a bid bond.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1782e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1799e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>Any person signing a bid bond as an attorney-in-fact shall include with the bid bond evidence of authority to bind the surety.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1799e15" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>An original, or a photocopy or facsimile of an original, power of attorney is sufficient evidence of such authority.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1799e20" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>For purposes of this section, electronic, mechanically-applied and printed signatures, seals and dates on the power of attorney shall be considered original signatures, seals and dates, without regard to the order in which they were affixed.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1799e25" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph>The contracting officer shall-</p>
-					<ol id="d1782e50" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1799e31" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>Treat the failure to provide a signed and dated power of attorney at the time of bid opening as a matter of responsiveness; and</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1799e36" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>Treat questions regarding the authenticity and enforceability of the power of attorney at the time of bid opening as a matter of responsibility. These questions are handled after bid opening.</p>
-						</li>
-					</ol>
-				</li>
-				<li props="Runin" class="- topic/li ">
-					<p id="d1799e41" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(e)</ph>
-					</p>
-					<ol id="d1782e80" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1799e46" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>If the contracting officer contacts the surety to validate the power of attorney, the contracting officer shall document the file providing, at a minimum, the following information:</p>
-							<ol id="d1782e90" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d1799e52" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>Name of person contacted.</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1799e57" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>Date and time of contact.</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1799e62" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(iii)</ph>Response of the surety.</p>
-								</li>
-							</ol>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1799e67" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>If, upon investigation, the surety declares the power of attorney to have been valid at the time of bid opening, the contracting officer may require correction of any technical error.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1799e72" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>If the surety declares the power of attorney to have been invalid, the contracting officer shall not allow the bidder to substitute a replacement power of attorney or a replacement surety.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1799e77" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(f)</ph>Determinations of non-responsibility based on the unacceptability of a power of attorney are not subject to the Certificate of Competency process of subpart <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1100603" href="Subpart_19.6.dita#FAR_Subpart_19_6">19.6</xref> if the surety has disavowed the validity of the power of attorney.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_28_101_3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">28.101-3</ph> Authority of an attorney-in-fact for a bid bond.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1782e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1805e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            Any person signing a bid bond as an attorney-in-fact shall include with the bid bond evidence of authority to bind the surety.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1805e15" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            An original, or a photocopy or facsimile of an original, power of attorney is sufficient evidence of such authority.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1805e20" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            For purposes of this section, electronic, mechanically-applied and printed signatures, seals and dates on the power of attorney shall be considered original signatures, seals and dates, without regard to the order in which they were affixed.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1805e25" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            The contracting officer shall-</p>
+               <ol id="d1782e50" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1805e31" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                Treat the failure to provide a signed and dated power of attorney at the time of bid opening as a matter of responsiveness; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1805e36" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                Treat questions regarding the authenticity and enforceability of the power of attorney at the time of bid opening as a matter of responsibility. These questions are handled after bid opening.</p>
+                  </li>
+               </ol>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p id="d1805e41" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+               </p>
+               <ol id="d1782e80" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1805e46" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                If the contracting officer contacts the surety to validate the power of attorney, the contracting officer shall document the file providing, at a minimum, the following information:</p>
+                     <ol id="d1782e90" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d1805e52" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+										                    Name of person contacted.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1805e57" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+										                    Date and time of contact.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1805e62" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+										                    Response of the surety.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1805e67" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                If, upon investigation, the surety declares the power of attorney to have been valid at the time of bid opening, the contracting officer may require correction of any technical error.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1805e72" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                If the surety declares the power of attorney to have been invalid, the contracting officer shall not allow the bidder to substitute a replacement power of attorney or a replacement surety.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1805e77" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+						            Determinations of non-responsibility based on the unacceptability of a power of attorney are not subject to the Certificate of Competency process of subpart <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="i1100603"
+                        href="Subpart_19.6.dita#FAR_Subpart_19_6">19.6</xref> if the surety has disavowed the validity of the power of attorney.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

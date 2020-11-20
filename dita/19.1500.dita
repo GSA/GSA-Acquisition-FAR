@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<topic id="FAR_19_1500" ditaarch:DITAArchVersion="1.3" class="- topic/topic " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">19.1500</ph> General.</title>
-		<body class="- topic/body ">
-			<ol id="d1248e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1277e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>Section 8(m) of the Small Business Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">15 U.S.C. 637</xref>(m)) created the Women-Owned Small Business (WOSB) Program.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1277e18" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>The purpose of the WOSB Program is to ensure women-owned small business concerns have an equal opportunity to participate in Federal contracting and to assist agencies in achieving their women-owned small business participation goals (see 13 part CFR 127).</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1277e23" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>An economically disadvantaged women-owned small business (EDWOSB) concern or WOSB concern eligible under the WOSB Program is a subcategory of "women-owned small business concern" as defined in <xref href="2.101.dita#FAR_2_101" base="i1125359" outputclass="fm:ParaNumOnly" class="- topic/xref ">2.101</xref>.</p>
-				</li>
-			</ol>
-		</body>
-	</topic>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="FAR_19_1500"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">19.1500</ph> General.</title>
+      <body class="- topic/body ">
+         <ol id="d1248e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1283e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            Section 8(m) of the Small Business Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">15 U.S.C. 637</xref>(m)) created the Women-Owned Small Business (WOSB) Program.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1283e18" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            The purpose of the WOSB Program is to ensure women-owned small business concerns have an equal opportunity to participate in Federal contracting and to assist agencies in achieving their women-owned small business participation goals (see 13 part CFR 127).</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1283e23" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            An economically disadvantaged women-owned small business (EDWOSB) concern or WOSB concern eligible under the WOSB Program is a subcategory of "women-owned small business concern" as defined in <xref href="2.101.dita#FAR_2_101"
+                        base="i1125359"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">2.101</xref>.</p>
+            </li>
+         </ol>
+      </body>
+   </topic>
 </dita>

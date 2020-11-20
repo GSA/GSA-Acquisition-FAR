@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_37_111" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">37.111</ph> Extension of services.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p id="d2393e8" class="- topic/p ">Award of contracts for recurring and continuing service requirements are often delayed due to circumstances beyond the control of contracting offices. Examples of circumstances causing such delays are bid protests and alleged mistakes in bid. In order to avoid negotiation of short extensions to existing contracts, the contracting officer may include an option clause (see <xref href="17.208.dita#FAR_17_208" base="i1103156" outputclass="fm:ParaNumOnly" class="- topic/xref ">17.208</xref>(f)) in solicitations and contracts which will enable the Government to require continued performance of any services within the limits and at the rates specified in the contract. However, these rates may be adjusted only as a result of revisions to prevailing labor rates provided by the Secretary of Labor. The option provision may be exercised more than once, but the total extension of performance thereunder shall not exceed 6 months.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_37_111"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">37.111</ph> Extension of services.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p id="d2393e8" class="- topic/p ">Award of contracts for recurring and continuing service requirements are often delayed due to circumstances beyond the control of contracting offices. Examples of circumstances causing such delays are bid protests and alleged mistakes in bid. In order to avoid negotiation of short extensions to existing contracts, the contracting officer may include an option clause (see <xref href="17.208.dita#FAR_17_208"
+                  base="i1103156"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">17.208</xref>(f)) in solicitations and contracts which will enable the Government to require continued performance of any services within the limits and at the rates specified in the contract. However, these rates may be adjusted only as a result of revisions to prevailing labor rates provided by the Secretary of Labor. The option provision may be exercised more than once, but the total extension of performance thereunder shall not exceed 6 months.</p>
+      </conbody>
+   </concept>
 </dita>

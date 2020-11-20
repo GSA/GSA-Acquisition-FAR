@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_26_201" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">26.201</ph> Definitions.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_26.201" xtrc="d1713e15" class="+ topic/ph hi-d/i ">Emergency response contract</i> means a contract with private entities that supports assistance activities in a major disaster or emergency area, such as debris clearance, distribution of supplies, or reconstruction.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_26.201" xtrc="d1713e21" class="+ topic/ph hi-d/i ">Local firm</i> means a private organization, firm, or individual residing or doing business primarily in a major disaster or emergency area.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_26.201" xtrc="d1713e27" class="+ topic/ph hi-d/i ">Major disaster or emergency area</i> means the area included in the official Presidential declaration(s) and any additional areas identified by the Department of Homeland Security. Major disaster declarations and emergency declarations are published in the Federal Register and are available at <xref href="http://www.fema.gov/news/disasters.fema" scope="external" format="html" class="- topic/xref ">http://www.fema.gov/news/disasters.fema</xref>.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_26_201"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">26.201</ph> Definitions.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_26.201"
+               xtrc="d1713e15"
+               class="+ topic/ph hi-d/i ">Emergency response contract</i> means a contract with private entities that supports assistance activities in a major disaster or emergency area, such as debris clearance, distribution of supplies, or reconstruction.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_26.201"
+               xtrc="d1713e21"
+               class="+ topic/ph hi-d/i ">Local firm</i> means a private organization, firm, or individual residing or doing business primarily in a major disaster or emergency area.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_26.201"
+               xtrc="d1713e27"
+               class="+ topic/ph hi-d/i ">Major disaster or emergency area</i> means the area included in the official Presidential declaration(s) and any additional areas identified by the Department of Homeland Security. Major disaster declarations and emergency declarations are published in the Federal Register and are available at <xref href="http://www.fema.gov/news/disasters.fema"
+                  scope="external"
+                  format="html"
+                  class="- topic/xref ">http://www.fema.gov/news/disasters.fema</xref>.</p>
+      </conbody>
+   </concept>
 </dita>

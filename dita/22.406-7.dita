@@ -1,55 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_22_406_7" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">22.406-7</ph> Compliance checking.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1318e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1348e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
-						<i class="+ topic/ph hi-d/i ">General</i>. The contracting officer shall make checks and investigations on all contracts covered by this subpart as may be necessary to ensure compliance with the labor standards requirements of the contract.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1348e17" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
-						<i class="+ topic/ph hi-d/i ">Regular compliance checks</i>. Regular compliance checking includes the following activities:</p>
-					<ol id="d1318e38" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1348e25" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>Employee interviews to determine correctness of classifications, rates of pay, fringe benefits payments, and hours worked. (See <xref href="https://www.gsa.gov/forms-library/labor-standards-interview-0" format="html" scope="external" class="- topic/xref ">Standard Form 1445</xref>.)</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1348e33" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>On-site inspections to check type of work performed, number and classification of workers, and fulfillment of posting requirements.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1348e38" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>Payroll reviews to ensure that payrolls of prime contractors and subcontractors have been submitted on time and are complete and in compliance with contract requirements.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1348e43" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>Comparison of the information in this paragraph (b) with available data, including daily inspector’s report and daily logs of construction, to ensure consistency.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1348e48" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
-						<i class="+ topic/ph hi-d/i ">Special compliance checks</i>. Situations that may require special compliance checks include -</p>
-					<ol id="d1318e92" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1348e56" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>Inconsistencies, errors, or omissions detected during regular compliance checks; or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1348e61" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>Receipt of a complaint alleging violations. If the complaint is not specific enough, the complainant shall be so advised and invited to submit additional information.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_22_406_7"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">22.406-7</ph> Compliance checking.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1318e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1354e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">General</i>. The contracting officer shall make checks and investigations on all contracts covered by this subpart as may be necessary to ensure compliance with the labor standards requirements of the contract.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1354e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Regular compliance checks</i>. Regular compliance checking includes the following activities:</p>
+               <ol id="d1318e38" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1354e25" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                Employee interviews to determine correctness of classifications, rates of pay, fringe benefits payments, and hours worked. (See <xref href="https://www.gsa.gov/forms-library/labor-standards-interview-0"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">Standard Form 1445</xref>.)</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1354e33" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                On-site inspections to check type of work performed, number and classification of workers, and fulfillment of posting requirements.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1354e38" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                Payroll reviews to ensure that payrolls of prime contractors and subcontractors have been submitted on time and are complete and in compliance with contract requirements.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1354e43" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+								                Comparison of the information in this paragraph (b) with available data, including daily inspector’s report and daily logs of construction, to ensure consistency.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1354e48" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Special compliance checks</i>. Situations that may require special compliance checks include -</p>
+               <ol id="d1318e92" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1354e56" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                Inconsistencies, errors, or omissions detected during regular compliance checks; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1354e61" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                Receipt of a complaint alleging violations. If the complaint is not specific enough, the complainant shall be so advised and invited to submit additional information.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

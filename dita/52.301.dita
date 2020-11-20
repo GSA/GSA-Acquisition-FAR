@@ -1,300 +1,342 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
-	<concept id="FAR_52_301" outputclass="landscape" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">52.301</ph> Solicitation provisions and contract clauses (Matrix).</title>
-		<conbody class="- topic/body concept/conbody ">
-			<table frame="all" colsep="1" rowsep="1" props="1Col" outputclass="Landscape" class="- topic/table ">
-				<tgroup cols="6" colsep="1" rowsep="1" outputclass="Matrix_Key" class="- topic/tgroup ">
-					<colspec colnum="1" colname="1" colwidth="11*" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="2" colname="2" colwidth="2*" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="3" colname="3" colwidth="38*" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="4" colname="4" colwidth="11*" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="5" colname="5" colwidth="3*" class="- topic/colspec " rowheader="headers"/>
-					<colspec colnum="6" colname="6" colwidth="35*" class="- topic/colspec " rowheader="headers"/>
-					<tbody class="- topic/tbody ">
-						<row rowsep="1" class="- topic/row ">
-							<entry namest="1" nameend="6" rowsep="0" class="- topic/entry ">
-								<p outputclass="Bold" class="- topic/p ">Key:</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry namest="1" nameend="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">
-									<u class="+ topic/ph hi-d/u ">Type of Contract:</u>
-								</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">P or C</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Provision or Clause</p>
-							</entry>
-							<entry colname="4" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">DDR</p>
-							</entry>
-							<entry colname="5" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Dismantling, Demolition, or Removal of Improvements</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">IBR</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Is Incorporation by Reference Authorized? (See FAR <xref href="52.102.dita#FAR_52_102" base="i1064597" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.102</xref>)</p>
-							</entry>
-							<entry colname="4" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">A&amp;E</p>
-							</entry>
-							<entry colname="5" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Architect-Engineering</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">UCF</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Uniform Contract Format Section, when Applicable</p>
-							</entry>
-							<entry colname="4" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">FAC</p>
-							</entry>
-							<entry colname="5" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Facilities</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">FP SUP</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Fixed-Price Supply</p>
-							</entry>
-							<entry colname="4" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">IND DEL</p>
-							</entry>
-							<entry colname="5" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Indefinite Delivery</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">CR SUP</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Cost-Reimbursement Supply</p>
-							</entry>
-							<entry colname="4" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">TRN</p>
-							</entry>
-							<entry colname="5" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Transportation</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">FP R&amp;D</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Fixed-Price Research &amp; Development</p>
-							</entry>
-							<entry colname="4" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">SAP</p>
-							</entry>
-							<entry colname="5" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Simplified Acquisition Procedures (excluding micro-purchase)</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">CR R&amp;D</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Cost Reimbursement Research &amp; Development</p>
-							</entry>
-							<entry colname="4" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">UTL SVC</p>
-							</entry>
-							<entry colname="5" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Utility Services</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">FP SVC</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Fixed-Price Service</p>
-							</entry>
-							<entry colname="4" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">CI</p>
-							</entry>
-							<entry colname="5" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Commercial Items</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">CR SVC</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Cost Reimbursement Service</p>
-							</entry>
-							<entry namest="4" nameend="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p "/>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">FP CON</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Fixed-Price Construction</p>
-							</entry>
-							<entry namest="4" nameend="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">
-									<u class="+ topic/ph hi-d/u ">Contract Purpose:</u>
-								</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">CR CON</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Cost Reimbursement Construction</p>
-							</entry>
-							<entry colname="4" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">R</p>
-							</entry>
-							<entry colname="5" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Required</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">T&amp;M LH</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Time &amp; Material/Labor Hours</p>
-							</entry>
-							<entry colname="4" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">A</p>
-							</entry>
-							<entry colname="5" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Required when Applicable</p>
-							</entry>
-						</row>
-						<row rowsep="1" class="- topic/row ">
-							<entry colname="1" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">LMV</p>
-							</entry>
-							<entry colname="2" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Leasing of Motor Vehicles</p>
-							</entry>
-							<entry colname="4" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">O</p>
-							</entry>
-							<entry colname="5" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="6" rowsep="0" class="- topic/entry ">
-								<p class="- topic/p ">Optional</p>
-							</entry>
-						</row>
-						<row rowsep="0" class="- topic/row ">
-							<entry colname="1" class="- topic/entry ">
-								<p class="- topic/p ">COM SVC</p>
-							</entry>
-							<entry colname="2" class="- topic/entry ">
-								<p class="- topic/p ">=</p>
-							</entry>
-							<entry colname="3" class="- topic/entry ">
-								<p class="- topic/p ">Communication Services</p>
-							</entry>
-							<entry colname="4" class="- topic/entry "/>
-							<entry colname="5" class="- topic/entry ">
-								<p class="- topic/p "/>
-							</entry>
-							<entry colname="6" class="- topic/entry "/>
-						</row>
-					</tbody>
-				</tgroup>
-			</table>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
+   <concept id="FAR_52_301"
+            outputclass="landscape"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">52.301</ph> Solicitation provisions and contract clauses (Matrix).</title>
+      <conbody class="- topic/body concept/conbody ">
+         <table frame="all"
+                colsep="1"
+                rowsep="1"
+                props="1Col"
+                outputclass="Landscape"
+                class="- topic/table ">
+            <tgroup cols="6"
+                    colsep="1"
+                    rowsep="1"
+                    outputclass="Matrix_Key"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="2*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="38*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="3*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="35*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry namest="1" nameend="6" rowsep="0" class="- topic/entry ">
+                        <p outputclass="Bold" class="- topic/p ">Key:</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry namest="1" nameend="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <u class="+ topic/ph hi-d/u ">Type of Contract:</u>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">P or C</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Provision or Clause</p>
+                     </entry>
+                     <entry colname="4" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">DDR</p>
+                     </entry>
+                     <entry colname="5" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Dismantling, Demolition, or Removal of Improvements</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">IBR</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Is Incorporation by Reference Authorized? (See FAR <xref href="52.102.dita#FAR_52_102"
+                                 base="i1064597"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">52.102</xref>)</p>
+                     </entry>
+                     <entry colname="4" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">A&amp;E</p>
+                     </entry>
+                     <entry colname="5" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Architect-Engineering</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">UCF</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Uniform Contract Format Section, when Applicable</p>
+                     </entry>
+                     <entry colname="4" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">FAC</p>
+                     </entry>
+                     <entry colname="5" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Facilities</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">FP SUP</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Fixed-Price Supply</p>
+                     </entry>
+                     <entry colname="4" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">IND DEL</p>
+                     </entry>
+                     <entry colname="5" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Indefinite Delivery</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">CR SUP</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Cost-Reimbursement Supply</p>
+                     </entry>
+                     <entry colname="4" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">TRN</p>
+                     </entry>
+                     <entry colname="5" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Transportation</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">FP R&amp;D</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Fixed-Price Research &amp; Development</p>
+                     </entry>
+                     <entry colname="4" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">SAP</p>
+                     </entry>
+                     <entry colname="5" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Simplified Acquisition Procedures (excluding micro-purchase)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">CR R&amp;D</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Cost Reimbursement Research &amp; Development</p>
+                     </entry>
+                     <entry colname="4" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">UTL SVC</p>
+                     </entry>
+                     <entry colname="5" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Utility Services</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">FP SVC</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Fixed-Price Service</p>
+                     </entry>
+                     <entry colname="4" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">CI</p>
+                     </entry>
+                     <entry colname="5" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Commercial Items</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">CR SVC</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Cost Reimbursement Service</p>
+                     </entry>
+                     <entry namest="4" nameend="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">FP CON</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Fixed-Price Construction</p>
+                     </entry>
+                     <entry namest="4" nameend="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <u class="+ topic/ph hi-d/u ">Contract Purpose:</u>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">CR CON</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Cost Reimbursement Construction</p>
+                     </entry>
+                     <entry colname="4" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">R</p>
+                     </entry>
+                     <entry colname="5" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Required</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">T&amp;M LH</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Time &amp; Material/Labor Hours</p>
+                     </entry>
+                     <entry colname="4" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Required when Applicable</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">LMV</p>
+                     </entry>
+                     <entry colname="2" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Leasing of Motor Vehicles</p>
+                     </entry>
+                     <entry colname="4" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">O</p>
+                     </entry>
+                     <entry colname="5" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="6" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">Optional</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">COM SVC</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">=</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Communication Services</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry "/>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
 </dita>

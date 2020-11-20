@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_35_001" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">35.001</ph> Definitions.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_35.001" xtrc="d2263e15" class="+ topic/ph hi-d/i ">Applied research</i> means the effort that (a) normally follows basic research, but may not be severable from the related basic research; (b) attempts to determine and exploit the potential of scientific discoveries or improvements in technology, materials, processes, methods, devices, or techniques; and (c) attempts to advance the state of the art. When being used by contractors in cost principle applications, this term does not include efforts whose principal aim is the design, development, or testing of specific items or services to be considered for sale; these efforts are within the definition of "development," given below.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_35.001" xtrc="d2263e21" class="+ topic/ph hi-d/i ">Development</i>, as used in this part, means the systematic use of scientific and technical knowledge in the design, development, testing, or evaluation of a potential new product or service (or of an improvement in an existing product or service) to meet specific performance requirements or objectives. It includes the functions of design engineering, prototyping, and engineering testing; it excludes subcontracted technical effort that is for the sole purpose of developing an additional source for an existing product.</p>
-			<p class="- topic/p ">
-				<i outputclass="Term" xtrf="_35.001" xtrc="d2263e27" class="+ topic/ph hi-d/i ">Recoupment</i>, as used in this part, means the recovery by the Government of Government-funded nonrecurring costs from contractors that sell, lease, or license the resulting products or technology to buyers other than the Federal Government.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_35_001"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">35.001</ph> Definitions.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_35.001"
+               xtrc="d2263e15"
+               class="+ topic/ph hi-d/i ">Applied research</i> means the effort that (a) normally follows basic research, but may not be severable from the related basic research; (b) attempts to determine and exploit the potential of scientific discoveries or improvements in technology, materials, processes, methods, devices, or techniques; and (c) attempts to advance the state of the art. When being used by contractors in cost principle applications, this term does not include efforts whose principal aim is the design, development, or testing of specific items or services to be considered for sale; these efforts are within the definition of "development," given below.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_35.001"
+               xtrc="d2263e21"
+               class="+ topic/ph hi-d/i ">Development</i>, as used in this part, means the systematic use of scientific and technical knowledge in the design, development, testing, or evaluation of a potential new product or service (or of an improvement in an existing product or service) to meet specific performance requirements or objectives. It includes the functions of design engineering, prototyping, and engineering testing; it excludes subcontracted technical effort that is for the sole purpose of developing an additional source for an existing product.</p>
+         <p class="- topic/p ">
+            <i outputclass="Term"
+               xtrf="_35.001"
+               xtrc="d2263e27"
+               class="+ topic/ph hi-d/i ">Recoupment</i>, as used in this part, means the recovery by the Government of Government-funded nonrecurring costs from contractors that sell, lease, or license the resulting products or technology to buyers other than the Federal Government.</p>
+      </conbody>
+   </concept>
 </dita>

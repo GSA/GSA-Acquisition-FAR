@@ -1,88 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_17_502_2" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">17.502-2</ph> The Economy Act.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1069e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1091e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>The Economy Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">31 U.S.C.1535</xref>) authorizes agencies to enter into agreements to obtain supplies or services from another agency. The FAR applies when one agency uses another agency’s contract to obtain supplies or services. If the interagency business transaction does not result in a contract or an order, then the FAR does not apply. The Economy Act also provides authority for placement of orders between major organizational units within an agency; procedures for such intra-agency transactions are addressed in agency regulations.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1091e18" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>The Economy Act applies when more specific statutory authority does not exist. Examples of more specific authority are <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">40 U.S.C. 501</xref> for the Federal Supply Schedules (subpart <xref href="Subpart_8.4.dita#FAR_Subpart_8_4" base="i1117301" outputclass="fm:ParaNumOnly" class="- topic/xref ">8.4</xref>), and <term class="- topic/term ">40 U.S.C. 11302</term>(<term class="- topic/term ">e)</term> for Governmentwide acquisition contracts (GWACs).</p>
-				</li>
-				<li props="Runin" class="- topic/li ">
-					<p id="d1091e35" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>Requirements for determinations and findings.</p>
-					<ol id="d1069e56" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1091e41" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>Each Economy Act order to obtain supplies or services by interagency acquisition shall be supported by a determination and findings (D&amp;F). The D&amp;F shall-</p>
-							<ol id="d1069e66" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d1091e47" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>State that use of an interagency acquisition is in the best interest of the Government;</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1091e52" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>State that the supplies or services cannot be obtained as conveniently or economically by contracting directly with a private source; and</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1091e57" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(iii)</ph>Include a statement that at least one of the following circumstances applies:</p>
-									<ol id="d1069e94" class="- topic/ol ">
-										<li class="- topic/li ">
-											<p id="d1091e63" class="- topic/p ">
-												<ph props="autonumber" class="- topic/ph ">(A)</ph>The acquisition will appropriately be made under an existing contract of the servicing agency, entered into before placement of the order, to meet the requirements of the servicing agency for the same or similar supplies or services.</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1091e68" class="- topic/p ">
-												<ph props="autonumber" class="- topic/ph ">(B)</ph>The servicing agency has the capability or expertise to enter into a contract for such supplies or services that is not available within the requesting agency.</p>
-										</li>
-										<li class="- topic/li ">
-											<p id="d1091e73" class="- topic/p ">
-												<ph props="autonumber" class="- topic/ph ">(C)</ph>The servicing agency is specifically authorized by law or regulation to purchase such supplies or services on behalf of other agencies.</p>
-										</li>
-									</ol>
-								</li>
-							</ol>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1091e78" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>The D&amp;F shall be approved by a contracting officer of the requesting agency with authority to contract for the supplies or services to be ordered, or by another official designated by the agency head, except that, if the servicing agency is not covered by the FAR, approval of the D&amp;F may not be delegated below the senior procurement executive of the requesting agency.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1091e83" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>The requesting agency shall furnish a copy of the D&amp;F to the servicing agency with the request for order.</p>
-						</li>
-					</ol>
-				</li>
-				<li props="Runin" class="- topic/li ">
-					<p id="d1091e88" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph>Payment.</p>
-					<ol id="d1069e155" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1091e94" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>The servicing agency may ask the requesting agency, in writing, for advance payment for all or part of the estimated cost of furnishing the supplies or services. Adjustment on the basis of actual costs shall be made as agreed to by the agencies.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1091e99" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>If approved by the servicing agency, payment for actual costs may be made by the requesting agency after the supplies or services have been furnished.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1091e104" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>Bills rendered or requests for advance payment shall not be subject to audit or certification in advance of payment.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1091e109" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>In no event shall the servicing agency require, or the requesting agency pay, any fee or charge in excess of the actual cost (or estimated cost if the actual cost is not known) of entering into and administering the contract or other agreement under which the order is filled.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_17_502_2"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">17.502-2</ph> The Economy Act.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1069e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1097e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            The Economy Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">31 U.S.C.1535</xref>) authorizes agencies to enter into agreements to obtain supplies or services from another agency. The FAR applies when one agency uses another agency’s contract to obtain supplies or services. If the interagency business transaction does not result in a contract or an order, then the FAR does not apply. The Economy Act also provides authority for placement of orders between major organizational units within an agency; procedures for such intra-agency transactions are addressed in agency regulations.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1097e18" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            The Economy Act applies when more specific statutory authority does not exist. Examples of more specific authority are <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">40 U.S.C. 501</xref> for the Federal Supply Schedules (subpart <xref href="Subpart_8.4.dita#FAR_Subpart_8_4"
+                        base="i1117301"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">8.4</xref>), and <term class="- topic/term ">40 U.S.C. 11302</term>(<term class="- topic/term ">e)</term> for Governmentwide acquisition contracts (GWACs).</p>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p id="d1097e35" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            Requirements for determinations and findings.</p>
+               <ol id="d1069e56" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1097e41" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                Each Economy Act order to obtain supplies or services by interagency acquisition shall be supported by a determination and findings (D&amp;F). The D&amp;F shall-</p>
+                     <ol id="d1069e66" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d1097e47" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+										                    State that use of an interagency acquisition is in the best interest of the Government;</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1097e52" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+										                    State that the supplies or services cannot be obtained as conveniently or economically by contracting directly with a private source; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1097e57" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+										                    Include a statement that at least one of the following circumstances applies:</p>
+                           <ol id="d1069e94" class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d1097e63" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
+												                        The acquisition will appropriately be made under an existing contract of the servicing agency, entered into before placement of the order, to meet the requirements of the servicing agency for the same or similar supplies or services.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1097e68" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
+												                        The servicing agency has the capability or expertise to enter into a contract for such supplies or services that is not available within the requesting agency.</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1097e73" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
+												                        The servicing agency is specifically authorized by law or regulation to purchase such supplies or services on behalf of other agencies.</p>
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1097e78" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                The D&amp;F shall be approved by a contracting officer of the requesting agency with authority to contract for the supplies or services to be ordered, or by another official designated by the agency head, except that, if the servicing agency is not covered by the FAR, approval of the D&amp;F may not be delegated below the senior procurement executive of the requesting agency.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1097e83" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                The requesting agency shall furnish a copy of the D&amp;F to the servicing agency with the request for order.</p>
+                  </li>
+               </ol>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p id="d1097e88" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            Payment.</p>
+               <ol id="d1069e155" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1097e94" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                The servicing agency may ask the requesting agency, in writing, for advance payment for all or part of the estimated cost of furnishing the supplies or services. Adjustment on the basis of actual costs shall be made as agreed to by the agencies.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1097e99" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                If approved by the servicing agency, payment for actual costs may be made by the requesting agency after the supplies or services have been furnished.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1097e104" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                Bills rendered or requests for advance payment shall not be subject to audit or certification in advance of payment.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1097e109" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+								                In no event shall the servicing agency require, or the requesting agency pay, any fee or charge in excess of the actual cost (or estimated cost if the actual cost is not known) of entering into and administering the contract or other agreement under which the order is filled.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

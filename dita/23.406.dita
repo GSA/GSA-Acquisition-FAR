@@ -1,52 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_23_406" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">23.406</ph> Solicitation provisions and contract clauses.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1530e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1546e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>Insert the provision at <xref href="52.223-1.dita#FAR_52_223_1" base="i1052963" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.223-1</xref>, Biobased Product Certification, in solicitations that-</p>
-					<ol id="d1530e26" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1546e19" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>Require the delivery or specify the use of USDA-designated items; or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1546e24" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>Include the clause at <xref href="52.223-2.dita#FAR_52_223_2" base="i1052973" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.223-2</xref>.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1546e32" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>Insert the clause at <xref href="52.223-2.dita#FAR_52_223_2" base="i1052973" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.223-2</xref>,	Affirmative Procurement of Biobased Products Under Service and Construction	Contracts, in service or construction solicitations and contracts, unless	the contract will not involve the use of USDA-designated items at <xref href="http://www.biopreferred.gov" scope="external" class="- topic/xref " format="html">http://www.biopreferred.gov</xref> or <ph outputclass="CFR" class="- topic/ph ">7 CFR part 3201</ph>.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1546e46" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>Except for the acquisition of commercially available off-the-shelf items, insert the provision at <xref href="52.223-4.dita#FAR_52_223_4" base="i1053040" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.223-4</xref>, Recovered Material Certification, in solicitations that-</p>
-					<ol id="d1530e77" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1546e55" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>Require the delivery or specify the use of EPA-designated items; or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1546e60" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>Include the clause at <xref href="52.223-17.dita#FAR_52_223_17" base="i1053301" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.223-17</xref>, Affirmative Procurement of EPA-designated Items in Service and Construction Contracts.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1546e68" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph>Except for the acquisition of commercially available off-the-shelf items, insert the clause at <xref href="52.223-9.dita#FAR_52_223_9" base="i1053138" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.223-9</xref>, Estimate of Percentage of Recovered Material Content for EPA-designated Items, in solicitations and contracts exceeding $150,000 that are for, or specify the use of, EPA-designated items containing recovered materials. If technical personnel advise that estimates can be verified, use the clause with its Alternate I.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1546e76" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(e)</ph>Insert the clause at <xref href="52.223-17.dita#FAR_52_223_17" base="i1053301" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.223-17</xref>, Affirmative Procurement of EPA-designated Items in Service and Construction Contracts, in service or construction solicitations and contracts unless the contract will not involve the use of EPA-designated items.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_23_406"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">23.406</ph> Solicitation provisions and contract clauses.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1530e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1552e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            Insert the provision at <xref href="52.223-1.dita#FAR_52_223_1"
+                        base="i1052963"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.223-1</xref>, Biobased Product Certification, in solicitations that-</p>
+               <ol id="d1530e26" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1552e19" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                Require the delivery or specify the use of USDA-designated items; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1552e24" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                Include the clause at <xref href="52.223-2.dita#FAR_52_223_2"
+                              base="i1052973"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.223-2</xref>.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1552e32" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            Insert the clause at <xref href="52.223-2.dita#FAR_52_223_2"
+                        base="i1052973"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.223-2</xref>,	Affirmative Procurement of Biobased Products Under Service and Construction	Contracts, in service or construction solicitations and contracts, unless	the contract will not involve the use of USDA-designated items at <xref href="http://www.biopreferred.gov"
+                        scope="external"
+                        class="- topic/xref "
+                        format="html">http://www.biopreferred.gov</xref> or <ph outputclass="CFR" class="- topic/ph ">7 CFR part 3201</ph>.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1552e46" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            Except for the acquisition of commercially available off-the-shelf items, insert the provision at <xref href="52.223-4.dita#FAR_52_223_4"
+                        base="i1053040"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.223-4</xref>, Recovered Material Certification, in solicitations that-</p>
+               <ol id="d1530e77" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1552e55" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                Require the delivery or specify the use of EPA-designated items; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1552e60" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                Include the clause at <xref href="52.223-17.dita#FAR_52_223_17"
+                              base="i1053301"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.223-17</xref>, Affirmative Procurement of EPA-designated Items in Service and Construction Contracts.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1552e68" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            Except for the acquisition of commercially available off-the-shelf items, insert the clause at <xref href="52.223-9.dita#FAR_52_223_9"
+                        base="i1053138"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.223-9</xref>, Estimate of Percentage of Recovered Material Content for EPA-designated Items, in solicitations and contracts exceeding $150,000 that are for, or specify the use of, EPA-designated items containing recovered materials. If technical personnel advise that estimates can be verified, use the clause with its Alternate I.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1552e76" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+						            Insert the clause at <xref href="52.223-17.dita#FAR_52_223_17"
+                        base="i1053301"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.223-17</xref>, Affirmative Procurement of EPA-designated Items in Service and Construction Contracts, in service or construction solicitations and contracts unless the contract will not involve the use of EPA-designated items.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

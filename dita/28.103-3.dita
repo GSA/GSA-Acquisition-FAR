@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_28_103_3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">28.103-3</ph> Payment bonds.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1791e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1808e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>A payment bond is required only when a performance bond is required, and if the use of payment bond is in the Government’s interest.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1808e15" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>When a contract price is increased, the Government may require additional bond protection in an amount adequate to protect suppliers of labor and material.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_28_103_3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">28.103-3</ph> Payment bonds.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1791e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1814e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            A payment bond is required only when a performance bond is required, and if the use of payment bond is in the Government’s interest.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1814e15" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            When a contract price is increased, the Government may require additional bond protection in an amount adequate to protect suppliers of labor and material.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

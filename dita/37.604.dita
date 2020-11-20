@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_37_604" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">37.604</ph> Quality assurance surveillance plans.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p id="d2432e8" class="- topic/p ">Requirements for quality assurance and quality assurance surveillance plans are in <xref href="Subpart_46.4.dita#FAR_Subpart_46_4" base="i1072108" outputclass="fm:Subpart" class="- topic/xref ">subpart  46.4</xref>. The Government may either prepare the quality assurance surveillance plan or require the offerors to submit a proposed quality assurance surveillance plan for the Government’s consideration in development of the Government’s plan.</p>
-			<p class="- topic/p "/>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_37_604"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">37.604</ph> Quality assurance surveillance plans.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p id="d2432e8" class="- topic/p ">Requirements for quality assurance and quality assurance surveillance plans are in <xref href="Subpart_46.4.dita#FAR_Subpart_46_4"
+                  base="i1072108"
+                  outputclass="fm:Subpart"
+                  class="- topic/xref ">subpart  46.4</xref>. The Government may either prepare the quality assurance surveillance plan or require the offerors to submit a proposed quality assurance surveillance plan for the Government’s consideration in development of the Government’s plan.</p>
+         <p class="- topic/p "/>
+      </conbody>
+   </concept>
 </dita>

@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_28_303" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">28.303</ph> Insurance against loss of or damage to Government property.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<p id="d1856e8" class="- topic/p ">When the Government requires or approves insurance to cover loss of or damage to Government property (see <xref href="45.104.dita#FAR_45_104" base="i1073171" outputclass="fm:ParaNumOnly" class="- topic/xref ">45.104</xref>, Responsibility and liability for Government property), it may be provided by specific insurance policies or by inclusion of the risks in the contractor’s existing policies. The policies shall disclose the Government’s interest in the property.</p>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_28_303"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">28.303</ph> Insurance against loss of or damage to Government property.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p id="d1856e8" class="- topic/p ">When the Government requires or approves insurance to cover loss of or damage to Government property (see <xref href="45.104.dita#FAR_45_104"
+                  base="i1073171"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">45.104</xref>, Responsibility and liability for Government property), it may be provided by specific insurance policies or by inclusion of the risks in the contractor’s existing policies. The policies shall disclose the Government’s interest in the property.</p>
+      </conbody>
+   </concept>
 </dita>

@@ -1,35 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " ditaarch:DITAArchVersion="1.3">
-	<concept id="FAR_17_109" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">17.109</ph> Contract clauses.</title>
-		<conbody class="- topic/body concept/conbody ">
-			<ol id="d1048e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1070e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>The contracting officer shall insert the clause at <xref href="52.217-2.dita#FAR_52_217_2" base="i1057120" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.217-2</xref>, Cancellation Under Multi-year Contracts, in solicitations and contracts when a multi-year contract is contemplated.</p>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1070e18" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
-						<i class="+ topic/ph hi-d/i ">Economic price adjustment clauses</i>. Economic price adjustment clauses are adaptable to multi-year contracting needs. When the period of production is likely to warrant a labor and material costs contingency in the contract price, the contracting officer should normally use an economic price adjustment clause (see <xref href="16.203.dita#FAR_16_203" base="i1104876" outputclass="fm:ParaNumOnly" class="- topic/xref ">16.203</xref>). When contracting for services, the contracting officer-</p>
-					<ol id="d1048e41" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1070e29" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>Shall add the clause at <xref href="52.222-43.dita#FAR_52_222_43" base="i1056443" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.222-43</xref>, Fair Labor Standards Act and Service Contract Labor Standards- Price Adjustment (Multiple Year and Option Contracts), when the contract includes the clause at <xref href="52.222-41.dita#FAR_52_222_41" base="i1056332" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.222-41</xref>, Service Contract Labor Standards;</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1070e40" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>May modify the clause at <xref href="52.222-43.dita#FAR_52_222_43" base="i1056443" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.222-43</xref> in overseas contracts when laws, regulations, or international agreements require contractors to pay higher wage rates; or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1070e48" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>May use an economic price adjustment clause authorized by <xref href="16.203.dita#FAR_16_203" base="i1104876" outputclass="fm:ParaNumOnly" class="- topic/xref ">16.203</xref>, when potential fluctuations require coverage and are not included in cost contingencies provided for by the clause at <xref href="52.222-43.dita#FAR_52_222_43" base="i1056443" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.222-43</xref>.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="FAR_17_109"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">17.109</ph> Contract clauses.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d1048e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1076e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            The contracting officer shall insert the clause at <xref href="52.217-2.dita#FAR_52_217_2"
+                        base="i1057120"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.217-2</xref>, Cancellation Under Multi-year Contracts, in solicitations and contracts when a multi-year contract is contemplated.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1076e18" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Economic price adjustment clauses</i>. Economic price adjustment clauses are adaptable to multi-year contracting needs. When the period of production is likely to warrant a labor and material costs contingency in the contract price, the contracting officer should normally use an economic price adjustment clause (see <xref href="16.203.dita#FAR_16_203"
+                        base="i1104876"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">16.203</xref>). When contracting for services, the contracting officer-</p>
+               <ol id="d1048e41" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1076e29" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                Shall add the clause at <xref href="52.222-43.dita#FAR_52_222_43"
+                              base="i1056443"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.222-43</xref>, Fair Labor Standards Act and Service Contract Labor Standards- Price Adjustment (Multiple Year and Option Contracts), when the contract includes the clause at <xref href="52.222-41.dita#FAR_52_222_41"
+                              base="i1056332"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.222-41</xref>, Service Contract Labor Standards;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1076e40" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                May modify the clause at <xref href="52.222-43.dita#FAR_52_222_43"
+                              base="i1056443"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.222-43</xref> in overseas contracts when laws, regulations, or international agreements require contractors to pay higher wage rates; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1076e48" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                May use an economic price adjustment clause authorized by <xref href="16.203.dita#FAR_16_203"
+                              base="i1104876"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">16.203</xref>, when potential fluctuations require coverage and are not included in cost contingencies provided for by the clause at <xref href="52.222-43.dita#FAR_52_222_43"
+                              base="i1056443"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.222-43</xref>.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

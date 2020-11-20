@@ -1,68 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="FAR_25_301_1" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-		<title class="- topic/title ">
-			<ph props="autonumber" class="- topic/ph ">25.301-1</ph> Scope.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<ol id="d1609e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d1625e10" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>This section applies to contracts	requiring contractor personnel to perform outside the United States-</p>
-					<ol id="d1609e23" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1625e16" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>In	a designated operational area during-</p>
-							<ol id="d1609e33" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d1625e22" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>Contingency	operations;</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1625e27" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>Humanitarian	or peacekeeping operations; or</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1625e32" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(iii)</ph>Other	military operations or military exercises, when designated by the	combatant commander; or</p>
-								</li>
-							</ol>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1625e37" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>When supporting	a diplomatic or consular mission-</p>
-							<ol id="d1609e72" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d1625e43" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>That has been	designated by the Department of State as a danger pay post (see <xref href="https://aoprals.state.gov/" format="html" scope="external" class="- topic/xref ">https://aoprals.state.gov/</xref>); or</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d1625e51" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>That the	contracting officer determines is a post at which application of	the clause at FAR <xref href="52.225-19.dita#FAR_52_225_19" base="i1054312" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.225-19</xref>,	Contractor Personnel in a Designated Operational Area or Supporting	a Diplomatic or Consular Mission outside the United States, is appropriate.</p>
-								</li>
-							</ol>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1625e59" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>Any of	the types of operations listed in paragraph (a)(1) of this section	may include stability operations such as-</p>
-					<ol id="d1609e112" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d1625e65" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>Establishment	or maintenance of a safe and secure environment; or</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d1625e70" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>Provision	of emergency infrastructure reconstruction, humanitarian relief,	or essential governmental services (until feasible to transition	to local government).</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d1625e75" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>This section	does not apply to personal services contracts (see FAR <xref href="37.104.dita#FAR_37_104" base="i1077856" outputclass="fm:ParaNumOnly" class="- topic/xref ">37.104</xref>), unless specified	otherwise in agency procedures.</p>
-				</li>
-			</ol>
-		</conbody>
-	</concept>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_25_301_1"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">25.301-1</ph> Scope.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d1609e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1631e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            This section applies to contracts	requiring contractor personnel to perform outside the United States-</p>
+               <ol id="d1609e23" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1631e16" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                In	a designated operational area during-</p>
+                     <ol id="d1609e33" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d1631e22" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+										                    Contingency	operations;</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1631e27" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+										                    Humanitarian	or peacekeeping operations; or</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1631e32" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+										                    Other	military operations or military exercises, when designated by the	combatant commander; or</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1631e37" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                When supporting	a diplomatic or consular mission-</p>
+                     <ol id="d1609e72" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d1631e43" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+										                    That has been	designated by the Department of State as a danger pay post (see <xref href="https://aoprals.state.gov/"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://aoprals.state.gov/</xref>); or</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d1631e51" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+										                    That the	contracting officer determines is a post at which application of	the clause at FAR <xref href="52.225-19.dita#FAR_52_225_19"
+                                    base="i1054312"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">52.225-19</xref>,	Contractor Personnel in a Designated Operational Area or Supporting	a Diplomatic or Consular Mission outside the United States, is appropriate.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1631e59" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            Any of	the types of operations listed in paragraph (a)(1) of this section	may include stability operations such as-</p>
+               <ol id="d1609e112" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1631e65" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                Establishment	or maintenance of a safe and secure environment; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1631e70" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                Provision	of emergency infrastructure reconstruction, humanitarian relief,	or essential governmental services (until feasible to transition	to local government).</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1631e75" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            This section	does not apply to personal services contracts (see FAR <xref href="37.104.dita#FAR_37_104"
+                        base="i1077856"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">37.104</xref>), unless specified	otherwise in agency procedures.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>
