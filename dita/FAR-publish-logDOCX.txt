@@ -1,7 +1,8 @@
-Unable to locate tools.jar. Expected to find it in C:\Program Files\Java\jre1.8.0_261\lib\tools.jar
-   [filter] file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/3.502-1.dita:71:57: [DOTJ057E][ERROR] The id attribute value "d122e42" is not unique within the topic that contains it.
-[move-meta] file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/FAR.ditamap:2647:51: [DOTX019W][WARN]: The type attribute on a topicref was set to 'concept', but the topicref references a 'topic' topic. This may cause your links to sort incorrectly in the output. Note that the type attribute cascades in maps, so the value 'concept' may come from an ancestor topicref. 
+Unable to locate tools.jar. Expected to find it in C:\Program Files\Java\jre1.8.0_271\lib\tools.jar
+[move-meta] file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/FAR.ditamap:3412:37: [DOTX019W][WARN]: The type attribute on a topicref was set to 'concept', but the topicref references a 'topic' topic. This may cause your links to sort incorrectly in the output. Note that the type attribute cascades in maps, so the value 'concept' may come from an ancestor topicref. 
 [topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-Tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\FAR_Part_52.dita (The system cannot find the file specified)
-[topicpull] file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/42.1503.dita:601:50: [DOTX031E][ERROR]: The file FAR_Part_52.dita#FAR_52_219_9 is not available to resolve link information. 
+[topicpull] file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/42.1503.dita:367:50: [DOTX031E][ERROR]: The file FAR_Part_52.dita#FAR_52_219_9 is not available to resolve link information. 
 [topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-Tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\FAR_Part_52.dita (The system cannot find the file specified)
-[topicpull] file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/42.1503.dita:601:50: [DOTX031E][ERROR]: The file FAR_Part_52.dita#FAR_52_219_9 is not available to resolve link information. 
+[topicpull] file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/42.1503.dita:367:50: [DOTX031E][ERROR]: The file FAR_Part_52.dita#FAR_52_219_9 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\GSA-Acquisition-Tools\TOOLS\DITA-OT\dita-ot-2.5.4\xsl\preprocess\FAR_Part_52.dita (The system cannot find the file specified)
+[topicpull] file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/42.1503.dita:367:50: [DOTX031E][ERROR]: The file FAR_Part_52.dita#FAR_52_219_9 is not available to resolve link information. 
