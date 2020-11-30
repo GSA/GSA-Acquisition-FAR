@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_1_105_2"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,17 +13,20 @@
             <li class="- topic/li ">
                <p id="d20e10" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
                   <i class="+ topic/ph hi-d/i ">General.</i> The
 FAR is divided into subchapters, parts (each of which covers a separate
 aspect of acquisition), subparts, sections, and subsections.</p>
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d20e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Numbering.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                   Numbering.</p>
                <ol id="d18e35" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d20e23" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         The
 numbering system permits the discrete identification of every FAR
 paragraph. The digits to the left of the decimal point represent
 the part number. The numbers to the right of the decimal point and
@@ -43,7 +45,8 @@ The following example illustrates the make-up of a FAR number citation
                   </li>
                   <li class="- topic/li ">
                      <p id="d20e30" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Subdivisions
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         Subdivisions
 below the section or subsection level consist of parenthetical alpha
 numerics using the following sequence:</p>
                      <p id="d20e34" class="- topic/p ">(a)(1)(i)(A)(<i class="+ topic/ph hi-d/i ">1</i>)(<i class="+ topic/ph hi-d/i ">i</i>)</p>
@@ -52,24 +55,28 @@ numerics using the following sequence:</p>
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d20e43" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> References
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                   References
 and citations.</p>
                <ol id="d18e79" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d20e49" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Unless otherwise stated, cross-references
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         Unless otherwise stated, cross-references
 indicate parts, subparts, sections, subsections, paragraphs, subparagraphs,
 or subdivisions of this regulation.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d20e54" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> This regulation
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         This regulation
 may be referred to as the Federal Acquisition Regulation or the
 FAR.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d20e59" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Using the
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                         Using the
 FAR coverage at <xref href="9.106-4.dita#FAR_9_106_4"
                               base="i1116357"
                               outputclass="fm:ParaNumOnly"
@@ -78,7 +85,8 @@ as a typical illustration, reference to the–</p>
                      <ol id="d18e107" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d20e68" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Part would be
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                               Part would be
 "FAR <xref href="Part_9.dita#FAR_Part_9"
                                     base="i1116493"
                                     outputclass="fm:Part"
@@ -87,7 +95,8 @@ FAR and "part 9" within the FAR.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d20e76" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Subpart
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                               Subpart
 would be "FAR subpart <xref href="Subpart_9.1.dita#FAR_Subpart_9_1"
                                     base="i1116049"
                                     outputclass="fm:ParaNumOnly"
@@ -99,7 +108,8 @@ outside the FAR and "subpart <xref href="Subpart_9.1.dita#FAR_Subpart_9_1"
                         </li>
                         <li class="- topic/li ">
                            <p id="d20e87" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Section
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                               Section
 would be "FAR <xref href="9.106.dita#FAR_9_106"
                                     base="i1116322"
                                     outputclass="fm:ParaNumOnly"
@@ -108,7 +118,8 @@ and "9.106" within the FAR.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d20e95" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph> Subsection
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                               Subsection
 would be "FAR <xref href="9.106-4.dita#FAR_9_106_4"
                                     base="i1116357"
                                     outputclass="fm:ParaNumOnly"
@@ -117,7 +128,8 @@ and "9.106-4" within the FAR.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d20e103" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph> Paragraph
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
+                               Paragraph
 would be "FAR <xref href="9.106-4.dita#FAR_9_106_4"
                                     base="i1116357"
                                     outputclass="fm:ParaNumOnly"
@@ -128,7 +140,8 @@ FAR and "9.106-4(d)" within the FAR.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d20e111" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Citations
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                         Citations
 of authority (<i class="+ topic/ph hi-d/i ">e.g.,</i> statutes or Executive orders) in the
 FAR shall follow the <i class="+ topic/ph hi-d/i ">Federal Register</i> form guides.</p>
                   </li>

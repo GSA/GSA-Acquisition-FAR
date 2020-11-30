@@ -1,0 +1,15 @@
+Error at char 3 in xsl:apply-templates/@select on line 299 column 85 of fixBuildAutonumbersFAR.xsl:
+  XTDE0410: An attribute node (props) cannot be created after a child of the containing
+  element. Most recent element start tag was output at line 299 of module fixBuildAutonumbersFAR.xsl
+  at xsl:apply-templates (file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/fixBuildAutonumbersFAR.xsl#259)
+     processing /map/topicref[6]/topicref[1]/topicref[4]/topicref[7]/topicref[5]
+  at xsl:apply-templates (file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/fixBuildAutonumbersFAR.xsl#259)
+     processing /map/topicref[6]/topicref[1]/topicref[4]/topicref[7]
+  at xsl:apply-templates (file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/fixBuildAutonumbersFAR.xsl#299)
+     processing /map/topicref[6]/topicref[1]/topicref[4]
+  at xsl:apply-templates (file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/fixBuildAutonumbersFAR.xsl#259)
+     processing /map/topicref[6]/topicref[1]
+  at xsl:apply-templates (file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/fixBuildAutonumbersFAR.xsl#299)
+     processing /map/topicref[6]
+  in built-in template rule
+An attribute node (props) cannot be created after a child of the containing element. Most recent element start tag was output at line 299 of module fixBuildAutonumbersFAR.xsl
