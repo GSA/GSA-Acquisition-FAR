@@ -10,7 +10,7 @@
 
 <map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
      title="FAR"
-     product="FAC 2021-02 Effective November 23, 2020">
+     product="FAC 2021-04 Effective January 19, 2021">
    <topicref navtitle="Volume I-Parts 1 to 51"
              href="Volume_I.dita"
              outputclass="Volume"
@@ -42,19 +42,19 @@ Regulation</navtitle>
          <navtitle>Foreword</navtitle>
       </topicmeta>
    </topicref>
-   <topicref navtitle="List Of Sections Affected"
+   <topicref navtitle="List of Sections Affected FAC 2021-02 Effective November 23, 2020"
              href="LSATable.dita"
              type="concept"
+             otherprops="NoProp"
              base="concept">
       <topicmeta>
-         <navtitle>List
-Of Sections Affected FAC 2020-09 Effective October 26,...</navtitle>
+         <navtitle>List Of Sections Affected</navtitle>
       </topicmeta>
    </topicref>
-   <topicref navtitle="Subchapter A - General"
+   <topicref navtitle="Subchapter B - General"
              href="Subchapter_A.dita"
              outputclass="SubChapter"
-             props="Subchapter B"
+             props="Subchapter A"
              audience="Subchapter_A"
              base="NoTitle"
              xtrc="Not">
@@ -3478,10 +3478,10 @@ clause.</navtitle>
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="Subchapter B - Competition and Acquisition Planning"
+   <topicref navtitle="Subchapter C - Competition and Acquisition Planning"
              href="Subchapter_B.dita"
              outputclass="SubChapter"
-             props="Subchapter C"
+             props="Subchapter B"
              audience="Subchapter_B"
              base="NoTitle"
              xtrc="Not">
@@ -7937,10 +7937,10 @@ the a...</navtitle>
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="Subchapter C - Contracting Methods and Contract Types"
+   <topicref navtitle="Subchapter D - Contracting Methods and Contract Types"
              href="Subchapter_C.dita"
              outputclass="SubChapter"
-             props="Subchapter D"
+             props="Subchapter C"
              audience="Subchapter_C"
              base="NoTitle"
              xtrc="Not">
@@ -12285,10 +12285,10 @@ to GAO.</navtitle>
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="Subchapter D - SocioeconomicPrograms"
+   <topicref navtitle="Subchapter E - SocioeconomicPrograms"
              href="Subchapter_D.dita"
              outputclass="SubChapter"
-             props="Subchapter E"
+             props="Subchapter D"
              audience="Subchapter_D"
              base="NoTitle"
              xtrc="Not">
@@ -18552,10 +18552,10 @@ clause.</navtitle>
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="Subchapter E - GeneralContracting Requirements"
+   <topicref navtitle="Subchapter F - GeneralContracting Requirements"
              href="Subchapter_E.dita"
              outputclass="SubChapter"
-             props="Subchapter F"
+             props="Subchapter E"
              audience="Subchapter_E"
              base="NoTitle"
              xtrc="Not">
@@ -24037,10 +24037,10 @@ clauses.</navtitle>
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="Subchapter F - SpecialCategoriesof Contracting"
+   <topicref navtitle="Subchapter G - SpecialCategoriesof Contracting"
              href="Subchapter_F.dita"
              outputclass="SubChapter"
-             props="Subchapter G"
+             props="Subchapter F"
              audience="Subchapter_F"
              base="NoTitle"
              xtrc="Not">
@@ -26623,10 +26623,10 @@ contracts.</navtitle>
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="Subchapter G - ContractManagement"
+   <topicref navtitle="Subchapter H - ContractManagement"
              href="Subchapter_G.dita"
              outputclass="SubChapter"
-             props="Subchapter H"
+             props="Subchapter G"
              audience="Subchapter_G"
              base="NoTitle"
              xtrc="Not">
@@ -32596,10 +32596,10 @@ clause.</navtitle>
          <navtitle>Foreword</navtitle>
       </topicmeta>
    </topicref>
-   <topicref navtitle="Subchapter H - ClausesandForms"
+   <topicref navtitle="Subchapter I - ClausesandForms"
              href="Subchapter_H.dita"
              outputclass="SubChapter"
-             props="Subchapter I"
+             props="Subchapter H"
              audience="Subchapter_H"
              base="NoTitle"
              xtrc="Not">
@@ -33204,7 +33204,7 @@ Indef...</navtitle>
                         <navtitle>52.204-16 Commercial and Government Entity Code Reporting.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.204-17  Ownership or Control of Offeror."
+                  <topicref navtitle="52.204-17 Ownership or Control of Offeror."
                             href="52.204-17.dita"
                             outputclass="subtopic"
                             props="52.204-17"
@@ -33212,7 +33212,7 @@ Indef...</navtitle>
                             base="concept"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.204-17Ownership or Control of Offeror.</navtitle>
+                        <navtitle>52.204-17 Ownership or Control of Offeror.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.204-18 Commercial and Government Entity Code Maintenance."
@@ -33293,8 +33293,8 @@ for Hardware, Software...</navtitle>
                             base="concept"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.204-24Representation Regarding
-Certain Telecommunication...</navtitle>
+                        <navtitle>52.204-24 Representation Regarding
+Certain Telecommunicatio...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment."
@@ -41226,7 +41226,7 @@ of subpart.</navtitle>
                          audience="52_301"
                          base="concept"
                          xtrc="Not">
-                  <topicref navtitle="52.301-1 FAR Matrix"
+                  <topicref navtitle="52.301-1 Far Matrix"
                             href="FARmatrix.dita"
                             outputclass="subtopic"
                             type="concept"

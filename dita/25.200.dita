@@ -2,9 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <topic id="FAR_25_200"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
           ditaarch:DITAArchVersion="1.2"
           class="- topic/topic ">
       <title class="- topic/title ">
@@ -13,8 +13,7 @@
          <ol id="d1600e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d1622e10" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-						            This subpart implements-</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> This subpart implements-</p>
                <ol id="d1600e23" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d1622e16" class="- topic/p ">
@@ -22,32 +21,50 @@
                         <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">41 U.S.C. chapter 83</xref>, Buy American;</p>
+                              class="- topic/xref ">41 U.S.C. chapter 83</xref>,
+Buy American;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d1622e23" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-								                Executive Order 10582, December 17, 1954; and</p>
+                        <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-016?>Executive Order 10582,
+December 17, 1954;<?FM MARKER [Why] Amend section 25.200 by—
+a.  Removing from the end of paragraph (a)(2) “and”;
+?></ph>
+                     </p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d1622e28" class="- topic/p ">
+                     <p class="- topic/p " id="d1622e31">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-								                Waiver of the component test of the Buy American statute for acquisitions of commercially available off-the-shelf (COTS) items in accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">41 U.S.C 1907</xref>.</p>
+                        <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-016?>Executive Order 13881,
+July 15, 2019; and<?FM MARKER [Why] b.  Redesignating paragraph (a)(3) as paragraph (a)(4);
+c.  Adding a new paragraph (a)(3); and
+?></ph>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d1622e39" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-016?>Waiver of the domestic
+content test of the Buy American statute for acquisitions of commercially
+available off-the-shelf (COTS) items in accordance with 41 U.S.C.
+1907, but see 25.201(b)(2)(ii).<?FM MARKER [Why] d.  Revising the newly redesignated paragraph (a)(4).?></ph>
+                     </p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d1622e36" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-						            It applies to contracts for the construction, alteration, or repair of any public building or public work in the United States.</p>
+               <p id="d1622e47" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> It applies
+to contracts for the construction, alteration, or repair of any
+public building or public work in the United States.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d1622e41" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-						            When using funds appropriated or otherwise provided by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act) for construction, see <xref href="Subpart_25.6.dita#FAR_Subpart_25_6"
+               <p id="d1622e52" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> When using
+funds appropriated or otherwise provided by the American Recovery
+and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act) for
+construction, see <xref href="Subpart_25.6.dita#FAR_Subpart_25_6"
                         base="i1091369"
                         outputclass="fm:Subpart"
                         class="- topic/xref ">subpart  25.6</xref>.</p>

@@ -2,18 +2,79 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_25_201"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">25.201</ph> Policy.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p id="d1631e8" class="- topic/p ">Except as provided in <xref href="25.202.dita#FAR_25_202"
-                  base="i1093069"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">25.202</xref>, use only domestic construction materials in construction contracts performed in the United States.</p>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li rev="FAC 2021-04 January 19, 2021" class="- topic/li ">
+               <p id="d1623e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <ph class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-016?>Except as provided in <xref href="25.202.dita#FAR_25_202"
+                           base="i1093069"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">25.202</xref>, use only domestic
+construction materials in construction contracts performed in the United
+States.<?FM MARKER [Why] Revise section 25.201
+?></ph>
+               </p>
+            </li>
+            <li rev="FAC 2021-04 January 19, 2021" class="- topic/li ">
+               <p id="d1623e23" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The Buy American statute restricts
+the purchase of construction materials that are not domestic construction
+materials. For manufactured construction materials, the Buy American
+statute and E.O. 13881 use a two-part test to define domestic construction
+materials.</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1623e29" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph ">The article must be manufactured
+in the United States; and</ph>
+                     </p>
+                  </li>
+                  <li props="Runin" class="- topic/li ">
+                     <p id="d1623e34" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                     </p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d1623e39" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph ">Except for construction
+material that consists wholly or predominantly of iron or steel
+or a combination of both, the cost of domestic components must exceed
+55 percent of the cost of all the components. In accordance with
+41 U.S.C. 1907, this domestic content test of the Buy American statute
+has been waived for acquisitions of COTS items (see 12.505(a)).</ph>
+                           </p>
+                        </li>
+                        <li rev="FAC 2021-04 January 19, 2021" class="- topic/li ">
+                           <p id="d1623e44" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>For construction material that
+consists wholly or predominantly of iron or steel or a combination
+of both, the cost of foreign iron and steel must constitute less
+than 5 percent of the cost of all the components used in such construction
+material (see the definition of "foreign iron and steel" at 25.003).
+The cost of foreign iron and steel includes but is not limited to
+the cost of foreign iron or steel mill products (such as bar, billet,
+slab, wire, plate, or sheet), castings, or forgings utilized in
+the manufacture of the construction material and a good faith estimate
+of the cost of all foreign iron or steel components excluding COTS
+fasteners. This domestic content test of the Buy American statute
+has not been waived for acquisitions of COTS items in this category,
+except for COTS fasteners.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+         </ol>
       </conbody>
    </concept>
 </dita>
