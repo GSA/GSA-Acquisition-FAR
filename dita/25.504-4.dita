@@ -869,7 +869,7 @@ an award of $32,000.</ph>
                                   class="- topic/entry ">$50,000</entry>
                         </row>
                         <row rowsep="1" class="- topic/row ">
-                           <entry colname="1" class="- topic/entry ">  
+                           <entry colname="1" class="- topic/entry ">
                               <p outputclass="Ctr" class="- topic/p ">2</p>
                            </entry>
                            <entry colname="2"
@@ -1014,12 +1014,13 @@ an award of $32,000.</ph>
                                   align="right"
                                   rev="FAC 2021-04 January 19, 2021"
                                   outputclass="CellBody_Right"
-                                  class="- topic/entry "> $<u class="+ topic/ph hi-d/u ">10,400</u>
+                                  class="- topic/entry ">
+                              <u class="+ topic/ph hi-d/u ">$10,400</u>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
-                           <entry colname="1" class="- topic/entry ">  
-                              <p outputclass="Ctr" class="- topic/p "/>
+                           <entry colname="1" class="- topic/entry ">
+                              <p outputclass="Ctr" class="- topic/p ">TOTAL</p>
                            </entry>
                            <entry namest="2"
                                   nameend="4"
@@ -1045,15 +1046,15 @@ an award of $32,000.</ph>
 specifies award on a group basis. Assume the Buy American statute
 applies and the acquisition cannot be set aside for small business
 concerns. All offerors are large businesses.</p>
-               <p id="d1660e565" class="- topic/p ">Analysis:
-(see <xref href="25.503.dita#FAR_25_503"
+               <p id="d1660e565" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Analysis:</i> (see <xref href="25.503.dita#FAR_25_503"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref "/>(c))</p>
+                        class="- topic/xref ">25.503</xref>(c))</p>
                <p id="d1660e569" class="- topic/p ">
-                  <ph class="- topic/ph ">STEP
-1: Determine which of the offers are domestic (see <xref href="25.503.dita#FAR_25_503"
+                  <ph class="- topic/ph ">STEP 1: Determine which of the offers are
+domestic (see <xref href="25.503.dita#FAR_25_503"
                            outputclass="fm:ParaNumOnly"
-                           class="- topic/xref "/>(c)(1)):</ph>
+                           class="- topic/xref ">25.503</xref>(c)(1)):</ph>
                </p>
                <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
                   <tgroup cols="3"
@@ -1089,7 +1090,11 @@ concerns. All offerors are large businesses.</p>
                            <entry colname="2" class="- topic/entry ">
                               <p id="d1660e591" outputclass="Ctr" class="- topic/p ">
                                  <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph ">$50,000 (Offer A1) + $10,500
-(Offer A4) = $60,500.$60,500/$91,200 (Offer A Total)= 66.3%</ph>
+(Offer A4) = $60,500</ph>
+                              </p>
+                              <p id="id211MEJ0H05Z" outputclass="Ctr" class="- topic/p ">
+                                 <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph ">$60,500/$91,200 (Offer
+A Total) = 66.3%</ph>
                               </p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
@@ -1103,11 +1108,7 @@ concerns. All offerors are large businesses.</p>
                            <entry colname="2" class="- topic/entry ">
                               <p id="d1660e602" outputclass="Ctr" class="- topic/p ">
                                  <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph ">$10,300 (Offer B4) /$91,800
-(Offer B Total) $ =</ph> 
-                                 <xref href="Subpart_11.2.dita#FAR_Subpart_11_2"
-                                       base="i1114257"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">11.2</xref>%</p>
+(Offer B Total) $ =</ph> 11.2%</p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
                               <p outputclass="Ctr" class="- topic/p ">Foreign</p>
@@ -1120,10 +1121,7 @@ concerns. All offerors are large businesses.</p>
                            <entry colname="2" class="- topic/entry ">
                               <p id="d1660e616" outputclass="Ctr" class="- topic/p ">
                                  <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph ">$10,400 (Offer C4) /$90,800
-(Offer C Total)</ph> = <xref href="Subpart_11.5.dita#FAR_Subpart_11_5"
-                                       base="i1114035"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">11.5</xref>%</p>
+(Offer C Total)</ph> = 11.5%</p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
                               <p outputclass="Ctr" class="- topic/p ">Foreign</p>
@@ -1145,8 +1143,8 @@ foreign offers are eligible or noneligible offers (see <xref href="25.503.dita#F
                           outputclass="Notitle_rule"
                           class="- topic/tgroup ">
                      <colspec colnum="1" colname="1" colwidth="5*" class="- topic/colspec "/>
-                     <colspec colnum="2" colname="2" colwidth="57*" class="- topic/colspec "/>
-                     <colspec colnum="3" colname="3" colwidth="38*" class="- topic/colspec "/>
+                     <colspec colnum="2" colname="2" colwidth="62*" class="- topic/colspec "/>
+                     <colspec colnum="3" colname="3" colwidth="33*" class="- topic/colspec "/>
                      <tbody class="- topic/tbody ">
                         <row rowsep="1" class="- topic/row ">
                            <entry colname="1"
@@ -1185,7 +1183,10 @@ foreign offers are eligible or noneligible offers (see <xref href="25.503.dita#F
                            <entry colname="2" class="- topic/entry ">
                               <p id="d1660e661" outputclass="Ctr" class="- topic/p ">
                                  <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph ">$50,500 (Offer B1) + $21,000
-(Offer B3) + $10,300 (Offer B4)= $81,800.$81,800 /$91,800 (Offer
+(Offer B3) + $10,300 (Offer B4)= $81,800.</ph>
+                              </p>
+                              <p id="id211MEL00BY4" outputclass="Ctr" class="- topic/p ">
+                                 <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph ">$81,800 /$91,800 (Offer
 B Total) = 89.1%</ph>
                               </p>
                            </entry>
@@ -1200,11 +1201,11 @@ B Total) = 89.1%</ph>
                            <entry colname="2" class="- topic/entry ">
                               <p id="d1660e672" outputclass="Ctr" class="- topic/p ">
                                  <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph ">$10,200 (Offer C2) + $10,400
-(Offer C4) = $20,600. $20,600/$90,800 (Offer C Total) =</ph> 
-                                 <xref href="Subpart_22.7.dita#FAR_Subpart_22_7"
-                                       base="id1617MA060F5"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">22.7</xref>%</p>
+(Offer C4) = $20,600. </ph>
+                              </p>
+                              <p id="id211MEM00EHS" outputclass="Ctr" class="- topic/p ">
+                                 <ph rev="FAC 2021-04 January 19, 2021" class="- topic/ph ">$20,600/$90,800
+(Offer C Total) =</ph> 22.7%</p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
                               <p outputclass="Ctr" class="- topic/p ">Noneligible</p>
