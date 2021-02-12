@@ -2,32 +2,43 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_52_225_6"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">52.225-6</ph> Trade Agreements Certificate.</title>
-      <conbody outputclass="provision" class="- topic/body concept/conbody ">
-         <p id="d3405e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
+         <p id="d3403e8" class="- topic/p ">As prescribed
+in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="25.1101.dita#FAR_25_1101"
                      base="i1090819"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">25.1101</xref>(c)(2)</ph>, insert the following provision:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p " id="d3405e15">Trade Agreements Certificate <ph outputclass="SmCaps" class="- topic/ph ">(May 2014)</ph>
-         </p>
+                     class="- topic/xref ">25.1101</xref>(c)(2)</ph>, insert
+the following provision:</p>
+         <p id="d3405e15"
+            rev="FAC 2021-03 February 16, 2021"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p "><?FM MARKER [CaseNumber] Technical Amendment ?>Trade Agreements Certificate (Feb
+2021)<?FM MARKER [Why] Amend section 52.225-6 by revising the date of the provision and the undesignated table in paragraph (b).?></p>
          <ol id="d3365e25" class="- topic/ol ">
             <li class="- topic/li ">
-               <p id="d3405e21" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-						            The offeror certifies that each end product, except those listed in paragraph (b) of this provision, is a U.S.-made or designated country end product, as defined in the clause of this solicitation entitled "Trade Agreements."</p>
+               <p id="d3403e21" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The
+offeror certifies that each end product, except those listed in
+paragraph (b) of this provision, is a U.S.-made or designated country
+end product, as defined in the clause of this solicitation entitled
+"Trade Agreements."</p>
             </li>
             <li class="- topic/li ">
-               <p id="d3405e26" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-						            The offeror shall list as other end products those supplies that are not U.S.-made or designated country end products.</p>
-               <p id="d3405e30" class="- topic/p ">Other End Products:</p>
+               <p id="d3403e26" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The offeror
+shall list as other end products those supplies that are not U.S.-made
+or designated country end products.</p>
+               <p id="d3403e30" outputclass="Ctr" class="- topic/p ">
+                  <ph rev="FAC 2021-03 February 16, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>Other
+End Products:<?FM MARKER [Why] Amend section 52.225-6 by revising the date of the provision and the undesignated table in paragraph (b).?></ph>
+               </p>
                <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
                   <tgroup cols="2"
                           colsep="0"
@@ -38,30 +49,33 @@
                               colname="1"
                               colwidth="50*"
                               colsep="0"
-                              class="- topic/colspec "
-                              rowheader="headers"/>
+                              class="- topic/colspec "/>
                      <colspec colnum="2"
                               colname="2"
                               colwidth="50*"
                               colsep="0"
-                              class="- topic/colspec "
-                              rowheader="headers"/>
+                              class="- topic/colspec "/>
                      <tbody class="- topic/tbody ">
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1"
                                   align="center"
+                                  rev="FAC 2021-03 February 16, 2021"
                                   outputclass="CellHeading_CtrSmallCaps"
                                   xtrc="SmallCaps"
-                                  class="- topic/entry ">Line Item No.</entry>
+                                  class="- topic/entry ">Line
+Item No.</entry>
                            <entry colname="2"
                                   align="center"
                                   outputclass="CellHeading_CtrSmallCaps"
                                   xtrc="SmallCaps"
-                                  class="- topic/entry ">Country of Origin</entry>
+                                  class="- topic/entry ">Country
+of Origin</entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p outputclass="Ctr" class="- topic/p ">______________</p>
+                              <p rev="FAC 2021-03 February 16, 2021"
+                                 outputclass="Ctr"
+                                 class="- topic/p ">______________</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p outputclass="Ctr" class="- topic/p ">_________________</p>
@@ -69,7 +83,9 @@
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p outputclass="Ctr" class="- topic/p ">______________</p>
+                              <p rev="FAC 2021-03 February 16, 2021"
+                                 outputclass="Ctr"
+                                 class="- topic/p ">______________</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p outputclass="Ctr" class="- topic/p ">_________________</p>
@@ -77,7 +93,9 @@
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p outputclass="Ctr" class="- topic/p ">______________</p>
+                              <p rev="FAC 2021-03 February 16, 2021"
+                                 outputclass="Ctr"
+                                 class="- topic/p ">______________</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p outputclass="Ctr" class="- topic/p ">_________________</p>
@@ -86,18 +104,29 @@
                      </tbody>
                   </tgroup>
                </table>
-               <p id="d3405e63" outputclass="Ctr" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">List as necessary</i>]</p>
+               <p id="d3403e66" outputclass="Ctr" class="- topic/p ">
+                  <ph rev="FAC 2021-03 February 16, 2021" class="- topic/ph ">[<i class="+ topic/ph hi-d/i ">List as necessary</i>]</ph>
+               </p>
             </li>
             <li class="- topic/li ">
-               <p id="d3405e69" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-						            The Government will evaluate offers in accordance with the policies and procedures of <xref href="Part_25.dita#FAR_Part_25"
+               <p id="d3403e73" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> The Government
+will evaluate offers in accordance with the policies and procedures
+of <xref href="Part_25.dita#FAR_Part_25"
                         base="i1093771"
                         outputclass="fm:Part"
-                        class="- topic/xref ">part  25</xref> of the Federal Acquisition Regulation. For line items covered by the WTO GPA, the Government will evaluate offers of U.S.-made or designated country end products without regard to the restrictions of the Buy American statute. The Government will consider for award only offers of U.S.-made or designated country end products unless the Contracting Officer determines that there are no offers for such products or that the offers for those products are insufficient to fulfill the requirements of this solicitation.</p>
+                        class="- topic/xref ">part  25</xref> of the Federal
+Acquisition Regulation. For line items covered by the WTO GPA, the
+Government will evaluate offers of U.S.-made or designated country
+end products without regard to the restrictions of the Buy American
+statute. The Government will consider for award only offers of U.S.-made
+or designated country end products unless the Contracting Officer
+determines that there are no offers for such products or that the
+offers for those products are insufficient to fulfill the requirements
+of this solicitation.</p>
             </li>
          </ol>
-         <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
+         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
       </conbody>
    </concept>
 </dita>
