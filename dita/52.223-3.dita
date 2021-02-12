@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_52_223_3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -60,7 +61,7 @@ Safety Data Sheet submitted under this contract.</p>
                            <entry colname="1" class="- topic/entry ">
                               <p rev="FAC 2021-03 February 16, 2021"
                                  outputclass="Ctr"
-                                 class="- topic/p ">Material (<i class="+ topic/ph hi-d/i ">Ifnone,insert"None"</i>)</p>
+                                 class="- topic/p ">Material (If none, insert <i class="+ topic/ph hi-d/i ">None</i>)</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p outputclass="Ctr" class="- topic/p ">Identification No.</p>
@@ -209,7 +210,7 @@ other sources.</p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
+         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?> 
             <p class="- topic/p ">
                <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">July</i>1995)</i>.
 If the contract is awarded by an agency other than the Department
@@ -229,7 +230,7 @@ authorized in writing by the Contracting Officer.</p>
 by mailing address as agency depots, distribution centers or customer
 supply centers, the Contractor shall provide one copy of the MSDS's
 in or on each shipping container. If affixed to the outside of each
-container, the MSDS's must be placed in a weather resistant envelope.</p>
+container, the MSDS's must be placed in a weather resistant envelope.</p> 
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>
