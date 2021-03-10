@@ -1,3 +1,3 @@
 # GSA-Acquisition-FAR
 GSA Acquisition.gov FAR
-FAC 2020-09 Effective 10-26-2020
+FAC 2021-05 Effective 3-10-2021
