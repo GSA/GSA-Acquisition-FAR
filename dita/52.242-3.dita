@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_52_242_3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -15,7 +16,7 @@ in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="42.709-6.dita#FAR_42_709_6"
                      base="FAR_42_709_6"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">42.709-6</xref>
             </ph>, use the
 following clause:</p>
          <p id="d3610e13" outputclass="Ctr_SmCaps" class="- topic/p ">Penalties for Unallowable
@@ -25,14 +26,15 @@ Costs <ph outputclass="SmCaps" class="- topic/ph ">(May 2014)</ph>
             <li class="- topic/li ">
                <p id="d3610e19" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Definition.</i>"Proposal,"
-as used in this clause, means either—</p>
+                  <i class="+ topic/ph hi-d/i ">Definition.</i>
+                  <i outputclass="Term" xtrf="_52.242-3" xtrc="d19e25">Proposal</i>, as used in this clause, means
+either—</p>
                <ol id="d3568e38" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3610e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> A final indirect
-cost rate proposal submitted by the Contractor after the expiration
-of its fiscal year which-</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> A final indirect cost rate proposal
+submitted by the Contractor after the expiration of its fiscal year
+which-</p>
                      <ol id="d3568e48" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d3610e33" class="- topic/p ">
@@ -142,7 +144,7 @@ Contract Disputes.</p>
 to the criteria in FAR <xref href="42.709-5.dita#FAR_42_709_5"
                         base="FAR_42_709_5"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref "/>,
+                        class="- topic/xref ">42.709-5</xref>,
 the Contracting Officer may waive the penalties in paragraph (d)
 or (e) of this clause.</p>
             </li>
