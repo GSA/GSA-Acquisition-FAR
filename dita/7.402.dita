@@ -2,78 +2,86 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_7_402"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">7.402</ph> Acquisition methods.</title>
-      <conbody class="- topic/body concept/conbody ">
+      <conbody class="- topic/body  concept/conbody ">
          <ol id="d430e13" class="- topic/ol ">
             <li props="Runin" class="- topic/li ">
                <p id="d444e10" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-						            Purchase method.</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Purchase method.</p>
                <ol id="d430e23" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d444e16" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-								                Generally, the purchase method is appropriate if the equipment will be used beyond the point in time when cumulative leasing costs exceed the purchase costs.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Generally,
+the purchase method is appropriate if the equipment will be used
+beyond the point in time when <ph rev="FAC 2021-06 July 12, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-001?>cumulative
+rental or leasing<?FM MARKER [Why] Amend section 7.402 by—
+a. Removing from paragraph (a)(1) “cumulative leasing” and adding “cumulative rental or leasing” in its place;?></ph> costs exceed the purchase costs.</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d444e21" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-								                Agencies should not rule out the purchase method of equipment acquisition in favor of leasing merely because of the possibility that future technological advances might make the selected equipment less desirable.</p>
+                     <p id="d444e26" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Agencies
+should not rule out the purchase method of equipment acquisition
+in <ph rev="FAC 2021-06 July 12, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-001?>favor of renting or leasing<?FM MARKER [Why] b. Removing from paragraph (a)(2) “favor of leasing” and adding “favor of renting or leasing” in its place; ?></ph> merely because
+of the possibility that future technological advances might make
+the selected equipment less desirable.</p>
                   </li>
                </ol>
             </li>
             <li props="Runin" class="- topic/li ">
-               <p id="d444e26" class="- topic/p ">
+               <p id="d444e36" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-						            Lease method.</p>
+                  <i class="+ topic/ph hi-d/i ">Rent
+or lease method.</i>
+               </p>
                <ol id="d430e53" class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d444e32" class="- topic/p ">
+                     <p id="d444e43" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-								                The lease method is appropriate if it is to the Government’s advantage under the circumstances. The lease method may also serve as an interim measure when the circumstances-</p>
+                        <ph rev="FAC 2021-06 July 12, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-001?>The
+rent or lease method is appropriate if it is to the Government's
+advantage under the circumstances. The rent or lease method may
+also serve as a short-term measure when the circumstances—<?FM MARKER [Why] c. Revising the paragraph (b) subject heading, paragraph (b)(1) introductory text, and paragraph (b)(2);?></ph>
+                     </p>
                      <ol id="d430e63" class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d444e38" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-										                    Require immediate use of equipment to meet program or system goals; but</p>
+                           <p id="d444e52" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Require
+immediate use of equipment to meet program or system goals; but</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d444e43" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-										                    Do not currently support acquisition by purchase.</p>
+                           <p id="d444e57" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Do not
+currently support acquisition by purchase.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d444e48" class="- topic/p ">
+                     <p id="d444e62" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-								                If a lease is justified, a lease with option to purchase is preferable.</p>
+                        <ph rev="FAC 2021-06 July 12, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-001?>If a rent or lease method
+is justified, a rental or lease agreement with option to purchase
+is preferable.<?FM MARKER [Why] c. Revising the paragraph (b) subject heading, paragraph (b)(1) introductory text, and paragraph (b)(2); ?></ph>
+                     </p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d444e53" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-								                Generally, a long term lease should be avoided, but may be appropriate if an option to purchase or other favorable terms are included.</p>
+                     <p id="d444e70" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Generally,
+a <ph rev="FAC 2021-06 July 12, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-001?>long term rental or lease<?FM MARKER [Why] d. Removing from paragraph (b)(3) “long term lease” and adding “long term rental or lease agreement” in its place; and?></ph> agreement
+should be avoided, but may be appropriate if an option to purchase or
+other favorable terms are included.</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d444e58" class="- topic/p ">
+                     <p id="d444e80" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-								                If a lease with option to purchase is used, the contract shall state the purchase price or provide a formula which shows how the purchase price will be established at the time of purchase.</p>
+                        <ph rev="FAC 2021-06 July 12, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-001?>If a rental or lease agreement
+with option<?FM MARKER [Why] e. Removing from paragraph (b)(4) “If a lease with option” and adding “If a rental or lease agreement with option” in its place.?></ph> to purchase is used, the contract shall state the
+purchase price or provide a formula which shows how the purchase
+price will be established at the time of purchase.</p>
                   </li>
                </ol>
             </li>
