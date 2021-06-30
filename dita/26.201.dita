@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_26_201"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -18,19 +19,17 @@ area, such as debris clearance, distribution of supplies, or reconstruction.</p>
             <i outputclass="Term" xtrf="_26.201" xtrc="d1713e21">Local
 firm</i> means a private organization, firm, or individual residing
 or doing business primarily in a major disaster or emergency area.</p>
-         <p class="- topic/p " id="d1710e16">
-            <i outputclass="Term" xtrf="_26.201" xtrc="d1713e27">Major
-disaster or emergency area</i> means the area included in the official
-Presidential declaration(s) and any additional areas identified
-by the Department of Homeland Security. Major disaster declarations
-and emergency declarations are published in the Federal Register
-and are available at <ph rev="FAC 2021-06 July 12, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>
+         <p id="d1710e16" class="- topic/p ">
+            <i outputclass="Term" xtrf="_26.201" xtrc="d1713e27">Major disaster or emergency area</i> means
+the area included in the official Presidential declaration(s) and
+any additional areas identified by the Department of Homeland Security.
+Major disaster declarations and emergency declarations are published
+in the Federal Register and are available at <ph rev="FAC 2021-06 July 12, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>
                <xref href="https://www.fema.gov/disaster/declarations"
                      format="html"
                      scope="external"
-                     class="- topic/xref ">https://www.fema.gov/disaster/disaster/declarations</xref>
-               <?FM MARKER [Why] Amend section 26.201 in the definition “Major disaster or emergency area” by removing “ http://www.fema.gov/​news/​disasters.fema” and adding “https://www.fema.gov/​disasters/​disaster-declarations” in its place.?>
-            </ph>.</p>
+                     class="- topic/xref ">https://www.fema.gov/disasters/disaster/declarations</xref>.<?FM MARKER [Why] Amend section 26.201 in the definition “Major disaster or emergency area” by removing “ http://www.fema.gov/​news/​disasters.fema” and adding “https://www.fema.gov/​disasters/​disaster-declarations” in its place.?></ph>
+         </p>
       </conbody>
    </concept>
 </dita>

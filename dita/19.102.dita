@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_19_102"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -43,9 +44,8 @@ at <ph rev="FAC 2021-06 July 12, 2021" class="- topic/ph "><?FM MARKER [CaseNumb
                            <xref href="https://www.census.gov/naics/"
                                  format="html"
                                  scope="external"
-                                 class="- topic/xref ">https://www.census.gov/naics/</xref>
-                           <?FM MARKER [Why] Amend section 19.102 by removing from paragraph (a)(2) “ https://www.census.gov/​eos/​www/​naics/​” and adding “https://www.census.gov/​naics/​” in its place.?>
-                        </ph>.</p>
+                                 class="- topic/xref ">https://www.census.gov/naics/</xref>.<?FM MARKER [Why] Amend section 19.102 by removing from paragraph (a)(2) “ https://www.census.gov/​eos/​www/​naics/​” and adding “https://www.census.gov/​naics/​” in its place.?></ph>
+                     </p>
                   </li>
                </ol>
             </li>

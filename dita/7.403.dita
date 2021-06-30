@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_7_403"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title rev="FAC 2021-06 July 12, 2021" class="- topic/title ">
@@ -52,7 +53,11 @@ and guidance, agencies may—<?FM MARKER [Why] c. Revising paragraph (b); and?><
                      <p id="d445e52" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>Request information from the GSA
 FAS National Customer Service Center by phone at 1-800-488-3111
-or by email at ncsccustomer.service@gsa.gov; and</p>
+or by email at <xref href="mailto:ncsccustomer.service@gsa.gov"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">ncsccustomer.service@gsa.gov</xref>;
+and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d445e57" class="- topic/p ">

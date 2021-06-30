@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_19_702"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -180,9 +181,10 @@ goals. A list of approved agreements may be obtained at <ph rev="FAC 2021-06 Jul
                      <xref href="https://business.defense.gov/Programs/Mentor-Protege-Program/"
                            format="html"
                            scope="external"
-                           class="- topic/xref ">https://business.defense.gov/Programs/Mentor-Protege-Program/</xref>
+                           class="- topic/xref ">https://business.defense.gov/Programs/Mentor-Protege-Program/.</xref>
                      <?FM MARKER [Why] Amend section 19.702 by removing from paragraph (d) “ http://www.acq.osd.mil/​osbp/​mentor_​protege/​” and adding “https://business.defense.gov/​Programs/​Mentor-Protege-Program/​” in its place.?>
-                  </ph>.</p>
+                  </ph>
+               </p>
             </li>
          </ol>
       </conbody>
