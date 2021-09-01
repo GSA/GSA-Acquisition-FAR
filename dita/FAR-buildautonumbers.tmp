@@ -3,6 +3,8 @@
 <?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
 <?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
 <?Fm Condition FM8_TRACK_CHANGES_DELETED Red STRIKETHROUGH show AsIs?>
+<?Fm Condition FM_PDF_Comments_Highlight AsIs NO_OVERRIDE show Yellow?>
+<?Fm Condition FM_PDF_Comments_Underline Blue SINGLE_UNDERLINE show AsIs?>
 <?Fm BoolCondExpr "DITA-Topicref" State 0?>
 <?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll True?>
@@ -50,8 +52,8 @@ Regulation</navtitle>
              type="concept"
              otherprops="NoProp">
       <topicmeta>
-         <navtitle>List of Sections Affected FAC 2021-06 Effective July 12,
-20...</navtitle>
+         <navtitle>List of Sections Affected
+FAC 2021-06 Effective July 12, 20...</navtitle>
       </topicmeta>
    </topicref>
    
@@ -11545,7 +11547,8 @@ of subpart.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>37.503 Agency-head responsibilities.</navtitle>
+                     <navtitle>37.503
+Agency-head responsibilities.</navtitle>
                   </topicmeta>
                
                
@@ -11608,8 +11611,7 @@ of part.</navtitle>
          
             
                <topicmeta>
-                  <navtitle>39.000 Scope
-of part.</navtitle>
+                  <navtitle>39.000 Scope of part.</navtitle>
                </topicmeta>
             
             
@@ -12017,23 +12019,6 @@ rates.</navtitle>
 and...</navtitle>
                      </topicmeta>
                   
-                  
-                     <topicmeta>
-                        <navtitle>42.709-5
-Computinginterest.</navtitle>
-                     </topicmeta>
-                  
-                  
-                     <topicmeta>
-                        <navtitle>42.709-6
-Waiver of the penalty.</navtitle>
-                     </topicmeta>
-                  
-                  
-                     <topicmeta>
-                        <navtitle>42.709-7Contractclause.</navtitle>
-                     </topicmeta>
-                  
                
                
                   <topicmeta>
@@ -12075,13 +12060,14 @@ Assessingthe penalty.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>42.705-5 Computing Interest.</navtitle>
+                        <navtitle>42.705-5
+Computing Interest.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>42.705-6 Waiver of the
-penalty.</navtitle>
+                        <navtitle>42.705-6
+Waiver of the penalty.</navtitle>
                      </topicmeta>
                   
                   

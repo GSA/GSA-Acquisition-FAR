@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?Fm Condition FM_PDF_Comments_Highlight AsIs NO_OVERRIDE show Yellow?>
+<?Fm Condition FM_PDF_Comments_Underline Blue SINGLE_UNDERLINE show AsIs?>
 <?Fm Condition DITA-Topicref Blue NO_OVERRIDE show AsIs?>
 <?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
 <?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
@@ -26016,10 +26018,10 @@ of subpart.</navtitle>
                          outputclass="subtopic"
                          props="37.503"
                          audience="37_503"
-                         base="concept"
-                         xtrc="Not">
+                         base="concept">
                   <topicmeta>
-                     <navtitle>37.503 Agency-head responsibilities.</navtitle>
+                     <navtitle>37.503
+Agency-head responsibilities.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="37.504 Contracting officials’ responsibilities."
@@ -26167,13 +26169,11 @@ of part.</navtitle>
             <topicref navtitle="39.000 Scope of part."
                       href="39.000.dita"
                       outputclass="subtopic"
+                      type="concept"
                       props="39.000"
-                      audience="39_000"
-                      base="concept"
-                      xtrc="Not">
+                      base="concept">
                <topicmeta>
-                  <navtitle>39.000 Scope
-of part.</navtitle>
+                  <navtitle>39.000 Scope of part.</navtitle>
                </topicmeta>
             </topicref>
             <topicref navtitle="39.001Applicability."
@@ -27120,38 +27120,6 @@ rates.</navtitle>
 and...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="42.705-5 Computing Interest."
-                            href="42.709-5.dita"
-                            outputclass="subtopic"
-                            type="concept"
-                            props="42.705-6"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>42.709-5
-Computinginterest.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="42.705-6 Waiver of the penalty."
-                            href="42.709-6.dita"
-                            outputclass="subtopic"
-                            type="concept"
-                            props="42.705-7"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>42.709-6
-Waiver of the penalty.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="42.705-7Contract clause."
-                            href="42.709-7.dita"
-                            outputclass="subtopic"
-                            type="concept"
-                            props="42.705-8"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>42.709-7Contractclause.</navtitle>
-                     </topicmeta>
-                  </topicref>
                </topicref>
                <topicref navtitle="42.706 Distribution of documents."
                          href="42.706.dita"
@@ -27235,7 +27203,7 @@ cost ...</navtitle>
 Assessingthe penalty.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="42.705-5 Computing Interest."
+                  <topicref navtitle="42.709-5 Computing Interest."
                             href="42.709-5.dita"
                             outputclass="subtopic"
                             type="concept"
@@ -27246,7 +27214,7 @@ Assessingthe penalty.</navtitle>
 Computing Interest.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="42.705-6 Waiver of the penalty."
+                  <topicref navtitle="42.709-6 Waiver of the penalty."
                             href="42.709-6.dita"
                             outputclass="subtopic"
                             type="concept"
@@ -27257,7 +27225,7 @@ Computing Interest.</navtitle>
 Waiver of the penalty.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="42.705-7Contract clause."
+                  <topicref navtitle="42.709-7Contract clause."
                             href="42.709-7.dita"
                             outputclass="subtopic"
                             type="concept"

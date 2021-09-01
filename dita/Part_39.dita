@@ -1,92 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="FAR_Part_39">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="FAR_Part_39"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 39</ph> - Acquisition of Information Technology</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p id="d2434e10">
-                  <xref outputclass="fm:TOC" href="39.000.dita#FAR_39_000"/>
+         <ph props="autonumber" class="- topic/ph ">Part 39</ph> - Acquisition of Information
+Technology</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li rev="FAC 2021-07 September 10, 2021" class="- topic/li ">
+               <p class="- topic/p " id="d2434e10">
+                  <xref href="39.000.dita#FAR_39_000"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">39.000
+Scope of part.</xref>
                </p>
             </li>
-            <li rev="FAC 2021-07 September 10, 2021">
-               <p id="d2434e13">
-                  <xref outputclass="fm:TOC" href="39.001.dita#FAR_39_001"/>
+            <li rev="FAC 2021-07 September 10, 2021" class="- topic/li ">
+               <p class="- topic/p " id="d2434e14">
+                  <xref href="39.001.dita#FAR_39_001"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">39.001
+Applicability.</xref>
                </p>
             </li>
-            <li>
-               <p id="d2434e16">
-                  <xref outputclass="fm:TOC" href="39.002.dita#FAR_39_002"/>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d2434e18">
+                  <xref href="39.002.dita#FAR_39_002"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">39.002
+Definitions.</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p id="d2434e19">
-                  <xref outputclass="fm:TOC" href="Subpart_39.1.dita#FAR_Subpart_39_1"/>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p " id="d2434e22">
+                  <xref href="Subpart_39.1.dita#FAR_Subpart_39_1"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart
+39.1 - General</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2434e23">
-                        <xref outputclass="fm:TOC" href="39.101.dita#FAR_39_101"/>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d2434e27">
+                        <xref href="39.101.dita#FAR_39_101"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">39.101
+Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2434e26">
-                        <xref outputclass="fm:TOC" href="39.102.dita#FAR_39_102"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d2434e31">
+                        <xref href="39.102.dita#FAR_39_102"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">39.102
+Management of risk.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2434e29">
-                        <xref outputclass="fm:TOC" href="39.103.dita#FAR_39_103"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d2434e35">
+                        <xref href="39.103.dita#FAR_39_103"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">39.103
+Modular contracting.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2434e32">
-                        <xref outputclass="fm:TOC" href="39.104.dita#FAR_39_104"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d2434e39">
+                        <xref href="39.104.dita#FAR_39_104"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">39.104
+Information technology services.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2434e35">
-                        <xref outputclass="fm:TOC" href="39.105.dita#FAR_39_105"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d2434e43">
+                        <xref href="39.105.dita#FAR_39_105"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">39.105
+Privacy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2434e38">
-                        <xref outputclass="fm:TOC" href="39.106.dita#FAR_39_106"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d2434e47">
+                        <xref href="39.106.dita#FAR_39_106"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">39.106
+Contract clause.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p id="d2434e41">
-                  <xref outputclass="fm:TOC" href="Subpart_39.2.dita#FAR_Subpart_39_2"/>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p " id="d2434e51">
+                  <xref href="Subpart_39.2.dita#FAR_Subpart_39_2"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart
+39.2 - Information and Communication Technology</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p id="d2434e45">
-                        <xref outputclass="fm:TOC" href="39.201.dita#FAR_39_201"/>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d2434e56">
+                        <xref href="39.201.dita#FAR_39_201"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">39.201 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p id="d2434e48">
-                        <xref outputclass="fm:TOC" href="39.202.dita#FAR_39_202"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d2434e60">
+                        <xref href="39.202.dita#FAR_39_202"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">39.202
+Definition.</xref>
                      </p>
                   </li>
-                  <li rev="FAC 2021-07 September 10, 2021">
-                     <p id="d2434e51">
-                        <xref outputclass="fm:TOC" href="39.203.dita#FAR_39_203"/>
+                  <li rev="FAC 2021-07 September 10, 2021" class="- topic/li ">
+                     <p class="- topic/p " id="d2434e64">
+                        <xref href="39.203.dita#FAR_39_203"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">39.203
+Applicability.</xref>
                      </p>
                   </li>
-                  <li rev="FAC 2021-07 September 10, 2021">
-                     <p id="d2434e54">
-                        <xref outputclass="fm:TOC" href="39.204.dita#FAR_39_204"/>
+                  <li rev="FAC 2021-07 September 10, 2021" class="- topic/li ">
+                     <p class="- topic/p " id="d2434e68">
+                        <xref href="39.204.dita#FAR_39_204"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">39.204
+Exceptions.</xref>
                      </p>
                   </li>
-                  <li rev="FAC 2021-07 September 10, 2021">
-                     <p id="d2434e57">
-                        <xref outputclass="fm:TOC" href="39.205.dita#FAR_39_205"/>
+                  <li rev="FAC 2021-07 September 10, 2021" class="- topic/li ">
+                     <p class="- topic/p " id="d2434e72">
+                        <xref href="39.205.dita#FAR_39_205"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">39.205
+Exemptions.</xref>
                      </p>
                   </li>
                </ul>
