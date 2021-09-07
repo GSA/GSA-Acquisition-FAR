@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_52_245_1"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -857,7 +856,6 @@ shall establish and maintain Government accounting source data,
 as may be required by this contract, particularly in the areas of
 recognition of acquisitions, loss of Government property, and disposition
 of material and equipment.</p>
-                     <p id="d3642e663" class="- topic/p "/>
                   </li>
                </ol>
             </li>
@@ -1092,7 +1090,7 @@ may annotate inventory disposal schedules to identify property the
 Contractor wishes to purchase from the Government, in the event
 that the property is offered for sale.</p>
                            <p id="d3642e825" class="- topic/p ">
-                              <ph class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendments?> <?FM MARKER [Why] b. Removing paragraphs (j)(2)(iii)(A) through (G).?></ph>
+                              <ph rev="FAC 2021-07 September 10, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendments?> <?FM MARKER [Why] b. Removing paragraphs (j)(2)(iii)(A) through (G).?></ph>
                            </p>
                         </li>
                         <li class="- topic/li ">
@@ -1360,7 +1358,7 @@ Government-furnished," respectively.</p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
+         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?> 
             <p id="d3640e1033" class="- topic/p ">
                <i class="+ topic/ph hi-d/i ">Alternate
 I (Apr 2012)</i>. As prescribed in <xref href="45.107.dita#FAR_45_107"
@@ -1374,7 +1372,7 @@ any loss of Government property upon its delivery to the Contractor
 as Government-furnished property. However, the Contractor is not
 responsible for reasonable wear and tear to Government property
 or for Government property properly consumed in performing this
-contract.</p>
+contract.</p> 
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
             <p class="- topic/p ">Alternate II <i class="+ topic/ph hi-d/i ">(Apr 2012)</i>. As prescribed in <xref href="45.107.dita#FAR_45_107"
@@ -1408,7 +1406,7 @@ and agrees that-</p>
 States or its outlying areas shall, on the ground of race, color,
 or national origin, be excluded from participation in, be denied
 the benefits of, or be otherwise subjected to discrimination under
-this contemplated financial assistance (title to property)."</p>
+this contemplated financial assistance (title to property)."</p> 
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>
