@@ -2,45 +2,58 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_39_201"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">39.201</ph> Scope of subpart.</title>
-      <conbody class="- topic/body concept/conbody ">
+      <conbody class="- topic/body  concept/conbody ">
          <ol id="d2424e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d2446e10" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-						            This subpart implements Section 508 of the Rehabilitation Act of1973 (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                        scope="external"
-                        format="html"
-                        class="- topic/xref ">29 U.S.C.794d</xref>), and the Architectural and Transportation Barriers Compliance Board Electronic and Information Technology (EIT) Accessibility Standards (<ph outputclass="CFR" class="- topic/ph ">36 CFR Part 1194</ph>).</p>
+                  <ph rev="FAC 2021-07 September 10, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2017-011?>This subpart implements
+section 508 of the Rehabilitation Act of 1973 (<xref href="https://www.govinfo.gov/link/uscode/29/794?type=usc&amp;year=mostrecent&amp;link-type=html"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">29 U.S.C. 794</xref>d), and
+the Architectural and Transportation Barriers Compliance Board's
+(U.S. Access Board) information and communication technology (ICT) accessibility
+standards at <xref href="https://www.federalregister.gov/select-citation/2021/08/11/36-CFR-1194.1"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">36 CFR 1194.1</xref>.<?FM MARKER [Why] Amend section 39.201 by—
+a. Revising paragraph (a); and?></ph>
+               </p>
             </li>
             <li class="- topic/li ">
-               <p id="d2446e21" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-						            Further information on Section 508 is available via the Internet at <xref href="http://www.section508.gov"
-                        scope="external"
+               <p id="d2446e24" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Further
+information on Section 508 is available via the Internet at <xref href="http://www.section508.gov"
                         format="html"
+                        scope="external"
                         class="- topic/xref ">http://www.section508.gov</xref>.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d2446e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-						            When acquiring EIT, agencies must ensure that-</p>
+               <p id="d2446e32" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> When acquiring <ph rev="FAC 2021-07 September 10, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2017-011?>ICT,<?FM MARKER [Why] b. Removing from paragraph (c) introductory text the term “EIT” and adding the term “ICT” in its place.?></ph> agencies must
+ensure that—</p>
                <ol id="d2424e47" class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d2446e35" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-								                Federal employees with disabilities have access to and use of information and data that is comparable to the access and use by Federal employees who are not individuals with disabilities; and</p>
+                     <p id="d2446e43" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Federal employees with disabilities
+have access to and use of information and data that is comparable
+to the access and use by Federal employees who are not individuals
+with disabilities; and</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d2446e40" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-								                Members of the public with disabilities seeking information or services from an agency have access to and use of information and data that is comparable to the access to and use of information and data by members of the public who are not individuals with disabilities.</p>
+                     <p id="d2446e48" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Members
+of the public with disabilities seeking information or services
+from an agency have access to and use of information and data that
+is comparable to the access to and use of information and data by
+members of the public who are not individuals with disabilities.</p>
                   </li>
                </ol>
             </li>

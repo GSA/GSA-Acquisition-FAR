@@ -2,131 +2,217 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_52_219_33"
+            rev="FAC 2021-07 September 10, 2021"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">52.219-33</ph> Nonmanufacturer Rule.</title>
+         <ph props="autonumber" class="- topic/ph ">52.219-33</ph> 
+         <?FM MARKER [CaseNumber] FAR Case 2016-011?>Nonmanufacturer Rule.<?FM MARKER [Why] Revise section 52.219-33.?></title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p id="d3304e8" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+         <p id="d3305e10" class="- topic/p ">As prescribed
+in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="19.507.dita#FAR_19_507"
                      base="i1100931"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">19.507</xref>(h)</ph>, insert the following clause:</p>
-         <p id="id203KG0I0FTL" outputclass="Ctr_SmCaps" class="- topic/p ">Nonmanufacturer Rule (Mar 2020)</p>
+                     class="- topic/xref ">19.507</xref>(h)</ph>, insert
+the following clause:</p>
+         <p id="id203KG0I0FTL" outputclass="Ctr_SmCaps" class="- topic/p ">Nonmanufacturer
+Rule (Sep 2021)</p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
-               <p id="d3304e19" class="- topic/p ">
+               <p id="d3305e21" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-						            This clause does not apply to the unrestricted portion of a partial set-aside.</p>
+                  <i class="+ topic/ph hi-d/i ">Definitions</i>.
+As used in this clause—</p>
+               <p id="d3305e27" class="- topic/p ">
+                  <i outputclass="Term" xtrf="_52.219-33" xtrc="d189e30">Manufacturer</i> means
+the concern that transforms raw materials, miscellaneous parts,
+or components into the end item. Concerns that only minimally alter
+the item being procured do not qualify as manufacturers of the end
+item. Concerns that add substances, parts, or components to an existing
+end item to modify its performance will not be considered the end
+item manufacturer, where those identical modifications can be performed
+by and are available from the manufacturer of the existing end item.</p>
+               <p id="d3305e31" class="- topic/p ">
+                  <i outputclass="Term" xtrf="_52.219-33" xtrc="d189e34">Nonmanufacturer</i> means a concern, including
+a supplier, that provides an end item it did not manufacture, process,
+or produce.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d3304e24" class="- topic/p ">
+               <p id="d3305e36" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <i class="+ topic/ph hi-d/i ">Applicability.</i> This clause applies to—</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d3304e32" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-								                Contracts that have been set aside, in total or in part;</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d3304e37" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-								                Orders under multiple-award contracts as described in <xref href="8.405-5.dita#FAR_8_405_5"
-                              base="i1117805"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">8.405-5</xref> and <xref href="16.505.dita#FAR_16_505"
-                              base="i1104008"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">16.505</xref>(b)(2)(i)(F) that have been set aside for any of the small business concerns identified in <xref href="19.000.dita#FAR_19_000"
-                              base="i1101771"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">19.000</xref>(a)(3); and</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d3304e51" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-								                Orders issued directly to any of the small business concerns identified in <xref href="19.000.dita#FAR_19_000"
-                              base="i1101771"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">19.000</xref>(a)(3) under multiple-award contracts as described in <xref href="19.504.dita#FAR_19_504"
-                              base="id203CEK0I0HS"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">19.504</xref>(c)(1)(ii).</p>
-                  </li>
-               </ol>
-            </li>
-            <li props="Runin" class="- topic/li ">
-               <p id="d3304e62" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Applicability.</i>
                </p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d3304e67" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-								                The Contractor shall—</p>
+                     <p id="d3305e43" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> This clause
+does not apply to contracts awarded pursuant to the unrestricted
+portion of a partial set-aside or to a contractor that is the manufacturer
+of the product or end item.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d3305e48" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> This clause
+applies to—</p>
                      <ol class="- topic/ol ">
-                        <li props="Runin" class="- topic/li ">
-                           <p id="d3304e73" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                           </p>
+                        <li class="- topic/li ">
+                           <p id="d3305e54" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Contracts
+that have been awarded pursuant to a set-aside, in total or in part,
+for any of the small business concerns identified in <xref href="19.000.dita#FAR_19_000"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">19.000</xref>(a)(3);</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3305e62" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Contracts
+that have been awarded on a sole-source basis in accordance with
+subparts <xref href="Subpart_19.8.dita#FAR_Subpart_19_8"
+                                    base="i1099848"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">19.8</xref>, <xref href="Subpart_19.13.dita#FAR_Subpart_19_13"
+                                    base="i1099552"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">19.13</xref>, <xref href="Subpart_19.14.dita#FAR_Subpart_19_14"
+                                    base="i1099391"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">19.14</xref>, and <xref href="Subpart_19.15.dita#FAR_Subpart_19_15"
+                                    base="i1099174"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">19.15</xref>;</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3305e79" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Orders
+expected to exceed the simplified acquisition threshold and that
+are—</p>
                            <ol class="- topic/ol ">
                               <li class="- topic/li ">
-                                 <p id="d3304e78" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-												                        Provide the end item of a small business manufacturer, or if set aside or awarded on a sole source basis to a HUBZone small business, provide the end item of a HUBZone small business manufacturer, that has been manufactured or produced in the United States or its outlying areas; or</p>
-                              </li>
-                              <li class="- topic/li ">
-                                 <p id="d3304e83" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-												                        If this procurement is an order as described in <xref href="8.405-5.dita#FAR_8_405_5"
+                                 <p id="d3305e85" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Set
+aside for small business under multiple-award contracts, as described
+in <xref href="8.405-5.dita#FAR_8_405_5"
                                           base="i1117805"
                                           outputclass="fm:ParaNumOnly"
-                                          class="- topic/xref ">8.405-5</xref> or <xref href="16.505.dita#FAR_16_505"
+                                          class="- topic/xref ">8.405-5</xref> and <xref href="16.505.dita#FAR_16_505"
                                           base="i1104008"
                                           outputclass="fm:ParaNumOnly"
-                                          class="- topic/xref ">16.505</xref>(b)(2)(i)(F) or processed under simplified acquisition procedures (see <xref href="Part_13.dita#FAR_Part_13"
-                                          base="i1112458"
-                                          outputclass="fm:Part"
-                                          class="- topic/xref ">part  13</xref>), and the total amount does not exceed $25,000, provide the end item of any domestic manufacturer;</p>
+                                          class="- topic/xref ">16.505</xref>(b)(2)(i)(F); or</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3305e96" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Issued directly
+to a small business concern under multiple-award contracts as described
+in <xref href="19.504.dita#FAR_19_504"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">19.504</xref>(c)(1)(ii);</p>
                               </li>
                            </ol>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3304e97" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-										                    Not exceed 500 employees;</p>
+                           <p id="d3305e104" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>Orders,
+regardless of dollar value, that are—</p>
+                           <ol class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p id="d3305e110" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Set aside in accordance with subparts <xref href="Subpart_19.8.dita#FAR_Subpart_19_8"
+                                          base="i1099848"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">19.8</xref>, <xref href="Subpart_19.13.dita#FAR_Subpart_19_13"
+                                          base="i1099552"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">19.13</xref>, <xref href="Subpart_19.14.dita#FAR_Subpart_19_14"
+                                          base="i1099391"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">19.14</xref>, and <xref href="Subpart_19.15.dita#FAR_Subpart_19_15"
+                                          base="i1099174"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">19.15</xref> under multiple-award
+contracts as described in <xref href="8.405-5.dita#FAR_8_405_5"
+                                          base="i1117805"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">8.405-5</xref> and <xref href="16.505.dita#FAR_16_505"
+                                          base="i1104008"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">16.505</xref>(b)(2)(i)(F); or</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d3305e134" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Issued
+directly to concerns that qualify for the programs described in
+subparts <xref href="Subpart_19.8.dita#FAR_Subpart_19_8"
+                                          base="i1099848"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">19.8</xref>, <xref href="Subpart_19.13.dita#FAR_Subpart_19_13"
+                                          base="i1099552"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">19.13</xref>, <xref href="Subpart_19.14.dita#FAR_Subpart_19_14"
+                                          base="i1099391"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">19.14</xref>, and <xref href="Subpart_19.15.dita#FAR_Subpart_19_15"
+                                          base="i1099174"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">19.15</xref> under multiple-award
+contracts as described in <xref href="19.504.dita#FAR_19_504"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">19.504</xref>(c)(1)(ii); and</p>
+                              </li>
+                           </ol>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3304e102" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-										                    Be primarily engaged in the retail or wholesale trade and normally sell the type of item being supplied; and</p>
+                           <p id="d3305e154" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>Contracts
+using the HUBZone price evaluation preference to award to a HUBZone
+concern unless the Contractor waived the evaluation preference.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d3305e159" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Requirements.</i>
+               </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d3305e165" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The Contractor
+shall—</p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d3305e171" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Provide
+an end item that a small business has manufactured, processed, or
+produced in the United States or its outlying areas; for kit assemblers
+who are nonmanufacturers, see paragraph (c)(2) of this clause instead;</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3304e107" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-										                    Take ownership or possession of the item(s) with its personnel, equipment, or facilities in a manner consistent with industry practice.</p>
+                           <p id="d3305e176" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Be primarily
+engaged in the retail or wholesale trade and normally sell the type
+of item being supplied; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d3305e181" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Take
+ownership or possession of the item(s) with its personnel, equipment,
+or facilities in a manner consistent with industry practice; for
+example, providing storage, transportation, or delivery.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d3304e112" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-								                In addition to the requirements set forth in paragraph (c)(1) of this clause, when the end item being acquired is a kit of supplies or other goods, 50 percent of the total value of the components of the kit shall be manufactured in the United States or its outlying areas by small business concerns. Where the Government has specified an item for the kit which is not produced by U.S. small business concerns, such items shall be excluded from the 50 percent calculation. See <xref href="https://www.govinfo.gov/content/pkg/CFR-2019-title13-vol1/xml/CFR-2019-title13-vol1-sec121-406.xml"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">13 CFR 121.406</xref>(c) for further information regarding nonmanufacturers.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d3304e120" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-								                For size determination purposes, there can be only one manufacturer of the end product being acquired. For the purposes of the nonmanufacturer rule, the manufacturer of the end product being acquired is the concern that transforms raw materials and/or miscellaneous parts or components into the end product. Firms which only minimally alter the item being procured do not qualify as manufacturers of the end item, such as firms that add substances, parts, or components to an existing end item to modify its performance, will not be considered the end item manufacturer, where those identical modifications can be performed by and are available from the manufacturer of the existing end item. See <xref href="https://www.govinfo.gov/content/pkg/CFR-2019-title13-vol1/xml/CFR-2019-title13-vol1-sec121-406.xml"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">13 CFR 121.406</xref> for further information regarding manufacturers.</p>
+                     <p id="d3305e186" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>When the
+end item being acquired is a kit of supplies, at least 50 percent
+of the total cost of the components of the kit shall be manufactured,
+processed, or produced in the United States or its outlying areas
+by small business concerns.</p>
                   </li>
                </ol>
             </li>

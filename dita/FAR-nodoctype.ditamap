@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?Fm Condition FM_PDF_Comments_Highlight AsIs NO_OVERRIDE show Yellow?>
+<?Fm Condition FM_PDF_Comments_Underline Blue SINGLE_UNDERLINE show AsIs?>
 <?Fm Condition DITA-Topicref Blue NO_OVERRIDE show AsIs?>
 <?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
 <?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
@@ -8,7 +10,7 @@
 <?Fm ShowAll True?>
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
 
-<map title="FAR" product="FAC 2021-06 Effective July 12, 2021">
+<map title="FAR" product="FAC 2021-07 Effective September 10, 2021">
    <topicref navtitle="Volume I-Parts 1 to 51"
              base="NoTitle"
              href="Volume_I.dita"
@@ -42,14 +44,15 @@ Regulation</navtitle>
          <navtitle>Foreword</navtitle>
       </topicmeta>
    </topicref>
-   <topicref navtitle="List of Sections Affected FAC 2021-06 Effective July 12, 2021"
+   <topicref navtitle="List of Sections Affected FAC 2021-07 Effective September 10, 2021"
              base="concept"
              href="LSATable.dita"
              props=""
              type="concept"
              otherprops="NoProp">
       <topicmeta>
-         <navtitle>List Of Sections Affected</navtitle>
+         <navtitle>List of Sections Affected
+FAC 2021-06 Effective July 12, 20...</navtitle>
       </topicmeta>
    </topicref>
    <topicref navtitle="Subchapter A - General"
@@ -193,7 +196,7 @@ Team.</navtitle>
                             audience="1_105_1"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>1.105-1 Publication and code arrangement.</navtitle>
+                        <navtitle>1.105-1 Publication and codearrangement.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="1.105-2 Arrangement of regulations."
@@ -4431,7 +4434,7 @@ of part.</navtitle>
 procedures.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="7.105 Contents of written acquisition plans."
+               <topicref navtitle="7.105 Contents of written acquisition&#xA;plans."
                          base="concept"
                          href="7.105.dita"
                          props="7.105"
@@ -4439,7 +4442,7 @@ procedures.</navtitle>
                          audience="7_105"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>7.105 Contents of written acquisition plans.</navtitle>
+                     <navtitle>7.105 Contents of written acquisitionplans.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="7.106 Additional requirements for major systems."
@@ -4677,14 +4680,14 @@ of subpart.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart&#xA;7.4 - Equipment Acquisition"
+            <topicref navtitle="Subpart 7.4 - Equipment Acquisition&#xA;      "
                       base="NoTitle"
                       href="Subpart_7.4.dita"
                       props="Subpart 7.4"
                       outputclass="SubPart"
                       audience="Subpart_7_4"
                       xtrc="Not">
-               <topicref navtitle="7.400Scope of subpart."
+               <topicref navtitle="7.400 &#xA;         Scope of subpart.&#xA;      "
                          base="NoTitle"
                          href="7.400.dita"
                          props="7.400"
@@ -4692,11 +4695,10 @@ of subpart.</navtitle>
                          audience="7_400"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>7.400 Scope
-of subpart.</navtitle>
+                     <navtitle>7.400 Scope of subpart.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="7.401Acquisition considerations."
+               <topicref navtitle="7.401 &#xA;         Acquisition considerations."
                          base="concept"
                          href="7.401.dita"
                          props="7.401"
@@ -4719,7 +4721,7 @@ of subpart.</navtitle>
 methods.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="7.403General&#xA;Services Administration assistance and OMB guidance. "
+               <topicref navtitle="7.403 &#xA;         General&#xA;Services Administration assistance and OMB guidance. "
                          base="concept"
                          href="7.403.dita"
                          props="7.403"
@@ -4727,7 +4729,8 @@ methods.</navtitle>
                          audience="7_403"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>7.403 General Services Administration assistance.</navtitle>
+                     <navtitle>7.403 GeneralServices Administration assistance and OMB
+gui...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="7.404 Contract clause."
@@ -4910,7 +4913,7 @@ clause.</navtitle>
                          audience="8_103"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>8.103 Information on available excess personal property.</navtitle>
+                     <navtitle>8.103 Information on availableexcess personal property.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="8.104 Obtaining nonreportable&#xA;property."
@@ -4921,7 +4924,7 @@ clause.</navtitle>
                          audience="8_104"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>8.104 Obtaining nonreportable property.</navtitle>
+                     <navtitle>8.104 Obtaining nonreportableproperty.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -5854,7 +5857,7 @@ standards.</navtitle>
                             audience="9_104_5"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>9.104-5 Representation and certifications regarding respons...</navtitle>
+                        <navtitle>9.104-5 Representation andcertifications regarding responsi...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="9.104-6 Federal Awardee Performance and Integrity Information System."
@@ -6101,7 +6104,7 @@ Ab...</navtitle>
                             audience="9_109_4"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>9.109-4 Certification by the offeror.</navtitle>
+                        <navtitle>9.109-4 Certification by theofferor.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="9.109-5 Solicitation provision."
@@ -6123,10 +6126,6 @@ Ab...</navtitle>
                          props="9.110"
                          outputclass="subtopic"
                          type="concept">
-                  <topicmeta>
-                     <navtitle>9.110
-Reserve Officer Training Corps and military recruitin...</navtitle>
-                  </topicmeta>
                   <topicref navtitle="9.110-1 &#xA;         Definitions."
                             base="concept"
                             href="9.110-1.dita"
@@ -6503,7 +6502,7 @@ of subpart.</navtitle>
                             audience="9_405_1"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>9.405-1 Continuation of current contracts.</navtitle>
+                        <navtitle>9.405-1 Continuation of currentcontracts.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="9.405-2 Restrictions on subcontracting."
@@ -7129,7 +7128,7 @@ acceptance.</navtitle>
                          audience="11_201"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>11.201 Identification and availability of specifications.</navtitle>
+                     <navtitle>11.201 Identification and availabilityof specifications.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="11.202 Maintenance of standardization documents."
@@ -7542,7 +7541,7 @@ of part.</navtitle>
                      <navtitle>12.201 General.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="12.202 Market research and description of agency need."
+               <topicref navtitle="12.202 Market research and&#xA;description of agency need."
                          base="concept"
                          href="12.202.dita"
                          props="12.202"
@@ -7550,7 +7549,7 @@ of part.</navtitle>
                          audience="12_202"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>12.202 Market research and description of agency need.</navtitle>
+                     <navtitle>12.202 Market research anddescription of agency need.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="12.203 Procedures for solicitation,&#xA;evaluation, and award."
@@ -7561,7 +7560,7 @@ of part.</navtitle>
                          audience="12_203"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>12.203 Procedures for solicitation, evaluation, and award.</navtitle>
+                     <navtitle>12.203 Procedures for solicitation,evaluation, and award.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="12.204 Solicitation/contract form."
@@ -7739,8 +7738,8 @@ of subpart.</navtitle>
                          audience="12_301"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>12.301 Solicitation provisions and contract clauses for
-the...</navtitle>
+                     <navtitle>12.301 Solicitation provisionsand contract clauses for
+the ...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="12.302 Tailoring of provisions and clauses for the acquisition of commercial items."
@@ -7868,8 +7867,8 @@ of subpart.</navtitle>
                          audience="12_503"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>12.503 Applicability of certain laws to Executive agency
-co...</navtitle>
+                     <navtitle>12.503 Applicability of certainlaws to Executive agency
+con...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="12.504 Applicability of certain&#x9;laws to subcontracts for the acquisition of commercial items."
@@ -7892,8 +7891,8 @@ th...</navtitle>
                          audience="12_505"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>12.505 Applicability of certain laws to contracts for
-the a...</navtitle>
+                     <navtitle>12.505 Applicability of certainlaws to contracts for the
+ac...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -8026,7 +8025,7 @@ of part.</navtitle>
                       audience="13_005"
                       xtrc="Not">
                <topicmeta>
-                  <navtitle>13.005 List of laws inapplicable to contracts and subcontra...</navtitle>
+                  <navtitle>13.005 List of laws inapplicableto contracts and subcontrac...</navtitle>
                </topicmeta>
             </topicref>
             <topicref navtitle="13.006 Inapplicable provisions and clauses."
@@ -9566,7 +9565,7 @@ Tradeoff process.</navtitle>
                             audience="15_101_2"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>15.101-2 Lowest price technically acceptable source selecti...</navtitle>
+                        <navtitle>15.101-2 Lowest price technicallyacceptable source selectio...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="15.101-3 &#x9;Tiered evaluation of small business offers."
@@ -9766,7 +9765,7 @@ o...</navtitle>
                          audience="15_209"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>15.209 Solicitation provisions and contract clauses.</navtitle>
+                     <navtitle>15.209 Solicitation provisionsand contract clauses.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="15.210 Forms."
@@ -10013,7 +10012,7 @@ or p...</navtitle>
                             audience="15_404_1"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>15.404-1 Proposal analysis techniques.</navtitle>
+                        <navtitle>15.404-1 Proposal analysistechniques.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="15.404-2 Data to support proposal analysis."
@@ -10877,7 +10876,7 @@ contracts.</navtitle>
                          audience="16_304"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>16.304 Cost-plus-incentive-fee contracts.</navtitle>
+                     <navtitle>16.304 Cost-plus-incentive-feecontracts.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="16.305 Cost-plus-award-fee contracts."
@@ -11152,7 +11151,7 @@ General.</navtitle>
                          audience="16_504"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>16.504 Indefinite-quantity contracts.</navtitle>
+                     <navtitle>16.504 Indefinite-quantitycontracts.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="16.505 Ordering."
@@ -12348,7 +12347,7 @@ of part.</navtitle>
                          audience="19_101"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.101 Definitions.</navtitle>
+                     <navtitle>19.101 [Reserved]</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="19.102 Small business size&#xA;standards and North American Industry Classification System codes."
@@ -12359,8 +12358,8 @@ of part.</navtitle>
                          audience="19_102"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.102 Small business size standards and North American
-Ind...</navtitle>
+                     <navtitle>19.102 Small business sizestandards and North American
+Indu...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="19.103 &#x9;Appealing the contracting officer's North American Industry Classification System code and size standard determination."
@@ -12402,7 +12401,7 @@ policy.</navtitle>
                          outputclass="subtopic"
                          audience="19_202"
                          xtrc="Not">
-                  <topicref navtitle="19.202-1 Encouraging small business participation in acquisitions."
+                  <topicref navtitle="19.202-1 Encouraging small&#xA;business participation in acquisitions."
                             base="concept"
                             href="19.202-1.dita"
                             props="19.202-1"
@@ -12410,7 +12409,7 @@ policy.</navtitle>
                             audience="19_202_1"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>19.202-1 Encouraging small business participation in acquis...</navtitle>
+                        <navtitle>19.202-1 Encouraging smallbusiness participation in acquisi...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="19.202-2 Locating small business sources."
@@ -12641,7 +12640,7 @@ v...</navtitle>
                      <navtitle>19.401 General.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="19.402 Small Business Administration procurement center representatives."
+               <topicref navtitle="19.402 Small Business Administration&#xA;procurement center representatives."
                          base="concept"
                          href="19.402.dita"
                          props="19.402"
@@ -12649,11 +12648,11 @@ v...</navtitle>
                          audience="19_402"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.402 Small Business Administration procurement center
-rep...</navtitle>
+                     <navtitle>19.402 Small Business Administrationprocurement center
+repr...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="19.403 Small Business Administration breakout procurement center representative."
+               <topicref navtitle="19.403[Reserved]."
                          base="concept"
                          href="19.403.dita"
                          props="19.403"
@@ -12661,8 +12660,7 @@ rep...</navtitle>
                          audience="19_403"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.403 Small Business Administration breakout procurement
-c...</navtitle>
+                     <navtitle>19.403[Reserved].</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -12770,7 +12768,7 @@ bu...</navtitle>
                         <navtitle>19.502-7 Inclusion of Federal Prison Industries, Inc.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="19.502-8 &#x9;Rejecting Small Business Administration recommendations."
+                  <topicref navtitle="19.502-8 Rejecting Small Business&#xA;Administration recommendations."
                             base="concept"
                             href="19.502-8.dita"
                             props="19.502-8"
@@ -12778,7 +12776,7 @@ bu...</navtitle>
                             audience="19_502_8"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>19.502-8 Rejecting Small Business Administration recommenda...</navtitle>
+                        <navtitle>19.502-8 Rejecting Small BusinessAdministration recommendat...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="19.502-9 Withdrawing or modifying small business set-asides."
@@ -12828,7 +12826,7 @@ bu...</navtitle>
                      <navtitle>19.504 Orders under multiple-award contracts.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="19.505 &#x9;Limitations on subcontracting and nonmanufacturer rule."
+               <topicref navtitle="19.505Limitations on subcontracting&#xA;and nonmanufacturer rule."
                          base="concept"
                          href="19.505.dita"
                          props="19.505"
@@ -12837,8 +12835,8 @@ bu...</navtitle>
                          audience="19_505"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.505 Limitations on subcontracting and nonmanufacturer
-ru...</navtitle>
+                     <navtitle>19.505Limitations on subcontractingand nonmanufacturer
+rule...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="19.506 Documentation requirements."
@@ -12853,7 +12851,7 @@ ru...</navtitle>
                      <navtitle>19.506 Documentation requirements.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="19.507 Solicitation provisions&#x9;and contract clauses."
+               <topicref navtitle="19.507 Solicitation provisions&#xA;and contract clauses."
                          base="concept"
                          href="19.507.dita"
                          props="19.507"
@@ -12861,7 +12859,7 @@ ru...</navtitle>
                          audience="19_507"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.507 Solicitation provisions and contract clauses.</navtitle>
+                     <navtitle>19.507 Solicitation provisionsand contract clauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -12980,7 +12978,7 @@ the S...</navtitle>
 pr...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="19.704 Subcontracting plan requirements."
+               <topicref navtitle="19.704 Subcontracting plan&#xA;requirements."
                          base="concept"
                          href="19.704.dita"
                          props="19.704"
@@ -12988,7 +12986,7 @@ pr...</navtitle>
                          audience="19_704"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.704 Subcontracting plan requirements.</navtitle>
+                     <navtitle>19.704 Subcontracting planrequirements.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="19.705 Responsibilities of the contracting officer under the subcontracting assistance program."
@@ -13032,7 +13030,7 @@ General.</navtitle>
                         <navtitle>19.705-3 Preparing the solicitation.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="19.705-4 Reviewing the subcontracting plan."
+                  <topicref navtitle="19.705-4 Reviewing the subcontracting&#xA;plan."
                             base="concept"
                             href="19.705-4.dita"
                             props="19.705-4"
@@ -13040,7 +13038,7 @@ General.</navtitle>
                             audience="19_705_4"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>19.705-4 Reviewing the subcontracting plan.</navtitle>
+                        <navtitle>19.705-4 Reviewing the subcontractingplan.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="19.705-5 Awards involving subcontracting plans."
@@ -13054,7 +13052,7 @@ General.</navtitle>
                         <navtitle>19.705-5 Awards involving subcontracting plans.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="19.705-6 Postaward responsibilities of the contracting officer."
+                  <topicref navtitle="19.705-6 Postaward responsibilities&#xA;of the contracting officer."
                             base="concept"
                             href="19.705-6.dita"
                             props="19.705-6"
@@ -13062,11 +13060,11 @@ General.</navtitle>
                             audience="19_705_6"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>19.705-6 Postaward responsibilities of the contracting
-offi...</navtitle>
+                        <navtitle>19.705-6 Postaward responsibilitiesof the contracting
+offic...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="19.705-7 Liquidated damages."
+                  <topicref navtitle="19.705-7 Compliance&#xA;with the subcontracting plan."
                             base="concept"
                             href="19.705-7.dita"
                             props="19.705-7"
@@ -13074,11 +13072,11 @@ offi...</navtitle>
                             audience="19_705_7"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>19.705-7 Liquidated damages.</navtitle>
+                        <navtitle>19.705-7 Compliancewith the subcontracting plan.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="19.706 Responsibilities of the cognizant administrative contracting officer."
+               <topicref navtitle="19.706 Responsibilities of&#xA;the cognizant administrative contracting officer."
                          base="concept"
                          href="19.706.dita"
                          props="19.706"
@@ -13086,8 +13084,8 @@ offi...</navtitle>
                          audience="19_706"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.706 Responsibilities of the cognizant administrative
-con...</navtitle>
+                     <navtitle>19.706 Responsibilities ofthe cognizant administrative
+cont...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="19.707 The Small Business Administration’s role in carrying out the program."
@@ -13603,7 +13601,7 @@ so...</navtitle>
 busin...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="19.1308 &#x9;Limitations on subcontracting and nonmanufacturer rule."
+               <topicref navtitle="19.1308[Reserved]"
                          base="concept"
                          href="19.1308.dita"
                          props="19.1308"
@@ -13611,11 +13609,10 @@ busin...</navtitle>
                          audience="19_1308"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.1308 Limitations on subcontracting and nonmanufacturer
-r...</navtitle>
+                     <navtitle>19.1308[Reserved]</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="19.1309 &#x9;Contract clauses."
+               <topicref navtitle="19.1309Contract clauses."
                          base="concept"
                          href="19.1309.dita"
                          props="19.1309"
@@ -13623,7 +13620,7 @@ r...</navtitle>
                          audience="19_1309"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.1309 Contract
+                     <navtitle>19.1309Contract
 clauses.</navtitle>
                   </topicmeta>
                </topicref>
@@ -13665,8 +13662,8 @@ clauses.</navtitle>
                          audience="19_1403"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.1403 Status as a service-disabled veteran-owned small
-bu...</navtitle>
+                     <navtitle>19.1403 Status as a service-disabledveteran-owned small
+bus...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="19.1404 Exclusions."
@@ -13703,7 +13700,7 @@ set-a...</navtitle>
                      <navtitle>19.1406 Sole source awards to service-disabled veteran-owne...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="19.1407 Limitations on subcontracting&#x9;and nonmanufacturer rule."
+               <topicref navtitle="19.1407[Reserved]"
                          base="concept"
                          href="19.1407.dita"
                          props="19.1407"
@@ -13713,11 +13710,10 @@ set-a...</navtitle>
                          otherprops="NoProp"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.1407 Limitations
-on subcontracting and nonmanufacturer r...</navtitle>
+                     <navtitle>19.1407[Reserved]</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="19.1408 &#x9;Contract clauses."
+               <topicref navtitle="19.1408Contract clauses."
                          base="concept"
                          href="19.1408.dita"
                          props="19.1408"
@@ -13725,7 +13721,7 @@ on subcontracting and nonmanufacturer r...</navtitle>
                          audience="19_1408"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.1408 Contract
+                     <navtitle>19.1408Contract
 clauses.</navtitle>
                   </topicmeta>
                </topicref>
@@ -13815,7 +13811,7 @@ clauses.</navtitle>
 awar...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="19.1507 &#x9;Limitations on subcontracting&#x9;and nonmanufacturer rule."
+               <topicref navtitle="19.1507[Reserved]"
                          base="concept"
                          href="19.1507.dita"
                          props="19.1507"
@@ -13824,11 +13820,10 @@ awar...</navtitle>
                          audience="19_1507"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.1507 Limitations on subcontracting and nonmanufacturer
-r...</navtitle>
+                     <navtitle>19.1507[Reserved]</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="19.1508 Contract clauses."
+               <topicref navtitle="19.1508Contract clauses."
                          base="concept"
                          href="19.1508.dita"
                          props="19.1508"
@@ -13836,7 +13831,7 @@ r...</navtitle>
                          audience="19_1508"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.1508 Contract
+                     <navtitle>19.1508Contract
 clauses.</navtitle>
                   </topicmeta>
                </topicref>
@@ -17380,7 +17375,7 @@ of subpart.</navtitle>
                          audience="25_105"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>25.105 Determining reasonableness of cost.</navtitle>
+                     <navtitle>25.105 Determining reasonablenessof cost.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -17400,7 +17395,7 @@ of subpart.</navtitle>
                          xtrc="Not">
                   <topicmeta>
                      <navtitle>25.200 Scope
-of Subpart.</navtitle>
+of subpart.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="25.201 Policy."
@@ -17444,7 +17439,7 @@ of Subpart.</navtitle>
                          audience="25_204"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>25.204 Evaluating offers of foreign construction material.</navtitle>
+                     <navtitle>25.204 Evaluating offers offoreign construction material.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="25.205 Postaward determinations."
@@ -17790,7 +17785,7 @@ offers.</navtitle>
                             audience="25_504_2"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>25.504-2 WTO GPA/Caribbean Basin Trade Initiative/FTAs.</navtitle>
+                        <navtitle>25.504-2 WTO GPA/CaribbeanBasin Trade Initiative/FTAs.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="25.504-3 FTA/Israeli Trade&#xA;Act."
@@ -17801,7 +17796,7 @@ offers.</navtitle>
                             audience="25_504_3"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>25.504-3 FTA/Israeli Trade Act.</navtitle>
+                        <navtitle>25.504-3 FTA/Israeli TradeAct.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="25.504-4 Group award basis."
@@ -17896,7 +17891,7 @@ of subpart.</navtitle>
                          audience="25_604"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>25.604 Preaward determination concerning the inapplicabilit...</navtitle>
+                     <navtitle>25.604 Preaward determinationconcerning the inapplicability...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="25.605 Evaluating offers of&#xA;foreign construction material."
@@ -17907,7 +17902,7 @@ of subpart.</navtitle>
                          audience="25_605"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>25.605 Evaluating offers of foreign construction material.</navtitle>
+                     <navtitle>25.605 Evaluating offers offoreign construction material.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="25.606 Postaward determinations."
@@ -19517,7 +19512,7 @@ Contract clause.</navtitle>
                             audience="28_106_1"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>28.106-1 Bonds and bond-related forms.</navtitle>
+                        <navtitle>28.106-1 Bonds and bond-relatedforms.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="28.106-2 Substitution of surety bonds."
@@ -19638,10 +19633,10 @@ of subpart.</navtitle>
                          audience="28_202"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>28.202 Acceptability of corporate sureties.</navtitle>
+                     <navtitle>28.202 Acceptability of corporatesureties.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="28.203&#xA;         Individual Sureties."
+               <topicref navtitle="28.203 &#xA;         Individual Sureties."
                          base="concept"
                          href="28.203.dita"
                          props="28.203"
@@ -19656,7 +19651,7 @@ of subpart.</navtitle>
                             audience="28_203_1"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>28.203-1 Security interests by an individual surety.</navtitle>
+                        <navtitle>28.203-1 Acceptability of individualsureties.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="28.203-2 Substitution of assets."
@@ -19667,7 +19662,7 @@ of subpart.</navtitle>
                             audience="28_203_2"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>28.203-2 Acceptability of assets.</navtitle>
+                        <navtitle>28.203-2 Substitution of assets.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="28.203-3 Release of security&#xA;interest."
@@ -19678,7 +19673,7 @@ of subpart.</navtitle>
                             audience="28_203_3"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>28.203-3 Acceptance of real property.</navtitle>
+                        <navtitle>28.203-3 Release of securityinterest.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="28.203-4 Solicitation provision&#xA;and contract clause."
@@ -19689,7 +19684,7 @@ of subpart.</navtitle>
                             audience="28_203_4"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>28.203-4 Substitution of assets.</navtitle>
+                        <navtitle>28.203-4 Solicitation provisionand contract clause.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="28.203-5 Exclusion of individual&#xA;sureties."
@@ -19700,7 +19695,7 @@ of subpart.</navtitle>
                             audience="28_203_5"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>28.203-5 Release of lien.</navtitle>
+                        <navtitle>28.203-5 Exclusion of individualsureties.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -19719,7 +19714,7 @@ of subpart.</navtitle>
                             audience="28_204_1"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>28.204-1 United States bonds or notes.</navtitle>
+                        <navtitle>28.204-1 United States bondsor notes.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="28.204-2 Certified or cashier’s checks, bank drafts, money orders, or currency."
@@ -19979,7 +19974,7 @@ of part.</navtitle>
                       type="concept">
                <topicmeta>
                   <navtitle>29.001
-Definitions.</navtitle>
+29.001 Definitions.</navtitle>
                </topicmeta>
             </topicref>
             <topicref navtitle="Subpart 29.1 - General"
@@ -20241,7 +20236,7 @@ procurements.</navtitle>
                             type="concept">
                      <topicmeta>
                         <navtitle>29.402-4
-Taxes—Foreign Contracts in Afghanistan.</navtitle>
+Taxes—Foreign Contractsin Afghanistan.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -20398,7 +20393,7 @@ Findings.</navtitle>
                             audience="30_201_7"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>30.201-7 Cognizant Federal agency responsibilities.</navtitle>
+                        <navtitle>30.201-7 Cognizant Federalagency responsibilities.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -20428,7 +20423,7 @@ Findings.</navtitle>
                             audience="30_202_2"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>30.202-2 Impracticality of submission.</navtitle>
+                        <navtitle>30.202-2 Impracticality ofsubmission.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="30.202-3 Amendments and revisions."
@@ -20450,7 +20445,7 @@ Findings.</navtitle>
                             audience="30_202_4"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>30.202-4 Privileged and confidential information.</navtitle>
+                        <navtitle>30.202-4 Privileged and confidentialinformation.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="30.202-5 Filing Disclosure&#xA;Statements."
@@ -20461,7 +20456,7 @@ Findings.</navtitle>
                             audience="30_202_5"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>30.202-5 Filing Disclosure Statements.</navtitle>
+                        <navtitle>30.202-5 Filing DisclosureStatements.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="30.202-6 Responsibilities."
@@ -20496,7 +20491,7 @@ Determinations.</navtitle>
                             audience="30_202_8"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>30.202-8 Subcontractor Disclosure Statements.</navtitle>
+                        <navtitle>30.202-8 Subcontractor DisclosureStatements.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -22166,7 +22161,7 @@ Policy.</navtitle>
                             audience="32_202_4"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>32.202-4 Security for Government financing.</navtitle>
+                        <navtitle>32.202-4 Security for Governmentfinancing.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -23406,7 +23401,7 @@ of subpart.</navtitle>
                          audience="32_904"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>32.904 Determining payment due dates.</navtitle>
+                     <navtitle>32.904 Determining paymentdue dates.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="32.905 Payment documentation and process."
@@ -25595,7 +25590,7 @@ of part.</navtitle>
                          audience="37_103"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>37.103 Contracting officer responsibility.</navtitle>
+                     <navtitle>37.103 Contracting officerresponsibility.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="37.104 Personal services contracts."
@@ -26023,10 +26018,10 @@ of subpart.</navtitle>
                          href="37.503.dita"
                          props="37.503"
                          outputclass="subtopic"
-                         audience="37_503"
-                         xtrc="Not">
+                         audience="37_503">
                   <topicmeta>
-                     <navtitle>37.503 Agency-head responsibilities.</navtitle>
+                     <navtitle>37.503
+Agency-head responsibilities.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="37.504 Contracting officials’ responsibilities."
@@ -26164,7 +26159,7 @@ of part.</navtitle>
                </topicref>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 39 - Acquisition of Information Technology"
+         <topicref navtitle="Part 39 - Acquisition of Information&#xA;Technology"
                    base="NoTitle"
                    href="Part_39.dita"
                    props="Part 39"
@@ -26176,14 +26171,12 @@ of part.</navtitle>
                       href="39.000.dita"
                       props="39.000"
                       outputclass="subtopic"
-                      audience="39_000"
-                      xtrc="Not">
+                      type="concept">
                <topicmeta>
-                  <navtitle>39.000 Scope
-of part.</navtitle>
+                  <navtitle>39.000 Scope of part.</navtitle>
                </topicmeta>
             </topicref>
-            <topicref navtitle="39.001 Applicability."
+            <topicref navtitle="39.001Applicability."
                       base="concept"
                       href="39.001.dita"
                       props="39.001"
@@ -26191,7 +26184,7 @@ of part.</navtitle>
                       audience="39_001"
                       xtrc="Not">
                <topicmeta>
-                  <navtitle>39.001 Applicability.</navtitle>
+                  <navtitle>39.001Applicability.</navtitle>
                </topicmeta>
             </topicref>
             <topicref navtitle="39.002 Definitions."
@@ -26282,7 +26275,7 @@ clause.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 39.2 - Electronic and Information Technology"
+            <topicref navtitle="Subpart 39.2 - Information&#xA;and Communication Technology"
                       base="NoTitle"
                       href="Subpart_39.2.dita"
                       props="Subpart 39.2"
@@ -26312,7 +26305,7 @@ of subpart.</navtitle>
                      <navtitle>39.202 Definition.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="39.203 Applicability."
+               <topicref navtitle="39.203Applicability."
                          base="concept"
                          href="39.203.dita"
                          props="39.203"
@@ -26320,10 +26313,10 @@ of subpart.</navtitle>
                          audience="39_203"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>39.203 Applicability.</navtitle>
+                     <navtitle>39.203Applicability.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="39.204 Exceptions."
+               <topicref navtitle="39.204Exceptions."
                          base="concept"
                          href="39.204.dita"
                          props="39.204"
@@ -26331,7 +26324,17 @@ of subpart.</navtitle>
                          audience="39_204"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>39.204 Exceptions.</navtitle>
+                     <navtitle>39.204Exceptions.</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="39.205Exemptions."
+                         base="concept"
+                         href="39.205.dita"
+                         props="39.205"
+                         outputclass="subtopic"
+                         type="concept">
+                  <topicmeta>
+                     <navtitle>39.205Exemptions.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -26748,7 +26751,7 @@ of part.</navtitle>
                          audience="42_203"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>42.203 Contract administration services directory.</navtitle>
+                     <navtitle>42.203 Contract administrationservices directory.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -26778,7 +26781,7 @@ of part.</navtitle>
                          audience="42_302"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>42.302 Contract administration functions.</navtitle>
+                     <navtitle>42.302 Contract administrationfunctions.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -27159,88 +27162,77 @@ cost ...</navtitle>
                          outputclass="subtopic"
                          audience="42_709"
                          xtrc="Not">
-                  <topicref navtitle="42.709-0 Scope."
-                            base="concept"
-                            href="42.709-0.dita"
-                            props="42.709-1"
-                            outputclass="subtopic"
-                            type="concept"
-                            otherprops="NoProp">
-                     <topicmeta>
-                        <navtitle>42.709-0
-Scope.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="42.709-1 General."
+                  <topicref navtitle="42.709-1Scope."
                             base="concept"
                             href="42.709-1.dita"
-                            props="42.709-2"
+                            props="42.709-1"
                             outputclass="subtopic"
-                            audience="42_709_1"
-                            otherprops="NoProp"
-                            xtrc="Not">
+                            type="concept">
                      <topicmeta>
-                        <navtitle>42.709-1 General.</navtitle>
+                        <navtitle>42.709-1Scope.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="42.709-2 Responsibilities."
+                  <topicref navtitle="42.709-2General."
                             base="concept"
                             href="42.709-2.dita"
-                            props="42.709-3"
+                            props="42.709-2"
                             outputclass="subtopic"
-                            audience="42_709_2"
-                            otherprops="NoProp"
-                            xtrc="Not">
+                            type="concept">
                      <topicmeta>
-                        <navtitle>42.709-2 Responsibilities.</navtitle>
+                        <navtitle>42.709-2General.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="42.709-3 Assessing the penalty."
+                  <topicref navtitle="42.709-3 Responsibilities."
                             base="concept"
                             href="42.709-3.dita"
-                            props="42.709-4"
+                            props="42.709-3"
                             outputclass="subtopic"
-                            audience="42_709_3"
-                            otherprops="NoProp"
-                            xtrc="Not">
+                            type="concept">
                      <topicmeta>
-                        <navtitle>42.709-3 Assessing the penalty.</navtitle>
+                        <navtitle>42.709-3 Responsibilities.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="42.709-4 Computing interest."
+                  <topicref navtitle="42.709-4 Assessing&#xA;the penalty."
                             base="concept"
                             href="42.709-4.dita"
-                            props="42.709-5"
+                            props="42.709-4"
                             outputclass="subtopic"
-                            audience="42_709_4"
-                            otherprops="NoProp"
-                            xtrc="Not">
+                            type="concept">
                      <topicmeta>
-                        <navtitle>42.709-4 Computing interest.</navtitle>
+                        <navtitle>42.709-4
+Assessingthe penalty.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="42.709-5 Waiver of the penalty."
+                  <topicref navtitle="42.709-5 Computing&#xA;Interest."
                             base="concept"
                             href="42.709-5.dita"
-                            props="42.709-6"
+                            props="42.709-5"
                             outputclass="subtopic"
-                            audience="42_709_5"
-                            otherprops="NoProp"
-                            xtrc="Not">
+                            type="concept">
                      <topicmeta>
-                        <navtitle>42.709-5 Waiver of the penalty.</navtitle>
+                        <navtitle>42.705-5
+Computing Interest.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="42.709-6 Contract clause."
+                  <topicref navtitle="42.709-6 Waiver&#xA;of the penalty."
                             base="concept"
                             href="42.709-6.dita"
+                            props="42.709-6"
+                            outputclass="subtopic"
+                            type="concept">
+                     <topicmeta>
+                        <navtitle>42.705-6
+Waiver of the penalty.</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="42.709-7Contract&#xA;clause."
+                            base="concept"
+                            href="42.709-7.dita"
                             props="42.709-7"
                             outputclass="subtopic"
-                            audience="42_709_6"
-                            otherprops="NoProp"
-                            xtrc="Not">
+                            type="concept">
                      <topicmeta>
-                        <navtitle>42.709-6 Contract clause.</navtitle>
+                        <navtitle>42.705-7 Contract clause.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -28119,7 +28111,7 @@ Notification.</navtitle>
                             audience="44_305_3"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>44.305-3 Withholding or withdrawing approval.</navtitle>
+                        <navtitle>44.305-3 Withholding or withdrawingapproval.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -32070,7 +32062,7 @@ Records.</navtitle>
                             audience="50_102_3"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>50.102-3 Limitations on exercise of authority.</navtitle>
+                        <navtitle>50.102-3 Limitations on exerciseof authority.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -33080,7 +33072,7 @@ Fib...</navtitle>
                         <navtitle>52.204-7 System for Award Management.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.204-8 Annual Representations&#x9;and Certifications."
+                  <topicref navtitle="52.204-8 Annual Representations&#xA;and Certifications."
                             base="concept"
                             href="52.204-8.dita"
                             props="52.204-8"
@@ -33089,8 +33081,8 @@ Fib...</navtitle>
                             xtrc="Editable"
                             xtrf="EASIFillins">
                      <topicmeta>
-                        <navtitle>52.204-8 Annual Representations
-and Certifications.</navtitle>
+                        <navtitle>52.204-8 Annual Representationsand
+Certifications.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.204-9 Personal Identity Verification of Contractor Personnel."
@@ -33674,8 +33666,8 @@ Tax Matters.</navtitle>
                             audience="52_209_13"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.209-13 Violation of Arms
-Control Treaties or Agreements-...</navtitle>
+                        <navtitle>52.209-13 Violation of ArmsControl
+Treaties or Agreements-C...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.209-14 &#xA;         Reserve Officer Training&#xA;Corps and Military Recruiting on Campus."
@@ -33686,7 +33678,7 @@ Control Treaties or Agreements-...</navtitle>
                             type="concept">
                      <topicmeta>
                         <navtitle>52.209-14
-Reserve Officer Training Corps and Military Recru...</navtitle>
+Reserve Officer TrainingCorps and Military Recrui...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -33739,8 +33731,8 @@ GSA I...</navtitle>
                             audience="52_211_2"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.211-2 Availability of Specifications, Standards, and
-Dat...</navtitle>
+                        <navtitle>52.211-2 Availability of Specifications,Standards, and
+Data...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.211-3 Availability of Specifications&#xA;Not Listed in the GSA Index of Federal Specifications, Standards&#xA;and Commercial Item Descriptions."
@@ -33753,7 +33745,7 @@ Dat...</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.211-3 Availability
-of Specifications Not Listed in the G...</navtitle>
+of SpecificationsNot Listed in the GS...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.211-4 Availability for Examination&#xA;of Specifications Not Listed in the GSA Index of Federal Specifications,&#xA;Standards and Commercial Item Descriptions."
@@ -33766,7 +33758,7 @@ of Specifications Not Listed in the G...</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.211-4 Availability
-for Examination of Specifications Not...</navtitle>
+for Examinationof Specifications Not ...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.211-5 Material Requirements."
@@ -33953,7 +33945,7 @@ in Quantity.</navtitle>
                             audience="52_212_1"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.212-1 Instructions to Offerors-Commercial Items.</navtitle>
+                        <navtitle>52.212-1 Instructions to Offerors-CommercialItems.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.212-2 Evaluation-Commercial Items."
@@ -33977,7 +33969,7 @@ Items.</navtitle>
                             audience="52_212_3"
                             xtrc="Editable">
                      <topicmeta>
-                        <navtitle>52.212-3 Offeror Representations and Certifications-Commerc...</navtitle>
+                        <navtitle>52.212-3 Offeror Representationsand Certifications-Commerci...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.212-4 Contract Terms and Conditions-Commercial Items."
@@ -33993,7 +33985,7 @@ Items.</navtitle>
 Terms and Conditions-Commercial Items.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.212-5Contract&#xA;Terms and Conditions Required To Implement Statutes or Executive&#xA;Orders—Commercial Items."
+                  <topicref navtitle="52.212-5 Contract Terms and&#xA;Conditions Required To Implement Statutes or Executive Orders—Commercial&#xA;Items."
                             base="concept"
                             href="52.212-5.dita"
                             props="52.212-5"
@@ -34003,7 +33995,7 @@ Terms and Conditions-Commercial Items.</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.212-5 Contract
-Terms and Conditions Required to Implemen...</navtitle>
+Terms andConditions Required To Implement...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -34059,7 +34051,7 @@ Invoices.</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.213-4 Terms and
-Conditions-Simplified Acquisitions (Othe...</navtitle>
+Conditions-SimplifiedAcquisitions (Other...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -34385,7 +34377,7 @@ of Two-Step Sealed Bidding.</navtitle>
 or P...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.214-28 Subcontractor Certified Cost or Pricing Data-Modifications-Sealed Bidding."
+                  <topicref navtitle="52.214-28 Subcontractor Certified&#xA;Cost or Pricing Data-Modifications-Sealed Bidding."
                             base="concept"
                             href="52.214-28.dita"
                             props="52.214-28"
@@ -34393,7 +34385,7 @@ or P...</navtitle>
                             audience="52_214_28"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.214-28 Subcontractor Certified Cost or Pricing Data-Modi...</navtitle>
+                        <navtitle>52.214-28 Subcontractor CertifiedCost or Pricing Data-Modif...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.214-29 Order of Precedence-Sealed Bidding."
@@ -34715,7 +34707,7 @@ or P...</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.215-20 Requirements
-for Certified Cost or Pricing Data a...</navtitle>
+forCertified Cost or Pricing Data an...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.215-21 Requirements for&#x9;Certified Cost or Pricing Data and Data Other Than Certified Cost&#x9;or Pricing Data-Modifications."
@@ -35292,7 +35284,7 @@ Extend the Term of the Contract.</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.219-1 Small Business
-Program Representations.</navtitle>
+ProgramRepresentations.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.219-2 Equal Low Bids."
@@ -35307,7 +35299,7 @@ Program Representations.</navtitle>
 Equal Low Bids.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.219-3 Notice of HUBZone Set-Aside or Sole Source Award."
+                  <topicref navtitle="52.219-3 Notice&#xA;of HUBZone Set-Aside or Sole-Source Award."
                             base="concept"
                             href="52.219-3.dita"
                             props="52.219-3"
@@ -35315,11 +35307,11 @@ Equal Low Bids.</navtitle>
                             audience="52_219_3"
                             xtrc="Editable">
                      <topicmeta>
-                        <navtitle>52.219-3 Notice of HUBZone Set-Aside or Sole
-Source Award.</navtitle>
+                        <navtitle>52.219-3 Noticeof HUBZone Set-Aside or Sole-Source
+Award.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.219-4 Notice of Price Evaluation Preference for HUBZone Small Business Concerns."
+                  <topicref navtitle="52.219-4 Notice of Price Evaluation&#xA;Preference for HUBZone Small Business Concerns."
                             base="concept"
                             href="52.219-4.dita"
                             props="52.219-4"
@@ -35327,8 +35319,8 @@ Source Award.</navtitle>
                             audience="52_219_4"
                             xtrc="Editable">
                      <topicmeta>
-                        <navtitle>52.219-4 Notice of Price Evaluation Preference
-for HUBZone ...</navtitle>
+                        <navtitle>52.219-4 Notice of Price EvaluationPreference
+for HUBZone S...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.219-5 [Reserved]"
@@ -35351,7 +35343,7 @@ for HUBZone ...</navtitle>
                             audience="52_219_6"
                             xtrc="Editable">
                      <topicmeta>
-                        <navtitle>52.219-6 Notice of Total Small Business Set-Aside.</navtitle>
+                        <navtitle>52.219-6 Notice of Total SmallBusiness Set-Aside.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.219-7 Notice of Partial&#xA;Small Business Set-Aside."
@@ -35362,7 +35354,7 @@ for HUBZone ...</navtitle>
                             audience="52_219_7"
                             xtrc="Editable">
                      <topicmeta>
-                        <navtitle>52.219-7 Notice of Partial Small Business Set-Aside.</navtitle>
+                        <navtitle>52.219-7 Notice of PartialSmall Business Set-Aside.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.219-8 Utilization of Small Business Concerns."
@@ -35376,7 +35368,7 @@ for HUBZone ...</navtitle>
                         <navtitle>52.219-8 Utilization of Small Business Concerns.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.219-9 Small Business Subcontracting&#x9;Plan."
+                  <topicref navtitle="52.219-9 Small Business Subcontracting&#xA;Plan."
                             base="concept"
                             href="52.219-9.dita"
                             props="52.219-9"
@@ -35384,7 +35376,7 @@ for HUBZone ...</navtitle>
                             audience="52_219_9"
                             xtrc="Editable">
                      <topicmeta>
-                        <navtitle>52.219-9 Small Business Subcontracting Plan.</navtitle>
+                        <navtitle>52.219-9 Small Business SubcontractingPlan.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.219-10 Incentive Subcontracting Program."
@@ -35437,7 +35429,7 @@ Subcontracting Program.</navtitle>
                         <navtitle>52.219-13 Notice of Set-Aside of Orders.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.219-14 Limitations on Subcontracting."
+                  <topicref navtitle="52.219-14Limitations on Subcontracting."
                             base="concept"
                             href="52.219-14.dita"
                             props="52.219-14"
@@ -35445,7 +35437,7 @@ Subcontracting Program.</navtitle>
                             audience="52_219_14"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.219-14 Limitations on Subcontracting.</navtitle>
+                        <navtitle>52.219-14Limitations on Subcontracting.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.219-15 [Reserved]"
@@ -35460,7 +35452,7 @@ Subcontracting Program.</navtitle>
 [Reserved]</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.219-16 Liquidated Damages-Subcontracting Plan."
+                  <topicref navtitle="52.219-16 Liquidated Damages-Subcontracting&#xA;Plan."
                             base="concept"
                             href="52.219-16.dita"
                             props="52.219-16"
@@ -35468,7 +35460,7 @@ Subcontracting Program.</navtitle>
                             audience="52_219_16"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.219-16 Liquidated Damages-Subcontracting Plan.</navtitle>
+                        <navtitle>52.219-16 Liquidated Damages-SubcontractingPlan.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.219-17 Section 8(a) Award."
@@ -35593,7 +35585,7 @@ of Competition Limited to Eligible 8...</navtitle>
 [Reserved]</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.219-27 Notice of Service-Disabled Veteran-Owned Small Business Set-Aside."
+                  <topicref navtitle="52.219-27 Notice of Service-Disabled&#xA;Veteran-Owned Small Business Set-Aside."
                             base="concept"
                             href="52.219-27.dita"
                             props="52.219-27"
@@ -35601,8 +35593,8 @@ of Competition Limited to Eligible 8...</navtitle>
                             audience="52_219_27"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.219-27 Notice of Service-Disabled Veteran-Owned Small
-Bu...</navtitle>
+                        <navtitle>52.219-27 Notice of Service-DisabledVeteran-Owned Small
+Bus...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.219-28 Post-Award Small&#xA;Business Program Rerepresentation."
@@ -35615,10 +35607,10 @@ Bu...</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.219-28 Post-Award
-Small Business Program Rerepresentatio...</navtitle>
+SmallBusiness Program Rerepresentation...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.219-29 Notice of Set-Aside&#xA;for, or Sole Source Award to, Economically Disadvantaged Women-Owned&#xA;Small Business Concerns."
+                  <topicref navtitle="52.219-29 Notice&#xA;of Set-Aside for, or Sole-Source Award to, Economically Disadvantaged&#xA;Women-Owned Small Business Concerns."
                             base="concept"
                             href="52.219-29.dita"
                             props="52.219-29"
@@ -35626,11 +35618,11 @@ Small Business Program Rerepresentatio...</navtitle>
                             audience="52_219_29"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.219-29 Notice of Set-Aside for, or Sole Source Award
-to,...</navtitle>
+                        <navtitle>52.219-29 Noticeof Set-Aside for, or Sole-Source Award
+to, ...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.219-30 Notice of Set-Aside&#xA;for, or Sole Source Award to, Women-Owned Small Business Concerns&#xA;Eligible Under the Women-Owned Small Business Program."
+                  <topicref navtitle="52.219-30 Notice&#xA;of Set-Aside for, or Sole-Source Award to, Women-Owned Small Business&#xA;Concerns Eligible Under the Women-Owned Small Business Program."
                             base="concept"
                             href="52.219-30.dita"
                             props="52.219-30"
@@ -35638,8 +35630,8 @@ to,...</navtitle>
                             audience="52_219_30"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.219-30 Notice of Set-Aside for, or Sole Source Award
-to,...</navtitle>
+                        <navtitle>52.219-30 Noticeof Set-Aside for, or Sole-Source Award
+to, ...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.219-31 Notice of Small Business Reserve."
@@ -35668,7 +35660,7 @@ Business Reserve.</navtitle>
 Under Small Business Reser...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.219-33 Nonmanufacturer Rule."
+                  <topicref navtitle="52.219-33Nonmanufacturer Rule."
                             base="concept"
                             href="52.219-33.dita"
                             props="52.219-33"
@@ -35677,8 +35669,7 @@ Under Small Business Reser...</navtitle>
                             audience="52_219_33"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.219-33 Nonmanufacturer
-Rule.</navtitle>
+                        <navtitle>52.219-33Nonmanufacturer Rule.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -35801,7 +35792,7 @@ Site...</navtitle>
                             audience="52_222_8"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.222-8 Payrolls and Basic Records.</navtitle>
+                        <navtitle>52.222-8 Payrolls and BasicRecords.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.222-9 Apprentices and Trainees."
@@ -35912,8 +35903,8 @@ Site...</navtitle>
                             audience="52_222_18"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.222-18 Certification Regarding Knowledge of Child Labor
-...</navtitle>
+                        <navtitle>52.222-18 Certification RegardingKnowledge of Child Labor
+f...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.222-19 Child Labor-Cooperation with Authorities and Remedies."
@@ -36348,7 +36339,7 @@ Trafficking in Persons.</navtitle>
                             audience="52_222_55"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.222-55 Minimum Wages Under Executive Order 13658.</navtitle>
+                        <navtitle>52.222-55 Minimum Wages UnderExecutive Order 13658.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.222-56 Certification Regarding Trafficking in Persons Compliance Plan."
@@ -36476,7 +36467,7 @@ Under...</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.223-3 Hazardous
-Material Identification and Material Saf...</navtitle>
+MaterialIdentification and Material Safe...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.223-4 Recovered Material Certification."
@@ -36786,8 +36777,8 @@ Privacy Training.</navtitle>
                             audience="52_225_3"
                             xtrc="Editable">
                      <topicmeta>
-                        <navtitle>52.225-3 Buy American-Free Trade Agreements-Israeli
-Trade A...</navtitle>
+                        <navtitle>52.225-3 Buy American-FreeTrade Agreements-Israeli
+Trade Ac...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.225-4 Buy American-Free&#xA;Trade Agreements-Israeli Trade Act Certificate."
@@ -36798,8 +36789,8 @@ Trade A...</navtitle>
                             audience="52_225_4"
                             xtrc="Editable">
                      <topicmeta>
-                        <navtitle>52.225-4 Buy American-Free Trade Agreements-Israeli
-Trade A...</navtitle>
+                        <navtitle>52.225-4 Buy American-FreeTrade Agreements-Israeli
+Trade Ac...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.225-5 Trade Agreements."
@@ -36858,8 +36849,7 @@ Trade Agreements.</navtitle>
                             xtrc="Not"
                             xtrf="EASIFillins">
                      <topicmeta>
-                        <navtitle>52.225-9 Buy American-Construction
-Materials.</navtitle>
+                        <navtitle>52.225-9 Buy American-ConstructionMaterials.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.225-10 Notice of Buy American Requirement-Construction Materials."
@@ -36883,8 +36873,8 @@ M...</navtitle>
                             xtrc="Editable"
                             xtrf="EASIFillins">
                      <topicmeta>
-                        <navtitle>52.225-11 Buy American-Construction
-Materials under Trade A...</navtitle>
+                        <navtitle>52.225-11 Buy American-ConstructionMaterials
+under Trade Ag...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.225-12 Notice of Buy American Requirement-Construction Materials Under Trade Agreements."
@@ -36907,7 +36897,7 @@ M...</navtitle>
                             audience="52_225_13"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.225-13 Restrictions on Certain Foreign Purchases.</navtitle>
+                        <navtitle>52.225-13 Restrictions on CertainForeign Purchases.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.225-14 Inconsistency between English Version and Translation of Contract."
@@ -36953,7 +36943,7 @@ M...</navtitle>
                             audience="52_225_17"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.225-17 Evaluation of Foreign Currency Offers.</navtitle>
+                        <navtitle>52.225-17 Evaluation of ForeignCurrency Offers.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.225-18 Place of Manufacture."
@@ -37002,7 +36992,7 @@ Ope...</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.225-21 Required
-Use of American Iron, Steel, and Manufac...</navtitle>
+Use of AmericanIron, Steel, and Manufact...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.225-22 Notice of Required&#xA;Use of American Iron, Steel, and Manufactured Goods-Buy American&#xA;Statute-Construction Materials."
@@ -37013,8 +37003,8 @@ Use of American Iron, Steel, and Manufac...</navtitle>
                             audience="52_225_22"
                             xtrc="Editable">
                      <topicmeta>
-                        <navtitle>52.225-22 Notice of Required Use of American
-Iron, Steel, a...</navtitle>
+                        <navtitle>52.225-22 Notice of RequiredUse of American
+Iron, Steel, an...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.225-23 Required Use of American&#xA;Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials&#xA;under Trade Agreements."
@@ -37027,7 +37017,7 @@ Iron, Steel, a...</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.225-23 Required
-Use of American Iron, Steel, and Manufac...</navtitle>
+Use of AmericanIron, Steel, and Manufact...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.225-24 Notice of Required&#xA;Use of American Iron, Steel, and Manufactured Goods-Buy American&#xA;Statute-Construction Materials Under Trade Agreements."
@@ -37038,8 +37028,8 @@ Use of American Iron, Steel, and Manufac...</navtitle>
                             audience="52_225_24"
                             xtrc="Editable">
                      <topicmeta>
-                        <navtitle>52.225-24 Notice of Required Use of American
-Iron, Steel, a...</navtitle>
+                        <navtitle>52.225-24 Notice of RequiredUse of American
+Iron, Steel, an...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.225-25 Prohibition on Contracting With Entities Engaging in Certain Activities or Transactions Relating to Iran—Representation and Certifications."
@@ -37235,7 +37225,7 @@ Indemnity.</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.227-7 Patents-Notice
-of Government Licensee.</navtitle>
+ofGovernment Licensee.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.227-8 [Reserved]"
@@ -37547,7 +37537,7 @@ O...</navtitle>
 and General Public Liability Insurance.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.228-11&#xA;         Individual Surety—Pledge&#xA;of Assets."
+                  <topicref navtitle="52.228-11 &#xA;         Individual Surety—Pledge&#xA;of Assets."
                             base="concept"
                             href="52.228-11.dita"
                             props="52.228-11"
@@ -37555,7 +37545,7 @@ and General Public Liability Insurance.</navtitle>
                             audience="52_228_11"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.228-11 Pledges of Assets.</navtitle>
+                        <navtitle>52.228-11 Individual Surety—Pledgeof Assets.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.228-12 Prospective Subcontractor Requests for Bonds."
@@ -37579,7 +37569,7 @@ and General Public Liability Insurance.</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.228-13 Alternative
-Payment Protections.</navtitle>
+PaymentProtections.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.228-14 Irrevocable Letter of Credit."
@@ -37625,7 +37615,7 @@ and Payment Bonds-Other Than Construc...</navtitle>
                             type="concept">
                      <topicmeta>
                         <navtitle>52.228-17
-Individual Surety—Pledge of Assets (Bid Guarant...</navtitle>
+Individual Surety—Pledgeof Assets (Bid Guarante...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -37780,11 +37770,10 @@ Procurements—Notice and ...</navtitle>
                             audience="52_229_12"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.229-12 Tax on Certain Foreign
-Procurements.</navtitle>
+                        <navtitle>52.229-12 Tax on Certain ForeignProcurements.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="52.229-13 &#xA;         Taxes—Foreign Contracts&#xA;in Afghanistan."
+                  <topicref navtitle="52.229-13 Taxes—Foreign Contracts&#xA;in Afghanistan."
                             base="concept"
                             href="52.229-13.dita"
                             props="52.229-13"
@@ -37792,7 +37781,7 @@ Procurements.</navtitle>
                             type="concept">
                      <topicmeta>
                         <navtitle>52.229-13
-Taxes—Foreign Contracts in Afghanistan.</navtitle>
+Taxes—Foreign Contractsin Afghanistan.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.229-14 &#xA;         Taxes—Foreign Contracts&#xA;in Afghanistan (North Atlantic Treaty Organization Status of Forces&#xA;Agreement)."
@@ -37803,7 +37792,7 @@ Taxes—Foreign Contracts in Afghanistan.</navtitle>
                             type="concept">
                      <topicmeta>
                         <navtitle>52.229-14
-Taxes—Foreign Contracts in Afghanistan (North A...</navtitle>
+Taxes—Foreign Contractsin Afghanistan (North At...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -39218,7 +39207,7 @@ Credits.</navtitle>
                             audience="52_242_3"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.242-3 Penalties for Unallowable Costs.</navtitle>
+                        <navtitle>52.242-3 Penalties for UnallowableCosts.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.242-4 Certification of Final Indirect Costs."
@@ -39548,7 +39537,7 @@ of Changes.</navtitle>
                             audience="52_244_6"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>52.244-6 Subcontracts for Commercial Items.</navtitle>
+                        <navtitle>52.244-6 Subcontracts for CommercialItems.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -39581,7 +39570,7 @@ of Changes.</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.245-2 Government
-Property Installation Operation Service...</navtitle>
+PropertyInstallation Operation Services...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.245-3 [Reserved]"
@@ -41154,7 +41143,7 @@ in Contract.</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.252-5 Authorized
-Deviations in Provisions.</navtitle>
+Deviationsin Provisions.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="52.252-6 Authorized Deviations&#xA;in Clauses."
@@ -41167,7 +41156,7 @@ Deviations in Provisions.</navtitle>
                             xtrf="EASIFillins">
                      <topicmeta>
                         <navtitle>52.252-6 Authorized
-Deviations in Clauses.</navtitle>
+Deviationsin Clauses.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -41218,7 +41207,7 @@ of subpart.</navtitle>
                          outputclass="subtopic"
                          audience="52_301"
                          xtrc="Not">
-                  <topicref navtitle="52.301-1 FAR Matrix"
+                  <topicref navtitle="52.301-1 Far Matrix"
                             base="concept"
                             href="FARmatrix.dita"
                             props="52.301-1"
@@ -41917,7 +41906,7 @@ Construction.</navtitle>
                             audience="53_236_2"
                             xtrc="Not">
                      <topicmeta>
-                        <navtitle>53.236-2 Architect-engineer services (SF’s 252 and 330).</navtitle>
+                        <navtitle>53.236-2 Architect-engineerservices (SF’s 252 and 330).</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -42112,8 +42101,8 @@ property.</navtitle>
                          audience="53_300"
                          xtrc="Not">
                   <topicmeta>
-                     <navtitle>53.300 Listing of Standard, Optional, and Agency forms.
-For...</navtitle>
+                     <navtitle>53.300 Listing of Standard,Optional, and Agency forms.
+Form...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -42171,17 +42160,6 @@ Preambles Published under the FAR System</navtitle>
              xtrc="Not">
       <topicmeta>
          <navtitle>FAR Correction(s)</navtitle>
-      </topicmeta>
-   </topicref>
-   <topicref navtitle=" FAR Definition List"
-             base="NoTitle"
-             href="definitions4map.dita"
-             props=""
-             type="topic"
-             processing-role="resource-only"
-             xtrc="Not">
-      <topicmeta>
-         <navtitle>FAR Definition List</navtitle>
       </topicmeta>
    </topicref>
 </map>

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?Fm Condition FM_PDF_Comments_Highlight AsIs NO_OVERRIDE show Yellow?>
+<?Fm Condition FM_PDF_Comments_Underline Blue SINGLE_UNDERLINE show AsIs?>
 <?Fm Condition DITA-Topicref Blue NO_OVERRIDE show AsIs?>
 <?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
 <?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
@@ -9,7 +11,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="FAR" product="FAC 2021-06 Effective July 12, 2021">
+<map title="FAR" product="FAC 2021-07 Effective September 10, 2021">
    <topicref navtitle="Volume I-Parts 1 to 51"
              base="NoTitle"
              href="Volume_I.dita"
@@ -43,14 +45,15 @@ Regulation</navtitle>
          <navtitle>Foreword</navtitle>
       </topicmeta>
    </topicref>
-   <topicref navtitle="List of Sections Affected FAC 2021-06 Effective July 12, 2021"
+   <topicref navtitle="List of Sections Affected FAC 2021-07 Effective September 10, 2021"
              base="concept"
              href="LSATable.dita"
              props=""
              type="concept"
              otherprops="NoProp">
       <topicmeta>
-         <navtitle>List Of Sections Affected</navtitle>
+         <navtitle>List of Sections Affected
+FAC 2021-06 Effective July 12, 20...</navtitle>
       </topicmeta>
    </topicref>
    
@@ -110,7 +113,7 @@ Team.</navtitle>
                
                   
                      <topicmeta>
-                        <navtitle>1.105-1 Publication and code arrangement.</navtitle>
+                        <navtitle>1.105-1 Publication and codearrangement.</navtitle>
                      </topicmeta>
                   
                   
@@ -1956,7 +1959,7 @@ procedures.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>7.105 Contents of written acquisition plans.</navtitle>
+                     <navtitle>7.105 Contents of written acquisitionplans.</navtitle>
                   </topicmeta>
                
                
@@ -2065,8 +2068,7 @@ of subpart.</navtitle>
             
                
                   <topicmeta>
-                     <navtitle>7.400 Scope
-of subpart.</navtitle>
+                     <navtitle>7.400 Scope of subpart.</navtitle>
                   </topicmeta>
                
                
@@ -2082,7 +2084,8 @@ methods.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>7.403 General Services Administration assistance.</navtitle>
+                     <navtitle>7.403 GeneralServices Administration assistance and OMB
+gui...</navtitle>
                   </topicmeta>
                
                
@@ -2163,12 +2166,12 @@ clause.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>8.103 Information on available excess personal property.</navtitle>
+                     <navtitle>8.103 Information on availableexcess personal property.</navtitle>
                   </topicmeta>
                
                
                   <topicmeta>
-                     <navtitle>8.104 Obtaining nonreportable property.</navtitle>
+                     <navtitle>8.104 Obtaining nonreportableproperty.</navtitle>
                   </topicmeta>
                
             
@@ -2585,7 +2588,7 @@ standards.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>9.104-5 Representation and certifications regarding respons...</navtitle>
+                        <navtitle>9.104-5 Representation andcertifications regarding responsi...</navtitle>
                      </topicmeta>
                   
                   
@@ -2689,7 +2692,7 @@ Ab...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>9.109-4 Certification by the offeror.</navtitle>
+                        <navtitle>9.109-4 Certification by theofferor.</navtitle>
                      </topicmeta>
                   
                   
@@ -2699,10 +2702,6 @@ Ab...</navtitle>
                   
                
                
-                  <topicmeta>
-                     <navtitle>9.110
-Reserve Officer Training Corps and military recruitin...</navtitle>
-                  </topicmeta>
                   
                      <topicmeta>
                         <navtitle>9.110-1
@@ -2868,7 +2867,7 @@ of subpart.</navtitle>
                
                   
                      <topicmeta>
-                        <navtitle>9.405-1 Continuation of current contracts.</navtitle>
+                        <navtitle>9.405-1 Continuation of currentcontracts.</navtitle>
                      </topicmeta>
                   
                   
@@ -3140,7 +3139,7 @@ acceptance.</navtitle>
             
                
                   <topicmeta>
-                     <navtitle>11.201 Identification and availability of specifications.</navtitle>
+                     <navtitle>11.201 Identification and availabilityof specifications.</navtitle>
                   </topicmeta>
                
                
@@ -3321,12 +3320,12 @@ of part.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>12.202 Market research and description of agency need.</navtitle>
+                     <navtitle>12.202 Market research anddescription of agency need.</navtitle>
                   </topicmeta>
                
                
                   <topicmeta>
-                     <navtitle>12.203 Procedures for solicitation, evaluation, and award.</navtitle>
+                     <navtitle>12.203 Procedures for solicitation,evaluation, and award.</navtitle>
                   </topicmeta>
                
                
@@ -3408,8 +3407,8 @@ of subpart.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>12.301 Solicitation provisions and contract clauses for
-the...</navtitle>
+                     <navtitle>12.301 Solicitation provisionsand contract clauses for
+the ...</navtitle>
                   </topicmeta>
                
                
@@ -3465,8 +3464,8 @@ of subpart.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>12.503 Applicability of certain laws to Executive agency
-co...</navtitle>
+                     <navtitle>12.503 Applicability of certainlaws to Executive agency
+con...</navtitle>
                   </topicmeta>
                
                
@@ -3477,8 +3476,8 @@ th...</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>12.505 Applicability of certain laws to contracts for
-the a...</navtitle>
+                     <navtitle>12.505 Applicability of certainlaws to contracts for the
+ac...</navtitle>
                   </topicmeta>
                
             
@@ -3539,7 +3538,7 @@ of part.</navtitle>
             
             
                <topicmeta>
-                  <navtitle>13.005 List of laws inapplicable to contracts and subcontra...</navtitle>
+                  <navtitle>13.005 List of laws inapplicableto contracts and subcontrac...</navtitle>
                </topicmeta>
             
             
@@ -4215,7 +4214,7 @@ Tradeoff process.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>15.101-2 Lowest price technically acceptable source selecti...</navtitle>
+                        <navtitle>15.101-2 Lowest price technicallyacceptable source selectio...</navtitle>
                      </topicmeta>
                   
                   
@@ -4306,7 +4305,7 @@ o...</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>15.209 Solicitation provisions and contract clauses.</navtitle>
+                     <navtitle>15.209 Solicitation provisionsand contract clauses.</navtitle>
                   </topicmeta>
                
                
@@ -4415,7 +4414,7 @@ or p...</navtitle>
                
                   
                      <topicmeta>
-                        <navtitle>15.404-1 Proposal analysis techniques.</navtitle>
+                        <navtitle>15.404-1 Proposal analysistechniques.</navtitle>
                      </topicmeta>
                   
                   
@@ -4799,7 +4798,7 @@ contracts.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>16.304 Cost-plus-incentive-fee contracts.</navtitle>
+                     <navtitle>16.304 Cost-plus-incentive-feecontracts.</navtitle>
                   </topicmeta>
                
                
@@ -4918,7 +4917,7 @@ General.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>16.504 Indefinite-quantity contracts.</navtitle>
+                     <navtitle>16.504 Indefinite-quantitycontracts.</navtitle>
                   </topicmeta>
                
                
@@ -5454,13 +5453,13 @@ of part.</navtitle>
             
                
                   <topicmeta>
-                     <navtitle>19.101 Definitions.</navtitle>
+                     <navtitle>19.101 [Reserved]</navtitle>
                   </topicmeta>
                
                
                   <topicmeta>
-                     <navtitle>19.102 Small business size standards and North American
-Ind...</navtitle>
+                     <navtitle>19.102 Small business sizestandards and North American
+Indu...</navtitle>
                   </topicmeta>
                
                
@@ -5480,7 +5479,7 @@ policy.</navtitle>
                
                   
                      <topicmeta>
-                        <navtitle>19.202-1 Encouraging small business participation in acquis...</navtitle>
+                        <navtitle>19.202-1 Encouraging smallbusiness participation in acquisi...</navtitle>
                      </topicmeta>
                   
                   
@@ -5587,14 +5586,13 @@ v...</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>19.402 Small Business Administration procurement center
-rep...</navtitle>
+                     <navtitle>19.402 Small Business Administrationprocurement center
+repr...</navtitle>
                   </topicmeta>
                
                
                   <topicmeta>
-                     <navtitle>19.403 Small Business Administration breakout procurement
-c...</navtitle>
+                     <navtitle>19.403[Reserved].</navtitle>
                   </topicmeta>
                
             
@@ -5644,7 +5642,7 @@ bu...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>19.502-8 Rejecting Small Business Administration recommenda...</navtitle>
+                        <navtitle>19.502-8 Rejecting Small BusinessAdministration recommendat...</navtitle>
                      </topicmeta>
                   
                   
@@ -5670,8 +5668,8 @@ bu...</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>19.505 Limitations on subcontracting and nonmanufacturer
-ru...</navtitle>
+                     <navtitle>19.505Limitations on subcontractingand nonmanufacturer
+rule...</navtitle>
                   </topicmeta>
                
                
@@ -5681,7 +5679,7 @@ ru...</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>19.507 Solicitation provisions and contract clauses.</navtitle>
+                     <navtitle>19.507 Solicitation provisionsand contract clauses.</navtitle>
                   </topicmeta>
                
             
@@ -5736,7 +5734,7 @@ pr...</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>19.704 Subcontracting plan requirements.</navtitle>
+                     <navtitle>19.704 Subcontracting planrequirements.</navtitle>
                   </topicmeta>
                
                
@@ -5758,7 +5756,7 @@ General.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>19.705-4 Reviewing the subcontracting plan.</navtitle>
+                        <navtitle>19.705-4 Reviewing the subcontractingplan.</navtitle>
                      </topicmeta>
                   
                   
@@ -5768,20 +5766,20 @@ General.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>19.705-6 Postaward responsibilities of the contracting
-offi...</navtitle>
+                        <navtitle>19.705-6 Postaward responsibilitiesof the contracting
+offic...</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>19.705-7 Liquidated damages.</navtitle>
+                        <navtitle>19.705-7 Compliancewith the subcontracting plan.</navtitle>
                      </topicmeta>
                   
                
                
                   <topicmeta>
-                     <navtitle>19.706 Responsibilities of the cognizant administrative
-con...</navtitle>
+                     <navtitle>19.706 Responsibilities ofthe cognizant administrative
+cont...</navtitle>
                   </topicmeta>
                
                
@@ -6015,13 +6013,12 @@ busin...</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>19.1308 Limitations on subcontracting and nonmanufacturer
-r...</navtitle>
+                     <navtitle>19.1308[Reserved]</navtitle>
                   </topicmeta>
                
                
                   <topicmeta>
-                     <navtitle>19.1309 Contract
+                     <navtitle>19.1309Contract
 clauses.</navtitle>
                   </topicmeta>
                
@@ -6039,8 +6036,8 @@ clauses.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>19.1403 Status as a service-disabled veteran-owned small
-bu...</navtitle>
+                     <navtitle>19.1403 Status as a service-disabledveteran-owned small
+bus...</navtitle>
                   </topicmeta>
                
                
@@ -6059,7 +6056,7 @@ set-a...</navtitle>
                      <navtitle>19.1406 Sole source awards to service-disabled veteran-owne...</navtitle>
                   </topicmeta>
                
-               <topicref navtitle="19.1407 Limitations on subcontracting&#x9;and nonmanufacturer rule."
+               <topicref navtitle="19.1407[Reserved]"
                 base="concept"
                 href="19.1407.dita"
                 props="19.1407"
@@ -6069,13 +6066,12 @@ set-a...</navtitle>
                 otherprops="NoProp"
                 xtrc="Not">
                   <topicmeta>
-                     <navtitle>19.1407 Limitations
-on subcontracting and nonmanufacturer r...</navtitle>
+                     <navtitle>19.1407[Reserved]</navtitle>
                   </topicmeta>
                </topicref>
                
                   <topicmeta>
-                     <navtitle>19.1408 Contract
+                     <navtitle>19.1408Contract
 clauses.</navtitle>
                   </topicmeta>
                
@@ -6119,13 +6115,12 @@ awar...</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>19.1507 Limitations on subcontracting and nonmanufacturer
-r...</navtitle>
+                     <navtitle>19.1507[Reserved]</navtitle>
                   </topicmeta>
                
                
                   <topicmeta>
-                     <navtitle>19.1508 Contract
+                     <navtitle>19.1508Contract
 clauses.</navtitle>
                   </topicmeta>
                
@@ -7695,7 +7690,7 @@ of subpart.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>25.105 Determining reasonableness of cost.</navtitle>
+                     <navtitle>25.105 Determining reasonablenessof cost.</navtitle>
                   </topicmeta>
                
             
@@ -7703,7 +7698,7 @@ of subpart.</navtitle>
                
                   <topicmeta>
                      <navtitle>25.200 Scope
-of Subpart.</navtitle>
+of subpart.</navtitle>
                   </topicmeta>
                
                
@@ -7723,7 +7718,7 @@ of Subpart.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>25.204 Evaluating offers of foreign construction material.</navtitle>
+                     <navtitle>25.204 Evaluating offers offoreign construction material.</navtitle>
                   </topicmeta>
                
                
@@ -7877,12 +7872,12 @@ offers.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>25.504-2 WTO GPA/Caribbean Basin Trade Initiative/FTAs.</navtitle>
+                        <navtitle>25.504-2 WTO GPA/CaribbeanBasin Trade Initiative/FTAs.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>25.504-3 FTA/Israeli Trade Act.</navtitle>
+                        <navtitle>25.504-3 FTA/Israeli TradeAct.</navtitle>
                      </topicmeta>
                   
                   
@@ -7923,12 +7918,12 @@ of subpart.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>25.604 Preaward determination concerning the inapplicabilit...</navtitle>
+                     <navtitle>25.604 Preaward determinationconcerning the inapplicability...</navtitle>
                   </topicmeta>
                
                
                   <topicmeta>
-                     <navtitle>25.605 Evaluating offers of foreign construction material.</navtitle>
+                     <navtitle>25.605 Evaluating offers offoreign construction material.</navtitle>
                   </topicmeta>
                
                
@@ -8631,7 +8626,7 @@ Contract clause.</navtitle>
                
                   
                      <topicmeta>
-                        <navtitle>28.106-1 Bonds and bond-related forms.</navtitle>
+                        <navtitle>28.106-1 Bonds and bond-relatedforms.</navtitle>
                      </topicmeta>
                   
                   
@@ -8686,40 +8681,40 @@ of subpart.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>28.202 Acceptability of corporate sureties.</navtitle>
+                     <navtitle>28.202 Acceptability of corporatesureties.</navtitle>
                   </topicmeta>
                
                
                   
                      <topicmeta>
-                        <navtitle>28.203-1 Security interests by an individual surety.</navtitle>
+                        <navtitle>28.203-1 Acceptability of individualsureties.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>28.203-2 Acceptability of assets.</navtitle>
+                        <navtitle>28.203-2 Substitution of assets.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>28.203-3 Acceptance of real property.</navtitle>
+                        <navtitle>28.203-3 Release of securityinterest.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>28.203-4 Substitution of assets.</navtitle>
+                        <navtitle>28.203-4 Solicitation provisionand contract clause.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>28.203-5 Release of lien.</navtitle>
+                        <navtitle>28.203-5 Exclusion of individualsureties.</navtitle>
                      </topicmeta>
                   
                
                
                   
                      <topicmeta>
-                        <navtitle>28.204-1 United States bonds or notes.</navtitle>
+                        <navtitle>28.204-1 United States bondsor notes.</navtitle>
                      </topicmeta>
                   
                   
@@ -8836,7 +8831,7 @@ of part.</navtitle>
             
                <topicmeta>
                   <navtitle>29.001
-Definitions.</navtitle>
+29.001 Definitions.</navtitle>
                </topicmeta>
             
             
@@ -8947,7 +8942,7 @@ procurements.</navtitle>
                   
                      <topicmeta>
                         <navtitle>29.402-4
-Taxes—Foreign Contracts in Afghanistan.</navtitle>
+Taxes—Foreign Contractsin Afghanistan.</navtitle>
                      </topicmeta>
                   
                
@@ -9014,7 +9009,7 @@ Findings.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>30.201-7 Cognizant Federal agency responsibilities.</navtitle>
+                        <navtitle>30.201-7 Cognizant Federalagency responsibilities.</navtitle>
                      </topicmeta>
                   
                
@@ -9026,7 +9021,7 @@ Findings.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>30.202-2 Impracticality of submission.</navtitle>
+                        <navtitle>30.202-2 Impracticality ofsubmission.</navtitle>
                      </topicmeta>
                   
                   
@@ -9036,12 +9031,12 @@ Findings.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>30.202-4 Privileged and confidential information.</navtitle>
+                        <navtitle>30.202-4 Privileged and confidentialinformation.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>30.202-5 Filing Disclosure Statements.</navtitle>
+                        <navtitle>30.202-5 Filing DisclosureStatements.</navtitle>
                      </topicmeta>
                   
                   
@@ -9058,7 +9053,7 @@ Determinations.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>30.202-8 Subcontractor Disclosure Statements.</navtitle>
+                        <navtitle>30.202-8 Subcontractor DisclosureStatements.</navtitle>
                      </topicmeta>
                   
                
@@ -9816,7 +9811,7 @@ Policy.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>32.202-4 Security for Government financing.</navtitle>
+                        <navtitle>32.202-4 Security for Governmentfinancing.</navtitle>
                      </topicmeta>
                   
                
@@ -10372,7 +10367,7 @@ of subpart.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>32.904 Determining payment due dates.</navtitle>
+                     <navtitle>32.904 Determining paymentdue dates.</navtitle>
                   </topicmeta>
                
                
@@ -11361,7 +11356,7 @@ of part.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>37.103 Contracting officer responsibility.</navtitle>
+                     <navtitle>37.103 Contracting officerresponsibility.</navtitle>
                   </topicmeta>
                
                
@@ -11552,7 +11547,8 @@ of subpart.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>37.503 Agency-head responsibilities.</navtitle>
+                     <navtitle>37.503
+Agency-head responsibilities.</navtitle>
                   </topicmeta>
                
                
@@ -11615,13 +11611,12 @@ of part.</navtitle>
          
             
                <topicmeta>
-                  <navtitle>39.000 Scope
-of part.</navtitle>
+                  <navtitle>39.000 Scope of part.</navtitle>
                </topicmeta>
             
             
                <topicmeta>
-                  <navtitle>39.001 Applicability.</navtitle>
+                  <navtitle>39.001Applicability.</navtitle>
                </topicmeta>
             
             
@@ -11678,12 +11673,17 @@ of subpart.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>39.203 Applicability.</navtitle>
+                     <navtitle>39.203Applicability.</navtitle>
                   </topicmeta>
                
                
                   <topicmeta>
-                     <navtitle>39.204 Exceptions.</navtitle>
+                     <navtitle>39.204Exceptions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta>
+                     <navtitle>39.205Exemptions.</navtitle>
                   </topicmeta>
                
             
@@ -11860,7 +11860,7 @@ of part.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>42.203 Contract administration services directory.</navtitle>
+                     <navtitle>42.203 Contract administrationservices directory.</navtitle>
                   </topicmeta>
                
             
@@ -11872,7 +11872,7 @@ of part.</navtitle>
                
                
                   <topicmeta>
-                     <navtitle>42.302 Contract administration functions.</navtitle>
+                     <navtitle>42.302 Contract administrationfunctions.</navtitle>
                   </topicmeta>
                
             
@@ -12037,90 +12037,44 @@ cost ...</navtitle>
                   </topicmeta>
                
                
-                  <topicref navtitle="42.709-0 Scope."
-                base="concept"
-                href="42.709-0.dita"
-                props="42.709-1"
-                outputclass="subtopic"
-                type="concept"
-                otherprops="NoProp">
+                  
                      <topicmeta>
-                        <navtitle>42.709-0
-Scope.</navtitle>
+                        <navtitle>42.709-1Scope.</navtitle>
                      </topicmeta>
-                  </topicref>
-                  <topicref navtitle="42.709-1 General."
-                base="concept"
-                href="42.709-1.dita"
-                props="42.709-2"
-                outputclass="subtopic"
-                audience="42_709_1"
-                otherprops="NoProp"
-                xtrc="Not">
+                  
+                  
                      <topicmeta>
-                        <navtitle>42.709-1 General.</navtitle>
+                        <navtitle>42.709-2General.</navtitle>
                      </topicmeta>
-                  </topicref>
-                  <topicref navtitle="42.709-2 Responsibilities."
-                base="concept"
-                href="42.709-2.dita"
-                props="42.709-3"
-                outputclass="subtopic"
-                audience="42_709_2"
-                otherprops="NoProp"
-                xtrc="Not">
+                  
+                  
                      <topicmeta>
-                        <navtitle>42.709-2 Responsibilities.</navtitle>
+                        <navtitle>42.709-3 Responsibilities.</navtitle>
                      </topicmeta>
-                  </topicref>
-                  <topicref navtitle="42.709-3 Assessing the penalty."
-                base="concept"
-                href="42.709-3.dita"
-                props="42.709-4"
-                outputclass="subtopic"
-                audience="42_709_3"
-                otherprops="NoProp"
-                xtrc="Not">
+                  
+                  
                      <topicmeta>
-                        <navtitle>42.709-3 Assessing the penalty.</navtitle>
+                        <navtitle>42.709-4
+Assessingthe penalty.</navtitle>
                      </topicmeta>
-                  </topicref>
-                  <topicref navtitle="42.709-4 Computing interest."
-                base="concept"
-                href="42.709-4.dita"
-                props="42.709-5"
-                outputclass="subtopic"
-                audience="42_709_4"
-                otherprops="NoProp"
-                xtrc="Not">
+                  
+                  
                      <topicmeta>
-                        <navtitle>42.709-4 Computing interest.</navtitle>
+                        <navtitle>42.705-5
+Computing Interest.</navtitle>
                      </topicmeta>
-                  </topicref>
-                  <topicref navtitle="42.709-5 Waiver of the penalty."
-                base="concept"
-                href="42.709-5.dita"
-                props="42.709-6"
-                outputclass="subtopic"
-                audience="42_709_5"
-                otherprops="NoProp"
-                xtrc="Not">
+                  
+                  
                      <topicmeta>
-                        <navtitle>42.709-5 Waiver of the penalty.</navtitle>
+                        <navtitle>42.705-6
+Waiver of the penalty.</navtitle>
                      </topicmeta>
-                  </topicref>
-                  <topicref navtitle="42.709-6 Contract clause."
-                base="concept"
-                href="42.709-6.dita"
-                props="42.709-7"
-                outputclass="subtopic"
-                audience="42_709_6"
-                otherprops="NoProp"
-                xtrc="Not">
+                  
+                  
                      <topicmeta>
-                        <navtitle>42.709-6 Contract clause.</navtitle>
+                        <navtitle>42.705-7 Contract clause.</navtitle>
                      </topicmeta>
-                  </topicref>
+                  
                
             
             
@@ -12499,7 +12453,7 @@ Notification.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>44.305-3 Withholding or withdrawing approval.</navtitle>
+                        <navtitle>44.305-3 Withholding or withdrawingapproval.</navtitle>
                      </topicmeta>
                   
                
@@ -14229,7 +14183,7 @@ Records.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>50.102-3 Limitations on exercise of authority.</navtitle>
+                        <navtitle>50.102-3 Limitations on exerciseof authority.</navtitle>
                      </topicmeta>
                   
                
@@ -14708,8 +14662,8 @@ Fib...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.204-8 Annual Representations
-and Certifications.</navtitle>
+                        <navtitle>52.204-8 Annual Representationsand
+Certifications.</navtitle>
                      </topicmeta>
                   
                   
@@ -14975,14 +14929,14 @@ Tax Matters.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.209-13 Violation of Arms
-Control Treaties or Agreements-...</navtitle>
+                        <navtitle>52.209-13 Violation of ArmsControl
+Treaties or Agreements-C...</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
                         <navtitle>52.209-14
-Reserve Officer Training Corps and Military Recru...</navtitle>
+Reserve Officer TrainingCorps and Military Recrui...</navtitle>
                      </topicmeta>
                   
                
@@ -15003,20 +14957,20 @@ GSA I...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.211-2 Availability of Specifications, Standards, and
-Dat...</navtitle>
+                        <navtitle>52.211-2 Availability of Specifications,Standards, and
+Data...</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
                         <navtitle>52.211-3 Availability
-of Specifications Not Listed in the G...</navtitle>
+of SpecificationsNot Listed in the GS...</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
                         <navtitle>52.211-4 Availability
-for Examination of Specifications Not...</navtitle>
+for Examinationof Specifications Not ...</navtitle>
                      </topicmeta>
                   
                   
@@ -15099,7 +15053,7 @@ in Quantity.</navtitle>
                
                   
                      <topicmeta>
-                        <navtitle>52.212-1 Instructions to Offerors-Commercial Items.</navtitle>
+                        <navtitle>52.212-1 Instructions to Offerors-CommercialItems.</navtitle>
                      </topicmeta>
                   
                   
@@ -15110,7 +15064,7 @@ Items.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.212-3 Offeror Representations and Certifications-Commerc...</navtitle>
+                        <navtitle>52.212-3 Offeror Representationsand Certifications-Commerci...</navtitle>
                      </topicmeta>
                   
                   
@@ -15122,7 +15076,7 @@ Terms and Conditions-Commercial Items.</navtitle>
                   
                      <topicmeta>
                         <navtitle>52.212-5 Contract
-Terms and Conditions Required to Implemen...</navtitle>
+Terms andConditions Required To Implement...</navtitle>
                      </topicmeta>
                   
                
@@ -15146,7 +15100,7 @@ Invoices.</navtitle>
                   
                      <topicmeta>
                         <navtitle>52.213-4 Terms and
-Conditions-Simplified Acquisitions (Othe...</navtitle>
+Conditions-SimplifiedAcquisitions (Other...</navtitle>
                      </topicmeta>
                   
                
@@ -15301,7 +15255,7 @@ or P...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.214-28 Subcontractor Certified Cost or Pricing Data-Modi...</navtitle>
+                        <navtitle>52.214-28 Subcontractor CertifiedCost or Pricing Data-Modif...</navtitle>
                      </topicmeta>
                   
                   
@@ -15450,7 +15404,7 @@ or P...</navtitle>
                   
                      <topicmeta>
                         <navtitle>52.215-20 Requirements
-for Certified Cost or Pricing Data a...</navtitle>
+forCertified Cost or Pricing Data an...</navtitle>
                      </topicmeta>
                   
                   
@@ -15707,7 +15661,7 @@ Extend the Term of the Contract.</navtitle>
                   
                      <topicmeta>
                         <navtitle>52.219-1 Small Business
-Program Representations.</navtitle>
+ProgramRepresentations.</navtitle>
                      </topicmeta>
                   
                   
@@ -15718,14 +15672,14 @@ Equal Low Bids.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.219-3 Notice of HUBZone Set-Aside or Sole
-Source Award.</navtitle>
+                        <navtitle>52.219-3 Noticeof HUBZone Set-Aside or Sole-Source
+Award.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>52.219-4 Notice of Price Evaluation Preference
-for HUBZone ...</navtitle>
+                        <navtitle>52.219-4 Notice of Price EvaluationPreference
+for HUBZone S...</navtitle>
                      </topicmeta>
                   
                   
@@ -15736,12 +15690,12 @@ for HUBZone ...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.219-6 Notice of Total Small Business Set-Aside.</navtitle>
+                        <navtitle>52.219-6 Notice of Total SmallBusiness Set-Aside.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>52.219-7 Notice of Partial Small Business Set-Aside.</navtitle>
+                        <navtitle>52.219-7 Notice of PartialSmall Business Set-Aside.</navtitle>
                      </topicmeta>
                   
                   
@@ -15751,7 +15705,7 @@ for HUBZone ...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.219-9 Small Business Subcontracting Plan.</navtitle>
+                        <navtitle>52.219-9 Small Business SubcontractingPlan.</navtitle>
                      </topicmeta>
                   
                   
@@ -15779,7 +15733,7 @@ Subcontracting Program.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.219-14 Limitations on Subcontracting.</navtitle>
+                        <navtitle>52.219-14Limitations on Subcontracting.</navtitle>
                      </topicmeta>
                   
                   
@@ -15790,7 +15744,7 @@ Subcontracting Program.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.219-16 Liquidated Damages-Subcontracting Plan.</navtitle>
+                        <navtitle>52.219-16 Liquidated Damages-SubcontractingPlan.</navtitle>
                      </topicmeta>
                   
                   
@@ -15855,26 +15809,26 @@ of Competition Limited to Eligible 8...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.219-27 Notice of Service-Disabled Veteran-Owned Small
-Bu...</navtitle>
+                        <navtitle>52.219-27 Notice of Service-DisabledVeteran-Owned Small
+Bus...</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
                         <navtitle>52.219-28 Post-Award
-Small Business Program Rerepresentatio...</navtitle>
+SmallBusiness Program Rerepresentation...</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>52.219-29 Notice of Set-Aside for, or Sole Source Award
-to,...</navtitle>
+                        <navtitle>52.219-29 Noticeof Set-Aside for, or Sole-Source Award
+to, ...</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>52.219-30 Notice of Set-Aside for, or Sole Source Award
-to,...</navtitle>
+                        <navtitle>52.219-30 Noticeof Set-Aside for, or Sole-Source Award
+to, ...</navtitle>
                      </topicmeta>
                   
                   
@@ -15891,8 +15845,7 @@ Under Small Business Reser...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.219-33 Nonmanufacturer
-Rule.</navtitle>
+                        <navtitle>52.219-33Nonmanufacturer Rule.</navtitle>
                      </topicmeta>
                   
                
@@ -15947,7 +15900,7 @@ Site...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.222-8 Payrolls and Basic Records.</navtitle>
+                        <navtitle>52.222-8 Payrolls and BasicRecords.</navtitle>
                      </topicmeta>
                   
                   
@@ -15998,8 +15951,8 @@ Site...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.222-18 Certification Regarding Knowledge of Child Labor
-...</navtitle>
+                        <navtitle>52.222-18 Certification RegardingKnowledge of Child Labor
+f...</navtitle>
                      </topicmeta>
                   
                   
@@ -16204,7 +16157,7 @@ Trafficking in Persons.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.222-55 Minimum Wages Under Executive Order 13658.</navtitle>
+                        <navtitle>52.222-55 Minimum Wages UnderExecutive Order 13658.</navtitle>
                      </topicmeta>
                   
                   
@@ -16264,7 +16217,7 @@ Under...</navtitle>
                   
                      <topicmeta>
                         <navtitle>52.223-3 Hazardous
-Material Identification and Material Saf...</navtitle>
+MaterialIdentification and Material Safe...</navtitle>
                      </topicmeta>
                   
                   
@@ -16408,14 +16361,14 @@ Privacy Training.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.225-3 Buy American-Free Trade Agreements-Israeli
-Trade A...</navtitle>
+                        <navtitle>52.225-3 Buy American-FreeTrade Agreements-Israeli
+Trade Ac...</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>52.225-4 Buy American-Free Trade Agreements-Israeli
-Trade A...</navtitle>
+                        <navtitle>52.225-4 Buy American-FreeTrade Agreements-Israeli
+Trade Ac...</navtitle>
                      </topicmeta>
                   
                   
@@ -16442,8 +16395,7 @@ Trade Agreements.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.225-9 Buy American-Construction
-Materials.</navtitle>
+                        <navtitle>52.225-9 Buy American-ConstructionMaterials.</navtitle>
                      </topicmeta>
                   
                   
@@ -16454,8 +16406,8 @@ M...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.225-11 Buy American-Construction
-Materials under Trade A...</navtitle>
+                        <navtitle>52.225-11 Buy American-ConstructionMaterials
+under Trade Ag...</navtitle>
                      </topicmeta>
                   
                   
@@ -16466,7 +16418,7 @@ M...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.225-13 Restrictions on Certain Foreign Purchases.</navtitle>
+                        <navtitle>52.225-13 Restrictions on CertainForeign Purchases.</navtitle>
                      </topicmeta>
                   
                   
@@ -16488,7 +16440,7 @@ M...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.225-17 Evaluation of Foreign Currency Offers.</navtitle>
+                        <navtitle>52.225-17 Evaluation of ForeignCurrency Offers.</navtitle>
                      </topicmeta>
                   
                   
@@ -16511,25 +16463,25 @@ Ope...</navtitle>
                   
                      <topicmeta>
                         <navtitle>52.225-21 Required
-Use of American Iron, Steel, and Manufac...</navtitle>
+Use of AmericanIron, Steel, and Manufact...</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>52.225-22 Notice of Required Use of American
-Iron, Steel, a...</navtitle>
+                        <navtitle>52.225-22 Notice of RequiredUse of American
+Iron, Steel, an...</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
                         <navtitle>52.225-23 Required
-Use of American Iron, Steel, and Manufac...</navtitle>
+Use of AmericanIron, Steel, and Manufact...</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
-                        <navtitle>52.225-24 Notice of Required Use of American
-Iron, Steel, a...</navtitle>
+                        <navtitle>52.225-24 Notice of RequiredUse of American
+Iron, Steel, an...</navtitle>
                      </topicmeta>
                   
                   
@@ -16615,7 +16567,7 @@ Indemnity.</navtitle>
                   
                      <topicmeta>
                         <navtitle>52.227-7 Patents-Notice
-of Government Licensee.</navtitle>
+ofGovernment Licensee.</navtitle>
                      </topicmeta>
                   
                   
@@ -16761,7 +16713,7 @@ and General Public Liability Insurance.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.228-11 Pledges of Assets.</navtitle>
+                        <navtitle>52.228-11 Individual Surety—Pledgeof Assets.</navtitle>
                      </topicmeta>
                   
                   
@@ -16772,7 +16724,7 @@ and General Public Liability Insurance.</navtitle>
                   
                      <topicmeta>
                         <navtitle>52.228-13 Alternative
-Payment Protections.</navtitle>
+PaymentProtections.</navtitle>
                      </topicmeta>
                   
                   
@@ -16794,7 +16746,7 @@ and Payment Bonds-Other Than Construc...</navtitle>
                   
                      <topicmeta>
                         <navtitle>52.228-17
-Individual Surety—Pledge of Assets (Bid Guarant...</navtitle>
+Individual Surety—Pledgeof Assets (Bid Guarante...</navtitle>
                      </topicmeta>
                   
                
@@ -16864,20 +16816,19 @@ Procurements—Notice and ...</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.229-12 Tax on Certain Foreign
-Procurements.</navtitle>
+                        <navtitle>52.229-12 Tax on Certain ForeignProcurements.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
                         <navtitle>52.229-13
-Taxes—Foreign Contracts in Afghanistan.</navtitle>
+Taxes—Foreign Contractsin Afghanistan.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
                         <navtitle>52.229-14
-Taxes—Foreign Contracts in Afghanistan (North A...</navtitle>
+Taxes—Foreign Contractsin Afghanistan (North At...</navtitle>
                      </topicmeta>
                   
                
@@ -17520,7 +17471,7 @@ Credits.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.242-3 Penalties for Unallowable Costs.</navtitle>
+                        <navtitle>52.242-3 Penalties for UnallowableCosts.</navtitle>
                      </topicmeta>
                   
                   
@@ -17672,7 +17623,7 @@ of Changes.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>52.244-6 Subcontracts for Commercial Items.</navtitle>
+                        <navtitle>52.244-6 Subcontracts for CommercialItems.</navtitle>
                      </topicmeta>
                   
                
@@ -17685,7 +17636,7 @@ of Changes.</navtitle>
                   
                      <topicmeta>
                         <navtitle>52.245-2 Government
-Property Installation Operation Service...</navtitle>
+PropertyInstallation Operation Services...</navtitle>
                      </topicmeta>
                   
                   
@@ -18405,13 +18356,13 @@ in Contract.</navtitle>
                   
                      <topicmeta>
                         <navtitle>52.252-5 Authorized
-Deviations in Provisions.</navtitle>
+Deviationsin Provisions.</navtitle>
                      </topicmeta>
                   
                   
                      <topicmeta>
                         <navtitle>52.252-6 Authorized
-Deviations in Clauses.</navtitle>
+Deviationsin Clauses.</navtitle>
                      </topicmeta>
                   
                
@@ -18738,7 +18689,7 @@ Construction.</navtitle>
                   
                   
                      <topicmeta>
-                        <navtitle>53.236-2 Architect-engineer services (SF’s 252 and 330).</navtitle>
+                        <navtitle>53.236-2 Architect-engineerservices (SF’s 252 and 330).</navtitle>
                      </topicmeta>
                   
                
@@ -18825,8 +18776,8 @@ property.</navtitle>
             
                
                   <topicmeta>
-                     <navtitle>53.300 Listing of Standard, Optional, and Agency forms.
-For...</navtitle>
+                     <navtitle>53.300 Listing of Standard,Optional, and Agency forms.
+Form...</navtitle>
                   </topicmeta>
                
             
@@ -18886,9 +18837,4 @@ Preambles Published under the FAR System</navtitle>
          <navtitle>FAR Correction(s)</navtitle>
       </topicmeta>
    </topicref>
-   
-      <topicmeta>
-         <navtitle>FAR Definition List</navtitle>
-      </topicmeta>
-   
 </map>
