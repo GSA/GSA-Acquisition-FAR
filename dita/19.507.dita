@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_19_507"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -270,8 +271,9 @@ value; or</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d1202e220" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Using the
-HUBZone price evaluation preference. However, if the prospective
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
+                                    <i class="+ topic/ph hi-d/i ">Using
+the HUBZone price evaluation preference.</i> However, if the prospective
 contractor waived the use of the price evaluation preference, or
 is an other than small business, do not insert the clause in the
 resultant contract.</p>
