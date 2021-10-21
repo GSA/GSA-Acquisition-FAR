@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_52_219_28"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -156,22 +157,21 @@ a construction or service contract, is 500 employees if the acquisition—<?FM M
                <ol rev="FAC 2021-07 September 10, 2021" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d3300e110" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Was
-set aside for small business and has a value above the simplified
-acquisition threshold;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Was set aside for small business
+and has a value above the simplified acquisition threshold;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3300e115" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Used the HUBZone price evaluation preference
-regardless of dollar value, unless the Contractor waived the price
-evaluation preference; or</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Used the
+HUBZone price evaluation preference regardless of dollar value,
+unless the Contractor waived the price evaluation preference; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d3300e120" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Was an 8(a), HUBZone, service-disabled
-veteran-owned, economically disadvantaged women-owned, or women-owned
-small business set-aside or sole-source award regardless of dollar
-value.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Was an
+8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged
+women-owned, or women-owned small business set-aside or sole-source
+award regardless of dollar value.</p>
                   </li>
                </ol>
             </li>
@@ -275,10 +275,10 @@ in paragraph (h)(4)(i) of this clause is accurate for each WOSB
 concern eligible under the WOSB Program participating in the joint
 venture. <cite outputclass="SingleLine"
                                     xtrc="52.219-28_d25e199"
-                                    class="- topic/cite ">[<i class="+ topic/ph hi-d/i ">The
+                                    class="- topic/cite ">[<i class="+ topic/ph hi-d/i "> The
 Contractor shall enter the name or names of the WOSB concern eligible
 under the WOSB Program and other small businesses that are participating in
-the joint venture:</i>_____.]</cite> Each WOSB concern eligible
+the joint venture:</i>_____. ]</cite> Each WOSB concern eligible
 under the WOSB Program participating in the joint venture shall
 submit a separate signed copy of the WOSB representation.</p>
                         </li>
@@ -313,11 +313,13 @@ its eligibility; and</p>
                                     class="- topic/cite ">□</cite> is
 not a joint venture that complies with the requirements of <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph>, and the representation
 in paragraph (h)(5)(i) of this clause is accurate for each EDWOSB
-concern participating in the joint venture. [The Contractor shall
-enter the name or names of the EDWOSB concern and other small businesses
-that are participating in the joint venture: _____.] Each EDWOSB
-concern participating in the joint venture shall submit a separate
-signed copy of the EDWOSB representation.</p>
+concern participating in the joint venture. <cite outputclass="SingleLine"
+                                    xtrc="52.219-28_d7e256"
+                                    class="- topic/cite ">[ <i class="+ topic/ph hi-d/i ">The
+Contractor shall enter the name or names of the EDWOSB concern and
+other small businesses that are participating in the joint venture:
+_____.</i> ]</cite> Each EDWOSB concern participating in the joint
+venture shall submit a separate signed copy of the EDWOSB representation.</p>
                         </li>
                      </ol>
                   </li>
@@ -392,11 +394,11 @@ and date and insert authorized signer's name and title.</i>] </p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
+         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?> 
             <p id="id203KC0R09L7" class="- topic/p ">
                <i class="+ topic/ph hi-d/i ">Alternate
-I <ph outputclass="SmCaps" class="- topic/ph ">(Mar 2020)</ph>
-               </i>. As prescribed
+I</i> 
+               <ph outputclass="SmCaps" class="- topic/ph ">(Mar 2020)</ph>. As prescribed
 in <xref href="19.309.dita#FAR_19_309"
                      base="i1101433"
                      outputclass="fm:ParaNumOnly"
@@ -489,7 +491,7 @@ one of the NAICS codes assigned to this contract.</p>
                   </tbody>
                </tgroup>
             </table>
-            <p class="- topic/p ">[<i class="+ topic/ph hi-d/i ">Contracting Officer to insert NAICS codes.</i>]</p>
+            <p class="- topic/p ">[<i class="+ topic/ph hi-d/i ">Contracting Officer to insert NAICS codes.</i>]</p> 
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>
