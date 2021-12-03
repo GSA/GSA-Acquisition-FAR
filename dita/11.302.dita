@@ -2,20 +2,21 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_11_302"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">11.302</ph> Policy.</title>
-      <conbody class="- topic/body concept/conbody ">
+      <conbody class="- topic/body  concept/conbody ">
          <ol id="d648e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d675e10" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-						            Agencies must not require virgin material or supplies composed of or manufactured using virgin material unless compelled by law or regulation or unless virgin material is vital for safety or meeting performance requirements of the contract.</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Agencies must not require virgin
+material or supplies composed of or manufactured using virgin material
+unless compelled by law or regulation or unless virgin material
+is vital for safety or meeting performance requirements of the contract.</p>
             </li>
             <li props="Runin" class="- topic/li ">
                <p id="d675e15" class="- topic/p ">
@@ -24,34 +25,56 @@
                <ol id="d648e32" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d675e20" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-								                When acquiring other than commercial items, agencies must require offerors to identify used, reconditioned, or remanufactured supplies; or unused former Government surplus property proposed for use under the contract. These supplies or property may not be used in contract performance unless authorized by the contracting officer.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> When <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>acquiring products other<?FM MARKER [Why] Amend section 11.302 by—
+a. Removing from paragraph (b)(1) the terms “acquiring other” and “commercial items” and adding “acquiring products other” and “commercial products as defined in 2.101” in their places, respectively;?></ph> than <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph ">commercial products as
+defined in <xref href="2.101.dita#FAR_2_101"
+                                 base="i1125359"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">2.101</xref>,</ph> agencies must
+require offerors to identify used, reconditioned, or remanufactured
+supplies; or unused former Government surplus property proposed for
+use under the contract. These supplies or property may not be used
+in contract performance unless authorized by the contracting officer.</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d675e25" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-								                When acquiring commercial items, the contracting officer must consider the customary practices in the industry for the item being acquired. The contracting officer may require offerors to provide information on used, reconditioned, or remanufactured supplies, or unused former Government surplus property proposed for use under the contract. The request for the information must be included in the solicitation, and to the maximum extent practicable must be limited to information or standards consistent with normal commercial practices.</p>
+                     <p id="d675e36" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> When acquiring <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>commercial products<?FM MARKER [Why] b. Removing from paragraph (b)(2) the terms “commercial items” and “the item” and adding “commercial products” and “the product” in their places, respectively; and?>,</ph> the
+contracting officer must consider the customary practices in the
+industry for <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph ">the product</ph> being
+acquired. The contracting officer may require offerors to provide
+information on used, reconditioned, or remanufactured supplies,
+or unused former Government surplus property proposed for use under
+the contract. The request for the information must be included in
+the solicitation, and to the maximum extent practicable must be limited
+to information or standards consistent with normal commercial practices.</p>
                   </li>
                </ol>
             </li>
             <li props="Runin" class="- topic/li ">
-               <p id="d675e30" class="- topic/p ">
+               <p id="d675e50" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                </p>
                <ol id="d648e62" class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d675e35" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-								                When the contracting officer needs additional information to determine whether supplies meet minimum recovered material or biobased standards stated in the solicitation, the contracting officer may require offerors to submit additional information on the recycled or biobased content or related standards. The request for the information must be included in the solicitation. When acquiring commercial items, limit the information to the maximum extent practicable to that available under normal commercial practices.</p>
+                     <p id="d675e55" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> When
+the contracting officer needs additional information to determine
+whether supplies meet minimum recovered material or biobased standards
+stated in the solicitation, the contracting officer may require
+offerors to submit additional information on the recycled or biobased
+content or related standards. The request for the information must be
+included in the solicitation. When acquiring <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>commercial products<?FM MARKER [Why] c. Removing from paragraph (c)(1) the term “commercial items” and adding “commercial products” in its place.?>,</ph> limit
+the information to the maximum extent practicable to that available
+under normal commercial practices.</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d675e40" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-								                For biobased products, agencies may not require, as a condition of purchase of such products, the vendor or manufacturer to provide more data than would typically be provided by other business entities offering products for sale to the agency, other than data confirming the biobased content of a product (see <ph outputclass="CFR" class="- topic/ph ">7 CFR 3201.8</ph>).</p>
+                     <p id="d675e66" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> For biobased
+products, agencies may not require, as a condition of purchase of
+such products, the vendor or manufacturer to provide more data than
+would typically be provided by other business entities offering
+products for sale to the agency, other than data confirming the
+biobased content of a product (see 7 CFR 3201.8).</p>
                   </li>
                </ol>
             </li>

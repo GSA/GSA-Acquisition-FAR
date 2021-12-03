@@ -4,16 +4,14 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_39_203"
-            rev="FAC 2021-07 September 10, 2021"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">39.203</ph> 
-         <?FM MARKER [CaseNumber] FAR Case 2017-011?>Applicability.<?FM MARKER [Why] Revise sections 39.203 and 39.204, and add section 39.205.?></title>
+         <ph props="autonumber" class="- topic/ph ">39.203</ph> Applicability.</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol id="d2426e13" class="- topic/ol ">
             <li class="- topic/li ">
-               <p id="d2448e12" class="- topic/p ">
+               <p id="d2448e10" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">General</i>. Unless an exception
 at <xref href="39.204.dita#FAR_39_204"
@@ -31,7 +29,7 @@ standards at <xref href="https://www.federalregister.gov/select-citation/2021/08
                         class="- topic/xref ">36 CFR 1194.1</xref>.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d2448e28" class="- topic/p ">
+               <p id="d2448e26" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   <i class="+ topic/ph hi-d/i ">Indefinite-quantity
 contracts.</i> Confirmation of an exception or a determination of
@@ -43,7 +41,7 @@ compliance can be found (<i class="+ topic/ph hi-d/i ">e.g.</i>, vendor's or oth
 location).</p>
             </li>
             <li class="- topic/li ">
-               <p id="d2448e38" class="- topic/p ">
+               <p id="d2448e36" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   <i class="+ topic/ph hi-d/i ">Task
 order or delivery order.</i> At the time of issuance of a task order
@@ -55,19 +53,22 @@ a noncompliant ICT item shall be supported by the appropriate exception
 or exemption documented by the requiring activity.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d2448e45" class="- topic/p ">
+               <p id="d2448e43" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   <i class="+ topic/ph hi-d/i ">Commercial
-items.</i> When acquiring commercial items, an agency must comply
-with those ICT accessibility standards that can be met with supplies
-or services that are available in the commercial marketplace and
-that best address the agency's needs, but see <xref href="39.205.dita#FAR_39_205"
-                        base="i1077027"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">39.205</xref>(a)(3).</p>
+products and commercial services.</i>
+                  <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>When acquiring commercial
+products and commercial services, an agency must comply with those
+ICT accessibility standards that can be met with supplies or services
+that are available in the commercial marketplace and that best address
+the agency's needs, <?FM MARKER [Why] Amend section 39.203 by revising paragraph (d).?>but see <xref href="39.205.dita#FAR_39_205"
+                           base="i1077027"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">39.205</xref>(a)(3).</ph>
+               </p>
             </li>
             <li class="- topic/li ">
-               <p id="d2448e55" class="- topic/p ">
+               <p id="d2448e57" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   <i class="+ topic/ph hi-d/i ">Legacy
 ICT.</i> Any component or portion of existing ICT (<i class="+ topic/ph hi-d/i ">i.e.</i>,
@@ -76,10 +77,10 @@ ICT that was procured, maintained, or used on or before January
 standards if it—</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d2448e66" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Complies with an earlier standard
-issued pursuant to section 508 of the Rehabilitation Act of 1973
-(<xref href="https://www.govinfo.gov/link/uscode/29/794?type=usc&amp;year=mostrecent&amp;link-type=html"
+                     <p id="d2448e68" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Complies
+with an earlier standard issued pursuant to section 508 of the Rehabilitation
+Act of 1973 (<xref href="https://www.govinfo.gov/link/uscode/29/794?type=usc&amp;year=mostrecent&amp;link-type=html"
                               format="html"
                               scope="external"
                               class="- topic/xref ">29 U.S.C. 794</xref>d), which
@@ -89,16 +90,16 @@ is set forth in Appendix D to <xref href="https://www.federalregister.gov/select
                               class="- topic/xref ">36 CFR 1194.1</xref>); and</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d2448e77" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Has
-not been altered (<i class="+ topic/ph hi-d/i ">i.e.</i>, a change that affects interoperability,
+                     <p id="d2448e79" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Has not
+been altered (<i class="+ topic/ph hi-d/i ">i.e.</i>, a change that affects interoperability,
 the user interface, or access to information or data) after January
 18, 2018.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d2448e85" class="- topic/p ">
+               <p id="d2448e87" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   <i class="+ topic/ph hi-d/i ">Alterations
 of legacy ICT.</i> When altering any component or portion of existing

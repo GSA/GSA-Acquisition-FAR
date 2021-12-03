@@ -2,68 +2,75 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_13_302_1"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">13.302-1</ph> General.</title>
-      <conbody class="- topic/body concept/conbody ">
+      <conbody class="- topic/body  concept/conbody ">
          <ol id="d745e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d772e10" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-						            Except as provided under the unpriced purchase order method (see <xref href="13.302-2.dita#FAR_13_302_2"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Except as provided under the unpriced
+purchase order method (see <xref href="13.302-2.dita#FAR_13_302_2"
                         base="i1111506"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">13.302-2</xref>), purchase orders generally are issued on a fixed-price basis. See <xref href="12.207.dita#FAR_12_207"
+                        class="- topic/xref ">13.302-2</xref>),
+purchase orders generally are issued on a fixed-price basis. See <xref href="12.207.dita#FAR_12_207"
                         base="i1113491"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">12.207</xref> for acquisition of commercial items.</p>
+                        class="- topic/xref ">12.207</xref> for acquisition
+of <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>commercial products
+and commercial services.<?FM MARKER [Why] Amend section 13.302-1 by removing from paragraph (a) the term “commercial items” and adding “commercial products and commercial services” in its place.?></ph>
+               </p>
             </li>
             <li class="- topic/li ">
-               <p id="d772e21" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-						            Purchase orders shall-</p>
+               <p id="d772e25" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Purchase
+orders shall-</p>
                <ol id="d745e38" class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d772e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-								                Specify the quantity of supplies or scope of services ordered;</p>
+                     <p id="d772e31" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Specify the quantity of supplies
+or scope of services ordered;</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d772e32" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-								                Contain a determinable date by which delivery of the supplies or performance of the services is required;</p>
+                     <p id="d772e36" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Contain
+a determinable date by which delivery of the supplies or performance
+of the services is required;</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d772e37" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-								                Provide for inspection as prescribed in <xref href="Part_46.dita#FAR_Part_46"
+                     <p id="d772e41" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Provide
+for inspection as prescribed in <xref href="Part_46.dita#FAR_Part_46"
                               base="i1072601"
                               outputclass="fm:Part"
-                              class="- topic/xref ">part  46</xref>. Generally, inspection and acceptance should be at destination. Source inspection should be specified only if required by <xref href="Part_46.dita#FAR_Part_46"
+                              class="- topic/xref ">part  46</xref>.
+Generally, inspection and acceptance should be at destination. Source
+inspection should be specified only if required by <xref href="Part_46.dita#FAR_Part_46"
                               base="i1072601"
                               outputclass="fm:Part"
-                              class="- topic/xref ">part  46</xref>. When inspection and acceptance will be performed at destination, advance copies of the purchase order or equivalent notice shall be furnished to the consignee(s) for material receipt purposes. Receiving reports shall be accomplished immediately upon receipt and acceptance of supplies;</p>
+                              class="- topic/xref ">part  46</xref>. When inspection
+and acceptance will be performed at destination, advance copies
+of the purchase order or equivalent notice shall be furnished to
+the consignee(s) for material receipt purposes. Receiving reports
+shall be accomplished immediately upon receipt and acceptance of
+supplies;</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d772e48" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-								                Specify f.o.b. destination for supplies to be delivered within the United States, except Alaska or Hawaii, unless there are valid reasons to the contrary; and</p>
+                     <p id="d772e52" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Specify
+f.o.b. destination for supplies to be delivered within the United
+States, except Alaska or Hawaii, unless there are valid reasons
+to the contrary; and</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d772e53" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-								                Include any trade and prompt payment discounts that are offered, consistent with the applicable principles at <xref href="14.408-3.dita#FAR_14_408_3"
+                     <p id="d772e57" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Include
+any trade and prompt payment discounts that are offered, consistent
+with the applicable principles at <xref href="14.408-3.dita#FAR_14_408_3"
                               base="i1110034"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">14.408-3</xref>.</p>
@@ -71,37 +78,45 @@
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d772e61" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-						            The contracting officer’s signature on purchase orders shall be in accordance with <xref href="4.101.dita#FAR_4_101"
+               <p id="d772e65" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> The contracting
+officer’s signature on purchase orders shall be in accordance with <xref href="4.101.dita#FAR_4_101"
                         base="i1123260"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">4.101</xref> and the definitions at <xref href="2.101.dita#FAR_2_101"
+                        class="- topic/xref ">4.101</xref> and the definitions
+at <xref href="2.101.dita#FAR_2_101"
                         base="i1125359"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">2.101</xref>. Facsimile and electronic signature may be used in the production of purchase orders by automated methods.</p>
+                        class="- topic/xref ">2.101</xref>. Facsimile and electronic
+signature may be used in the production of purchase orders by automated
+methods.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d772e72" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-						            Limit the distribution of copies of purchase orders and related forms to the minimum deemed essential for administration and transmission of contractual information.</p>
+               <p id="d772e76" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph> Limit the
+distribution of copies of purchase orders and related forms to the
+minimum deemed essential for administration and transmission of
+contractual information.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d772e77" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-						            In accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+               <p id="d772e81" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph> In accordance
+with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">31 U.S.C.3332</xref>, electronic funds transfer (EFT) is required for payments except as provided in <xref href="32.1110.dita#FAR_32_1110"
+                        class="- topic/xref ">31 U.S.C.3332</xref>, electronic
+funds transfer (EFT) is required for payments except as provided
+in <xref href="32.1110.dita#FAR_32_1110"
                         base="i1080821"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">32.1110</xref>. See <xref href="Subpart_32.11.dita#FAR_Subpart_32_11"
                         base="i1080713"
                         outputclass="fm:Subpart"
-                        class="- topic/xref ">subpart  32.11</xref> for instructions for use of the appropriate clause in purchase orders. When obtaining oral quotes, the contracting officer shall inform the quoter of the EFT clause that will be in any resulting purchase order.</p>
+                        class="- topic/xref ">subpart  32.11</xref> for
+instructions for use of the appropriate clause in purchase orders.
+When obtaining oral quotes, the contracting officer shall inform
+the quoter of the EFT clause that will be in any resulting purchase
+order.</p>
             </li>
          </ol>
       </conbody>
