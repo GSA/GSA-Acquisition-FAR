@@ -2,16 +2,22 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_12_000"
             props="TORP"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">12.000</ph> Scope of part.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p id="d695e8" class="- topic/p ">This part prescribes policies and procedures unique to the acquisition of commercial items. It implements the Federal Government’s preference for the acquisition of commercial items contained in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d701e8" class="- topic/p ">This part prescribes policies and procedures
+unique to the acquisition of <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>commercial
+products, including commercial components, and commercial services.<?FM MARKER [Why] Amend section 12.000 by—
+a. In the first sentence, removing the term “commercial items” and adding “commercial products, including commercial components, and commercial services” in its place; and
+b. In the second sentence, removing the terms “commercial items” and “commercial items and components” and adding “commercial products and commercial services” in their place.?></ph> It
+implements the Federal Government’s preference for the acquisition
+of <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph ">commercial products
+and commercial services</ph> contained in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                   format="html"
                   scope="external"
                   class="- topic/xref ">41 U.S.C. 1906</xref>,<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
@@ -23,7 +29,11 @@
                   class="- topic/xref ">3307</xref> and <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                   format="html"
                   scope="external"
-                  class="- topic/xref ">10 U.S.C. 2375-2377</xref> by establishing acquisition policies more closely resembling those of the commercial marketplace and encouraging the acquisition of commercial items and components.</p>
+                  class="- topic/xref ">10 U.S.C. 2375-2377</xref> by
+establishing acquisition policies more closely resembling those
+of the commercial marketplace and encouraging the acquisition of <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph ">commercial products and
+commercial services.</ph>
+         </p>
       </conbody>
    </concept>
 </dita>

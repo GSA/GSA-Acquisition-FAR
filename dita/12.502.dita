@@ -2,47 +2,61 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_12_502"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">12.502</ph> Procedures.</title>
-      <conbody class="- topic/body concept/conbody ">
+      <conbody class="- topic/body  concept/conbody ">
          <ol id="d710e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d737e10" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-						            The FAR prescription for the provision or clause for each of the laws listed in <xref href="12.503.dita#FAR_12_503"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The FAR prescription for the provision
+or clause for each of the laws listed in <xref href="12.503.dita#FAR_12_503"
                         base="i1112774"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">12.503</xref> has been revised in the appropriate part to reflect its proper application to prime contracts for the acquisition of commercial items.</p>
+                        class="- topic/xref ">12.503</xref> has been revised
+in the appropriate part to reflect its proper application to prime
+contracts for the acquisition of <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>commercial products or
+commercial services.<?FM MARKER [Why] Amend section 12.502 by—
+a. Removing from paragraph (a) the text “commercial items” and adding “commercial products or commercial services” in its place; and ?></ph>
+               </p>
             </li>
             <li class="- topic/li ">
-               <p id="d737e18" class="- topic/p ">
+               <p id="d737e22" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-						            For subcontracts for the acquisition of commercial items or commercial components, the clauses at <xref href="52.212-5.dita#FAR_52_212_5"
-                        base="i1061237"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">52.212-5</xref>, Contract Terms and Conditions Required to Implement Statutes or Executive Orders-Commercial Items, and <xref href="52.244-6.dita#FAR_52_244_6"
-                        base="i1048410"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">52.244-6</xref>, Subcontracts for Commercial Items, reflect the applicability of the laws listed in <xref href="12.504.dita#FAR_12_504"
-                        base="i1112857"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">12.504</xref> by identifying the only provisions and clauses that are required to be included in a subcontract at any tier for the acquisition of commercial items or commercial components.</p>
+                  <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?><?FM MARKER [CaseNumber] ?>For subcontracts for the
+acquisition of commercial products or commercial services, the clauses
+at <xref href="52.212-5.dita#FAR_52_212_5"
+                           base="i1061237"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">52.212-5</xref>, Contract Terms
+and Conditions Required to Implement Statutes or Executive Orders—Commercial
+Products and Commercial Services, and <xref href="52.244-6.dita#FAR_52_244_6"
+                           base="i1048410"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">52.244-6</xref>, Subcontracts
+for Commercial Products and Commercial Services, reflect the applicability
+of the laws listed in <xref href="12.504.dita#FAR_12_504"
+                           base="i1112857"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">12.504</xref> by
+identifying the only provisions and clauses that are required to
+be included in a subcontract at any tier for the acquisition of
+commercial products or commercial services.<?FM MARKER [Why] b. Revising paragraph (b).?></ph>
+               </p>
             </li>
             <li class="- topic/li ">
-               <p id="d737e32" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-						            The FAR prescription for the provision or clause for each of the laws listed in <xref href="12.505.dita#FAR_12_505"
+               <p id="d737e40" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> The FAR
+prescription for the provision or clause for each of the laws listed
+in <xref href="12.505.dita#FAR_12_505"
                         base="i1112949"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">12.505</xref> has been revised in the appropriate part to reflect its proper application to contracts and subcontracts for the acquisition of COTS items.</p>
+                        class="- topic/xref ">12.505</xref> has been revised
+in the appropriate part to reflect its proper application to contracts
+and subcontracts for the acquisition of COTS items.</p>
             </li>
          </ol>
       </conbody>

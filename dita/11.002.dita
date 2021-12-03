@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_11_002"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -81,37 +82,41 @@ physical characteristics;</p>
                         <li class="- topic/li ">
                            <p id="d659e74" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> Define
-requirements in terms that enable and encourage offerors to supply
-commercial items, or, to the extent that commercial items suitable
-to meet the agency’s needs are not available, nondevelopmental items,
+requirements in terms that enable and encourage offerors to supply <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>commercial products or
+commercial services or, to the extent that commercial products suitable<?FM MARKER [Why] Amend section 11.002 by—
+a. Removing from paragraph (a)(2)(ii) the phrase “commercial items, or, to the extent that commercial items suitable” and adding “commercial products or commercial services or, to the extent that commercial products suitable” in its place;?></ph> to
+meet the agency’s needs are not available, nondevelopmental items,
 in response to the agency solicitations;</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d659e79" class="- topic/p ">
+                           <p id="d659e84" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph> Provide
-offerors of commercial items and nondevelopmental items an opportunity
-to compete in any acquisition to fill such requirements;</p>
+offerors of <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>commercial
+products, commercial services,<?FM MARKER [Why] b. Removing from paragraphs (a)(2)(iii) and (iv) the term “commercial items” and adding “commercial products, commercial services,” in its place; and?></ph> and nondevelopmental items an
+opportunity to compete in any acquisition to fill such requirements;</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d659e84" class="- topic/p ">
+                           <p id="d659e94" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iv)</ph> Require
 prime contractors and subcontractors at all tiers under the agency
-contracts to incorporate commercial items or nondevelopmental items
-as components of items supplied to the agency; and</p>
+contracts to incorporate <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>commercial products,
+commercial services,<?FM MARKER [Why] b. Removing from paragraphs (a)(2)(iii) and (iv) the term “commercial items” and adding “commercial products, commercial services,” in its place; and?></ph> or nondevelopmental items as components
+of items supplied to the agency; and</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d659e89" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph> Modify requirements
-in appropriate cases to ensure that the requirements can be met
-by commercial items or, to the extent that commercial items suitable
-to meet the agency’s needs are not available, nondevelopmental items.</p>
+                           <p id="d659e104" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph> Modify
+requirements in appropriate cases to ensure that the requirements
+can be met by <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>commercial
+products or commercial services or,<?FM MARKER [Why] c. Removing from paragraph (a)(2)(v) the terms “commercial items or,” and “commercial items suitable” and adding “commercial products or commercial services or,” and “commercial products suitable” in their places, respectively.?></ph> to the extent that <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph ">commercial products suitable</ph> to
+meet the agency’s needs are not available, nondevelopmental items.</p>
                         </li>
                      </ol>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d659e94" class="- topic/p ">
+               <p id="d659e114" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph> The Metric
 Conversion Act of 1975, as amended by the Omnibus Trade and Competitiveness
 Act of 1988 (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
@@ -128,7 +133,7 @@ guidance implementing this policy in formulating their requirements
 for acquisitions.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d659e105" class="- topic/p ">
+               <p id="d659e125" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph> To the
 extent practicable and consistent with <xref href="Subpart_9.5.dita#FAR_Subpart_9_5"
                         base="i1114943"
@@ -149,12 +154,12 @@ should not dictate detailed design solutions prematurely (see <xref href="7.101.
                         class="- topic/xref ">7.105</xref>(a)(8)).</p>
             </li>
             <li props="Runin" class="- topic/li ">
-               <p id="d659e119" class="- topic/p ">
+               <p id="d659e139" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                </p>
                <ol id="d632e200" class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d659e124" class="- topic/p ">
+                     <p id="d659e144" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> When
 agencies acquire products and services, various statutes and executive
 orders (identified in part <xref href="Part_23.dita#FAR_Part_23"
@@ -167,7 +172,7 @@ consideration of sustainable acquisition (see subpart <xref href="Subpart_23.1.d
                               class="- topic/xref ">23.1</xref>) including-</p>
                      <ol id="d632e216" class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d659e136" class="- topic/p ">
+                           <p id="d659e156" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> Energy-efficient
 and water-efficient services and products (including products containing
 energy-efficient standby power devices) (subpart <xref href="Subpart_23.2.dita#FAR_Subpart_23_2"
@@ -176,7 +181,7 @@ energy-efficient standby power devices) (subpart <xref href="Subpart_23.2.dita#F
                                     class="- topic/xref ">23.2</xref>);</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d659e144" class="- topic/p ">
+                           <p id="d659e164" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> Products
 and services that utilize renewable energy technologies (subpart <xref href="Subpart_23.2.dita#FAR_Subpart_23_2"
                                     base="i1094859"
@@ -184,7 +189,7 @@ and services that utilize renewable energy technologies (subpart <xref href="Sub
                                     class="- topic/xref ">23.2</xref>);</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d659e152" class="- topic/p ">
+                           <p id="d659e172" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph> Products
 containing recovered materials (subpart <xref href="Subpart_23.4.dita#FAR_Subpart_23_4"
                                     base="i1094654"
@@ -192,7 +197,7 @@ containing recovered materials (subpart <xref href="Subpart_23.4.dita#FAR_Subpar
                                     class="- topic/xref ">23.4</xref>);</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d659e160" class="- topic/p ">
+                           <p id="d659e180" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iv)</ph> Biobased
 products (subpart <xref href="Subpart_23.4.dita#FAR_Subpart_23_4"
                                     base="i1094654"
@@ -200,7 +205,7 @@ products (subpart <xref href="Subpart_23.4.dita#FAR_Subpart_23_4"
                                     class="- topic/xref ">23.4</xref>);</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d659e168" class="- topic/p ">
+                           <p id="d659e188" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(v)</ph> Environmentally
 preferable products and services, including EPEAT®-registered electronic
 products and non-toxic or low-toxic alternatives (subpart <xref href="Subpart_23.7.dita#FAR_Subpart_23_7"
@@ -209,7 +214,7 @@ products and non-toxic or low-toxic alternatives (subpart <xref href="Subpart_23
                                     class="- topic/xref ">23.7</xref>); and</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d659e176" class="- topic/p ">
+                           <p id="d659e196" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(vi)</ph> Non-ozone-depleting
 substances, and products and services that minimize or eliminate,
 when feasible, the use, release, or emission of high global warming
@@ -222,7 +227,7 @@ of virgin hydrofluorocarbons (subpart <xref href="Subpart_23.8.dita#FAR_Subpart_
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d659e184" class="- topic/p ">
+                     <p id="d659e204" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> Unless
 an exception applies and is documented by the requiring activity,
 Executive agencies shall, to the maximum practicable, require the
@@ -230,18 +235,18 @@ use of products and services listed in paragraph (d)(1) of this
 section when-</p>
                      <ol id="d632e301" class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d659e190" class="- topic/p ">
+                           <p id="d659e210" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> Developing, reviewing, or revising
 Federal and military specifications, product descriptions (including
 commercial item descriptions) and standards;</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d659e195" class="- topic/p ">
+                           <p id="d659e215" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> Describing
 Government requirements for products and services; and</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d659e200" class="- topic/p ">
+                           <p id="d659e220" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph> Developing
 source-selection factors.</p>
                         </li>
@@ -250,55 +255,54 @@ source-selection factors.</p>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d659e205" class="- topic/p ">
+               <p id="d659e225" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph> Some or
 all of the performance levels or performance specifications in a
 solicitation may be identified as targets rather than as fixed or
 minimum requirements.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d659e210" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  <ph rev="FAC 2021-07 September 10, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2017-011?>In accordance with section
-508 of the Rehabilitation Act of 1973 (<xref href="https://www.govinfo.gov/link/uscode/29/794?type=usc&amp;year=mostrecent&amp;link-type=html"
-                           format="html"
-                           scope="external"
-                           class="- topic/xref ">29 U.S.C. 794d</xref>), the
+               <p id="d659e230" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph> In accordance
+with section 508 of the Rehabilitation Act of 1973 (<xref href="https://www.govinfo.gov/link/uscode/29/794?type=usc&amp;year=mostrecent&amp;link-type=html"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">29 U.S.C. 794d</xref>), the
 contracting officer shall obtain from the requiring activity the
-requirement documents, which must identify—<?FM MARKER [Why] Amend section 11.002 by revising paragraph (f).?></ph>
-               </p>
-               <ol rev="FAC 2021-07 September 10, 2021" class="- topic/ol ">
+requirement documents, which must identify—</p>
+               <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d659e222" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The
-needs of current and future users with disabilities to determine
-how–</p>
-                     <ol rev="FAC 2021-07 September 10, 2021" class="- topic/ol ">
+                     <p id="d659e239" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The needs of
+current and future users with disabilities to determine how–</p>
+                     <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d659e228" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Users with disabilities will perform the
-functions supported by the information and communication technology (ICT);</p>
+                           <p id="d659e245" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Users with
+disabilities will perform the functions supported by the information
+and communication technology (ICT);</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d659e233" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The ICT will be developed, installed,
-configured and maintained to support users with disabilities;</p>
+                           <p id="d659e250" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The ICT
+will be developed, installed, configured and maintained to support
+users with disabilities;</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d659e238" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The applicable ICT accessibility standards
-(see <xref href="Subpart_39.2.dita#FAR_Subpart_39_2"
+                     <p id="d659e255" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The applicable
+ICT accessibility standards (see <xref href="Subpart_39.2.dita#FAR_Subpart_39_2"
                               base="i1077004"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  39.2</xref>); and</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d659e246" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Any ICT accessibility standards that
-cannot be met due to an exception or an exemption for any component
-or portion of the product (see <xref href="7.105.dita#FAR_7_105"
+                     <p id="d659e263" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Any ICT
+accessibility standards that cannot be met due to an exception or
+an exemption for any component or portion of the product (see <xref href="7.105.dita#FAR_7_105"
                               base="i1119168"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">7.105</xref>(b)(5)(iv), <xref href="39.204.dita#FAR_39_204"
@@ -312,7 +316,7 @@ or portion of the product (see <xref href="7.105.dita#FAR_7_105"
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d659e260" class="- topic/p ">
+               <p id="d659e277" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph> Unless
 the agency Chief Information Officer waives the requirement, when
 acquiring information technology using Internet Protocol, the requirements
@@ -325,7 +329,7 @@ accordance with the agency's Enterprise Architecture (see OMB Memorandum
 M-05-22 dated August 2, 2005).</p>
             </li>
             <li class="- topic/li ">
-               <p id="d659e265" class="- topic/p ">
+               <p id="d659e282" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(h)</ph> Agencies
 shall not include in a solicitation a requirement that prohibits
 an offeror from permitting its employees to telecommute unless the

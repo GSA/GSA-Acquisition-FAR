@@ -2,38 +2,70 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_12_204"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">12.204</ph> Solicitation/contract form.</title>
-      <conbody class="- topic/body concept/conbody ">
+         <ph props="autonumber" class="- topic/ph ">12.204</ph> Solicitation/contract
+form.</title>
+      <conbody class="- topic/body  concept/conbody ">
          <ol id="d684e13" class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="d711e10" class="- topic/p ">
+            <li props="Runin" class="- topic/li ">
+               <p class="- topic/p " id="d711e10">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-						            The contracting officer shall use the <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">Standard Form 1449</xref>, Solicitation/Contract/Order for Commercial Items, if (1) the acquisition is expected to exceed the simplified acquisition threshold; (2) a paper solicitation or contract is being issued; and (3) procedures at <xref href="12.603.dita#FAR_12_603"
-                        base="i1112649"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">12.603</xref> are not being used. Use of the <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">SF 1449</xref> is nonmandatory but encouraged for commercial acquisitions not exceeding the simplified acquisition threshold.</p>
+               </p>
+               <ol rev="FAC 2022-01 December 6, 2021" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d711e15" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>The contracting officer
+shall use the <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">Standard Form 1449</xref>,
+Solicitation/Contract/Order for Commercial Items, if—<?FM MARKER [Why] Amend section 12.204 by revising paragraph (a).?></ph>
+                     </p>
+                     <ol rev="FAC 2022-01 December 6, 2021" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d711e27" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The
+acquisition is expected to exceed the simplified acquisition threshold;</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d711e32" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>A paper solicitation or contract is
+being issued; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d711e37" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Procedures at <xref href="12.603.dita#FAR_12_603"
+                                    base="i1112649"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">12.603</xref> are not being used.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d711e45" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Use of the <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">SF 1449</xref> is
+nonmandatory but encouraged for commercial acquisitions not exceeding
+the simplified acquisition threshold.</p>
+                  </li>
+               </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d711e24" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-						            Consistent with the requirements at <xref href="5.203.dita#FAR_5_203"
+               <p id="d711e53" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Consistent
+with the requirements at <xref href="5.203.dita#FAR_5_203"
                         base="i1120755"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">5.203</xref>(a) and (h), the contracting officer may allow fewer than 15 days before issuance of the solicitation.</p>
+                        class="- topic/xref ">5.203</xref>(a)
+and (h), the contracting officer may allow fewer than 15 days before issuance
+of the solicitation.</p>
             </li>
          </ol>
       </conbody>

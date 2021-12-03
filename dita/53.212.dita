@@ -2,25 +2,35 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_53_212"
-            ditaarch:DITAArchVersion="1.3"
+            rev="FAC 2022-01 December 6, 2021"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">53.212</ph> Acquisition of commercial items.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p class="- topic/p " id="d3823e8">
+         <ph props="autonumber" class="- topic/ph ">53.212</ph> Acquisition <?FM MARKER [CaseNumber] FAR Case 2018-018?>of commercial
+products and <?FM MARKER [Why] Amend section 53.212 by—
+a. Revising the section heading;
+b. Removing the term “( Rev.2/2012)” and adding “( Rev. NOV 2021 )” in its place; and
+c. Removing the terms “ Commercial Items” and “commercial items” and adding “Commercial Products and Commercial Services” and “commercial products and commercial services” in their places, respectively. ?>commercial services.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d3823e12" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">
                <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items"
                      format="html"
                      scope="external"
-                     class="- topic/xref "> SF 1449</xref> (Rev.2/2012), Solicitation/Contract/Order for Commercial Items</i>. <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                     class="- topic/xref "> SF 1449</xref> (Rev.
+Nov 2021), Solicitation/Contract/Order for <ph class="- topic/ph ">Commercial Products
+and Commercial Services</ph>
+            </i>. <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items"
                      format="html"
                      scope="external"
                      class="- topic/xref ">SF 1449</xref>
-            </ph> is prescribed for use in solicitations and contracts for commercial items. Agencies may prescribe additional detailed instructions for use of the form.</p>
+            </ph> is
+prescribed for use in solicitations and contracts for commercial
+products and commercial services. Agencies may prescribe additional
+detailed instructions for use of the form.</p>
       </conbody>
    </concept>
 </dita>

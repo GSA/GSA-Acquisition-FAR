@@ -2,15 +2,41 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_12_601"
-            ditaarch:DITAArchVersion="1.3"
+            rev="FAC 2022-01 December 6, 2021"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">12.601</ph> General.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p class="- topic/p ">This subpart provides optional procedures for (a) streamlined evaluation of offers for commercial items; and (b) streamlined solicitation of offers for commercial items for use where appropriate. These procedures are intended to simplify the process of preparing and issuing solicitations, and evaluating offers for commercial items consistent with customary commercial practices.</p>
+         <ph props="autonumber" class="- topic/ph ">12.601</ph>
+         <?FM MARKER [CaseNumber] FAR Case 2018-018?>General.<?FM MARKER [Why] Revise section 12.601.?></title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d742e12" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>This subpart provides optional
+procedures for—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d742e18" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Streamlined evaluation
+of offers for commercial products or commercial services; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d742e23" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Streamlined solicitation of offers for
+commercial products or commercial services for use where appropriate.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d742e28" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>These procedures are intended to simplify
+the process of preparing and issuing solicitations and evaluating
+offers for commercial products or commercial services consistent
+with customary commercial practices.</p>
+            </li>
+         </ol>
       </conbody>
    </concept>
 </dita>
