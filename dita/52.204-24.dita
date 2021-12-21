@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_52_204_24"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -18,13 +17,9 @@ in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">4.2105</xref>(a)</ph>, insert
 the following provision:</p>
-         <p id="d3099e15"
-            rev="FAC 2022-01 December 6, 2021"
-            outputclass="Ctr_SmCaps"
-            class="- topic/p ">Representation Regarding Certain
+         <p id="d3099e15" outputclass="Ctr_SmCaps" class="- topic/p ">Representation Regarding Certain
 Telecommunications and Video Surveillance Services or Equipment
-(<?FM MARKER [CaseNumber] FAR Case 2018-018?>Nov 2021<?FM MARKER [Why] Amend section 52.204-24 by:
-a. Revising the date of the clause; and?>)</p>
+(Nov 2021)</p>
          <p id="d3099e24" class="- topic/p ">The Offeror shall not complete the representation
 at paragraph (d)(1) of this provision if the Offeror has represented
 that it "does not provide covered telecommunications equipment or
@@ -39,8 +34,8 @@ of the provision at <xref href="52.212-3.dita#FAR_52_212_3"
                   base="FAR_52_212_3"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">52.212-3</xref>,
-Offeror Representations and Certifications-<ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2018-018?>Commercial Products or
-Commercial <?FM MARKER [Why] b. Removing from the introductory paragraph the term “Commercial Items” and adding “Commercial Products and Commercial Services” in its place.?>Services.</ph> The Offeror shall not complete the representation
+Offeror Representations and Certifications-Commercial Products or
+Commercial Services. The Offeror shall not complete the representation
 in paragraph (d)(2) of this provision if the Offeror has represented
 that it "does not use covered telecommunications equipment or services,
 or any equipment, system, or service that uses covered telecommunications
@@ -54,11 +49,11 @@ equipment or services" in paragraph (c)(2) of the provision at <xref href="52.20
                   class="- topic/xref ">52.212-3</xref>.</p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
-               <p id="d3099e46" class="- topic/p ">
+               <p id="d3099e33" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions.</i> As
 used in this provision—</p>
-               <p id="d3099e52" class="- topic/p ">
+               <p id="d3099e39" class="- topic/p ">
                   <i outputclass="Term" xtrf="_52.204-24" xtrc="d15e39">Backhaul, covered telecommunications
 equipment or services, critical technology, interconnection arrangements,
 reasonable inquiry, roaming, and substantial or essential component</i> have
@@ -70,12 +65,12 @@ on Contracting for Certain Telecommunications and Video Surveillance
 Services or Equipment.</p>
             </li>
             <li props="Runin" class="- topic/li ">
-               <p id="d3099e60" class="- topic/p ">
+               <p id="d3099e47" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   <i class="+ topic/ph hi-d/i ">Prohibition</i>.</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d3099e68" class="- topic/p ">
+                     <p id="d3099e55" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> Section
 889(a)(1)(A) of the John S. McCain National Defense Authorization
 Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of
@@ -87,14 +82,14 @@ any system, or as critical technology as part of any system. Nothing
 in the prohibition shall be construed to—</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d3099e74" class="- topic/p ">
+                           <p id="d3099e61" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> Prohibit the head of an executive
 agency from procuring with an entity to provide a service that connects
 to the facilities of a third-party, such as backhaul, roaming, or
 interconnection arrangements; or</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3099e79" class="- topic/p ">
+                           <p id="d3099e66" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> Cover
 telecommunications equipment that cannot route or redirect user
 data traffic or cannot permit visibility into any user data or packets
@@ -103,7 +98,7 @@ that such equipment transmits or otherwise handles.</p>
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d3099e84" class="- topic/p ">
+                     <p id="d3099e71" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> Section
 889(a)(1)(B) of the John S. McCain National Defense Authorization
 Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of
@@ -118,14 +113,14 @@ work under a Federal contract. Nothing in the prohibition shall
 be construed to—</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d3099e90" class="- topic/p ">
+                           <p id="d3099e77" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> Prohibit
 the head of an executive agency from procuring with an entity to
 provide a service that connects to the facilities of a third-party,
 such as backhaul, roaming, or interconnection arrangements; or</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3099e95" class="- topic/p ">
+                           <p id="d3099e82" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> Cover
 telecommunications equipment that cannot route or redirect user
 data traffic or cannot permit visibility into any user data or packets
@@ -136,7 +131,7 @@ that such equipment transmits or otherwise handles.</p>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d3099e100" class="- topic/p ">
+               <p id="d3099e87" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   <i class="+ topic/ph hi-d/i ">Procedures.</i> The
 Offeror shall review the list of excluded parties in the System
@@ -148,13 +143,13 @@ for entities excluded from receiving federal awards for "covered
 telecommunications equipment or services".</p>
             </li>
             <li class="- topic/li ">
-               <p id="d3099e110" class="- topic/p ">
+               <p id="d3099e97" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   <i class="+ topic/ph hi-d/i ">Representation.</i> The
 Offeror represents that—</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d3099e118" class="- topic/p ">
+                     <p id="d3099e105" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> It <cite outputclass="Checkbox"
                               xtrc="52.204-24_d15e98"
                               class="- topic/cite ">□</cite> will, <cite outputclass="Checkbox"
@@ -168,11 +163,11 @@ at paragraph (e)(1) of this section if the Offeror responds "will"
 in paragraph (d)(1) of this section; and</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d3099e129" class="- topic/p ">
+                     <p id="d3099e116" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> After
 conducting a reasonable inquiry, for purposes of this representation,
 the Offeror represents that—</p>
-                     <p id="d3099e133" class="- topic/p ">It <cite outputclass="Checkbox"
+                     <p id="d3099e120" class="- topic/p ">It <cite outputclass="Checkbox"
                               xtrc="52.204-24_d15e109"
                               class="- topic/cite ">□</cite> does, <cite outputclass="Checkbox"
                               xtrc="52.204-24_d15e112"
@@ -186,13 +181,13 @@ if the Offeror responds "does" in paragraph (d)(2) of this section.</p>
                </ol>
             </li>
             <li props="Runin" class="- topic/li ">
-               <p id="d3099e142" class="- topic/p ">
+               <p id="d3099e129" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   <i class="+ topic/ph hi-d/i ">Disclosures.</i>
                </p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d3099e149" class="- topic/p ">
+                     <p id="d3099e136" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> Disclosure
 for the representation in paragraph (d)(1) of this provision. If
 the Offeror has responded "will" in the representation in paragraph
@@ -200,11 +195,11 @@ the Offeror has responded "will" in the representation in paragraph
 information as part of the offer:</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d3099e155" class="- topic/p ">
+                           <p id="d3099e142" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> For covered equipment—</p>
                            <ol class="- topic/ol ">
                               <li class="- topic/li ">
-                                 <p id="d3099e161" class="- topic/p ">
+                                 <p id="d3099e148" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph> The entity
 that produced the covered telecommunications equipment (include
 entity name, unique entity identifier, CAGE code, and whether the
@@ -212,14 +207,14 @@ entity was the original equipment manufacturer (OEM) or a distributor, if
 known);</p>
                               </li>
                               <li class="- topic/li ">
-                                 <p id="d3099e166" class="- topic/p ">
+                                 <p id="d3099e153" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph> A description
 of all covered telecommunications equipment offered (include brand;
 model number, such as OEM number, manufacturer part number, or wholesaler
 number; and item description, as applicable); and</p>
                               </li>
                               <li class="- topic/li ">
-                                 <p id="d3099e171" class="- topic/p ">
+                                 <p id="d3099e158" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(C)</ph> Explanation
 of the proposed use of covered telecommunications equipment and
 any factors relevant to determining if such use would be permissible
@@ -228,12 +223,12 @@ under the prohibition in paragraph (b)(1) of this provision.</p>
                            </ol>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3099e176" class="- topic/p ">
+                           <p id="d3099e163" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> For covered
 services—</p>
                            <ol class="- topic/ol ">
                               <li class="- topic/li ">
-                                 <p id="d3099e182" class="- topic/p ">
+                                 <p id="d3099e169" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph> If
 the service is related to item maintenance: A description of all
 covered telecommunications services offered (include on the item
@@ -242,7 +237,7 @@ part number, or wholesaler number; and item description, as applicable);
 or</p>
                               </li>
                               <li class="- topic/li ">
-                                 <p id="d3099e187" class="- topic/p ">
+                                 <p id="d3099e174" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph> If not
 associated with maintenance, the Product Service Code (PSC) of the
 service being provided; and explanation of the proposed use of covered
@@ -255,7 +250,7 @@ such use would be permissible under the prohibition in paragraph
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d3099e192" class="- topic/p ">
+                     <p id="d3099e179" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> Disclosure
 for the representation in paragraph (d)(2) of this provision. If
 the Offeror has responded "does" in the representation in paragraph
@@ -263,25 +258,25 @@ the Offeror has responded "does" in the representation in paragraph
 information as part of the offer:</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d3099e198" class="- topic/p ">
+                           <p id="d3099e185" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> For covered equipment—</p>
                            <ol class="- topic/ol ">
                               <li class="- topic/li ">
-                                 <p id="d3099e204" class="- topic/p ">
+                                 <p id="d3099e191" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph> The entity
 that produced the covered telecommunications equipment (include
 entity name, unique entity identifier, CAGE code, and whether the
 entity was the OEM or a distributor, if known);</p>
                               </li>
                               <li class="- topic/li ">
-                                 <p id="d3099e209" class="- topic/p ">
+                                 <p id="d3099e196" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph> A description
 of all covered telecommunications equipment offered (include brand;
 model number, such as OEM number, manufacturer part number, or wholesaler
 number; and item description, as applicable); and</p>
                               </li>
                               <li class="- topic/li ">
-                                 <p id="d3099e214" class="- topic/p ">
+                                 <p id="d3099e201" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(C)</ph> Explanation
 of the proposed use of covered telecommunications equipment and
 any factors relevant to determining if such use would be permissible
@@ -290,12 +285,12 @@ under the prohibition in paragraph (b)(2) of this provision.</p>
                            </ol>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d3099e219" class="- topic/p ">
+                           <p id="d3099e206" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> For covered
 services—</p>
                            <ol class="- topic/ol ">
                               <li class="- topic/li ">
-                                 <p id="d3099e225" class="- topic/p ">
+                                 <p id="d3099e212" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph> If
 the service is related to item maintenance: A description of all
 covered telecommunications services offered (include on the item
@@ -304,7 +299,7 @@ part number, or wholesaler number; and item description, as applicable);
 or</p>
                               </li>
                               <li class="- topic/li ">
-                                 <p id="d3099e230" class="- topic/p ">
+                                 <p id="d3099e217" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph> If not
 associated with maintenance, the PSC of the service being provided;
 and explanation of the proposed use of covered telecommunications
