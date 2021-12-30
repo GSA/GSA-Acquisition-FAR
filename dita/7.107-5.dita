@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_7_107_5"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -44,16 +43,15 @@ shall be documented in the contract file.</p>
                <p id="d425e33" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   <i class="+ topic/ph hi-d/i ">Notification
-to public of rationale for bundled requirement</i>. <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph ">The agency is <?FM MARKER [CaseNumber] FAR Case 2019-003?>encouraged
+to public of rationale for bundled requirement</i>. The agency is encouraged
 to provide notification of the rationale for any bundled requirement
-to the GPE, before issuance of the <?FM MARKER [Why] Amend section 7.107-5 by—
-a. Revising paragraph (b);?>solicitation (see <xref href="5.201.dita#FAR_5_201"
-                           outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">5.201</xref>).</ph>
+to the GPE, before issuance of the solicitation (see <xref href="5.201.dita#FAR_5_201"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">5.201</xref>).
                </p>
                <ol id="d411e68" class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d425e50" class="- topic/p ">
+                     <p id="d425e44" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> The
 agency shall publish on its website a list and rationale for any
 bundled requirement for which the agency solicited offers or issued
@@ -65,7 +63,7 @@ Federal Procurement Policy (see <xref href="4.604.dita#FAR_4_604"
                               class="- topic/xref ">4.604</xref>).</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d425e58" class="- topic/p ">
+                     <p id="d425e52" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> In addition,
 the agency is encouraged to provide notification of the rationale
 for any bundled requirement to the GPE, before issuance of the solicitation
@@ -76,15 +74,15 @@ for any bundled requirement to the GPE, before issuance of the solicitation
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d425e66" class="- topic/p ">
+               <p id="d425e60" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   <i class="+ topic/ph hi-d/i ">Notification
-to the public of consolidation of contract requirements</i>. <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph ">The <?FM MARKER [CaseNumber] FAR Case 2019-003?>SPE or CAO shall publish
-in the <?FM MARKER [Why] b. Redesignating paragraphs (c) and (d) as paragraphs (e) and (g) and adding new paragraphs (c) and (d) and paragraph (f); and?>GPE—</ph>
+to the public of consolidation of contract requirements</i>. The SPE or CAO shall publish
+in the GPE—
                </p>
-               <ol rev="FAC 2022-01 December 6, 2021" class="- topic/ol ">
+               <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d425e80" class="- topic/p ">
+                     <p id="d425e68" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>A notice that
 the agency has determined a consolidation of contract requirements
 is necessary and justified (see <xref href="7.107-2.dita#FAR_7_107_2"
@@ -95,7 +93,7 @@ be publicized prior to 7 days after publication of the notice of
 the agency determination; and</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d425e88" class="- topic/p ">
+                     <p id="d425e76" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>The determination
 that consolidation is necessary and justified with the publication
 of the solicitation. See <xref href="7.107-2.dita#FAR_7_107_2"
@@ -106,15 +104,15 @@ content of the determination.</p>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d425e96" class="- topic/p ">
+               <p id="d425e84" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   <i class="+ topic/ph hi-d/i ">Notification
-to the public of substantial bundling of contract requirements</i>. <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph ">The <?FM MARKER [CaseNumber] FAR Case 2019-003?>head of the agency
-shall publish in <?FM MARKER [Why] b. Redesignating paragraphs (c) and (d) as paragraphs (e) and (g) and adding new paragraphs (c) and (d) and paragraph (f); and?>the GPE—</ph>
+to the public of substantial bundling of contract requirements</i>. The head of the agency
+shall publish in the GPE—
                </p>
-               <ol rev="FAC 2022-01 December 6, 2021" class="- topic/ol ">
+               <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d425e110" class="- topic/p ">
+                     <p id="d425e92" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>A notice that the agency has determined
 that a procurement involves substantial bundling (see <xref href="7.107-4.dita#FAR_7_107_4"
                               outputclass="fm:ParaNumOnly"
@@ -124,7 +122,7 @@ solicitation may not be publicized prior to 7 days after the publication
 of the notice of the determination; and</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d425e118" class="- topic/p ">
+                     <p id="d425e100" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>The rationale
 for substantial bundling with the publication of the solicitation.
 The rationale is the information required for inclusion in the acquisition
@@ -135,7 +133,7 @@ strategy at <xref href="7.107-4.dita#FAR_7_107_4"
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d425e126" class="- topic/p ">
+               <p id="d425e108" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   <i class="+ topic/ph hi-d/i ">Notification
 to SBA of follow-on bundled or consolidated requirements</i>. For
@@ -145,50 +143,50 @@ notify the SBA PCR no later than 30 days prior to issuance of the
 solicitation:</p>
                <ol id="d411e107" class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d425e134" class="- topic/p ">
+                     <p id="d425e116" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> The amount of savings and benefits
 achieved under the prior consolidation or bundling.</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d425e139" class="- topic/p ">
+                     <p id="d425e121" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> Whether
 such savings and benefits will continue to be realized if the contract
 remains consolidated or bundled.</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d425e144" class="- topic/p ">
+                     <p id="d425e126" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph> Whether
 such savings and benefits would be greater if the procurement requirements
 were divided into separate solicitations suitable for award to small
 business concerns.</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d425e149" class="- topic/p ">
+                     <p id="d425e131" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph> List of
 requirements that have been added or deleted for the follow-on.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d425e154" class="- topic/p ">
+               <p id="d425e136" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   <i class="+ topic/ph hi-d/i ">Annual
 notification to the public of the rationale for bundled requirements.</i> 
-                  <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph ">The <?FM MARKER [CaseNumber] FAR Case 2019-003?>agency shall publish
+                  The agency shall publish
 on its website a list and rationale for any bundled requirement
 for which the agency solicited offers or issued an award. The notification
 shall be made annually within 30 days of the agency's data certification
 regarding the validity and verification of data entered in the Federal
-Procurement Data System to the Office of Federal Procurement Policy <?FM MARKER [Why] b. Redesignating paragraphs (c) and (d) as paragraphs (e) and (g) and adding new paragraphs (c) and (d) and paragraph (f); and?>(see <xref href="4.604.dita#FAR_4_604"
-                           outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">4.604</xref>).</ph>
+Procurement Data System to the Office of Federal Procurement Policy (see <xref href="4.604.dita#FAR_4_604"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">4.604</xref>).
                </p>
             </li>
             <li class="- topic/li ">
-               <p id="d425e169" class="- topic/p ">
+               <p id="d425e146" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph>
                   <i class="+ topic/ph hi-d/i ">
-                     <ph rev="FAC 2022-01 December 6, 2021" class="- topic/ph ">Notification <?FM MARKER [CaseNumber] FAR Case 2019-003?>to <?FM MARKER [Why] c. Removing from the newly redesignated paragraph (g) “ Public notification” and adding “ Notification to public” in its place.?>public</ph> of
+                     Notification to public of
 bundling policy</i>. In accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
