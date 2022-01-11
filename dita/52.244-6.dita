@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_52_244_6"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -202,10 +203,7 @@ for Veterans <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph> (<xref
                                     base="FAR_52_222_36"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.222-36</xref>, Equal Opportunity
-for Workers with Disabilities <ph rev="FAC 2022-02 January 14, 2022" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2021-003?>
-                                 <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2022)</ph>
-                                 <?FM MARKER [Why] b. Removing from paragraph (c)(1)(xv) “(NOV 2020)” and adding “(JAN 2022)” in its place.?>
-                              </ph> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+for Workers with Disabilities <ph outputclass="SmCaps" class="- topic/ph ">(Jun 2020)</ph>(<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                     format="html"
                                     scope="external"
                                     class="- topic/xref ">29 U.S.C.793</xref>).</p>
@@ -236,7 +234,7 @@ down is required in accordance with paragraph (f) of FAR clause
                         <li props="Runin" class="- topic/li ">
                            <p id="d3640e223" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(xiv)</ph>
-                           </p>
+                           </p>  
                            <ol id="d3597e276" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p id="d3640e228" class="- topic/p ">
@@ -272,9 +270,12 @@ E.O. 13627).</p>
                                     base="FAR_52_222_55"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.222-55</xref>, Minimum Wages
-under Executive Order 13658 <ph outputclass="SmCaps" class="- topic/ph ">(NOV 2020)</ph>,
-if flow down is required in accordance with paragraph (k) of FAR
-clause <xref href="52.222-55.dita#FAR_52_222_55"
+under Executive Order 13658 <ph outputclass="SmCaps" class="- topic/ph ">
+                                 <ph rev="FAC 2022-02 January 14, 2022" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2021-003?>
+                                    <ph outputclass="SmCaps" class="- topic/ph ">(Jan
+2022)</ph>,<?FM MARKER [Why] b. Removing from paragraph (c)(1)(xv) “(NOV 2020)” and adding “(JAN 2022)” in its place.?></ph>
+                              </ph> if flow down is required in accordance with
+paragraph (k) of FAR clause <xref href="52.222-55.dita#FAR_52_222_55"
                                     base="FAR_52_222_55"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">52.222-55</xref>.</p>

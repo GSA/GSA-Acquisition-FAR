@@ -1,369 +1,731 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="lsa-d1e11">
-      <title>List of Sections Affected</title>
-      <conbody>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="lsa-d1e11"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">List of Sections Affected</title>
+      <conbody class="- topic/body  concept/conbody ">
          <table frame="all"
                 colsep="1"
                 rowsep="1"
-                class="- topic/table "
-                otherprops="LSA">
-            <title>FAC 2022-02 Effective January 14, 2022</title>
+                otherprops="LSA"
+                class="- topic/table ">
+            <title class="- topic/title ">FAC 2022-02 Effective January 14, 2022</title>
             <tgroup cols="3"
                     colsep="1"
                     rowsep="1"
                     outputclass="Title_rule"
                     class="- topic/tgroup ">
                <colspec colnum="1" colname="1" colwidth="32*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colwidth="18*" class="- topic/colspec "/>
+               <colspec colnum="2" colname="2" colwidth="48*" class="- topic/colspec "/>
+               <colspec colnum="3" colname="3" colwidth="20*" class="- topic/colspec "/>
                <thead class="- topic/thead ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">Section</entry>
                      <entry colname="2" class="- topic/entry ">Description of Change</entry>
-                     <entry colname="3" class="- topic/entry ">Case
-												Number</entry>
+                     <entry colname="3" class="- topic/entry ">Case Number</entry>
                   </row>
                </thead>
                <tbody class="- topic/tbody ">
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="2.101.dita#FAR_2_101">2.101</xref>
-                        <xref outputclass="fm:List" href="2.101.dita#FAR_2_101/d75e26">(b)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="2.101.dita#FAR_2_101"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">2.101</xref> 
+                        <xref href="2.101.dita#FAR_2_101/d75e26"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(b)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 2.101 in paragraph (b)(2), in the definition “Governmentwide point of entry (GPE)” by removing “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 2.101 in paragraph (b)(2),
+in the definition “Governmentwide point of entry (GPE)” by removing
+“ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in its
+place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="5.102.dita#FAR_5_102">5.102</xref>
-                        <xref outputclass="fm:List" href="5.102.dita#FAR_5_102/d336e15"> (a)(1)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="5.102.dita#FAR_5_102"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">5.102</xref> 
+                        <xref href="5.102.dita#FAR_5_102/d336e15"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(1)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 5.102 by removing from paragraph (a)(1) “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 5.102 by removing from paragraph
+(a)(1) “ https://www.fbo.gov ” and adding “ https://www.sam.gov
+” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="5.201.dita#FAR_5_201">5.201</xref>
-                        <xref outputclass="fm:List" href="5.201.dita#FAR_5_201/d338e69">(d)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="5.201.dita#FAR_5_201"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">5.201</xref> 
+                        <xref href="5.201.dita#FAR_5_201/d338e69"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(d)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 5.201 by removing from paragraph (d) “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 5.201 by removing from paragraph
+(d) “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in
+its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="5.207.dita#FAR_5_207">5.207</xref>
-                        <xref outputclass="fm:List" href="5.207.dita#FAR_5_207/d344e109">(b)</xref>,<xref outputclass="fm:List" href="5.207.dita#FAR_5_207/d344e287"> (c)(19)</xref> and <xref outputclass="fm:List" href="5.207.dita#FAR_5_207/d344e309">(e)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="5.207.dita#FAR_5_207"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">5.207</xref> 
+                        <xref href="5.207.dita#FAR_5_207/d344e109"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(b)</xref>,<xref href="5.207.dita#FAR_5_207/d344e287"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (c)(19)</xref> and <xref href="5.207.dita#FAR_5_207/d344e309"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(e)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 5.207 by—
-a. Removing from paragraphs (b) and (c)(19) “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in their places, respectively; and</p>
-                        <p>Amend section 5.207 by—
-a. Removing from paragraphs (b) and (c)(19) “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in their places, respectively; and</p>
-                        <p>b. Removing from paragraph (e) “ https://www.fbo.gov/​” and adding “ https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 5.207 by— a. Removing from
+paragraphs (b) and (c)(19) “ https://www.fbo.gov ” and adding “
+https://www.sam.gov ” in their places, respectively; and</p>
+                        <p class="- topic/p ">Amend
+section 5.207 by— a. Removing from paragraphs (b) and (c)(19) “
+https://www.fbo.gov ” and adding “ https://www.sam.gov ” in their
+places, respectively; and</p>
+                        <p class="- topic/p ">b. Removing from paragraph (e) “
+https://www.fbo.gov/” and adding “ https://www.sam.gov ” in its
+place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="5.704.dita#FAR_5_704">5.704</xref>
-                        <xref outputclass="fm:List" href="5.704.dita#FAR_5_704/d369e37">(b)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="5.704.dita#FAR_5_704"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">5.704</xref> 
+                        <xref href="5.704.dita#FAR_5_704/d369e37"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(b)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 5.704 by removing from paragraph (b) introductory text “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 5.704 by removing from paragraph
+(b) introductory text “ https://www.fbo.gov ” and adding “ https://www.sam.gov
+” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="5.705.dita#FAR_5_705">5.705</xref>
-                        <xref outputclass="fm:List" href="5.705.dita#FAR_5_705/d370e49"> (a)(2)</xref> and <xref outputclass="fm:List" href="5.705.dita#FAR_5_705/d370e180">(c)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="5.705.dita#FAR_5_705"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">5.705</xref> 
+                        <xref href="5.705.dita#FAR_5_705/d370e49"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(2)</xref> and <xref href="5.705.dita#FAR_5_705/d370e180"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(c)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 5.705 by removing from paragraphs (a)(2) introductory text and (c) “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in their places, respectively.</p>
-                        <p>Amend section 5.705 by removing from paragraphs (a)(2) introductory text and (c) “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in their places, respectively.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 5.705 by removing from paragraphs
+(a)(2) introductory text and (c) “ https://www.fbo.gov ” and adding “
+https://www.sam.gov ” in their places, respectively.</p>
+                        <p class="- topic/p ">Amend
+section 5.705 by removing from paragraphs (a)(2) introductory text
+and (c) “ https://www.fbo.gov ” and adding “ https://www.sam.gov
+” in their places, respectively.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="6.305.dita#FAR_6_305">6.305</xref>
-                        <xref outputclass="fm:List" href="6.305.dita#FAR_6_305/d405e49"> (d)(1)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="6.305.dita#FAR_6_305"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">6.305</xref> 
+                        <xref href="6.305.dita#FAR_6_305/d405e49"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (d)(1)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 6.305 by removing from paragraph (d)(1) “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 6.305 by removing from paragraph
+(d)(1) “ https://www.fbo.gov ” and adding “ https://www.sam.gov
+” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="7.105.dita#FAR_7_105">7.105</xref>
-                        <xref outputclass="fm:List" href="7.105.dita#FAR_7_105/d418e495"> (b)(16)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="7.105.dita#FAR_7_105"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">7.105</xref> 
+                        <xref href="7.105.dita#FAR_7_105/d418e495"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (b)(16)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 7.105 by removing from paragraph (b)(16) “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 7.105 by removing from paragraph
+(b)(16) “ https://www.fbo.gov ” and adding “ https://www.sam.gov
+” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="8.405-6.dita#FAR_8_405_6">8.405-6</xref>
-                        <xref outputclass="fm:List" href="8.405-6.dita#FAR_8_405_6/d477e88"> (a)(2)(i)(B)(1)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="8.405-6.dita#FAR_8_405_6"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">8.405-6</xref>
+                        <xref href="8.405-6.dita#FAR_8_405_6/d477e88"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(2)(i)(B)(1)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 8.405-6 by removing from paragraph (a)(2)(i)(B)( 1 ) “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 8.405-6 by removing from paragraph (a)(2)(i)(B)<i class="+ topic/ph hi-d/i ">(1)</i> “https://www.fbo.gov”
+and adding “https://www.sam.gov” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="8.602.dita#FAR_8_602">8.602</xref>
-                        <xref outputclass="fm:List" href="8.602.dita#FAR_8_602/d496e89"> (a)(4)(ii)(A)</xref> and <xref outputclass="fm:List" href="8.602.dita#FAR_8_602/d496e104"> (a)(4)(ii)(B)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="8.602.dita#FAR_8_602"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">8.602</xref> 
+                        <xref href="8.602.dita#FAR_8_602/d496e89"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(4)(ii)(A)</xref> and <xref href="8.602.dita#FAR_8_602/d496e104"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(4)(ii)(B)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 8.602 by removing from paragraphs (a)(4)(ii)(A) and (B) “FedBizOpps, also known as FBO” and adding “Contract Opportunities at SAM.gov ” in its place.</p>
-                        <p>Amend section 8.602 by removing from paragraphs (a)(4)(ii)(A) and (B) “FedBizOpps, also known as FBO” and adding “Contract Opportunities at SAM.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 8.602 by removing from paragraphs (a)(4)(ii)(A)
+and (B) “FedBizOpps, also known as FBO” and adding “Contract Opportunities
+at SAM.gov ” in its place.</p>
+                        <p class="- topic/p ">Amend section 8.602 by removing
+from paragraphs (a)(4)(ii)(A) and (B) “FedBizOpps, also known as
+FBO” and adding “Contract Opportunities at SAM.gov ” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="16.505.dita#FAR_16_505">16.505</xref>
-                        <xref outputclass="fm:List" href="16.505.dita#FAR_16_505/d1045e794"> (b)(2)(ii)(D)(2)(i)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="16.505.dita#FAR_16_505"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">16.505</xref> 
+                        <xref href="16.505.dita#FAR_16_505/d1045e794"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (b)(2)(ii)(D)(2)(i)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 16.505 by removing from paragraph (b)(2)(ii)(D)( 2 )( i ) “ https://www.fbo.gov ” and adding “ https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 16.505 by removing from paragraph (b)(2)(ii)(D)(
+2 )( i ) “ https://www.fbo.gov ” and adding “ https://www.sam.gov
+” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="22.001.dita#FAR_22_001">22.001</xref> and </entry>
-                     <entry colname="2">
-                        <p>Amend section 22.001 by—
-a. In the definition “ e98” removing “ http://www.wdol.gov ” and adding “ https://www.sam.gov ” in its place; and</p>
-                        <p>b. Removing the definition of “ Wage Determinations OnLine (WDOL)” and adding a definition for “ Wage Determinations at SAM.gov ” in its places.</p>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="22.001.dita#FAR_22_001"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.001</xref> and</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 22.001 by— </p>
+                        <p outputclass="List2" class="- topic/p ">a. In the definition “ e98” removing “http://www.wdol.gov”
+and adding “https://www.sam.gov” in its place; and</p>
+                        <p outputclass="List2" class="- topic/p ">b. Removing the definition of “Wage Determinations OnLine
+(WDOL)” and adding a definition for “Wage Determinations at SAM.gov
+” in its places.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="22.404-1.dita#FAR_22_404_1">22.404-1</xref>
-                        <xref outputclass="fm:List" href="22.404-1.dita#FAR_22_404_1/d1334e24"> (a)(2)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="22.404-1.dita#FAR_22_404_1"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.404-1</xref>
+                        <xref href="22.404-1.dita#FAR_22_404_1/d1334e24"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(2)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 22.404-1 by revising paragraph (a)(2).</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 22.404-1 by revising paragraph
+(a)(2).</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="22.404-3.dita#FAR_22_404_3">22.404-3</xref>
-                        <xref outputclass="fm:List" href="22.404-3.dita#FAR_22_404_3/d1336e10">(a)</xref> and <xref outputclass="fm:List" href="22.404-3.dita#FAR_22_404_3/d1336e27">(b)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="22.404-3.dita#FAR_22_404_3"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.404-3</xref> 
+                        <xref href="22.404-3.dita#FAR_22_404_3/d1336e10"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(a)</xref> and <xref href="22.404-3.dita#FAR_22_404_3/d1336e27"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(b)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 22.404-3 by removing from paragraph (a) and paragraph (b) introductory text “WDOL” and adding “Wage Determinations at SAM.gov ” in its place.</p>
-                        <p>Amend section 22.404-3 by removing from paragraph (a) and paragraph (b) introductory text “WDOL” and adding “Wage Determinations at SAM.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 22.404-3 by removing from
+paragraph (a) and paragraph (b) introductory text “WDOL” and adding “Wage
+Determinations at SAM.gov ” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="22.404-6.dita#FAR_22_404_6">22.404-6</xref>
-                        <xref outputclass="fm:List" href="22.404-6.dita#FAR_22_404_6/d1339e26"> (a)(3)</xref>,<xref outputclass="fm:List" href="22.404-6.dita#FAR_22_404_6/d1339e26"> (a)(3)</xref>,<xref outputclass="fm:List" href="22.404-6.dita#FAR_22_404_6/d1339e26"> (a)(3)</xref>,<xref outputclass="fm:List" href="22.404-6.dita#FAR_22_404_6/d1339e73"> (b)(1)(i)</xref>,<xref outputclass="fm:List" href="22.404-6.dita#FAR_22_404_6/d1339e87"> (b)(1)(ii)</xref>,<xref outputclass="fm:List" href="22.404-6.dita#FAR_22_404_6/d1339e101"> (b)(2)</xref>,<xref outputclass="fm:List" href="22.404-6.dita#FAR_22_404_6/d1339e133"> (b)(6)</xref>,<xref outputclass="fm:List" href="22.404-6.dita#FAR_22_404_6/d1339e156"> (c)(1)</xref> and <xref outputclass="fm:List" href="22.404-6.dita#FAR_22_404_6/d1339e206"> (d)(1)(ii)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="22.404-6.dita#FAR_22_404_6"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.404-6</xref> 
+                        <xref href="22.404-6.dita#FAR_22_404_6/d1339e26"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(3)</xref>,<xref href="22.404-6.dita#FAR_22_404_6/d1339e26"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(3)</xref>,<xref href="22.404-6.dita#FAR_22_404_6/d1339e26"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(3)</xref>,<xref href="22.404-6.dita#FAR_22_404_6/d1339e73"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (b)(1)(i)</xref>,<xref href="22.404-6.dita#FAR_22_404_6/d1339e87"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (b)(1)(ii)</xref>,<xref href="22.404-6.dita#FAR_22_404_6/d1339e101"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (b)(2)</xref>,<xref href="22.404-6.dita#FAR_22_404_6/d1339e133"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (b)(6)</xref>,<xref href="22.404-6.dita#FAR_22_404_6/d1339e156"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (c)(1)</xref> and<xref href="22.404-6.dita#FAR_22_404_6/d1339e206"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (d)(1)(ii)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 22.404-6 by removing from paragraphs (a)(3), (b)(1)(i) and (ii), (b)(2) and (6), (c)(1), and (d)(1)(ii), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
-                        <p>Amend section 22.404-6 by removing from paragraphs (a)(3), (b)(1)(i) and (ii), (b)(2) and (6), (c)(1), and (d)(1)(ii), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
-                        <p>Amend section 22.404-6 by removing from paragraphs (a)(3), (b)(1)(i) and (ii), (b)(2) and (6), (c)(1), and (d)(1)(ii), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
-                        <p>Amend section 22.404-6 by removing from paragraphs (a)(3), (b)(1)(i) and (ii), (b)(2) and (6), (c)(1), and (d)(1)(ii), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
-                        <p>Amend section 22.404-6 by removing from paragraphs (a)(3), (b)(1)(i) and (ii), (b)(2) and (6), (c)(1), and (d)(1)(ii), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
-                        <p>Amend section 22.404-6 by removing from paragraphs (a)(3), (b)(1)(i) and (ii), (b)(2) and (6), (c)(1), and (d)(1)(ii), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
-                        <p>Amend section 22.404-6 by removing from paragraphs (a)(3), (b)(1)(i) and (ii), (b)(2) and (6), (c)(1), and (d)(1)(ii), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
-                        <p>Amend section 22.404-6 by removing from paragraphs (a)(3), (b)(1)(i) and (ii), (b)(2) and (6), (c)(1), and (d)(1)(ii), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
-                        <p>Amend section 22.404-6 by removing from paragraphs (a)(3), (b)(1)(i) and (ii), (b)(2) and (6), (c)(1), and (d)(1)(ii), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 22.404-6 by removing from
+paragraphs (a)(3), (b)(1)(i) and (ii), (b)(2) and (6), (c)(1), and
+(d)(1)(ii), “WDOL” and adding “Wage Determinations at SAM.gov” in
+its place, wherever it appears.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="22.1008-1.dita#FAR_22_1008_1">22.1008-1</xref>
-                        <xref outputclass="fm:List" href="22.1008-1.dita#FAR_22_1008_1/d1422e10">(a)</xref>,<xref outputclass="fm:List" href="22.1008-1.dita#FAR_22_1008_1/d1422e34">(c)</xref>,<xref outputclass="fm:List" href="22.1008-1.dita#FAR_22_1008_1/d1422e48">(d)</xref> and <xref outputclass="fm:List" href="22.1008-1.dita#FAR_22_1008_1/d1422e68"> (e)(1)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="22.1008-1.dita#FAR_22_1008_1"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.1008-1</xref> 
+                        <xref href="22.1008-1.dita#FAR_22_1008_1/d1422e10"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(a)</xref>, <xref href="22.1008-1.dita#FAR_22_1008_1/d1422e34"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(c)</xref>,<xref href="22.1008-1.dita#FAR_22_1008_1/d1422e48"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (d)</xref> and<xref href="22.1008-1.dita#FAR_22_1008_1/d1422e68"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (e)(1)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 22.1008-1 by removing from paragraphs (a), (c), (d), and (e)(1), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
-                        <p>Amend section 22.1008-1 by removing from paragraphs (a), (c), (d), and (e)(1), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
-                        <p>Amend section 22.1008-1 by removing from paragraphs (a), (c), (d), and (e)(1), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
-                        <p>Amend section 22.1008-1 by removing from paragraphs (a), (c), (d), and (e)(1), “WDOL” and adding “Wage Determinations at SAM.gov ” in its place, wherever it appears.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 22.1008-1 by removing from
+paragraphs (a), (c), (d), and (e)(1), “WDOL” and adding “Wage Determinations
+at SAM.gov ” in its place, wherever it appears.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="22.1008-2.dita#FAR_22_1008_2">22.1008-2</xref>
-                        <xref outputclass="fm:List" href="22.1008-2.dita#FAR_22_1008_2/d1423e111"> (d)(2)</xref> and <xref outputclass="fm:List" href="22.1008-2.dita#FAR_22_1008_2/d1423e130"> (d)(3)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="22.1008-2.dita#FAR_22_1008_2"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.1008-2</xref>
+                        <xref href="22.1008-2.dita#FAR_22_1008_2/d1423e111"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (d)(2)</xref>, <xref href="22.1008-2.dita#FAR_22_1008_2/d1423e130"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(d)(3)</xref> and <xref href="22.1008-2.dita#FAR_22_1008_2/d1423e175"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(g)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 22.1008-2 by removing from paragraphs (d)(2) and (3) and (g) introductory text “WDOL” and adding “Wage Determinations at SAM.gov ” in its place.</p>
-                        <p>Amend section 22.1008-2 by removing from paragraphs (d)(2) and (3) and (g) introductory text “WDOL” and adding “Wage Determinations at SAM.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 22.1008-2 by removing from
+paragraphs (d)(2) and (3) and (g) introductory text “WDOL” and adding “Wage
+Determinations at SAM.gov ” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="22.1012-1.dita#FAR_22_1012_1">22.1012-1</xref>
-                        <xref outputclass="fm:List" href="22.1012-1.dita#FAR_22_1012_1/d1432e24"> (a)(1)(i)</xref> and <xref outputclass="fm:List" href="22.1012-1.dita#FAR_22_1012_1/d1432e43"> (a)(2)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="22.1012-1.dita#FAR_22_1012_1"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.1012-1</xref>
+                        <xref href="22.1012-1.dita#FAR_22_1012_1/d1432e24"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(1)(i)</xref> and <xref href="22.1012-1.dita#FAR_22_1012_1/d1432e43"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(2)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 22.1012-1 by removing from paragraphs (a)(1)(i) and (a)(2) “WDOL” and adding “Wage Determinations at SAM.gov ” in its place.</p>
-                        <p>Amend section 22.1012-1 by removing from paragraphs (a)(1)(i) and (a)(2) “WDOL” and adding “Wage Determinations at SAM.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 22.1012-1 by removing from
+paragraphs (a)(1)(i) and (a)(2) “WDOL” and adding “Wage Determinations
+at SAM.gov ” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="22.1012-2.dita#FAR_22_1012_2">22.1012-2</xref>
-                        <xref outputclass="fm:List" href="22.1012-2.dita#FAR_22_1012_2/d1433e40">(d)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="22.1012-2.dita#FAR_22_1012_2"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.1012-2</xref> 
+                        <xref href="22.1012-2.dita#FAR_22_1012_2/d1433e40"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(d)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 22.1012-1 by removing from paragraphs (a)(1)(i) and (a)(2) “WDOL” and adding “Wage Determinations at SAM.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 22.1012-1 by removing from
+paragraphs (a)(1)(i) and (a)(2) “WDOL” and adding “Wage Determinations
+at SAM.gov ” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="22.1903.dita#FAR_22_1903">22.1903</xref>
-                        <xref outputclass="fm:List" href="22.1903.dita#FAR_22_1903/d1505e123">(c)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="22.1903.dita#FAR_22_1903"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.1903</xref> 
+                        <xref href="22.1903.dita#FAR_22_1903/d1505e123"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(c)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 22.1903 by removing from paragraph (c) “ http://www.wdol.gov ” and adding “ https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 22.1903 by removing from paragraph
+(c) “ http://www.wdol.gov ” and adding “https://www.sam.gov ” in
+its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="22.1904.dita#FAR_22_1904">22.1904</xref>
-                        <xref outputclass="fm:List" href="22.1904.dita#FAR_22_1904/d1506e21"> (a)(2)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="22.1904.dita#FAR_22_1904"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.1904</xref> 
+                        <xref href="22.1904.dita#FAR_22_1904/d1506e21"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(2)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 22.1904 by removing from paragraph (a)(2) “Wage Determinations OnLine (WDOL), http://www.wdol.gov ” and adding “Wage Determinations at SAM.gov, https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 22.1904 by removing from paragraph
+(a)(2) “Wage Determinations OnLine (WDOL), http://www.wdol.gov”
+and adding “Wage Determinations at SAM.gov, https://www.sam.gov”
+in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="47.202.dita#FAR_47_202">47.202</xref>
-                        <xref outputclass="fm:List" href="47.202.dita#FAR_47_202/d2757e12">(a)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="47.202.dita#FAR_47_202"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">47.202</xref> 
+                        <xref href="47.202.dita#FAR_47_202/d2757e12"
+                              outputclass="fm:List"
+                              class="- topic/xref ">(a)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 47.202 by revising paragraph (a).</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 47.202 by revising paragraph
+(a).</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="52.212-5.dita#FAR_52_212_5">52.212-5</xref>,<xref outputclass="fm:List" href="52.212-5.dita#FAR_52_212_5/d3162e1292"> (c)(7)</xref>,<xref outputclass="fm:List" href="52.212-5.dita#FAR_52_212_5/d3162e1578"> (e)(1)(xvii)</xref>, and </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.212-5 by—
-a. Revising the date of the clause;</p>
-                        <p>b. Removing from paragraph (c)(7) “(NOV 2020)” and adding “(JAN 2022)” in its place;</p>
-                        <p>b. Removing from paragraph (c)(7) “(NOV 2020)” and adding “(JAN 2022)” in its place;</p>
-                        <p>d. In Alternate II—
-i. Revising the date of the Alternate; and</p>
-                        <p>ii. Removing from paragraph (e)(1)(ii)(P) “(NOV 2020)” and adding “(JAN 2022)” in its place.</p>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="52.212-5.dita#FAR_52_212_5"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.212-5</xref>,<xref href="52.212-5.dita#FAR_52_212_5/d3162e1292"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (c)(7)</xref>,<xref href="52.212-5.dita#FAR_52_212_5/d3162e1578"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (e)(1)(xvii)</xref>, and</entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.212-5 by— </p>
+                        <p outputclass="List2" class="- topic/p ">a. Revising the date of the clause;</p>
+                        <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (c)(7) “(NOV
+2020)” and adding “(JAN 2022)” in its place;</p>
+                        <p outputclass="List2" class="- topic/p ">c.
+Removing from paragraph (e)(1)(xvii) “(NOV 2020)” and adding “(JAN
+2022)” in its place; and</p>
+                        <p outputclass="List2" class="- topic/p ">d. In Alternate
+II— i. Revising the date of the Alternate; and</p>
+                        <p outputclass="List2" class="- topic/p ">ii. Removing from paragraph (e)(1)(ii)(P)
+“(NOV 2020)” and adding “(JAN 2022)” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="52.213-4.dita#FAR_52_213_4">52.213-4</xref>,<xref outputclass="fm:List" href="52.213-4.dita#FAR_52_213_4/d3167e205"> (a)(2)(viii)</xref> and <xref outputclass="fm:List" href="52.213-4.dita#FAR_52_213_4/d3167e372"> (b)(1)(ix)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="52.213-4.dita#FAR_52_213_4"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.213-4</xref>,<xref href="52.213-4.dita#FAR_52_213_4/d3167e205"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (a)(2)(viii)</xref> and <xref href="52.213-4.dita#FAR_52_213_4/d3167e372"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (b)(1)(ix)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.213-4 by—
-a. Revising the date of the clause;</p>
-                        <p>b. Revising paragraph (a)(2)(viii); and</p>
-                        <p>c. Removing from paragraph (b)(1)(ix) “(NOV 2020)” and adding “(JAN 2022)” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.213-4 by— </p>
+                        <p outputclass="List2" class="- topic/p ">a. Revising the date of the clause;</p>
+                        <p outputclass="List2" class="- topic/p ">b. Revising paragraph (a)(2)(viii); and</p>
+                        <p outputclass="List2" class="- topic/p ">c. Removing from paragraph (b)(1)(ix)
+“(NOV 2020)” and adding “(JAN 2022)” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="52.216-5.dita#FAR_52_216_5">52.216-5</xref> and <xref outputclass="fm:List" href="52.216-5.dita#FAR_52_216_5/d3233e227"> (h)(3)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="52.216-5.dita#FAR_52_216_5"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.216-5</xref> and <xref href="52.216-5.dita#FAR_52_216_5/d3233e227"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (h)(3)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.216-5 by—
-a. Revising the date of the clause; and</p>
-                        <p>b. Removing from paragraph (h)(3) the phrase “by the amount of any applicable tax credits due the Contractor under 26 U.S.C. 1481 and”.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.216-5 by— </p>
+                        <p outputclass="List2" class="- topic/p ">a. Revising the date of the clause; and</p>
+                        <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (h)(3) the
+phrase “by the amount of any applicable tax credits due the Contractor
+under 26 U.S.C. 1481 and”.</p>
                      </entry>
-                     <entry colname="3">Technical Amendment</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26803/federal-acquisition-regulation-technical-amendments"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">Technical Amendment</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="52.216-6.dita#FAR_52_216_6">52.216-6</xref> and <xref outputclass="fm:List" href="52.216-6.dita#FAR_52_216_6/d3234e143"> (g)(2)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="52.216-6.dita#FAR_52_216_6"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.216-6</xref> and <xref href="52.216-6.dita#FAR_52_216_6/d3234e143"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (g)(2)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.216-6 by—
-a. Revising the date of the clause; and</p>
-                        <p>b. Removing from paragraph (g)(2) the phrase “by the amount of any applicable tax credits due the contractor under 26 U.S.C. 1481 and”.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.216-6 by— </p>
+                        <p outputclass="List2" class="- topic/p ">a. Revising the date of the clause; and</p>
+                        <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (g)(2) the
+phrase “by the amount of any applicable tax credits due the contractor
+under 26 U.S.C. 1481 and”.</p>
                      </entry>
-                     <entry colname="3">Technical Amendment</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26803/federal-acquisition-regulation-technical-amendments"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">Technical Amendment</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="52.216-16.dita#FAR_52_216_16">52.216-16</xref> and <xref outputclass="fm:List" href="52.216-16.dita#FAR_52_216_16/d3244e221"> (g)(2)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="52.216-16.dita#FAR_52_216_16"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.216-16</xref> and <xref href="52.216-16.dita#FAR_52_216_16/d3244e221"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (g)(2)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.216-16 by—
-a. Revising the date of clause; and</p>
-                        <p>b.Removing from paragraph (g)(2) the phrase “by the amount of any applicable tax credits due the Contractor under 26 U.S.C. 1481 and”.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.216-16 by— </p>
+                        <p outputclass="List2" class="- topic/p ">a. Revising the date of clause; and</p>
+                        <p outputclass="List2" class="- topic/p ">b.Removing from paragraph (g)(2) the phrase
+“by the amount of any applicable tax credits due the Contractor
+under 26 U.S.C. 1481 and”.</p>
                      </entry>
-                     <entry colname="3">Technical Amendment</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26803/federal-acquisition-regulation-technical-amendments"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">Technical Amendment</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="52.216-17.dita#FAR_52_216_17">52.216-17</xref> and <xref outputclass="fm:List" href="52.216-17.dita#FAR_52_216_17/d3245e368"> (i)(2)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="52.216-17.dita#FAR_52_216_17"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.216-17</xref> and <xref href="52.216-17.dita#FAR_52_216_17/d3245e368"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (i)(2)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.216-17 by—
-a. Revising the date of clause; and</p>
-                        <p>b.Removing from paragraph (i)(2) the phrase “by the amount of any applicable tax credits due the Contractor under 26 U.S.C. 1481 and”.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.216-17 by— </p>
+                        <p outputclass="List2" class="- topic/p ">a. Revising the date of clause; and</p>
+                        <p outputclass="List2" class="- topic/p ">b.Removing from paragraph (i)(2) the phrase
+“by the amount of any applicable tax credits due the Contractor
+under 26 U.S.C. 1481 and”.</p>
                      </entry>
-                     <entry colname="3">Technical Amendment</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26803/federal-acquisition-regulation-technical-amendments"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">Technical Amendment</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="52.222-55.dita#FAR_52_222_55">52.222-55</xref> and <xref outputclass="fm:List" href="52.222-55.dita#FAR_52_222_55/d3363e103"> (b)(2)</xref>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="52.222-55.dita#FAR_52_222_55"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.222-55</xref> and <xref href="52.222-55.dita#FAR_52_222_55/d3363e103"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (b)(2)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.222-55 by—
-a. Revising the date of the clause; and</p>
-                        <p>b. Removing from paragraph (b)(2) “ www.wdol.gov ” and adding “ https://www.sam.gov ” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.222-55 by— </p>
+                        <p outputclass="List2" class="- topic/p ">a. Revising the date of the clause; and</p>
+                        <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (b)(2) “www.wdol.gov” and
+adding “https://www.sam.gov” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
-                  <row rowsep="1">
-                     <entry colname="1">
-                        <xref outputclass="fm:ParaNumOnly" href="52.244-6.dita#FAR_52_244_6">52.244-6</xref> and <xref outputclass="fm:List" href="52.244-6.dita#FAR_52_244_6/d3640e183"> (c)(1)(xi)</xref>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="52.244-6.dita#FAR_52_244_6"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.244-6</xref> and <xref href="52.244-6.dita#FAR_52_244_6/d3640e183"
+                              outputclass="fm:List"
+                              class="- topic/xref "> (c)(1)(xi)</xref>
                      </entry>
-                     <entry colname="2">
-                        <p>Amend section 52.244-6 by—
-a. Revising the date of the clause; and</p>
-                        <p>b. Removing from paragraph (c)(1)(xv) “(NOV 2020)” and adding “(JAN 2022)” in its place.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend section 52.244-6 by— </p>
+                        <p outputclass="List2" class="- topic/p ">a. Revising the date of the clause; and</p>
+                        <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (c)(1)(xv)
+“(NOV 2020)” and adding “(JAN 2022)” in its place.</p>
                      </entry>
-                     <entry colname="3">FAR Case 2021-003</entry>
-                  </row>
-                  <row rowsep="1">
-                     <entry colname="1"/>
-                     <entry colname="2"/>
-                     <entry colname="3"/>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref href="https://www.federalregister.gov/documents/2021/12/15/2021-26802/federal-acquisition-regulation-update-to-certain-online-references-in-the-far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR Case 2021-003</xref>
+                     </entry>
                   </row>
                </tbody>
             </tgroup>
