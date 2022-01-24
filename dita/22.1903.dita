@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_22_1903"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -12,35 +13,47 @@
          <ol id="d1483e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d1505e10" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> This subpart applies to contracts
-covered by the Service Contract Labor Standards statute (<xref href="http://uscode.house.gov/"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">41 U.S.C. chapter 67</xref>,
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <ph rev="FAC 2022-04 January 30, 2022" class="- topic/ph ">This subpart <?FM MARKER [CaseNumber] FAR Case 2021-014?>applies to
+contracts covered by the Service Contract Labor Standards statute
+(<xref href="http://uscode.house.gov/"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">41 U.S.C. chapter 67</xref>,
 formerly known as the Service Contract Act, <xref href="Subpart_22.10.dita#FAR_Subpart_22_10"
-                        base="i1096345"
-                        outputclass="fm:Subpart"
-                        class="- topic/xref ">subpart  22.10</xref>),
+                           base="i1096345"
+                           outputclass="fm:Subpart"
+                           class="- topic/xref ">subpart  22.10</xref>),
 or the Wage Rate Requirements (Construction) statute (<xref href="http://uscode.house.gov/"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">40 U.S.C. chapter 31, Subchapter	IV</xref>,
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">40 U.S.C. chapter 31, Subchapter IV</xref>,
 formerly known as the Davis Bacon Act, <xref href="Subpart_22.4.dita#FAR_Subpart_22_4"
-                        base="i1097644"
-                        outputclass="fm:Subpart"
-                        class="- topic/xref ">subpart  22.4</xref>), that
+                           base="i1097644"
+                           outputclass="fm:Subpart"
+                           class="- topic/xref ">subpart  22.4</xref>), that
 require performance in whole or in part within the United States
-. When performance is in part within and in part outside the United
+(the 50 States, the District of Columbia, Puerto Rico, the Northern
+Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands,
+Johnston Island, Wake Island, and the outer Continental Shelf as
+defined in the Outer Continental Shelf Lands Act (<xref href="http://uscode.house.gov/"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">43 U.S.C. 1331, et seq.</xref>)).
+When performance is in part within and in part outside the United
 States, this subpart applies to the part of the contract that is
-performed within the United States.</p>
+performed within the United States.<?FM MARKER [Why] Amend section 22.1903 by—
+a.  Revising paragraph (a);
+?></ph>
+               </p>
             </li>
             <li props="Runin" class="- topic/li ">
-               <p id="d1505e27" class="- topic/p ">
+               <p id="d1505e35" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                </p>
                <ol id="d1483e44" class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d1505e32" class="- topic/p ">
+                     <p id="d1505e40" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> This
 subpart applies to workers as defined at <xref href="22.1901.dita#FAR_22_1901"
                               base="i1095243"
@@ -49,13 +62,13 @@ subpart applies to workers as defined at <xref href="22.1901.dita#FAR_22_1901"
 that definition-</p>
                      <ol id="d1483e61" class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d1505e41" class="- topic/p ">
+                           <p id="d1505e49" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> Workers are covered regardless
 of the contractual relationship alleged to exist between the contractor
 or subcontractor and the worker;</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d1505e46" class="- topic/p ">
+                           <p id="d1505e54" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> Workers
 with disabilities whose wages are calculated pursuant to special
 certificates issued under <xref href="http://uscode.house.gov/"
@@ -65,117 +78,94 @@ certificates issued under <xref href="http://uscode.house.gov/"
 covered; and</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d1505e54" class="- topic/p ">
+                           <p id="d1505e62" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph> Workers
 who are registered in a bona fide apprenticeship program or training
 program registered with the Department of Labor’s Employment and
-Training Administration, Office of Apprenticeship, or with a State Apprenticeship
-Agency recognized by the Office of Apprenticeship, are covered.</p>
+Training Administration, Office of Apprenticeship, or with a State
+Apprenticeship Agency recognized by the Office of Apprenticeship,
+are covered.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d1505e59" class="- topic/p ">
+                     <p id="d1505e67" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> This subpart
 does not apply to-</p>
                      <ol id="d1483e108" class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d1505e65" class="- topic/p ">
+                           <p id="d1505e73" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> Fair Labor Standards Act (FLSA)-covered
-individuals performing in connection with contracts covered by the E.O.,
-i.e., those individuals who perform duties necessary to the performance
-of the contract, but who are not directly engaged in performing
-the specific work called for by the contract, and who spend less
-than 20 percent of their hours worked in a particular workweek performing
-in connection with such contracts;</p>
+individuals performing in connection with contracts covered by the
+E.O., i.e., those individuals who perform duties necessary to the
+performance of the contract, but who are not directly engaged in
+performing the specific work called for by the contract, and who
+spend less than 20 percent of their hours worked in a particular
+workweek performing in connection with such contracts;</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d1505e70" class="- topic/p ">
+                           <p id="d1505e78" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> Individuals
 exempted from the minimum wage requirements of the FLSA under <xref href="http://uscode.house.gov/"
                                     format="html"
                                     scope="external"
-                                    class="- topic/xref ">29	U.S.C.
-213(a)</xref> and <xref href="http://uscode.house.gov/"
+                                    class="- topic/xref ">29 U.S.C. 213(a)</xref> and <xref href="http://uscode.house.gov/"
                                     format="html"
                                     scope="external"
-                                    class="- topic/xref ">214(a) and	(b)</xref>, unless
+                                    class="- topic/xref ">214(a) and (b)</xref>, unless
 otherwise covered by the Service Contract Labor Standards statute
 or the Wage Rate Requirements (Construction) statute. These individuals
 include but are not limited to-</p>
                            <ol id="d1483e133" class="- topic/ol ">
                               <li class="- topic/li ">
-                                 <p id="d1505e82" class="- topic/p ">
+                                 <p id="d1505e90" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph> Learners,
 apprentices, or messengers whose wages are calculated pursuant to
 special certificates issued under <xref href="http://uscode.house.gov/"
                                           format="html"
                                           scope="external"
-                                          class="- topic/xref ">29
-U.S.C. 214(a)</xref>;</p>
-                              </li>
-                              <li class="- topic/li ">
-                                 <p id="d1505e90" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> Students
-whose wages are calculated pursuant to special certificates issued
-under <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                          format="html"
-                                          scope="external"
-                                          class="- topic/xref "> 29 U.S.C. 214(b)</xref>;
-and</p>
+                                          class="- topic/xref ">29 U.S.C. 214(a)</xref>;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p id="d1505e98" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> Students
+whose wages are calculated pursuant to special certificates issued
+under<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                          format="html"
+                                          scope="external"
+                                          class="- topic/xref "> 29 U.S.C. 214(b)</xref>;
+and</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p id="d1505e106" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(C)</ph> Those employed
 in a bona fide executive, administrative, or professional capacity <xref href="http://uscode.house.gov/"
                                           format="html"
                                           scope="external"
-                                          class="- topic/xref ">(29
-U.S.C.	213(a)(1)</xref> and <ph outputclass="CFR" class="- topic/ph ">29 CFR part
-541</ph>); or</p>
+                                          class="- topic/xref ">(29 U.S.C. 213(a)(1)</xref> and <ph rev="FAC 2022-04 January 30, 2022" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2021-014?>29 CFR part 541).<?FM MARKER [Why] b.  Removing from paragraph (b)(2)(ii)(C) the phrase “29 CFR part 541); or” and adding “29 CFR part 541).” in its place; and
+c.  Removing paragraph (b)(2)(iii).
+?></ph>
+                                 </p>
                               </li>
                            </ol>
-                        </li>
-                        <li class="- topic/li ">
-                           <p id="d1505e109" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Seasonal
-recreational services or seasonal recreational equipment rental
-for the general public on Federal lands, except for lodging and
-food services associated with seasonal recreational services, in
-accordance with <xref href="https://www.federalregister.gov/executive-order/13838"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">Executive Order 13838</xref>,
-Exemption from <xref href="https://www.federalregister.gov/executive-order/13658"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">Executive Order 13658</xref> for
-Recreational Services on Federal Lands (3 CFR, 2018 Comp., p. 831),
-as implemented by the U.S. Department of Labor regulations at <xref href="https://www.federalregister.gov/select-citation/2020/10/23/29-CFR-10.4"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">29 CFR 10.4</xref>(g).</p>
                         </li>
                      </ol>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d1505e123" class="- topic/p ">
+               <p id="d1505e118" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph> Agency
 Labor Advisors, as defined at <xref href="22.001.dita#FAR_22_001"
                         base="i1098436"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">22.001</xref>,
-are listed at <ph rev="FAC 2022-02 January 14, 2022" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2021-003?>
-                     <xref href="https://www.sam.gov"
-                           format="html"
-                           scope="external"
-                           class="- topic/xref ">https://www.sam.gov</xref>
-                     <?FM MARKER [Why] Amend section 22.1903 by removing from paragraph (c) “ http://www.wdol.gov ” and adding “ https://www.sam.gov ” in its place.?>
-                  </ph>,
-and are available to provide guidance and assistance with the application
-of this subpart.</p>
+are listed at <xref href="https://www.sam.gov"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://www.sam.gov</xref>, and are available
+to provide guidance and assistance with the application of this
+subpart.</p>
             </li>
          </ol>
       </conbody>
