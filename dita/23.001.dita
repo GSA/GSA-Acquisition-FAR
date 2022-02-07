@@ -2,9 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_23_001"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -12,25 +12,18 @@
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As used in this part-</p>
          <p class="- topic/p ">
-            <i outputclass="Term"
-               xtrf="_23.001"
-               xtrc="d1528e18"
-               class="+ topic/ph hi-d/i ">Environmental</i> means environmental aspects of internal agency operations and activities, including those aspects related to energy and transportation functions.</p>
+            <i outputclass="Term" xtrf="_23.001" xtrc="d1528e18">Environmental</i> means
+environmental aspects of internal agency operations and activities,
+including those aspects related to energy and transportation functions.</p>
          <p class="- topic/p ">
-            <i outputclass="Term"
-               xtrf="_23.001"
-               xtrc="d1528e24"
-               class="+ topic/ph hi-d/i ">Greenhouse gases</i> means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perflourocarbons, nitrogen triflouride, and sulfur hexafluoride.</p>
+            <i outputclass="Term" xtrf="_23.001" xtrc="d1528e24">Greenhouse
+gases</i> means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons,
+perflourocarbons, nitrogen triflouride, and sulfur hexafluoride.</p>
          <p id="d1524e18" class="- topic/p ">
-            <i outputclass="Term"
-               xtrf="_23.001"
-               xtrc="d1528e30"
-               class="+ topic/ph hi-d/i ">Toxic chemical</i> means a chemical or chemical category listed in <ph outputclass="CFR" class="- topic/ph ">40 CFR 372.65</ph>.</p>
+            <i outputclass="Term" xtrf="_23.001" xtrc="d1528e30">Toxic chemical</i> means a chemical or chemical
+category listed in <ph outputclass="CFR" class="- topic/ph ">40 CFR 372.65</ph>.</p>
          <p class="- topic/p ">
-            <i outputclass="Term"
-               xtrf="_23.001"
-               xtrc="d1528e36"
-               class="+ topic/ph hi-d/i ">United States</i>, except as used in subpart <xref href="Subpart_23.10.dita#FAR_Subpart_23_10"
+            <i xtrf="_23.001" class="+ topic/ph hi-d/i ">United States</i>, except as used in subpart <xref href="Subpart_23.10.dita#FAR_Subpart_23_10"
                   base="i1094182"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">23.10</xref>, means-<ol id="d1502e32" class="- topic/ol ">
@@ -42,19 +35,23 @@
                      </li>
                      <li class="- topic/li ">
                         <p id="d1524e41" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph> The District of Columbia;</p>
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> The District
+of Columbia;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d1524e46" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(3)</ph> The commonwealths of Puerto Rico and the Northern Mariana Islands;</p>
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph> The commonwealths
+of Puerto Rico and the Northern Mariana Islands;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d1524e51" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(4)</ph> The territories of Guam, American Samoa, and the United States Virgin Islands; and</p>
+                           <ph props="autonumber" class="- topic/ph ">(4)</ph> The territories
+of Guam, American Samoa, and the United States Virgin Islands; and</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d1524e56" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(5)</ph> Associated territorial waters and airspace.</p>
+                           <ph props="autonumber" class="- topic/ph ">(5)</ph> Associated
+territorial waters and airspace.</p>
                      </li>
                   </ol>
                </li>
