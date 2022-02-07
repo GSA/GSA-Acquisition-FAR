@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_22_1301"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -115,9 +116,10 @@ during the three-year period beginning on the date of such veteran’s
 discharge or release from active duty in the U.S. military, ground,
 naval, or air service.</p>
          <p id="d1455e78" class="- topic/p ">
-            <i outputclass="Term" xtrf="_22.1301" xtrc="d1459e135">United States</i>, means the 50 States, the
-District of Columbia, Puerto Rico, the Northern Mariana Islands,
-American Samoa, Guam, the U.S. Virgin Islands, and Wake Island.</p>
+            <i xtrf="_22.1301" class="+ topic/ph hi-d/i ">United States</i>, means
+the 50 States, the District of Columbia, Puerto Rico, the Northern
+Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands,
+and Wake Island.</p>
       </conbody>
    </concept>
 </dita>
