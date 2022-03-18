@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_4_605"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -56,10 +57,9 @@ System for Award Management, or the provision at <xref href="52.212-1.dita#FAR_5
                         base="i1060447"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.212-1</xref>, Instructions
-to Offerors-Commercial
-Products and Commercial Services. (For a discussion of the
-Commercial and Government Entity (CAGE) Code, which is a different
-identifier, see <xref href="Subpart_4.18.dita#FAR_Subpart_4_18"
+to Offerors-Commercial Products and Commercial Services. (For a
+discussion of the Commercial and Government Entity (CAGE) Code,
+which is a different identifier, see <xref href="Subpart_4.18.dita#FAR_Subpart_4_18"
                         base="i1121256"
                         outputclass="fm:Subpart"
                         class="- topic/xref ">subpart  4.18</xref>.)</p>
@@ -89,7 +89,7 @@ to have a unique entity identifier assigned.</p>
                      <p id="d224e66" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> Authorized
 generic entity identifiers, maintained by the Integrated Award Environment
-(IAE) program office (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+(IAE) program office (<xref href="http://www.gsa.gov/portal/content/105036"
                               format="html"
                               scope="external"
                               class="- topic/xref ">http://www.gsa.gov/portal/content/105036</xref>),
