@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_12_204"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -12,20 +13,19 @@ form.</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol id="d684e13" class="- topic/ol ">
             <li props="Runin" class="- topic/li ">
-               <p class="- topic/p " id="d711e10">
+               <p id="d711e10" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                </p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d711e15" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        The contracting officer
-shall use the <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items"
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The contracting officer shall
+use the <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items"
                               format="html"
                               scope="external"
                               class="- topic/xref ">Standard Form 1449</xref>,
-Solicitation/Contract/Order for Commercial Items, if—
-                     </p>
+Solicitation/Contract/Order for Commercial Products and Commercial
+Services, if—</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d711e24" class="- topic/p ">
@@ -34,12 +34,13 @@ acquisition is expected to exceed the simplified acquisition threshold;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d711e29" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>A paper solicitation or contract is
-being issued; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>A paper
+solicitation or contract is being issued; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d711e34" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Procedures at <xref href="12.603.dita#FAR_12_603"
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Procedures
+at <xref href="12.603.dita#FAR_12_603"
                                     base="i1112649"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">12.603</xref> are not being used.</p>
