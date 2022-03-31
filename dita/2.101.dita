@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_2_101"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -70,7 +71,7 @@ manner and at a reasonable cost. It includes developing the overall
 strategy for managing the acquisition.</p>
                <p id="d75e49" class="- topic/p ">
                   <i outputclass="Term" xtrf="_2.101" xtrc="d72e91">Activity
-Address Code (AAC)</i> means a distinct six-position code consisting
+Address Code</i> (ACC) means a distinct six-position code consisting
 of a combination of alpha and/or numeric characters assigned to
 identify specific agency offices, units, activities, or organizations
 by the General Services Administration for civilian agencies and
@@ -758,11 +759,11 @@ computer. The term does not include computer software.</p>
                         <ol id="d73e784" class="- topic/ol ">
                            <li class="- topic/li ">
                               <p id="d75e562" class="- topic/p ">
-                                 <ph props="autonumber" class="- topic/ph ">(i)</ph> Computer programs
-that comprise a series of instructions, rules, routines, or statements,
-regardless of the media in which recorded, that allow or cause a
-computer to perform a specific operation or series of operations;
-and</p>
+                                 <ph props="autonumber" class="- topic/ph ">(i)</ph> Computer
+programs that comprise a series of instructions, rules, routines,
+or statements, regardless of the media in which recorded, that allow
+or cause a computer to perform a specific operation or series of
+operations; and</p>
                            </li>
                            <li class="- topic/li ">
                               <p id="d75e567" class="- topic/p ">
@@ -846,8 +847,8 @@ see the definition at <xref href="22.502.dita#FAR_22_502"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">22.502</xref>).</p>
                <p id="d75e621" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e981">Contiguous United States (CONUS)</i> means the
-48 contiguous States and the District of Columbia.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e981">Contiguous United States</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e626">CONUS</i>) means the 48 contiguous States
+and the District of Columbia.</p>
                <p id="d75e625" class="- topic/p ">
                   <i outputclass="Term" xtrf="_2.101" xtrc="d72e987">Contingency
 operation</i> (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
@@ -1228,7 +1229,7 @@ Industries Alliance Standard 748 (EIA-748), Earned Value Management
 Systems. (See OMB Circular A-11, part  7.)</p>
                <p id="d75e911" class="- topic/p ">
                   <i outputclass="Term" xtrf="_2.101" xtrc="d72e1439">Economically
-disadvantaged women-owned small business (EDWOSB) concern</i>-(see
+disadvantaged women-owned small business (EDWOSB) concern</i>- (see
 definition of "Women-Owned Small Business (WOSB) Program" in this
 section).</p>
                <p id="d75e916" class="- topic/p ">
@@ -1238,24 +1239,24 @@ to stop performance under the contract. If the contractor receives
 the termination notice after the date fixed for termination, then
 the effective date of termination means the date the contractor
 receives the notice.</p>
-               <p id="d75e920" class="- topic/p "> </p>
                <p id="d75e922" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1457">Electronic commerce</i> means electronic techniques
-for accomplishing business transactions including electronic mail
-or messaging, World Wide Web technology, electronic bulletin boards,
-purchase cards, electronic funds transfer, and electronic data interchange.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1457">Electronic commerce</i> means
+electronic techniques for accomplishing business transactions including
+electronic mail or messaging, World Wide Web technology, electronic
+bulletin boards, purchase cards, electronic funds transfer, and
+electronic data interchange.</p>
                <p id="d75e926" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1463">Electronic data interchange (EDI)</i> means
-a technique for electronically transferring and storing formatted
-information between computers utilizing established and published
-formats and codes, as authorized by the applicable Federal Information
-Processing Standards.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1463">Electronic
+data interchange</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e932">EDI</i>) means a technique
+for electronically transferring and storing formatted information
+between computers utilizing established and published formats and
+codes, as authorized by the applicable Federal Information Processing
+Standards.</p>
                <p id="d75e930" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1470">Electronic Funds Transfer
-(EFT)</i> means any transfer of funds, other than a transaction
-originated by cash, check, or similar paper instrument, that is
-initiated through an electronic terminal, telephone, computer, or
-magnetic tape, for the purpose of ordering, instructing, or authorizing
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1470">Electronic Funds Transfer</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e939">EFT</i>) means any transfer of funds, other
+than a transaction originated by cash, check, or similar paper instrument,
+that is initiated through an electronic terminal, telephone, computer,
+or magnetic tape, for the purpose of ordering, instructing, or authorizing
 a financial institution to debit or credit an account. The term
 includes Automated Clearing House transfers, Fedwire transfers,
 and transfers made at automatic teller machines and point-of-sale
@@ -1335,11 +1336,11 @@ in <xref href="25.003.dita#FAR_25_003"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.225-5</xref>(a).</p>
                <p id="d75e1002" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1550">Energy-efficient product</i>-<ol id="d73e1286" class="- topic/ol ">
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1550">Energy-efficient product</i>—<ol id="d73e1286" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e1008" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Means a
-product that-</p>
+product that–</p>
                         <ol id="d73e1296" class="- topic/ol ">
                            <li class="- topic/li ">
                               <p id="d75e1014" class="- topic/p ">
@@ -1369,7 +1370,7 @@ missions (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7
                </p>
                <p id="d75e1031" class="- topic/p ">
                   <i outputclass="Term" xtrf="_2.101" xtrc="d72e1602">Energy-efficient standby power devices</i> means
-products that use-<ol id="d73e1334" class="- topic/ol ">
+products that use—<ol id="d73e1334" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e1037" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> External standby power devices,
@@ -1495,17 +1496,15 @@ on behalf of the agency (<xref href="http://uscode.house.gov/browse.xhtml;jsessi
                         scope="external"
                         class="- topic/xref ">44 U.S.C. 3544(a)(1)(A)</xref>).</p>
                <p id="d75e1137" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1766">Federally Funded Research and Development Centers
-(FFRDC’s)</i> means activities that are sponsored under a broad
-charter by a Government agency (or agencies) for the purpose of
-performing, analyzing, integrating, supporting, and/or managing
-basic or applied research and/or development, and that receive 70
-percent or more of their financial support from the Government;
-and-<ol id="d73e1470" class="- topic/ol ">
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1766">Federally Funded Research and Development Centers</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e1149">FFRDC’s</i>) means activities that are
+sponsored under a broad charter by a Government agency (or agencies)
+for the purpose of performing, analyzing, integrating, supporting,
+and/or managing basic or applied research and/or development, and
+that receive 70 percent or more of their financial support from the
+Government; and-<ol id="d73e1470" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e1143" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> A
-long-term relationship is contemplated;</p>
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> A long-term relationship is contemplated;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d75e1148" class="- topic/p ">
@@ -1625,14 +1624,14 @@ a given mass of a chemical contributes to global warming over a
 given time period compared to the same mass of carbon dioxide. Carbon
 dioxide’s global warming potential is defined as 1.0.</p>
                <p id="d75e1240" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1924">Governmentwide acquisition contract (GWAC)</i> means
-a task-order or delivery-order contract for information technology established
-by one agency for Governmentwide use that is operated-<ol id="d73e1586" class="- topic/ol ">
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1924">Governmentwide acquisition contract</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e1255">GWAC</i>) means a task-order or delivery-order
+contract for information technology established by one agency for
+Governmentwide use that is operated-<ol id="d73e1586" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e1246" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> By
-an executive agent designated by the Office of Management and Budget
-pursuant to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> By an executive
+agent designated by the Office of Management and Budget pursuant
+to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                  format="html"
                                  scope="external"
                                  class="- topic/xref ">40 U.S.C. 11302(e)</xref>;
@@ -1653,11 +1652,11 @@ under a Governmentwide acquisition contract.</p>
                   </ol>
                </p>
                <p id="d75e1262" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1958">Governmentwide point of entry (GPE)</i> means
-the single point where Government business opportunities greater
-than $25,000, including synopses of proposed contract actions, solicitations,
-and associated information, can be accessed electronically by the
-public. The GPE is located at <xref href="https://www.sam.gov"
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e1958">Governmentwide point of entry</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e1279">GPE</i>) means the single point where Government
+business opportunities greater than $25,000, including synopses
+of proposed contract actions, solicitations, and associated information,
+can be accessed electronically by the public. The GPE is located
+at <xref href="https://www.sam.gov"
                         format="html"
                         scope="external"
                         class="- topic/xref ">https://www.sam.gov</xref>.</p>
@@ -1819,26 +1818,25 @@ Protection Acts and Executive orders.</p>
                   </ol>
                </p>
                <p id="d75e1400" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d13e1386">Information and communication technology (ICT)</i> means
-information technology and other equipment, systems, technologies,
-or processes, for which the principal function is the creation,
-manipulation, storage, display, receipt, or transmission of electronic
-data and information, as well as any associated content. Examples
-of ICT include but are not limited to the following: Computers and
-peripheral equipment; information kiosks and transaction machines;
-telecommunications equipment; customer premises equipment; multifunction
-office machines; software; applications; websites; videos; and electronic
-documents.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d13e1386">Information and communication technology</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e1421">ICT</i>) means information technology and
+other equipment, systems, technologies, or processes, for which
+the principal function is the creation, manipulation, storage, display,
+receipt, or transmission of electronic data and information, as
+well as any associated content. Examples of ICT include but are
+not limited to the following: Computers and peripheral equipment;
+information kiosks and transaction machines; telecommunications equipment;
+customer premises equipment; multifunction office machines; software;
+applications; websites; videos; and electronic documents.</p>
                <p id="d75e1404" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e2171">Information security</i> means
-protecting information and information systems from unauthorized
-access, use, disclosure, disruption, modification, or destruction
-in order to provide-<ol id="d73e1775" class="- topic/ol ">
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e2171">Information security</i> means protecting information
+and information systems from unauthorized access, use, disclosure, disruption,
+modification, or destruction in order to provide-<ol id="d73e1775" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e1410" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Integrity, which means guarding
-against improper information modification or destruction, and includes
-ensuring information nonrepudiation and authenticity;</p>
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Integrity,
+which means guarding against improper information modification or
+destruction, and includes ensuring information nonrepudiation and
+authenticity;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d75e1415" class="- topic/p ">
@@ -2605,18 +2603,18 @@ active and physically completed contracts (see <xref href="4.804-4.dita#FAR_4_80
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">4.804-4</xref>).</p>
                <p id="d75e2060" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e3211">Performance-based acquisition (PBA)</i> means
-an acquisition structured around the results to be achieved as opposed
-to the manner by which the work is to be performed.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e3211">Performance-based acquisition</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e2084">PBA</i>) means an acquisition structured
+around the results to be achieved as opposed to the manner by which
+the work is to be performed.</p>
                <p id="d75e2064" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e3217">Performance Work Statement (PWS)</i> means a
-statement of work for performance-based acquisitions that describes
-the required results in clear, specific and objective terms with
-measurable outcomes.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e3217">Performance
+Work Statement</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e2091">PWS</i>) means a statement
+of work for performance-based acquisitions that describes the required
+results in clear, specific and objective terms with measurable outcomes.</p>
                <p id="d75e2068" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e3223">Personal property</i> means
-property of any kind or interest in it except real property, records
-of the Federal Government, and naval vessels of the following categories:<ol id="d73e2591" class="- topic/ol ">
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e3223">Personal property</i> means property of any
+kind or interest in it except real property, records of the Federal
+Government, and naval vessels of the following categories:<ol id="d73e2591" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e2074" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> Battleships;</p>
@@ -2757,12 +2755,12 @@ requirement</i> means a Government requirement for testing or other
 quality assurance demonstration that must be completed before award
 of a contract.</p>
                <p id="d75e2197" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e3433">Qualified products list (QPL)</i> means
-a list of products that have been examined, tested, and have satisfied
-all applicable qualification requirements.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e3433">Qualified products list</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e2227">QPL</i>) means a list of products that
+have been examined, tested, and have satisfied all applicable qualification
+requirements.</p>
                <p id="d75e2201" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d7e2204">Qualifying
-offeror</i>, as used in <xref href="13.106-1.dita#FAR_13_106_1"
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d7e2204">Qualifying offeror</i>, as
+used in <xref href="13.106-1.dita#FAR_13_106_1"
                         base="FAR_13_106_1"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">13.106-1</xref> and <xref href="15.304.dita#FAR_15_304"
@@ -2802,15 +2800,16 @@ paper and paper products, see the definition at <xref href="11.301.dita#FAR_11_3
                         class="- topic/xref ">11.301</xref>.</p>
                <p id="d75e2235" class="- topic/p ">
                   <i outputclass="Term" xtrf="_2.101" xtrc="d72e3464">Registered
-in the System for Award Management (SAM)</i> means that—<ol id="d73e2771" class="- topic/ol ">
+in the System for Award Management</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e2268">SAM</i>)
+means that—<ol id="d73e2771" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e2241" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> The
-Contractor has entered all mandatory information, including the
-unique entity identifier and the Electronic Funds Transfer indicator
-(if applicable), the Commercial and Government Entity (CAGE) code,
-as well as data required by the Federal Funding Accountability and
-Transparency Act of 2006 (see subpart <xref href="Subpart_4.14.dita#FAR_Subpart_4_14"
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> The Contractor has entered all
+mandatory information, including the unique entity identifier and
+the Electronic Funds Transfer indicator (if applicable), the Commercial
+and Government Entity (CAGE) code, as well as data required by the
+Federal Funding Accountability and Transparency Act of 2006 (see
+subpart <xref href="Subpart_4.14.dita#FAR_Subpart_4_14"
                                  base="FAR_Subpart_4_14"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">4.14</xref>),
@@ -3180,7 +3179,7 @@ joint venture size affiliation for offers received from teaming
 arrangements under the Department of Defense Pilot Mentor-Protégé
 Program; and</p>
                            </li>
-                        </ol>  
+                        </ol>
                      </li>
                      <li class="- topic/li ">
                         <p id="d75e2544" class="- topic/p ">
@@ -3350,37 +3349,38 @@ or similar capital items.</p>
 taxes levied by the States, the District of Columbia, outlying areas
 of the United States, or their political subdivisions.</p>
                <p id="d75e2676" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4159">Statement of Objectives (SOO)</i> means a Government-prepared
-document incorporated into the solicitation that states the overall
-performance objectives. It is used in solicitations when the Government
-intends to provide the maximum flexibility to each offeror to propose
-an innovative approach.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4159">Statement of Objectives</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e2712">SOO</i>)
+means a Government-prepared document incorporated into the solicitation
+that states the overall performance objectives. It is used in solicitations
+when the Government intends to provide the maximum flexibility to
+each offeror to propose an innovative approach.</p>
                <p id="d75e2680" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4165">Subline item</i> means a subset
-of a line item.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4165">Subline
+item</i> means a subset of a line item.</p>
                <p id="d75e2684" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4171">Substantial evidence</i> means
-information sufficient to support the reasonable belief that a particular
-act or omission has occurred.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4171">Substantial
+evidence</i> means information sufficient to support the reasonable
+belief that a particular act or omission has occurred.</p>
                <p id="d75e2688" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4177">Substantially
-as follows</i> or "substantially the same as," when used in the
-prescription and introductory text of a provision or clause, means
-that authorization is granted to prepare and utilize a variation
-of that provision or clause to accommodate requirements that are
-peculiar to an individual acquisition; provided that the variation
-includes the salient features of the FAR provision or clause, and
-is not inconsistent with the intent, principle, and substance of
-the FAR provision or clause or related coverage of the subject matter.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4177">Substantially as follows</i> or "substantially
+the same as," when used in the prescription and introductory text
+of a provision or clause, means that authorization is granted to
+prepare and utilize a variation of that provision or clause to accommodate requirements
+that are peculiar to an individual acquisition; provided that the
+variation includes the salient features of the FAR provision or
+clause, and is not inconsistent with the intent, principle, and
+substance of the FAR provision or clause or related coverage of
+the subject matter.</p>
                <p id="d75e2692" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4183">Supplemental agreement</i> means a contract
-modification that is accomplished by the mutual action of the parties.</p>
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4183">Supplemental agreement</i> means
+a contract modification that is accomplished by the mutual action
+of the parties.</p>
                <p id="d75e2696" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4190">Supplies</i> means all property except land
-or interest in land. It includes (but is not limited to) public
-works, buildings, and facilities; ships, floating equipment, and
-vessels of every character, type, and description, together with
-parts and accessories; aircraft and aircraft parts, accessories,
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4190">Supplies</i> means all property
+except land or interest in land. It includes (but is not limited
+to) public works, buildings, and facilities; ships, floating equipment,
+and vessels of every character, type, and description, together
+with parts and accessories; aircraft and aircraft parts, accessories,
 and equipment; machine tools; and the alteration or installation
 of any of the foregoing.</p>
                <p id="d75e2700" class="- topic/p ">
@@ -3445,15 +3445,15 @@ and future generations.</p>
                </p>
                <p id="d75e2754" class="- topic/p ">
                   <i outputclass="Term" xtrf="_2.101" xtrc="d72e4281">System
-for Award Management (SAM)</i> means the primary Government repository
-for prospective Federal awardee and Federal awardee information
-and the centralized Government system for certain contracting, grants,
-and other assistance-related processes. It includes—<ol id="d73e3356" class="- topic/ol ">
+for Award Management</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e2793">SAM</i>) means
+the primary Government repository for prospective Federal awardee
+and Federal awardee information and the centralized Government system
+for certain contracting, grants, and other assistance-related processes.
+It includes—<ol id="d73e3356" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e2760" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Data collected
-from prospective Federal awardees required for the conduct of business
-with the Government;</p>
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Data collected from prospective
+Federal awardees required for the conduct of business with the Government;</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d75e2765" class="- topic/p ">
@@ -3479,22 +3479,23 @@ order</i> means an order for services placed against an established
 contract or with Government sources.</p>
                <p id="d75e2781" class="- topic/p ">
                   <i outputclass="Term" xtrf="_2.101" xtrc="d72e4326">Taxpayer
-Identification Number (TIN)</i> means the number required by the
-IRS to be used by the offeror in reporting income tax and other
-returns. The TIN may be either a Social Security Number or an Employer
-Identification Number.</p>
+Identification Number</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e2823">TIN</i>) means
+the number required by the IRS to be used by the offeror in reporting
+income tax and other returns. The TIN may be either a Social Security
+Number or an Employer Identification Number.</p>
                <p id="d75e2785" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4333">Technical data</i> means recorded
-information (regardless of the form or method of the recording)
-of a scientific or technical nature (including computer databases
-and computer software documentation). This term does not include
-computer software or financial, administrative, cost or pricing,
-or management data or other information incidental to contract administration.
-The term includes recorded information of a scientific or technical
-nature that is included in computer databases (see <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  <i outputclass="Term" xtrf="_2.101" xtrc="d72e4333">Technical
+data</i> means recorded information (regardless of the form or method
+of the recording) of a scientific or technical nature (including
+computer databases and computer software documentation). This term
+does not include computer software or financial, administrative,
+cost or pricing, or management data or other information incidental
+to contract administration. The term includes recorded information
+of a scientific or technical nature that is included in computer
+databases (see <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">41 U.S.C. 116</xref> ).</p>
+                        class="- topic/xref ">41 U.S.C. 116</xref>).</p>
                <p id="d75e2792" class="- topic/p ">
                   <i outputclass="Term" xtrf="_2.101" xtrc="d72e4345">Terminated portion of the contract</i> means
 the portion of a contract that the contractor is not to perform
@@ -3752,11 +3753,11 @@ the definition at <xref href="52.248-2.dita#FAR_52_248_2"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.248-2</xref>(b).</p>
                <p id="d75e3030" class="- topic/p ">
-                  <i outputclass="Term" xtrf="_2.101" xtrc="wer4565567">Value engineering change proposal (VECP)</i>-<ol id="d73e3690" class="- topic/ol ">
+                  <i outputclass="Term" xtrf="_2.101" xtrc="wer4565567">Value engineering change proposal</i> (<i outputclass="Term" xtrf="_2.101" xtrc="d5e3075">VECP</i>)—<ol id="d73e3690" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d75e3036" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Means
-a proposal that–</p>
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Means a proposal
+that–</p>
                         <ol id="d73e3700" class="- topic/ol ">
                            <li class="- topic/li ">
                               <p id="d75e3042" class="- topic/p ">
