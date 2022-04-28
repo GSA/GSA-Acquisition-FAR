@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_4_402"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -31,22 +32,19 @@ in consultation with all affected agencies and with the concurrence
 of the Secretary of Energy, the Chairman of the Nuclear Regulatory
 Commission, the Director of National Intelligence, and the Secretary of
 Homeland Security, is responsible for issuance and maintenance of
-this Manual. The following publications implement the
-program:</p>
+this Manual. The following publications implement the program:</p>
                <ol id="d209e32" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d211e21" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> National Industrial Security Program
-Operating Manual (NISPOM) (32
-CFR part 117).
-                     </p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> National
+Industrial Security Program Operating Manual (NISPOM) (32 CFR part
+117).</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d211e26" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> DoD Manual
-5220.22, Volume 2, National Industrial
-Security Program: Industrial Security Procedures for Government
-Activities.</p>
+5220.22, Volume 2, National Industrial Security Program: Industrial
+Security Procedures for Government Activities.</p>
                   </li>
                </ol>
             </li>
@@ -56,9 +54,7 @@ Activities.</p>
 for the protection of information relating to foreign classified
 contracts awarded to U.S. industry, and instructions for the protection
 of U.S. information relating to classified contracts awarded to
-foreign firms, are prescribed in 32
-CFR 117.19.
-               </p>
+foreign firms, are prescribed in 32 CFR 117.19.</p>
             </li>
             <li class="- topic/li ">
                <p id="d211e36" class="- topic/p ">
@@ -75,20 +71,21 @@ or "Top Secret".</p>
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> Provided
 that the data submittal is unclassified, the DD Form 254 shall be
 completed electronically in the NISP Contract Classification System
-(NCCS), which is accessible via the Procurement Integrated Enterprise
-Environment (PIEE) at <xref href="https://wawf.eb.mil"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">https://wawf.eb.mil</xref>. Nondefense agencies
-with an existing DD Form 254 information system may use that system.</p>
+(NCCS), which is accessible at <ph rev="FAC 2022-06  May 1, 2022" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>
+                           <xref href="https://tesseract.cloud.dcsa.mil/nccs"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://tesseract.cloud.dcsa.mil/nccs</xref>.<?FM MARKER [Why] Amend section 4.402 by removing from paragraph (d)(1) the phrase “via the Procurement Integrated Enterprise Environment (PIEE) at https://wawf.eb.mil” and adding “https://www.dcsa.mil/is/nccs” in its place.?></ph> Nondefense
+agencies with an existing DD Form 254 information system may use
+that system.</p>
                   </li>
                   <li props="Runin" class="- topic/li ">
-                     <p id="d211e50" class="- topic/p ">
+                     <p id="d211e54" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                      </p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d211e55" class="- topic/p ">
+                           <p id="d211e59" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> A contractor,
 or subcontractor (if applicable), requiring access to classified
 information under a contract shall be identified with a Commercial
@@ -99,7 +96,7 @@ and Government Entity (CAGE) code on the DD Form 254 (see subpart <xref href="Su
 information on obtaining and validating CAGE codes).</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d211e63" class="- topic/p ">
+                           <p id="d211e67" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> Each location
 of contractor or subcontractor performance listed on the DD Form
 254 is required to reflect a corresponding unique CAGE code for
@@ -109,7 +106,7 @@ location requiring access to classified information must be listed
 on the DD Form 254.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d211e68" class="- topic/p ">
+                           <p id="d211e72" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph> Contractor
 and subcontractor performance locations listed on the DD Form 254
 are not required to be separately registered in the System for Award
@@ -124,7 +121,7 @@ information on registering in SAM).</p>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d211e76" class="- topic/p ">
+               <p id="d211e80" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph> Part  27,
 Patents, Data, and Copyrights, contains policy and procedures for
 safeguarding classified information in patent applications and patents.</p>

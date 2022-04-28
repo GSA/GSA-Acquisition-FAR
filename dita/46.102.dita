@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_46_102"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -21,9 +22,8 @@ the Government’s interest;</p>
             <li class="- topic/li ">
                <p id="d2672e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph> Supplies
-or services (including
-commercial services) tendered by contractors meet contract
-requirements;</p>
+or services (including commercial services) tendered by contractors
+meet contract requirements;</p>
             </li>
             <li class="- topic/li ">
                <p id="d2672e22" class="- topic/p ">
@@ -49,11 +49,11 @@ in <xref href="46.407.dita#FAR_46_407"
             <li class="- topic/li ">
                <p id="d2672e40" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph> Contracts
-for commercial products rely
-on a contractor’s existing quality assurance system as a substitute
-for compliance with Government inspection and testing before tender
-for acceptance unless customary market practices for the commercial product being
-acquired permit in-process inspection (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+for commercial products rely on a contractor’s existing quality
+assurance system as a substitute for compliance with Government
+inspection and testing before tender for acceptance unless customary
+market practices for the commercial product being acquired permit
+in-process inspection (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
                         class="- topic/xref ">41 U.S.C. 3307</xref>). Any
@@ -65,10 +65,14 @@ manner consistent with commercial practice; and</p>
                   <ph props="autonumber" class="- topic/ph ">(g)</ph> The quality
 assurance and acceptance services of other agencies are used when
 this will be effective, economical, or otherwise in the Government’s
-interest (see <xref href="Subpart_42.1.dita#FAR_Subpart_42_1"
-                        base="i1076050"
-                        outputclass="fm:Subpart"
-                        class="- topic/xref ">subpart  42.1</xref>).</p>
+interest <ph rev="FAC 2022-06  May 1, 2022" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>(see <xref href="42.002.dita#FAR_42_002"
+                           base="i1072176"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">42.002</xref> and <xref href="Subpart_42.2.dita#FAR_Subpart_42_2"
+                           base="i1076050"
+                           outputclass="fm:Subpart"
+                           class="- topic/xref ">subpart  42.12</xref>.<?FM MARKER [Why] Amend section 46.102 by removing from paragraph (g) the phrase “(see subpart 42.1)” and adding “(see 42.002 and subpart 42.2)” in its place.?></ph>
+               </p>
             </li>
          </ol>
       </conbody>
