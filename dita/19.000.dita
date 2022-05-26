@@ -2,10 +2,10 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_19_000"
             props="TORP"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,80 +14,130 @@
          <ol id="d1124e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d1152e10" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-						            This part implements the acquisition-related sections of the Small Business Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> This part implements the acquisition-related
+sections of the Small Business Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">15 U.S.C. 631</xref>, et seq.), applicable sections of the Armed Services Procurement Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        class="- topic/xref ">15 U.S.C. 631</xref>, et
+seq.), applicable sections of the Armed Services Procurement Act
+(<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">10 U.S.C. 2302</xref>, et seq.), <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        class="- topic/xref ">10 U.S.C. 2302</xref>, et
+seq.), <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">41 U.S.C. 3104</xref>, and Executive Order 12138, May 18, 1979. It covers-</p>
+                        class="- topic/xref ">41 U.S.C. 3104</xref>, and
+Executive Order 12138, May 18, 1979. It covers-</p>
                <ol id="d1124e32" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d1152e25" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-								                The determination that a concern is eligible for participation in the programs identified in this part;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The determination
+that a concern is eligible for participation in the programs identified
+in this part;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d1152e30" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-								                The respective roles of executive agencies and the Small Business Administration (SBA) in implementing the programs;</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The respective
+roles of executive agencies and the Small Business Administration
+(SBA) in implementing the programs;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d1152e35" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-								                Setting acquisitions aside, in total or in part, for exclusive competitive participation by small business, 8(a) participants, HUBZone small business concerns, service-disabled veteran-owned small business concerns, and economically disadvantaged women-owned small business (EDWOSB) concerns and women-owned small business (WOSB) concerns eligible under the WOSB Program;</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Setting
+acquisitions aside, in total or in part, for exclusive competitive
+participation by small business, 8(a) participants, HUBZone small
+business concerns, service-disabled veteran-owned small business
+concerns, and economically disadvantaged women-owned small business
+(EDWOSB) concerns and women-owned small business (WOSB) concerns
+eligible under the WOSB Program;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d1152e40" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-								                The certificate of competency program;</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> The certificate
+of competency program;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d1152e45" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-								                The subcontracting assistance program;</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> The subcontracting
+assistance program;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d1152e50" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-								                The "8(a)" business development program (hereafter referred to as 8(a) program), under which agencies contract with the SBA for goods or services to be furnished under a subcontract by a small disadvantaged business concern;</p>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> The "8(a)"
+business development program (hereafter referred to as 8(a) program),
+under which agencies contract with the SBA for goods or services
+to be furnished under a subcontract by a small disadvantaged business
+concern;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d1152e55" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-								                The use of a price evaluation preference for HUBZone small business concerns;</p>
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph> The use
+of a price evaluation preference for HUBZone small business concerns;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d1152e60" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-								                The use of veteran-owned small business concerns;</p>
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph> The use
+of veteran-owned small business concerns;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d1152e65" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(9)</ph>
-								                Sole source awards to HUBZone small business concerns, service-disabled veteran-owned small business concerns, and EDWOSB concerns and WOSB concerns eligible under the WOSB Program; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(9)</ph> Sole source
+awards to HUBZone small business concerns, service-disabled veteran-owned
+small business concerns, and EDWOSB concerns and WOSB concerns eligible
+under the WOSB Program; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d1152e70" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(10)</ph>
-								                The use of reserves.</p>
+                        <ph props="autonumber" class="- topic/ph ">(10)</ph> The use
+of reserves.</p>
                   </li>
                </ol>
             </li>
-            <li class="- topic/li ">
+            <li props="Runin" class="- topic/li ">
                <p id="d1152e75" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-						            This part, except for <xref href="Subpart_19.6.dita#FAR_Subpart_19_6"
-                        base="i1100603"
-                        outputclass="fm:Subpart"
-                        class="- topic/xref ">subpart  19.6</xref>, applies only in the United States or its outlying areas. <xref href="Subpart_19.6.dita#FAR_Subpart_19_6"
-                        base="i1100603"
-                        outputclass="fm:Subpart"
-                        class="- topic/xref ">subpart  19.6</xref> applies worldwide.</p>
+               </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d1152e80" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph rev="FAC 2022-06 May 26, 2022" class="- topic/ph ">Unless <?FM MARKER [CaseNumber] FAR Case 2016-002?>otherwise
+specified in this <?FM MARKER [Why] Amend section 19.000 by revising paragraph (b).?>part (see <xref href="Subpart_19.6.dita#FAR_Subpart_19_6"
+                                 base="i1100603"
+                                 outputclass="fm:Text"
+                                 class="- topic/xref ">subparts  19.6</xref> and <xref href="Subpart_19.7.dita#FAR_Subpart_19_7"
+                                 base="i1100603"
+                                 outputclass="fm:Text"
+                                 class="- topic/xref ">19.7</xref>)—</ph>
+                     </p>
+                     <ol class="- topic/ol ">
+                        <li rev="FAC 2022-06 May 26, 2022" class="- topic/li ">
+                           <p id="d1152e97" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Contracting
+officers shall apply this part in the United States and its outlying
+areas; and</p>
+                        </li>
+                        <li rev="FAC 2022-06 May 26, 2022" class="- topic/li ">
+                           <p id="d1152e102" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Contracting
+officers may apply this part outside the United States and its outlying
+areas.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li rev="FAC 2022-06 May 26, 2022" class="- topic/li ">
+                     <p id="d1152e107" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Offerors
+that participate in any procurement under this part are required
+to meet the definition of “small business concern” at <xref href="2.101.dita#FAR_2_101"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">2.101</xref> and
+the definition of “concern” at <xref href="19.001.dita#FAR_19_001"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">19.001</xref>.</p>
+                  </li>
+               </ol>
             </li>
          </ol>
       </conbody>
