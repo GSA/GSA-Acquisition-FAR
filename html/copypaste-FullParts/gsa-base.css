@@ -328,13 +328,6 @@ li[class*= 'Runin'] > p{
     float:left;
     margin-bottom: 0px;
 }
-
-p[class*= 'Runin']{
-    margin-top: 0;
-    float:left;
-    margin-bottom: 0px;
-}
-
 [class *= 'Underline']:before
 {
     content: '__';
