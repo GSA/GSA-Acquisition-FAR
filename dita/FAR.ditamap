@@ -22,21 +22,9 @@
              base="NoTitle"
              xtrc="Not"
              xtrf="Volume">
-      <topicref navtitle="Federal Acquisition Regulation" href="Cover_1.dita" outputclass="subtopic" audience="Cover_1" otherprops="NoProp" base="NoTitle" xtrc="Not" xtrf="subtopic" props="Cover_1"><topicmeta><navtitle>Federal Acquisition Regulation</navtitle></topicmeta></topicref>
+      <topicref navtitle="Federal Acquisition Regulation" href="Cover_1.dita" outputclass="subtopic" audience="Cover_1" otherprops="NoProp" base="NoTitle" xtrc="Not" xtrf="subtopic"><topicmeta><navtitle>Federal Acquisition Regulation</navtitle></topicmeta></topicref>
    </topicref>
-   <topicref navtitle="Foreword"
-             href="Foreword_a.dita"
-             outputclass="Foreword"
-             props="Forward_a"
-             audience="Foreword_a"
-             otherprops="NoProp"
-             base="NoTitle"
-             xtrc="Not"
-             xtrf="Foreword">
-      <topicmeta>
-         <navtitle>Foreword</navtitle>
-      </topicmeta>
-   </topicref>
+   <topicref navtitle="Foreword" href="Foreword_a.dita" outputclass="Foreword" audience="Foreword_a" otherprops="NoProp" base="NoTitle" xtrc="Not" xtrf="Foreword"><topicmeta><navtitle>Foreword</navtitle></topicmeta></topicref>
    <topicref navtitle="List of Sections Affected FAC 2022-07 Effective August XX, 2022" href="LSATable.dita" outputclass="subtopic" type="concept" audience="lsa-d1e11" otherprops="NoProp" base="concept" xtrf="subtopic" props="LSATable"><topicmeta><navtitle>List of Sections Affected FAC 2022-04 Effective January 30,...</navtitle></topicmeta></topicref>
    <topicref navtitle="Subchapter A - General"
              href="Subchapter_A.dita"
