@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_4_402"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -11,7 +12,7 @@
       <conbody class="- topic/body  concept/conbody ">
          <ol id="d209e13" class="- topic/ol ">
             <li class="- topic/li ">
-               <p id="d211e10" class="- topic/p ">
+               <p class="- topic/p " id="d211e10">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph> Executive Order12829, January
 6, 1993 (58 FR3479, January 8, 1993), entitled "National Industrial
 Security Program" (NISP), establishes a program to safeguard Federal
@@ -23,7 +24,7 @@ Industry," as amended by Executive Order 10909, January 17, 1961
 (26 FR508, January 20, 1961).</p>
             </li>
             <li class="- topic/li ">
-               <p id="d211e15" class="- topic/p ">
+               <p class="- topic/p " id="d211e15">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph> The National
 Industrial Security Program Operating Manual (NISPOM) incorporates
 the requirements of these Executive orders. The Secretary of Defense,
@@ -34,13 +35,13 @@ Homeland Security, is responsible for issuance and maintenance of
 this Manual. The following publications implement the program:</p>
                <ol id="d209e32" class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d211e21" class="- topic/p ">
+                     <p class="- topic/p " id="d211e21">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> National
 Industrial Security Program Operating Manual (NISPOM) (32 CFR part
 117).</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="d211e26" class="- topic/p ">
+                     <p class="- topic/p " id="d211e26">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> DoD Manual
 5220.22, Volume 2, National Industrial Security Program: Industrial
 Security Procedures for Government Activities.</p>
@@ -48,7 +49,7 @@ Security Procedures for Government Activities.</p>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d211e31" class="- topic/p ">
+               <p class="- topic/p " id="d211e31">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph> Procedures
 for the protection of information relating to foreign classified
 contracts awarded to U.S. industry, and instructions for the protection
@@ -56,7 +57,7 @@ of U.S. information relating to classified contracts awarded to
 foreign firms, are prescribed in 32 CFR 117.19.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d211e36" class="- topic/p ">
+               <p class="- topic/p " id="d211e36">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph> Nondefense
 agencies that have industrial security services agreements with
 DoD, and DoD components, shall use the DD Form 254, Contract Security
@@ -66,25 +67,27 @@ requiring access to information classified as "Confidential", "Secret",
 or "Top Secret".</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="d211e42" class="- topic/p ">
+                     <p class="- topic/p " id="d211e42">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> Provided
 that the data submittal is unclassified, the DD Form 254 shall be
 completed electronically in the NISP Contract Classification System
-(NCCS), which is accessible at <ph rev="FAC 2022-06  May 1, 2022" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>
-                           <xref href="https://tesseract.cloud.dcsa.mil/nccs"
+(NCCS), which is accessible at<ph rev="FAC 2022-07 August 10, 2022" class="- topic/ph "><?FM MARKER [CaseNumber] Techncial Amendment?>
+                           <xref href="https://www.dcsa.mil/is/nccs/"
                                  format="html"
                                  scope="external"
-                                 class="- topic/xref ">https://tesseract.cloud.dcsa.mil/nccs</xref>.<?FM MARKER [Why] Amend section 4.402 by removing from paragraph (d)(1) the phrase “via the Procurement Integrated Enterprise Environment (PIEE) at https://wawf.eb.mil” and adding “https://www.dcsa.mil/is/nccs” in its place.?></ph> Nondefense
-agencies with an existing DD Form 254 information system may use
-that system.</p>
+                                 class="- topic/xref ">https://www.dcsa.mil/is/nccs/</xref>
+                           <?FM MARKER [Why] Amend section 4.402 by removing from paragraph (d)(1) the weblink “https://tesseract.cloud.dcsa.mil/nccs” and adding “https://www.dcsa.mil/is/nccs/” in its place.?>
+                        .</ph>
+Nondefense agencies with an existing DD Form 254 information system
+may use that system.</p>
                   </li>
                   <li props="Runin" class="- topic/li ">
-                     <p id="d211e54" class="- topic/p ">
+                     <p class="- topic/p " id="d211e54">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                      </p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="d211e59" class="- topic/p ">
+                           <p class="- topic/p " id="d211e59">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> A contractor,
 or subcontractor (if applicable), requiring access to classified
 information under a contract shall be identified with a Commercial
@@ -95,7 +98,7 @@ and Government Entity (CAGE) code on the DD Form 254 (see subpart <xref href="Su
 information on obtaining and validating CAGE codes).</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d211e67" class="- topic/p ">
+                           <p class="- topic/p " id="d211e67">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> Each location
 of contractor or subcontractor performance listed on the DD Form
 254 is required to reflect a corresponding unique CAGE code for
@@ -105,7 +108,7 @@ location requiring access to classified information must be listed
 on the DD Form 254.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="d211e72" class="- topic/p ">
+                           <p class="- topic/p " id="d211e72">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph> Contractor
 and subcontractor performance locations listed on the DD Form 254
 are not required to be separately registered in the System for Award
@@ -120,7 +123,7 @@ information on registering in SAM).</p>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d211e80" class="- topic/p ">
+               <p class="- topic/p " id="d211e80">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph> Part  27,
 Patents, Data, and Copyrights, contains policy and procedures for
 safeguarding classified information in patent applications and patents.</p>
