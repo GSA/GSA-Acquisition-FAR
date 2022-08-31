@@ -148,6 +148,33 @@ p[class *= 'List4']
      text-indent: 1in;
 }
 
+
+p[class *= 'List5']
+{
+     text-indent: 1.25in;
+}
+
+p[class *= 'List6']
+{
+     text-indent: 1.5in;
+}
+
+p[class *= 'List7']
+{
+     text-indent: 1.75in;
+}
+
+p[class *= 'List8']
+{
+     text-indent: 2in;
+}
+
+p[class *= 'List9']
+{
+     text-indent: 2.25in;
+}
+
+
 span[class *= 'SmallCaps'],
 span[class *= 'SmCaps']
 {
