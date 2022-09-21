@@ -8,7 +8,7 @@
 <?Fm BoolCondExpr "DITA-Topicref" State 0?>
 <?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll True?>
-<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <map title="FAR">
@@ -19,57 +19,51 @@
              otherprops="NoProp"
              base="NoTitle"
              xtrc="Not"
-             xtrf="Volume">
+             xtrf="Volume"
+             props="">
       <topicref navtitle="Federal Acquisition Regulation"
                 href="Cover_1.dita"
+                outputclass="subtopic"
                 audience="Cover_1"
                 otherprops="NoProp"
                 base="NoTitle"
-                xtrc="Not"
-                outputclass="subtopic"
-                xtrf="subtopic">
-      </topicref>
+                xtrc="Cover_1.html"
+                xtrf="subtopic"
+                props=""/>
    </topicref>
    <topicref navtitle="Foreword"
              href="Foreword_a.dita"
              outputclass="Foreword"
-             props="Forward_a"
              audience="Foreword_a"
              otherprops="NoProp"
              base="NoTitle"
              xtrc="Not"
-             xtrf="Foreword">
-   </topicref>
-   <topicref navtitle="List of Sections Affected FAC 2022-04 Effective January 30, 2022"
+             xtrf="Foreword"
+             props=""/>
+   <topicref navtitle="List of Sections Affected"
              href="LSATable.dita"
+             outputclass="subtopic"
              type="concept"
+             audience="lsa-d1e11"
              otherprops="NoProp"
              base="concept"
-             outputclass="subtopic"
              xtrf="subtopic"
-             audience="lsa-d1e11">
-   </topicref>
+             props=""/>
    
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_1.dita"
+             outputclass="subtopic"
              props="FAR_1"
              audience="FAR_1"
              otherprops="NoProp"
              base="NoTitle"
-             xtrc="Not"
-             outputclass="subtopic"
+             xtrc="FAR_1.html"
              xtrf="subtopic">
          
             
             
-            
                
                
-               
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -78,19 +72,9 @@
                
                
                
-               
-               
                   
                   
                   
-                  
-                  
-                  
-               
-               
-               
-               
-               
                
                
                
@@ -102,17 +86,10 @@
                
                   
                   
-                  
-                  
-               
                
                
             
             
-               
-               
-               
-               
                
                
                
@@ -125,23 +102,12 @@
                
                
                
-               
-               
-               
-               
-               
-               
             
             
                
                   
                   
                   
-                  
-                  
-                  
-               
-               
                
                
                
@@ -149,10 +115,6 @@
             
                
                
-               
-                  
-                  
-                  
                   
                   
                   
@@ -162,11 +124,6 @@
                   
                   
                   
-                  
-                  
-                  
-                  
-               
                
                
             
@@ -179,7 +136,144 @@
                
                
                
+            
+         
+         
+            
+            
                
+            
+            
+               
+            
+         
+         
+            
+            
+               
+                  
+                  
+                  
+               
+               
+               
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+            
+            
+               
+               
+               
+               
+            
+            
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+               
+               
+            
+            
+               
+                  
+                  
+               
+               
+                  
+                  
+                  
+               
+               
+                  
+                  
+               
+            
+            
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+               
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+               
+            
+            
+               
+               
+               
+               
+               
+            
+            
                
                
                
@@ -195,278 +289,20 @@
             
                
                
-            
-            
-               
-               
-            
-         
-         
-            
-            
-            
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-               
-            
-            
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-         
-         
-            
-            
-            
-            
-            
                
-               
-               
-               
-               
-               
             
             
                
                
                
-               
-               
-               
             
             
-               
-               
-               
                
                
                
                
-               
             
             
-               
-               
-               
-               
                
                
                
@@ -476,14 +312,8 @@
                
                
                
-               
-               
-               
             
             
-               
-               
-               
                
                
                
@@ -492,18 +322,8 @@
                
                
                
-               
-               
-               
-               
-               
             
             
-               
-               
-               
-               
-               
                
                
                
@@ -513,91 +333,53 @@
                   
                   
                   
-                  
-                  
-                  
                
             
             
-               
-               
                
                
                
                
                
-               
-               
-                  
-                  
-                  
-                  
                   
                   
                   
                   
                   
-                  
-               
                
                
             
             
-               
-               
-               
                
                
                
                
                
                
-               
-               
-               
             
             
-               
-               
-               
                
                
                
                
                
                
-               
-               
                   
                   
-                  
-                  
-               
                
                
                
                
-               
-               
             
             
-               
-               
-               
-               
                
                
                
                
                
                
-               
-               
             
             
-               
-               
-               
                
                
                
@@ -607,25 +389,14 @@
                
                
                
-               
-               
-               
-               
             
             
-               
-               
                
                
                
                
-               
-               
             
             
-               
-               
-               
                
                
                
@@ -635,62 +406,34 @@
                
                
                
-               
-               
-               
-               
             
             
-               
-               
                
                
                
                
                
                
-               
-               
-               
-               
             
             
-               
                
                
                
                
                
-               
-               
-               
-               
             
             
-               
-               
                
                
                
-               
             
             
-               
-               
-               
-               
                
                
                
                
             
             
-               
-               
-               
-               
-               
-               
                
                
                
@@ -704,12 +447,12 @@
    
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_2.dita"
+             outputclass="subtopic"
              props="FAR_2"
              audience="FAR_2"
              otherprops="NoProp"
              base="NoTitle"
-             xtrc="Not"
-             outputclass="subtopic"
+             xtrc="FAR_2.html"
              xtrf="subtopic">
          
             
@@ -717,23 +460,10 @@
             
             
             
-            
-            
-            
-            
-               
-               
                
                
             
             
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -746,9 +476,84 @@
                
                
                
+            
+            
                
                
                
+               
+                  
+                  
+               
+               
+               
+            
+            
+               
+               
+               
+               
+            
+            
+               
+            
+            
+               
+               
+               
+               
+               
+            
+         
+         
+            
+            
+            
+            
+            
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            
+            
+               
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+               
+               
+               
+            
+            
+               
+            
+            
+               
+               
+            
+         
+         
             
             
                
@@ -762,6 +567,12 @@
                   
                   
                   
+                  
+                  
+               
+               
+            
+            
                
                
                
@@ -775,12 +586,6 @@
                
                
                
-               
-               
-            
-            
-               
-               
             
             
                
@@ -788,7 +593,8 @@
                
                
                
-               
+            
+            
                
                
                
@@ -803,6 +609,36 @@
             
             
             
+               
+               
+               
+               
+            
+            
+            
+            
+               
+               
+               
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
             
             
                
@@ -821,62 +657,6 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-            
-            
-               
-               
-            
-            
-               
-               
-               
-               
-            
-         
-         
-            
             
             
                
@@ -885,42 +665,10 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
                   
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
                
                
                
@@ -938,18 +686,10 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
             
             
-               
-               
-               
+            
+            
                
                
                
@@ -960,35 +700,6 @@
          
             
             
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-            
-            
-            
-            
-               
-               
-               
-               
                
                
                
@@ -1001,8 +712,20 @@
                   
                   
                   
+               
+               
                   
                   
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+               
                   
                   
                   
@@ -1015,10 +738,8 @@
                   
                   
                   
-                  
-                  
-                  
-                  
+               
+               
                   
                   
                   
@@ -1034,9 +755,9 @@
                
                
                
-               
-               
-               
+                  
+                  
+                  
                
                
             
@@ -1049,165 +770,6 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-            
-            
-            
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-         
-         
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                   
                   
                
@@ -1219,14 +781,17 @@
                
                
                
-               
-               
-               
-               
-               
+                  
+                  
                
                
                   
+                  
+                  
+                  
+                  
+               
+               
                   
                   
                   
@@ -1243,57 +808,6 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -1301,6 +815,8 @@
                
                
                
+                  
+                  
                
                
             
@@ -1309,47 +825,8 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
             
             
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
                
                
                
@@ -1360,26 +837,12 @@
             
             
             
-            
-            
-            
-            
          
          
             
             
             
             
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -1393,6 +856,20 @@
                
                
                
+            
+            
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+            
+            
                
                
                
@@ -1404,52 +881,13 @@
                
                
                
-               
-               
-               
             
             
                
                
                
-               
-               
-               
-               
-               
             
             
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-            
-            
-               
                
             
          
@@ -1457,32 +895,11 @@
             
             
             
-            
-            
-               
-               
-               
                
                
                
             
             
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -1505,6 +922,8 @@
                
                
                
+            
+            
                
                
                
@@ -1517,27 +936,8 @@
                
                
                
-               
-               
             
             
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
                
                
                
@@ -1548,12 +948,12 @@
    
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_3.dita"
+             outputclass="subtopic"
              props="FAR_3"
              audience="FAR_3"
              otherprops="NoProp"
              base="NoTitle"
-             xtrc="Not"
-             outputclass="subtopic"
+             xtrc="FAR_3.html"
              xtrf="subtopic">
          
             
@@ -1564,27 +964,12 @@
             
             
             
-            
-            
-            
-            
-            
-            
-            
                
                
                
                
                
                
-               
-               
-               
-               
-               
-                  
-                  
-                  
                   
                   
                   
@@ -1594,6 +979,98 @@
                
                
                
+            
+            
+               
+               
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+               
+            
+            
+               
+               
+               
+               
+            
+            
+               
+               
+            
+         
+         
+            
+            
+               
+               
+               
+                  
+                  
+               
+               
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            
+            
+               
                
                
                
@@ -1605,9 +1082,18 @@
                   
                   
                   
+               
+               
+               
                   
                   
                   
+                  
+                  
+               
+               
+               
+               
                   
                   
                   
@@ -1622,9 +1108,40 @@
                   
                   
                   
+               
+               
+                  
+                  
+               
+            
+            
+               
+               
+               
+                  
+                  
+               
+            
+         
+         
+            
+            
+            
+            
+               
+               
                   
                   
                   
+               
+               
+            
+            
+               
+               
+               
+               
+               
                   
                   
                   
@@ -1632,16 +1149,6 @@
                   
                
                
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                
                
                
@@ -1651,6 +1158,223 @@
             
                
                
+               
+               
+               
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+               
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+               
+               
+            
+            
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+               
+               
+                  
+                  
+               
+               
+               
+               
+            
+         
+         
+            
+            
+            
+               
+               
+               
+               
+               
+            
+            
+               
+               
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+               
+               
+               
+               
+               
+               
+               
+            
+            
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+               
+               
+               
+                  
+                  
+               
+               
+            
+            
+               
+               
+                  
+                  
+               
+               
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+                  
+                  
+                  
+                  
+               
+            
+            
+               
+               
+               
+            
+         
+         
+            
+            
+               
+               
+               
+               
+               
+                  
+                  
+               
+               
+                  
+                  
+                  
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            
+            
+            
+               
+               
+               
+            
+            
+               
+               
+               
+                  
+                  
+               
+               
+               
+            
+            
                
                
                
@@ -1674,684 +1398,30 @@
                
                
                
-                  
-                  
-                  
-                  
                
                
                
                
                
-            
-            
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-               
-            
-            
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-            
-         
-         
-            
-            
-            
-            
-            
-            
-            
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-            
-         
-         
-            
-            
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                
                
                
                
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                
                
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                
                
-                  
-                  
-                  
-                  
-                  
-                  
                
-            
-            
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
-            
-            
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-            
-            
-               
-               
-               
-               
-               
-               
-            
-         
-         
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
                
                
-            
-            
-            
-            
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-            
-         
-         
-            
-            
-            
-            
-            
                
                
                
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
             
             
-               
-               
-               
-               
-               
                
                
                
@@ -2364,22 +1434,17 @@
    
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_4.dita"
+             outputclass="subtopic"
              props="FAR_4"
              audience="FAR_4"
              otherprops="NoProp"
              base="NoTitle"
-             xtrc="Not"
-             outputclass="subtopic"
+             xtrc="FAR_4.html"
              xtrf="subtopic">
          
             
             
             
-            
-            
-               
-               
-               
                
                
                
@@ -2387,20 +1452,12 @@
             
                
                
-               
                   
                   
                   
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
-               
                
                
             
@@ -2409,17 +1466,6 @@
                   
                   
                   
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -2434,14 +1480,10 @@
                
                
                
-               
-               
-               
             
             
                
                
-               
                   
                   
                   
@@ -2452,21 +1494,6 @@
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
                
                
                
@@ -2477,11 +1504,6 @@
             
                
                
-               
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -2494,10 +1516,6 @@
                
                
                
-               
-               
-               
-               
                   
                   
                   
@@ -2505,16 +1523,6 @@
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
                
                
                
@@ -2526,16 +1534,6 @@
                
                
                
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -2546,31 +1544,19 @@
                
                   
                   
-                  
-                  
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
                
                
                
                
                   
                   
+               
+               
                   
+                  
+               
+               
+               
                   
                   
                   
@@ -2580,15 +1566,6 @@
                
                
                
-               
-               
-               
-               
-               
-            
-            
-            
-            
             
             
             
@@ -2604,23 +1581,8 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
             
             
-               
-               
-               
-               
-               
-               
                
                
                
@@ -2635,22 +1597,11 @@
                 audience="FAR_19_1407"
                 otherprops="NoProp"
                 base="concept"
-                xtrc="Not"
-                xtrf="subtopic">
-               </topicref>
-               
+                xtrc="FAR_19_1407.html"
+                xtrf="subtopic"/>
                
             
             
-               
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -2665,23 +1616,9 @@
          
          
          
-         
-         
             
             
             
-            
-            
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
                
                   
                   
@@ -2691,9 +1628,8 @@
                
                   
                   
-                  
-                  
-                  
+               
+               
                   
                   
                   
@@ -2704,16 +1640,8 @@
             
                
                
-               
-               
             
             
-               
-               
-               
-               
-               
-               
                
                
                
@@ -2726,15 +1654,6 @@
                
                
                
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -2755,19 +1674,6 @@
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
                
                
                
@@ -2784,29 +1690,10 @@
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
                
                
             
             
-               
-               
-               
-               
-               
                
                
                
@@ -2818,19 +1705,8 @@
                
                
                
-               
-               
-               
                   
                   
-                  
-                  
-               
-               
-               
-               
-               
-               
                
                
                
@@ -2841,11 +1717,6 @@
             
             
             
-            
-               
-               
-               
-               
                
                
                
@@ -2853,14 +1724,6 @@
                
                   
                   
-                  
-                  
-               
-               
-               
-               
-               
-               
                
                
                
@@ -2872,21 +1735,11 @@
             
                
                
-               
-               
             
             
                
                
                
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -2902,17 +1755,6 @@
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
                
                
                
@@ -2921,22 +1763,6 @@
                
                   
                   
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
                
                
                   
@@ -2947,16 +1773,8 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
+                  
+                  
                
                
                
@@ -2977,24 +1795,9 @@
                
                
                
-               
-               
-               
             
             
             
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -3017,9 +1820,8 @@
                
                
                
-               
-               
-               
+            
+            
                
                
                
@@ -3034,8 +1836,16 @@
                
                
                
+            
+            
                
                
+               
+               
+               
+               
+            
+            
                
                
                
@@ -3049,66 +1859,9 @@
                
                
                
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
             
             
             
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -3127,14 +1880,6 @@
             
             
             
-            
-            
-            
-               
-               
-               
-               
-               
                
                
                
@@ -3142,55 +1887,6 @@
                
             
             
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -3213,16 +1909,8 @@
                
                
                
-               
-               
-               
-               
-               
             
             
-               
-               
-               
                
                
                
@@ -3234,20 +1922,8 @@
             
                
                
-               
-               
-               
-               
-               
-               
             
             
-               
-               
-               
-               
-               
-               
                
                
                
@@ -3261,6 +1937,22 @@
                
                
                
+            
+            
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+               
+            
+            
                
                
                
@@ -3271,11 +1963,6 @@
          
             
             
-            
-               
-               
-               
-               
                
                
                
@@ -3285,13 +1972,8 @@
                
                
                
-               
-               
-               
             
             
-               
-               
                
                
             
@@ -3302,16 +1984,6 @@
             
             
             
-            
-            
-            
-            
-               
-               
-               
-               
-               
-               
                
                
                
@@ -3327,13 +1999,6 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
             
             
                
@@ -3341,18 +2006,8 @@
                   
                   
                   
-                  
-                  
-                  
-                  
                
                
-                  
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -3371,9 +2026,24 @@
                
                
                
+            
+            
                
                
                
+               
+                  
+                  
+                  
+                  
+               
+            
+            
+               
+               
+               
+                  
+                  
                
                
                
@@ -3385,14 +2055,12 @@
                
                
                
-               
-               
-               
-               
                   
                   
                   
                   
+               
+               
                   
                   
                   
@@ -3401,50 +2069,6 @@
             
             
                
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                
             
             
@@ -3457,24 +2081,8 @@
                
                
                
-               
-               
-               
-               
-               
             
             
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
                
                
                
@@ -3487,20 +2095,11 @@
                
                
                
-               
-               
-               
-               
-               
             
             
                
                
                
-               
-               
-                  
-                  
                   
                   
                
@@ -3508,10 +2107,6 @@
                
                
                
-               
-               
-               
-               
             
             
                
@@ -3519,18 +2114,8 @@
                
                
                
-               
-               
-               
-               
-               
             
             
-               
-               
-               
-               
-               
                
                
                
@@ -3543,30 +2128,23 @@
    
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_5.dita"
+             outputclass="subtopic"
              props="FAR_5"
              audience="FAR_5"
              otherprops="NoProp"
              base="NoTitle"
-             xtrc="Not"
-             outputclass="subtopic"
+             xtrc="FAR_5.html"
              xtrf="subtopic">
          
             
             
             
-            
-            
-               
-               
                
                
             
             
                
                
-               
-                  
-                  
                   
                   
                
@@ -3576,21 +2154,12 @@
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
                
                
                   
                   
-                  
-                  
                
                
-                  
-                  
                   
                   
                
@@ -3601,14 +2170,6 @@
                
                
                
-               
-               
-               
-               
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -3619,12 +2180,95 @@
                   
                   
                   
+               
+               
+            
+            
+               
+               
+               
+               
+               
+                  
+                  
                   
                   
                   
                   
                
                
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+               
+               
+               
+               
+            
+            
+               
+            
+         
+         
+            
+            
+            
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+               
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+            
+            
+               
+               
+               
+               
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
                
             
             
@@ -3635,36 +2279,6 @@
                
                
                
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
                   
                   
                
@@ -3672,10 +2286,9 @@
                
                
                
+                  
+                  
                
-               
-            
-            
                
                
             
@@ -3684,63 +2297,12 @@
             
             
             
+               
             
             
                
                
                
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                
             
             
@@ -3750,10 +2312,31 @@
                
                
                
+            
+            
                
                   
                   
                   
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+            
+         
+         
+            
+            
+            
+               
+               
+            
+            
+               
                   
                   
                   
@@ -3774,33 +2357,12 @@
                
             
             
+            
+            
+            
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
                   
                   
                
@@ -3815,22 +2377,6 @@
             
             
             
-            
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
                
                
                
@@ -3852,32 +2398,10 @@
                   
                   
                   
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-            
-         
-         
-            
-            
-            
-            
-            
                
                
                
                
-            
-            
                
                   
                   
@@ -3893,8 +2417,28 @@
                   
                   
                   
-               
-               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
                   
                   
                   
@@ -3914,27 +2458,18 @@
                
             
             
+               
+               
+               
             
             
             
             
+               
+               
+               
             
             
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
                
                
                
@@ -3953,215 +2488,10 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-            
-            
-               
-               
-               
-               
-               
-               
             
             
             
             
-            
-            
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-            
-         
-         
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-            
-            
-            
-            
-               
-               
                
                
             
@@ -4179,15 +2509,13 @@
                
                
                
+                  
+                  
                
                
                
-               
-               
-               
-               
-               
-               
+            
+            
                
                
                
@@ -4195,6 +2523,7 @@
                   
                   
                   
+               
                
                
                
@@ -4218,46 +2547,6 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
             
             
                
@@ -4270,24 +2559,9 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
                   
                   
                   
-                  
-                  
-                  
-               
-               
-               
                
                
                
@@ -4296,12 +2570,6 @@
             
                
                
-               
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -4309,10 +2577,6 @@
                   
                
                
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -4335,23 +2599,6 @@
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
                
                
             
@@ -4364,26 +2611,12 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
                   
                   
                
                
                   
                   
-                  
-                  
-               
-               
-               
                
                
                
@@ -4394,12 +2627,6 @@
                
                
                
-               
-               
-               
-                  
-                  
-                  
                   
                   
                   
@@ -4407,11 +2634,6 @@
                
                
                
-               
-               
-                  
-                  
-                  
                   
                   
                   
@@ -4422,6 +2644,11 @@
                
                
                
+               
+               
+               
+            
+            
                
                
                
@@ -4445,52 +2672,8 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
             
             
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -4508,14 +2691,6 @@
             
             
             
-            
-            
-               
-               
-               
-               
-               
-               
                
                
                
@@ -4524,21 +2699,6 @@
                
             
             
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -4561,12 +2721,12 @@
    
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_6.dita"
+             outputclass="subtopic"
              props="FAR_6"
              audience="FAR_6"
              otherprops="NoProp"
              base="NoTitle"
-             xtrc="Not"
-             outputclass="subtopic"
+             xtrc="FAR_6.html"
              xtrf="subtopic">
          
             
@@ -4575,17 +2735,6 @@
             
             
             
-            
-            
-            
-            
-            
-               
-               
-               
-               
-               
-               
                
                
                
@@ -4599,16 +2748,8 @@
                
                
                
-               
-               
-               
-               
-               
             
             
-               
-               
-               
                
                
                
@@ -4633,30 +2774,6 @@
             
             
             
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -4670,12 +2787,6 @@
             
             
             
-            
-            
-               
-               
-               
-               
                
                
                
@@ -4695,28 +2806,10 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
                   
                   
                   
                   
-                  
-                  
-                  
-                  
-               
-               
                
                
                
@@ -4726,42 +2819,12 @@
                
                
                
-               
-               
-               
-                  
-                  
                   
                   
                
             
             
             
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -4790,22 +2853,12 @@
             
                
                
-               
-                  
-                  
-                  
-                  
                   
                   
                   
                   
                
                
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -4819,16 +2872,6 @@
                
                
                
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -4837,6 +2880,65 @@
             
             
                
+               
+               
+            
+         
+         
+            
+            
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+                  
+                  
+               
+               
+               
+                  
+                  
+                  
+               
+            
+            
+               
+               
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+            
+            
                
                
                
@@ -4847,118 +2949,9 @@
          
             
             
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
                
             
             
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-         
-         
-            
-            
-            
-               
-               
-            
-            
-               
                
             
          
@@ -4967,15 +2960,6 @@
             
             
             
-            
-            
-            
-               
-               
-               
-               
-               
-               
                
                
                
@@ -4984,11 +2968,6 @@
                
             
             
-               
-               
-               
-               
-               
                
                
                
@@ -4998,35 +2977,6 @@
          
          
          
-         
-            
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-            
             
                
                
@@ -5036,6 +2986,13 @@
             
                
                
+               
+               
+               
+               
+            
+            
+               
             
             
                
@@ -5043,7 +3000,11 @@
             
             
                
+            
+            
                
+            
+            
                
                
             
@@ -5053,12 +3014,12 @@
    
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_7.dita"
+             outputclass="subtopic"
              props="FAR_7"
              audience="FAR_7"
              otherprops="NoProp"
              base="NoTitle"
-             xtrc="Not"
-             outputclass="subtopic"
+             xtrc="FAR_7.html"
              xtrf="subtopic">
          
             
@@ -5066,13 +3027,6 @@
             
             
             
-            
-            
-            
-            
-               
-               
-               
                
                
                
@@ -5081,12 +3035,12 @@
                
                
                
-               
+            
+            
                
                
             
             
-               
                
                
                
@@ -5096,25 +3050,14 @@
                
                
                
+                  
+                  
+                  
+               
                
                
             
             
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
                
                
                
@@ -5124,30 +3067,11 @@
                
                
                
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
                   
                   
                
                
                
-               
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -5158,16 +3082,6 @@
                
                
                
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -5182,16 +3096,8 @@
                
                
                
-               
-               
-               
-               
             
             
-               
-               
-               
-               
                
                
                
@@ -5199,14 +3105,6 @@
             
             
             
-            
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -5222,19 +3120,8 @@
                
                
                
-               
-               
-               
-               
-               
-               
             
             
-               
-               
-               
-               
-               
                
                
                
@@ -5243,12 +3130,6 @@
             
             
             
-            
-               
-               
-               
-               
-               
                
                
                
@@ -5257,24 +3138,14 @@
             
             
                
-               
             
             
-               
                
             
          
          
             
             
-            
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -5289,180 +3160,22 @@
                
                
                
-               
-               
-               
-               
-               
             
             
-               
                
             
          
          
             
             
-            
-               
                
             
             
                
                   
                   
-                  
-                  
                
                
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-            
-         
-         
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-            
-         
-         
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
                   
                   
                
@@ -5475,347 +3188,6 @@
                
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-         
-         
-            
-            
-            
-            
-            
-            
-            
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-               
-            
-            
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-            
-            
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-         
-         
-            
-            
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -5833,83 +3205,68 @@
          
             
             
+               
+               
+               
+               
+               
+               
+               
             
             
+               
+               
             
             
+               
+               
+               
+            
+            
+               
+               
+            
+            
+               
+               
+               
+            
+            
+               
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+               
+            
+         
+         
+            
             
                
                
                
                
                
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
+            
+            
                
                
                   
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
                
                
             
@@ -5922,73 +3279,6 @@
                
                
                
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-               
-            
-            
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                
                
                
@@ -6008,11 +3298,113 @@
                
                
                
+            
+            
+               
+               
+               
                
                
             
             
                
+            
+            
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+               
+            
+         
+         
+            
+            
+            
+            
+               
+               
+               
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+               
+               
+            
+            
+               
+               
+               
+               
+               
+               
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+               
+            
+            
+               
+               
+                  
+                  
+                  
+               
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
                   
                   
                   
@@ -6029,19 +3421,6 @@
                   
                   
                   
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -6050,6 +3429,24 @@
                   
                   
                
+               
+                  
+                  
+                  
+               
+            
+            
+               
+               
+               
+                  
+                  
+                  
+               
+               
+               
+            
+            
                
                
                
@@ -6067,69 +3464,15 @@
                
                
                
-                  
-                  
-                  
-                  
-                  
-                  
-               
                
                   
                   
                   
                   
-                  
-                  
                
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                
             
             
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
                
                
             
@@ -6138,18 +3481,44 @@
             
             
             
+            
                
                
                
                
                
                
+                  
+                  
+                  
+                  
                
                
                
                
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
                
                
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+               
+               
+                  
+                  
                
                
                
@@ -6162,6 +3531,144 @@
                
                
                
+                  
+                  
+                  
+               
+               
+               
+            
+            
+               
+               
+               
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+               
+               
+                  
+                  
+               
+            
+            
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+               
+               
+               
+            
+            
+               
+               
+               
+               
+               
+            
+            
+               
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+               
+               
+               
+            
+         
+         
+            
+            
+               
+               
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+            
+            
+               
+               
+               
+               
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+            
+         
+         
+            
+            
+               
+               
+               
+               
+               
+               
+               
+               
+            
+            
                
                
                
@@ -6183,14 +3690,13 @@
              xtrf="Volume">
       <topicref navtitle="Federal Acquisition Regulation"
                 href="Cover_2.dita"
+                outputclass="subtopic"
                 props="Cover_2"
                 audience="id1617M0U0WLJ"
                 otherprops="NoProp"
                 base="NoTitle"
-                xtrc="Not"
-                outputclass="subtopic"
-                xtrf="subtopic">
-      </topicref>
+                xtrc="id1617M0U0WLJ.html"
+                xtrf="subtopic"/>
    </topicref>
    <topicref navtitle="Foreword"
              href="Foreword_b.dita"
@@ -6200,30 +3706,20 @@
              otherprops="NoProp"
              base="NoTitle"
              xtrc="Not"
-             xtrf="Foreword">
-   </topicref>
+             xtrf="Foreword"/>
    
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_8.dita"
+             outputclass="subtopic"
              props="FAR_8"
              audience="FAR_8"
              otherprops="NoProp"
              base="NoTitle"
-             xtrc="Not"
-             outputclass="subtopic"
+             xtrc="FAR_8.html"
              xtrf="subtopic">
          
             
             
-            
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -6237,623 +3733,9 @@
                
                
                
-               
-               
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
+               
+               
                   
                   
                   
@@ -6875,11 +3757,6 @@
                   
                
                
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -6906,21 +3783,10 @@
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
+               
                
                
+               
                   
                   
                   
@@ -6929,7 +3795,6 @@
                   
                
                
-                  
                   
                   
                   
@@ -6939,6 +3804,8 @@
                   
                   
                   
+               
+               
                   
                   
                   
@@ -6953,7 +3820,11 @@
                   
                   
                   
+               
+               
                   
+               
+               
                   
                   
                   
@@ -6972,11 +3843,15 @@
                   
                   
                   
+               
+               
                   
                   
                   
                   
                   
+               
+               
                   
                   
                   
@@ -6995,8 +3870,6 @@
                   
                   
                   
-               
-               
                   
                   
                   
@@ -7020,6 +3893,8 @@
                   
                   
                   
+               
+               
                   
                   
                   
@@ -7045,8 +3920,6 @@
                   
                
                
-                  
-                  
                   
                   
                   
@@ -7090,6 +3963,9 @@
                   
                   
                   
+               
+               
+               
                   
                   
                   
@@ -7109,8 +3985,6 @@
                   
                   
                   
-               
-               
                   
                   
                   
@@ -7129,9 +4003,6 @@
                
                
                
-                  
-                  
-                  
                   
                   
                   
@@ -7194,7 +4065,8 @@
                   
                   
                   
-                  
+               
+               
                   
                   
                   
@@ -7209,8 +4081,6 @@
                   
                   
                   
-               
-               
                   
                   
                   
@@ -7221,16 +4091,9 @@
                   
                
                
-                  
-                  
-                  
                   
                   
                   
-                  
-                  
-               
-               
                
                
                   
@@ -7259,13 +4122,16 @@
                   
                   
                   
-                  
+               
+               
                   
                   
                   
                   
                   
                   
+               
+               
                   
                   
                   
@@ -7291,9 +4157,6 @@
                   
                
                
-                  
-                  
-                  
                   
                   
                   
@@ -7309,30 +4172,10 @@
                   
                   
                   
-                  
-                  
-               
-               
-               
-               
                   
                   
-               
-               
                
                
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -7356,7 +4199,9 @@
                   
                   
                   
-                  
+               
+               
+               
                   
                   
                   
@@ -7383,8 +4228,6 @@
                   
                   
                   
-               
-               
                   
                   
                   
@@ -7401,40 +4244,19 @@
                   
                
                
-                  
-                  
                   
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
                
                
-                  
-                  
                   
                   
                   
                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                
                
+               
                   
                   
                   
@@ -7463,6 +4285,8 @@
                   
                   
                   
+               
+               
                   
                   
                   
@@ -7473,7 +4297,13 @@
                   
                   
                   
+               
+               
+               
                   
+               
+               
+               
                   
                   
                   
@@ -7489,9 +4319,6 @@
                   
                
                
-                  
-                  
-                  
                   
                   
                   
@@ -7509,6 +4336,8 @@
                   
                   
                   
+               
+               
                   
                   
                   
@@ -7516,12 +4345,16 @@
                   
                   
                   
+               
+               
                   
                   
                   
                   
                   
                   
+               
+               
                   
                   
                   
@@ -7531,6 +4364,8 @@
                   
                   
                   
+               
+               
                   
                   
                   
@@ -7557,6 +4392,8 @@
                   
                   
                   
+               
+               
                   
                   
                   
@@ -7627,25 +4464,11 @@
                   
                
                
-                  
-                  
                   
                   
                   
-                  
                
                
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -7660,16 +4483,8 @@
                   
                   
                   
-                  
-                  
-                  
                
                
-                  
-                  
-                  
-                  
-                  
                   
                   
                   
@@ -7679,34 +4494,22 @@
                
                   
                   
-                  
-                  
                
                
-                  
-                  
                   
                   
                   
                   
                   
                   
-                  
-                  
-                  
-                  
                
                
-                  
                   
                
             
             
                
                
-               
-                  
-                  
                   
                   
                
@@ -7716,20 +4519,6 @@
             
             
             
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -7746,41 +4535,7 @@
             
                
                
-               
                   
-                  
-               
-               
-               
-               
-               
-               
-                  
-                  
-                  
-                  
-               
-               
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -7790,6 +4545,11 @@
                
                
                   
+               
+               
+               
+               
+               
                   
                
                
@@ -7798,18 +4558,10 @@
                
                
                
+                  
                
                
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
+                  
                
                
                
@@ -7833,13 +4585,6 @@
                
                   
                   
-                  
-                  
-               
-               
-               
-               
-               
                
                
                
@@ -7848,16 +4593,6 @@
                
                
                   
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-               
                
                
                
@@ -7870,7 +4605,6 @@
                
             
             
-               
                
             
          
@@ -7884,6 +4618,5 @@
              otherprops="NoProp"
              base="NoTitle"
              xtrc="Not"
-             xtrf="Corrections">
-   </topicref>
+             xtrf="Corrections"/>
 </map>
