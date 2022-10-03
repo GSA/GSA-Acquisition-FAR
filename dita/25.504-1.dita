@@ -1,155 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_25_504_1"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_25_504_1">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">25.504-1</ph> Buy American statute.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d1635e13" class="- topic/ol ">
-            <li props="Runin" class="- topic/li ">
+      <conbody>
+         <ol id="d1635e13">
+            <li props="Runin">
                <p class="- topic/p " id="d1657e10">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                </p>
-               <ol id="d1635e23" class="- topic/ol ">
-                  <li class="- topic/li ">
+               <ol id="d1635e23">
+                  <li>
                      <p class="- topic/p " id="d1657e15">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <i class="+ topic/ph hi-d/i ">Example
+                        <i>Example
 1</i>.</p>
-                     <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
-                        <tgroup cols="3"
-                                colsep="1"
-                                rowsep="1"
-                                outputclass="Notitle_rule"
-                                class="- topic/tgroup ">
-                           <colspec colnum="1" colname="1" colwidth="19*" class="- topic/colspec "/>
-                           <colspec colnum="2" colname="2" colwidth="21*" class="- topic/colspec "/>
-                           <colspec colnum="3" colname="3" colwidth="60*" class="- topic/colspec "/>
-                           <tbody class="- topic/tbody ">
-                              <row rowsep="1" class="- topic/row ">
-                                 <entry colname="1" class="- topic/entry ">Offer A</entry>
-                                 <entry colname="2" class="- topic/entry "> 
+                     <table frame="all" colsep="1" rowsep="1">
+                        <tgroup cols="3" colsep="1" rowsep="1" outputclass="Notitle_rule">
+                           <colspec colnum="1" colname="1" colwidth="19*" rowheader="headers"/>
+                           <colspec colnum="2" colname="2" colwidth="21*" rowheader="headers"/>
+                           <colspec colnum="3" colname="3" colwidth="60*" rowheader="headers"/>
+                           <tbody>
+                              <row rowsep="1">
+                                 <entry colname="1">Offer A</entry>
+                                 <entry colname="2"> 
                                     $16,000
                                  </entry>
-                                 <entry colname="3" class="- topic/entry ">Domestic end product, small business</entry>
+                                 <entry colname="3">Domestic end product, small business</entry>
                               </row>
-                              <row rowsep="1" class="- topic/row ">
-                                 <entry colname="1" class="- topic/entry ">Offer B</entry>
-                                 <entry colname="2" class="- topic/entry "> 
+                              <row rowsep="1">
+                                 <entry colname="1">Offer B</entry>
+                                 <entry colname="2"> 
                                     $15,700
                                  </entry>
-                                 <entry colname="3" class="- topic/entry ">Domestic end product, small business</entry>
+                                 <entry colname="3">Domestic end product, small business</entry>
                               </row>
-                              <row rowsep="0" class="- topic/row ">
-                                 <entry colname="1" class="- topic/entry ">Offer C</entry>
-                                 <entry colname="2" class="- topic/entry ">$10,000</entry>
-                                 <entry colname="3" class="- topic/entry ">U.S.-made end product (not domestic), small
-business</entry>
+                              <row rowsep="0">
+                                 <entry colname="1">
+                                    <ph rev="FAC 2022-05 October 25, 2022">Offer
+                                       C</ph>
+                                 </entry>
+                                 <entry colname="2">
+                                    <ph rev="FAC 2022-05 October 25, 2022"
+                                       ><?FM MARKER [CaseNumber] FAR Case 2021-008?>$10,100<?FM MARKER [Why] Amend section 25.504-1 by—   a. In the table in paragraph (a)(1), revising the entry for “Offer C”;?></ph>
+                                 </entry>
+                                 <entry colname="3">
+                                    <ph rev="FAC 2022-05 October 25, 2022">U.S.-made
+                                       end product (not domestic), small business</ph>
+                                 </entry>
                               </row>
                            </tbody>
                         </tgroup>
                      </table>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d1657e49">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <i class="+ topic/ph hi-d/i ">Analysis:</i> This
-acquisition is for end products for use in the United States and
-is set aside for small business concerns. The Buy American statute
-applies. Since the acquisition value is less than $25,000 and the
-acquisition is set aside, none of the trade agreements apply. Perform
-the steps in <xref href="25.502.dita#FAR_25_502"
-                              base="i1091565"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">25.502</xref>(a). Offer C is
-evaluated as a foreign end product because it is the product of
-a small business, but is not a domestic end product (see <xref href="25.502.dita#FAR_25_502"
-                              base="i1091565"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">25.502</xref>(c)(4)). Since Offer
-B is a domestic offer, apply the 30 percent factor
-to Offer C (see <xref href="25.105.dita#FAR_25_105"
-                              base="i1093701"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">25.105</xref>(b)(2)). The resulting
-evaluated price of $13,000 remains
-lower than Offer B. The cost of Offer B is therefore unreasonable
-(see <xref href="25.105.dita#FAR_25_105"
-                              base="i1093701"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">25.105</xref>(c)). Award on Offer
-C at $10,000 (see <xref href="25.502.dita#FAR_25_502"
-                              base="i1091565"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">25.502</xref>(c)(4)(i)).</p>
+                        <ph rev="FAC 2022-05 October 25, 2022"><?FM MARKER [CaseNumber] FAR Case 2021-008?>
+                           <i>Analysis:</i> This
+                           acquisition is for end products for use in the United States and is set
+                           aside for small business concerns. The Buy American statute applies.
+                           Since the acquisition value is less than $25,000 and the acquisition is
+                           set aside, none of the trade agreements apply. Perform the steps in <xref href="25.502.dita#FAR_25_502" outputclass="fm:ParaNumOnly">25.502</xref>(a). Offer C is of 50 percent domestic content,
+                           therefore Offer C is evaluated as a foreign end product, because it is
+                           the product of a small business but is not a domestic end product (
+                              <i>see</i>
+                           <xref href="25.502.dita#FAR_25_502" outputclass="fm:ParaNumOnly">25.502</xref>(c)(4)). Since Offer B is a domestic offer, apply the 30
+                           percent factor to Offer C ( <i>see</i>
+                           <xref href="25.106.dita#FAR_25_106" outputclass="fm:ParaNumOnly">25.106</xref>(b)(2)). The resulting evaluated price of $13,130
+                           remains lower than Offer B. The cost of Offer B is therefore unreasonable
+                           ( <i>see</i>
+                           <xref href="25.106.dita#FAR_25_106" outputclass="fm:ParaNumOnly">25.106</xref>(b)(1)(ii)). The <xref href="25.106.dita#FAR_25_106" outputclass="fm:ParaNumOnly">25.106</xref>(b)(2) procedures do not
+                           apply. Award on Offer C at $10,100 ( <i>see</i>
+                           <xref href="25.502.dita#FAR_25_502" outputclass="fm:ParaNumOnly">25.502</xref>(c)(4)(i)).<?FM MARKER [Why] b. Revising paragraph (a)(2); and?></ph>
+                     </p>
                   </li>
                </ol>
             </li>
-            <li props="Runin" class="- topic/li ">
+            <li props="Runin">
                <p class="- topic/p " id="d1657e72">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                </p>
-               <ol id="d1635e126" class="- topic/ol ">
-                  <li class="- topic/li ">
+               <ol id="d1635e126">
+                  <li>
                      <p class="- topic/p " id="d1657e77">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <i class="+ topic/ph hi-d/i ">Example
+                        <i>Example
 2</i>.</p>
-                     <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
-                        <tgroup cols="3"
-                                colsep="1"
-                                rowsep="1"
-                                outputclass="Notitle_rule"
-                                class="- topic/tgroup ">
-                           <colspec colnum="1" colname="1" colwidth="18*" class="- topic/colspec "/>
-                           <colspec colnum="2" colname="2" colwidth="19*" class="- topic/colspec "/>
-                           <colspec colnum="3" colname="3" colwidth="63*" class="- topic/colspec "/>
-                           <tbody class="- topic/tbody ">
-                              <row rowsep="1" class="- topic/row ">
-                                 <entry colname="1" class="- topic/entry ">Offer A</entry>
-                                 <entry colname="2" class="- topic/entry ">$11,000</entry>
-                                 <entry colname="3" class="- topic/entry ">Domestic end product, small business</entry>
+                     <table frame="all" colsep="1" rowsep="1">
+                        <tgroup cols="3" colsep="1" rowsep="1" outputclass="Notitle_rule">
+                           <colspec colnum="1" colname="1" colwidth="18*" rowheader="headers"/>
+                           <colspec colnum="2" colname="2" colwidth="19*" rowheader="headers"/>
+                           <colspec colnum="3" colname="3" colwidth="63*" rowheader="headers"/>
+                           <tbody>
+                              <row rowsep="1">
+                                 <entry colname="1">Offer A</entry>
+                                 <entry colname="2">$11,000</entry>
+                                 <entry colname="3">Domestic end product, small business</entry>
                               </row>
-                              <row rowsep="1" class="- topic/row ">
-                                 <entry colname="1" class="- topic/entry ">Offer B</entry>
-                                 <entry colname="2" class="- topic/entry ">$10,700</entry>
-                                 <entry colname="3" class="- topic/entry ">Domestic end product, small business</entry>
+                              <row rowsep="1">
+                                 <entry colname="1">Offer B</entry>
+                                 <entry colname="2">$10,700</entry>
+                                 <entry colname="3">Domestic end product, small business</entry>
                               </row>
-                              <row rowsep="0" class="- topic/row ">
-                                 <entry colname="1" class="- topic/entry ">Offer C</entry>
-                                 <entry colname="2" class="- topic/entry ">$10,200</entry>
-                                 <entry colname="3" class="- topic/entry ">U.S.-made end product (not domestic), small
+                              <row rowsep="0">
+                                 <entry colname="1">Offer C</entry>
+                                 <entry colname="2">$10,200</entry>
+                                 <entry colname="3">U.S.-made end product (not domestic), small
 business</entry>
                               </row>
                            </tbody>
                         </tgroup>
                      </table>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d1657e111">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <i class="+ topic/ph hi-d/i ">Analysis</i>:
+                        <i>Analysis</i>:
 This acquisition is for end products for use in the United States
 and is set aside for small business concerns. The Buy American statute
 applies. Perform the steps in <xref href="25.502.dita#FAR_25_502"
                               base="i1091565"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">25.502</xref>(a).
+                              outputclass="fm:ParaNumOnly">25.502</xref>(a).
 Offer C is evaluated as a foreign end product because it is the
 product of a small business but is not a domestic end product (see <xref href="25.502.dita#FAR_25_502"
                               base="i1091565"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">25.502</xref>(c)(4)). After applying
+                              outputclass="fm:ParaNumOnly">25.502</xref>(c)(4)). After applying
 the 30 percent  factor,
 the evaluated price of Offer C is $13,260. Award on
 Offer B at $10,700 (see <xref href="25.502.dita#FAR_25_502"
                               base="i1091565"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">25.502</xref>(c)(4)(ii)).</p>
+                              outputclass="fm:ParaNumOnly">25.502</xref>(c)(4)(ii)).</p>
+                  </li>
+               </ol>
+            </li>
+            <li props="Runin">
+               <p class="- topic/p " id="d1658e146">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+               </p>
+               <ol id="ol_fxx_fjh_1vb">
+                  <li>
+                     <p class="- topic/p " id="d1658e151">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph rev="FAC 2022-05 October 25, 2022"><?FM MARKER [CaseNumber] FAR Case 2021-008?>
+                           <i>Example
+                           3</i>.<?FM MARKER [Why] c. Adding paragraph (c).?></ph>
+                     </p>
+                     <table frame="all"
+                            rowsep="1"
+                            id="table_3_25504_1"
+                            rev="FAC 2022-05 October 25, 2022">
+                        <tgroup cols="3" colsep="1" rowsep="1" outputclass="Notitle_rule">
+                           <colspec colnum="1" colname="1" colwidth="18*" rowheader="headers"/>
+                           <colspec colnum="2" colname="2" colwidth="19*" rowheader="headers"/>
+                           <colspec colnum="3" colname="3" colwidth="63*" rowheader="headers"/>
+                           <tbody>
+                              <row rowsep="1">
+                                 <entry colname="1">Offer A</entry>
+                                 <entry colname="2">$14,000</entry>
+                                 <entry colname="3">Domestic end product (complies with the required
+                                    domestic content), small business.</entry>
+                              </row>
+                              <row rowsep="1">
+                                 <entry colname="1">Offer B</entry>
+                                 <entry colname="2">12,500</entry>
+                                 <entry colname="3">U.S.-made end product (not domestic, exceeds 55%
+                                    domestic content), small business.</entry>
+                              </row>
+                              <row rowsep="0">
+                                 <entry colname="1">Offer C</entry>
+                                 <entry colname="2">10,100</entry>
+                                 <entry colname="3">U.S.-made end product (not domestic, with less
+                                    than 55% domestic content), small business.</entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+                  <li>
+                     <p class="- topic/p " id="d1658e188">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph rev="FAC 2022-05 October 25, 2022">
+                           <i>Analysis.</i> This acquisition is
+                           for end products for use in the United States and is set aside for small
+                           business concerns. The Buy American statute applies. Since the
+                           acquisition value is less than $25,000 and the acquisition is set aside,
+                           none of the trade agreements apply. Perform the steps in <xref href="25.502.dita#FAR_25_502" outputclass="fm:ParaNumOnly">25.502</xref>(a). Offers B and C are initially evaluated as foreign
+                           end products, because they are the products of small businesses but are
+                           not domestic end products ( <i>see</i>
+                           <xref href="25.502.dita#FAR_25_502" outputclass="fm:ParaNumOnly">25.502</xref>(c)(4)). Offer C is the low offer. After applying the 30
+                           percent factor, the evaluated price of Offer C is $13,130. The resulting
+                           evaluated price of $13,130 remains lower than Offer A. The cost of Offer
+                           A is therefore unreasonable. Offer B is then treated as a domestic offer,
+                           because it is for a U.S.-made end product that exceeds 55 percent
+                           domestic content ( <i>see</i>
+                           <xref href="25.106.dita#FAR_25_106" outputclass="fm:ParaNumOnly">25.106</xref>(b)(2)). Offer B is determined reasonable because it is
+                           lower than the $13,130 evaluated price of Offer C. Award on Offer B at
+                           $12,500.</ph>
+                     </p>
                   </li>
                </ol>
             </li>

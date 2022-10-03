@@ -1,60 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_25_201"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_25_201">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">25.201</ph> Policy.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
+      <conbody>
+         <ol>
+            <li>
                <p class="- topic/p " id="d1623e10">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
                   Except as provided in <xref href="25.202.dita#FAR_25_202"
                         base="i1093069"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">25.202</xref>, use only domestic
+                        outputclass="fm:ParaNumOnly">25.202</xref>, use only domestic
 construction materials in construction contracts performed in the United
 States.
                </p>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d1623e18">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The Buy American statute restricts
-the purchase of construction materials that are not domestic construction
-materials. For manufactured construction materials, the Buy American
-statute and E.O. 13881 use a two-part test to define domestic construction
-materials.</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  The Buy American statute
+                  restricts the purchase of construction materials that are not domestic
+                  construction materials. For manufactured construction materials, the Buy American
+                     <ph rev="FAC 2022-05 October 25, 2022"><?FM MARKER [CaseNumber] FAR Case 2021-008?>statute, <xref href="https://www.federalregister.gov/executive-order/13881"
+                           format="html"
+                           scope="external">E.O. 13881,</xref> and <xref href="https://www.federalregister.gov/executive-order/14005"
+                           format="html"
+                           scope="external">E.O. 14005</xref>
+                     use<?FM MARKER [Why] Amend section 25.201 by—   a. Removing from paragraph (b) introductory text the phrase “statute and E.O. 13881 use” and adding the phrase “statute, E.O. 13881, and E.O. 14005 use” in its place;?></ph>
+                  a two-part test to define domestic construction materials.</p>
+               <ol>
+                  <li>
                      <p class="- topic/p " id="d1623e24">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
                         The article must be manufactured
 in the United States; and
                      </p>
                   </li>
-                  <li props="Runin" class="- topic/li ">
+                  <li props="Runin">
                      <p class="- topic/p " id="d1623e29">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                      </p>
-                     <ol class="- topic/ol ">
-                        <li class="- topic/li ">
+                     <ol>
+                        <li>
                            <p class="- topic/p " id="d1623e34">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Except for construction
-material that consists wholly or predominantly of iron or steel
-or a combination of both, the cost of domestic components must exceed
-55 percent of the cost of all the components. In accordance with
-41 U.S.C. 1907, this domestic content test of the Buy American statute
-has been waived for acquisitions of COTS items (see 12.505(a)).
-                           </p>
+                              <ph rev="FAC 2022-05 October 25, 2022"><?FM MARKER [CaseNumber] FAR Case 2021-008?>Except for
+                                 construction material that consists wholly or predominantly of iron
+                                 or steel or a combination of both, the cost of domestic components
+                                 must exceed 60 percent of the cost of all the components, except
+                                 that the percentage will be 65 percent for items delivered in
+                                 calendar years 2024 through 2028 and 75 percent for items delivered
+                                 starting in calendar year 2029, but see paragraph (c) of this
+                                 section.<?FM MARKER [Why] b. Revising the first sentence of paragraph (b)(2)(i); and?></ph>
+                              In accordance with 41 U.S.C. 1907, this domestic content test of the
+                              Buy American statute has been waived for acquisitions of COTS items
+                              (see 12.505(a)). </p>
                         </li>
-                        <li class="- topic/li ">
+                        <li>
                            <p class="- topic/p " id="d1623e39">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>For construction material that
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              For construction material that
 consists wholly or predominantly of iron or steel or a combination
 of both, the cost of foreign iron and steel must constitute less
 than 5 percent of the cost of all the components used in such construction
@@ -69,6 +78,41 @@ has not been waived for acquisitions of COTS items in this category,
 except for COTS fasteners.</p>
                         </li>
                      </ol>
+                  </li>
+               </ol>
+            </li>
+            <li props="Runin">
+               <p class="- topic/p " id="d1624e59">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+               </p>
+               <ol id="ol_dmw_pgg_1vb">
+                  <li>
+                     <p class="- topic/p " id="d1624e64">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph rev="FAC 2022-05 October 25, 2022"><?FM MARKER [CaseNumber] FAR Case 2021-008?>A contract with a period of
+                           performance that spans the schedule of domestic content threshold
+                           increases specified in paragraph (b)(2)(i) of this section shall be
+                           required to comply with each increased threshold for the items in the
+                           year of delivery, unless the senior procurement executive of the
+                           contracting agency allows for application of an alternate domestic
+                           content test for that contract under which the domestic content threshold
+                           in effect at time of contract award will apply to the entire period of
+                           performance for the contract. This authority is not delegable. The senior
+                           procurement executive shall consult the Office of Management and Budget's
+                           Made in America Office before allowing the use of the alternate domestic
+                           content test.<?FM MARKER [Why] c. Adding paragraph (c). ?></ph>
+                     </p>
+                  </li>
+                  <li>
+                     <p class="- topic/p " id="d1624e72">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph rev="FAC 2022-05 October 25, 2022">When a senior procurement executive
+                           allows for application of an alternate domestic content test for a
+                           contract, see <xref href="25.1102.dita#FAR_25_1102" outputclass="fm:ParaNumOnly">25.1102</xref>(a)(3) or (c)(4) for use of
+                           the appropriate Alternate clause to reflect the domestic content
+                           threshold that will apply to the entire period of performance for that
+                           contract.</ph>
+                     </p>
                   </li>
                </ol>
             </li>
