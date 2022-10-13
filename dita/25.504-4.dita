@@ -728,43 +728,30 @@ B Total) = 89.1%
                       id="table_325044"
                       rev="FAC 2022-05 October 25, 2022">
                   <tgroup cols="10" colsep="1" rowsep="1" outputclass="Notitle_rule">
-                     <colspec colnum="1" colname="1" colwidth="11*" rowheader="headers"/>
-                     <colspec colnum="2" colname="2" colwidth="10*" rowheader="headers"/>
-                     <colspec colnum="3" colname="3" colwidth="4*" rowheader="headers"/>
-                     <colspec colnum="4" colname="4" colwidth="16*" rowheader="headers"/>
-                     <colspec colnum="5" colname="5" colwidth="10*" rowheader="headers"/>
-                     <colspec colnum="6" colname="6" colwidth="4*" rowheader="headers"/>
-                     <colspec colnum="7" colname="7" colwidth="16*" rowheader="headers"/>
-                     <colspec colnum="8" colname="8" colwidth="10*" rowheader="headers"/>
-                     <colspec colnum="9" colname="9" colwidth="4*" rowheader="headers"/>
-                     <colspec colnum="10" colname="10" colwidth="16*" rowheader="headers"/>
+                     <colspec colnum="1" colname="1" colwidth="2.75*" rowheader="headers"/>
+                     <colspec colnum="2" colname="2" colwidth="2.5*" rowheader="headers"/>
+                     <colspec colnum="3" colname="3" colwidth="1*" rowheader="headers"/>
+                     <colspec colnum="4" colname="4" colwidth="1.72*" rowheader="headers"/>
+                     <colspec colnum="5" colname="5" colwidth="4.83*" rowheader="headers"/>
+                     <colspec colnum="6" colname="6" colwidth="1*" rowheader="headers"/>
+                     <colspec colnum="7" colname="7" colwidth="1.72*" rowheader="headers"/>
+                     <colspec colnum="8" colname="8" colwidth="2.93*" rowheader="headers"/>
+                     <colspec colnum="9" colname="9" colwidth="1.21*" rowheader="headers"/>
+                     <colspec colnum="10" colname="10" colwidth="4*" rowheader="headers"/>
                      <thead>
                         <row rowsep="1">
-                           <entry namest="1"
-                                  nameend="10"
-                                  align="center"
-                                  outputclass="CellHeading_Ctr">OFFERS</entry>
+                           <entry namest="1" nameend="10" align="center"
+                              outputclass="CellHeading_Ctr">OFFERS</entry>
                         </row>
                         <row rowsep="1">
-                           <entry colname="1"
-                                  align="center"
-                                  outputclass="CellHeading_CtrSmallCaps"
-                                  xtrc="SmallCaps">Item</entry>
-                           <entry namest="2"
-                                  nameend="4"
-                                  align="center"
-                                  outputclass="CellHeading_CtrSmallCaps"
-                                  xtrc="SmallCaps">A</entry>
-                           <entry namest="5"
-                                  nameend="7"
-                                  align="center"
-                                  outputclass="CellHeading_CtrSmallCaps"
-                                  xtrc="SmallCaps">B</entry>
-                           <entry namest="8"
-                                  nameend="10"
-                                  align="center"
-                                  outputclass="CellHeading_CtrSmallCaps"
-                                  xtrc="SmallCaps">C</entry>
+                           <entry colname="1" align="center" outputclass="CellHeading_CtrSmallCaps"
+                              xtrc="SmallCaps">Item</entry>
+                           <entry namest="2" nameend="4" align="center"
+                              outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">A</entry>
+                           <entry namest="5" nameend="7" align="center"
+                              outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">B</entry>
+                           <entry namest="8" nameend="10" align="center"
+                              outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">C</entry>
                         </row>
                      </thead>
                      <tbody>
@@ -772,17 +759,24 @@ B Total) = 89.1%
                            <entry colname="1">
                               <p outputclass="Ctr">1</p>
                            </entry>
-                           <entry colname="2" colsep="0" align="left" outputclass="CellBody_Left">DO</entry>
-                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="4" align="right" outputclass="CellBody_Right">$17,800</entry>
+                           <entry colname="2" colsep="0" align="left" outputclass="CellBody_Left"
+                              >DO</entry>
+                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="4" align="left" outputclass="CellBody_Left"
+                              >$17,800</entry>
                            <entry colname="5" colsep="0" align="left" outputclass="CellBody_Left">FO
                               (&gt;55%)</entry>
-                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="7" align="right" outputclass="CellBody_Right">$16,000</entry>
+                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="7" align="left" outputclass="CellBody_Left"
+                              >$16,000</entry>
                            <entry colname="8" colsep="0" align="left" outputclass="CellBody_Left">FO
                               (&gt;55%)</entry>
-                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="10" align="right" outputclass="CellBody_Right">$11,200.</entry>
+                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="10" align="left" outputclass="CellBody_Left"
+                              >$11,200</entry>
                         </row>
                         <row rowsep="1">
                            <entry colname="1">
@@ -790,18 +784,22 @@ B Total) = 89.1%
                            </entry>
                            <entry colname="2" colsep="0" align="left" outputclass="CellBody_Left">FO
                               (&gt;55%)</entry>
-                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="4" align="right" outputclass="CellBody_Right">
+                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="4" align="left" outputclass="CellBody_Left">
                               $9,000</entry>
                            <entry colname="5" colsep="0" align="left" outputclass="CellBody_Left">EL
                               (&gt;55%)</entry>
-                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="7" align="right" outputclass="CellBody_Right">
+                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="7" align="left" outputclass="CellBody_Left">
                               $8,500</entry>
-                           <entry colname="8" colsep="0" align="left" outputclass="CellBody_Left">DO</entry>
-                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="10" align="right" outputclass="CellBody_Right">
-                              $10,200.</entry>
+                           <entry colname="8" colsep="0" align="left" outputclass="CellBody_Left"
+                              >DO</entry>
+                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="10" align="left" outputclass="CellBody_Left">
+                              $10,200</entry>
                         </row>
                         <row rowsep="1">
                            <entry colname="1">
@@ -809,54 +807,56 @@ B Total) = 89.1%
                            </entry>
                            <entry colname="2" colsep="0" align="left" outputclass="CellBody_Left">FO
                               (&gt;55%)</entry>
-                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="4" align="right" outputclass="CellBody_Right">
+                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="4" align="left" outputclass="CellBody_Left">
                               $11,200</entry>
                            <entry colname="5" colsep="0" align="left" outputclass="CellBody_Left">FO
                               (&gt;55%)</entry>
-                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="7" align="right" outputclass="CellBody_Right">
+                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="7" align="left" outputclass="CellBody_Left">
                               $12,000</entry>
                            <entry colname="8" colsep="0" align="left" outputclass="CellBody_Left">FO
                               (&gt;55%)</entry>
-                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="10" align="right" outputclass="CellBody_Right">
-                              $11,000.</entry>
+                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="10" align="left" outputclass="CellBody_Right">
+                              $11,000</entry>
                         </row>
                         <row rowsep="1">
                            <entry colname="1">
                               <p outputclass="Ctr">4</p>
                            </entry>
-                           <entry colname="2" colsep="0" align="left" outputclass="CellBody_Left">DO</entry>
-                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="4" align="right" outputclass="CellBody_Right">
+                           <entry colname="2" colsep="0" align="left" outputclass="CellBody_Left"
+                              >DO</entry>
+                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="4" align="left" outputclass="CellBody_Left">
                               $10,000</entry>
-                           <entry colname="5" colsep="0" align="left" outputclass="CellBody_Left">DO</entry>
-                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="7" align="right" outputclass="CellBody_Right">
+                           <entry colname="5" colsep="0" align="left" outputclass="CellBody_Left"
+                              >DO</entry>
+                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="7" align="left" outputclass="CellBody_Left">
                               $9,000</entry>
                            <entry colname="8" colsep="0" align="left" outputclass="CellBody_Left">FO
                               (&gt;55%)</entry>
-                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="10" align="right" outputclass="CellBody_Right">
-                              $6,400.</entry>
+                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left"
+                              >=</entry>
+                           <entry colname="10" align="left" outputclass="CellBody_Left">
+                              $6,400</entry>
                         </row>
                         <row rowsep="0">
                            <entry colname="1">
                               <p outputclass="Ctr">Total</p>
                            </entry>
-                           <entry namest="2"
-                                  nameend="4"
-                                  align="right"
-                                  outputclass="CellBody_Right">$48,500</entry>
-                           <entry namest="5"
-                                  nameend="7"
-                                  align="right"
-                                  outputclass="CellBody_Right">$45,500</entry>
-                           <entry namest="8"
-                                  nameend="10"
-                                  align="right"
-                                  outputclass="CellBody_Right">$38,800.</entry>
+                           <entry namest="2" nameend="4" align="left" outputclass="CellBody_Left"
+                              >$48,000</entry>
+                           <entry namest="5" nameend="7" align="left" outputclass="CellBody_Left"
+                              >$45,500</entry>
+                           <entry namest="8" nameend="10" align="left" outputclass="CellBody_Left"
+                              >$38,800.</entry>
                         </row>
                      </tbody>
                   </tgroup>
@@ -885,15 +885,14 @@ B Total) = 89.1%
                   award on a group basis. Assume only the Buy American statute applies (
                      <i>i.e.,</i> no trade agreements apply) and the acquisition cannot be set aside
                   for small business concerns. All offerors are large businesses. </p>
+               <p class="- topic/p " rev="FAC 2022-05 October 25, 2022" id="d1661e792">
+                  <i>Analysis:</i> (see <xref href="25.503.dita#FAR_25_503"
+                     outputclass="fm:ParaNumOnly">25.503</xref>(d)) </p>
                <p class="- topic/p "
                   rev="FAC 2022-05 October 25, 2022"
                   id="d1661e785">
                   <i>STEP 1:</i> Determine which of the offers
                   are domestic (see <xref href="25.503.dita#FAR_25_503" outputclass="fm:ParaNumOnly">25.503</xref>(d)(1)).</p>
-               <p class="- topic/p "
-                  rev="FAC 2022-05 October 25, 2022"
-                  id="d1661e792">
-                  <i>Analysis:</i> (see <xref href="25.503.dita#FAR_25_503" outputclass="fm:ParaNumOnly">25.503</xref>(d)) </p>
                <table frame="all"
                       colsep="1"
                       rowsep="1"
@@ -1000,7 +999,7 @@ B Total) = 89.1%
                               <p outputclass="Ctr"> N/A </p>
                            </entry>
                            <entry colname="3">
-                              <p outputclass="Ctr">Domestic</p>
+                              <p outputclass="Ctr">N/A</p>
                            </entry>
                         </row>
                         <row rowsep="1">
@@ -1018,7 +1017,7 @@ B Total) = 89.1%
                               <p>19.8% + 80.2% = 100% is domestic or can be treated as domestic</p>
                            </entry>
                            <entry colname="3">
-                              <p outputclass="Ctr">Eligible</p>
+                              <p outputclass="Ctr">Can be treated as domestic.</p>
                            </entry>
                         </row>
                         <row rowsep="0">
