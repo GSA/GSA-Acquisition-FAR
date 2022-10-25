@@ -1,44 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_19_1303"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_19_1303">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">19.1303</ph> Status as a HUBZone small business concern.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d1232e13" class="- topic/ol ">
-            <li class="- topic/li ">
+      <conbody>
+         <ol id="d1232e13">
+            <li>
                <p class="- topic/p " id="d1266e10">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-						            Status as a HUBZone small business concern is determined by the Small Business Administration (SBA) in accordance with <ph outputclass="CFR" class="- topic/ph ">13 CFR Part 126</ph>.</p>
+                  
+						            Status as a HUBZone small business concern is determined by the Small Business Administration (SBA) in accordance with <ph outputclass="CFR">13 CFR Part 126</ph>.</p>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d1266e18">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-						            If the SBA determines that a concern is a HUBZone small business concern, it will issue a certification to that effect and will add the concern to the List of Qualified HUBZone Small Business Concerns at <xref href="http://dsbs.sba.gov/dsbs/search/dsp_searchhubzone.cfm"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">http://dsbs.sba.gov/dsbs/search/dsp_searchhubzone.cfm</xref>. Only firms on the list are HUBZone small business concerns, eligible for HUBZone preferences. HUBZone preferences apply without regard to the place of performance. Information on HUBZone small business concerns can also be obtained at <xref href="http://www.sba.gov/hubzone"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">www.sba.gov/hubzone</xref> or by writing to the Director for the HUBZone Program (Director/HUB) at U.S. Small Business Administration, 409 3 rd Street, SW., Washington, DC 20416 or at hubzone@sba.gov.</p>
+                  <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2019-007?>If SBA determines that a concern is a HUBZone small business, it will designate the concern as a HUBZone small business in the Dynamic Small Business Search (DSBS) at <i>
+                        <xref href="https://web.sba.gov/pro-net/search/dsp_dsbs.cfm"
+                              format="html"
+                              scope="external">https://web.sba.gov/​pro-net/​search/​dsp_​dsbs.cfm</xref>.</i> SBA's designation also appears in SAM. Only firms designated in DSBS and SAM as HUBZone small business concerns are eligible for HUBZone preferences. HUBZone preferences are not contingent on the place of performance.<?FM MARKER [Why] Amend section 19.1303 by revising paragraphs (b)?></ph>
+               </p>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d1266e29">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-						            A joint venture may be considered a HUBZone small business concern if it meets the criteria in 13 CFR 121.103(h).</p>
+                  <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2017-019?>A joint venture may be considered a HUBZone small business concern if—<?FM MARKER [Why] Amend section 19.1303 by revising paragraph (c).?></ph>
+               </p>
+               <ol rev="FAC 2022-08 October 28, 2022">
+                  <li>
+                     <p class="- topic/p " id="d1266e38">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The joint venture qualifies as small under <xref href="19.301-1.dita#FAR_19_301_1" outputclass="fm:ParaNumOnly">19.301-1</xref>(a)(2)(i);</p>
+                  </li>
+                  <li>
+                     <p class="- topic/p " id="d1266e46">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>At least one party to the joint venture is a HUBZone small business concern; and</p>
+                  </li>
+                  <li>
+                     <p class="- topic/p " id="d1266e51">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The joint venture complies with <xref href="https://www.ecfr.gov/current/title-13/section-126.616#p-126.616(a)"
+                              format="html"
+                              scope="external">13 CFR 126.616(a)</xref> through <xref href="https://www.ecfr.gov/current/title-13/section-126.616#p-126.616(c)"
+                              format="html"
+                              scope="external">(c)</xref>.</p>
+                  </li>
+               </ol>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d1266e34">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-						            To be eligible for a HUBZone contract under this section, a HUBZone small business concern must be a HUBZone small business concern both at the time of its initial offer and at the time of contract award.</p>
+                  <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2019-007?>To be eligible for a HUBZone contract under this section, a HUBZone small business concern must be a HUBZone small business concern both at the time of its initial offer and at the time of contract award.<?FM MARKER [Why] and (d)?></ph>
+               </p>
             </li>
          </ol>
-         <p class="- topic/p "> </p>
+         <p> </p>
       </conbody>
    </concept>
 </dita>

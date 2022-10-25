@@ -1,56 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_52_219_1"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_52_219_1">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.219-1</ph> Small Business Program
 Representations.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " id="d3273e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+      <conbody>
+         <p class="- topic/p " id="d3273e8">As prescribed in <ph outputclass="ClauseProvisionXREF">
                <xref href="19.309.dita#FAR_19_309"
                      base="i1101433"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">19.309</xref>(a)(1)</ph>, insert
+                     outputclass="fm:ParaNumOnly">19.309</xref>(a)(1)</ph>, insert
 the following provision:</p>
-         <p id="d3274e15" outputclass="Ctr_SmCaps" class="- topic/p ">Small Business Program
-Representations (Sep 2021)</p>
-         <ol id="d3237e25" class="- topic/ol ">
-            <li class="- topic/li ">
+         <p id="d3274e15"
+            outputclass="Ctr_SmCaps"
+            rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2020-013?>Small Business Program
+            Representations (Oct
+            2022)<?FM MARKER [Why] Amend section 52.219-1 by—   a. Revising the date of the provision;?></p>
+         <ol id="d3237e25">
+            <li>
                <p class="- topic/p " id="d3273e19">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Definitions</i>.
+                  <i>Definitions</i>.
 As used in this provision-</p>
                <p class="- topic/p " id="d3273e25">
-                  <i outputclass="Term" xtrf="_52.219-1" xtrc="d151e28">Economically disadvantaged
-women-owned small business (EDWOSB) concern</i> means a small business
-concern that is at least 51 percent directly and unconditionally
-owned by, and the management and daily business operations of which
-are controlled by, one or more women who are citizens of the United
-States and who are economically disadvantaged in accordance with <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph>. It automatically qualifies
-as a women-owned small business concern eligible under the WOSB
-Program.</p>
+                  <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2020-013?>
+                     <i outputclass="Term" xtrf="_52.219-1" xtrc="d151e28">Economically disadvantaged women-owned small business
+                        (EDWOSB) concern</i>  means a small business concern
+                     that is at least 51 percent directly and unconditionally
+                     owned by, and the management and daily business operations
+                     of which are controlled by, one or more women who are
+                     citizens of the United States and who are economically
+                     disadvantaged in accordance with <xref href="https://www.ecfr.gov/current/title-13/part-127"
+                           format="html"
+                           scope="external">13 CFR part 127</xref>,
+                     and the concern is certified by SBA or an approved
+                     third-party certifier in accordance with <xref href="https://www.ecfr.gov/current/title-13/section-127.300"
+                           format="html"
+                           scope="external">13 CFR 127.300</xref>. It
+                     automatically qualifies as a women-owned small business
+                     concern eligible under the WOSB
+                     Program.<?FM MARKER [Why] b. In paragraph (a), revising the definitions “Economically disadvantaged women-owned small business (EDWOSB) concern” and “Women-owned small business (WOSB) concern eligible under the WOSB Program”; and?></ph>
+               </p>
                <p class="- topic/p " id="d3273e32">
                   <i outputclass="Term" xtrf="_52.219-1" xtrc="d3269e45">Service-disabled veteran-owned small business
-concern</i>-<ol id="d3237e50" class="- topic/ol ">
-                     <li class="- topic/li ">
+concern</i>-<ol id="d3237e50">
+                     <li>
                         <p class="- topic/p " id="d3273e38">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Means a small business concern-</p>
-                        <ol id="d3237e60" class="- topic/ol ">
-                           <li class="- topic/li ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                            Means a small business concern-</p>
+                        <ol id="d3237e60">
+                           <li>
                               <p class="- topic/p " id="d3273e44">
-                                 <ph props="autonumber" class="- topic/ph ">(i)</ph> Not
+                                 <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                  Not
 less than 51 percent of which is owned by one or more service-disabled
 veterans or, in the case of any publicly owned business, not less
 than 51 percent of the stock of which is owned by one or more service-disabled
 veterans; and</p>
                            </li>
-                           <li class="- topic/li ">
+                           <li>
                               <p class="- topic/p " id="d3273e49">
-                                 <ph props="autonumber" class="- topic/ph ">(ii)</ph> The management
+                                 <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                  The management
 and daily business operations of which are controlled by one or
 more service-disabled veterans or, in the case of a service-disabled
 veteran with permanent and severe disability, the spouse or permanent
@@ -58,35 +70,40 @@ caregiver of such veteran.</p>
                            </li>
                         </ol>
                      </li>
-                     <li class="- topic/li ">
+                     <li>
                         <p class="- topic/p " id="d3273e54">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph> "Service-disabled
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                            "Service-disabled
 veteran" means a veteran, as defined in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                  format="html"
-                                 scope="external"
-                                 class="- topic/xref ">38 U.S.C.101(2)</xref>, with
+                                 scope="external">38 U.S.C.101(2)</xref>, with
 a disability that is service-connected, as defined in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                                  format="html"
-                                 scope="external"
-                                 class="- topic/xref ">38 U.S.C.101(16)</xref>.</p>
+                                 scope="external">38 U.S.C.101(16)</xref>.</p>
                      </li>
                   </ol>
                </p>
                <p class="- topic/p " id="d3273e64">
-                  <i outputclass="Term" xtrf="_52.219-1" xtrc="d3269e99">Small business concern</i>— <ol class="- topic/ol ">
-                     <li class="- topic/li ">
+                  <i outputclass="Term" xtrf="_52.219-1" xtrc="d3269e99">Small business concern</i>— <ol>
+                     <li>
                         <p class="- topic/p " id="d3273e70">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Means a concern,
-including its affiliates, that is independently owned and operated,
-not dominant in the field of operation in which it is bidding on
-Government contracts, and qualified as a small business under the
-criteria in 13 CFR part 121 and the size standard in paragraph (b)
-of this provision.</p>
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                           <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2017-019?>Means
+                              a concern, including its affiliates, that is
+                              independently owned and operated, not dominant in
+                              its field of operation, and qualified as a small
+                              business under the criteria in <xref href="https://www.ecfr.gov/current/title-13/part-121"
+                                    format="html"
+                                    scope="external">13 CFR part
+                                 121</xref> and the size standard in paragraph
+                              (b) of this
+                              provision.<?FM MARKER [Why] b. In paragraph (a), revising paragraph (1) in the definition of “Small business concern”;?></ph>
+                        </p>
                      </li>
-                     <li class="- topic/li ">
+                     <li>
                         <p class="- topic/p " id="d3273e75">
                            <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                           <i class="+ topic/ph hi-d/i ">Affiliates</i>,
+                           <i>Affiliates</i>,
 as used in this definition, means business concerns, one of whom
 directly or indirectly controls or has the power to control the
 others, or a third party or parties control or have the power to
@@ -99,37 +116,41 @@ affiliation based on the factors set forth at 13 CFR 121.103.</p>
                </p>
                <p class="- topic/p " id="d3273e81">
                   <i outputclass="Term" xtrf="_52.219-1" xtrc="d3269e105">Small disadvantaged business concern</i>,
-consistent with <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.1002</ph>, means
+consistent with <ph outputclass="CFR">13 CFR 124.1002</ph>, means
 a small business concern under the size standard applicable to the
-acquisition, that-<ol id="d3237e104" class="- topic/ol ">
-                     <li class="- topic/li ">
+acquisition, that-<ol id="d3237e104">
+                     <li>
                         <p class="- topic/p " id="d3273e90">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Is at least 51 percent unconditionally
-and directly owned (as defined at <ph outputclass="CFR" class="- topic/ph ">13 CFR
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                            Is at least 51 percent unconditionally
+and directly owned (as defined at <ph outputclass="CFR">13 CFR
 124.105</ph>) by-</p>
-                        <ol id="d3237e114" class="- topic/ol ">
-                           <li class="- topic/li ">
+                        <ol id="d3237e114">
+                           <li>
                               <p class="- topic/p " id="d3273e99">
-                                 <ph props="autonumber" class="- topic/ph ">(i)</ph> One or more socially disadvantaged
-(as defined at <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.103</ph>) and
-economically disadvantaged (as defined at <ph outputclass="CFR" class="- topic/ph ">13
+                                 <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                  One or more socially disadvantaged
+(as defined at <ph outputclass="CFR">13 CFR 124.103</ph>) and
+economically disadvantaged (as defined at <ph outputclass="CFR">13
 CFR 124.104</ph>) individuals who are citizens of the United States,
 and</p>
                            </li>
-                           <li class="- topic/li ">
+                           <li>
                               <p class="- topic/p " id="d3273e110">
-                                 <ph props="autonumber" class="- topic/ph ">(ii)</ph> Each
+                                 <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                  Each
 individual claiming economic disadvantage has a net worth not exceeding
 $750,000 after taking into account the applicable exclusions set
-forth at <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.104(c)(2)</ph>; and</p>
+forth at <ph outputclass="CFR">13 CFR 124.104(c)(2)</ph>; and</p>
                            </li>
                         </ol>
                      </li>
-                     <li class="- topic/li ">
+                     <li>
                         <p class="- topic/p " id="d3273e118">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph> The management
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                            The management
 and daily business operations of which are controlled (as defined
-at <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.106</ph>) by individuals who
+at <ph outputclass="CFR">13 CFR 124.106</ph>) by individuals who
 meet the criteria in paragraphs (1)(i) and (ii) of this definition.</p>
                      </li>
                   </ol>
@@ -137,21 +158,22 @@ meet the criteria in paragraphs (1)(i) and (ii) of this definition.</p>
                <p class="- topic/p " id="d3273e125">
                   <i outputclass="Term" xtrf="_52.219-1" xtrc="d211e126">Veteran-owned small business concern</i> means
 a small business concern-</p>
-               <ol id="d3237e149" class="- topic/ol ">
-                  <li class="- topic/li ">
+               <ol id="d3237e149">
+                  <li>
                      <p class="- topic/p " id="d3273e131">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Not less
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         Not less
 than 51 percent of which is owned by one or more veterans (as defined
 at <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&amp;num=0&amp;edition=prelim"
                               format="html"
-                              scope="external"
-                              class="- topic/xref ">38 U.S.C.101(2)</xref>) or,
+                              scope="external">38 U.S.C.101(2)</xref>) or,
 in the case of any publicly owned business, not less than 51 percent
 of the stock of which is owned by one or more veterans; and</p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e139">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The management
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         The management
 and daily business operations of which are controlled by one or
 more veterans.</p>
                   </li>
@@ -159,72 +181,85 @@ more veterans.</p>
                <p class="- topic/p " id="d3273e143">
                   <i outputclass="Term" xtrf="_52.219-1" xtrc="d211e144">Women-owned small business
 concern</i> means a small business concern-</p>
-               <ol id="d3237e221" class="- topic/ol ">
-                  <li class="- topic/li ">
+               <ol id="d3237e221">
+                  <li>
                      <p class="- topic/p " id="d3273e149">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> That is
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         That is
 at least 51 percent owned by one or more women; or, in the case
 of any publicly owned business, at least 51 percent of the stock
 of which is owned by one or more women; and</p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e154">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Whose
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         Whose
 management and daily business operations are controlled by one or
 more women.</p>
                   </li>
                </ol>
                <p class="- topic/p " id="d3273e158">
-                  <i outputclass="Term" xtrf="_52.219-1" xtrc="d211e159">Women-owned small business
-(WOSB) concern eligible under the WOSB Program</i> (in accordance
-with 13 CFR part 127), means a small business concern that is at
-least 51 percent directly and unconditionally owned by, and the
-management and daily business operations of which are controlled
-by, one or more women who are citizens of the United States.</p>
+                  <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2020-013?>
+                     <i outputclass="Term" xtrf="_52.219-1" xtrc="d211e159">Women-owned small business (WOSB) concern eligible
+                        under the WOSB Program</i>  (in accordance with <xref href="https://www.ecfr.gov/current/title-13/part-127"
+                           format="html"
+                           scope="external">13 CFR part 127</xref>)
+                     means a small business concern that is at least 51 percent
+                     directly and unconditionally owned by, and the management
+                     and daily business operations of which are controlled by,
+                     one or more women who are citizens of the United States,
+                     and the concern is certified by SBA or an approved
+                     third-party certifier in accordance with <xref href="https://www.ecfr.gov/current/title-13/section-127.300"
+                           format="html"
+                           scope="external">13 CFR
+                     127.300</xref>.<?FM MARKER [Why] b. In paragraph (a), revising the definitions “Economically disadvantaged women-owned small business (EDWOSB) concern” and “Women-owned small business (WOSB) concern eligible under the WOSB Program”; and?></ph>
+               </p>
             </li>
-            <li props="Runin" class="- topic/li ">
+            <li props="Runin">
                <p class="- topic/p " id="d3273e163">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                </p>
-               <ol id="d3237e257" class="- topic/ol ">
-                  <li class="- topic/li ">
+               <ol id="d3237e257">
+                  <li>
                      <p class="- topic/p " id="d3273e168">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         The
 North American Industry Classification System (NAICS) code for this
-acquisition is <cite outputclass="SingleLine"
-                              xtrc="52.219-1_d3261e213"
-                              class="- topic/cite ">________ [<i class="+ topic/ph hi-d/i ">insert NAICS code</i>]</cite>.</p>
+acquisition is <cite outputclass="SingleLine" xtrc="52.219-1_d3261e213">________ [<i>insert NAICS code</i>]</cite>.</p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e179">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The small
-business size standard is <cite outputclass="SingleLine"
-                              xtrc="52.219-1_d3261e225"
-                              class="- topic/cite ">_______ [<i class="+ topic/ph hi-d/i ">insert size standard</i>]</cite>.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         The small
+business size standard is <cite outputclass="SingleLine" xtrc="52.219-1_d3261e225">_______ [<i>insert size standard</i>]</cite>.</p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e190">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> The small
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                         The small
 business size standard for a concern that submits an offer, other
 than on a construction or service acquisition, but proposes to furnish
 an end item that it did not itself manufacture, process, or produce
-(<i class="+ topic/ph hi-d/i ">i.e.</i>, nonmanufacturer), is 500 employees if the acquisition—</p>
-                     <ol class="- topic/ol ">
-                        <li class="- topic/li ">
+(<i>i.e.</i>, nonmanufacturer), is 500 employees if the acquisition—</p>
+                     <ol>
+                        <li>
                            <p class="- topic/p " id="d3273e199">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Is set
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              Is set
 aside for small business and has a value above the simplified acquisition
 threshold;</p>
                         </li>
-                        <li class="- topic/li ">
+                        <li>
                            <p class="- topic/p " id="d3273e204">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Uses the
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              Uses the
 HUBZone price evaluation preference regardless of dollar value,
 unless the offeror waives the price evaluation preference; or</p>
                         </li>
-                        <li class="- topic/li ">
+                        <li>
                            <p class="- topic/p " id="d3273e209">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Is an
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              Is an
 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged
 women-owned, or women-owned small business set-aside or sole-source
 award regardless of dollar value.</p>
@@ -233,196 +268,196 @@ award regardless of dollar value.</p>
                   </li>
                </ol>
             </li>
-            <li props="Runin" class="- topic/li ">
+            <li props="Runin">
                <p class="- topic/p " id="d3273e214">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  <i class="+ topic/ph hi-d/i ">Representations.</i>
+                  <i>Representations.</i>
                </p>
-               <ol id="d3237e296" class="- topic/ol ">
-                  <li class="- topic/li ">
+               <ol id="d3237e296">
+                  <li>
                      <p class="- topic/p " id="d3273e221">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The
-offeror represents as part of its offer that it <cite outputclass="Checkbox"
-                              xtrc="52.219-1_d119e189"
-                              class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
-                              xtrc="52.219-1_d119e192"
-                              class="- topic/cite ">□</cite> is
-not a small business concern.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2017-019?>The
+                           offeror represents as part of its offer
+                           that—<?FM MARKER [Why] c. Revising paragraph (c)(1);?></ph>
+                     </p>
+                     <ol rev="FAC 2022-08 October 28, 2022">
+                        <li>
+                           <p class="- topic/p " id="d3274e238">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> it <cite outputclass="Checkbox" xtrc="52.219-1_d119e189">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e192">□</cite> is not a small business concern;
+                              or</p>
+                        </li>
+                        <li>
+                           <p class="- topic/p " id="d3274e249">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox" xtrc="52.219-1_d1e366">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d1e369">□</cite> is not a small business joint venture
+                              that complies with the requirements of <xref href="https://www.ecfr.gov/current/title-13/section-121.103#p-121.103(h)"
+                                    format="html"
+                                    scope="external">13 CFR
+                                 121.103(h)</xref> and <xref href="https://www.ecfr.gov/current/title-13/section-125.8#p-125.8(a)"
+                                    format="html"
+                                    scope="external">13 CFR
+                                 125.8(a)</xref> and <xref href="https://www.ecfr.gov/current/title-13/section-125.8#p-125.8(b)"
+                                    format="html"
+                                    scope="external">(b)</xref>. [
+                                 <i>The offeror shall enter the name and unique
+                                 entity identifier of each party to the joint
+                                 venture:</i> __.]</p>
+                        </li>
+                     </ol>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e232">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> [<i class="+ topic/ph hi-d/i ">Complete
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         [<i>Complete
 only if the offeror represented itself as a small business concern
 in paragraph (c)(1) of this provision.</i>] The offeror represents
-that it <cite outputclass="Checkbox"
-                              xtrc="52.219-1_d119e200"
-                              class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
-                              xtrc="52.219-1_d119e203"
-                              class="- topic/cite ">□</cite> is
-not, a small disadvantaged business concern as defined in <ph outputclass="CFR" class="- topic/ph ">13 CFR 124.1002</ph>.</p>
+that it <cite outputclass="Checkbox" xtrc="52.219-1_d119e200">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e203">□</cite> is
+not, a small disadvantaged business concern as defined in <ph outputclass="CFR">13 CFR 124.1002</ph>.</p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e249">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> [<i class="+ topic/ph hi-d/i ">Complete
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                         [<i>Complete
 only if the offeror represented itself as a small business concern
 in paragraph (c)(1) of this provision.]</i> The offeror represents
-as part of its offer that it <cite outputclass="Checkbox"
-                              xtrc="52.219-1_d119e214"
-                              class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
-                              xtrc="52.219-1_d119e217"
-                              class="- topic/cite ">□</cite> is
+as part of its offer that it <cite outputclass="Checkbox" xtrc="52.219-1_d119e214">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e217">□</cite> is
 not a women-owned small business concern.</p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e263">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Women-owned
-small business (WOSB) concern eligible under the WOSB Program. [Complete
-only if the offeror represented itself as a women-owned small business
-concern in paragraph (c)(3) of this provision.] The offeror represents
-as part of its offer that-</p>
-                     <ol id="d3237e345" class="- topic/ol ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p " id="d3273e269">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e231"
-                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e234"
-                                    class="- topic/cite ">□</cite> is
-not a WOSB concern eligible under the WOSB Program, has provided
-all the required documents to the WOSB Repository, and no change
-in circumstances or adverse decisions have been issued that affects
-its eligibility; and</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p " id="d3273e280">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e242"
-                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e245"
-                                    class="- topic/cite ">□</cite> is
-not a joint venture that complies with the requirements of <ph outputclass="CFR" class="- topic/ph ">13 CFR part 127</ph>, and the representation
-in paragraph (c)(4)(i) of this provision is accurate for each WOSB
-concern eligible under the WOSB Program participating in the joint
-venture. [<i class="+ topic/ph hi-d/i ">The offeror shall enter the name or names of the WOSB
-concern eligible under the WOSB Program and other small businesses
-that are participating in the joint venture: ________.</i>] Each
-WOSB concern eligible under the WOSB Program participating in the
-joint venture shall submit a separate signed copy of the WOSB representation.</p>
-                        </li>
-                     </ol>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2020-013?>
+                           <i>Women-owned
+                              small business (WOSB) joint venture eligible under
+                              the WOSB Program.</i> The offeror represents as
+                           part of its offer that it <cite outputclass="Checkbox" xtrc="52.219-1_d119e242">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e245">□</cite> is not a joint
+                           venture that complies with the requirements of <xref href="https://www.ecfr.gov/current/title-13/section-127.506#p-127.506(a)"
+                                 format="html"
+                                 scope="external">13 CFR
+                              127.506(a)</xref> through <xref href="https://www.ecfr.gov/current/title-13/section-127.506#p-127.506(c)"
+                                 format="html"
+                                 scope="external">(c)</xref>. [
+                              <i>The offeror shall enter the name and unique
+                              entity identifier of each party to the joint
+                              venture:</i>
+                           __.]<?FM MARKER [Why] c. Revising paragraphs (c)(4) and (5).?></ph>
+                     </p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e297">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Economically
-disadvantaged women-owned small business (EDWOSB) concern. [<i class="+ topic/ph hi-d/i ">Complete
-only if the offeror represented itself as a women-owned small business
-concern eligible under the WOSB Program in (c)(4) of this provision.</i>] The
-offeror represents as part of its offer that-</p>
-                     <ol id="d3237e381" class="- topic/ol ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p " id="d3273e306">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e262"
-                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e265"
-                                    class="- topic/cite ">□</cite> is
-not an EDWOSB concern eligible under the WOSB Program, has provided
-all the required documents to the WOSB Repository, and no change
-in circumstances or adverse decisions have been issued that affects
-its eligibility; and</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p " id="d3273e317">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e273"
-                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e276"
-                                    class="- topic/cite ">□</cite> is
-not a joint venture that complies with the requirements of 13 CFR
-part 127, and the representation in paragraph (c)(5)(i) of this
-provision is accurate for each EDWOSB concern participating in the
-joint venture. [<i class="+ topic/ph hi-d/i ">The offeror shall enter the name or names of
-the EDWOSB concern and other small businesses that are participating
-in the joint venture: ________.</i>] Each EDWOSB concern participating
-in the joint venture shall submit a separate signed copy of the
-EDWOSB representation.</p>
-                        </li>
-                     </ol>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                        <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2020-013?>
+                           <i>Economically
+                              disadvantaged women-owned small business (EDWOSB)
+                              joint venture.</i> The offeror represents as part
+                           of its offer that it <cite outputclass="Checkbox" xtrc="52.219-1_d119e273">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e276">□</cite> is not a joint venture that complies
+                           with the requirements of 13 CFR 127.506(a) through
+                           (c). [ <i>The offeror shall enter the name and unique
+                              entity identifier of each party to the joint
+                              venture:</i>
+                           __.]<?FM MARKER [Why] c. Revising paragraphs (c)(4) and (5).?></ph>
+                     </p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e331">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph> [<i class="+ topic/ph hi-d/i ">Complete
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
+                         [<i>Complete
 only if the offeror represented itself as a small business concern
 in paragraph (c)(1) of this provision.</i>] The offeror represents
-as part of its offer that it <cite outputclass="Checkbox"
-                              xtrc="52.219-1_d55e281"
-                              class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
-                              xtrc="52.219-1_d55e284"
-                              class="- topic/cite ">□</cite> is
+as part of its offer that it <cite outputclass="Checkbox" xtrc="52.219-1_d55e281">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d55e284">□</cite> is
 not a veteran-owned small business concern.</p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e345">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph> [<i class="+ topic/ph hi-d/i ">Complete
-only if the offeror represented itself as a veteran-owned small
-business concern in paragraph (c)(6) of this provision.</i>] The
-offeror represents as part of its offer that it <cite outputclass="Checkbox"
-                              xtrc="52.219-1_d55e292"
-                              class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
-                              xtrc="52.219-1_d55e295"
-                              class="- topic/cite ">□</cite> is
-not a service-disabled veteran-owned small business concern.</p>
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph> [<i>Complete only if the
+                           offeror represented itself as a veteran-owned small
+                           business concern in paragraph (c)(6) of this
+                           provision.</i>] The offeror represents as part of its
+                        offer that </p>
+                     <ol>
+                        <li>
+                           <p class="- topic/p " id="d3274e418">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox" xtrc="52.219-1_d55e292">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d55e295">□</cite> is not a service-disabled
+                              veteran-owned small business concern; or  </p>
+                        </li>
+                        <li>
+                           <p class="- topic/p " id="d3274e429">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox" xtrc="52.219-1_d1e595">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d1e598">□</cite> is not a service-disabled
+                              veteran-owned joint venture that complies with the
+                              requirements of <xref href="https://www.ecfr.gov/current/title-13/section-125.18#p-125.18(b)(1)"
+                                    format="html"
+                                    scope="external">13 CFR
+                                 125.18(b)(1)</xref> and <xref href="https://www.ecfr.gov/current/title-13/section-125.18#p-125.18(b)(2)"
+                                    format="html"
+                                    scope="external">(2)</xref>. [
+                                 <i>The offeror shall enter the name and unique
+                                 entity identifier of each party to the joint
+                                 venture:</i> __.] Each service-disabled
+                              veteran-owned small business concern participating
+                              in the joint venture shall provide representation
+                              of its service-disabled veteran-owned small
+                              business concern status.</p>
+                        </li>
+                     </ol>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e359">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph> [<i class="+ topic/ph hi-d/i ">Complete
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
+                         [<i>Complete
 only if the offeror represented itself as a small business concern
 in paragraph (c)(1) of this provision.</i>] The offeror represents,
 as part of its offer, that-</p>
-                     <ol id="d3237e442" class="- topic/ol ">
-                        <li class="- topic/li ">
+                     <ol id="d3237e442">
+                        <li>
                            <p class="- topic/p " id="d3273e368">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e312"
-                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e315"
-                                    class="- topic/cite ">□</cite> is
-not a HUBZone small business concern listed, on the date of this
-representation, on the List of Qualified HUBZone Small Business
-Concerns maintained by the Small Business Administration, and no
-material changes in ownership and control, principal office, or
-HUBZone employee percentage have occurred since it was certified
-in accordance with <ph outputclass="CFR" class="- topic/ph ">13 CFR Part 126</ph>;
-and</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2019-007?>It
+                                    <cite outputclass="Checkbox" xtrc="52.219-1_d119e312">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e315">□</cite> is not a
+                                 HUBZone small business concern listed, on the
+                                 date of this representation, as having been
+                                 certified by SBA as a HUBZone small business
+                                 concern in the Dynamic Small Business Search
+                                 and SAM, and will attempt to maintain an
+                                 employment rate of HUBZone residents of 35
+                                 percent of its employees during performance of
+                                 a HUBZone contract (see <xref href="https://www.ecfr.gov/current/title-13/section-126.200"
+                                       format="html"
+                                       scope="external">13 CFR
+                                    126.200</xref>);
+                                 and<?FM MARKER [Why] Amend section 52.219-1 by revising the date of the provision and paragraph (c)(8)(i).?></ph>
+                           </p>
                         </li>
-                        <li class="- topic/li ">
+                        <li>
                            <p class="- topic/p " id="d3273e382">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e326"
-                                    class="- topic/cite ">□</cite> is, <cite outputclass="Checkbox"
-                                    xtrc="52.219-1_d119e329"
-                                    class="- topic/cite ">□</cite> is
-not a HUBZone joint venture that complies with the requirements
-of <ph outputclass="CFR" class="- topic/ph ">13 CFR Part 126</ph>, and the representation
-in paragraph (c)(8)(i) of this provision is accurate for each HUBZone
-small business concern participating in the HUBZone joint venture.
-[<i class="+ topic/ph hi-d/i ">The offeror shall enter the names of each of the HUBZone small
-business concerns participating in the HUBZone joint venture: ________.</i>]
-Each HUBZone small business concern participating in the HUBZone
-joint venture shall submit a separate signed copy of the HUBZone
-representation.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2017-019?>It
+                                    <cite outputclass="Checkbox" xtrc="52.219-1_d119e326">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e329">□</cite> is not a
+                                 HUBZone joint venture that complies with the
+                                 requirements of <xref href="https://www.ecfr.gov/current/title-13/section-126.616#p-126.616(a)"
+                                       format="html"
+                                       scope="external">13 CFR
+                                    126.616(a)</xref> through <xref href="https://www.ecfr.gov/current/title-13/section-126.616#p-126.616(c)"
+                                       format="html"
+                                       scope="external">(c)</xref>. [
+                                    <i>The offeror shall enter the name and
+                                    unique entity identifier of each party to
+                                    the joint venture:</i> __.] Each HUBZone
+                                 small business concern participating in the
+                                 HUBZone joint venture shall provide
+                                 representation of its HUBZone
+                                 status.<?FM MARKER [Why] i. Revising paragraph (c)(8)(ii).?></ph>
+                           </p>
                         </li>
                      </ol>
                   </li>
                </ol>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d3273e399">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  <i class="+ topic/ph hi-d/i ">Notice.</i> Under <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  <i>Notice.</i> Under <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
-                        scope="external"
-                        class="- topic/xref ">15 U.S.C.645(d)</xref>, any
+                        scope="external">15 U.S.C.645(d)</xref>, any
 person who misrepresents a firm’s status as a business concern that
 is small, HUBZone small, small disadvantaged, service-disabled veteran-owned
 small, economically disadvantaged women-owned small, or women-owned
@@ -431,263 +466,232 @@ to be awarded under the preference programs established pursuant
 to section 8, 9, 15, 31, and 36 of the Small Business Act or any
 other provision of Federal law that specifically references section
 8(d) for a definition of program eligibility, shall-</p>
-               <ol id="d3237e474" class="- topic/ol ">
-                  <li class="- topic/li ">
+               <ol id="d3237e474">
+                  <li>
                      <p class="- topic/p " id="d3273e410">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Be
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         Be
 punished by imposition of fine, imprisonment, or both;</p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e415">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Be subject
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         Be subject
 to administrative remedies, including suspension and debarment;
 and</p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3273e420">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Be ineligible
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                         Be ineligible
 for participation in programs conducted under the authority of the
 Act.</p>
                   </li>
                </ol>
             </li>
          </ol>
-         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
-         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
-            <p id="d3276e285" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate
+         <p outputclass="Endofprovision">(End of provision)</p>
+         <section outputclass="Alternate"><?FM MARKER [Alt] Start?>
+            <p id="d3276e285">
+               <i>Alternate
 I (</i>
-               <term class="- topic/term ">Sept</term>2015<i class="+ topic/ph hi-d/i ">).</i> As prescribed in <xref href="19.309.dita#FAR_19_309"
+               <term>Sept</term>2015<i>).</i> As prescribed in <xref href="19.309.dita#FAR_19_309"
                      base="i1101433"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">19.309</xref>(a)(2) add the following
+                     outputclass="fm:ParaNumOnly">19.309</xref>(a)(2) add the following
 paragraph (c)(9) to the basic provision:, add the following paragraph
 (c)(9) to the basic provision:</p>
-            <p outputclass="List2" class="- topic/p ">(9) [<i class="+ topic/ph hi-d/i ">Complete
+            <p outputclass="List2">(9) [<i>Complete
 if offeror represented itself as disadvantaged in paragraph (c)(2)
 of this provision.</i>] The offeror shall check the category in
 which its ownership falls:</p>
-            <p outputclass="List1" class="- topic/p ">_____ Black
+            <p outputclass="List1">_____ Black
 American.</p>
-            <p outputclass="List1" class="- topic/p ">_____ Hispanic American.</p>
-            <p outputclass="List1" class="- topic/p ">_____ Native American (American Indians,
+            <p outputclass="List1">_____ Hispanic American.</p>
+            <p outputclass="List1">_____ Native American (American Indians,
 Eskimos, Aleuts, or Native Hawaiians).</p>
-            <p outputclass="List1" class="- topic/p ">_____
+            <p outputclass="List1">_____
 Asian-Pacific American (persons with origins from Burma, Thailand,
 Malaysia, Indonesia, Singapore, Brunei, Japan, China, Taiwan, Laos,
 Cambodia (Kampuchea), Vietnam, Korea, The Philippines, Republic
 of Palau, Republic of the Marshall Islands, Federated States of
 Micronesia, the Commonwealth of the Northern Mariana Islands, Guam,
 Samoa, Macao, Hong Kong, Fiji, Tonga, Kiribati, Tuvalu, or Nauru).</p>
-            <p outputclass="List1" class="- topic/p ">_____ Subcontinent Asian (Asian-Indian)
+            <p outputclass="List1">_____ Subcontinent Asian (Asian-Indian)
 American (persons with origins from India, Pakistan, Bangladesh,
 Sri Lanka, Bhutan, the Maldives Islands, or Nepal).</p>
-            <p outputclass="List1" class="- topic/p ">_____ Individual/concern, other than one
+            <p outputclass="List1">_____ Individual/concern, other than one
 of the preceding.</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3273e460">
-               <i class="+ topic/ph hi-d/i ">Alternate II</i>
-               <ph outputclass="SmCaps" class="- topic/ph ">(Sep 2021).</ph> As prescribed in <xref href="19.309.dita#FAR_19_309"
+               <i>Alternate II</i>
+               <ph outputclass="SmCaps">(Sep 2021).</ph> As prescribed in <xref href="19.309.dita#FAR_19_309"
                      base="i1101433"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">19.309</xref>(a)(3), substitute
+                     outputclass="fm:ParaNumOnly">19.309</xref>(a)(3), substitute
 the following paragraphs (b) and (c)(1) for paragraphs (b) and (c)(1)
 of the basic provision:</p>
-            <p outputclass="List1" class="- topic/p ">(b)(1) The North
+            <p outputclass="List1">(b)(1) The North
 American Industry Classification System (NAICS) codes and corresponding
 size standards for this acquisition are as follows; the categories
 or portions these NAICS codes are assigned to are specified elsewhere
 in the solicitation:</p>
-            <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-               <tgroup cols="2"
-                       colsep="0"
-                       rowsep="0"
-                       outputclass="Notitle_norule"
-                       class="- topic/tgroup ">
+            <table frame="none" colsep="0" rowsep="0">
+               <tgroup cols="2" colsep="0" rowsep="0" outputclass="Notitle_norule">
                   <colspec colnum="1"
                            colname="1"
                            colwidth="50*"
                            colsep="0"
-                           class="- topic/colspec "/>
+                           rowheader="headers"/>
                   <colspec colnum="2"
                            colname="2"
                            colwidth="50*"
                            colsep="0"
-                           class="- topic/colspec "/>
-                  <thead class="- topic/thead ">
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <b class="+ topic/ph hi-d/b ">NAICS Code</b>
+                           rowheader="headers"/>
+                  <thead>
+                     <row rowsep="0">
+                        <entry colname="1">
+                           <p outputclass="Ctr">
+                              <b>NAICS Code</b>
                            </p>
                         </entry>
-                        <entry colname="2" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <b class="+ topic/ph hi-d/b ">Size standard</b>
+                        <entry colname="2">
+                           <p outputclass="Ctr">
+                              <b>Size standard</b>
                            </p>
                         </entry>
                      </row>
                   </thead>
-                  <tbody class="- topic/tbody ">
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e352"
-                                    class="- topic/cite ">________________________________</cite>
+                  <tbody>
+                     <row rowsep="0">
+                        <entry colname="1">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e352">________________________________</cite>
                            </p>
                         </entry>
-                        <entry colname="2" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e356"
-                                    class="- topic/cite ">________________________________</cite>
+                        <entry colname="2">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e356">________________________________</cite>
                            </p>
                         </entry>
                      </row>
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e361"
-                                    class="- topic/cite ">________________________________</cite>
+                     <row rowsep="0">
+                        <entry colname="1">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e361">________________________________</cite>
                            </p>
                         </entry>
-                        <entry colname="2" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e365"
-                                    class="- topic/cite ">________________________________</cite>
+                        <entry colname="2">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e365">________________________________</cite>
                            </p>
                         </entry>
                      </row>
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e370"
-                                    class="- topic/cite ">________________________________</cite>
+                     <row rowsep="0">
+                        <entry colname="1">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e370">________________________________</cite>
                            </p>
                         </entry>
-                        <entry colname="2" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e374"
-                                    class="- topic/cite ">________________________________</cite>
+                        <entry colname="2">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e374">________________________________</cite>
                            </p>
                         </entry>
                      </row>
                   </tbody>
                </tgroup>
             </table>
-            <p class="- topic/p ">[Contracting Officer to insert NAICS codes and
+            <p>[Contracting Officer to insert NAICS codes and
 size standards].</p>
-            <p id="id218PC0N0OHK" outputclass="List2" class="- topic/p ">(2)
+            <p id="id218PC0N0OHK" outputclass="List2">(2)
 The small business size standard for a concern that submits an offer,
 other than on a construction or service acquisition, but proposes
 to furnish an end item that it did not itself manufacture, process,
-or produce (<i class="+ topic/ph hi-d/i ">i.e.</i>, nonmanufacturer), is 500 employees if the
+or produce (<i>i.e.</i>, nonmanufacturer), is 500 employees if the
 acquisition—</p>
-            <p id="id218PC0N0GPA" outputclass="List3" class="- topic/p ">(i)
+            <p id="id218PC0N0GPA" outputclass="List3">(i)
 Is set aside for small business and has a value above the simplified
 acquisition threshold;</p>
-            <p id="id218PC0N00ZR" outputclass="List3" class="- topic/p ">(ii)
+            <p id="id218PC0N00ZR" outputclass="List3">(ii)
 Uses the HUBZone price evaluation preference regardless of dollar
 value, unless the offeror waives the price evaluation preference;
 or</p>
-            <p id="id218PC0N108T" outputclass="List3" class="- topic/p ">(iii) Is an
+            <p id="id218PC0N108T" outputclass="List3">(iii) Is an
 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged
 women-owned, or women-owned small business set-aside or sole-source
 award regardless of dollar value.</p>
-            <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Representations.</i> (1)
+            <p outputclass="List1">(c) <i>Representations.</i> (1)
 The Offeror shall represent its small business size status for each
 one of the NAICS codes assigned to this acquisition under which
 it is submitting an offer.</p>
-            <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-               <tgroup cols="2"
-                       colsep="0"
-                       rowsep="0"
-                       outputclass="Notitle_norule"
-                       class="- topic/tgroup ">
+            <table frame="none" colsep="0" rowsep="0">
+               <tgroup cols="2" colsep="0" rowsep="0" outputclass="Notitle_norule">
                   <colspec colnum="1"
                            colname="1"
                            colwidth="50*"
                            colsep="0"
-                           class="- topic/colspec "/>
+                           rowheader="headers"/>
                   <colspec colnum="2"
                            colname="2"
                            colwidth="50*"
                            colsep="0"
-                           class="- topic/colspec "/>
-                  <thead class="- topic/thead ">
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <b class="+ topic/ph hi-d/b ">NAICS Code</b>
+                           rowheader="headers"/>
+                  <thead>
+                     <row rowsep="0">
+                        <entry colname="1">
+                           <p outputclass="Ctr">
+                              <b>NAICS Code</b>
                            </p>
                         </entry>
-                        <entry colname="2" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <b class="+ topic/ph hi-d/b ">Small business concern
+                        <entry colname="2">
+                           <p outputclass="Ctr">
+                              <b>Small business concern
 (yes/no)</b>
                            </p>
                         </entry>
                      </row>
                   </thead>
-                  <tbody class="- topic/tbody ">
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e403"
-                                    class="- topic/cite ">________________________________</cite>
+                  <tbody>
+                     <row rowsep="0">
+                        <entry colname="1">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e403">________________________________</cite>
                            </p>
                         </entry>
-                        <entry colname="2" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e407"
-                                    class="- topic/cite ">________________________________</cite>
+                        <entry colname="2">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e407">________________________________</cite>
                            </p>
                         </entry>
                      </row>
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e412"
-                                    class="- topic/cite ">________________________________</cite>
+                     <row rowsep="0">
+                        <entry colname="1">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e412">________________________________</cite>
                            </p>
                         </entry>
-                        <entry colname="2" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e416"
-                                    class="- topic/cite ">________________________________</cite>
+                        <entry colname="2">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e416">________________________________</cite>
                            </p>
                         </entry>
                      </row>
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e421"
-                                    class="- topic/cite ">________________________________</cite>
+                     <row rowsep="0">
+                        <entry colname="1">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e421">________________________________</cite>
                            </p>
                         </entry>
-                        <entry colname="2" class="- topic/entry ">
-                           <p outputclass="Ctr" class="- topic/p ">
-                              <cite outputclass="SingleLine"
-                                    xtrc="52.219-1_d19e425"
-                                    class="- topic/cite ">________________________________</cite>
+                        <entry colname="2">
+                           <p outputclass="Ctr">
+                              <cite outputclass="SingleLine" xtrc="52.219-1_d19e425">________________________________</cite>
                            </p>
                         </entry>
                      </row>
                   </tbody>
                </tgroup>
             </table>
-            <p class="- topic/p ">[<i class="+ topic/ph hi-d/i ">Contracting Officer to insert NAICS codes.</i>]</p>
+            <p>[<i>Contracting Officer to insert NAICS codes.</i>]</p>
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>

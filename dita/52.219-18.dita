@@ -1,69 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_52_219_18"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_52_219_18">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.219-18</ph> Notification of Competition	Limited to Eligible 8(a) Participants.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " id="d3290e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+      <conbody>
+         <p class="- topic/p " id="d3290e8">As prescribed in <ph outputclass="ClauseProvisionXREF">
                <xref href="19.811-3.dita#FAR_19_811_3"
                      base="i1100084"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">19.811-3</xref>(d)</ph>, insert	the following clause:</p>
-         <p class="- topic/p " id="d3290e15" outputclass="Ctr_SmCaps">Notification of Competition	Limited to Eligible 8(a) Participants <ph outputclass="SmCaps" class="- topic/ph ">(Mar	2020)</ph>
+                     outputclass="fm:ParaNumOnly">19.811-3</xref>(d)</ph>, insert	the following clause:</p>
+         <p class="- topic/p "
+            id="d3290e15"
+            outputclass="Ctr_SmCaps"
+            rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2017-019?>Notification of Competition Limited to Eligible 8(a) Participants <ph outputclass="SmCaps">(Oct 2022)</ph>
+            <?FM MARKER [Why] Amend section 52.219-18 by—   a. Revising the date of the clause?>
          </p>
-         <ol id="d3254e25" class="- topic/ol ">
-            <li class="- topic/li ">
+         <ol id="d3254e25">
+            <li>
                <p class="- topic/p " id="d3290e21">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-						            Offers	are solicited only from small business concerns expressly certified	by the Small Business Administration (SBA) for participation in	the SBA’s 8(a) Program and which meet the following criteria at	the time of submission of offer-</p>
-               <ol id="d3254e35" class="- topic/ol ">
-                  <li class="- topic/li ">
+                  <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2017-019?>Offers are solicited only from—<?FM MARKER [Why]  and paragraph (a);?></ph>
+               </p>
+               <ol id="d3254e35" rev="FAC 2022-08 October 28, 2022">
+                  <li>
                      <p class="- topic/p " id="d3290e27">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-								                The Offeror	is in conformance with the 8(a) support limitation set forth in	its approved business plan; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Small business concerns expressly certified by the Small Business Administration (SBA) for participation in SBA's 8(a) program and which meet the following criteria at the time of submission of offer—</p>
+                     <ol>
+                        <li>
+                           <p class="- topic/p " id="d3292e38">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The Offeror is in conformance with the 8(a) support limitation set forth in its approved business plan; and</p>
+                        </li>
+                        <li>
+                           <p class="- topic/p " id="d3292e43">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The Offeror is in conformance with the Business Activity Targets set forth in its approved business plan or any remedial action directed by SBA;</p>
+                        </li>
+                     </ol>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d3290e32">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-								                The Offeror	is in conformance with the Business Activity Targets set forth in	its approved business plan or any remedial action directed by the	SBA.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> A joint venture, in which at least one of the 8(a) program participants that is a party to the joint venture complies with the criteria set forth in paragraph (a)(1) of this clause, that complies with <xref href="https://www.ecfr.gov/current/title-13/section-124.513#p-124.513(c)"
+                              format="html"
+                              scope="external">13 CFR 124.513(c)</xref>; or</p>
+                  </li>
+                  <li>
+                     <p class="- topic/p " id="d3292e56">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> A joint venture—</p>
+                     <ol>
+                        <li>
+                           <p class="- topic/p " id="d3292e62">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> That is comprised of a mentor and an 8(a) protégé with an approved mentor-protégé agreement under the 8(a) program;</p>
+                        </li>
+                        <li>
+                           <p class="- topic/p " id="d3292e67">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> In which at least one of the 8(a) program participants that is a party to the joint venture complies with the criteria set forth in paragraph (a)(1) of this clause; and</p>
+                        </li>
+                        <li>
+                           <p class="- topic/p " id="d3292e72">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> That complies with <xref href="https://www.ecfr.gov/current/title-13/section-124.513#p-124.513(c)"
+                                    format="html"
+                                    scope="external">13 CFR 124.513(c)</xref>.</p>
+                        </li>
+                     </ol>
                   </li>
                </ol>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d3290e37">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-						            By submission	of its offer, the Offeror represents that it meets all of the criteria	set forth in paragraph (a) of this clause.</p>
+                   By submission of its offer, the Offeror represents that it meets <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2017-019?>the applicable<?FM MARKER [Why] b. Removing from paragraph (b) the phrase “all of the” and adding the phrase “the applicable” in its place;?></ph> criteria set forth in paragraph (a) of this clause.</p>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d3290e42">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-						            Any award	resulting from this solicitation will be made to the Small Business	Administration, which will subcontract performance to the successful	8(a) offeror selected through the evaluation criteria set forth	in this solicitation.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Any award resulting from this solicitation will be made to the Small Business Administration, which will subcontract performance to the successful 8(a) offeror selected through the evaluation criteria set forth in this solicitation. <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2017-019?>A contracting officer may consider a joint venture for contract award. SBA does not approve joint ventures for competitive awards, but see <xref href="https://www.ecfr.gov/current/title-13/section-124.501#p-124.501(g)"
+                           format="html"
+                           scope="external">13 CFR 124.501(g)</xref> for SBA's determination of participant eligibility.<?FM MARKER [Why] c. Adding a sentence to the end of paragraph (c); and?></ph>
+               </p>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d3290e47">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-						            The <cite outputclass="SingleLine"
-                        xtrc="52.219-18_d3278e103"
-                        class="- topic/cite ">____________	[<i class="+ topic/ph hi-d/i ">insert name of SBA's contractor</i>]</cite>will notify the<cite outputclass="SingleLine"
-                        xtrc="52.219-18_d3278e109"
-                        class="- topic/cite ">____________ [<i class="+ topic/ph hi-d/i ">insert	name of contracting agency</i>]</cite>Contracting Officer in writing	immediately upon entering an agreement (either oral or written)	to transfer all or part of its stock.</p>
+                  
+						            The <cite outputclass="SingleLine" xtrc="52.219-18_d3278e103">____________	[<i>insert name of SBA's contractor</i>]</cite>will notify the<cite outputclass="SingleLine" xtrc="52.219-18_d3278e109">____________ [<i>insert	name of contracting agency</i>]</cite>Contracting Officer in writing	immediately upon entering an agreement (either oral or written)	to transfer all or part of its stock.</p>
             </li>
          </ol>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
-            <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I <ph outputclass="SmCaps" class="- topic/ph ">(Jan 2017)</ph>
-               </i>. If the competition	is to be limited to 8(a) participants within one or more specific	SBA regions or districts, add the following paragraph (a)(3) to	paragraph (a) of the clause:</p>
-            <p outputclass="List1" class="- topic/p ">(3) The	offeror’s approved business plan is on the file and serviced by <cite outputclass="SingleLine"
-                     xtrc="52.219-18_d3278e137"
-                     class="- topic/cite ">________	[<i class="+ topic/ph hi-d/i ">Contracting Officer completes by inserting the appropriate SBA	District and/or Regional Office(s) as identified by the SBA</i>].</cite>
+         <p outputclass="Endofclause">(End of clause)</p>
+         <section outputclass="Alternate"><?FM MARKER [Alt] Start?>
+            <p class="- topic/p " id="d3292e122">
+               <ph rev="FAC 2022-08 October 28, 2022"><?FM MARKER [CaseNumber] FAR Case 2017-019?>
+                  <i>Alternate I</i>
+                  <ph outputclass="SmCaps">(Oct 2022)</ph>. If the competition is to be limited to 8(a) participants within one or more specific SBA regions or districts, add the following paragraph (a)(1)(iii) to paragraph (a) of the clause:<?FM MARKER [Why] d. Revising Alternate I.?></ph>
             </p>
+            <p outputclass="List3">(iii) The offeror's approved business plan is on the file and serviced by __[ <i>Contracting Officer completes by inserting the appropriate SBA District and/or Regional Office(s) as identified by the SBA</i>]. </p>
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>
