@@ -718,44 +718,46 @@ B Total) = 89.1%
                      3</i>.
                </p>
                <table frame="all" colsep="1" rowsep="1" id="table_325044">
-                  <tgroup cols="10" colsep="1" rowsep="1" outputclass="Notitle_rule">
-                     <colspec colnum="1" colname="1" colwidth="2.75*" rowheader="headers"/>
-                     <colspec colnum="2" colname="2" colwidth="2.5*" rowheader="headers"/>
-                     <colspec colnum="3" colname="3" colwidth="1*" rowheader="headers"/>
-                     <colspec colnum="4" colname="4" colwidth="1.72*" rowheader="headers"/>
-                     <colspec colnum="5" colname="5" colwidth="4.83*" rowheader="headers"/>
-                     <colspec colnum="6" colname="6" colwidth="1*" rowheader="headers"/>
-                     <colspec colnum="7" colname="7" colwidth="1.72*" rowheader="headers"/>
-                     <colspec colnum="8" colname="8" colwidth="2.93*" rowheader="headers"/>
-                     <colspec colnum="9" colname="9" colwidth="1.21*" rowheader="headers"/>
-                     <colspec colnum="10" colname="10" colwidth="4*" rowheader="headers"/>
+                  <tgroup cols="10" colsep="1" rowsep="1"
+                     outputclass="Notitle_rule">
+                     <colspec colnum="1" colname="1" colwidth="3.06*"
+                        rowheader="headers"/>
+                     <colspec colnum="2" colname="2" colwidth="2.99*"
+                        rowheader="headers"/>
+                     <colspec colnum="3" colname="3" colwidth="1*"
+                        rowheader="headers"/>
+                     <colspec colnum="4" colname="4" colwidth="2.94*"
+                        rowheader="headers"/>
+                     <colspec colnum="5" colname="5" colwidth="3.12*"
+                        rowheader="headers"/>
+                     <colspec colnum="6" colname="6" colwidth="1.39*"
+                        rowheader="headers"/>
+                     <colspec colnum="7" colname="7" colwidth="2.75*"
+                        rowheader="headers"/>
+                     <colspec colnum="8" colname="8" colwidth="3.92*"
+                        rowheader="headers"/>
+                     <colspec colnum="9" colname="9" colwidth="1.75*"
+                        rowheader="headers"/>
+                     <colspec colnum="10" colname="10" colwidth="3.31*"
+                        rowheader="headers"/>
                      <thead>
                         <row rowsep="1">
-                           <entry namest="1"
-                                  nameend="10"
-                                  align="center"
-                                  outputclass="CellHeading_Ctr">OFFERS</entry>
+                           <entry namest="1" nameend="10" align="center"
+                              outputclass="CellHeading_Ctr">OFFERS</entry>
                         </row>
                         <row rowsep="1">
-                           <entry colname="1"
-                                  align="center"
-                                  outputclass="CellHeading_CtrSmallCaps"
-                                  xtrc="SmallCaps">Item</entry>
-                           <entry namest="2"
-                                  nameend="4"
-                                  align="center"
-                                  outputclass="CellHeading_CtrSmallCaps"
-                                  xtrc="SmallCaps">A</entry>
-                           <entry namest="5"
-                                  nameend="7"
-                                  align="center"
-                                  outputclass="CellHeading_CtrSmallCaps"
-                                  xtrc="SmallCaps">B</entry>
-                           <entry namest="8"
-                                  nameend="10"
-                                  align="center"
-                                  outputclass="CellHeading_CtrSmallCaps"
-                                  xtrc="SmallCaps">C</entry>
+                           <entry colname="1" align="center"
+                              outputclass="CellHeading_CtrSmallCaps"
+                              xtrc="SmallCaps">Item</entry>
+                           <entry namest="2" nameend="4" align="center"
+                              outputclass="CellHeading_CtrSmallCaps"
+                              xtrc="SmallCaps">A</entry>
+                           <entry namest="5" nameend="7" align="center"
+                              outputclass="CellHeading_CtrSmallCaps"
+                              xtrc="SmallCaps">B</entry>
+                           <entry namest="8" nameend="10" align="center"
+                              outputclass="CellHeading_CtrSmallCaps"
+                              xtrc="SmallCaps">C</entry>
                         </row>
                      </thead>
                      <tbody>
@@ -763,85 +765,104 @@ B Total) = 89.1%
                            <entry colname="1">
                               <p outputclass="Ctr">1</p>
                            </entry>
-                           <entry colname="2" colsep="0" align="left" outputclass="CellBody_Left">DO</entry>
-                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="4" align="left" outputclass="CellBody_Left">$17,800</entry>
-                           <entry colname="5" colsep="0" align="left" outputclass="CellBody_Left">FO
-                              (&gt;55%)</entry>
-                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="7" align="left" outputclass="CellBody_Left">$16,000</entry>
-                           <entry colname="8" colsep="0" align="left" outputclass="CellBody_Left">FO
-                              (&gt;55%)</entry>
-                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="10" align="left" outputclass="CellBody_Left">$11,200</entry>
+                           <entry colname="2" colsep="0" align="left"
+                              outputclass="CellBody_Left">DO</entry>
+                           <entry colname="3" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="4" align="left"
+                              outputclass="CellBody_Left">$17,800</entry>
+                           <entry colname="5" colsep="0" align="left"
+                              outputclass="CellBody_Left">FO (&gt;55%)</entry>
+                           <entry colname="6" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="7" align="left"
+                              outputclass="CellBody_Left">$16,000</entry>
+                           <entry colname="8" colsep="0" align="left"
+                              outputclass="CellBody_Left">FO (&gt;55%)</entry>
+                           <entry colname="9" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="10" align="left"
+                              outputclass="CellBody_Left">$11,200</entry>
                         </row>
                         <row rowsep="1">
                            <entry colname="1">
                               <p outputclass="Ctr">2</p>
                            </entry>
-                           <entry colname="2" colsep="0" align="left" outputclass="CellBody_Left">FO
-                              (&gt;55%)</entry>
-                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="4" align="left" outputclass="CellBody_Left">
-                              $9,000</entry>
-                           <entry colname="5" colsep="0" align="left" outputclass="CellBody_Left">EL
-                              (&gt;55%)</entry>
-                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="7" align="left" outputclass="CellBody_Left">
-                              $8,500</entry>
-                           <entry colname="8" colsep="0" align="left" outputclass="CellBody_Left">DO</entry>
-                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="10" align="left" outputclass="CellBody_Left">
-                              $10,200</entry>
+                           <entry colname="2" colsep="0" align="left"
+                              outputclass="CellBody_Left">FO (&gt;55%)</entry>
+                           <entry colname="3" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="4" align="left"
+                              outputclass="CellBody_Left"> $9,000</entry>
+                           <entry colname="5" colsep="0" align="left"
+                              outputclass="CellBody_Left">FO (&gt;55%)</entry>
+                           <entry colname="6" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="7" align="left"
+                              outputclass="CellBody_Left"> $8,500</entry>
+                           <entry colname="8" colsep="0" align="left"
+                              outputclass="CellBody_Left">DO</entry>
+                           <entry colname="9" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="10" align="left"
+                              outputclass="CellBody_Left"> $10,200</entry>
                         </row>
                         <row rowsep="1">
                            <entry colname="1">
                               <p outputclass="Ctr">3</p>
                            </entry>
-                           <entry colname="2" colsep="0" align="left" outputclass="CellBody_Left">FO
-                              (&gt;55%)</entry>
-                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="4" align="left" outputclass="CellBody_Left">
-                              $11,200</entry>
-                           <entry colname="5" colsep="0" align="left" outputclass="CellBody_Left">FO
-                              (&gt;55%)</entry>
-                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="7" align="left" outputclass="CellBody_Left">
-                              $12,000</entry>
-                           <entry colname="8" colsep="0" align="left" outputclass="CellBody_Left">FO
-                              (&gt;55%)</entry>
-                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="10" align="left" outputclass="CellBody_Right">
-                              $11,000</entry>
+                           <entry colname="2" colsep="0" align="left"
+                              outputclass="CellBody_Left">FO (&gt;55%)</entry>
+                           <entry colname="3" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="4" align="left"
+                              outputclass="CellBody_Left"> $11,200</entry>
+                           <entry colname="5" colsep="0" align="left"
+                              outputclass="CellBody_Left">FO (&gt;55%)</entry>
+                           <entry colname="6" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="7" align="left"
+                              outputclass="CellBody_Left"> $12,000</entry>
+                           <entry colname="8" colsep="0" align="left"
+                              outputclass="CellBody_Left">FO (&gt;55%)</entry>
+                           <entry colname="9" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="10" align="left"
+                              outputclass="CellBody_Right"> $11,000</entry>
                         </row>
                         <row rowsep="1">
                            <entry colname="1">
                               <p outputclass="Ctr">4</p>
                            </entry>
-                           <entry colname="2" colsep="0" align="left" outputclass="CellBody_Left">DO</entry>
-                           <entry colname="3" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="4" align="left" outputclass="CellBody_Left">
-                              $10,000</entry>
-                           <entry colname="5" colsep="0" align="left" outputclass="CellBody_Left">DO</entry>
-                           <entry colname="6" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="7" align="left" outputclass="CellBody_Left">
-                              $9,000</entry>
-                           <entry colname="8" colsep="0" align="left" outputclass="CellBody_Left">FO
-                              (&gt;55%)</entry>
-                           <entry colname="9" colsep="0" align="left" outputclass="CellBody_Left">=</entry>
-                           <entry colname="10" align="left" outputclass="CellBody_Left">
-                              $6,400</entry>
+                           <entry colname="2" colsep="0" align="left"
+                              outputclass="CellBody_Left">DO</entry>
+                           <entry colname="3" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="4" align="left"
+                              outputclass="CellBody_Left"> $10,000</entry>
+                           <entry colname="5" colsep="0" align="left"
+                              outputclass="CellBody_Left">DO</entry>
+                           <entry colname="6" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="7" align="left"
+                              outputclass="CellBody_Left"> $9,000</entry>
+                           <entry colname="8" colsep="0" align="left"
+                              outputclass="CellBody_Left">FO (&gt;55%)</entry>
+                           <entry colname="9" colsep="0" align="left"
+                              outputclass="CellBody_Left">=</entry>
+                           <entry colname="10" align="left"
+                              outputclass="CellBody_Left"> $6,400</entry>
                         </row>
                         <row rowsep="0">
                            <entry colname="1">
                               <p outputclass="Ctr">Total</p>
                            </entry>
-                           <entry namest="2" nameend="4" align="left" outputclass="CellBody_Left">$48,000</entry>
-                           <entry namest="5" nameend="7" align="left" outputclass="CellBody_Left">$45,500</entry>
-                           <entry namest="8"
-                                  nameend="10"
-                                  align="left"
-                                  outputclass="CellBody_Left">$38,800.</entry>
+                           <entry namest="2" nameend="4" align="left"
+                              outputclass="CellBody_Left">$48,000</entry>
+                           <entry namest="5" nameend="7" align="left"
+                              outputclass="CellBody_Left">$45,500</entry>
+                           <entry namest="8" nameend="10" align="left"
+                              outputclass="CellBody_Left">$38,800.</entry>
                         </row>
                      </tbody>
                   </tgroup>
