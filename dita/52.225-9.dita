@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="FAR_52_225_9">
+   <concept id="FAR_52_225_9" xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.225-9</ph> Buy American-Construction
 Materials.</title>
       <conbody outputclass="clause">
          <p class="- topic/p " id="d3407e8">As prescribed
 in <ph outputclass="ClauseProvisionXREF">
-               <xref href="25.1102.dita#FAR_25_1102"
-                     base="i1090904"
-                     outputclass="fm:ParaNumOnly">25.1102</xref>(a)</ph>, insert
+               <xref href="25.1102.dita#FAR_25_1102" base="i1090904" outputclass="fm:ParaNumOnly">25.1102</xref>(a)</ph>, insert
 the following clause:</p>
          <p id="d3407e15" outputclass="Ctr_SmCaps">Buy American-Construction Materials
 (Oct 2022)</p>
@@ -33,9 +30,7 @@ construction material) that is–</p>
                               <p class="- topic/p " id="d3407e37">
                                  <ph props="autonumber" class="- topic/ph ">(i)</ph> A commercial
 product (as defined in paragraph (1) of the definition of “commercial
-product” at Federal Acquisition Regulation (FAR) <xref href="2.101.dita#FAR_2_101"
-                                       base="i1125359"
-                                       outputclass="fm:ParaNumOnly">2.101</xref>);</p>
+product” at Federal Acquisition Regulation (FAR) <xref href="2.101.dita#FAR_2_101" base="i1125359" outputclass="fm:ParaNumOnly">2.101</xref>);</p>
                            </li>
                            <li>
                               <p class="- topic/p " id="d3407e45">
@@ -202,21 +197,15 @@ preference.</p>
                <ol id="d3368e179">
                   <li>
                      <p class="- topic/p " id="d3407e142">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> This clause implements <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                              format="html"
-                              scope="external">41 U.S.C.chapter 83</xref>,
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> This clause implements <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external">41 U.S.C.chapter 83</xref>,
 Buy American, by providing a preference for domestic construction
-material. In accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                              format="html"
-                              scope="external">41 U.S.C. 1907</xref>, the
+material. In accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external">41 U.S.C. 1907</xref>, the
 domestic content test of the Buy American statute is waived for
 construction material that is a COTS item, except that for construction
 material that consists wholly or predominantly of iron or steel
 or a combination of both, the domestic content test is applied only
 to the iron and steel content of the construction materials, excluding
-COTS fasteners. (See FAR <xref href="12.505.dita#FAR_12_505"
-                              base="i1112949"
-                              outputclass="fm:ParaNumOnly">12.505</xref>(a)(2)).
+COTS fasteners. (See FAR <xref href="12.505.dita#FAR_12_505" base="i1112949" outputclass="fm:ParaNumOnly">12.505</xref>(a)(2)).
 The Contractor shall use only domestic construction material in
 performing this contract, except as provided in paragraphs (b)(2)
 and (b)(3) of this clause.</p>
@@ -228,7 +217,7 @@ does not apply to information technology that is a commercial product
 or to the construction materials or components listed by the Government
 as follows:</p>
                      <p class="- topic/p " id="d3407e160">
-                        <cite outputclass="MultiLine" xtrc="52.225-9_d3392e208">________________________________________________[<i>Contracting
+                        <cite outputclass="MultiLine" xtrc="52.225-9_d3392e208" xtrf="GFI">________________________________________________[<i>Contracting
 Officer to list applicable excepted materials or indicate "none"</i>]</cite>
                      </p>
                   </li>
@@ -453,249 +442,107 @@ information and any applicable supporting data based on the survey
 of suppliers:</p>
                <table frame="none" colsep="0" rowsep="0">
                   <tgroup cols="6" colsep="0" rowsep="0" outputclass="Notitle_norule">
-                     <colspec colnum="1" colname="1" colwidth="15*" colsep="0"/>
-                     <colspec colnum="2" colname="2" colwidth="30*" colsep="0"/>
-                     <colspec colnum="3" colname="3" colwidth="13*" colsep="0"/>
-                     <colspec colnum="4" colname="4" colwidth="15*" colsep="0"/>
-                     <colspec colnum="5" colname="5" colwidth="12*" colsep="0"/>
-                     <colspec colnum="6" colname="6" colwidth="14*" colsep="0"/>
+                     <colspec colnum="1" colname="1" colwidth="15*" colsep="0" />
+                     <colspec colnum="2" colname="2" colwidth="30*" colsep="0" />
+                     <colspec colnum="3" colname="3" colwidth="13*" colsep="0" />
+                     <colspec colnum="4" colname="4" colwidth="15*" colsep="0" />
+                     <colspec colnum="5" colname="5" colwidth="12*" colsep="0" />
+                     <colspec colnum="6" colname="6" colwidth="14*" colsep="0" />
                      <tbody>
                         <row rowsep="0">
                            <entry colname="1" colsep="1">
-                              <p outputclass="Ctr"/>
+                              <p outputclass="Ctr"></p>
                            </entry>
-                           <entry namest="2"
-                                  nameend="5"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellHeading_CtrSmallCaps">
+                           <entry namest="2" nameend="5" colsep="1" align="center" outputclass="CellHeading_CtrSmallCaps">
                               <p>Foreign and Domestic
 Construction Materials Price Comparison</p>
                            </entry>
                            <entry colname="6">
-                              <p outputclass="Ctr"/>
+                              <p outputclass="Ctr"></p>
                            </entry>
                         </row>
                         <row rowsep="0">
                            <entry colname="1" colsep="1">
-                              <p outputclass="Ctr"/>
+                              <p outputclass="Ctr"></p>
                            </entry>
-                           <entry colname="2"
-                                  align="center"
-                                  outputclass="CellBody_CtrUnderline"
-                                  xtrc="Underline">Construction
+                           <entry colname="2" align="center" outputclass="CellBody_CtrUnderline" xtrc="Underline">Construction
 Material Description</entry>
-                           <entry colname="3"
-                                  align="center"
-                                  outputclass="CellBody_CtrUnderline"
-                                  xtrc="Underline">Unit
+                           <entry colname="3" align="center" outputclass="CellBody_CtrUnderline" xtrc="Underline">Unit
 of Measure</entry>
-                           <entry colname="4"
-                                  align="center"
-                                  outputclass="CellBody_CtrUnderline"
-                                  xtrc="Underline">Quantity</entry>
-                           <entry colname="5"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_CtrUnderline"
-                                  xtrc="Underline">Price (dollars)*</entry>
+                           <entry colname="4" align="center" outputclass="CellBody_CtrUnderline" xtrc="Underline">Quantity</entry>
+                           <entry colname="5" colsep="1" align="center" outputclass="CellBody_CtrUnderline" xtrc="Underline">Price (dollars)*</entry>
                            <entry colname="6">
-                              <p outputclass="Ctr"/>
+                              <p outputclass="Ctr"></p>
                            </entry>
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="1" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                            <entry colname="2" outputclass="CellBody_9pt_Ind1" xtrc="9pt_Ind1">
                               <p outputclass="List1">Item1:</p>
                            </entry>
-                           <entry colname="3"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
-                           <entry colname="4"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
-                           <entry colname="5"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
-                           <entry colname="6"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="3" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
+                           <entry colname="4" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
+                           <entry colname="5" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
+                           <entry colname="6" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="1" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                            <entry colname="2" outputclass="CellBody_9pt_Ind1" xtrc="9pt_Ind1">
                               <p outputclass="List2">Foreign construction material</p>
                            </entry>
-                           <entry colname="3"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="4"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="5"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="6"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="3" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="4" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="5" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="6" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="1" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                            <entry colname="2" outputclass="CellBody_9pt_Ind1" xtrc="9pt_Ind1">
                               <p outputclass="List2">Domestic construction material</p>
                            </entry>
-                           <entry colname="3"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="4"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="5"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="6"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="3" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="4" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="5" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="6" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
-                           <entry colname="2" outputclass="CellBody_9pt_Ind1" xtrc="9pt_Ind1"/>
-                           <entry colname="3"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
-                           <entry colname="4"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
-                           <entry colname="5"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
-                           <entry colname="6"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="1" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
+                           <entry colname="2" outputclass="CellBody_9pt_Ind1" xtrc="9pt_Ind1" />
+                           <entry colname="3" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
+                           <entry colname="4" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
+                           <entry colname="5" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
+                           <entry colname="6" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="1" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                            <entry colname="2" outputclass="CellBody_9pt_Ind1" xtrc="9pt_Ind1">
                               <p outputclass="List1">Item2:</p>
                            </entry>
-                           <entry colname="3"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="4"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="5"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="6"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="3" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="4" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="5" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="6" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="1" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                            <entry colname="2" outputclass="CellBody_9pt_Ind1" xtrc="9pt_Ind1">
                               <p outputclass="List2">Foreign construction material</p>
                            </entry>
-                           <entry colname="3"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="4"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="5"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt">_______</entry>
-                           <entry colname="6"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="3" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="4" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="5" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt">_______</entry>
+                           <entry colname="6" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  colsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
-                           <entry colname="2"
-                                  rowsep="1"
-                                  outputclass="CellBody_9pt_Ind1"
-                                  xtrc="9pt_Ind1">
+                           <entry colname="1" colsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
+                           <entry colname="2" rowsep="1" outputclass="CellBody_9pt_Ind1" xtrc="9pt_Ind1">
                               <p outputclass="List2">Domestic construction
 material</p>
                            </entry>
-                           <entry colname="3"
-                                  rowsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
-                           <entry colname="4"
-                                  rowsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
-                           <entry colname="5"
-                                  colsep="1"
-                                  rowsep="1"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
-                           <entry colname="6"
-                                  align="center"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt"/>
+                           <entry colname="3" rowsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
+                           <entry colname="4" rowsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
+                           <entry colname="5" colsep="1" rowsep="1" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
+                           <entry colname="6" align="center" outputclass="CellBody_9pt_Ctr" xtrc="9pt" />
                         </row>
                         <row rowsep="0">
                            <entry namest="1" nameend="6">
@@ -718,9 +565,7 @@ other applicable supporting information.</i>]</p>
          <section id="section_unf_52225-9" outputclass="Alternate"><?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d316252225-9" outputclass="List1">
                <i>Alternate I</i>
-               <ph outputclass="SmCaps">(Oct 2022)</ph>. As prescribed in <xref
-                  href="25.1102.dita#FAR_25_1102" outputclass="fm:ParaNumOnly"
-                  >25.1102</xref>(a)(3) substitute the following sentence for
+               <ph outputclass="SmCaps">(Oct 2022)</ph>. As prescribed in <xref href="25.1102.dita#FAR_25_1102" outputclass="fm:ParaNumOnly">25.1102</xref>(a)(3) substitute the following sentence for
                the first sentence in paragraph (1)(ii)(A) of the definition of
                “domestic construction material” in paragraph (a):</p>
             <p id="d3408e512" outputclass="List4">(A) The cost of its components

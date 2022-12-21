@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_52_225_23"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="FAR_52_225_23" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.225-23</ph> Required Use of American
 Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials
@@ -13,10 +9,7 @@ under Trade Agreements.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p " id="d3421e8">As prescribed
 in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="25.1102.dita#FAR_25_1102"
-                     base="i1090904"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">25.1102</xref>(e)</ph>, insert
+               <xref href="25.1102.dita#FAR_25_1102" base="i1090904" outputclass="fm:ParaNumOnly" class="- topic/xref ">25.1102</xref>(e)</ph>, insert
 the following clause:</p>
          <p id="d3422e15" outputclass="Ctr_SmCaps" class="- topic/p ">Required Use of American Iron, Steel,
 and Manufactured Goods-Buy American Statute-Construction Materials
@@ -299,9 +292,7 @@ except as provided in paragraphs (b)(3) and (b)(4) of this clause.</p>
 in paragraph (b)(2) of this clause does not apply to the construction
 materials or components listed by the Government as follows:</p>
                      <p class="- topic/p " id="d3421e215">
-                        <cite outputclass="MultiLine"
-                              xtrc="52.225-23_d3406e332"
-                              class="- topic/cite ">[<i class="+ topic/ph hi-d/i ">Contracting Officer to list
+                        <cite outputclass="MultiLine" xtrc="52.225-23_d3406e332" class="- topic/cite " xtrf="GFI">[<i class="+ topic/ph hi-d/i ">Contracting Officer to list
 applicable excepted materials or indicate "none".</i>]</cite>
                      </p>
                   </li>
@@ -476,54 +467,18 @@ of suppliers:</p>
                <p class="- topic/p " id="d3421e344">Foreign (Nondesignated Country)
 and Domestic Construction Materials Cost Comparison</p>
                <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-                  <tgroup cols="4"
-                          colsep="0"
-                          rowsep="0"
-                          outputclass="Notitle_norule"
-                          class="- topic/tgroup ">
-                     <colspec colnum="1"
-                              colname="1"
-                              colwidth="46*"
-                              colsep="0"
-                              class="- topic/colspec "/>
-                     <colspec colnum="2"
-                              colname="2"
-                              colwidth="18*"
-                              colsep="0"
-                              class="- topic/colspec "/>
-                     <colspec colnum="3"
-                              colname="3"
-                              colwidth="18*"
-                              colsep="0"
-                              class="- topic/colspec "/>
-                     <colspec colnum="4"
-                              colname="4"
-                              colwidth="18*"
-                              colsep="0"
-                              class="- topic/colspec "/>
+                  <tgroup cols="4" colsep="0" rowsep="0" outputclass="Notitle_norule" class="- topic/tgroup ">
+                     <colspec colnum="1" colname="1" colwidth="46*" colsep="0" class="- topic/colspec " />
+                     <colspec colnum="2" colname="2" colwidth="18*" colsep="0" class="- topic/colspec " />
+                     <colspec colnum="3" colname="3" colwidth="18*" colsep="0" class="- topic/colspec " />
+                     <colspec colnum="4" colname="4" colwidth="18*" colsep="0" class="- topic/colspec " />
                      <thead class="- topic/thead ">
                         <row rowsep="0" class="- topic/row ">
-                           <entry colname="1"
-                                  align="center"
-                                  outputclass="CellHeading_9pt_Ctr"
-                                  xtrc="9pt"
-                                  class="- topic/entry ">Construction
+                           <entry colname="1" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt" class="- topic/entry ">Construction
 Material Description</entry>
-                           <entry colname="2"
-                                  align="center"
-                                  outputclass="CellHeading_9pt_Ctr"
-                                  xtrc="9pt"
-                                  class="- topic/entry ">Unit of Measure</entry>
-                           <entry colname="3"
-                                  align="center"
-                                  outputclass="CellHeading_9pt_Ctr"
-                                  xtrc="9pt"
-                                  class="- topic/entry ">Quantity</entry>
-                           <entry colname="4"
-                                  align="center"
-                                  outputclass="CellHeading_9pt_Ctr"
-                                  xtrc="9pt"
-                                  class="- topic/entry ">Cost (Dollars)*</entry>
+                           <entry colname="2" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt" class="- topic/entry ">Unit of Measure</entry>
+                           <entry colname="3" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt" class="- topic/entry ">Quantity</entry>
+                           <entry colname="4" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt" class="- topic/entry ">Cost (Dollars)*</entry>
                         </row>
                      </thead>
                      <tbody class="- topic/tbody ">
@@ -533,13 +488,13 @@ Material Description</entry>
                                  <i class="+ topic/ph hi-d/i ">Item 1</i>:</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                            </entry>
                            <entry colname="4" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
@@ -547,15 +502,15 @@ Material Description</entry>
                               <p class="- topic/p ">Foreign construction material</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                            <entry colname="4" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                         </row>
@@ -564,30 +519,30 @@ Material Description</entry>
                               <p class="- topic/p ">Domestic construction material</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                            <entry colname="4" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                            </entry>
                            <entry colname="4" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
@@ -596,13 +551,13 @@ Material Description</entry>
                                  <i class="+ topic/ph hi-d/i ">Item 2</i>:</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                            </entry>
                            <entry colname="4" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
@@ -610,15 +565,15 @@ Material Description</entry>
                               <p class="- topic/p ">Foreign construction material</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                            <entry colname="4" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                         </row>
@@ -627,30 +582,30 @@ Material Description</entry>
                               <p class="- topic/p ">Domestic construction material</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                            <entry colname="4" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                               <p class="- topic/p ">________</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p class="- topic/p "/>
+                              <p class="- topic/p "></p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p outputclass="Ctr" class="- topic/p "/>
+                              <p outputclass="Ctr" class="- topic/p "></p>
                            </entry>
                            <entry colname="3" class="- topic/entry ">
-                              <p outputclass="Ctr" class="- topic/p "/>
+                              <p outputclass="Ctr" class="- topic/p "></p>
                            </entry>
                            <entry colname="4" class="- topic/entry ">
-                              <p outputclass="Ctr" class="- topic/p "/>
+                              <p outputclass="Ctr" class="- topic/p "></p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
@@ -674,10 +629,7 @@ delivery costs to the construction site</i>.]</p>
          <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
             <p id="d3424e492" class="- topic/p ">
                <i class="+ topic/ph hi-d/i ">Alternate
-I (<i class="+ topic/ph hi-d/i ">May</i> 2014)</i>. As prescribed in <xref href="25.1102.dita#FAR_25_1102"
-                     base="i1090904"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">25.1102</xref>(e), add the following
+I (<i class="+ topic/ph hi-d/i ">May</i> 2014)</i>. As prescribed in <xref href="25.1102.dita#FAR_25_1102" base="i1090904" outputclass="fm:ParaNumOnly" class="- topic/xref ">25.1102</xref>(e), add the following
 definition of "Bahrainian, Mexican, or Omani construction material"
 to paragraph (a) of the basic clause, and substitute the following
 paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of

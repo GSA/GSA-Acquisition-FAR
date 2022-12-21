@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="FAR_52_225_11">
+   <concept id="FAR_52_225_11" xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.225-11</ph> Buy American-Construction
 Materials under Trade Agreements.</title>
       <conbody outputclass="clause">
          <p class="- topic/p " id="d3409e8">As prescribed
 in <ph outputclass="ClauseProvisionXREF">
-               <xref href="25.1102.dita#FAR_25_1102"
-                     base="i1090904"
-                     outputclass="fm:ParaNumOnly">25.1102</xref>(c)</ph>, insert
+               <xref href="25.1102.dita#FAR_25_1102" base="i1090904" outputclass="fm:ParaNumOnly">25.1102</xref>(c)</ph>, insert
 the following clause:</p>
          <p id="d3409e15" outputclass="Ctr_SmCaps">Buy American-Construction Materials
 under Trade Agreements (Oct 2022)</p>
@@ -52,9 +49,7 @@ construction material) that is–</p>
                               <p class="- topic/p " id="d3409e52">
                                  <ph props="autonumber" class="- topic/ph ">(i)</ph> A commercial
 product (as defined in paragraph (1) of the definition of “commercial
-product” at Federal Acquisition Regulation (FAR) <xref href="2.101.dita#FAR_2_101"
-                                       base="i1125359"
-                                       outputclass="fm:ParaNumOnly">2.101</xref>);</p>
+product” at Federal Acquisition Regulation (FAR) <xref href="2.101.dita#FAR_2_101" base="i1125359" outputclass="fm:ParaNumOnly">2.101</xref>);</p>
                            </li>
                            <li>
                               <p class="- topic/p " id="d3409e60">
@@ -73,9 +68,7 @@ commercial marketplace; and</p>
                      <li>
                         <p class="- topic/p " id="d3409e70">
                            <ph props="autonumber" class="- topic/ph ">(2)</ph> Does not
-include bulk cargo, as defined in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                 format="html"
-                                 scope="external">46
+include bulk cargo, as defined in <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external">46
                               U.S.C.40102(4)</xref>, such as agricultural
 products and petroleum products.</p>
                      </li>
@@ -332,21 +325,15 @@ materials.</p>
                <ol id="d3370e413">
                   <li>
                      <p class="- topic/p " id="d3409e241">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> This clause implements <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                              format="html"
-                              scope="external">41 U.S.C.chapter 83</xref>,
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> This clause implements <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external">41 U.S.C.chapter 83</xref>,
 Buy American, by providing a preference for domestic construction
-material. In accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                              format="html"
-                              scope="external">41 U.S.C.1907</xref>, the
+material. In accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external">41 U.S.C.1907</xref>, the
 domestic content test of the Buy American statute is waived for
 construction material that is a COTS item, except that for construction
 material that consists wholly or predominantly of iron or steel
 or a combination of both, the domestic content test is applied only
 to the iron and steel content of the construction material, excluding
-COTS fasteners. (See FAR <xref href="12.505.dita#FAR_12_505"
-                              base="i1112949"
-                              outputclass="fm:ParaNumOnly">12.505</xref>(a)(2)).
+COTS fasteners. (See FAR <xref href="12.505.dita#FAR_12_505" base="i1112949" outputclass="fm:ParaNumOnly">12.505</xref>(a)(2)).
 In addition, the Contracting Officer has determined that the WTO
 GPA and Free Trade Agreements (FTAs) apply to this acquisition.
 Therefore, the Buy American restrictions are waived for designated
@@ -366,7 +353,7 @@ in paragraph (b)(2) of this clause does not apply to information
 technology that is a commercial product or to the construction materials
 or components listed by the Government as follows:</p>
                      <p class="- topic/p " id="d3409e264">
-                        <cite outputclass="MultiLine" xtrc="52.225-11_d3394e371">[<i>Contracting Officer to list
+                        <cite outputclass="MultiLine" xtrc="52.225-11_d3394e371" xtrf="GFI">[<i>Contracting Officer to list
 applicable excepted materials or indicate "none"</i>]</cite>
                      </p>
                   </li>
@@ -590,137 +577,85 @@ information and any applicable supporting data based on the survey
 of suppliers:</p>
                <table frame="none" colsep="0" rowsep="0">
                   <tgroup cols="4" colsep="0" rowsep="0" outputclass="Notitle_norule">
-                     <colspec colnum="1" colname="1" colwidth="37*" colsep="0"/>
-                     <colspec colnum="2" colname="2" colwidth="23*" colsep="0"/>
-                     <colspec colnum="3" colname="3" colwidth="22*" colsep="0"/>
-                     <colspec colnum="4" colname="4" colwidth="18*" colsep="0"/>
+                     <colspec colnum="1" colname="1" colwidth="37*" colsep="0" />
+                     <colspec colnum="2" colname="2" colwidth="23*" colsep="0" />
+                     <colspec colnum="3" colname="3" colwidth="22*" colsep="0" />
+                     <colspec colnum="4" colname="4" colwidth="18*" colsep="0" />
                      <tbody>
                         <row rowsep="0">
-                           <entry namest="1"
-                                  nameend="4"
-                                  align="center"
-                                  outputclass="CellBody_9pt_CtrSmallCaps"
-                                  xtrc="9pt_SmallCaps">Foreign
+                           <entry namest="1" nameend="4" align="center" outputclass="CellBody_9pt_CtrSmallCaps" xtrc="9pt_SmallCaps">Foreign
 and Domestic Construction Materials Price Comparison</entry>
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  align="center"
-                                  outputclass="CellHeading_9pt_Ctr"
-                                  xtrc="9pt">Construction
+                           <entry colname="1" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt">Construction
 Material Description</entry>
-                           <entry colname="2"
-                                  align="center"
-                                  outputclass="CellHeading_9pt_Ctr"
-                                  xtrc="9pt">Unit of Measure</entry>
-                           <entry colname="3"
-                                  align="center"
-                                  outputclass="CellHeading_9pt_Ctr"
-                                  xtrc="9pt">Quantity</entry>
-                           <entry colname="4"
-                                  align="center"
-                                  outputclass="CellHeading_9pt_Ctr"
-                                  xtrc="9pt">Price (Dollars)*</entry>
+                           <entry colname="2" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt">Unit of Measure</entry>
+                           <entry colname="3" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt">Quantity</entry>
+                           <entry colname="4" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt">Price (Dollars)*</entry>
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  outputclass="CellBody_9pt_Hanging_FL"
-                                  xtrc="9pt_Hanging_FL">
+                           <entry colname="1" outputclass="CellBody_9pt_Hanging_FL" xtrc="9pt_Hanging_FL">
                               <p outputclass="List1">Item1</p>
                            </entry>
                            <entry colname="2">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="3">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="4">
-                              <p/>
+                              <p></p>
                            </entry>
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  outputclass="CellBody_9pt_Hanging_FL"
-                                  xtrc="9pt_Hanging_FL">
+                           <entry colname="1" outputclass="CellBody_9pt_Hanging_FL" xtrc="9pt_Hanging_FL">
                               <p outputclass="List2">Foreign construction
 material</p>
                            </entry>
-                           <entry colname="2"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
-                           <entry colname="3"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
-                           <entry colname="4"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="2" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="3" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="4" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  outputclass="CellBody_9pt_Hanging_FL"
-                                  xtrc="9pt_Hanging_FL">
+                           <entry colname="1" outputclass="CellBody_9pt_Hanging_FL" xtrc="9pt_Hanging_FL">
                               <p outputclass="List2">Domestic construction
 material</p>
                            </entry>
-                           <entry colname="2"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
-                           <entry colname="3"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
-                           <entry colname="4"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="2" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="3" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="4" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  outputclass="CellBody_9pt_Hanging_FL"
-                                  xtrc="9pt_Hanging_FL">
+                           <entry colname="1" outputclass="CellBody_9pt_Hanging_FL" xtrc="9pt_Hanging_FL">
                               <p outputclass="List1">Item1</p>
                            </entry>
                            <entry colname="2">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="3">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="4">
-                              <p/>
+                              <p></p>
                            </entry>
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  outputclass="CellBody_9pt_Hanging_FL"
-                                  xtrc="9pt_Hanging_FL">
+                           <entry colname="1" outputclass="CellBody_9pt_Hanging_FL" xtrc="9pt_Hanging_FL">
                               <p outputclass="List2">Foreign construction
 material</p>
                            </entry>
-                           <entry colname="2"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
-                           <entry colname="3"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
-                           <entry colname="4"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="2" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="3" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="4" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
                         </row>
                         <row rowsep="0">
-                           <entry colname="1"
-                                  outputclass="CellBody_9pt_Hanging_FL"
-                                  xtrc="9pt_Hanging_FL">
+                           <entry colname="1" outputclass="CellBody_9pt_Hanging_FL" xtrc="9pt_Hanging_FL">
                               <p outputclass="List2">Domestic construction
 material</p>
                            </entry>
-                           <entry colname="2"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
-                           <entry colname="3"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
-                           <entry colname="4"
-                                  outputclass="CellBody_9pt_Ctr"
-                                  xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="2" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="3" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
+                           <entry colname="4" outputclass="CellBody_9pt_Ctr" xtrc="9pt &amp; align = “center">_______</entry>
                         </row>
                      </tbody>
                   </tgroup>
@@ -739,10 +674,8 @@ other applicable supporting information.</i> ]</p>
          <section outputclass="Alternate"><?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3409e478">
                <i>Alternate
-I</i> (<ph outputclass="SmCaps">Jan</ph> 2021). As prescribed
-in <xref href="25.1102.dita#FAR_25_1102"
-                     base="i1090904"
-                     outputclass="fm:ParaNumOnly">25.1102</xref>(c)(3), add the
+I</i> (<ph outputclass="SmCaps">Jan</ph>&#xa0;2021). As prescribed
+in <xref href="25.1102.dita#FAR_25_1102" base="i1090904" outputclass="fm:ParaNumOnly">25.1102</xref>(c)(3), add the
 following definition of "Bahrainian, Mexican, or Omani construction
 material" to paragraph (a) of the basic clause, and substitute the
 following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and
@@ -758,21 +691,15 @@ transformed in Bahrain, Mexico, or Oman into a new and different
 construction material distinct from the materials from which it
 was transformed.</p>
             <p id="id211EG0K0VYK" outputclass="List1">(b)
-Construction materials. (1) This clause implements <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                     format="html"
-                     scope="external">41 U.S.C. chapter 83</xref>,
+Construction materials. (1) This clause implements <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external">41 U.S.C. chapter 83</xref>,
 Buy American, by providing a preference for domestic construction
-material. In accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                     format="html"
-                     scope="external">41 U.S.C. 1907</xref>, the
+material. In accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external">41 U.S.C. 1907</xref>, the
 domestic content test of the Buy American statute is waived for
 construction material that is a COTS item, except that for construction
 material that consists wholly or predominantly of iron or steel
 or a combination of both, the domestic content test is applied only
 to the iron and steel content of the construction material, excluding
-COTS fasteners. (See FAR <xref href="12.505.dita#FAR_12_505"
-                     base="i1112949"
-                     outputclass="fm:ParaNumOnly">12.505</xref>(a)(2)).
+COTS fasteners. (See FAR <xref href="12.505.dita#FAR_12_505" base="i1112949" outputclass="fm:ParaNumOnly">12.505</xref>(a)(2)).
 In addition, the Contracting Officer has determined that the WTO
 GPA and all the Free Trade Agreements except the Bahrain FTA, NAFTA,
 and the Oman FTA apply to this acquisition. Therefore, the Buy American
@@ -786,9 +713,7 @@ except as provided in paragraphs (b)(3) and (b)(4) of this clause.</p>
             <?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3410e607" outputclass="List1">
                <i>Alternate II</i>
-               <ph outputclass="SmCaps">(Oct 2022)</ph>. As prescribed in <xref href="25.1102.dita#FAR_25_1102"
-                     base="i1090904"
-                     outputclass="fm:ParaNumOnly">25.1102</xref>(c)(4) substitute
+               <ph outputclass="SmCaps">(Oct 2022)</ph>. As prescribed in <xref href="25.1102.dita#FAR_25_1102" base="i1090904" outputclass="fm:ParaNumOnly">25.1102</xref>(c)(4) substitute
 the following sentence for the first sentence of paragraph (1)(ii)(A)
 of the definition of <i>domestic construction material</i> in paragraph
 (a):</p>
