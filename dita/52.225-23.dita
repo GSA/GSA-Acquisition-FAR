@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="FAR_52_225_23">
+   <concept id="FAR_52_225_23" xtrc="GFI">
       <title>
          <ph props="autonumber">52.225-23</ph> Required Use of American
 Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials
@@ -13,7 +12,7 @@ in <ph outputclass="ClauseProvisionXREF">
                <xref href="25.1102.dita#FAR_25_1102" base="i1090904" outputclass="fm:ParaNumOnly">25.1102</xref>(e)</ph>, insert
 the following clause:</p>
          <p id="d3422e15" outputclass="Ctr_SmCaps" rev="FAC 2023-01 December 30, 2022">
-            <?FM MARKER [CaseNumber] FAR Case 2020-014?>Required Use of American Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials under Trade Agreements (Dec 2022)<?FM MARKER [Why] Amend section 52.225-23 by—   a. Revising the date of the clause; and?> </p>
+            <?FM MARKER [CaseNumber] FAR Case 2020-014?>Required Use of American Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials under Trade Agreements (Dec 2022)<?FM MARKER [Why] Amend section 52.225-23 by— a. Revising the date of clause; and?> </p>
          <ol>
             <li>
                <p id="d3421e19"><ph props="autonumber" class="- topic/ph ">(a)</ph>
@@ -166,11 +165,7 @@ Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain,
 Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);</p>
                      </li>
                      <li>
-                        <p
-                        id="d3421e131"><ph
-                        props="autonumber"
-                        class="- topic/ph ">(2)</ph> A Free Trade Agreement country (FTA) (Australia, <ph
-                        rev="FAC 2023-01 December 30, 2022"><?FM MARKER [CaseNumber] FAR Case 2020-014?>Bahrain, Chile,<?FM MARKER [Why] b. In paragraph (a), in the definitions of “Designated country” and “Recovery Act designated country”, removing “Canada,” from paragraphs (2).?></ph> Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore); or</p>
+                        <p id="d3421e131"><ph props="autonumber" class="- topic/ph ">(2)</ph> A Free Trade Agreement country (FTA) (Australia, <ph rev="FAC 2023-01 December 30, 2022"><?FM MARKER [CaseNumber] FAR Case 2020-014?>Bahrain, Chile,<?FM MARKER [Why] b. In paragraph (a), in the definitions of “Designated country” and “Recovery Act designated country”, removing “Canada,” from paragraphs (2).?></ph> Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore); or</p>
                      </li>
                      <li>
                         <p id="d3421e136"><ph props="autonumber" class="- topic/ph ">(3)</ph>
@@ -283,7 +278,7 @@ except as provided in paragraphs (b)(3) and (b)(4) of this clause.</p>
 in paragraph (b)(2) of this clause does not apply to the construction
 materials or components listed by the Government as follows:</p>
                      <p id="d3421e215">
-                        <cite outputclass="MultiLine" xtrc="52.225-23_d3406e332">[<i>Contracting Officer to list
+                        <cite outputclass="MultiLine" xtrc="52.225-23_d3406e332" xtrf="GFI">[<i>Contracting Officer to list
 applicable excepted materials or indicate "none".</i>]</cite>
                      </p>
                   </li>
@@ -459,10 +454,10 @@ of suppliers:</p>
 and Domestic Construction Materials Cost Comparison</p>
                <table frame="none" colsep="0" rowsep="0">
                   <tgroup cols="4" colsep="0" rowsep="0" outputclass="Notitle_norule">
-                     <colspec colnum="1" colname="1" colwidth="46*" colsep="0" rowheader="headers"/>
-                     <colspec colnum="2" colname="2" colwidth="18*" colsep="0" rowheader="headers"/>
-                     <colspec colnum="3" colname="3" colwidth="18*" colsep="0" rowheader="headers"/>
-                     <colspec colnum="4" colname="4" colwidth="18*" colsep="0" rowheader="headers"/>
+                     <colspec colnum="1" colname="1" colwidth="46*" colsep="0" rowheader="headers" />
+                     <colspec colnum="2" colname="2" colwidth="18*" colsep="0" rowheader="headers" />
+                     <colspec colnum="3" colname="3" colwidth="18*" colsep="0" rowheader="headers" />
+                     <colspec colnum="4" colname="4" colwidth="18*" colsep="0" rowheader="headers" />
                      <thead>
                         <row rowsep="0">
                            <entry colname="1" align="center" outputclass="CellHeading_9pt_Ctr" xtrc="9pt">Construction
@@ -479,13 +474,13 @@ Material Description</entry>
                                  <i>Item 1</i>:</p>
                            </entry>
                            <entry colname="2">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="3">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="4">
-                              <p/>
+                              <p></p>
                            </entry>
                         </row>
                         <row rowsep="0">
@@ -493,15 +488,15 @@ Material Description</entry>
                               <p>Foreign construction material</p>
                            </entry>
                            <entry colname="2">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                            <entry colname="3">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                            <entry colname="4">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                         </row>
@@ -510,30 +505,30 @@ Material Description</entry>
                               <p>Domestic construction material</p>
                            </entry>
                            <entry colname="2">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                            <entry colname="3">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                            <entry colname="4">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                         </row>
                         <row rowsep="0">
                            <entry colname="1">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="2">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="3">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="4">
-                              <p/>
+                              <p></p>
                            </entry>
                         </row>
                         <row rowsep="0">
@@ -542,13 +537,13 @@ Material Description</entry>
                                  <i>Item 2</i>:</p>
                            </entry>
                            <entry colname="2">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="3">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="4">
-                              <p/>
+                              <p></p>
                            </entry>
                         </row>
                         <row rowsep="0">
@@ -556,15 +551,15 @@ Material Description</entry>
                               <p>Foreign construction material</p>
                            </entry>
                            <entry colname="2">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                            <entry colname="3">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                            <entry colname="4">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                         </row>
@@ -573,30 +568,30 @@ Material Description</entry>
                               <p>Domestic construction material</p>
                            </entry>
                            <entry colname="2">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                            <entry colname="3">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                            <entry colname="4">
-                              <p/>
+                              <p></p>
                               <p>________</p>
                            </entry>
                         </row>
                         <row rowsep="0">
                            <entry colname="1">
-                              <p/>
+                              <p></p>
                            </entry>
                            <entry colname="2">
-                              <p outputclass="Ctr"/>
+                              <p outputclass="Ctr"></p>
                            </entry>
                            <entry colname="3">
-                              <p outputclass="Ctr"/>
+                              <p outputclass="Ctr"></p>
                            </entry>
                            <entry colname="4">
-                              <p outputclass="Ctr"/>
+                              <p outputclass="Ctr"></p>
                            </entry>
                         </row>
                         <row rowsep="0">
