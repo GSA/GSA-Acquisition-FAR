@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_52_236_21"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_52_236_21" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.236-21</ph> Specifications and Drawings for Construction.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p " id="d3571e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="36.521.dita#FAR_36_521"
-                     base="i1078759"
-                     class="- topic/xref ">36.521</xref>
+               <xref outputclass="fm:ParaNumOnly" href="36.521.dita#FAR_36_521" base="i1078759" class="- topic/xref ">36.521</xref>
             </ph>, insert the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3571e14">Specifications and Drawings for Construction <ph outputclass="SmCaps" class="- topic/ph ">(Feb 1997)</ph>
          </p>
@@ -64,9 +56,7 @@
             <?FM MARKER [Alt] Start?>
             <p class="- topic/p ">
                <i class="+ topic/ph hi-d/i ">Alternate II (<i class="+ topic/ph hi-d/i ">Apr</i>1984)</i>. When record shop drawings are required and reproducible shop drawings are not needed, the following sentences shall be added to paragraph (g) of the basic clause:</p>
-            <p outputclass="NoIndent" class="- topic/p ">Upon completing the work under this contract, the Contractor shall furnish <cite outputclass="SingleLine"
-                     xtrc="52.236-21_d3551e128"
-                     class="- topic/cite ">_____ [<i class="+ topic/ph hi-d/i ">Contracting Officer complete by inserting desired amount</i>]</cite> sets of prints of all shop drawings as finally approved. These drawings shall show changes and revisions made up to the time the equipment is completed and accepted.</p>
+            <p outputclass="NoIndent" class="- topic/p ">Upon completing the work under this contract, the Contractor shall furnish <cite outputclass="SingleLine" xtrc="52.236-21_d3551e128" class="- topic/cite " xtrf="GFI">_____ [<i class="+ topic/ph hi-d/i ">Contracting Officer complete by inserting desired amount</i>]</cite> sets of prints of all shop drawings as finally approved. These drawings shall show changes and revisions made up to the time the equipment is completed and accepted.</p>
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>
