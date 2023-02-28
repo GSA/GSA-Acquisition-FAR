@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="FAR_52_219_4" xtrc="VFI">
       <title class="- topic/title ">
@@ -8,7 +9,9 @@ Preference for HUBZone Small Business Concerns.</title>
       <conbody>
          <p class="- topic/p " id="d3276e8">As
 prescribed in <ph outputclass="ClauseProvisionXREF">
-               <xref href="19.1309.dita#FAR_19_1309" base="i1099698" outputclass="fm:ParaNumOnly">19.1309</xref>(b)</ph>, insert
+               <xref href="19.1309.dita#FAR_19_1309"
+                     base="i1099698"
+                     outputclass="fm:ParaNumOnly">19.1309</xref>(b)</ph>, insert
 the following clause:</p>
          <p id="d3276e15" outputclass="Ctr_SmCaps">Notice of Price
             Evaluation preference for HUBZone Small Business Concerns (Oct
@@ -91,7 +94,7 @@ for evaluation purposes.
             </li>
          </ol>
          <p outputclass="Endofclause">(End of clause)</p>
-         <p></p>
+         <p/>
       </conbody>
    </concept>
 </dita>

@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_52_247_33" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " xtrc="GFI">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_52_247_33"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept "
+            xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.247-33</ph> F.o.b. Origin, with Differentials.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p " id="d3711e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly" href="47.303-5.dita#FAR_47_303_5" base="i1070253" class="- topic/xref ">47.303-5</xref>(c)</ph>, insert the following clause:</p>
+               <xref outputclass="fm:ParaNumOnly"
+                     href="47.303-5.dita#FAR_47_303_5"
+                     base="i1070253"
+                     class="- topic/xref ">47.303-5</xref>(c)</ph>, insert the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3711e15">F.o.b. Origin, with Differentials <ph outputclass="SmCaps" class="- topic/ph ">(Feb 2006)</ph>
          </p>
          <ol id="d3667e25" class="- topic/ol ">
@@ -184,9 +193,15 @@
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
 								                Offeror’s differentials in cents for each 100 pounds for optional mode of transportation, types of vehicle, transportation within a mode, or place of delivery, specified by the Government at the time of shipment and not included in the f.o.b. origin price indicated in the Schedule by the offeror, are as follows:</p>
                      <p class="- topic/p " id="d3711e191">
-                        <cite outputclass="SingleLine" xtrc="52.247-33_d3691e342" class="- topic/cite " xtrf="GFI">_______</cite> (carload, truckload, less-load,</p>
+                        <cite outputclass="SingleLine"
+                              xtrc="52.247-33_d3691e342"
+                              class="- topic/cite "
+                              xtrf="GFI">_______</cite> (carload, truckload, less-load,</p>
                      <p class="- topic/p " id="d3711e195">
-                        <cite outputclass="SingleLine" xtrc="52.247-33_d3691e348" class="- topic/cite " xtrf="GFI">_______</cite> wharf, flatcar, driveaway, etc.)</p>
+                        <cite outputclass="SingleLine"
+                              xtrc="52.247-33_d3691e348"
+                              class="- topic/cite "
+                              xtrf="GFI">_______</cite> wharf, flatcar, driveaway, etc.)</p>
                   </li>
                </ol>
             </li>

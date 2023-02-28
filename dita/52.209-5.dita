@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_52_209_5" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " xtrc="VFI">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_52_209_5"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept "
+            xtrc="VFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.209-5</ph> Certification Regarding Responsibility Matters.</title>
       <conbody outputclass="provision" class="- topic/body  concept/conbody ">
          <p class="- topic/p " id="d3126e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="9.104-7.dita#FAR_9_104_7" base="i1116212" outputclass="fm:ParaNumOnly" class="- topic/xref ">9.104-7</xref>(a)</ph>, insert the following provision:</p>
+               <xref href="9.104-7.dita#FAR_9_104_7"
+                     base="i1116212"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">9.104-7</xref>(a)</ph>, insert the following provision:</p>
          <p id="d3119e15" outputclass="Ctr_SmCaps" class="- topic/p ">Certification Regarding Responsibility Matters (Aug 2020)</p>
          <ol id="d3092e25" class="- topic/ol ">
             <li props="Runin" class="- topic/li ">
@@ -43,22 +52,52 @@
                               <li class="- topic/li ">
                                  <p class="- topic/p " id="d3126e44">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>
-												                         Are <cite outputclass="Checkbox" xtrc="52.209-5_d53e48" class="- topic/cite " xtrf="VFI">□</cite> are not <cite outputclass="Checkbox" xtrc="52.209-5_d53e51" class="- topic/cite " xtrf="VFI">□</cite> presently debarred, suspended, proposed for debarment, or declared ineligible for the award of contracts by any Federal agency;</p>
+												                         Are <cite outputclass="Checkbox"
+                                          xtrc="52.209-5_d53e48"
+                                          class="- topic/cite "
+                                          xtrf="VFI">□</cite> are not <cite outputclass="Checkbox"
+                                          xtrc="52.209-5_d53e51"
+                                          class="- topic/cite "
+                                          xtrf="VFI">□</cite> presently debarred, suspended, proposed for debarment, or declared ineligible for the award of contracts by any Federal agency;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p class="- topic/p " id="d3126e55">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph>
-												                         Have <cite outputclass="Checkbox" xtrc="52.209-5_d53e59" class="- topic/cite " xtrf="VFI">□</cite> have not <cite outputclass="Checkbox" xtrc="52.209-5_d53e62" class="- topic/cite " xtrf="VFI">□</cite>, within a three-year period preceding this offer, been convicted of or had a civil judgment rendered against them for: commission of fraud or a criminal offense in connection with obtaining, attempting to obtain, or performing a public (Federal, State, or local) contract or subcontract; violation of Federal or State antitrust statutes relating to the submission of offers; or commission of embezzlement, theft, forgery, bribery, falsification or destruction of records, making false statements, tax evasion, violating Federal criminal tax laws, or receiving stolen property (if offeror checks "have", the offeror shall also see <xref href="52.209-7.dita#FAR_52_209_7" base="i1062621" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.209-7</xref>, if included in this solicitation);</p>
+												                         Have <cite outputclass="Checkbox"
+                                          xtrc="52.209-5_d53e59"
+                                          class="- topic/cite "
+                                          xtrf="VFI">□</cite> have not <cite outputclass="Checkbox"
+                                          xtrc="52.209-5_d53e62"
+                                          class="- topic/cite "
+                                          xtrf="VFI">□</cite>, within a three-year period preceding this offer, been convicted of or had a civil judgment rendered against them for: commission of fraud or a criminal offense in connection with obtaining, attempting to obtain, or performing a public (Federal, State, or local) contract or subcontract; violation of Federal or State antitrust statutes relating to the submission of offers; or commission of embezzlement, theft, forgery, bribery, falsification or destruction of records, making false statements, tax evasion, violating Federal criminal tax laws, or receiving stolen property (if offeror checks "have", the offeror shall also see <xref href="52.209-7.dita#FAR_52_209_7"
+                                          base="i1062621"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">52.209-7</xref>, if included in this solicitation);</p>
                               </li>
                               <li class="- topic/li ">
                                  <p class="- topic/p " id="d3126e69">
                                     <ph props="autonumber" class="- topic/ph ">(C)</ph>
-												                         Are <cite outputclass="Checkbox" xtrc="52.209-5_d53e73" class="- topic/cite " xtrf="VFI">□</cite> are not <cite outputclass="Checkbox" xtrc="52.209-5_d53e76" class="- topic/cite " xtrf="VFI">□</cite> presently indicted for, or otherwise criminally or civilly charged by a governmental entity with, commission of any of the offenses enumerated in paragraph (a)(1)(i)(B) of this provision;</p>
+												                         Are <cite outputclass="Checkbox"
+                                          xtrc="52.209-5_d53e73"
+                                          class="- topic/cite "
+                                          xtrf="VFI">□</cite> are not <cite outputclass="Checkbox"
+                                          xtrc="52.209-5_d53e76"
+                                          class="- topic/cite "
+                                          xtrf="VFI">□</cite> presently indicted for, or otherwise criminally or civilly charged by a governmental entity with, commission of any of the offenses enumerated in paragraph (a)(1)(i)(B) of this provision;</p>
                               </li>
                               <li class="- topic/li ">
                                  <p class="- topic/p " id="d3126e80">
                                     <ph props="autonumber" class="- topic/ph ">(D)</ph>
-												                         Have <cite outputclass="Checkbox" xtrc="52.209-5_d53e84" class="- topic/cite " xtrf="VFI">□</cite>, have not <cite outputclass="Checkbox" xtrc="52.209-5_d53e87" class="- topic/cite " xtrf="VFI">□</cite>, within a three-year period preceding this offer, been notified of any delinquent Federal taxes in an amount that exceeds the threshold at <xref href="9.104-5.dita#FAR_9_104_5" base="i1116212" outputclass="fm:ParaNumOnly" class="- topic/xref ">9.104-5</xref>(a)(2) for which the liability remains unsatisfied.</p>
+												                         Have <cite outputclass="Checkbox"
+                                          xtrc="52.209-5_d53e84"
+                                          class="- topic/cite "
+                                          xtrf="VFI">□</cite>, have not <cite outputclass="Checkbox"
+                                          xtrc="52.209-5_d53e87"
+                                          class="- topic/cite "
+                                          xtrf="VFI">□</cite>, within a three-year period preceding this offer, been notified of any delinquent Federal taxes in an amount that exceeds the threshold at <xref href="9.104-5.dita#FAR_9_104_5"
+                                          base="i1116212"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">9.104-5</xref>(a)(2) for which the liability remains unsatisfied.</p>
                                  <ol id="d3092e128" class="- topic/ol ">
                                     <li outputclass="italic" xtrf="52.209-5_d53e91" class="- topic/li ">
                                        <p class="- topic/p " id="d3126e95">
@@ -85,22 +124,22 @@
                                           <li outputclass="italic" xtrf="52.209-5_d53e119" class="- topic/li ">
                                              <p class="- topic/p " id="d3126e123">
                                                 <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                                                <i class="+ topic/ph hi-d/i "></i>The taxpayer has received a statutory notice of deficiency, under I.R.C. § 6212, which entitles the taxpayer to seek Tax Court review of a proposed tax deficiency. This is not a delinquent tax because it is not a final tax liability. Should the taxpayer seek Tax Court review, this will not be a final tax liability until the taxpayer has exercised all judicial appeal rights.</p>
+                                                <i class="+ topic/ph hi-d/i "/>The taxpayer has received a statutory notice of deficiency, under I.R.C. § 6212, which entitles the taxpayer to seek Tax Court review of a proposed tax deficiency. This is not a delinquent tax because it is not a final tax liability. Should the taxpayer seek Tax Court review, this will not be a final tax liability until the taxpayer has exercised all judicial appeal rights.</p>
                                           </li>
                                           <li outputclass="italic" xtrf="52.209-5_d53e125" class="- topic/li ">
                                              <p class="- topic/p " id="d3126e129">
                                                 <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                                                <i class="+ topic/ph hi-d/i "></i>The IRS has filed a notice of Federal tax lien with respect to an assessed tax liability, and the taxpayer has been issued a notice under I.R.C. § 6320 entitling the taxpayer to request a hearing with the IRS Office of Appeals contesting the lien filing, and to further appeal to the Tax Court if the IRS determines to sustain the lien filing. In the course of the hearing, the taxpayer is entitled to contest the underlying tax liability because the taxpayer has had no prior opportunity to contest the liability. This is not a delinquent tax because it is not a final tax liability. Should the taxpayer seek tax court review, this will not be a final tax liability until the taxpayer has exercised all judicial appeal rights.</p>
+                                                <i class="+ topic/ph hi-d/i "/>The IRS has filed a notice of Federal tax lien with respect to an assessed tax liability, and the taxpayer has been issued a notice under I.R.C. § 6320 entitling the taxpayer to request a hearing with the IRS Office of Appeals contesting the lien filing, and to further appeal to the Tax Court if the IRS determines to sustain the lien filing. In the course of the hearing, the taxpayer is entitled to contest the underlying tax liability because the taxpayer has had no prior opportunity to contest the liability. This is not a delinquent tax because it is not a final tax liability. Should the taxpayer seek tax court review, this will not be a final tax liability until the taxpayer has exercised all judicial appeal rights.</p>
                                           </li>
                                           <li outputclass="italic" xtrf="52.209-5_d53e131" class="- topic/li ">
                                              <p class="- topic/p " id="d3126e135">
                                                 <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                                                <i class="+ topic/ph hi-d/i "></i>The taxpayer has entered into an installment agreement pursuant to I.R.C. § 6159. The taxpayer is making timely payments and is in full compliance with the agreement terms. The taxpayer is not delinquent because the taxpayer is not currently required to make full payment.</p>
+                                                <i class="+ topic/ph hi-d/i "/>The taxpayer has entered into an installment agreement pursuant to I.R.C. § 6159. The taxpayer is making timely payments and is in full compliance with the agreement terms. The taxpayer is not delinquent because the taxpayer is not currently required to make full payment.</p>
                                           </li>
                                           <li outputclass="italic" xtrf="52.209-5_d53e137" class="- topic/li ">
                                              <p class="- topic/p " id="d3126e141">
                                                 <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                                                <i class="+ topic/ph hi-d/i "></i>The taxpayer has filed for bankruptcy protection. The taxpayer is not delinquent because enforced collection action is stayed under 11 U.S.C. 362 (the Bankruptcy Code).</p>
+                                                <i class="+ topic/ph hi-d/i "/>The taxpayer has filed for bankruptcy protection. The taxpayer is not delinquent because enforced collection action is stayed under 11 U.S.C. 362 (the Bankruptcy Code).</p>
                                           </li>
                                        </ol>
                                     </li>
@@ -111,7 +150,13 @@
                         <li class="- topic/li ">
                            <p class="- topic/p " id="d3126e147">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-										                     The Offeror has <cite outputclass="Checkbox" xtrc="52.209-5_d11e149" class="- topic/cite " xtrf="VFI">□</cite> has not <cite outputclass="Checkbox" xtrc="52.209-5_d11e152" class="- topic/cite " xtrf="VFI">□</cite>, within a three-year period preceding this offer, had one or more contracts terminated for default by any Federal agency.</p>
+										                     The Offeror has <cite outputclass="Checkbox"
+                                    xtrc="52.209-5_d11e149"
+                                    class="- topic/cite "
+                                    xtrf="VFI">□</cite> has not <cite outputclass="Checkbox"
+                                    xtrc="52.209-5_d11e152"
+                                    class="- topic/cite "
+                                    xtrf="VFI">□</cite>, within a three-year period preceding this offer, had one or more contracts terminated for default by any Federal agency.</p>
                         </li>
                      </ol>
                   </li>

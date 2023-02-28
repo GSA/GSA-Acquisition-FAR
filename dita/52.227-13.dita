@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_52_227_13" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " xtrc="GFI">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_52_227_13"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept "
+            xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.227-13</ph> Patent Rights-Ownership by the Government.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p " id="d3445e8">As prescribed at <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="27.303.dita#FAR_27_303" base="i1089782" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.303</xref>(e)</ph>, insert the following clause:</p>
+               <xref href="27.303.dita#FAR_27_303"
+                     base="i1089782"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">27.303</xref>(e)</ph>, insert the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3445e15">Patent Rights-Ownership by the Government <ph outputclass="SmCaps" class="- topic/ph ">(Dec 2007)</ph>
          </p>
          <ol id="d3406e25" class="- topic/ol ">
@@ -15,9 +24,18 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause-</p>
                <p class="- topic/p " id="d3445e27">
-                  <i outputclass="Term" xtrf="_52.227-13" xtrc="d3441e40" class="+ topic/ph hi-d/i ">Invention</i> means any invention or discovery that is or may be patentable or otherwise protectable under title 35 of the U.S. Code or any variety of plant that is or may be protectable under the Plant Variety Protection Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">7 U.S.C. 2321</xref>, <i class="+ topic/ph hi-d/i ">et seq.</i>)</p>
+                  <i outputclass="Term"
+                     xtrf="_52.227-13"
+                     xtrc="d3441e40"
+                     class="+ topic/ph hi-d/i ">Invention</i> means any invention or discovery that is or may be patentable or otherwise protectable under title 35 of the U.S. Code or any variety of plant that is or may be protectable under the Plant Variety Protection Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">7 U.S.C. 2321</xref>, <i class="+ topic/ph hi-d/i ">et seq.</i>)</p>
                <p class="- topic/p " id="d3445e37">
-                  <i outputclass="Term" xtrf="_52.227-13" xtrc="d3441e52" class="+ topic/ph hi-d/i ">Made</i> means-<ol id="d3406e56" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.227-13"
+                     xtrc="d3441e52"
+                     class="+ topic/ph hi-d/i ">Made</i> means-<ol id="d3406e56" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p class="- topic/p " id="d3445e43">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> When used in relation to any invention other than a plant variety, means the conception or first actual reduction to practice of the invention; or</p>
@@ -30,7 +48,10 @@
                </p>
                <p class="- topic/p " id="d3445e52">"Practical application" means to manufacture, in the case of a composition or product; to practice, in the case of a process or method; or to operate, in the case of a machine or system; and, in each case, under such conditions as to establish that the invention is being utilized and that its benefits are, to the extent permitted by law or Government regulations, available to the public on reasonable terms.</p>
                <p class="- topic/p " id="d3445e54">
-                  <i outputclass="Term" xtrf="_52.227-13" xtrc="d3441e82" class="+ topic/ph hi-d/i ">Subject invention</i> means any invention of the Contractor made in the performance of work under this contract.</p>
+                  <i outputclass="Term"
+                     xtrf="_52.227-13"
+                     xtrc="d3441e82"
+                     class="+ topic/ph hi-d/i ">Subject invention</i> means any invention of the Contractor made in the performance of work under this contract.</p>
             </li>
             <li props="Runin" class="- topic/li ">
                <p class="- topic/p " id="d3445e59">
@@ -87,7 +108,10 @@
                         <li class="- topic/li ">
                            <p class="- topic/p " id="d3445e113">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-										                    The agency has the right to require licensing pursuant to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">35 U.S.C. 203 and 210(c)</xref> and in accordance with the procedures set forth in <ph outputclass="CFR" class="- topic/ph ">37 CFR 401.6</ph> and any supplemental regulations of the agency in effect on the date of the contract award.</p>
+										                    The agency has the right to require licensing pursuant to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">35 U.S.C. 203 and 210(c)</xref> and in accordance with the procedures set forth in <ph outputclass="CFR" class="- topic/ph ">37 CFR 401.6</ph> and any supplemental regulations of the agency in effect on the date of the contract award.</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p " id="d3445e124">
@@ -143,7 +167,13 @@
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3445e171">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-								                The Contractor’s license may be revoked or modified by the agency to the extent necessary to achieve expeditious practical application of the subject invention in a particular country in accordance with the procedures in FAR <xref href="27.302.dita#FAR_27_302" base="i1089706" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.302</xref>(i)(2) and <xref href="27.304-1.dita#FAR_27_304_1" base="i1089852" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.304-1</xref>(f).</p>
+								                The Contractor’s license may be revoked or modified by the agency to the extent necessary to achieve expeditious practical application of the subject invention in a particular country in accordance with the procedures in FAR <xref href="27.302.dita#FAR_27_302"
+                              base="i1089706"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">27.302</xref>(i)(2) and <xref href="27.304-1.dita#FAR_27_304_1"
+                              base="i1089852"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">27.304-1</xref>(f).</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3445e182">
@@ -193,7 +223,10 @@
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3445e228">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
-								                Subject to FAR <xref href="27.302.dita#FAR_27_302" base="i1089706" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.302</xref>(i), the Contractor agrees that the Government may duplicate and disclose subject invention disclosures and all other reports and papers furnished or required to be furnished pursuant to this clause.</p>
+								                Subject to FAR <xref href="27.302.dita#FAR_27_302"
+                              base="i1089706"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">27.302</xref>(i), the Contractor agrees that the Government may duplicate and disclose subject invention disclosures and all other reports and papers furnished or required to be furnished pursuant to this clause.</p>
                   </li>
                </ol>
             </li>
@@ -298,7 +331,10 @@
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3445e333">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-								                The Contractor shall include the substance of the patent rights clause required by FAR <xref href="Subpart_27.3.dita#FAR_Subpart_27_3" base="i1089690" outputclass="fm:Subpart" class="- topic/xref ">subpart&#xa0; 27.3</xref> in all subcontracts for experimental, developmental, or research work. The prescribed patent rights clause must be modified to identify the parties as follows: references to the Government are not changed, and the subcontractor has all rights and obligations of the Contractor in the clause. The Contractor shall not, as part of the consideration for awarding the subcontract, obtain rights in the subcontractor’s subject inventions.</p>
+								                The Contractor shall include the substance of the patent rights clause required by FAR <xref href="Subpart_27.3.dita#FAR_Subpart_27_3"
+                              base="i1089690"
+                              outputclass="fm:Subpart"
+                              class="- topic/xref ">subpart  27.3</xref> in all subcontracts for experimental, developmental, or research work. The prescribed patent rights clause must be modified to identify the parties as follows: references to the Government are not changed, and the subcontractor has all rights and obligations of the Contractor in the clause. The Contractor shall not, as part of the consideration for awarding the subcontract, obtain rights in the subcontractor’s subject inventions.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3445e341">
@@ -333,12 +369,21 @@
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
             <p id="d3448e364" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">Jun</i> 1989).</i> As prescribed in <xref href="27.303.dita#FAR_27_303" base="i1089782" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.303</xref>(e) (4), add the following sentence at the end of paragraph (c)(1)(i) of the basic clause:</p>
-            <p class="- topic/p ">The license will include the right of the Government to sublicense foreign governments, their nationals, and international organizations pursuant to the following treaties or international agreements: <cite outputclass="SingleLine" xtrc="52.227-13_d3430e653" class="- topic/cite " xtrf="GFI">_____________________</cite>* [<i class="+ topic/ph hi-d/i ">*Contracting Officer complete with the names of applicable existing treaties or international agreements. The above language is not intended to apply to treaties or agreements that are in effect on the date of the award but are not listed.</i>]</p>
+               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">Jun</i> 1989).</i> As prescribed in <xref href="27.303.dita#FAR_27_303"
+                     base="i1089782"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">27.303</xref>(e) (4), add the following sentence at the end of paragraph (c)(1)(i) of the basic clause:</p>
+            <p class="- topic/p ">The license will include the right of the Government to sublicense foreign governments, their nationals, and international organizations pursuant to the following treaties or international agreements: <cite outputclass="SingleLine"
+                     xtrc="52.227-13_d3430e653"
+                     class="- topic/cite "
+                     xtrf="GFI">_____________________</cite>* [<i class="+ topic/ph hi-d/i ">*Contracting Officer complete with the names of applicable existing treaties or international agreements. The above language is not intended to apply to treaties or agreements that are in effect on the date of the award but are not listed.</i>]</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
             <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate II (<i class="+ topic/ph hi-d/i ">Dec</i> 2007).</i> As prescribed in <xref href="27.303.dita#FAR_27_303" base="i1089782" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.303</xref>(e)(5), add the following sentence at the end of paragraph (c)(1)(i) of the basic clause:</p>
+               <i class="+ topic/ph hi-d/i ">Alternate II (<i class="+ topic/ph hi-d/i ">Dec</i> 2007).</i> As prescribed in <xref href="27.303.dita#FAR_27_303"
+                     base="i1089782"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">27.303</xref>(e)(5), add the following sentence at the end of paragraph (c)(1)(i) of the basic clause:</p>
             <p class="- topic/p ">The agency reserves the right to unilaterally amend this contract to identify specific treaties or international agreements entered into by the Government before or after the effective date of this contract, and effectuate those license or other rights that are necessary for the Government to meet its obligations to foreign governments, their nationals, and international organizations under treaties or international agreements with respect to subject inventions made after the date of the amendment.</p>
             <?FM MARKER [Alt] End?>
          </section>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="FAR_52_225_2" xtrc="VFI">
       <title class="- topic/title ">
@@ -7,7 +8,9 @@
       <conbody outputclass="provision">
          <p class="- topic/p " id="d3400e8">As prescribed
 in <ph outputclass="ClauseProvisionXREF">
-               <xref href="25.1101.dita#FAR_25_1101" base="i1090819" outputclass="fm:ParaNumOnly">25.1101</xref>(a)(2)</ph>, insert
+               <xref href="25.1101.dita#FAR_25_1101"
+                     base="i1090819"
+                     outputclass="fm:ParaNumOnly">25.1101</xref>(a)(2)</ph>, insert
 the following provision:</p>
          <p id="d3401e15" outputclass="Ctr_SmCaps">Buy
             American Certificate (Oct
@@ -68,14 +71,33 @@ the following provision:</p>
             <li>
                <table frame="none" colsep="0" rowsep="0">
                   <tgroup cols="3" colsep="0" rowsep="0" outputclass="Notitle_norule">
-                     <colspec colnum="1" colname="1" colwidth="1*" colsep="0" rowheader="headers" />
-                     <colspec colnum="2" colname="2" colwidth="1.25*" colsep="0" rowheader="headers" />
-                     <colspec colname="newCol3" colnum="3" colwidth="1.8*" rowheader="headers" />
+                     <colspec colnum="1"
+                              colname="1"
+                              colwidth="1*"
+                              colsep="0"
+                              rowheader="headers"/>
+                     <colspec colnum="2"
+                              colname="2"
+                              colwidth="1.25*"
+                              colsep="0"
+                              rowheader="headers"/>
+                     <colspec colname="newCol3"
+                              colnum="3"
+                              colwidth="1.8*"
+                              rowheader="headers"/>
                      <tbody>
                         <row rowsep="0">
-                           <entry colname="1" align="center" outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">Line Item No.</entry>
-                           <entry colname="2" align="center" outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">Country of Origin</entry>
-                           <entry align="center" outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">Exceeds 55% domestic content (yes/no)</entry>
+                           <entry colname="1"
+                                  align="center"
+                                  outputclass="CellHeading_CtrSmallCaps"
+                                  xtrc="SmallCaps">Line Item No.</entry>
+                           <entry colname="2"
+                                  align="center"
+                                  outputclass="CellHeading_CtrSmallCaps"
+                                  xtrc="SmallCaps">Country of Origin</entry>
+                           <entry align="center"
+                                  outputclass="CellHeading_CtrSmallCaps"
+                                  xtrc="SmallCaps">Exceeds 55% domestic content (yes/no)</entry>
                         </row>
                         <row rowsep="0">
                            <entry colname="1">
@@ -132,7 +154,9 @@ as necessary</i>]</p>
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                    The Government
 will evaluate offers in accordance with the policies and procedures
-of <xref href="Part_25.dita#FAR_Part_25" base="i1093771" outputclass="fm:Part">part&#xa0; 25</xref> of the Federal
+of <xref href="Part_25.dita#FAR_Part_25"
+                        base="i1093771"
+                        outputclass="fm:Part">part  25</xref> of the Federal
 Acquisition Regulation.</p>
             </li>
          </ol>

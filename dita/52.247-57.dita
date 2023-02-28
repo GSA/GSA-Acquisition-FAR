@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_52_247_57" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " xtrc="GFI">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_52_247_57"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept "
+            xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.247-57</ph> Transportation Transit Privilege Credits.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p " id="d3735e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly" href="47.305-13.dita#FAR_47_305_13" base="i1070753" class="- topic/xref ">47.305-13</xref>(b)(4)</ph>, insert the following clause in solicitations and contracts when supplies are of such a nature, or when it is the custom of the trade, that offerors may have potential transit credits available and the Government may reduce transportation costs through the use of transit credits:</p>
+               <xref outputclass="fm:ParaNumOnly"
+                     href="47.305-13.dita#FAR_47_305_13"
+                     base="i1070753"
+                     class="- topic/xref ">47.305-13</xref>(b)(4)</ph>, insert the following clause in solicitations and contracts when supplies are of such a nature, or when it is the custom of the trade, that offerors may have potential transit credits available and the Government may reduce transportation costs through the use of transit credits:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3735e15">Transportation Transit Privilege Credits <ph outputclass="SmCaps" class="- topic/ph ">(Apr 1984)</ph>
          </p>
          <ol id="d3691e25" class="- topic/ol ">
@@ -29,7 +38,13 @@
                <p class="- topic/p " id="d3735e39">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
 						            The rate per CWT quoted will be used by the Government to evaluate the offered f.o.b. origin price unless a lower rate is applicable on the date of bid opening (or closing date specified for receipt of offers). To have the offer evaluated on this basis, the offeror must insert below the remaining transportation charges that the offeror agrees to pay, including any transit charges, subject to reimbursement by the Government, as explained in this clause, to destinations listed in the Schedule as follows:</p>
-               <p class="- topic/p " id="d3735e43">Rate Per CWT in Cents: <cite outputclass="SingleLine" xtrc="52.247-57_d3715e66" class="- topic/cite " xtrf="GFI">________________</cite> To Destination: <cite outputclass="SingleLine" xtrc="52.247-57_d3715e69" class="- topic/cite " xtrf="GFI">_______________________</cite>
+               <p class="- topic/p " id="d3735e43">Rate Per CWT in Cents: <cite outputclass="SingleLine"
+                        xtrc="52.247-57_d3715e66"
+                        class="- topic/cite "
+                        xtrf="GFI">________________</cite> To Destination: <cite outputclass="SingleLine"
+                        xtrc="52.247-57_d3715e69"
+                        class="- topic/cite "
+                        xtrf="GFI">_______________________</cite>
                </p>
             </li>
          </ol>

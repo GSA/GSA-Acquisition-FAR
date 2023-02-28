@@ -1,45 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_52_232_40"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">52.232-40</ph> Providing Accelerated
+<dita>
+   <concept id="FAR_52_232_40">
+      <title>
+         <ph props="autonumber">52.232-40</ph> Providing Accelerated
 Payments to Small Business Subcontractors.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+      <conbody outputclass="clause">
          <p class="- topic/p " id="d3538e8">As prescribed
-in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+in <ph outputclass="ClauseProvisionXREF">
                <xref href="32.009-2.dita#FAR_32_009_2"
                      base="i1083616"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">32.009-2</xref>
+                     outputclass="fm:ParaNumOnly">32.009-2</xref>
             </ph>, insert
 the following clause:</p>
-         <p id="d3538e14" outputclass="Ctr_SmCaps" class="- topic/p ">Providing Accelerated Payments to
-Small Business Subcontractors (Nov 2021)</p>
-         <ol id="d3494e25" class="- topic/ol ">
-            <li class="- topic/li ">
+         <p class="- topic/p " id="d3538e14" outputclass="Ctr_SmCaps">
+            <ph rev="FAC 2023-02 March 16, 2023"><?FM MARKER [CaseNumber] FAR Case 2020-007?>Providing Accelerated Payments to Small Business Subcontractors (Mar 2023)<?FM MARKER [Why] Amend section 52.232-40 by revising the date of the clause and paragraph (a).?></ph>
+         </p>
+         <ol id="d3494e25">
+            <li props="Runin">
                <p class="- topic/p " id="d3538e18">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Upon
-receipt of accelerated payments from the Government, the Contractor
-shall make accelerated payments to its small business subcontractors
-under this contract, to the maximum extent practicable and prior
-to when such payment is otherwise required under the applicable
-contract or subcontract, after receipt of a proper invoice and all
-other required documentation from the small business subcontractor.</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+               </p>
+               <ol>
+                  <li>
+                     <p class="- topic/p " id="d3540e26">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph rev="FAC 2023-02 March 16, 2023"><?FM MARKER [CaseNumber] FAR Case 2020-007?>In accordance with <xref href="https://www.govinfo.gov/link/uscode/31/3903"
+                                 format="html"
+                                 scope="external">31 U.S.C. 3903</xref> and <xref href="https://www.govinfo.gov/link/uscode/10/3801"
+                                 format="html"
+                                 scope="external">10 U.S.C. 3801</xref>, within 15 days after receipt of accelerated payments from the Government, the Contractor shall make accelerated payments to its small business subcontractors under this contract, to the maximum extent practicable and prior to when such payment is otherwise required under the applicable contract or subcontract, after receipt of a proper invoice and all other required documentation from the small business subcontractor.<?FM MARKER [Why] Amend section 52.232-40 by revising the date of the clause and paragraph (a).?></ph>
+                     </p>
+                  </li>
+                  <li>
+                     <p class="- topic/p " id="d3540e40">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph rev="FAC 2023-02 March 16, 2023">The Contractor agrees to make such payments to its small business subcontractors without any further consideration from or fees charged to the subcontractor.</ph>
+                     </p>
+                  </li>
+               </ol>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d3538e23">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The acceleration
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                   The acceleration
 of payments under this clause does not provide any new rights under
 the Prompt Payment Act.</p>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d3538e28">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Include
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                   Include
 the substance of this clause, including this paragraph (c), in all
 subcontracts with small business concerns, including subcontracts
 with small business concerns for the acquisition of commercial products or
@@ -47,7 +59,7 @@ commercial services.
                </p>
             </li>
          </ol>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

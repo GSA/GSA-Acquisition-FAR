@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_52_247_1" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " xtrc="GFI">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_52_247_1"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept "
+            xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.247-1</ph> Commercial Bill of Lading Notations.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p " id="d3679e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly" href="47.104-4.dita#FAR_47_104_4" base="i1071425" class="- topic/xref ">47.104-4</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                     href="47.104-4.dita#FAR_47_104_4"
+                     base="i1071425"
+                     class="- topic/xref ">47.104-4</xref>
             </ph>, insert the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3679e14">Commercial Bill of Lading Notations <ph outputclass="SmCaps" class="- topic/ph ">(Feb 2006)</ph>
          </p>
@@ -16,13 +25,25 @@
                <p class="- topic/p " id="d3679e22">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
 						            If the Government is shown as the consignor or the consignee, the annotation shall be:</p>
-               <p class="- topic/p " id="d3679e26">Transportation is for the <cite outputclass="SingleLine" xtrc="52.247-1_d3659e39" class="- topic/cite " xtrf="GFI">______ [<i class="+ topic/ph hi-d/i ">name the specific agency</i>]</cite> and the actual total transportation charges paid to the carrier(s) by the consignor or consignee are assignable to, and shall be reimbursed by, the Government.</p>
+               <p class="- topic/p " id="d3679e26">Transportation is for the <cite outputclass="SingleLine"
+                        xtrc="52.247-1_d3659e39"
+                        class="- topic/cite "
+                        xtrf="GFI">______ [<i class="+ topic/ph hi-d/i ">name the specific agency</i>]</cite> and the actual total transportation charges paid to the carrier(s) by the consignor or consignee are assignable to, and shall be reimbursed by, the Government.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3679e35">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
 						            If the Government is not shown as the consignor or the consignee, the annotation shall be:</p>
-               <p class="- topic/p " id="d3679e39">Transportation is for the <cite outputclass="SingleLine" xtrc="52.247-1_d3659e57" class="- topic/cite " xtrf="GFI">______ [<i class="+ topic/ph hi-d/i ">name the specific agency</i>]</cite> and the actual total transportation charges paid to the carrier(s) by the consignor or consignee shall be reimbursed by the Government, pursuant to cost-reimbursement contract No. <cite outputclass="SingleLine" xtrc="52.247-1_d3659e63" class="- topic/cite " xtrf="GFI">________________</cite>. This may be confirmed by contacting <cite outputclass="MultiLine" xtrc="52.247-1_d3659e66" class="- topic/cite " xtrf="GFI">__________________ [<i class="+ topic/ph hi-d/i ">Name and address of the contract administration office listed in the contract</i>]</cite>.</p>
+               <p class="- topic/p " id="d3679e39">Transportation is for the <cite outputclass="SingleLine"
+                        xtrc="52.247-1_d3659e57"
+                        class="- topic/cite "
+                        xtrf="GFI">______ [<i class="+ topic/ph hi-d/i ">name the specific agency</i>]</cite> and the actual total transportation charges paid to the carrier(s) by the consignor or consignee shall be reimbursed by the Government, pursuant to cost-reimbursement contract No. <cite outputclass="SingleLine"
+                        xtrc="52.247-1_d3659e63"
+                        class="- topic/cite "
+                        xtrf="GFI">________________</cite>. This may be confirmed by contacting <cite outputclass="MultiLine"
+                        xtrc="52.247-1_d3659e66"
+                        class="- topic/cite "
+                        xtrf="GFI">__________________ [<i class="+ topic/ph hi-d/i ">Name and address of the contract administration office listed in the contract</i>]</cite>.</p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
