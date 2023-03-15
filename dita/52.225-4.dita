@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="FAR_52_225_4" xtrc="VFI">
       <title class="- topic/title ">
@@ -7,7 +8,9 @@
 Trade Agreements-Israeli Trade Act Certificate.</title>
       <conbody>
          <p class="- topic/p " id="d3402e8">As prescribed in <ph outputclass="ClauseProvisionXREF">
-               <xref href="25.1101.dita#FAR_25_1101" base="i1090819" outputclass="fm:ParaNumOnly">25.1101</xref>
+               <xref href="25.1101.dita#FAR_25_1101"
+                     base="i1090819"
+                     outputclass="fm:ParaNumOnly">25.1101</xref>
             </ph>(b)(2)(i),
 insert the following provision:</p>
          <p id="d3403e14" outputclass="Ctr_SmCaps">Buy
@@ -52,19 +55,33 @@ end products (other than Bahrainian, Moroccan, Omani, Panamanian,
 or Peruvian end products) or Israeli end products as defined in
 the clause of this solicitation entitled "Buy American-Free Trade
 Agreements-Israeli Trade Act":</p>
-               <p class="- topic/p " id="d3403e37"></p>
+               <p class="- topic/p " id="d3403e37"/>
                <p class="- topic/p " id="d3402e37" outputclass="Ctr_SmCaps"> Free Trade Agreement
                   Country End Products (Other than Bahrainian, Moroccan, Omani, Panamanian, or
                   Peruvian End Products) or Israeli End Products: </p>
                <table frame="none" colsep="0" rowsep="0">
                   <tgroup cols="2" colsep="0" rowsep="0" outputclass="Notitle_norule">
-                     <colspec colnum="1" colname="1" colwidth="50*" colsep="0" rowheader="headers" />
-                     <colspec colnum="2" colname="2" colwidth="50*" colsep="0" rowheader="headers" />
+                     <colspec colnum="1"
+                              colname="1"
+                              colwidth="50*"
+                              colsep="0"
+                              rowheader="headers"/>
+                     <colspec colnum="2"
+                              colname="2"
+                              colwidth="50*"
+                              colsep="0"
+                              rowheader="headers"/>
                      <tbody>
                         <row rowsep="0">
-                           <entry colname="1" align="center" outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">Line
+                           <entry colname="1"
+                                  align="center"
+                                  outputclass="CellHeading_CtrSmallCaps"
+                                  xtrc="SmallCaps">Line
 Item No.</entry>
-                           <entry colname="2" align="center" outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">Country
+                           <entry colname="2"
+                                  align="center"
+                                  outputclass="CellHeading_CtrSmallCaps"
+                                  xtrc="SmallCaps">Country
 of Origin</entry>
                         </row>
                         <row rowsep="0">
@@ -98,7 +115,7 @@ of Origin</entry>
                   [<i>List
 as necessary</i>]
                </p>
-               <p class="- topic/p " id="d3403e76"></p>
+               <p class="- topic/p " id="d3403e76"/>
             </li>
             <li props="Runin">
                <p class="- topic/p " id="d3402e76">
@@ -121,22 +138,41 @@ as necessary</i>]
                            percentage of the domestic content is unknown, select
                            “no”.
                      </p>
-                     <p class="- topic/p " id="d3403e87"></p>
+                     <p class="- topic/p " id="d3403e87"/>
                      <p class="- topic/p " id="d3402e80" outputclass="Ctr_SmCaps">
                         Other Foreign End Products:
                      </p>
                      <table frame="none" colsep="0" rowsep="0" id="table_k21_wv3_bvb">
                         <tgroup cols="3" colsep="0" rowsep="0" outputclass="Notitle_norule">
-                           <colspec colnum="1" colname="1" colwidth="1*" colsep="0" rowheader="headers" />
-                           <colspec colnum="2" colname="2" colwidth="1.22*" colsep="0" rowheader="headers" />
-                           <colspec colname="newCol3" colnum="3" colwidth="2.07*" rowheader="headers" />
+                           <colspec colnum="1"
+                                    colname="1"
+                                    colwidth="1*"
+                                    colsep="0"
+                                    rowheader="headers"/>
+                           <colspec colnum="2"
+                                    colname="2"
+                                    colwidth="1.22*"
+                                    colsep="0"
+                                    rowheader="headers"/>
+                           <colspec colname="newCol3"
+                                    colnum="3"
+                                    colwidth="2.07*"
+                                    rowheader="headers"/>
                            <tbody>
                               <row rowsep="0">
-                                 <entry colname="1" align="center" outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">Line
+                                 <entry colname="1"
+                                        align="center"
+                                        outputclass="CellHeading_CtrSmallCaps"
+                                        xtrc="SmallCaps">Line
                                     Item No.</entry>
-                                 <entry colname="2" align="center" outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">Country
+                                 <entry colname="2"
+                                        align="center"
+                                        outputclass="CellHeading_CtrSmallCaps"
+                                        xtrc="SmallCaps">Country
                                     of Origin</entry>
-                                 <entry align="center" outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">Exceeds 55% domestic content (yes/no)</entry>
+                                 <entry align="center"
+                                        outputclass="CellHeading_CtrSmallCaps"
+                                        xtrc="SmallCaps">Exceeds 55% domestic content (yes/no)</entry>
                               </row>
                               <row rowsep="0">
                                  <entry colname="1">
@@ -175,7 +211,7 @@ as necessary</i>]
                         </tgroup>
                      </table>
                      <p class="- topic/p " id="d3402e113" outputclass="Ctr"> [<i>List as necessary</i>] </p>
-                     <p class="- topic/p " id="d3403e138"></p>
+                     <p class="- topic/p " id="d3403e138"/>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3403e150">
@@ -194,33 +230,42 @@ as necessary</i>]
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                    The Government
 will evaluate offers in accordance with the policies and procedures
-of <xref href="Part_25.dita#FAR_Part_25" base="i1093771" outputclass="fm:Part">part&#xa0; 25</xref> of the Federal
+of <xref href="Part_25.dita#FAR_Part_25"
+                        base="i1093771"
+                        outputclass="fm:Part">part  25</xref> of the Federal
 Acquisition Regulation.</p>
             </li>
          </ol>
          <p outputclass="Endofprovision">(End of provision)</p>
          <section outputclass="Alternate"><?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3402e130">
-               <ph rev="FAC 2023-01 December 30, 2022"><?FM MARKER [CaseNumber] FAR Case 2020-014?>
-                  <i>Alternate I</i> [Reserved]<?FM MARKER [Why] Amend section 52.225-4 by— a. Removing and reserving Alternate I;?></ph>
+               <i>Alternate I</i> [Reserved]
             </p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3402e154">
-               <ph rev="FAC 2023-01 December 30, 2022"><?FM MARKER [CaseNumber] FAR Case 2020-014?>
-                  <i>Alternate II</i> (<ph outputclass="SmCaps">Dec</ph> 2022). As prescribed in <xref href="25.1101.dita#FAR_25_1101" base="i1090819" outputclass="fm:ParaNumOnly">25.1101</xref>(b)(2)(ii), substitute the following paragraph (b) for paragraph (b) of the basic provision:<?FM MARKER [Why] b. Revising Alternate II; and?></ph>
+               <i>Alternate II</i> (<ph outputclass="SmCaps">Dec</ph> 2022). As prescribed in <xref href="25.1101.dita#FAR_25_1101"
+                     base="i1090819"
+                     outputclass="fm:ParaNumOnly">25.1101</xref>(b)(2)(ii), substitute the following paragraph (b) for paragraph (b) of the basic provision:
             </p>
-            <p></p>
-            <p class="- topic/p " id="d3403e196" outputclass="List1"> <ph rev="FAC 2023-01 December 30, 2022">(b) The offeror certifies that the following supplies are Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act—Balance of Payments Program”:</ph> </p>
+            <p/>
+            <p class="- topic/p " id="d3403e196" outputclass="List1"> (b) The offeror certifies that the following supplies are Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act—Balance of Payments Program”: </p>
             <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3404e192">
-               <ph rev="FAC 2023-01 December 30, 2022">Israeli End Products:</ph>
+               Israeli End Products:
             </p>
-            <table frame="none" colsep="0" rowsep="0" rev="FAC 2023-01 December 30, 2022">
+            <table frame="none" colsep="0" rowsep="0">
                <tgroup cols="1" colsep="0" rowsep="0" outputclass="Notitle_norule">
-                  <colspec colnum="1" colname="1" colwidth="50*" colsep="0" rowheader="headers" />
+                  <colspec colnum="1"
+                           colname="1"
+                           colwidth="50*"
+                           colsep="0"
+                           rowheader="headers"/>
                   <tbody>
                      <row rowsep="0">
-                        <entry colname="1" align="center" outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">
+                        <entry colname="1"
+                               align="center"
+                               outputclass="CellHeading_CtrSmallCaps"
+                               xtrc="SmallCaps">
                            <b>Line Item No.</b>
                         </entry>
                      </row>
@@ -246,8 +291,10 @@ Acquisition Regulation.</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3402e208">
-               <i>Alternate III</i> (<ph outputclass="SmCaps">Feb</ph> 2021). As prescribed in <ph rev="FAC 2023-01 December 30, 2022"><?FM MARKER [CaseNumber] FAR Case 2020-014?>
-                  <xref href="25.1101.dita#FAR_25_1101" base="i1090819" outputclass="fm:ParaNumOnly">25.1101</xref>(b)(2)(iii),<?FM MARKER [Why] c. In Alternate III removing from the introductory text “25.1101(b)(2)(iv)” and adding “25.1101(b)(2)(iii)” in its place.?></ph> substitute the following paragraph (b) for paragraph (b) of the basic provision:</p>
+               <i>Alternate III</i> (<ph outputclass="SmCaps">Feb</ph> 2021). As prescribed in 
+                  <xref href="25.1101.dita#FAR_25_1101"
+                     base="i1090819"
+                     outputclass="fm:ParaNumOnly">25.1101</xref>(b)(2)(iii), substitute the following paragraph (b) for paragraph (b) of the basic provision:</p>
             <p id="d3403e257" outputclass="List1">(b) The Offeror certifies
 that the following supplies are Free Trade Agreement country end
 products (other than Bahrainian, Korean, Moroccan, Omani, Panamanian,
@@ -259,13 +306,27 @@ Agreements-Israeli Trade Act":</p>
                Products) or Israeli End Products:</p>
             <table frame="none" colsep="0" rowsep="0">
                <tgroup cols="2" colsep="0" rowsep="0" outputclass="Notitle_norule">
-                  <colspec colnum="1" colname="1" colwidth="50*" colsep="0" rowheader="headers" />
-                  <colspec colnum="2" colname="2" colwidth="50*" colsep="0" rowheader="headers" />
+                  <colspec colnum="1"
+                           colname="1"
+                           colwidth="50*"
+                           colsep="0"
+                           rowheader="headers"/>
+                  <colspec colnum="2"
+                           colname="2"
+                           colwidth="50*"
+                           colsep="0"
+                           rowheader="headers"/>
                   <tbody>
                      <row rowsep="0">
-                        <entry colname="1" align="center" outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">Line
+                        <entry colname="1"
+                               align="center"
+                               outputclass="CellHeading_CtrSmallCaps"
+                               xtrc="SmallCaps">Line
 Item No.</entry>
-                        <entry colname="2" align="center" outputclass="CellHeading_CtrSmallCaps" xtrc="SmallCaps">Country
+                        <entry colname="2"
+                               align="center"
+                               outputclass="CellHeading_CtrSmallCaps"
+                               xtrc="SmallCaps">Country
 of Origin</entry>
                      </row>
                      <row rowsep="0">

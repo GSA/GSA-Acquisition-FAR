@@ -2,7 +2,7 @@
  * Base CSS for GSA HTML output
  * ====================================================
  */
- 
+
  body 
  {
    font-family: 'Times New Roman', serif;
@@ -148,32 +148,45 @@ p[class *= 'List4']
      text-indent: 1in;
 }
 
-
-p[class *= 'List5']
-{
-     text-indent: 1.25in;
+.ListL1, .ListL2, .ListL3, .ListL4, .ListL5, .ListL6, .ListL7, .ListL8{
+    text-indent: 0px !important;
 }
 
-p[class *= 'List6']
-{
-     text-indent: 1.5in;
+.ListL1 {
+    padding-left: .25in;
 }
 
-p[class *= 'List7']
-{
-     text-indent: 1.75in;
+.ListL2 {
+    padding-left: .5in;
 }
 
-p[class *= 'List8']
-{
-     text-indent: 2in;
+.ListL3 {
+    padding-left: .75in;
 }
 
-p[class *= 'List9']
-{
-     text-indent: 2.25in;
+.ListL4 {
+    padding-left: .1in;
 }
 
+.ListL5 {
+    padding-left: 1.25in;
+    font-style:italic;
+}
+
+.ListL6 {
+    padding-left: 1.5in;
+    font-style:italic;
+}
+
+.ListL7 {
+    padding-left: 1.75in;
+    font-style:italic;
+}
+
+.ListL8 {
+    padding-left: 2in;
+    font-style:italic;
+}
 
 span[class *= 'SmallCaps'],
 span[class *= 'SmCaps']

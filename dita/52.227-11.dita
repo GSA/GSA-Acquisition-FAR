@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_52_227_11" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " xtrc="GFI">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_52_227_11"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept "
+            xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.227-11</ph> Patent Rights-Ownership by the Contractor.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p " id="d3443e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="27.303.dita#FAR_27_303" base="i1089782" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.303</xref>(b)(1)</ph>, insert the following clause:</p>
+               <xref href="27.303.dita#FAR_27_303"
+                     base="i1089782"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">27.303</xref>(b)(1)</ph>, insert the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3443e15">Patent Rights-Ownership by the Contractor <ph outputclass="SmCaps" class="- topic/ph ">(May 2014)</ph>
          </p>
          <ol id="d3404e25" class="- topic/ol ">
@@ -15,9 +24,18 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
 						            As used in this clause-</p>
                <p class="- topic/p " id="d3443e25">
-                  <i outputclass="Term" xtrf="_52.227-11" xtrc="d3439e37" class="+ topic/ph hi-d/i ">Invention</i> means any invention or discovery that is or may be patentable or otherwise protectable under title 35 of the U.S. Code, or any variety of plant that is or may be protectable under the Plant Variety Protection Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">7 U.S.C. 2321</xref>, <i class="+ topic/ph hi-d/i ">et seq</i>.)</p>
+                  <i outputclass="Term"
+                     xtrf="_52.227-11"
+                     xtrc="d3439e37"
+                     class="+ topic/ph hi-d/i ">Invention</i> means any invention or discovery that is or may be patentable or otherwise protectable under title 35 of the U.S. Code, or any variety of plant that is or may be protectable under the Plant Variety Protection Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">7 U.S.C. 2321</xref>, <i class="+ topic/ph hi-d/i ">et seq</i>.)</p>
                <p class="- topic/p " id="d3443e35">
-                  <i outputclass="Term" xtrf="_52.227-11" xtrc="d3439e49" class="+ topic/ph hi-d/i ">Made</i> means-<ol id="d3404e53" class="- topic/ol ">
+                  <i outputclass="Term"
+                     xtrf="_52.227-11"
+                     xtrc="d3439e49"
+                     class="+ topic/ph hi-d/i ">Made</i> means-<ol id="d3404e53" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p class="- topic/p " id="d3443e41">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph> When used in relation to any invention other than a plant variety, the conception or first actual reduction to practice of the invention; or</p>
@@ -26,10 +44,22 @@
                         <p class="- topic/p " id="d3443e46">
                            <ph props="autonumber" class="- topic/ph ">(2)</ph> When used in relation to a plant variety, that the Contractor has at least tentatively determined that the variety has been reproduced with recognized characteristics.</p>
                         <p class="- topic/p " id="d3443e50">
-                           <i outputclass="Term" xtrf="_52.227-11" xtrc="d3439e73" class="+ topic/ph hi-d/i ">Nonprofit organization</i> means a university or other institution of higher education or an organization of the type described in section 501(c)(3) of the Internal Revenue Code of 1954 (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">26 U.S.C. 501(c)</xref>) and exempt from taxation under section 501(a) of the Internal Revenue Code (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">26 U.S.C. 501(a)</xref>), or any nonprofit scientific or educational organization qualified under a State nonprofit organization statute.</p>
+                           <i outputclass="Term"
+                              xtrf="_52.227-11"
+                              xtrc="d3439e73"
+                              class="+ topic/ph hi-d/i ">Nonprofit organization</i> means a university or other institution of higher education or an organization of the type described in section 501(c)(3) of the Internal Revenue Code of 1954 (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">26 U.S.C. 501(c)</xref>) and exempt from taxation under section 501(a) of the Internal Revenue Code (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">26 U.S.C. 501(a)</xref>), or any nonprofit scientific or educational organization qualified under a State nonprofit organization statute.</p>
                         <p class="- topic/p " id="d3443e60">"Practical application" means to manufacture, in the case of a composition of product; to practice, in the case of a process or method; or to operate, in the case of a machine or system; and, in each case, under such conditions as to establish that the invention is being utilized and that its benefits are, to the extent permitted by law or Government regulations, available to the public on reasonable terms.</p>
                         <p class="- topic/p " id="d3443e62">
-                           <i outputclass="Term" xtrf="_52.227-11" xtrc="d3439e88" class="+ topic/ph hi-d/i ">Subject invention</i> means any invention of the Contractor made in the performance of work under this contract.</p>
+                           <i outputclass="Term"
+                              xtrf="_52.227-11"
+                              xtrc="d3439e88"
+                              class="+ topic/ph hi-d/i ">Subject invention</i> means any invention of the Contractor made in the performance of work under this contract.</p>
                      </li>
                   </ol>
                </p>
@@ -59,7 +89,13 @@
                         <li class="- topic/li ">
                            <p class="- topic/p " id="d3443e93">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-										                    The Contractor’s license may be revoked or modified by the agency to the extent necessary to achieve expeditious practical application of the subject invention in a particular country in accordance with the procedures in FAR <xref href="27.302.dita#FAR_27_302" base="i1089706" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.302</xref>(i)(2) and <xref href="27.304-1.dita#FAR_27_304_1" base="i1089852" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.304-1</xref>(f).</p>
+										                    The Contractor’s license may be revoked or modified by the agency to the extent necessary to achieve expeditious practical application of the subject invention in a particular country in accordance with the procedures in FAR <xref href="27.302.dita#FAR_27_302"
+                                    base="i1089706"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">27.302</xref>(i)(2) and <xref href="27.304-1.dita#FAR_27_304_1"
+                                    base="i1089852"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">27.304-1</xref>(f).</p>
                         </li>
                      </ol>
                   </li>
@@ -170,7 +206,10 @@
             <li class="- topic/li ">
                <p class="- topic/p " id="d3443e210">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  <i class="+ topic/ph hi-d/i ">Reporting on utilization of subject inventions</i>. The Contractor shall submit, on request, periodic reports no more frequently than annually on the utilization of a subject invention or on efforts at obtaining utilization of the subject invention that are being made by the Contractor or its licensees or assignees. The reports shall include information regarding the status of development, date of first commercial sale or use, gross royalties received by the Contractor, and other data and information as the agency may reasonably specify. The Contractor also shall provide additional reports as may be requested by the agency in connection with any march-in proceeding undertaken by the agency in accordance with paragraph (h) of this clause. The Contractor also shall mark any utilization report as confidential/proprietary to help prevent inadvertent release outside the Government. As required by <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">35 U.S.C. 202(c)(5)</xref>, the agency will not disclose that information to persons outside the Government without the Contractor’s permission.</p>
+                  <i class="+ topic/ph hi-d/i ">Reporting on utilization of subject inventions</i>. The Contractor shall submit, on request, periodic reports no more frequently than annually on the utilization of a subject invention or on efforts at obtaining utilization of the subject invention that are being made by the Contractor or its licensees or assignees. The reports shall include information regarding the status of development, date of first commercial sale or use, gross royalties received by the Contractor, and other data and information as the agency may reasonably specify. The Contractor also shall provide additional reports as may be requested by the agency in connection with any march-in proceeding undertaken by the agency in accordance with paragraph (h) of this clause. The Contractor also shall mark any utilization report as confidential/proprietary to help prevent inadvertent release outside the Government. As required by <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">35 U.S.C. 202(c)(5)</xref>, the agency will not disclose that information to persons outside the Government without the Contractor’s permission.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3443e220">
@@ -180,7 +219,10 @@
             <li class="- topic/li ">
                <p class="- topic/p " id="d3443e227">
                   <ph props="autonumber" class="- topic/ph ">(h)</ph>
-                  <i class="+ topic/ph hi-d/i ">March-in rights.</i> The Contractor acknowledges that, with respect to any subject invention in which it has retained ownership, the agency has the right to require licensing pursuant to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">35 U.S.C. 203 and 210(c)</xref>, and in accordance with the procedures in <ph outputclass="CFR" class="- topic/ph ">37 CFR 401.6</ph> and any supplemental regulations of the agency in effect on the date of contract award.</p>
+                  <i class="+ topic/ph hi-d/i ">March-in rights.</i> The Contractor acknowledges that, with respect to any subject invention in which it has retained ownership, the agency has the right to require licensing pursuant to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">35 U.S.C. 203 and 210(c)</xref>, and in accordance with the procedures in <ph outputclass="CFR" class="- topic/ph ">37 CFR 401.6</ph> and any supplemental regulations of the agency in effect on the date of contract award.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3443e240">
@@ -195,7 +237,10 @@
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3443e254">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-								                Share royalties collected on a subject invention with the inventor, including Federal employee co-inventors (but through their agency if the agency deems it appropriate) when the subject invention is assigned in accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">35U.S.C.202(e)</xref> and <ph outputclass="CFR" class="- topic/ph ">37 CFR 401.10</ph>;</p>
+								                Share royalties collected on a subject invention with the inventor, including Federal employee co-inventors (but through their agency if the agency deems it appropriate) when the subject invention is assigned in accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">35U.S.C.202(e)</xref> and <ph outputclass="CFR" class="- topic/ph ">37 CFR 401.10</ph>;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3443e265">
@@ -218,7 +263,10 @@
                <p class="- topic/p " id="d3443e283">
                   <ph props="autonumber" class="- topic/ph ">(j)</ph>
                   <i class="+ topic/ph hi-d/i ">Communications.</i>
-                  <cite outputclass="MultiLine" xtrc="52.227-11_d3428e461" class="- topic/cite " xtrf="GFI">[<i class="+ topic/ph hi-d/i ">Complete according to agency instructions.</i>]</cite>
+                  <cite outputclass="MultiLine"
+                        xtrc="52.227-11_d3428e461"
+                        class="- topic/cite "
+                        xtrf="GFI">[<i class="+ topic/ph hi-d/i ">Complete according to agency instructions.</i>]</cite>
                </p>
             </li>
             <li props="Runin" class="- topic/li ">
@@ -235,7 +283,10 @@
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3443e306">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-								                The Contractor shall include in all other subcontracts for experimental, developmental, or research work the substance of the patent rights clause required by FAR <xref href="Subpart_27.3.dita#FAR_Subpart_27_3" base="i1089690" outputclass="fm:Subpart" class="- topic/xref ">subpart&#xa0; 27.3</xref>.</p>
+								                The Contractor shall include in all other subcontracts for experimental, developmental, or research work the substance of the patent rights clause required by FAR <xref href="Subpart_27.3.dita#FAR_Subpart_27_3"
+                              base="i1089690"
+                              outputclass="fm:Subpart"
+                              class="- topic/xref ">subpart  27.3</xref>.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3443e314">
@@ -253,29 +304,50 @@
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
             <p id="d3446e319" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">Jun</i> 1989).</i> As prescribed in <xref href="27.303.dita#FAR_27_303" base="i1089782" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.303</xref>(b)(3), add the following sentence at the end of paragraph (d)(2) of the basic clause:</p>
-            <p id="id1925FB0109Z" class="- topic/p ">The license shall include the right of the Government to sublicense foreign governments, their nationals and international organizations pursuant to the following treaties or international agreements: <cite outputclass="SingleLine" xtrc="52.227-11_d3428e545" class="- topic/cite " xtrf="GFI">_______</cite>*</p>
+               <i class="+ topic/ph hi-d/i ">Alternate I (<i class="+ topic/ph hi-d/i ">Jun</i> 1989).</i> As prescribed in <xref href="27.303.dita#FAR_27_303"
+                     base="i1089782"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">27.303</xref>(b)(3), add the following sentence at the end of paragraph (d)(2) of the basic clause:</p>
+            <p id="id1925FB0109Z" class="- topic/p ">The license shall include the right of the Government to sublicense foreign governments, their nationals and international organizations pursuant to the following treaties or international agreements: <cite outputclass="SingleLine"
+                     xtrc="52.227-11_d3428e545"
+                     class="- topic/cite "
+                     xtrf="GFI">_______</cite>*</p>
             <p id="id1925FB0J0N5" class="- topic/p ">[*<i class="+ topic/ph hi-d/i ">Contracting Officer complete with the names of applicable existing treaties or international agreements. The above language is not intended to apply to treaties or agreements that are in effect on the date of the award but are not listed.</i>]</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
             <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate II (<i class="+ topic/ph hi-d/i ">Dec</i> 2007).</i> As prescribed in <xref href="27.303.dita#FAR_27_303" base="i1089782" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.303</xref>(b)(4), add the following sentence at the end of paragraph (d)(2) of the basic clause:</p>
+               <i class="+ topic/ph hi-d/i ">Alternate II (<i class="+ topic/ph hi-d/i ">Dec</i> 2007).</i> As prescribed in <xref href="27.303.dita#FAR_27_303"
+                     base="i1089782"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">27.303</xref>(b)(4), add the following sentence at the end of paragraph (d)(2) of the basic clause:</p>
             <p class="- topic/p ">The agency reserves the right to unilaterally amend this contract to identify specific treaties or international agreements entered into by the Government before or after the effective date of the contract and effectuate those license or other rights that are necessary for the Government to meet its obligations to foreign governments, their nationals, and international organizations under the treaties or international agreements with respect to subject inventions made after the date of the amendment.</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
             <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate III (<i class="+ topic/ph hi-d/i ">Jun</i> 1989).</i> As prescribed in <xref href="27.303.dita#FAR_27_303" base="i1089782" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.303</xref>(b)(5), substitute the following paragraph (i)(3) in place of paragraph (i)(3) of the basic clause:</p>
+               <i class="+ topic/ph hi-d/i ">Alternate III (<i class="+ topic/ph hi-d/i ">Jun</i> 1989).</i> As prescribed in <xref href="27.303.dita#FAR_27_303"
+                     base="i1089782"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">27.303</xref>(b)(5), substitute the following paragraph (i)(3) in place of paragraph (i)(3) of the basic clause:</p>
             <p class="- topic/p ">(3) After payment of patenting costs, licensing costs, payments to inventors, and other expenses incidental to the administration of subject inventions, the balance of any royalties or income earned and retained by the Contractor during any fiscal year on subject inventions under this or any successor contract containing the same requirement, up to any amount equal to 5 percent of the budget of the facility for that fiscal year, shall be used by the Contractor for the scientific research, development, and education consistent with the research and development mission and objectives of the facility, including activities that increase the licensing potential of other inventions of the facility. If the balance exceeds 5 percent, 75 percent of the excess above 5 percent shall be paid by the Contractor to the Treasury of the United States and the remaining 25 percent shall be used by the Contractor only for the same purposes as described above. To the extent it provides the most effective technology transfer, the licensing of subject inventions shall be administered by Contractor employees on location at the facility.</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
             <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate IV (<i class="+ topic/ph hi-d/i ">Jun</i> 1989).</i> As prescribed in <xref href="27.303.dita#FAR_27_303" base="i1089782" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.303</xref>(b)(6), include the following paragraph (e)(5) in paragraph (e) of the basic clause:</p>
+               <i class="+ topic/ph hi-d/i ">Alternate IV (<i class="+ topic/ph hi-d/i ">Jun</i> 1989).</i> As prescribed in <xref href="27.303.dita#FAR_27_303"
+                     base="i1089782"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">27.303</xref>(b)(6), include the following paragraph (e)(5) in paragraph (e) of the basic clause:</p>
             <p class="- topic/p ">(5) The Contractor shall establish and maintain active and effective procedures to ensure that subject inventions are promptly identified and timely disclosed, and shall submit a description of the procedures to the Contracting Officer so that the Contracting Officer may evaluate and determine their effectiveness.</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
             <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate V (<i class="+ topic/ph hi-d/i ">Dec</i> 2007).</i> As prescribed in <xref href="27.303.dita#FAR_27_303" base="i1089782" outputclass="fm:ParaNumOnly" class="- topic/xref ">27.303</xref>(b)(7), include the following paragraph (d)(3) in paragraph (d) of the basic clause:</p>
-            <p class="- topic/p ">(d)(3) <i class="+ topic/ph hi-d/i ">CRADA licensing.</i> If the Contractor performs services at a Government owned and operated laboratory or at a Government owned and Contractor operated laboratory directed by the Government to fulfill the Government’s obligations under a Cooperative Research and Development Agreement (CRADA) authorized by <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external" class="- topic/xref ">15 U.S.C. 3710a</xref>, the Government may require the Contractor to negotiate an agreement with the CRADA collaborating party or parties regarding the allocation of rights to any subject invention the Contractor makes, solely or jointly, under the CRADA. The agreement shall be negotiated prior to the Contractor undertaking the CRADA work or, with the permission of the Government, upon the identification of a subject invention. In the absence of such an agreement, the Contractor agrees to grant the collaborating party or parties an option for a license in its inventions of the same scope and terms set forth in the CRADA for inventions made by the Government.</p>
+               <i class="+ topic/ph hi-d/i ">Alternate V (<i class="+ topic/ph hi-d/i ">Dec</i> 2007).</i> As prescribed in <xref href="27.303.dita#FAR_27_303"
+                     base="i1089782"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">27.303</xref>(b)(7), include the following paragraph (d)(3) in paragraph (d) of the basic clause:</p>
+            <p class="- topic/p ">(d)(3) <i class="+ topic/ph hi-d/i ">CRADA licensing.</i> If the Contractor performs services at a Government owned and operated laboratory or at a Government owned and Contractor operated laboratory directed by the Government to fulfill the Government’s obligations under a Cooperative Research and Development Agreement (CRADA) authorized by <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">15 U.S.C. 3710a</xref>, the Government may require the Contractor to negotiate an agreement with the CRADA collaborating party or parties regarding the allocation of rights to any subject invention the Contractor makes, solely or jointly, under the CRADA. The agreement shall be negotiated prior to the Contractor undertaking the CRADA work or, with the permission of the Government, upon the identification of a subject invention. In the absence of such an agreement, the Contractor agrees to grant the collaborating party or parties an option for a license in its inventions of the same scope and terms set forth in the CRADA for inventions made by the Government.</p>
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>

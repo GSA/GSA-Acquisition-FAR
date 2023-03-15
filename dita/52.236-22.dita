@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_52_236_22" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept " xtrc="GFI">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="FAR_52_236_22"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept "
+            xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.236-22</ph> Design Within Funding Limitations.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p " id="d3572e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly" href="36.609-1.dita#FAR_36_609_1" base="i1078535" class="- topic/xref ">36.609-1</xref>(c)</ph>, insert the following clause:</p>
+               <xref outputclass="fm:ParaNumOnly"
+                     href="36.609-1.dita#FAR_36_609_1"
+                     base="i1078535"
+                     class="- topic/xref ">36.609-1</xref>(c)</ph>, insert the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3572e15">Design Within Funding Limitations <ph outputclass="SmCaps" class="- topic/ph ">(Apr 1984)</ph>
          </p>
          <ol id="d3528e25" class="- topic/ol ">
@@ -23,7 +32,10 @@
             <li class="- topic/li ">
                <p class="- topic/p " id="d3572e31">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-						            The estimated construction contract price for the project described in this contract is $<cite outputclass="SingleLine" xtrc="52.236-22_d3552e51" class="- topic/cite " xtrf="GFI">______</cite>.</p>
+						            The estimated construction contract price for the project described in this contract is $<cite outputclass="SingleLine"
+                        xtrc="52.236-22_d3552e51"
+                        class="- topic/cite "
+                        xtrf="GFI">______</cite>.</p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
