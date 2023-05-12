@@ -1,46 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="FAR_52_208_9"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">52.208-9</ph> Contractor Use of Mandatory Sources of Supply or Services.</title>
-      <conbody outputclass="clause" class="- topic/body concept/conbody ">
-         <p class="- topic/p " id="d3120e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="8.005.dita#FAR_8_005"
-                     base="i1118251"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">8.005</xref>
+<dita>
+   <concept id="FAR_52_208_9">
+      <title>
+         <ph props="autonumber">52.208-9</ph> Contractor Use of Mandatory Sources of Supply or Services.</title>
+      <conbody outputclass="clause">
+         <p id="d3120e8">As prescribed in <ph outputclass="ClauseProvisionXREF">
+               <xref href="8.005.dita#FAR_8_005" base="i1118251" outputclass="fm:ParaNumOnly">8.005</xref>
             </ph>, insert the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3120e14">Contractor Use of Mandatory Sources of Supply or Services <ph outputclass="SmCaps" class="- topic/ph ">(May 2014)</ph>
+         <p outputclass="Ctr_SmCaps" id="d3120e14">Contractor Use of Mandatory Sources of Supply or Services <ph outputclass="SmCaps">(May 2014)</ph>
          </p>
-         <ol id="d3086e25" class="- topic/ol ">
-            <li class="- topic/li ">
-               <p class="- topic/p " id="d3120e20">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-						            Certain supplies or services to be provided under this contract for use by the Government are required by law to be obtained from nonprofit agencies participating in the program operated by the Committee for Purchase From People Who Are Blind or Severely Disabled (the Committee) under <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">41 U.S.C.8504</xref>. Additionally, certain of these supplies are available from the Defense Logistics Agency (DLA), the General Services Administration (GSA), or the Department of Veterans Affairs (VA). The Contractor shall obtain mandatory supplies or services to be provided for Government use under this contract from the specific sources indicated in the contract schedule.</p>
+         <ol id="d3086e25">
+            <li>
+               <p id="d3120e20"><ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+						            Certain supplies or services to be provided under this contract for use by the Government are required by law to be obtained from nonprofit agencies participating in the program operated by the Committee for Purchase From People Who Are Blind or Severely Disabled (the Committee) under <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" format="html" scope="external">41 U.S.C.8504</xref>. Additionally, certain of these supplies are available from the Defense Logistics Agency (DLA), the General Services Administration (GSA), or the Department of Veterans Affairs (VA). The Contractor shall obtain mandatory supplies or services to be provided for Government use under this contract from the specific sources indicated in the contract schedule.</p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p " id="d3120e28">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+            <li>
+               <p id="d3120e28"><ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
 						            The Contractor shall immediately notify the Contracting Officer if a mandatory source is unable to provide the supplies or services by the time required, or if the quality of supplies or services provided by the mandatory source is unsatisfactory. The Contractor shall not purchase the supplies or services from other sources until the Contracting Officer has notified the Contractor that the Committee or an AbilityOne central nonprofit agency has authorized purchase from other sources.</p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p " id="d3120e33">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+            <li>
+               <p id="d3120e33"><ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
 						            Price and delivery information for the mandatory supplies is available from the Contracting Officer for the supplies obtained through the DLA/GSA/VA distribution facilities. For mandatory supplies or services that are not available from DLA/GSA/VA, price and delivery information is available from the appropriate central nonprofit agency. Payments shall be made directly to the source making delivery. Points of contact for AbilityOne central nonprofit agencies are:</p>
-               <p class="- topic/p " id="d3120e37">(1) National Industries for the Blind 1310 Braddock Place Alexandria, VA 22314-1691 (703) 310-0500; and</p>
-               <p class="- topic/p " id="d3120e39">(2) NISH 8401 Old Courthouse Road Vienna, VA 22182 (571) 226-4660.</p>
+               <ol>
+                  <li>
+                     <p><ph props="autonumber" class="- topic/ph ">(1)</ph> National Industries for the Blind 1310 Braddock Place Alexandria, VA 22314-1691 (703) 310-0500; and</p>
+                  </li>
+                  <li>
+                     <p><ph
+                        props="autonumber"
+                        class="- topic/ph ">(2)</ph>  NISH 8401 Old Courthouse Road Vienna, VA 22182 (571) 226-4660.</p>
+                  </li>
+               </ol>
             </li>
          </ol>
-         <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>
