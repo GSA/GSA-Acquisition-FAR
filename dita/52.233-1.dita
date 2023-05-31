@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
-   <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" id="FAR_52_233_1">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
+   <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.3"
+            id="FAR_52_233_1">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.233-1</ph> Disputes.</title>
       <conbody class="- topic/body concept/conbody ">
          <p class="- topic/p " id="d3540e8">As prescribed in <ph class="- topic/ph " outputclass="ClauseProvisionXREF">
-               <xref base="i1080342" class="- topic/xref " href="33.215.dita#FAR_33_215" outputclass="fm:ParaNumOnly">33.215</xref>
+               <xref base="i1080342"
+                     class="- topic/xref "
+                     href="33.215.dita#FAR_33_215"
+                     outputclass="fm:ParaNumOnly">33.215</xref>
             </ph>, insert the following clause:</p>
          <p class="- topic/p " id="d3540e14" outputclass="Ctr_SmCaps">Disputes <ph class="- topic/ph " outputclass="SmCaps">(May 2014)</ph>
          </p>
@@ -14,17 +22,32 @@
             <li class="- topic/li ">
                <p class="- topic/p " id="d3540e20">
                   <ph class="- topic/ph " props="autonumber">(a)</ph>
-						            This contract is subject to <xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">41 U.S.C chapter 71</xref>, Contract Disputes.</p>
+						            This contract is subject to <xref class="- topic/xref "
+                        format="html"
+                        href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        scope="external">41 U.S.C chapter 71</xref>, Contract Disputes.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3540e28">
                   <ph class="- topic/ph " props="autonumber">(b)</ph>
-						            Except as provided in <xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">41 U.S.C chapter 71</xref>, all disputes arising under or relating to this contract shall be resolved under this clause.</p>
+						            Except as provided in <xref class="- topic/xref "
+                        format="html"
+                        href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        scope="external">41 U.S.C chapter 71</xref>, all disputes arising under or relating to this contract shall be resolved under this clause.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3540e36">
                   <ph class="- topic/ph " props="autonumber">(c)</ph>
-						            "Claim," as used in this clause, means a written demand or written assertion by one of the contracting parties seeking, as a matter of right, the payment of money in a sum certain, the adjustment or interpretation of contract terms, or other relief arising under or relating to this contract. However, a written demand or written assertion by the Contractor seeking the payment of money exceeding $100,000 is not a claim under <xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">41 U.S.C chapter 71</xref> until certified. A voucher, invoice, or other routine request for payment that is not in dispute when submitted is not a claim under <xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">41 U.S.C chapter 71</xref>. The submission may be converted to a claim under <xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">41 U.S.C chapter 71</xref>, by complying with the submission and certification requirements of this clause, if it is disputed either as to liability or amount or is not acted upon in a reasonable time.</p>
+						            "Claim," as used in this clause, means a written demand or written assertion by one of the contracting parties seeking, as a matter of right, the payment of money in a sum certain, the adjustment or interpretation of contract terms, or other relief arising under or relating to this contract. However, a written demand or written assertion by the Contractor seeking the payment of money exceeding $100,000 is not a claim under <xref class="- topic/xref "
+                        format="html"
+                        href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        scope="external">41 U.S.C chapter 71</xref> until certified. A voucher, invoice, or other routine request for payment that is not in dispute when submitted is not a claim under <xref class="- topic/xref "
+                        format="html"
+                        href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        scope="external">41 U.S.C chapter 71</xref>. The submission may be converted to a claim under <xref class="- topic/xref "
+                        format="html"
+                        href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        scope="external">41 U.S.C chapter 71</xref>, by complying with the submission and certification requirements of this clause, if it is disputed either as to liability or amount or is not acted upon in a reasonable time.</p>
             </li>
             <li class="- topic/li " props="Runin">
                <p class="- topic/p " id="d3540e50">
@@ -73,7 +96,10 @@
             <li class="- topic/li ">
                <p class="- topic/p " id="d3540e90">
                   <ph class="- topic/ph " props="autonumber">(f)</ph>
-						            The Contracting Officer’s decision shall be final unless the Contractor appeals or files a suit as provided in <xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">41 U.S.C chapter 71</xref>.</p>
+						            The Contracting Officer’s decision shall be final unless the Contractor appeals or files a suit as provided in <xref class="- topic/xref "
+                        format="html"
+                        href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        scope="external">41 U.S.C chapter 71</xref>.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3540e98">
@@ -83,7 +109,10 @@
             <li class="- topic/li ">
                <p class="- topic/p " id="d3540e103">
                   <ph class="- topic/ph " props="autonumber">(h)</ph>
-						            The Government shall pay interest on the amount found due and unpaid from (1) the date that the Contracting Officer receives the claim (certified, if required); or (2) the date that payment otherwise would be due, if that date is later, until the date of payment. With regard to claims having defective certifications, as defined in FAR <xref base="i1080177" class="- topic/xref " href="33.201.dita#FAR_33_201" outputclass="fm:ParaNumOnly">33.201</xref>, interest shall be paid from the date that the Contracting Officer initially receives the claim. Simple interest on claims shall be paid at the rate, fixed by the Secretary of the Treasury as provided in the Act, which is applicable to the period during which the Contracting Officer receives the claim and then at the rate applicable for each 6-month period as fixed by the Treasury Secretary during the pendency of the claim.</p>
+						            The Government shall pay interest on the amount found due and unpaid from (1) the date that the Contracting Officer receives the claim (certified, if required); or (2) the date that payment otherwise would be due, if that date is later, until the date of payment. With regard to claims having defective certifications, as defined in FAR <xref base="i1080177"
+                        class="- topic/xref "
+                        href="33.201.dita#FAR_33_201"
+                        outputclass="fm:ParaNumOnly">33.201</xref>, interest shall be paid from the date that the Contracting Officer initially receives the claim. Simple interest on claims shall be paid at the rate, fixed by the Secretary of the Treasury as provided in the Act, which is applicable to the period during which the Contracting Officer receives the claim and then at the rate applicable for each 6-month period as fixed by the Treasury Secretary during the pendency of the claim.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3540e111">
@@ -94,7 +123,13 @@
          <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
          <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3538e117">
-               <i class="+ topic/ph hi-d/i ">Alternate I </i><ph outputclass="SmCaps">(Dec 1991)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="i1080342" class="- topic/xref " href="33.215.dita#FAR_33_215" outputclass="fm:ParaNumOnly">33.215</xref></ph>, substitute the following paragraph (i) for paragraph (i) of the basic clause:</p>
+               <i class="+ topic/ph hi-d/i ">Alternate I </i>
+               <ph outputclass="SmCaps">(Dec 1991)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref base="i1080342"
+                        class="- topic/xref "
+                        href="33.215.dita#FAR_33_215"
+                        outputclass="fm:ParaNumOnly">33.215</xref>
+               </ph>, substitute the following paragraph (i) for paragraph (i) of the basic clause:</p>
             <p class="- topic/p " outputclass="List1">(i) The Contractor shall proceed diligently with performance of this contract, pending final resolution of any request for relief, claim, appeal, or action arising under or relating to the contract, and comply with any decision of the Contracting Officer.</p>
             <?FM MARKER [Alt] End?>
          </section>

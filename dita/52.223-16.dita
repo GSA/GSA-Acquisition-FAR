@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="FAR_52_223_16">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="FAR_52_223_16">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.223-16</ph> Acquisition of EPEAT®-Registered Personal Computer Products.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p " id="d3387e8">As prescribed in <ph class="- topic/ph " outputclass="ClauseProvisionXREF">
-               <xref base="i1094423" class="- topic/xref " href="23.705.dita#FAR_23_705" outputclass="fm:ParaNumOnly">23.705</xref>(d)(1)</ph>, insert the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">Acquisition of EPEAT®-Registered Personal Computer Products (<b class="+ topic/ph hi-d/b "></b>Oct 2015)</p>
+               <xref base="i1094423"
+                     class="- topic/xref "
+                     href="23.705.dita#FAR_23_705"
+                     outputclass="fm:ParaNumOnly">23.705</xref>(d)(1)</ph>, insert the following clause:</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">Acquisition of EPEAT®-Registered Personal Computer Products (<b class="+ topic/ph hi-d/b "/>Oct 2015)</p>
          <ol class="- topic/ol " id="d3348e28">
             <li class="- topic/li ">
                <p class="- topic/p " id="d3387e21">
                   <ph class="- topic/ph " props="autonumber">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause-</p>
                <p class="- topic/p " id="d3387e27">
-                  <i class="+ topic/ph hi-d/i " outputclass="Term" xtrc="d3383e42" xtrf="_52.223-16">Computer</i> means a device that performs logical operations and processes data. Computers are composed of, at a minimum.<ol class="- topic/ol " id="d3348e50">
+                  <i class="+ topic/ph hi-d/i "
+                     outputclass="Term"
+                     xtrc="d3383e42"
+                     xtrf="_52.223-16">Computer</i> means a device that performs logical operations and processes data. Computers are composed of, at a minimum.<ol class="- topic/ol " id="d3348e50">
                      <li class="- topic/li ">
                         <p class="- topic/p " id="d3387e33">
                            <ph class="- topic/ph " props="autonumber">(1)</ph> A central processing unit (CPU) to perform operations;</p>
@@ -30,11 +41,20 @@
                   </ol>
                </p>
                <p class="- topic/p " id="d3387e47">
-                  <i class="+ topic/ph hi-d/i " outputclass="Term" xtrc="d3383e78" xtrf="_52.223-16">Computer display</i> means a display screen and its associated electronics encased in a single housing or within the computer housing (e.g., notebook or integrated desktop computer) that is capable of displaying output information from a computer via one or more inputs such as a VGA, DVI, USB, DisplayPort, and/or IEEE 1394-2008™, Standard for High Performance Serial Bus. Examples of computer display technologies are the cathode-ray tube (CRT) and liquid crystal display (LCD).</p>
+                  <i class="+ topic/ph hi-d/i "
+                     outputclass="Term"
+                     xtrc="d3383e78"
+                     xtrf="_52.223-16">Computer display</i> means a display screen and its associated electronics encased in a single housing or within the computer housing (e.g., notebook or integrated desktop computer) that is capable of displaying output information from a computer via one or more inputs such as a VGA, DVI, USB, DisplayPort, and/or IEEE 1394-2008™, Standard for High Performance Serial Bus. Examples of computer display technologies are the cathode-ray tube (CRT) and liquid crystal display (LCD).</p>
                <p class="- topic/p " id="d3387e51">
-                  <i class="+ topic/ph hi-d/i " outputclass="Term" xtrc="d3383e84" xtrf="_52.223-16">Desktop computer</i> means a computer where the main unit is intended to be located in a permanent location, often on a desk or on the floor. Desktops are not designed for portability and utilize an external computer display, keyboard, and mouse. Desktops are designed for a broad range of home and office applications.</p>
+                  <i class="+ topic/ph hi-d/i "
+                     outputclass="Term"
+                     xtrc="d3383e84"
+                     xtrf="_52.223-16">Desktop computer</i> means a computer where the main unit is intended to be located in a permanent location, often on a desk or on the floor. Desktops are not designed for portability and utilize an external computer display, keyboard, and mouse. Desktops are designed for a broad range of home and office applications.</p>
                <p class="- topic/p " id="d3387e55">
-                  <i class="+ topic/ph hi-d/i " outputclass="Term" xtrc="d3383e90" xtrf="_52.223-16">Integrated desktop computer</i> means a desktop system in which the computer and computer display function as a single unit that receives its AC power through a single cable. Integrated desktop computers come in one of two possible forms:</p>
+                  <i class="+ topic/ph hi-d/i "
+                     outputclass="Term"
+                     xtrc="d3383e90"
+                     xtrf="_52.223-16">Integrated desktop computer</i> means a desktop system in which the computer and computer display function as a single unit that receives its AC power through a single cable. Integrated desktop computers come in one of two possible forms:</p>
                <ol class="- topic/ol " id="d3348e89">
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3387e61">
@@ -48,9 +68,15 @@
                   </li>
                </ol>
                <p class="- topic/p " id="d3387e70">
-                  <i class="+ topic/ph hi-d/i " outputclass="Term" xtrc="d3383e118" xtrf="_52.223-16">Notebook computer</i> means a computer designed specifically for portability and to be operated for extended periods of time either with or without a direct connection to an AC power source. Notebooks must utilize an integrated computer display and be capable of operation off of an integrated battery or other portable power source. In addition, most notebooks use an external power supply and have an integrated keyboard and pointing device. Notebook computers are typically designed to provide similar functionality to desktops, including operation of software similar in functionality to that used in desktops. Docking stations are considered accessories for notebook computers, not notebook computers. Tablet PCs, which may use touch-sensitive screens along with, or instead of, other input devices, are considered notebook computers.</p>
+                  <i class="+ topic/ph hi-d/i "
+                     outputclass="Term"
+                     xtrc="d3383e118"
+                     xtrf="_52.223-16">Notebook computer</i> means a computer designed specifically for portability and to be operated for extended periods of time either with or without a direct connection to an AC power source. Notebooks must utilize an integrated computer display and be capable of operation off of an integrated battery or other portable power source. In addition, most notebooks use an external power supply and have an integrated keyboard and pointing device. Notebook computers are typically designed to provide similar functionality to desktops, including operation of software similar in functionality to that used in desktops. Docking stations are considered accessories for notebook computers, not notebook computers. Tablet PCs, which may use touch-sensitive screens along with, or instead of, other input devices, are considered notebook computers.</p>
                <p class="- topic/p " id="d3387e74">
-                  <i class="+ topic/ph hi-d/i " outputclass="Term" xtrc="d3383e124" xtrf="_52.223-16">Personal computer product</i> means a computer, computer display, desktop computer, integrated desktop computer, or notebook computer.</p>
+                  <i class="+ topic/ph hi-d/i "
+                     outputclass="Term"
+                     xtrc="d3383e124"
+                     xtrf="_52.223-16">Personal computer product</i> means a computer, computer display, desktop computer, integrated desktop computer, or notebook computer.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3387e79">
@@ -60,13 +86,22 @@
             <li class="- topic/li ">
                <p class="- topic/p " id="d3387e84">
                   <ph class="- topic/ph " props="autonumber">(c)</ph>
-						            For information about EPEAT®, see <xref class="- topic/xref " format="html" href="http://www.epa.gov/epeat" scope="external">www.epa.gov/epeat</xref>.</p>
+						            For information about EPEAT®, see <xref class="- topic/xref "
+                        format="html"
+                        href="http://www.epa.gov/epeat"
+                        scope="external">www.epa.gov/epeat</xref>.</p>
             </li>
          </ol>
          <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
          <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3390e95">
-               <i class="+ topic/ph hi-d/i ">Alternate I </i><ph outputclass="SmCaps">(Jun 2014)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="i1094423" class="- topic/xref " href="23.705.dita#FAR_23_705" outputclass="fm:ParaNumOnly">23.705</xref></ph>(b)(2), substitute the following paragraph (b) for paragraph (b) of the basic clause:</p>
+               <i class="+ topic/ph hi-d/i ">Alternate I </i>
+               <ph outputclass="SmCaps">(Jun 2014)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref base="i1094423"
+                        class="- topic/xref "
+                        href="23.705.dita#FAR_23_705"
+                        outputclass="fm:ParaNumOnly">23.705</xref>
+               </ph>(b)(2), substitute the following paragraph (b) for paragraph (b) of the basic clause:</p>
             <p class="- topic/p " outputclass="List1">(b) Under this contract, the Contractor shall deliver, furnish for Government use, or furnish for Contractor use at a Federally controlled facility, only personal computer products that, at the time of submission of proposals and at the time of award, were EPEAT® silver-registered or gold-registered.</p>
             <?FM MARKER [Alt] End?>
          </section>

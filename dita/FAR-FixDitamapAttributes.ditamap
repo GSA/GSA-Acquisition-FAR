@@ -2701,6 +2701,40 @@
                          xtrc="FAR_4_2105.html"
                          xtrf="subtopic"/>
             </topicref>
+            <topicref href="Subpart_4.22.dita"
+                      navtitle=" Prohibition on a ByteDance Covered Application."
+                      base="NoTitle"
+                      props="Subpart 4.22"
+                      outputclass="SubPart"
+                      audience="FAR_Subpart_4_22"
+                      type="type"
+                      xtrc="FAR_Subpart_4_22.html"
+                      xtrf="SubPart">
+               <topicref href="4.2201.dita"
+                         navtitle="4.2201 Definitions."
+                         props="4.2201"
+                         outputclass="subtopic"
+                         audience="FAR_4_2201"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
+               <topicref href="4.2202.dita"
+                         navtitle="4.2202 Prohibition."
+                         props="4.2202"
+                         outputclass="subtopic"
+                         audience="FAR_4_2202"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
+               <topicref href="4.2203.dita"
+                         navtitle="4.2203 Contract clause."
+                         props="4.2203"
+                         outputclass="subtopic"
+                         audience="FAR_4_2203"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
+            </topicref>
          </topicref>
       </topicref>
    </topicref>
@@ -4013,63 +4047,14 @@
                             xtrf="subtopic"/>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 8.5 - Acquisition of Helium"
+            <topicref navtitle="Subpart 8.5 - [Reserved]&#xA;      "
                       href="Subpart_8.5.dita"
                       outputclass="SubPart"
                       props="Subpart 8.5"
                       audience="FAR_Subpart_8_5"
                       base="NoTitle"
                       xtrc="FAR_Subpart_8_5.html"
-                      xtrf="SubPart">
-               <topicref navtitle="8.500 Scope of subpart."
-                         href="8.500.dita"
-                         outputclass="subtopic"
-                         props="8.500"
-                         audience="FAR_8_500"
-                         base="NoTitle"
-                         xtrc="FAR_8_500.html"
-                         xtrf="subtopic"/>
-               <topicref navtitle="8.501 Definitions."
-                         href="8.501.dita"
-                         outputclass="subtopic"
-                         props="8.501"
-                         audience="FAR_8_501"
-                         base="concept"
-                         xtrc="FAR_8_501.html"
-                         xtrf="subtopic"/>
-               <topicref navtitle="8.502 Policy."
-                         href="8.502.dita"
-                         outputclass="subtopic"
-                         props="8.502"
-                         audience="FAR_8_502"
-                         base="concept"
-                         xtrc="FAR_8_502.html"
-                         xtrf="subtopic"/>
-               <topicref navtitle="8.503 Exception."
-                         href="8.503.dita"
-                         outputclass="subtopic"
-                         props="8.503"
-                         audience="FAR_8_503"
-                         base="concept"
-                         xtrc="FAR_8_503.html"
-                         xtrf="subtopic"/>
-               <topicref navtitle="8.504 Procedures."
-                         href="8.504.dita"
-                         outputclass="subtopic"
-                         props="8.504"
-                         audience="FAR_8_504"
-                         base="concept"
-                         xtrc="FAR_8_504.html"
-                         xtrf="subtopic"/>
-               <topicref navtitle="8.505 Contract clause."
-                         href="8.505.dita"
-                         outputclass="subtopic"
-                         props="8.505"
-                         audience="FAR_8_505"
-                         base="concept"
-                         xtrc="FAR_8_505.html"
-                         xtrf="subtopic"/>
-            </topicref>
+                      xtrf="SubPart"/>
             <topicref navtitle="Subpart 8.6 - Acquisition from Federal Prison Industries, Inc."
                       href="Subpart_8.6.dita"
                       outputclass="SubPart"
@@ -7665,7 +7650,7 @@
                          base="concept"
                          xtrc="FAR_15_403.html"
                          xtrf="subtopic">
-                  <topicref navtitle="15.403-1Prohibition on obtaining certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. CHAPTER 35)."
+                  <topicref navtitle="15.403-1 &#xA;         Prohibition on obtaining certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. CHAPTER 35).&#xA;      "
                             href="15.403-1.dita"
                             outputclass="subtopic"
                             props="15.403-1"
@@ -7689,7 +7674,7 @@
                             base="concept"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="15.403-4Requiring certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35)."
+                  <topicref navtitle="15.403-4 &#xA;         Requiring certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35).&#xA;      "
                             href="15.403-4.dita"
                             outputclass="subtopic"
                             props="15.403-4"
@@ -9327,7 +9312,7 @@
                          base="concept"
                          xtrc="FAR_18_119.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="18.120[Reserved]"
+               <topicref navtitle="18.120 &#xA;         [Reserved]&#xA;      "
                          href="18.120.dita"
                          outputclass="subtopic"
                          props="18.120"
@@ -10405,7 +10390,7 @@
                          base="concept"
                          xtrc="FAR_19_1301.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="19.1302&#xA;         [Reserved]."
+               <topicref navtitle="19.1302 &#xA;         [Reserved]."
                          href="19.1302.dita"
                          outputclass="subtopic"
                          props="19.1302"
@@ -14404,7 +14389,7 @@
                          base="concept"
                          xtrc="FAR_27_204.html"
                          xtrf="subtopic">
-                  <topicref navtitle="27.204-1Use of patented technology under the United States-Mexico-Canada Agreement."
+                  <topicref navtitle="27.204-1 &#xA;         Use of patented technology under the United States-Mexico-Canada Agreement.&#xA;      "
                             href="27.204-1.dita"
                             outputclass="subtopic"
                             props="27.204-1"
@@ -16727,7 +16712,7 @@
                       base="concept"
                       xtrc="FAR_32_008.html"
                       xtrf="subtopic"/>
-            <topicref navtitle="32.009 Providing accelerated payments to small business subcontractors."
+            <topicref navtitle="32.009&#xA;         Providing accelerated payments to small business contractors and to prime contractors that subcontract with a small business concern.&#xA;      "
                       href="32.009.dita"
                       outputclass="subtopic"
                       props="32.009"
@@ -18745,7 +18730,7 @@
                          base="concept"
                          xtrc="FAR_35_017_6.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="35.017-7Limitation on the creation of new FFRDC’s."
+               <topicref navtitle="35.017-7 &#xA;         Limitation on the creation of new FFRDC’s.&#xA;      "
                          href="35.017-7.dita"
                          outputclass="subtopic"
                          props="35.017-7"
@@ -19980,7 +19965,7 @@
                       base="concept"
                       xtrc="FAR_39_000.html"
                       xtrf="subtopic"/>
-            <topicref navtitle="39.001 &#xA;         39.001 &#xA;         Applicability."
+            <topicref navtitle="39.001 Applicability."
                       href="39.001.dita"
                       outputclass="subtopic"
                       props="39.001"
@@ -25089,7 +25074,7 @@
                             props="52.203-2"
                             audience="FAR_52_203_2"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.203-3 Gratuities."
                             href="52.203-3.dita"
@@ -25505,7 +25490,7 @@
                             props="52.207-4"
                             audience="FAR_52_207_4"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.207-5 Option to Purchase Equipment."
                             href="52.207-5.dita"
@@ -25589,7 +25574,7 @@
                             base="concept"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.208-8 Required Sources for Helium and Helium Usage Data."
+                  <topicref navtitle="52.208-8&#xA;         [Reserved]&#xA;      "
                             href="52.208-8.dita"
                             outputclass="subtopic"
                             props="52.208-8"
@@ -25950,7 +25935,7 @@
                             props="52.212-5"
                             audience="FAR_52_212_5"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                </topicref>
                <topicref navtitle="52.213 [Reserved]"
@@ -26122,7 +26107,7 @@
                             props="52.214-15"
                             audience="FAR_52_214_15"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.214-16 Minimum Bid Acceptance Period."
                             href="52.214-16.dita"
@@ -26170,7 +26155,7 @@
                             props="52.214-21"
                             audience="FAR_52_214_21"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.214-22 Evaluation of Bids for Multiple Awards."
                             href="52.214-22.dita"
@@ -26502,7 +26487,7 @@
                             props="52.216-2"
                             audience="FAR_52_216_2"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.216-3 Economic Price Adjustment-Semistandard&#xA;Supplies."
                             href="52.216-3.dita"
@@ -26510,7 +26495,7 @@
                             props="52.216-3"
                             audience="FAR_52_216_3"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.216-4 Economic Price Adjustment-Labor&#xA;and Material."
                             href="52.216-4.dita"

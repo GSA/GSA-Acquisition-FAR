@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="FAR_52_216_7" xtrc="GFI">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="FAR_52_216_7"
+            xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.216-7</ph> Allowable Cost and Payment.</title>
       <conbody class="- topic/body  concept/conbody " outputclass="clause">
          <p class="- topic/p " id="d3235e8">As prescribed in <ph class="- topic/ph " outputclass="ClauseProvisionXREF">
-               <xref base="i1104745" class="- topic/xref " href="16.307.dita#FAR_16_307" outputclass="fm:ParaNumOnly">16.307</xref>(a)</ph>, insert the following clause:</p>
+               <xref base="i1104745"
+                     class="- topic/xref "
+                     href="16.307.dita#FAR_16_307"
+                     outputclass="fm:ParaNumOnly">16.307</xref>(a)</ph>, insert the following clause:</p>
          <p class="- topic/p " id="d3235e15" outputclass="Ctr_SmCaps">Allowable Cost and Payment <ph class="- topic/ph " outputclass="SmCaps">(Aug 2018)</ph>
          </p>
          <ol class="- topic/ol " id="d3200e25">
@@ -18,17 +27,26 @@
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3235e27">
                         <ph class="- topic/ph " props="autonumber">(1)</ph>
-								                The Government will make payments to the Contractor when requested as work progresses, but (except for small business concerns) not more often than once every 2 weeks, in amounts determined to be allowable by the Contracting Officer in accordance with Federal Acquisition Regulation (FAR) <xref base="i1084539" class="- topic/xref " href="Subpart_31.2.dita#FAR_Subpart_31_2" outputclass="fm:Subpart">subpart&#xa0; 31.2</xref> in effect on the date of this contract and the terms of this contract. The Contractor may submit to an authorized representative of the Contracting Officer, in such form and reasonable detail as the representative may require, an invoice or voucher supported by a statement of the claimed allowable cost for performing this contract.</p>
+								                The Government will make payments to the Contractor when requested as work progresses, but (except for small business concerns) not more often than once every 2 weeks, in amounts determined to be allowable by the Contracting Officer in accordance with Federal Acquisition Regulation (FAR) <xref base="i1084539"
+                              class="- topic/xref "
+                              href="Subpart_31.2.dita#FAR_Subpart_31_2"
+                              outputclass="fm:Subpart">subpart  31.2</xref> in effect on the date of this contract and the terms of this contract. The Contractor may submit to an authorized representative of the Contracting Officer, in such form and reasonable detail as the representative may require, an invoice or voucher supported by a statement of the claimed allowable cost for performing this contract.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3235e35">
                         <ph class="- topic/ph " props="autonumber">(2)</ph>
-								                Contract financing payments are not subject to the interest penalty provisions of the Prompt Payment Act. Interim payments made prior to the final payment under the contract are contract financing payments, except interim payments if this contract contains Alternate I to the clause at <xref base="i1050125" class="- topic/xref " href="52.232-25.dita#FAR_52_232_25" outputclass="fm:ParaNumOnly">52.232-25</xref>.</p>
+								                Contract financing payments are not subject to the interest penalty provisions of the Prompt Payment Act. Interim payments made prior to the final payment under the contract are contract financing payments, except interim payments if this contract contains Alternate I to the clause at <xref base="i1050125"
+                              class="- topic/xref "
+                              href="52.232-25.dita#FAR_52_232_25"
+                              outputclass="fm:ParaNumOnly">52.232-25</xref>.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3235e43">
                         <ph class="- topic/ph " props="autonumber">(3)</ph>
-								                The designated payment office will make interim payments for contract financing on the <cite class="- topic/cite " outputclass="SingleLine" xtrc="52.216-7_d3223e65" xtrf="GFI">_________ [<i class="+ topic/ph hi-d/i ">Contracting Officer insert day as prescribed by agency head; if not prescribed, insert "30th"</i>]</cite> day after the designated billing office receives a proper payment request. In the event that the Government requires an audit or other review of a specific payment request to ensure compliance with the terms and conditions of the contract, the designated payment office is not compelled to make payment by the specified due date.</p>
+								                The designated payment office will make interim payments for contract financing on the <cite class="- topic/cite "
+                              outputclass="SingleLine"
+                              xtrc="52.216-7_d3223e65"
+                              xtrf="GFI">_________ [<i class="+ topic/ph hi-d/i ">Contracting Officer insert day as prescribed by agency head; if not prescribed, insert "30th"</i>]</cite> day after the designated billing office receives a proper payment request. In the event that the Government requires an audit or other review of a specific payment request to ensure compliance with the terms and conditions of the contract, the designated payment office is not compelled to make payment by the specified due date.</p>
                   </li>
                </ol>
             </li>
@@ -145,7 +163,10 @@
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3235e162">
                         <ph class="- topic/ph " props="autonumber">(1)</ph>
-								                Final annual indirect cost rates and the appropriate bases shall be established in accordance with <xref base="i1075062" class="- topic/xref " href="Subpart_42.7.dita#FAR_Subpart_42_7" outputclass="fm:Subpart">subpart&#xa0; 42.7</xref> of the Federal Acquisition Regulation (FAR) in effect for the period covered by the indirect cost rate proposal.</p>
+								                Final annual indirect cost rates and the appropriate bases shall be established in accordance with <xref base="i1075062"
+                              class="- topic/xref "
+                              href="Subpart_42.7.dita#FAR_Subpart_42_7"
+                              outputclass="fm:Subpart">subpart  42.7</xref> of the Federal Acquisition Regulation (FAR) in effect for the period covered by the indirect cost rate proposal.</p>
                   </li>
                   <li class="- topic/li " props="Runin">
                      <p class="- topic/p " id="d3235e170">
@@ -235,7 +256,10 @@
                               <li class="- topic/li ">
                                  <p class="- topic/p " id="d3235e268">
                                     <ph class="- topic/ph " props="autonumber">(N)</ph>
-												                        Certificate of final indirect costs (see <xref base="i1048049" class="- topic/xref " href="52.242-4.dita#FAR_52_242_4" outputclass="fm:ParaNumOnly">52.242-4</xref>, Certification of Final Indirect Costs).</p>
+												                        Certificate of final indirect costs (see <xref base="i1048049"
+                                          class="- topic/xref "
+                                          href="52.242-4.dita#FAR_52_242_4"
+                                          outputclass="fm:ParaNumOnly">52.242-4</xref>, Certification of Final Indirect Costs).</p>
                               </li>
                               <li class="- topic/li ">
                                  <p class="- topic/p " id="d3235e276">
@@ -257,7 +281,16 @@
                               <li class="- topic/li ">
                                  <p class="- topic/p " id="d3235e292">
                                     <ph class="- topic/ph " props="autonumber">(B)</ph>
-												                        General organizational information and limitation on allowability of compensation for certain contractor personnel. See <xref base="i1084735" class="- topic/xref " href="31.205-6.dita#FAR_31_205_6" outputclass="fm:ParaNumOnly">31.205-6</xref>(p). Additional salary reference information is available at <xref class="- topic/xref " format="html" href="https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf" scope="external">https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf</xref> and <xref class="- topic/xref " format="html" href="https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedafterJune24.pdf" scope="external">https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedafterJune24.pdf</xref>.</p>
+												                        General organizational information and limitation on allowability of compensation for certain contractor personnel. See <xref base="i1084735"
+                                          class="- topic/xref "
+                                          href="31.205-6.dita#FAR_31_205_6"
+                                          outputclass="fm:ParaNumOnly">31.205-6</xref>(p). Additional salary reference information is available at <xref class="- topic/xref "
+                                          format="html"
+                                          href="https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf"
+                                          scope="external">https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf</xref> and <xref class="- topic/xref "
+                                          format="html"
+                                          href="https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedafterJune24.pdf"
+                                          scope="external">https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedafterJune24.pdf</xref>.</p>
                               </li>
                               <li class="- topic/li ">
                                  <p class="- topic/p " id="d3235e306">
@@ -399,7 +432,10 @@
             <li class="- topic/li ">
                <p class="- topic/p " id="d3235e442">
                   <ph class="- topic/ph " props="autonumber">(f)</ph>
-                  <i class="+ topic/ph hi-d/i ">Quick-closeout procedures</i>. Quick-closeout procedures are applicable when the conditions in FAR <xref base="i1075342" class="- topic/xref " href="42.708.dita#FAR_42_708" outputclass="fm:ParaNumOnly">42.708</xref>(a) are satisfied.</p>
+                  <i class="+ topic/ph hi-d/i ">Quick-closeout procedures</i>. Quick-closeout procedures are applicable when the conditions in FAR <xref base="i1075342"
+                        class="- topic/xref "
+                        href="42.708.dita#FAR_42_708"
+                        outputclass="fm:ParaNumOnly">42.708</xref>(a) are satisfied.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3235e452">
@@ -468,23 +504,56 @@
          <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
          <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3238e514">
-               <i class="+ topic/ph hi-d/i ">Alternate I </i><ph outputclass="SmCaps">(Feb 1997)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="i1104745" class="- topic/xref " href="16.307.dita#FAR_16_307" outputclass="fm:ParaNumOnly">16.307</xref></ph>(a)(2), substitute the following paragraph (b)(1)(iii) for paragraph (b)(1)(iii) of the basic clause:</p>
+               <i class="+ topic/ph hi-d/i ">Alternate I </i>
+               <ph outputclass="SmCaps">(Feb 1997)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref base="i1104745"
+                        class="- topic/xref "
+                        href="16.307.dita#FAR_16_307"
+                        outputclass="fm:ParaNumOnly">16.307</xref>
+               </ph>(a)(2), substitute the following paragraph (b)(1)(iii) for paragraph (b)(1)(iii) of the basic clause:</p>
             <p class="- topic/p ">(iii) The amount of progress and other payments to the Contractor’s subcontractors that either have been paid, or that the Contractor is required to pay pursuant to the clause of this contract entitled "Prompt Payment for Construction Contracts." Payments shall be made by cash, check, or other form of payment to the Contractor’s subcontractors under similar cost standards.</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
-            <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate II </i><ph outputclass="SmCaps">(Aug 2012)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="i1104745" class="- topic/xref " href="16.307.dita#FAR_16_307" outputclass="fm:ParaNumOnly">16.307</xref></ph>(a)(3), substitute the following paragraph (a)(1) for paragraph (a)(1) of the basic clause:</p>
-            <p class="- topic/p ">(a)(1) The Government will make payments to the Contractor when requested as work progresses, but not more often than once every two weeks, in amounts determined to be allowable by the Contracting Officer in accordance with subpart <xref base="i1084503" class="- topic/xref " href="Subpart_31.3.dita#FAR_Subpart_31_3" outputclass="fm:ParaNumOnly">31.3</xref> in effect on the date of this contract and the terms of this contract. The Contractor may submit to an authorized representative of the Contracting Officer, in such form and reasonable detail as the representative may require, an invoice or voucher supported by a statement of the claimed allowable cost for performing this contract.</p>
+            <p class="- topic/p " id="d3231e530">
+               <i class="+ topic/ph hi-d/i ">Alternate II </i>
+               <ph outputclass="SmCaps">(Aug 2012)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref base="i1104745"
+                        class="- topic/xref "
+                        href="16.307.dita#FAR_16_307"
+                        outputclass="fm:ParaNumOnly">16.307</xref>
+               </ph>(a)(3), substitute the following paragraph (a)(1) for paragraph (a)(1) of the basic clause:</p>
+            <p class="- topic/p ">(a)(1) The Government will make payments to the Contractor when requested as work progresses, but not more often than once every two weeks, in amounts determined to be allowable by the Contracting Officer in accordance with subpart <xref base="i1084503"
+                     class="- topic/xref "
+                     href="Subpart_31.3.dita#FAR_Subpart_31_3"
+                     outputclass="fm:ParaNumOnly">31.3</xref> in effect on the date of this contract and the terms of this contract. The Contractor may submit to an authorized representative of the Contracting Officer, in such form and reasonable detail as the representative may require, an invoice or voucher supported by a statement of the claimed allowable cost for performing this contract.</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
-            <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate III </i><ph outputclass="SmCaps">(Aug 2012)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="i1104745" class="- topic/xref " href="16.307.dita#FAR_16_307" outputclass="fm:ParaNumOnly">16.307</xref></ph>(a)(4), substitute the following paragraph (a)(1) for paragraph (a)(1) of the basic clause:</p>
-            <p class="- topic/p ">(a)(1) The Government will make payments to the Contractor when requested as work progresses, but not more often than once every two weeks, in amounts determined to be allowable by the Contracting Officer in accordance with subpart <xref base="i1084403" class="- topic/xref " href="Subpart_31.6.dita#FAR_Subpart_31_6" outputclass="fm:ParaNumOnly">31.6</xref> in effect on the date of this contract and the terms of this contract. The Contractor may submit to an authorized representative of the Contracting Officer, in such form and reasonable detail as the representative may require, an invoice or voucher supported by a statement of the claimed allowable cost for performing this contract.</p>
+            <p class="- topic/p " id="d3231e547">
+               <i class="+ topic/ph hi-d/i ">Alternate III </i>
+               <ph outputclass="SmCaps">(Aug 2012)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref base="i1104745"
+                        class="- topic/xref "
+                        href="16.307.dita#FAR_16_307"
+                        outputclass="fm:ParaNumOnly">16.307</xref>
+               </ph>(a)(4), substitute the following paragraph (a)(1) for paragraph (a)(1) of the basic clause:</p>
+            <p class="- topic/p ">(a)(1) The Government will make payments to the Contractor when requested as work progresses, but not more often than once every two weeks, in amounts determined to be allowable by the Contracting Officer in accordance with subpart <xref base="i1084403"
+                     class="- topic/xref "
+                     href="Subpart_31.6.dita#FAR_Subpart_31_6"
+                     outputclass="fm:ParaNumOnly">31.6</xref> in effect on the date of this contract and the terms of this contract. The Contractor may submit to an authorized representative of the Contracting Officer, in such form and reasonable detail as the representative may require, an invoice or voucher supported by a statement of the claimed allowable cost for performing this contract.</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
-            <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate IV </i><ph outputclass="SmCaps">(Aug 2012)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="i1104745" class="- topic/xref " href="16.307.dita#FAR_16_307" outputclass="fm:ParaNumOnly">16.307</xref></ph>(a)(5), substitute the following paragraph (a)(1) for paragraph (a)(1) of the basic clause:</p>
-            <p class="- topic/p ">(a)(1) The Government will make payments to the Contractor when requested as work progresses, but not more often than once every two weeks, in amounts determined to be allowable by the Contracting Officer in accordance with subpart <xref base="i1084365" class="- topic/xref " href="Subpart_31.7.dita#FAR_Subpart_31_7" outputclass="fm:ParaNumOnly">31.7</xref> in effect on the date of this contract and the terms of this contract. The Contractor may submit to an authorized representative of the Contracting Officer, in such form and reasonable detail as the representative may require, an invoice or voucher supported by a statement of the claimed allowable cost for performing this contract.</p>
+            <p class="- topic/p " id="d3231e565">
+               <i class="+ topic/ph hi-d/i ">Alternate IV </i>
+               <ph outputclass="SmCaps">(Aug 2012)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref base="i1104745"
+                        class="- topic/xref "
+                        href="16.307.dita#FAR_16_307"
+                        outputclass="fm:ParaNumOnly">16.307</xref>
+               </ph>(a)(5), substitute the following paragraph (a)(1) for paragraph (a)(1) of the basic clause:</p>
+            <p class="- topic/p ">(a)(1) The Government will make payments to the Contractor when requested as work progresses, but not more often than once every two weeks, in amounts determined to be allowable by the Contracting Officer in accordance with subpart <xref base="i1084365"
+                     class="- topic/xref "
+                     href="Subpart_31.7.dita#FAR_Subpart_31_7"
+                     outputclass="fm:ParaNumOnly">31.7</xref> in effect on the date of this contract and the terms of this contract. The Contractor may submit to an authorized representative of the Contracting Officer, in such form and reasonable detail as the representative may require, an invoice or voucher supported by a statement of the claimed allowable cost for performing this contract.</p>
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>

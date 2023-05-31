@@ -12,8 +12,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
 <map
    title="FAR"
-   rev="FAC 2023-03 May 26, 2023"
-   product="FAC 2023-03 May 26, 2023">
+   rev="FAC 2023-04 June 2, 2023"
+   product="FAC 2023-04 June 2, 2023">
    <topicref
       navtitle="Volume I-Parts 1 to 51"
       href="Volume_I.dita"
@@ -3034,6 +3034,44 @@ and contract clause."
                   xtrc="FAR_4_2105.html"
                   xtrf="subtopic"/>
             </topicref>
+            <topicref
+               href="Subpart_4.22.dita"
+               navtitle="Subpart 4.22 Prohibition on a ByteDance Covered Application."
+               base="NoTitle"
+               props="Subpart 4.22"
+               outputclass="SubPart"
+               audience="FAR_Subpart_4_22"
+               type="type"
+               xtrc="FAR_Subpart_4_22.html"
+               xtrf="SubPart">
+               <topicref
+                  href="4.2201.dita"
+                  navtitle="4.2201 Definitions."
+                  props="4.2201"
+                  outputclass="subtopic"
+                  audience="FAR_4_2201"
+                  xtrf="subtopic"
+                  base="concept"
+                  xtrc=""/>
+               <topicref
+                  href="4.2202.dita"
+                  navtitle="4.2202 Prohibition."
+                  props="4.2202"
+                  outputclass="subtopic"
+                  audience="FAR_4_2202"
+                  xtrf="subtopic"
+                  base="concept"
+                  xtrc=""/>
+               <topicref
+                  href="4.2203.dita"
+                  navtitle="4.2203 Contract clause."
+                  props="4.2203"
+                  outputclass="subtopic"
+                  audience="FAR_4_2203"
+                  xtrf="subtopic"
+                  base="concept"
+                  xtrc=""/>
+            </topicref>
          </topicref>
       </topicref>
    </topicref>
@@ -4520,7 +4558,8 @@ property."
                </topicref>
             </topicref>
             <topicref
-               navtitle="Subpart 8.5 - [Reserved]"
+               navtitle="Subpart 8.5 - [Reserved]
+      "
                href="Subpart_8.5.dita"
                outputclass="SubPart"
                props="Subpart 8.5"
@@ -8623,7 +8662,9 @@ after receipt of proposals."
                   xtrc="FAR_15_403.html"
                   xtrf="subtopic">
                   <topicref
-                     navtitle="15.403-1Prohibition on obtaining certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. CHAPTER 35)."
+                     navtitle="15.403-1 
+         Prohibition on obtaining certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. CHAPTER 35).
+      "
                      href="15.403-1.dita"
                      outputclass="subtopic"
                      props="15.403-1"
@@ -8651,7 +8692,9 @@ than certified cost or pricing data."
                      xtrc=""
                      xtrf="subtopic"/>
                   <topicref
-                     navtitle="15.403-4Requiring certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35)."
+                     navtitle="15.403-4 
+         Requiring certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35).
+      "
                      href="15.403-4.dita"
                      outputclass="subtopic"
                      props="15.403-4"
@@ -10496,7 +10539,9 @@ and contract clauses."
                   xtrc="FAR_18_119.html"
                   xtrf="subtopic"/>
                <topicref
-                  navtitle="18.120[Reserved]"
+                  navtitle="18.120 
+         [Reserved]
+      "
                   href="18.120.dita"
                   outputclass="subtopic"
                   props="18.120"
@@ -11724,7 +11769,7 @@ contracts."
                   xtrc="FAR_19_1301.html"
                   xtrf="subtopic"/>
                <topicref
-                  navtitle="19.1302
+                  navtitle="19.1302 
          [Reserved]."
                   href="19.1302.dita"
                   outputclass="subtopic"
@@ -16259,7 +16304,9 @@ and contract clauses."
                   xtrc="FAR_27_204.html"
                   xtrf="subtopic">
                   <topicref
-                     navtitle="27.204-1Use of patented technology under the United States-Mexico-Canada Agreement."
+                     navtitle="27.204-1 
+         Use of patented technology under the United States-Mexico-Canada Agreement.
+      "
                      href="27.204-1.dita"
                      outputclass="subtopic"
                      props="27.204-1"
@@ -18886,7 +18933,9 @@ financing."
                xtrc="FAR_32_008.html"
                xtrf="subtopic"/>
             <topicref
-               navtitle="32.009 Providing accelerated payments to small business contractors and to prime contractors that subcontract with a small business concern."
+               navtitle="32.009
+         Providing accelerated payments to small business contractors and to prime contractors that subcontract with a small business concern.
+      "
                href="32.009.dita"
                outputclass="subtopic"
                props="32.009"
@@ -21170,7 +21219,9 @@ due dates."
                   xtrc="FAR_35_017_6.html"
                   xtrf="subtopic"/>
                <topicref
-                  navtitle="35.017-7Limitation on the creation of new FFRDC’s."
+                  navtitle="35.017-7 
+         Limitation on the creation of new FFRDC’s.
+      "
                   href="35.017-7.dita"
                   outputclass="subtopic"
                   props="35.017-7"
@@ -28310,7 +28361,7 @@ and Contract Clauses"
                      props="52.203-2"
                      audience="FAR_52_203_2"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.203-3 Gratuities."
@@ -28421,7 +28472,7 @@ Poster(s)."
                      props="52.203-14"
                      audience="FAR_52_203_14"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.203-15 Whistleblower Protections	Under the American Recovery and Reinvestment Act of 2009."
@@ -28486,7 +28537,7 @@ Poster(s)."
                      props="52.204-1"
                      audience="FAR_52_204_1"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.204-2 Security Requirements."
@@ -28504,7 +28555,7 @@ Poster(s)."
                      props="52.204-3"
                      audience="FAR_52_204_3"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.204-4 Printed or Copied Double-Sided on Postconsumer Fiber Content Paper."
@@ -28522,7 +28573,7 @@ Poster(s)."
                      props="52.204-5"
                      audience="FAR_52_204_5"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.204-6 Unique Entity Identifier."
@@ -28550,7 +28601,7 @@ and Certifications."
                      props="52.204-8"
                      audience="FAR_52_204_8"
                      base="concept"
-                     xtrc="GFI VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.204-9 Personal Identity Verification of Contractor Personnel."
@@ -28631,7 +28682,7 @@ and Certifications."
                      props="52.204-17"
                      audience="FAR_52_204_17"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.204-18 Commercial and Government Entity Code Maintenance."
@@ -28658,7 +28709,7 @@ and Certifications."
                      props="52.204-20"
                      audience="FAR_52_204_20"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.204-21 Basic Safeguarding
@@ -28700,7 +28751,7 @@ Certain Telecommunications and Video Surveillance Services or Equipment."
                      props="52.204-24"
                      audience="FAR_52_204_24"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.204-25 Prohibition on Contracting
@@ -28721,7 +28772,7 @@ for Certain Telecommunications and Video Surveillance Services or Equipment."
                      props="52.204-26"
                      audience="FAR_52_204_26"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                </topicref>
                <topicref
@@ -28786,7 +28837,7 @@ for Certain Telecommunications and Video Surveillance Services or Equipment."
                      props="52.207-4"
                      audience="FAR_52_207_4"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.207-5 Option to Purchase Equipment."
@@ -28795,7 +28846,7 @@ for Certain Telecommunications and Video Surveillance Services or Equipment."
                      props="52.207-5"
                      audience="FAR_52_207_5"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.207-6 Solicitation of Offers from Small Business Concerns and Small Business Teaming Arrangements or Joint Ventures (Multiple-Award Contracts)."
@@ -28878,10 +28929,12 @@ for Certain Telecommunications and Video Surveillance Services or Equipment."
                      props="52.208-7"
                      audience="FAR_52_208_7"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
-                     navtitle="52.208-8 Required Sources for Helium and Helium Usage Data."
+                     navtitle="52.208-8
+         [Reserved]
+      "
                      href="52.208-8.dita"
                      outputclass="subtopic"
                      props="52.208-8"
@@ -28916,7 +28969,7 @@ for Certain Telecommunications and Video Surveillance Services or Equipment."
                      props="52.209-1"
                      audience="FAR_52_209_1"
                      base="concept"
-                     xtrc="GFI VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.209-2 Prohibition on Contracting with Inverted Domestic Corporations-Representation."
@@ -28925,7 +28978,7 @@ for Certain Telecommunications and Video Surveillance Services or Equipment."
                      props="52.209-2"
                      audience="FAR_52_209_2"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.209-3 First Article Approval-Contractor Testing."
@@ -28934,7 +28987,7 @@ for Certain Telecommunications and Video Surveillance Services or Equipment."
                      props="52.209-3"
                      audience="FAR_52_209_3"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.209-4 First Article Approval-Government Testing."
@@ -28943,7 +28996,7 @@ for Certain Telecommunications and Video Surveillance Services or Equipment."
                      props="52.209-4"
                      audience="FAR_52_209_4"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.209-5 Certification Regarding Responsibility Matters."
@@ -28952,7 +29005,7 @@ for Certain Telecommunications and Video Surveillance Services or Equipment."
                      props="52.209-5"
                      audience="FAR_52_209_5"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.209-6 Protecting the Government’s
@@ -28972,7 +29025,7 @@ or Proposed for Debarment."
                      props="52.209-7"
                      audience="FAR_52_209_7"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.209-8 [Reserved]"
@@ -29008,7 +29061,7 @@ or Proposed for Debarment."
                      props="52.209-11"
                      audience="FAR_52_209_11"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.209-12 Certification Regarding Tax Matters."
@@ -29018,7 +29071,7 @@ or Proposed for Debarment."
                      props="52.209-12"
                      audience="FAR_52_209_12"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.209-13 Violation of Arms
@@ -29029,7 +29082,7 @@ Control Treaties or Agreements-Certification."
                      props="52.209-13"
                      audience="FAR_52_209_13"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.209-14 Reserve Officer Training
@@ -29102,7 +29155,7 @@ and Commercial Item Descriptions."
                      props="52.211-3"
                      audience="FAR_52_211_3"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.211-4 Availability for Examination
@@ -29113,7 +29166,7 @@ Standards and Commercial Item Descriptions."
                      props="52.211-4"
                      audience="FAR_52_211_4"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.211-5 Material Requirements."
@@ -29149,7 +29202,7 @@ Standards and Commercial Item Descriptions."
                      props="52.211-8"
                      audience="FAR_52_211_8"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.211-9 Desired and Required	Time of Delivery."
@@ -29158,7 +29211,7 @@ Standards and Commercial Item Descriptions."
                      props="52.211-9"
                      audience="FAR_52_211_9"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.211-10 Commencement, Prosecution, and Completion of Work."
@@ -29167,7 +29220,7 @@ Standards and Commercial Item Descriptions."
                      props="52.211-10"
                      audience="FAR_52_211_10"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.211-11 Liquidated Damages-Supplies, Services, or Research and Development."
@@ -29176,7 +29229,7 @@ Standards and Commercial Item Descriptions."
                      props="52.211-11"
                      audience="FAR_52_211_11"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.211-12 Liquidated Damages-Construction."
@@ -29185,7 +29238,7 @@ Standards and Commercial Item Descriptions."
                      props="52.211-12"
                      audience="FAR_52_211_12"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.211-13 Time Extensions."
@@ -29203,7 +29256,7 @@ Standards and Commercial Item Descriptions."
                      props="52.211-14"
                      audience="FAR_52_211_14"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.211-15 Defense Priority	and Allocation Requirements."
@@ -29221,7 +29274,7 @@ Standards and Commercial Item Descriptions."
                      props="52.211-16"
                      audience="FAR_52_211_16"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.211-17 Delivery of Excess Quantities."
@@ -29274,7 +29327,7 @@ and Commercial Services.
                      props="52.212-2"
                      audience="FAR_52_212_2"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.212-3 Offeror Representations
@@ -29284,7 +29337,7 @@ and Certifications—Commercial Products and Commercial Services."
                      props="52.212-3"
                      audience="FAR_52_212_3"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.212-4 
@@ -29307,7 +29360,7 @@ Products and Commercial Services."
                      props="52.212-5"
                      audience="FAR_52_212_5"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                </topicref>
                <topicref
@@ -29355,7 +29408,7 @@ Acquisitions (Other Than Commercial Products and Commercial Services)."
                      props="52.213-4"
                      audience="FAR_52_213_4"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                </topicref>
                <topicref
@@ -29492,7 +29545,7 @@ Acquisitions (Other Than Commercial Products and Commercial Services)."
                      props="52.214-14"
                      audience="FAR_52_214_14"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.214-15 Period for Acceptance of Bids."
@@ -29501,7 +29554,7 @@ Acquisitions (Other Than Commercial Products and Commercial Services)."
                      props="52.214-15"
                      audience="FAR_52_214_15"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.214-16 Minimum Bid Acceptance Period."
@@ -29510,7 +29563,7 @@ Acquisitions (Other Than Commercial Products and Commercial Services)."
                      props="52.214-16"
                      audience="FAR_52_214_16"
                      base="concept"
-                     xtrc="GFI VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.214-17 [Reserved]"
@@ -29546,7 +29599,7 @@ Acquisitions (Other Than Commercial Products and Commercial Services)."
                      props="52.214-20"
                      audience="FAR_52_214_20"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.214-21 Descriptive Literature."
@@ -29555,7 +29608,7 @@ Acquisitions (Other Than Commercial Products and Commercial Services)."
                      props="52.214-21"
                      audience="FAR_52_214_21"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.214-22 Evaluation of Bids for Multiple Awards."
@@ -29591,7 +29644,7 @@ Acquisitions (Other Than Commercial Products and Commercial Services)."
                      props="52.214-25"
                      audience="FAR_52_214_25"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.214-26 Audit and Records-Sealed	Bidding."
@@ -29646,7 +29699,7 @@ Cost or Pricing Data-Modifications-Sealed Bidding."
                      props="52.214-31"
                      audience="FAR_52_214_31"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.214-32 [Reserved]"
@@ -29721,7 +29774,7 @@ Acquisition."
                      props="52.215-3"
                      audience="FAR_52_215_3"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.215-4 [Reserved]"
@@ -29739,7 +29792,7 @@ Acquisition."
                      props="52.215-5"
                      audience="FAR_52_215_5"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.215-6 Place of Performance."
@@ -29748,7 +29801,7 @@ Acquisition."
                      props="52.215-6"
                      audience="FAR_52_215_6"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.215-7 [Reserved]"
@@ -29877,7 +29930,7 @@ or Pricing Data."
                      props="52.215-20"
                      audience="FAR_52_215_20"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.215-21 Requirements for
@@ -29888,7 +29941,7 @@ or Pricing Data-Modifications."
                      props="52.215-21"
                      audience="FAR_52_215_21"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.215-22 Limitations on Pass-Through Charges-Identification of Subcontract Effort."
@@ -29926,7 +29979,7 @@ or Pricing Data-Modifications."
                      props="52.216-1"
                      audience="FAR_52_216_1"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-2 Economic Price Adjustment-Standard
@@ -29936,7 +29989,7 @@ Supplies."
                      props="52.216-2"
                      audience="FAR_52_216_2"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-3 Economic Price Adjustment-Semistandard
@@ -29946,7 +29999,7 @@ Supplies."
                      props="52.216-3"
                      audience="FAR_52_216_3"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-4 Economic Price Adjustment-Labor
@@ -29965,7 +30018,7 @@ and Material."
                      props="52.216-5"
                      audience="FAR_52_216_5"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-6 Price Redetermination-Retroactive."
@@ -29974,7 +30027,7 @@ and Material."
                      props="52.216-6"
                      audience="FAR_52_216_6"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-7 Allowable Cost and Payment."
@@ -29983,7 +30036,7 @@ and Material."
                      props="52.216-7"
                      audience="FAR_52_216_7"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-8 Fixed Fee."
@@ -30010,7 +30063,7 @@ and Material."
                      props="52.216-10"
                      audience="FAR_52_216_10"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-11 Cost Contract-No Fee."
@@ -30019,7 +30072,7 @@ and Material."
                      props="52.216-11"
                      audience="FAR_52_216_11"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-12 Cost-Sharing Contract-No Fee."
@@ -30028,7 +30081,7 @@ and Material."
                      props="52.216-12"
                      audience="FAR_52_216_12"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-13 [Reserved]"
@@ -30065,7 +30118,7 @@ Target."
                      props="52.216-16"
                      audience="FAR_52_216_16"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-17 Incentive Price Revision-Successive
@@ -30075,7 +30128,7 @@ Targets."
                      props="52.216-17"
                      audience="FAR_52_216_17"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-18 Ordering."
@@ -30084,7 +30137,7 @@ Targets."
                      props="52.216-18"
                      audience="FAR_52_216_18"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-19 Order Limitations."
@@ -30093,7 +30146,7 @@ Targets."
                      props="52.216-19"
                      audience="FAR_52_216_19"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-20 Definite Quantity."
@@ -30102,7 +30155,7 @@ Targets."
                      props="52.216-20"
                      audience="FAR_52_216_20"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-21 Requirements."
@@ -30111,7 +30164,7 @@ Targets."
                      props="52.216-21"
                      audience="FAR_52_216_21"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-22 Indefinite Quantity."
@@ -30120,7 +30173,7 @@ Targets."
                      props="52.216-22"
                      audience="FAR_52_216_22"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-23 Execution and Commencement of Work."
@@ -30129,7 +30182,7 @@ Targets."
                      props="52.216-23"
                      audience="FAR_52_216_23"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-24 Limitation of Government Liability."
@@ -30138,7 +30191,7 @@ Targets."
                      props="52.216-24"
                      audience="FAR_52_216_24"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-25 Contract Definitization."
@@ -30147,7 +30200,7 @@ Targets."
                      props="52.216-25"
                      audience="FAR_52_216_25"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.216-26 Payments of Allowable Costs Before Definitization."
@@ -30222,7 +30275,7 @@ Proposal Requirements—Commercial Acquisition.
                      props="52.216-32"
                      audience="FAR_52_216_32"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                </topicref>
                <topicref
@@ -30260,7 +30313,7 @@ Proposal Requirements—Commercial Acquisition.
                      props="52.217-3"
                      audience="FAR_52_217_3"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.217-4 Evaluation of Options Exercised at Time of Contract Award."
@@ -30269,7 +30322,7 @@ Proposal Requirements—Commercial Acquisition.
                      props="52.217-4"
                      audience="FAR_52_217_4"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.217-5 Evaluation of Options."
@@ -30278,7 +30331,7 @@ Proposal Requirements—Commercial Acquisition.
                      props="52.217-5"
                      audience="FAR_52_217_5"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.217-6 Option for Increased Quantity."
@@ -30287,7 +30340,7 @@ Proposal Requirements—Commercial Acquisition.
                      props="52.217-6"
                      audience="FAR_52_217_6"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.217-7 Option for Increased Quantity-Separately Priced Line Item."
@@ -30296,7 +30349,7 @@ Proposal Requirements—Commercial Acquisition.
                      props="52.217-7"
                      audience="FAR_52_217_7"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.217-8 Option to Extend Services."
@@ -30305,7 +30358,7 @@ Proposal Requirements—Commercial Acquisition.
                      props="52.217-8"
                      audience="FAR_52_217_8"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.217-9 Option to Extend the Term of the Contract."
@@ -30314,7 +30367,7 @@ Proposal Requirements—Commercial Acquisition.
                      props="52.217-9"
                      audience="FAR_52_217_9"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                </topicref>
                <topicref
@@ -30344,7 +30397,7 @@ Representations."
                      props="52.219-1"
                      audience="FAR_52_219_1"
                      base="concept"
-                     xtrc="GFI VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.219-2 Equal Low Bids."
@@ -30353,7 +30406,7 @@ Representations."
                      props="52.219-2"
                      audience="FAR_52_219_2"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.219-3 Notice
@@ -30373,7 +30426,7 @@ Preference for HUBZone Small Business Concerns."
                      props="52.219-4"
                      audience="FAR_52_219_4"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.219-5 [Reserved]"
@@ -30402,7 +30455,7 @@ Small Business Set-Aside."
                      props="52.219-7"
                      audience="FAR_52_219_7"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.219-8 Utilization of Small Business Concerns."
@@ -30430,7 +30483,7 @@ Plan."
                      props="52.219-10"
                      audience="FAR_52_219_10"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.219-11 Special 8(a) Contract Conditions."
@@ -30439,7 +30492,7 @@ Plan."
                      props="52.219-11"
                      audience="FAR_52_219_11"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.219-12 Special 8(a) Subcontract Conditions."
@@ -30448,7 +30501,7 @@ Plan."
                      props="52.219-12"
                      audience="FAR_52_219_12"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.219-13 Notice of Set-Aside of Orders."
@@ -30467,7 +30520,7 @@ Plan."
                      props="52.219-14"
                      audience="FAR_52_219_14"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.219-15 [Reserved]"
@@ -30495,7 +30548,7 @@ Plan."
                      props="52.219-17"
                      audience="FAR_52_219_17"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.219-18 Notification of Competition	Limited to Eligible 8(a) Participants."
@@ -30504,7 +30557,7 @@ Plan."
                      props="52.219-18"
                      audience="FAR_52_219_18"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.219-19 [Reserved]"
@@ -30596,7 +30649,7 @@ Business Program Rerepresentation."
                      props="52.219-28"
                      audience="FAR_52_219_28"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.219-29 Notice
@@ -30696,7 +30749,7 @@ Eligible Under the Women-Owned Small Business Program."
                      props="52.222-2"
                      audience="FAR_52_222_2"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-3 Convict Labor."
@@ -30843,7 +30896,7 @@ Knowledge of Child Labor for Listed End Products."
                      props="52.222-18"
                      audience="FAR_52_222_18"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-19 Child Labor-Cooperation
@@ -30880,7 +30933,7 @@ with Authorities and Remedies."
                      props="52.222-22"
                      audience="FAR_52_222_22"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-23 Notice of Requirement	for Affirmative Action to Ensure Equal Employment Opportunity for	Construction."
@@ -30889,7 +30942,7 @@ with Authorities and Remedies."
                      props="52.222-23"
                      audience="FAR_52_222_23"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-24 Preaward On-Site Equal Opportunity Compliance Evaluation."
@@ -30907,7 +30960,7 @@ with Authorities and Remedies."
                      props="52.222-25"
                      audience="FAR_52_222_25"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-26 Equal Opportunity."
@@ -30916,7 +30969,7 @@ with Authorities and Remedies."
                      props="52.222-26"
                      audience="FAR_52_222_26"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-27 Affirmative Action Compliance Requirements for Construction."
@@ -30961,7 +31014,7 @@ with Authorities and Remedies."
                      props="52.222-31"
                      audience="FAR_52_222_31"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-32 Construction Wage Rate Requirements-Price Adjustment (Actual Method)."
@@ -30997,7 +31050,7 @@ with Authorities and Remedies."
                      props="52.222-35"
                      audience="FAR_52_222_35"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-36 Equal Opportunity	for Workers with Disabilities."
@@ -31006,7 +31059,7 @@ with Authorities and Remedies."
                      props="52.222-36"
                      audience="FAR_52_222_36"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-37 Employment Reports	on Veterans."
@@ -31060,7 +31113,7 @@ with Authorities and Remedies."
                      props="52.222-42"
                      audience="FAR_52_222_42"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-43 Fair Labor Standards Act and Service Contract Labor Standards-Price Adjustment (Multiple Year and Option Contracts)."
@@ -31123,7 +31176,7 @@ with Authorities and Remedies."
                      props="52.222-49"
                      audience="FAR_52_222_49"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-50 Combating Trafficking
@@ -31133,7 +31186,7 @@ in Persons."
                      props="52.222-50"
                      audience="FAR_52_222_50"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-51 Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment-Requirements."
@@ -31151,7 +31204,7 @@ in Persons."
                      props="52.222-52"
                      audience="FAR_52_222_52"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.222-53 Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services-Requirements."
@@ -31285,7 +31338,7 @@ Identification and Material Safety Data."
                      props="52.223-3"
                      audience="FAR_52_223_3"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.223-4 Recovered Material Certification."
@@ -31321,7 +31374,7 @@ Identification and Material Safety Data."
                      props="52.223-7"
                      audience="FAR_52_223_7"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.223-8 [Reserved]"
@@ -31339,7 +31392,7 @@ Identification and Material Safety Data."
                      props="52.223-9"
                      audience="FAR_52_223_9"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.223-10 Waste Reduction Program."
@@ -31456,7 +31509,7 @@ Identification and Material Safety Data."
                      props="52.223-22"
                      audience="FAR_52_223_22"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                </topicref>
                <topicref
@@ -31514,7 +31567,7 @@ Identification and Material Safety Data."
                      props="52.225-1"
                      audience="FAR_52_225_1"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-2 Buy American Certificate."
@@ -31523,7 +31576,7 @@ Identification and Material Safety Data."
                      props="52.225-2"
                      audience="FAR_52_225_2"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-3 Buy American-Free
@@ -31533,7 +31586,7 @@ Trade Agreements-Israeli Trade Act."
                      props="52.225-3"
                      audience="FAR_52_225_3"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-4 Buy American-Free
@@ -31543,7 +31596,7 @@ Trade Agreements-Israeli Trade Act Certificate."
                      props="52.225-4"
                      audience="FAR_52_225_4"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-5 Trade Agreements."
@@ -31561,7 +31614,7 @@ Trade Agreements-Israeli Trade Act Certificate."
                      props="52.225-6"
                      audience="FAR_52_225_6"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-7 Waiver of Buy American Statute for Civil Aircraft and Related Articles."
@@ -31579,7 +31632,7 @@ Trade Agreements-Israeli Trade Act Certificate."
                      props="52.225-8"
                      audience="FAR_52_225_8"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-9 Buy American-Construction
@@ -31589,7 +31642,7 @@ Materials."
                      props="52.225-9"
                      audience="FAR_52_225_9"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-10 Notice of Buy American Requirement-Construction Materials."
@@ -31608,7 +31661,7 @@ Materials under Trade Agreements."
                      props="52.225-11"
                      audience="FAR_52_225_11"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-12 Notice of Buy American Requirement-Construction Materials Under Trade Agreements."
@@ -31664,7 +31717,7 @@ Currency Offers."
                      props="52.225-17"
                      audience="FAR_52_225_17"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-18 Place of Manufacture."
@@ -31673,7 +31726,7 @@ Currency Offers."
                      props="52.225-18"
                      audience="FAR_52_225_18"
                      base="concept"
-                     xtrc="VFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-19 Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission Outside the United States."
@@ -31682,7 +31735,7 @@ Currency Offers."
                      props="52.225-19"
                      audience="FAR_52_225_19"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-20 Prohibition on Conducting Restricted Business Operations in Sudan-Certification."
@@ -31701,7 +31754,7 @@ Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials.
                      props="52.225-21"
                      audience="FAR_52_225_21"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-22 Notice of Required
@@ -31723,7 +31776,7 @@ under Trade Agreements."
                      props="52.225-23"
                      audience="FAR_52_225_23"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.225-24 Notice of Required
@@ -31790,7 +31843,7 @@ Statute-Construction Materials Under Trade Agreements."
                      props="52.226-3"
                      audience="FAR_52_226_3"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.226-4 Notice of Disaster or Emergency Area Set-Aside."
@@ -31799,7 +31852,7 @@ Statute-Construction Materials Under Trade Agreements."
                      props="52.226-4"
                      audience="FAR_52_226_4"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.226-5 Restrictions on Subcontracting Outside Disaster or Emergency Area."
@@ -31855,7 +31908,7 @@ Statute-Construction Materials Under Trade Agreements."
                      props="52.227-3"
                      audience="FAR_52_227_3"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.227-4 Patent Indemnity-Construction Contracts."
@@ -31864,7 +31917,7 @@ Statute-Construction Materials Under Trade Agreements."
                      props="52.227-4"
                      audience="FAR_52_227_4"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.227-5 Waiver of Indemnity."
@@ -31873,7 +31926,7 @@ Statute-Construction Materials Under Trade Agreements."
                      props="52.227-5"
                      audience="FAR_52_227_5"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.227-6 Royalty Information."
@@ -31892,7 +31945,7 @@ Government Licensee."
                      props="52.227-7"
                      audience="FAR_52_227_7"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.227-8 [Reserved]"
@@ -31928,7 +31981,7 @@ Government Licensee."
                      props="52.227-11"
                      audience="FAR_52_227_11"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.227-12 [Reserved]"
@@ -31946,7 +31999,7 @@ Government Licensee."
                      props="52.227-13"
                      audience="FAR_52_227_13"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.227-14 Rights in Data-General."
@@ -32056,7 +32109,7 @@ Government Licensee."
                      props="52.228-1"
                      audience="FAR_52_228_1"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.228-2 Additional Bond Security."
@@ -32128,7 +32181,7 @@ Government Licensee."
                      props="52.228-9"
                      audience="FAR_52_228_9"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.228-10 Vehicular and General Public Liability Insurance."
@@ -32137,7 +32190,7 @@ Government Licensee."
                      props="52.228-10"
                      audience="FAR_52_228_10"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.228-11 
@@ -32167,7 +32220,7 @@ Protections."
                      props="52.228-13"
                      audience="FAR_52_228_13"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.228-14 Irrevocable Letter of Credit."
@@ -32185,7 +32238,7 @@ Protections."
                      props="52.228-15"
                      audience="FAR_52_228_15"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.228-16 Performance and Payment Bonds-Other Than Construction."
@@ -32194,7 +32247,7 @@ Protections."
                      props="52.228-16"
                      audience="FAR_52_228_16"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.228-17 
@@ -32280,7 +32333,7 @@ of Assets (Bid Guarantee)."
                      props="52.229-7"
                      audience="FAR_52_229_7"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.229-8 Taxes-Foreign Cost-Reimbursement Contracts."
@@ -32289,7 +32342,7 @@ of Assets (Bid Guarantee)."
                      props="52.229-8"
                      audience="FAR_52_229_8"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.229-9 Taxes-Cost-Reimbursement Contracts with Foreign Governments."
@@ -32298,7 +32351,7 @@ of Assets (Bid Guarantee)."
                      props="52.229-9"
                      audience="FAR_52_229_9"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.229-10 State of New Mexico Gross Receipts and Compensating Tax."
@@ -32307,7 +32360,7 @@ of Assets (Bid Guarantee)."
                      props="52.229-10"
                      audience="FAR_52_229_10"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.229-11 Tax on Certain Foreign Procurements—Notice and Representation."
@@ -32509,7 +32562,7 @@ and Labor-Hour Contracts."
                      props="52.232-7"
                      audience="FAR_52_232_7"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.232-8 Discounts for Prompt Payment."
@@ -32527,7 +32580,7 @@ and Labor-Hour Contracts."
                      props="52.232-9"
                      audience="FAR_52_232_9"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.232-10 Payments under Fixed-Price Architect-Engineer Contracts."
@@ -32554,7 +32607,7 @@ and Labor-Hour Contracts."
                      props="52.232-12"
                      audience="FAR_52_232_12"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.232-13 Notice of Progress	Payments."
@@ -32590,7 +32643,7 @@ and Labor-Hour Contracts."
                      props="52.232-16"
                      audience="FAR_52_232_16"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.232-17 Interest."
@@ -32617,7 +32670,7 @@ and Labor-Hour Contracts."
                      props="52.232-19"
                      audience="FAR_52_232_19"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.232-20 Limitation of Cost."
@@ -32741,7 +32794,7 @@ Financing Terms."
                      props="52.232-32"
                      audience="FAR_52_232_32"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.232-33 Payment by Electronic Funds Transfer-System for Award Management."
@@ -32759,7 +32812,7 @@ Financing Terms."
                      props="52.232-34"
                      audience="FAR_52_232_34"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.232-35 Designation of Office	for Government Receipt of Electronic Funds Transfer Information."
@@ -32768,7 +32821,7 @@ Financing Terms."
                      props="52.232-35"
                      audience="FAR_52_232_35"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.232-36 Payment by Third Party."
@@ -32843,7 +32896,7 @@ Payments to Small Business Subcontractors."
                      props="52.233-2"
                      audience="FAR_52_233_2"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.233-3 Protest after Award."
@@ -32937,7 +32990,7 @@ Payments to Small Business Subcontractors."
                      props="52.236-1"
                      audience="FAR_52_236_1"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.236-2 Differing Site Conditions."
@@ -32964,7 +33017,7 @@ Payments to Small Business Subcontractors."
                      props="52.236-4"
                      audience="FAR_52_236_4"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.236-5 Material and Workmanship."
@@ -33117,7 +33170,7 @@ Payments to Small Business Subcontractors."
                      props="52.236-21"
                      audience="FAR_52_236_21"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.236-22 Design Within Funding Limitations."
@@ -33126,7 +33179,7 @@ Payments to Small Business Subcontractors."
                      props="52.236-22"
                      audience="FAR_52_236_22"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.236-23 Responsibility of the Architect-Engineer Contractor."
@@ -33162,7 +33215,7 @@ Payments to Small Business Subcontractors."
                      props="52.236-26"
                      audience="FAR_52_236_26"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.236-27 Site Visit (Construction)."
@@ -33171,7 +33224,7 @@ Payments to Small Business Subcontractors."
                      props="52.236-27"
                      audience="FAR_52_236_27"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.236-28 Preparation of Proposals-Construction."
@@ -33227,7 +33280,7 @@ Payments to Small Business Subcontractors."
                      props="52.237-4"
                      audience="FAR_52_237_4"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.237-5 Payment by Contractor to Government."
@@ -33236,7 +33289,7 @@ Payments to Small Business Subcontractors."
                      props="52.237-5"
                      audience="FAR_52_237_5"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.237-6 Incremental Payment by Contractor to Government."
@@ -33245,7 +33298,7 @@ Payments to Small Business Subcontractors."
                      props="52.237-6"
                      audience="FAR_52_237_6"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.237-7 Indemnification and Medical Liability Insurance."
@@ -33254,7 +33307,7 @@ Payments to Small Business Subcontractors."
                      props="52.237-7"
                      audience="FAR_52_237_7"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.237-8 Restriction on Severance Payments to Foreign Nationals."
@@ -33310,7 +33363,7 @@ Payments to Small Business Subcontractors."
                      props="52.239-1"
                      audience="FAR_52_239_1"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                </topicref>
                <topicref
@@ -33339,7 +33392,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-1"
                      audience="FAR_52_241_1"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-2 Order of Precedence-Utilities."
@@ -33348,7 +33401,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-2"
                      audience="FAR_52_241_2"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-3 Scope and Duration of Contract."
@@ -33357,7 +33410,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-3"
                      audience="FAR_52_241_3"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-4 Change in Class of Service."
@@ -33366,7 +33419,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-4"
                      audience="FAR_52_241_4"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-5 Contractor’s Facilities."
@@ -33375,7 +33428,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-5"
                      audience="FAR_52_241_5"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-6 Service Provisions."
@@ -33384,7 +33437,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-6"
                      audience="FAR_52_241_6"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-7 Change in Rates or Terms and Conditions of Service for Regulated Services."
@@ -33393,7 +33446,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-7"
                      audience="FAR_52_241_7"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-8 Change in Rates or Terms and Conditions of Service for Unregulated Services."
@@ -33402,7 +33455,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-8"
                      audience="FAR_52_241_8"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-9 Connection Charge."
@@ -33411,7 +33464,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-9"
                      audience="FAR_52_241_9"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-10 Termination Liability."
@@ -33420,7 +33473,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-10"
                      audience="FAR_52_241_10"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-11 Multiple Service Locations."
@@ -33429,7 +33482,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-11"
                      audience="FAR_52_241_11"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-12 Nonrefundable, Nonrecurring Service Charge."
@@ -33438,7 +33491,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-12"
                      audience="FAR_52_241_12"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.241-13 Capital Credits."
@@ -33447,7 +33500,7 @@ Payments to Small Business Subcontractors."
                      props="52.241-13"
                      audience="FAR_52_241_13"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                </topicref>
                <topicref
@@ -33687,7 +33740,7 @@ of Work."
                      props="52.243-7"
                      audience="FAR_52_243_7"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                </topicref>
                <topicref
@@ -33716,7 +33769,7 @@ of Work."
                      props="52.244-2"
                      audience="FAR_52_244_2"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.244-3 [Reserved]"
@@ -33783,7 +33836,7 @@ Installation Operation Services."
                      props="52.245-2"
                      audience="FAR_52_245_2"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.245-3 [Reserved]"
@@ -33956,7 +34009,7 @@ Installation Operation Services."
                      props="52.246-11"
                      audience="FAR_52_246_11"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.246-12 Inspection of Construction."
@@ -34010,7 +34063,7 @@ Installation Operation Services."
                      props="52.246-17"
                      audience="FAR_52_246_17"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.246-18 Warranty of Supplies of a Complex Nature."
@@ -34019,7 +34072,7 @@ Installation Operation Services."
                      props="52.246-18"
                      audience="FAR_52_246_18"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.246-19 Warranty of Systems and Equipment under Performance Specifications or Design Criteria."
@@ -34028,7 +34081,7 @@ Installation Operation Services."
                      props="52.246-19"
                      audience="FAR_52_246_19"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.246-20 Warranty of Services."
@@ -34037,7 +34090,7 @@ Installation Operation Services."
                      props="52.246-20"
                      audience="FAR_52_246_20"
                      base="concept"
-                     xtrc="GFI Editable"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.246-21 Warranty of Construction."
@@ -34046,7 +34099,7 @@ Installation Operation Services."
                      props="52.246-21"
                      audience="FAR_52_246_21"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.246-22 [Reserved]"
@@ -34073,7 +34126,7 @@ Installation Operation Services."
                      props="52.246-24"
                      audience="FAR_52_246_24"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.246-25 Limitation of Liability-Services."
@@ -34113,7 +34166,7 @@ Items."
                      props="52.247-1"
                      audience="FAR_52_247_1"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-2 Permits, Authorities, or Franchises."
@@ -34140,7 +34193,7 @@ Items."
                      props="52.247-4"
                      audience="FAR_52_247_4"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-5 Familiarization with Conditions."
@@ -34167,7 +34220,7 @@ Items."
                      props="52.247-7"
                      audience="FAR_52_247_7"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-8 Estimated Weights or Quantities Not Guaranteed."
@@ -34212,7 +34265,7 @@ Items."
                      props="52.247-12"
                      audience="FAR_52_247_12"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-13 Accessorial Services-Moving Contracts."
@@ -34221,7 +34274,7 @@ Items."
                      props="52.247-13"
                      audience="FAR_52_247_13"
                      base="concept"
-                     xtrc="Editable"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-14 Contractor Responsibility for Receipt of Shipment."
@@ -34275,7 +34328,7 @@ Items."
                      props="52.247-19"
                      audience="FAR_52_247_19"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-20 Estimated Quantities	or Weights for Evaluation of Offers."
@@ -34284,7 +34337,7 @@ Items."
                      props="52.247-20"
                      audience="FAR_52_247_20"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-21 Contractor Liability for Personal Injury and/or Property Damage."
@@ -34311,7 +34364,7 @@ Items."
                      props="52.247-23"
                      audience="FAR_52_247_23"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-24 Advance Notification by the Government."
@@ -34329,7 +34382,7 @@ Items."
                      props="52.247-25"
                      audience="FAR_52_247_25"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-26 Government Direction and Marking."
@@ -34401,7 +34454,7 @@ Items."
                      props="52.247-33"
                      audience="FAR_52_247_33"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-34 F.o.b. Destination."
@@ -34545,7 +34598,7 @@ Items."
                      props="52.247-49"
                      audience="FAR_52_247_49"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-50 No Evaluation of Transportation Costs."
@@ -34617,7 +34670,7 @@ Items."
                      props="52.247-57"
                      audience="FAR_52_247_57"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-58 Loading, Blocking, and Bracing of Freight Car Shipments."
@@ -34662,7 +34715,7 @@ Items."
                      props="52.247-62"
                      audience="FAR_52_247_62"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-63 Preference for U.S.-Flag Air Carriers."
@@ -34699,7 +34752,7 @@ Owned U.S.-Flag Commercial Vessels."
                      props="52.247-66"
                      audience="FAR_52_247_66"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-67 Submission of Transportation Documents for Audit."
@@ -34708,7 +34761,7 @@ Owned U.S.-Flag Commercial Vessels."
                      props="52.247-67"
                      audience="FAR_52_247_67"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.247-68 Report of Shipment (REPSHIP)."
@@ -34997,7 +35050,7 @@ Owned U.S.-Flag Commercial Vessels."
                      props="52.252-1"
                      audience="FAR_52_252_1"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.252-2 Clauses Incorporated by Reference."
@@ -35006,7 +35059,7 @@ Owned U.S.-Flag Commercial Vessels."
                      props="52.252-2"
                      audience="FAR_52_252_2"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.252-3 Alterations in Solicitation."
@@ -35015,7 +35068,7 @@ Owned U.S.-Flag Commercial Vessels."
                      props="52.252-3"
                      audience="FAR_52_252_3"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc=""
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.252-4 Alterations in Contract."
@@ -35024,7 +35077,7 @@ Owned U.S.-Flag Commercial Vessels."
                      props="52.252-4"
                      audience="FAR_52_252_4"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.252-5 Authorized Deviations
@@ -35034,7 +35087,7 @@ in Provisions."
                      props="52.252-5"
                      audience="FAR_52_252_5"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                   <topicref
                      navtitle="52.252-6 Authorized Deviations
@@ -35044,7 +35097,7 @@ in Clauses."
                      props="52.252-6"
                      audience="FAR_52_252_6"
                      base="concept"
-                     xtrc="GFI"
+                     xtrc="Editable"
                      xtrf="subtopic"/>
                </topicref>
                <topicref
