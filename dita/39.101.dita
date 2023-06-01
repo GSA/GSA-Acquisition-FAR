@@ -1,59 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_39_101"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_39_101">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">39.101</ph> Policy.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d2417e13" class="- topic/ol ">
-            <li props="Runin" class="- topic/li ">
+      <conbody>
+         <ol id="d2417e13">
+            <li props="Runin">
                <p class="- topic/p " id="d2439e10">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                </p>
-               <ol id="d2417e23" class="- topic/ol ">
-                  <li class="- topic/li ">
+               <ol id="d2417e23">
+                  <li>
                      <p class="- topic/p " id="d2439e15">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> In acquiring
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         In acquiring
 information technology, agencies shall identify their requirements
 pursuant to-</p>
-                     <ol id="d2417e33" class="- topic/ol ">
-                        <li class="- topic/li ">
+                     <ol id="d2417e33">
+                        <li>
                            <p class="- topic/p " id="d2439e21">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> OMB Circular A-130, including
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                               OMB Circular A-130, including
 consideration of security of resources, protection of privacy, national
 security and emergency preparedness, accessibility for
 individuals with disabilities, and energy efficiency;</p>
                         </li>
-                        <li class="- topic/li ">
+                        <li>
                            <p class="- topic/p " id="d2439e26">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Electronic
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                               Electronic
 Product Environmental Assessment Tool (EPEAT®) standards (see <xref href="23.704.dita#FAR_23_704"
                                     base="FAR_23_704"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">23.704</xref>);</p>
+                                    outputclass="fm:ParaNumOnly">23.704</xref>);</p>
                         </li>
-                        <li class="- topic/li ">
+                        <li>
                            <p class="- topic/p " id="d2439e34">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Policies
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                               Policies
 to enable power management, double-sided printing, and other energy-efficient
 or environmentally preferable features on all agency electronic
 products; and</p>
                         </li>
-                        <li class="- topic/li ">
+                        <li>
                            <p class="- topic/p " id="d2439e39">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph> Best management
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                               Best management
 practices for energy-efficient management of servers and Federal
 data centers.</p>
                         </li>
                      </ol>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d2439e44">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> When developing
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         When developing
 an acquisition strategy, contracting officers should consider the
 rapidly changing nature of information technology through market
 research (see part  10) and the application of technology
@@ -61,55 +63,55 @@ refreshment techniques.</p>
                   </li>
                </ol>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d2439e49">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Agencies
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                   Agencies
 must follow OMB Circular A-127, Financial Management Systems, when
 acquiring financial management systems. Agencies may acquire only
 core financial management software certified by the Joint Financial
 Management Improvement Program.</p>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d2439e54">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> In acquiring
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                   In acquiring
 information technology, agencies shall include the appropriate information
 technology security policies and requirements, including use of
 common security configurations available from the National Institute
-of Standards and Technology’s website at <xref href="http://checklists.nist.gov"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">http://checklists.nist.gov</xref>. Agency
+of Standards and Technology’s website at <xref href="http://checklists.nist.gov" format="html" scope="external">http://checklists.nist.gov</xref>. Agency
 contracting officers should consult with the requiring official to
 ensure the appropriate standards are incorporated.</p>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d2439e62">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph> When acquiring
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                   When acquiring
 information technology using Internet Protocol, agencies must include
 the appropriate Internet Protocol compliance requirements in accordance
 with <xref href="11.002.dita#FAR_11_002"
                         base="FAR_11_002"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">11.002</xref>(g).</p>
+                        outputclass="fm:ParaNumOnly">11.002</xref>(g).</p>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d2439e70">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph> Contracting
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                   Contracting
 officers shall not purchase any hardware, software, or services
 developed or provided by Kaspersky Lab that the Government will
 use on or after October 1, 2018. (See <xref href="4.2002.dita#FAR_4_2002"
                         base="FAR_4_2002"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">4.2002</xref>.)</p>
+                        outputclass="fm:ParaNumOnly">4.2002</xref>.)</p>
             </li>
-            <li props="Runin" class="- topic/li ">
+            <li props="Runin">
                <p class="- topic/p " id="d2439e78">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
                </p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
+               <ol>
+                  <li>
                      <p class="- topic/p " id="d2439e83">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> On or after
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         On or after
 August 13, 2019, contracting officers shall not procure or obtain,
 or extend or renew a contract to procure or obtain, any equipment,
 system, or service that uses covered telecommunications equipment
@@ -117,12 +119,12 @@ or services as a substantial or essential component of any system,
 or as critical technology as part of any system on or after August 13,
 2019, unless an exception applies or a waiver is granted. (See subpart <xref href="Subpart_4.21.dita#FAR_Subpart_4_21"
                               base="FAR_Subpart_4_21"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">4.21</xref>.)</p>
+                              outputclass="fm:ParaNumOnly">4.21</xref>.)</p>
                   </li>
-                  <li class="- topic/li ">
+                  <li>
                      <p class="- topic/p " id="d2439e91">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> On or after
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         On or after
 August 13, 2020, agencies are prohibited from entering into a contract,
 or extending or renewing a contract, with an entity that uses any
 equipment, system, or service that uses covered telecommunications
@@ -130,13 +132,25 @@ equipment or services as a substantial or essential component of
 any system, or as critical technology as part of any system, unless an
 exception applies or a waiver is granted (see subpart <xref href="Subpart_4.21.dita#FAR_Subpart_4_21"
                               base="FAR_Subpart_4_21"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">4.21</xref>).
+                              outputclass="fm:ParaNumOnly">4.21</xref>).
 This prohibition applies to the use of covered telecommunications
 equipment or services, regardless of whether that use is in performance
 of work under a Federal contract.</p>
                   </li>
                </ol>
+            </li>
+            <li>
+               <p
+                  class="- topic/p "
+                  id="d2435e99"> <ph
+                  props="autonumber"
+                  class="- topic/ph ">(g)</ph> <ph
+                  rev="FAC 2023-04 June 2, 2023"><?FM MARKER [CaseNumber] FAR Case 2023-010?>See
+                  the prohibition in <xref
+                  href="4.2202.dita#FAR_4_2202"
+                  outputclass="fm:ParaNumOnly">4.2202</xref> on the presence or
+                  use of a covered application
+                  (“TikTok”).<?FM MARKER [Why] Amend section 39.101 by adding paragraph (g).?></ph> </p>
             </li>
          </ol>
       </conbody>

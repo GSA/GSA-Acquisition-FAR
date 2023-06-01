@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="FAR_52_214_20" xtrc="GFI">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="FAR_52_214_20"
+            xtrc="GFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.214-20</ph> Bid Samples.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p " id="d3188e8">As prescribed in <ph class="- topic/ph " outputclass="ClauseProvisionXREF">
-               <xref base="i1110459" class="- topic/xref " href="14.201-6.dita#FAR_14_201_6" outputclass="fm:ParaNumOnly">14.201-6</xref>(o)(1)</ph>, insert the following provision:</p>
+               <xref base="i1110459"
+                     class="- topic/xref "
+                     href="14.201-6.dita#FAR_14_201_6"
+                     outputclass="fm:ParaNumOnly">14.201-6</xref>(o)(1)</ph>, insert the following provision:</p>
          <p class="- topic/p " id="d3188e15" outputclass="Ctr_SmCaps">Bid Samples <ph class="- topic/ph " outputclass="SmCaps">(Apr 2002)</ph>
          </p>
          <ol class="- topic/ol " id="d3153e25">
@@ -58,16 +67,34 @@
          <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
          <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3191e67">
-               <i class="+ topic/ph hi-d/i ">Alternate I </i><ph outputclass="SmCaps">(May 2002)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="i1110459" class="- topic/xref " href="14.201-6.dita#FAR_14_201_6" outputclass="fm:ParaNumOnly">14.201-6</xref></ph>(o)(2)(i), insert the following Alternate I:</p>
+               <i class="+ topic/ph hi-d/i ">Alternate I </i>
+               <ph outputclass="SmCaps">(May 2002)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref base="i1110459"
+                        class="- topic/xref "
+                        href="14.201-6.dita#FAR_14_201_6"
+                        outputclass="fm:ParaNumOnly">14.201-6</xref>
+               </ph>(o)(2)(i), insert the following Alternate I:</p>
             <p class="- topic/p " outputclass="List1">(e) At the discretion of the Contracting Officer, the requirement for furnishing bid samples may be waived for a bidder if-</p>
-            <p class="- topic/p " outputclass="List2">(1) The bid states that the offered product is the same as a product offered by the bidder to the <cite class="- topic/cite " outputclass="SingleLine" xtrc="52.214-20_d3176e133" xtrf="GFI">_______________ [<i class="+ topic/ph hi-d/i ">as appropriate, the Contracting Officer shall designate the contracting office or an alternate activity or office</i>]</cite>; and</p>
+            <p class="- topic/p " outputclass="List2">(1) The bid states that the offered product is the same as a product offered by the bidder to the <cite class="- topic/cite "
+                     outputclass="SingleLine"
+                     xtrc="52.214-20_d3176e133"
+                     xtrf="GFI">_______________ [<i class="+ topic/ph hi-d/i ">as appropriate, the Contracting Officer shall designate the contracting office or an alternate activity or office</i>]</cite>; and</p>
             <p class="- topic/p " outputclass="List2">(2) The Contracting Officer determines that the previously offered product was accepted or tested and found to comply with specification and other requirements for technical acceptability conforming in every material respect with those in this solicitation.</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
-            <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate II </i><ph outputclass="SmCaps">(May 2002)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="i1110459" class="- topic/xref " href="14.201-6.dita#FAR_14_201_6" outputclass="fm:ParaNumOnly">14.201-6</xref></ph>(o)(2)(ii), insert the following Alternate II:</p>
+            <p class="- topic/p " id="d3184e93">
+               <i class="+ topic/ph hi-d/i ">Alternate II </i>
+               <ph outputclass="SmCaps">(May 2002)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref base="i1110459"
+                        class="- topic/xref "
+                        href="14.201-6.dita#FAR_14_201_6"
+                        outputclass="fm:ParaNumOnly">14.201-6</xref>
+               </ph>(o)(2)(ii), insert the following Alternate II:</p>
             <p class="- topic/p " outputclass="List1">(e) At the discretion of the Contracting Officer, the requirements for furnishing bid samples may be waived for a bidder if-</p>
-            <p class="- topic/p " outputclass="List2">(1) The bid states that the offered product is the same as a product offered by the bidder to the <cite class="- topic/cite " outputclass="SingleLine" xtrc="52.214-20_d3176e164" xtrf="GFI">_________ [<i class="+ topic/ph hi-d/i ">as appropriate, the Contracting Officer shall designate the contracting office or an alternate activity or office</i>]</cite> on a previous acquisition;</p>
+            <p class="- topic/p " outputclass="List2">(1) The bid states that the offered product is the same as a product offered by the bidder to the <cite class="- topic/cite "
+                     outputclass="SingleLine"
+                     xtrc="52.214-20_d3176e164"
+                     xtrf="GFI">_________ [<i class="+ topic/ph hi-d/i ">as appropriate, the Contracting Officer shall designate the contracting office or an alternate activity or office</i>]</cite> on a previous acquisition;</p>
             <p class="- topic/p " outputclass="List2">(2) The Contracting Officer determines that the previously offered product was accepted or tested and found to comply with specification and other requirements for technical acceptability conforming in every material respect with those of this solicitation; and</p>
             <p class="- topic/p " outputclass="List2">(3) The product offered under this solicitation will be produced under a resulting contract at the same plant in which the previously acquired or tested product was produced.</p>
             <?FM MARKER [Alt] End?>
