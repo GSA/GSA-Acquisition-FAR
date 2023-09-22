@@ -12,8 +12,8 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <map title="FAR"
-     rev="FAC 2023-04 June 2, 2023"
-     product="FAC 2023-04 June 2, 2023">
+     rev="FAC 2023-05 September 22, 2023"
+     product="FAC 2023-05 September 22, 2023">
    <topicref navtitle="Volume I-Parts 1 to 51"
              base="NoTitle"
              href="Volume_I.dita"
@@ -42,7 +42,7 @@
              otherprops="NoProp"
              xtrc="Not"
              xtrf="Foreword"/>
-   <topicref navtitle="List of Sections Affected FAC 2023-04 June 2, 2023"
+   <topicref navtitle="List of Sections Affected FAC 2023-05 September 7, 2023"
              base="concept"
              href="LSATable.dita"
              props=""
@@ -141,7 +141,7 @@
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="1.102-3 Acquisition Team."
+                  <topicref navtitle="1.102-3Evaluating agency acquisition processes."
                             base="concept"
                             href="1.102-3.dita"
                             props="1.102-3"
@@ -151,7 +151,7 @@
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="1.102-4 Role of the Acquisition Team."
+                  <topicref navtitle="1.102-4Acquisition Team."
                             base="concept"
                             href="1.102-4.dita"
                             props="1.102-4"
@@ -159,6 +159,15 @@
                             audience="FAR_1_102_4"
                             xtrc=""
                             xtrf="subtopic"
+                            tables="0"
+                            figures="0"/>
+                  <topicref navtitle="1.102-5 Role of the Acquisition Team."
+                            base="concept"
+                            href="1.102-5.dita"
+                            props="1.102-5"
+                            outputclass="subtopic"
+                            xtrf="subtopic"
+                            audience="FAR_1_102_5"
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -3345,7 +3354,7 @@
                          tables="0"
                          figures="0"/>
             </topicref>
-            <topicref navtitle=" Prohibition on a ByteDance Covered Application."
+            <topicref navtitle="Subpart 4.22 Prohibition on a ByteDance Covered Application."
                       base="NoTitle"
                       href="Subpart_4.22.dita"
                       props="Subpart 4.22"
@@ -3363,6 +3372,7 @@
                          outputclass="subtopic"
                          audience="FAR_4_2201"
                          xtrf="subtopic"
+                         xtrc=""
                          tables="0"
                          figures="0"/>
                <topicref navtitle="4.2202 Prohibition."
@@ -3372,6 +3382,7 @@
                          outputclass="subtopic"
                          audience="FAR_4_2202"
                          xtrf="subtopic"
+                         xtrc=""
                          tables="0"
                          figures="0"/>
                <topicref navtitle="4.2203 Contract clause."
@@ -3381,6 +3392,7 @@
                          outputclass="subtopic"
                          audience="FAR_4_2203"
                          xtrf="subtopic"
+                         xtrc=""
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -6845,7 +6857,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="11.204 Solicitation provisions and contract clauses."
+               <topicref navtitle="11.204Solicitation provisions."
                          base="concept"
                          href="11.204.dita"
                          props="11.204"
@@ -11706,7 +11718,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="Subchapter D - SocioeconomicPrograms"
+   <topicref navtitle="Subchapter D - Socioeconomic Programs"
              base="NoTitle"
              href="Subchapter_D.dita"
              props="Subchapter D"
@@ -11979,7 +11991,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="19.305 Reviews and protests of SDB status."
+               <topicref navtitle="19.305Reviews of SDB status."
                          base="concept"
                          href="19.305.dita"
                          props="19.305"
@@ -17639,7 +17651,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="Subchapter E - GeneralContracting Requirements"
+   <topicref navtitle="Subchapter E - General Contracting Requirements"
              base="NoTitle"
              href="Subchapter_E.dita"
              props="Subchapter E"
@@ -20763,7 +20775,7 @@
                       xtrf="subtopic"
                       tables="0"
                       figures="0"/>
-            <topicref navtitle="32.009&#xA;         Providing accelerated payments to small business contractors and to prime contractors that subcontract with a small business concern.&#xA;      "
+            <topicref navtitle="32.009 &#xA;         Providing accelerated payments to small business contractors and to prime contractors that subcontract with a small business concern.&#xA;      "
                       base="concept"
                       href="32.009.dita"
                       props="32.009"
@@ -22772,7 +22784,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="Subchapter F - SpecialCategoriesof Contracting"
+   <topicref navtitle="Subchapter F - Special Categories of Contracting"
              base="NoTitle"
              href="Subchapter_F.dita"
              props="Subchapter F"
@@ -25236,7 +25248,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="Subchapter G - ContractManagement"
+   <topicref navtitle="Subchapter G - Contract Management"
              base="NoTitle"
              href="Subchapter_G.dita"
              props="Subchapter G"
@@ -30944,7 +30956,7 @@
              otherprops="NoProp"
              xtrc="Not"
              xtrf="Foreword"/>
-   <topicref navtitle="Subchapter H - ClausesandForms"
+   <topicref navtitle="Subchapter H - Clauses and Forms"
              base="NoTitle"
              href="Subchapter_H.dita"
              props="Subchapter H"
@@ -31103,7 +31115,17 @@
                          xtrc="FAR_52_201.html"
                          xtrf="subtopic"
                          tables="0"
-                         figures="0"/>
+                         figures="0">
+                  <topicref navtitle="52.201-1 Acquisition 360: Voluntary Survey."
+                            base="concept"
+                            href="52.201-1.dita"
+                            props="52.201-1"
+                            outputclass="subtopic"
+                            audience="FAR_52_201_1"
+                            xtrf="subtopic"
+                            tables="0"
+                            figures="0"/>
+               </topicref>
                <topicref navtitle="52.202 [Reserved]"
                          base="concept"
                          href="52.202.dita"
@@ -31153,7 +31175,7 @@
                             props="52.203-2"
                             outputclass="subtopic"
                             audience="FAR_52_203_2"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31273,7 +31295,7 @@
                             props="52.203-14"
                             outputclass="subtopic"
                             audience="FAR_52_203_14"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -31345,7 +31367,7 @@
                             props="52.204-1"
                             outputclass="subtopic"
                             audience="FAR_52_204_1"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31365,7 +31387,7 @@
                             props="52.204-3"
                             outputclass="subtopic"
                             audience="FAR_52_204_3"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31385,7 +31407,7 @@
                             props="52.204-5"
                             outputclass="subtopic"
                             audience="FAR_52_204_5"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31415,7 +31437,7 @@
                             props="52.204-8"
                             outputclass="subtopic"
                             audience="FAR_52_204_8"
-                            xtrc="GFI VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="2"
                             figures="0"/>
@@ -31505,7 +31527,7 @@
                             props="52.204-17"
                             outputclass="subtopic"
                             audience="FAR_52_204_17"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31535,7 +31557,7 @@
                             props="52.204-20"
                             outputclass="subtopic"
                             audience="FAR_52_204_20"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31577,7 +31599,7 @@
                             outputclass="subtopic"
                             type="concept"
                             audience="FAR_52_204_24"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31599,7 +31621,16 @@
                             outputclass="subtopic"
                             type="concept"
                             audience="FAR_52_204_26"
-                            xtrc="VFI"
+                            xtrc="Editable"
+                            xtrf="subtopic"
+                            tables="0"
+                            figures="0"/>
+                  <topicref navtitle="52.204-27 Prohibition on a ByteDance Covered Application."
+                            base="NoTitle"
+                            href="52.204-27.dita"
+                            props="52.204-27"
+                            outputclass="subtopic"
+                            audience="FAR_52_204_27"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31671,7 +31702,7 @@
                             props="52.207-4"
                             outputclass="subtopic"
                             audience="FAR_52_207_4"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -31681,7 +31712,7 @@
                             props="52.207-5"
                             outputclass="subtopic"
                             audience="FAR_52_207_5"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31773,11 +31804,11 @@
                             props="52.208-7"
                             outputclass="subtopic"
                             audience="FAR_52_208_7"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="52.208-8&#xA;         [Reserved]&#xA;      "
+                  <topicref navtitle="52.208-8 &#xA;         [Reserved]&#xA;      "
                             base="concept"
                             href="52.208-8.dita"
                             props="52.208-8"
@@ -31815,7 +31846,7 @@
                             props="52.209-1"
                             outputclass="subtopic"
                             audience="FAR_52_209_1"
-                            xtrc="GFI VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31825,7 +31856,7 @@
                             props="52.209-2"
                             outputclass="subtopic"
                             audience="FAR_52_209_2"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31835,7 +31866,7 @@
                             props="52.209-3"
                             outputclass="subtopic"
                             audience="FAR_52_209_3"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31845,7 +31876,7 @@
                             props="52.209-4"
                             outputclass="subtopic"
                             audience="FAR_52_209_4"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31855,7 +31886,7 @@
                             props="52.209-5"
                             outputclass="subtopic"
                             audience="FAR_52_209_5"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31875,7 +31906,7 @@
                             props="52.209-7"
                             outputclass="subtopic"
                             audience="FAR_52_209_7"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31915,7 +31946,7 @@
                             props="52.209-11"
                             outputclass="subtopic"
                             audience="FAR_52_209_11"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31926,7 +31957,7 @@
                             outputclass="subtopic"
                             type="concept"
                             audience="FAR_52_209_12"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31937,7 +31968,7 @@
                             outputclass="subtopic"
                             type="concept"
                             audience="FAR_52_209_13"
-                            xtrc="VFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -31986,7 +32017,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0">
-                  <topicref navtitle="52.211-1 Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29."
+                  <topicref navtitle="52.211-1Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29."
                             base="concept"
                             href="52.211-1.dita"
                             props="52.211-1"
@@ -31996,7 +32027,7 @@
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="52.211-2 Availability of Specifications,&#xA;Standards, and Data Item Descriptions Listed in the Acquisition&#xA;Streamlining and Standardization Information System (ASSIST)."
+                  <topicref navtitle="52.211-2Availability of Defense Specifications, Standards, and Data Item Descriptions in the Acquisition Streamlining and Standardization Information System (ASSIST) website."
                             base="concept"
                             href="52.211-2.dita"
                             props="52.211-2"
@@ -32012,7 +32043,7 @@
                             props="52.211-3"
                             outputclass="subtopic"
                             audience="FAR_52_211_3"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32022,7 +32053,7 @@
                             props="52.211-4"
                             outputclass="subtopic"
                             audience="FAR_52_211_4"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32062,7 +32093,7 @@
                             props="52.211-8"
                             outputclass="subtopic"
                             audience="FAR_52_211_8"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="2"
                             figures="0"/>
@@ -32072,7 +32103,7 @@
                             props="52.211-9"
                             outputclass="subtopic"
                             audience="FAR_52_211_9"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="3"
                             figures="0"/>
@@ -32082,7 +32113,7 @@
                             props="52.211-10"
                             outputclass="subtopic"
                             audience="FAR_52_211_10"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32092,7 +32123,7 @@
                             props="52.211-11"
                             outputclass="subtopic"
                             audience="FAR_52_211_11"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32102,7 +32133,7 @@
                             props="52.211-12"
                             outputclass="subtopic"
                             audience="FAR_52_211_12"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32122,7 +32153,7 @@
                             props="52.211-14"
                             outputclass="subtopic"
                             audience="FAR_52_211_14"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32142,7 +32173,7 @@
                             props="52.211-16"
                             outputclass="subtopic"
                             audience="FAR_52_211_16"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32194,7 +32225,7 @@
                             props="52.212-2"
                             outputclass="subtopic"
                             audience="FAR_52_212_2"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32204,7 +32235,7 @@
                             props="52.212-3"
                             outputclass="subtopic"
                             audience="FAR_52_212_3"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="7"
                             figures="0"/>
@@ -32224,7 +32255,7 @@
                             props="52.212-5"
                             outputclass="subtopic"
                             audience="FAR_52_212_5"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32276,7 +32307,7 @@
                             props="52.213-4"
                             outputclass="subtopic"
                             audience="FAR_52_213_4"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32428,7 +32459,7 @@
                             props="52.214-14"
                             outputclass="subtopic"
                             audience="FAR_52_214_14"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -32438,7 +32469,7 @@
                             props="52.214-15"
                             outputclass="subtopic"
                             audience="FAR_52_214_15"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32448,7 +32479,7 @@
                             props="52.214-16"
                             outputclass="subtopic"
                             audience="FAR_52_214_16"
-                            xtrc="GFI VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32488,7 +32519,7 @@
                             props="52.214-20"
                             outputclass="subtopic"
                             audience="FAR_52_214_20"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32498,7 +32529,7 @@
                             props="52.214-21"
                             outputclass="subtopic"
                             audience="FAR_52_214_21"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32538,7 +32569,7 @@
                             props="52.214-25"
                             outputclass="subtopic"
                             audience="FAR_52_214_25"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32598,7 +32629,7 @@
                             props="52.214-31"
                             outputclass="subtopic"
                             audience="FAR_52_214_31"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32680,7 +32711,7 @@
                             props="52.215-3"
                             outputclass="subtopic"
                             audience="FAR_52_215_3"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32700,7 +32731,7 @@
                             props="52.215-5"
                             outputclass="subtopic"
                             audience="FAR_52_215_5"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32710,7 +32741,7 @@
                             props="52.215-6"
                             outputclass="subtopic"
                             audience="FAR_52_215_6"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -32850,7 +32881,7 @@
                             props="52.215-20"
                             outputclass="subtopic"
                             audience="FAR_52_215_20"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32860,7 +32891,7 @@
                             props="52.215-21"
                             outputclass="subtopic"
                             audience="FAR_52_215_21"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32902,7 +32933,7 @@
                             props="52.216-1"
                             outputclass="subtopic"
                             audience="FAR_52_216_1"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32912,7 +32943,7 @@
                             props="52.216-2"
                             outputclass="subtopic"
                             audience="FAR_52_216_2"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32922,7 +32953,7 @@
                             props="52.216-3"
                             outputclass="subtopic"
                             audience="FAR_52_216_3"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32942,7 +32973,7 @@
                             props="52.216-5"
                             outputclass="subtopic"
                             audience="FAR_52_216_5"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32952,7 +32983,7 @@
                             props="52.216-6"
                             outputclass="subtopic"
                             audience="FAR_52_216_6"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32962,7 +32993,7 @@
                             props="52.216-7"
                             outputclass="subtopic"
                             audience="FAR_52_216_7"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -32992,7 +33023,7 @@
                             props="52.216-10"
                             outputclass="subtopic"
                             audience="FAR_52_216_10"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33002,7 +33033,7 @@
                             props="52.216-11"
                             outputclass="subtopic"
                             audience="FAR_52_216_11"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33012,7 +33043,7 @@
                             props="52.216-12"
                             outputclass="subtopic"
                             audience="FAR_52_216_12"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33052,7 +33083,7 @@
                             props="52.216-16"
                             outputclass="subtopic"
                             audience="FAR_52_216_16"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33062,7 +33093,7 @@
                             props="52.216-17"
                             outputclass="subtopic"
                             audience="FAR_52_216_17"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33072,7 +33103,7 @@
                             props="52.216-18"
                             outputclass="subtopic"
                             audience="FAR_52_216_18"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33082,7 +33113,7 @@
                             props="52.216-19"
                             outputclass="subtopic"
                             audience="FAR_52_216_19"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33092,7 +33123,7 @@
                             props="52.216-20"
                             outputclass="subtopic"
                             audience="FAR_52_216_20"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33102,7 +33133,7 @@
                             props="52.216-21"
                             outputclass="subtopic"
                             audience="FAR_52_216_21"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33112,7 +33143,7 @@
                             props="52.216-22"
                             outputclass="subtopic"
                             audience="FAR_52_216_22"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33122,7 +33153,7 @@
                             props="52.216-23"
                             outputclass="subtopic"
                             audience="FAR_52_216_23"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33132,7 +33163,7 @@
                             props="52.216-24"
                             outputclass="subtopic"
                             audience="FAR_52_216_24"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33142,7 +33173,7 @@
                             props="52.216-25"
                             outputclass="subtopic"
                             audience="FAR_52_216_25"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33213,7 +33244,7 @@
                             outputclass="subtopic"
                             type="concept"
                             audience="FAR_52_216_32"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33255,7 +33286,7 @@
                             props="52.217-3"
                             outputclass="subtopic"
                             audience="FAR_52_217_3"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33265,7 +33296,7 @@
                             props="52.217-4"
                             outputclass="subtopic"
                             audience="FAR_52_217_4"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33275,7 +33306,7 @@
                             props="52.217-5"
                             outputclass="subtopic"
                             audience="FAR_52_217_5"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33285,7 +33316,7 @@
                             props="52.217-6"
                             outputclass="subtopic"
                             audience="FAR_52_217_6"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33295,7 +33326,7 @@
                             props="52.217-7"
                             outputclass="subtopic"
                             audience="FAR_52_217_7"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33305,7 +33336,7 @@
                             props="52.217-8"
                             outputclass="subtopic"
                             audience="FAR_52_217_8"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33315,7 +33346,7 @@
                             props="52.217-9"
                             outputclass="subtopic"
                             audience="FAR_52_217_9"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33347,7 +33378,7 @@
                             props="52.219-1"
                             outputclass="subtopic"
                             audience="FAR_52_219_1"
-                            xtrc="GFI VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="2"
                             figures="0"/>
@@ -33357,7 +33388,7 @@
                             props="52.219-2"
                             outputclass="subtopic"
                             audience="FAR_52_219_2"
-                            xtrc="VFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33377,7 +33408,7 @@
                             props="52.219-4"
                             outputclass="subtopic"
                             audience="FAR_52_219_4"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33407,7 +33438,7 @@
                             props="52.219-7"
                             outputclass="subtopic"
                             audience="FAR_52_219_7"
-                            xtrc="GFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33437,7 +33468,7 @@
                             props="52.219-10"
                             outputclass="subtopic"
                             audience="FAR_52_219_10"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33447,7 +33478,7 @@
                             props="52.219-11"
                             outputclass="subtopic"
                             audience="FAR_52_219_11"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33457,7 +33488,7 @@
                             props="52.219-12"
                             outputclass="subtopic"
                             audience="FAR_52_219_12"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33477,7 +33508,7 @@
                             props="52.219-14"
                             outputclass="subtopic"
                             audience="FAR_52_219_14"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33507,7 +33538,7 @@
                             props="52.219-17"
                             outputclass="subtopic"
                             audience="FAR_52_219_17"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33517,7 +33548,7 @@
                             props="52.219-18"
                             outputclass="subtopic"
                             audience="FAR_52_219_18"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33617,7 +33648,7 @@
                             props="52.219-28"
                             outputclass="subtopic"
                             audience="FAR_52_219_28"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -33722,7 +33753,7 @@
                             props="52.222-2"
                             outputclass="subtopic"
                             audience="FAR_52_222_2"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33882,7 +33913,7 @@
                             props="52.222-18"
                             outputclass="subtopic"
                             audience="FAR_52_222_18"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -33922,7 +33953,7 @@
                             props="52.222-22"
                             outputclass="subtopic"
                             audience="FAR_52_222_22"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33932,7 +33963,7 @@
                             props="52.222-23"
                             outputclass="subtopic"
                             audience="FAR_52_222_23"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -33952,7 +33983,7 @@
                             props="52.222-25"
                             outputclass="subtopic"
                             audience="FAR_52_222_25"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33962,7 +33993,7 @@
                             props="52.222-26"
                             outputclass="subtopic"
                             audience="FAR_52_222_26"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34012,7 +34043,7 @@
                             props="52.222-31"
                             outputclass="subtopic"
                             audience="FAR_52_222_31"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34052,7 +34083,7 @@
                             props="52.222-35"
                             outputclass="subtopic"
                             audience="FAR_52_222_35"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34062,7 +34093,7 @@
                             props="52.222-36"
                             outputclass="subtopic"
                             audience="FAR_52_222_36"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34122,7 +34153,7 @@
                             props="52.222-42"
                             outputclass="subtopic"
                             audience="FAR_52_222_42"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -34192,7 +34223,7 @@
                             props="52.222-49"
                             outputclass="subtopic"
                             audience="FAR_52_222_49"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34202,7 +34233,7 @@
                             props="52.222-50"
                             outputclass="subtopic"
                             audience="FAR_52_222_50"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -34222,7 +34253,7 @@
                             props="52.222-52"
                             outputclass="subtopic"
                             audience="FAR_52_222_52"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34364,7 +34395,7 @@
                             props="52.223-3"
                             outputclass="subtopic"
                             audience="FAR_52_223_3"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -34404,7 +34435,7 @@
                             props="52.223-7"
                             outputclass="subtopic"
                             audience="FAR_52_223_7"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34424,7 +34455,7 @@
                             props="52.223-9"
                             outputclass="subtopic"
                             audience="FAR_52_223_9"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34554,7 +34585,7 @@
                             props="52.223-22"
                             outputclass="subtopic"
                             audience="FAR_52_223_22"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34618,7 +34649,7 @@
                             props="52.225-1"
                             outputclass="subtopic"
                             audience="FAR_52_225_1"
-                            xtrc="GFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34628,7 +34659,7 @@
                             props="52.225-2"
                             outputclass="subtopic"
                             audience="FAR_52_225_2"
-                            xtrc="VFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -34638,7 +34669,7 @@
                             props="52.225-3"
                             outputclass="subtopic"
                             audience="FAR_52_225_3"
-                            xtrc="GFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34648,7 +34679,7 @@
                             props="52.225-4"
                             outputclass="subtopic"
                             audience="FAR_52_225_4"
-                            xtrc="VFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="4"
                             figures="0"/>
@@ -34668,7 +34699,7 @@
                             props="52.225-6"
                             outputclass="subtopic"
                             audience="FAR_52_225_6"
-                            xtrc="VFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -34688,7 +34719,7 @@
                             props="52.225-8"
                             outputclass="subtopic"
                             audience="FAR_52_225_8"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34698,7 +34729,7 @@
                             props="52.225-9"
                             outputclass="subtopic"
                             audience="FAR_52_225_9"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -34718,7 +34749,7 @@
                             props="52.225-11"
                             outputclass="subtopic"
                             audience="FAR_52_225_11"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -34778,7 +34809,7 @@
                             props="52.225-17"
                             outputclass="subtopic"
                             audience="FAR_52_225_17"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34788,7 +34819,7 @@
                             props="52.225-18"
                             outputclass="subtopic"
                             audience="FAR_52_225_18"
-                            xtrc="VFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34798,7 +34829,7 @@
                             props="52.225-19"
                             outputclass="subtopic"
                             audience="FAR_52_225_19"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34818,7 +34849,7 @@
                             props="52.225-21"
                             outputclass="subtopic"
                             audience="FAR_52_225_21"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -34838,7 +34869,7 @@
                             props="52.225-23"
                             outputclass="subtopic"
                             audience="FAR_52_225_23"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -34910,7 +34941,7 @@
                             props="52.226-3"
                             outputclass="subtopic"
                             audience="FAR_52_226_3"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34920,7 +34951,7 @@
                             props="52.226-4"
                             outputclass="subtopic"
                             audience="FAR_52_226_4"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34982,7 +35013,7 @@
                             props="52.227-3"
                             outputclass="subtopic"
                             audience="FAR_52_227_3"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34992,7 +35023,7 @@
                             props="52.227-4"
                             outputclass="subtopic"
                             audience="FAR_52_227_4"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35002,7 +35033,7 @@
                             props="52.227-5"
                             outputclass="subtopic"
                             audience="FAR_52_227_5"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35022,7 +35053,7 @@
                             props="52.227-7"
                             outputclass="subtopic"
                             audience="FAR_52_227_7"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35062,7 +35093,7 @@
                             props="52.227-11"
                             outputclass="subtopic"
                             audience="FAR_52_227_11"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35082,7 +35113,7 @@
                             props="52.227-13"
                             outputclass="subtopic"
                             audience="FAR_52_227_13"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35204,7 +35235,7 @@
                             props="52.228-1"
                             outputclass="subtopic"
                             audience="FAR_52_228_1"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35284,7 +35315,7 @@
                             props="52.228-9"
                             outputclass="subtopic"
                             audience="FAR_52_228_9"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35294,7 +35325,7 @@
                             props="52.228-10"
                             outputclass="subtopic"
                             audience="FAR_52_228_10"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35324,7 +35355,7 @@
                             props="52.228-13"
                             outputclass="subtopic"
                             audience="FAR_52_228_13"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35344,7 +35375,7 @@
                             props="52.228-15"
                             outputclass="subtopic"
                             audience="FAR_52_228_15"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35354,7 +35385,7 @@
                             props="52.228-16"
                             outputclass="subtopic"
                             audience="FAR_52_228_16"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35447,7 +35478,7 @@
                             props="52.229-7"
                             outputclass="subtopic"
                             audience="FAR_52_229_7"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35457,7 +35488,7 @@
                             props="52.229-8"
                             outputclass="subtopic"
                             audience="FAR_52_229_8"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35467,7 +35498,7 @@
                             props="52.229-9"
                             outputclass="subtopic"
                             audience="FAR_52_229_9"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35477,7 +35508,7 @@
                             props="52.229-10"
                             outputclass="subtopic"
                             audience="FAR_52_229_10"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35695,7 +35726,7 @@
                             props="52.232-7"
                             outputclass="subtopic"
                             audience="FAR_52_232_7"
-                            xtrc="GFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35715,7 +35746,7 @@
                             props="52.232-9"
                             outputclass="subtopic"
                             audience="FAR_52_232_9"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35745,7 +35776,7 @@
                             props="52.232-12"
                             outputclass="subtopic"
                             audience="FAR_52_232_12"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35785,7 +35816,7 @@
                             props="52.232-16"
                             outputclass="subtopic"
                             audience="FAR_52_232_16"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35815,7 +35846,7 @@
                             props="52.232-19"
                             outputclass="subtopic"
                             audience="FAR_52_232_19"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35945,7 +35976,7 @@
                             props="52.232-32"
                             outputclass="subtopic"
                             audience="FAR_52_232_32"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35965,7 +35996,7 @@
                             props="52.232-34"
                             outputclass="subtopic"
                             audience="FAR_52_232_34"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -35975,7 +36006,7 @@
                             props="52.232-35"
                             outputclass="subtopic"
                             audience="FAR_52_232_35"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -36057,7 +36088,7 @@
                             props="52.233-2"
                             outputclass="subtopic"
                             audience="FAR_52_233_2"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36161,7 +36192,7 @@
                             props="52.236-1"
                             outputclass="subtopic"
                             audience="FAR_52_236_1"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36191,7 +36222,7 @@
                             props="52.236-4"
                             outputclass="subtopic"
                             audience="FAR_52_236_4"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36361,7 +36392,7 @@
                             props="52.236-21"
                             outputclass="subtopic"
                             audience="FAR_52_236_21"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36371,7 +36402,7 @@
                             props="52.236-22"
                             outputclass="subtopic"
                             audience="FAR_52_236_22"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36411,7 +36442,7 @@
                             props="52.236-26"
                             outputclass="subtopic"
                             audience="FAR_52_236_26"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36421,7 +36452,7 @@
                             props="52.236-27"
                             outputclass="subtopic"
                             audience="FAR_52_236_27"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36483,7 +36514,7 @@
                             props="52.237-4"
                             outputclass="subtopic"
                             audience="FAR_52_237_4"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36493,7 +36524,7 @@
                             props="52.237-5"
                             outputclass="subtopic"
                             audience="FAR_52_237_5"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36503,7 +36534,7 @@
                             props="52.237-6"
                             outputclass="subtopic"
                             audience="FAR_52_237_6"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36513,7 +36544,7 @@
                             props="52.237-7"
                             outputclass="subtopic"
                             audience="FAR_52_237_7"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36575,7 +36606,7 @@
                             props="52.239-1"
                             outputclass="subtopic"
                             audience="FAR_52_239_1"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36607,7 +36638,7 @@
                             props="52.241-1"
                             outputclass="subtopic"
                             audience="FAR_52_241_1"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36617,7 +36648,7 @@
                             props="52.241-2"
                             outputclass="subtopic"
                             audience="FAR_52_241_2"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36627,7 +36658,7 @@
                             props="52.241-3"
                             outputclass="subtopic"
                             audience="FAR_52_241_3"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36637,7 +36668,7 @@
                             props="52.241-4"
                             outputclass="subtopic"
                             audience="FAR_52_241_4"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36647,7 +36678,7 @@
                             props="52.241-5"
                             outputclass="subtopic"
                             audience="FAR_52_241_5"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36657,7 +36688,7 @@
                             props="52.241-6"
                             outputclass="subtopic"
                             audience="FAR_52_241_6"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36667,7 +36698,7 @@
                             props="52.241-7"
                             outputclass="subtopic"
                             audience="FAR_52_241_7"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36677,7 +36708,7 @@
                             props="52.241-8"
                             outputclass="subtopic"
                             audience="FAR_52_241_8"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36687,7 +36718,7 @@
                             props="52.241-9"
                             outputclass="subtopic"
                             audience="FAR_52_241_9"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36697,7 +36728,7 @@
                             props="52.241-10"
                             outputclass="subtopic"
                             audience="FAR_52_241_10"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36707,7 +36738,7 @@
                             props="52.241-11"
                             outputclass="subtopic"
                             audience="FAR_52_241_11"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36717,7 +36748,7 @@
                             props="52.241-12"
                             outputclass="subtopic"
                             audience="FAR_52_241_12"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36727,7 +36758,7 @@
                             props="52.241-13"
                             outputclass="subtopic"
                             audience="FAR_52_241_13"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -36991,7 +37022,7 @@
                             props="52.243-7"
                             outputclass="subtopic"
                             audience="FAR_52_243_7"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37023,7 +37054,7 @@
                             props="52.244-2"
                             outputclass="subtopic"
                             audience="FAR_52_244_2"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37095,7 +37126,7 @@
                             props="52.245-2"
                             outputclass="subtopic"
                             audience="FAR_52_245_2"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37287,7 +37318,7 @@
                             props="52.246-11"
                             outputclass="subtopic"
                             audience="FAR_52_246_11"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37347,7 +37378,7 @@
                             props="52.246-17"
                             outputclass="subtopic"
                             audience="FAR_52_246_17"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37357,7 +37388,7 @@
                             props="52.246-18"
                             outputclass="subtopic"
                             audience="FAR_52_246_18"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37367,7 +37398,7 @@
                             props="52.246-19"
                             outputclass="subtopic"
                             audience="FAR_52_246_19"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37377,7 +37408,7 @@
                             props="52.246-20"
                             outputclass="subtopic"
                             audience="FAR_52_246_20"
-                            xtrc="GFI Editable"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37387,7 +37418,7 @@
                             props="52.246-21"
                             outputclass="subtopic"
                             audience="FAR_52_246_21"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37417,7 +37448,7 @@
                             props="52.246-24"
                             outputclass="subtopic"
                             audience="FAR_52_246_24"
-                            xtrc="GFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37460,7 +37491,7 @@
                             props="52.247-1"
                             outputclass="subtopic"
                             audience="FAR_52_247_1"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37490,7 +37521,7 @@
                             props="52.247-4"
                             outputclass="subtopic"
                             audience="FAR_52_247_4"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37520,7 +37551,7 @@
                             props="52.247-7"
                             outputclass="subtopic"
                             audience="FAR_52_247_7"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37570,7 +37601,7 @@
                             props="52.247-12"
                             outputclass="subtopic"
                             audience="FAR_52_247_12"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37580,7 +37611,7 @@
                             props="52.247-13"
                             outputclass="subtopic"
                             audience="FAR_52_247_13"
-                            xtrc="Editable"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37640,7 +37671,7 @@
                             props="52.247-19"
                             outputclass="subtopic"
                             audience="FAR_52_247_19"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37650,7 +37681,7 @@
                             props="52.247-20"
                             outputclass="subtopic"
                             audience="FAR_52_247_20"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -37680,7 +37711,7 @@
                             props="52.247-23"
                             outputclass="subtopic"
                             audience="FAR_52_247_23"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37700,7 +37731,7 @@
                             props="52.247-25"
                             outputclass="subtopic"
                             audience="FAR_52_247_25"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37780,7 +37811,7 @@
                             props="52.247-33"
                             outputclass="subtopic"
                             audience="FAR_52_247_33"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -37940,7 +37971,7 @@
                             props="52.247-49"
                             outputclass="subtopic"
                             audience="FAR_52_247_49"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -38020,7 +38051,7 @@
                             props="52.247-57"
                             outputclass="subtopic"
                             audience="FAR_52_247_57"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -38070,7 +38101,7 @@
                             props="52.247-62"
                             outputclass="subtopic"
                             audience="FAR_52_247_62"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -38110,7 +38141,7 @@
                             props="52.247-66"
                             outputclass="subtopic"
                             audience="FAR_52_247_66"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -38120,7 +38151,7 @@
                             props="52.247-67"
                             outputclass="subtopic"
                             audience="FAR_52_247_67"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -38440,7 +38471,7 @@
                             props="52.252-1"
                             outputclass="subtopic"
                             audience="FAR_52_252_1"
-                            xtrc="GFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -38450,7 +38481,7 @@
                             props="52.252-2"
                             outputclass="subtopic"
                             audience="FAR_52_252_2"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -38460,7 +38491,7 @@
                             props="52.252-3"
                             outputclass="subtopic"
                             audience="FAR_52_252_3"
-                            xtrc="GFI"
+                            xtrc=""
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -38470,7 +38501,7 @@
                             props="52.252-4"
                             outputclass="subtopic"
                             audience="FAR_52_252_4"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -38480,7 +38511,7 @@
                             props="52.252-5"
                             outputclass="subtopic"
                             audience="FAR_52_252_5"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -38490,7 +38521,7 @@
                             props="52.252-6"
                             outputclass="subtopic"
                             audience="FAR_52_252_6"
-                            xtrc="GFI"
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
