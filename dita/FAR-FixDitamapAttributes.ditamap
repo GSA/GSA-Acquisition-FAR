@@ -12,7 +12,7 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
 <map title="FAR">
-   <topicref navtitle="Volume I-Parts 1 to 51"
+  <topicref navtitle="Volume I-Parts 1 to 51"
              href="Volume_I.dita"
              outputclass="Volume"
              audience="Volume_I"
@@ -30,8 +30,8 @@
                 xtrc="Cover_1.html"
                 xtrf="subtopic"
                 props=""/>
-   </topicref>
-   <topicref navtitle="Foreword"
+  </topicref>
+  <topicref navtitle="Foreword"
              href="Foreword_a.dita"
              outputclass="Foreword"
              audience="Foreword_a"
@@ -40,7 +40,7 @@
              xtrc="Not"
              xtrf="Foreword"
              props=""/>
-   <topicref navtitle="List of Sections Affected"
+  <topicref navtitle="List of Sections Affected"
              href="LSATable.dita"
              outputclass="subtopic"
              type="concept"
@@ -50,7 +50,7 @@
              xtrc="Not"
              xtrf="subtopic"
              props=""/>
-   <topicref navtitle="Subchapter A - General"
+  <topicref navtitle="Subchapter A - General"
              href="Subchapter_A.dita"
              outputclass="SubChapter"
              props="Subchapter A"
@@ -1266,7 +1266,7 @@
                          base="concept"
                          xtrc="FAR_3_901.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="3.902 [Reserved]"
+               <topicref navtitle="3.902 Classified information."
                          href="3.902.dita"
                          outputclass="subtopic"
                          props="3.902"
@@ -1282,22 +1282,56 @@
                          base="concept"
                          xtrc="FAR_3_903.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="3.904 Procedures for filing complaints."
+               <topicref navtitle="3.904 Complaints."
                          href="3.904.dita"
                          outputclass="subtopic"
                          props="3.904"
                          audience="FAR_3_904"
                          base="concept"
                          xtrc="FAR_3_904.html"
-                         xtrf="subtopic"/>
-               <topicref navtitle="3.905 Procedures for investigating complaints."
+                         xtrf="subtopic">
+                  <topicref href="3.904-1.dita"
+                            navtitle="3.904-1 Procedures for filing complaints."
+                            outputclass="subtopic"
+                            props="3.904-1"
+                            audience="FAR_3_904_1"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="3.904-2.dita"
+                            navtitle="3.904-2 Procedures for investigating complaints."
+                            outputclass="subtopic"
+                            props="3.904-2"
+                            audience="FAR_3_904_2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
+               <topicref navtitle="3.905 Remedies and enforcement of orders."
                          href="3.905.dita"
                          outputclass="subtopic"
                          props="3.905"
                          audience="FAR_3_905"
                          base="concept"
                          xtrc="FAR_3_905.html"
-                         xtrf="subtopic"/>
+                         xtrf="subtopic">
+                  <topicref href="3.905-1.dita"
+                            navtitle="3.905-1 Remedies."
+                            outputclass="subtopic"
+                            props="3.905-1"
+                            audience="FAR_3_905_1"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="3.905-2.dita"
+                            navtitle="3.905-2 Enforcement of orders."
+                            outputclass="subtopic"
+                            props="3.905-2"
+                            audience="FAR_3_905_2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
                <topicref navtitle="3.906 Remedies."
                          href="3.906.dita"
                          outputclass="subtopic"
@@ -1371,87 +1405,14 @@
                             xtrc=""
                             xtrf="subtopic"/>
                </topicref>
-               <topicref navtitle="3.908 Pilot program for enhancement of contractor employee whistleblower protections."
+               <topicref navtitle="3.908 [Reserved]"
                          href="3.908.dita"
                          outputclass="subtopic"
                          props="3.908"
                          audience="FAR_3_908"
                          base="concept"
                          xtrc="FAR_3_908.html"
-                         xtrf="subtopic">
-                  <topicref navtitle="3.908-1 Scope of section."
-                            href="3.908-1.dita"
-                            outputclass="subtopic"
-                            props="3.908-1"
-                            audience="FAR_3_908_1"
-                            base="concept"
-                            xtrc=""
-                            xtrf="subtopic"/>
-                  <topicref navtitle="3.908-2 Definitions."
-                            href="3.908-2.dita"
-                            outputclass="subtopic"
-                            props="3.908-2"
-                            audience="FAR_3_908_2"
-                            base="concept"
-                            xtrc=""
-                            xtrf="subtopic"/>
-                  <topicref navtitle="3.908-3 Policy."
-                            href="3.908-3.dita"
-                            outputclass="subtopic"
-                            props="3.908-3"
-                            audience="FAR_3_908_3"
-                            base="concept"
-                            xtrc=""
-                            xtrf="subtopic"/>
-                  <topicref navtitle="3.908-4 Filing complaints."
-                            href="3.908-4.dita"
-                            outputclass="subtopic"
-                            props="3.908-4"
-                            audience="FAR_3_908_4"
-                            base="concept"
-                            xtrc=""
-                            xtrf="subtopic"/>
-                  <topicref navtitle="3.908-5 Procedures for investigating complaints."
-                            href="3.908-5.dita"
-                            outputclass="subtopic"
-                            props="3.908-5"
-                            audience="FAR_3_908_5"
-                            base="concept"
-                            xtrc=""
-                            xtrf="subtopic"/>
-                  <topicref navtitle="3.908-6 Remedies."
-                            href="3.908-6.dita"
-                            outputclass="subtopic"
-                            props="3.908-6"
-                            audience="FAR_3_908_6"
-                            base="concept"
-                            xtrc=""
-                            xtrf="subtopic"/>
-                  <topicref navtitle="3.908-7 Enforcement of orders."
-                            href="3.908-7.dita"
-                            outputclass="subtopic"
-                            props="3.908-7"
-                            audience="FAR_3_908_7"
-                            base="concept"
-                            xtrc=""
-                            xtrf="subtopic"/>
-                  <topicref navtitle="3.908-8 Classified information."
-                            href="3.908-8.dita"
-                            outputclass="subtopic"
-                            props="3.908-8"
-                            audience="FAR_3_908_8"
-                            base="concept"
-                            xtrc=""
-                            xtrf="subtopic"/>
-                  <topicref navtitle="3.908-9 Contract clause."
-                            href="3.908-9.dita"
-                            outputclass="subtopic"
-                            props="3.908-9"
-                            audience="FAR_3_908_9"
-                            base="concept"
-                            xtrc=""
-                            xtrf="subtopic"/>
-               </topicref>
+                         xtrf="subtopic"/>
                <topicref navtitle="3.909 Prohibition on providing funds to an entity that requires certain internal confidentiality agreements or statements."
                          href="3.909.dita"
                          outputclass="subtopic"
@@ -2745,8 +2706,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter B - Competition and Acquisition Planning"
+  </topicref>
+  <topicref navtitle="Subchapter B - Competition and Acquisition Planning"
              href="Subchapter_B.dita"
              outputclass="SubChapter"
              props="Subchapter B"
@@ -6128,8 +6089,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter C - Contracting Methods and Contract Types"
+  </topicref>
+  <topicref navtitle="Subchapter C - Contracting Methods and Contract Types"
              href="Subchapter_C.dita"
              outputclass="SubChapter"
              props="Subchapter C"
@@ -9436,8 +9397,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter D - Socioeconomic Programs"
+  </topicref>
+  <topicref navtitle="Subchapter D - Socioeconomic Programs"
              href="Subchapter_D.dita"
              outputclass="SubChapter"
              props="Subchapter D"
@@ -14207,8 +14168,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter E - General Contracting Requirements"
+  </topicref>
+  <topicref navtitle="Subchapter E - General Contracting Requirements"
              href="Subchapter_E.dita"
              outputclass="SubChapter"
              props="Subchapter E"
@@ -18332,8 +18293,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter F - Special Categories of Contracting"
+  </topicref>
+  <topicref navtitle="Subchapter F - Special Categories of Contracting"
              href="Subchapter_F.dita"
              outputclass="SubChapter"
              props="Subchapter F"
@@ -20314,8 +20275,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter G - Contract Management"
+  </topicref>
+  <topicref navtitle="Subchapter G - Contract Management"
              href="Subchapter_G.dita"
              outputclass="SubChapter"
              props="Subchapter G"
@@ -24882,8 +24843,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Volume II-Parts 52 &amp; 53"
+  </topicref>
+  <topicref navtitle="Volume II-Parts 52 &amp; 53"
              href="Volume_II.dita"
              outputclass="Volume"
              props="Volume_II"
@@ -24901,8 +24862,8 @@
                 base="NoTitle"
                 xtrc="id1617M0U0WLJ.html"
                 xtrf="subtopic"/>
-   </topicref>
-   <topicref navtitle="Foreword"
+  </topicref>
+  <topicref navtitle="Foreword"
              href="Foreword_b.dita"
              outputclass="Foreword"
              props="Foreword_b"
@@ -24911,7 +24872,7 @@
              base="NoTitle"
              xtrc="Not"
              xtrf="Foreword"/>
-   <topicref navtitle="Subchapter H - Clauses and Forms"
+  <topicref navtitle="Subchapter H - Clauses and Forms"
              href="Subchapter_H.dita"
              outputclass="SubChapter"
              props="Subchapter H"
@@ -25205,7 +25166,7 @@
                             base="concept"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.203-17 Contractor Employee Whistleblower Rights and Requirement To Inform Employees of Whistleblower Rights."
+                  <topicref navtitle="52.203-17 Contractor Employee Whistleblower Rights."
                             href="52.203-17.dita"
                             outputclass="subtopic"
                             props="52.203-17"
@@ -31716,8 +31677,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="FAR Correction(s)"
+  </topicref>
+  <topicref navtitle="FAR Correction(s)"
              href="Corrections.dita"
              outputclass="Corrections"
              props="Corrections"
