@@ -11,9 +11,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="FAR"
-     rev="FAC 2023-05 September 22, 2023"
-     product="FAC 2023-05 September 22, 2023">
+<map title="FAR" rev="FAC 2023-06 November 6, 2023">
    <topicref navtitle="Volume I-Parts 1 to 51"
              base="NoTitle"
              href="Volume_I.dita"
@@ -42,7 +40,7 @@
              otherprops="NoProp"
              xtrc="Not"
              xtrf="Foreword"/>
-   <topicref navtitle="List of Sections Affected FAC 2023-05 September 7, 2023"
+   <topicref navtitle="List of Sections Affected "
              base="concept"
              href="LSATable.dita"
              props=""
@@ -141,7 +139,7 @@
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="1.102-3Evaluating agency acquisition processes."
+                  <topicref navtitle="1.102-3&#xA;         Evaluating agency acquisition processes.&#xA;      "
                             base="concept"
                             href="1.102-3.dita"
                             props="1.102-3"
@@ -151,7 +149,7 @@
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="1.102-4Acquisition Team."
+                  <topicref navtitle="1.102-4&#xA;         Acquisition Team.&#xA;      "
                             base="concept"
                             href="1.102-4.dita"
                             props="1.102-4"
@@ -168,6 +166,7 @@
                             outputclass="subtopic"
                             xtrf="subtopic"
                             audience="FAR_1_102_5"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -1561,7 +1560,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="3.902 [Reserved]"
+               <topicref navtitle="3.902Classified information."
                          base="concept"
                          href="3.902.dita"
                          props="3.902"
@@ -1571,7 +1570,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="3.903 Policy."
+               <topicref navtitle="3.903Policy."
                          base="concept"
                          href="3.903.dita"
                          props="3.903"
@@ -1581,7 +1580,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="3.904 Procedures for filing complaints."
+               <topicref navtitle="3.904 Complaints."
                          base="concept"
                          href="3.904.dita"
                          props="3.904"
@@ -1590,8 +1589,27 @@
                          xtrc="FAR_3_904.html"
                          xtrf="subtopic"
                          tables="0"
-                         figures="0"/>
-               <topicref navtitle="3.905 Procedures for investigating complaints."
+                         figures="0">
+                  <topicref navtitle="3.904-1 Procedures for filing complaints."
+                            base="concept"
+                            href="3.904-1.dita"
+                            props="3.904-1"
+                            outputclass="subtopic"
+                            audience="FAR_3_904_1"
+                            xtrf="subtopic"
+                            tables="0"
+                            figures="0"/>
+                  <topicref navtitle="3.904-2 Procedures for investigating complaints."
+                            base="concept"
+                            href="3.904-2.dita"
+                            props="3.904-2"
+                            outputclass="subtopic"
+                            audience="FAR_3_904_2"
+                            xtrf="subtopic"
+                            tables="0"
+                            figures="0"/>
+               </topicref>
+               <topicref navtitle="3.905Remedies and enforcement of orders."
                          base="concept"
                          href="3.905.dita"
                          props="3.905"
@@ -1600,8 +1618,27 @@
                          xtrc="FAR_3_905.html"
                          xtrf="subtopic"
                          tables="0"
-                         figures="0"/>
-               <topicref navtitle="3.906 Remedies."
+                         figures="0">
+                  <topicref navtitle="3.905-1 Remedies."
+                            base="concept"
+                            href="3.905-1.dita"
+                            props="3.905-1"
+                            outputclass="subtopic"
+                            audience="FAR_3_905_1"
+                            xtrf="subtopic"
+                            tables="0"
+                            figures="0"/>
+                  <topicref navtitle="3.905-2 Enforcement of orders."
+                            base="concept"
+                            href="3.905-2.dita"
+                            props="3.905-2"
+                            outputclass="subtopic"
+                            audience="FAR_3_905_2"
+                            xtrf="subtopic"
+                            tables="0"
+                            figures="0"/>
+               </topicref>
+               <topicref navtitle="3.906Contract clause."
                          base="concept"
                          href="3.906.dita"
                          props="3.906"
@@ -1692,7 +1729,7 @@
                             tables="0"
                             figures="0"/>
                </topicref>
-               <topicref navtitle="3.908 Pilot program for enhancement of contractor employee whistleblower protections."
+               <topicref navtitle="3.908[Reserved]"
                          base="concept"
                          href="3.908.dita"
                          props="3.908"
@@ -1701,98 +1738,7 @@
                          xtrc="FAR_3_908.html"
                          xtrf="subtopic"
                          tables="0"
-                         figures="0">
-                  <topicref navtitle="3.908-1 Scope of section."
-                            base="concept"
-                            href="3.908-1.dita"
-                            props="3.908-1"
-                            outputclass="subtopic"
-                            audience="FAR_3_908_1"
-                            xtrc=""
-                            xtrf="subtopic"
-                            tables="0"
-                            figures="0"/>
-                  <topicref navtitle="3.908-2 Definitions."
-                            base="concept"
-                            href="3.908-2.dita"
-                            props="3.908-2"
-                            outputclass="subtopic"
-                            audience="FAR_3_908_2"
-                            xtrc=""
-                            xtrf="subtopic"
-                            tables="0"
-                            figures="0"/>
-                  <topicref navtitle="3.908-3 Policy."
-                            base="concept"
-                            href="3.908-3.dita"
-                            props="3.908-3"
-                            outputclass="subtopic"
-                            audience="FAR_3_908_3"
-                            xtrc=""
-                            xtrf="subtopic"
-                            tables="0"
-                            figures="0"/>
-                  <topicref navtitle="3.908-4 Filing complaints."
-                            base="concept"
-                            href="3.908-4.dita"
-                            props="3.908-4"
-                            outputclass="subtopic"
-                            audience="FAR_3_908_4"
-                            xtrc=""
-                            xtrf="subtopic"
-                            tables="0"
-                            figures="0"/>
-                  <topicref navtitle="3.908-5 Procedures for investigating complaints."
-                            base="concept"
-                            href="3.908-5.dita"
-                            props="3.908-5"
-                            outputclass="subtopic"
-                            audience="FAR_3_908_5"
-                            xtrc=""
-                            xtrf="subtopic"
-                            tables="0"
-                            figures="0"/>
-                  <topicref navtitle="3.908-6 Remedies."
-                            base="concept"
-                            href="3.908-6.dita"
-                            props="3.908-6"
-                            outputclass="subtopic"
-                            audience="FAR_3_908_6"
-                            xtrc=""
-                            xtrf="subtopic"
-                            tables="0"
-                            figures="0"/>
-                  <topicref navtitle="3.908-7 Enforcement of orders."
-                            base="concept"
-                            href="3.908-7.dita"
-                            props="3.908-7"
-                            outputclass="subtopic"
-                            audience="FAR_3_908_7"
-                            xtrc=""
-                            xtrf="subtopic"
-                            tables="0"
-                            figures="0"/>
-                  <topicref navtitle="3.908-8 Classified information."
-                            base="concept"
-                            href="3.908-8.dita"
-                            props="3.908-8"
-                            outputclass="subtopic"
-                            audience="FAR_3_908_8"
-                            xtrc=""
-                            xtrf="subtopic"
-                            tables="0"
-                            figures="0"/>
-                  <topicref navtitle="3.908-9 Contract clause."
-                            base="concept"
-                            href="3.908-9.dita"
-                            props="3.908-9"
-                            outputclass="subtopic"
-                            audience="FAR_3_908_9"
-                            xtrc=""
-                            xtrf="subtopic"
-                            tables="0"
-                            figures="0"/>
-               </topicref>
+                         figures="0"/>
                <topicref navtitle="3.909 Prohibition on providing funds to an entity that requires certain internal confidentiality agreements or statements."
                          base="concept"
                          href="3.909.dita"
@@ -3372,7 +3318,7 @@
                          outputclass="subtopic"
                          audience="FAR_4_2201"
                          xtrf="subtopic"
-                         xtrc=""
+                         xtrc="FAR_4_2201.html"
                          tables="0"
                          figures="0"/>
                <topicref navtitle="4.2202 Prohibition."
@@ -3382,7 +3328,7 @@
                          outputclass="subtopic"
                          audience="FAR_4_2202"
                          xtrf="subtopic"
-                         xtrc=""
+                         xtrc="FAR_4_2202.html"
                          tables="0"
                          figures="0"/>
                <topicref navtitle="4.2203 Contract clause."
@@ -3392,7 +3338,7 @@
                          outputclass="subtopic"
                          audience="FAR_4_2203"
                          xtrf="subtopic"
-                         xtrc=""
+                         xtrc="FAR_4_2203.html"
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -6857,7 +6803,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="11.204Solicitation provisions."
+               <topicref navtitle="11.204&#xA;         Solicitation provisions.&#xA;      "
                          base="concept"
                          href="11.204.dita"
                          props="11.204"
@@ -11991,7 +11937,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="19.305Reviews of SDB status."
+               <topicref navtitle="19.305&#xA;         Reviews of SDB status.&#xA;      "
                          base="concept"
                          href="19.305.dita"
                          props="19.305"
@@ -12613,7 +12559,7 @@
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="19.804-5 Basic ordering agreements."
+                  <topicref navtitle="19.804-5Basic ordering agreements and blanket purchase agreements."
                             base="concept"
                             href="19.804-5.dita"
                             props="19.804-5"
@@ -12830,7 +12776,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="19.815 Release for non-8(a) procurement."
+               <topicref navtitle="19.815Release and notification requirements for non-8(a) procurement."
                          base="concept"
                          href="19.815.dita"
                          props="19.815"
@@ -31123,6 +31069,7 @@
                             outputclass="subtopic"
                             audience="FAR_52_201_1"
                             xtrf="subtopic"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -31319,7 +31266,7 @@
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="52.203-17 Contractor Employee&#x9;Whistleblower Rights and Requirement To Inform Employees of Whistleblower&#x9;Rights."
+                  <topicref navtitle="52.203-17Contractor Employee Whistleblower Rights."
                             base="concept"
                             href="52.203-17.dita"
                             props="52.203-17"
@@ -31632,6 +31579,7 @@
                             outputclass="subtopic"
                             audience="FAR_52_204_27"
                             xtrf="subtopic"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -32017,7 +31965,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0">
-                  <topicref navtitle="52.211-1Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29."
+                  <topicref navtitle="52.211-1&#xA;         Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29.&#xA;      "
                             base="concept"
                             href="52.211-1.dita"
                             props="52.211-1"
@@ -32027,7 +31975,7 @@
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="52.211-2Availability of Defense Specifications, Standards, and Data Item Descriptions in the Acquisition Streamlining and Standardization Information System (ASSIST) website."
+                  <topicref navtitle="52.211-2&#xA;         Availability of Defense Specifications, Standards, and Data Item Descriptions in the Acquisition Streamlining and Standardization Information System (ASSIST) website.&#xA;      "
                             base="concept"
                             href="52.211-2.dita"
                             props="52.211-2"
@@ -33388,7 +33336,7 @@
                             props="52.219-2"
                             outputclass="subtopic"
                             audience="FAR_52_219_2"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -33438,7 +33386,7 @@
                             props="52.219-7"
                             outputclass="subtopic"
                             audience="FAR_52_219_7"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34475,7 +34423,7 @@
                             props="52.223-11"
                             outputclass="subtopic"
                             audience="FAR_52_223_11"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34649,7 +34597,7 @@
                             props="52.225-1"
                             outputclass="subtopic"
                             audience="FAR_52_225_1"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34659,7 +34607,7 @@
                             props="52.225-2"
                             outputclass="subtopic"
                             audience="FAR_52_225_2"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -34669,7 +34617,7 @@
                             props="52.225-3"
                             outputclass="subtopic"
                             audience="FAR_52_225_3"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
@@ -34679,7 +34627,7 @@
                             props="52.225-4"
                             outputclass="subtopic"
                             audience="FAR_52_225_4"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="4"
                             figures="0"/>
@@ -34699,7 +34647,7 @@
                             props="52.225-6"
                             outputclass="subtopic"
                             audience="FAR_52_225_6"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="1"
                             figures="0"/>
@@ -35123,7 +35071,7 @@
                             props="52.227-14"
                             outputclass="subtopic"
                             audience="FAR_52_227_14"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
