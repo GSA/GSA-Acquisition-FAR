@@ -12,12 +12,10 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
 <map title="FAR"
-     rev="FAC 2024-01 Effective November 14, 2023"
-     deliveryTarget="2022-07018"
-     product="FAC 2024-01 Effective November 14, 2023"
      outputclass="FAR"
-     translate="no"
-     otherprops="Technical Amendment">
+     rev="FAC 2023-06 December 4, 2023"
+     product="FAC 2023-06 December 4, 2023"
+     deliveryTarget="2023-21320">
    <topicref navtitle="Volume I-Parts 1 to 51"
              base="NoTitle"
              href="Volume_I.dita"
@@ -46,12 +44,11 @@
              otherprops="NoProp"
              xtrc="Not"
              xtrf="Foreword"/>
-   <topicref navtitle="List of Sections Affected "
+   <topicref navtitle="List of Sections Affected  FAR Case 2023-019  &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;Technical Amendments&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;"
              base="concept"
              href="LSATable.dita"
              props=""
              outputclass="subtopic"
-             type="concept"
              audience="lsa-d1e11"
              otherprops="NoProp"
              xtrc="Not"
@@ -2571,7 +2568,6 @@
                       href="Subpart_4.20.dita"
                       props="Subpart 4.20"
                       outputclass="SubPart"
-                      type="topic"
                       audience="FAR_Subpart_4_20"
                       xtrc="FAR_Subpart_4_20.html"
                       xtrf="SubPart">
@@ -2580,7 +2576,6 @@
                          href="4.2001.dita"
                          props="4.2001"
                          outputclass="subtopic"
-                         type="topic"
                          audience="FAR_4_2001"
                          xtrc="FAR_4_2001.html"
                          xtrf="subtopic"/>
@@ -2589,7 +2584,6 @@
                          href="4.2002.dita"
                          props="4.2002"
                          outputclass="subtopic"
-                         type="topic"
                          audience="FAR_4_2002"
                          xtrc="FAR_4_2002.html"
                          xtrf="subtopic"/>
@@ -2598,7 +2592,6 @@
                          href="4.2003.dita"
                          props="4.2003"
                          outputclass="subtopic"
-                         type="topic"
                          audience="FAR_4_2003"
                          xtrc="FAR_4_2003.html"
                          xtrf="subtopic"/>
@@ -2607,7 +2600,6 @@
                          href="4.2004.dita"
                          props="4.2004"
                          outputclass="subtopic"
-                         type="topic"
                          audience="FAR_4_2004"
                          xtrc="FAR_4_2004.html"
                          xtrf="subtopic"/>
@@ -2617,7 +2609,6 @@
                       href="Subpart_4.21.dita"
                       props="Subpart 4.21"
                       outputclass="SubPart"
-                      type="topic"
                       audience="FAR_Subpart_4_21"
                       xtrc="FAR_Subpart_4_21.html"
                       xtrf="SubPart">
@@ -2626,7 +2617,6 @@
                          href="4.2100.dita"
                          props="4.2100"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_4_2100"
                          xtrc="FAR_4_2100.html"
                          xtrf="subtopic"/>
@@ -2635,7 +2625,6 @@
                          href="4.2101.dita"
                          props="4.2101"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_4_2101"
                          xtrc="FAR_4_2101.html"
                          xtrf="subtopic"/>
@@ -2644,7 +2633,6 @@
                          href="4.2102.dita"
                          props="4.2102"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_4_2102"
                          xtrc="FAR_4_2102.html"
                          xtrf="subtopic"/>
@@ -2653,7 +2641,6 @@
                          href="4.2103.dita"
                          props="4.2103"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_4_2103"
                          xtrc="FAR_4_2103.html"
                          xtrf="subtopic"/>
@@ -2662,7 +2649,6 @@
                          href="4.2104.dita"
                          props="4.2104"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_4_2104"
                          xtrc="FAR_4_2104.html"
                          xtrf="subtopic"/>
@@ -2671,7 +2657,6 @@
                          href="4.2105.dita"
                          props="4.2105"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_4_2105"
                          xtrc="FAR_4_2105.html"
                          xtrf="subtopic"/>
@@ -2682,7 +2667,6 @@
                       props="Subpart 4.22"
                       outputclass="SubPart"
                       audience="FAR_Subpart_4_22"
-                      type="type"
                       xtrc="FAR_Subpart_4_22.html"
                       xtrf="SubPart">
                <topicref navtitle="4.2201 Definitions."
@@ -2709,6 +2693,64 @@
                          audience="FAR_4_2203"
                          xtrf="subtopic"
                          xtrc="FAR_4_2203.html"/>
+            </topicref>
+            <topicref navtitle="Subpart 4.23 Federal Acquisition Security Council."
+                      base="NoTitle"
+                      href="Subpart_4.23.dita"
+                      props="Subpart 4.23"
+                      outputclass="SubPart"
+                      audience="FAR_Subpart_4_23"
+                      xtrc="FAR_Subpart_4_23.html"
+                      xtrf="SubPart">
+               <topicref navtitle="4.2300 Scope of subpart."
+                         base="NoTitle"
+                         href="4.2300.dita"
+                         props="4.2300"
+                         outputclass="subtopic"
+                         audience="FAR_4_2300"
+                         xtrf="subtopic"/>
+               <topicref navtitle="4.2301 Definitions."
+                         base="concept"
+                         href="4.2301.dita"
+                         props="4.2301"
+                         outputclass="subtopic"
+                         audience="FAR_4_2301"
+                         xtrf="subtopic"/>
+               <topicref navtitle="4.2302 Sharing supply chain risk information."
+                         base="concept"
+                         href="4.2302.dita"
+                         props="4.2302"
+                         outputclass="subtopic"
+                         audience="FAR_4_2302"
+                         xtrf="subtopic"/>
+               <topicref navtitle="4.2303 FASCSA orders."
+                         base="concept"
+                         href="4.2303.dita"
+                         props="4.2303"
+                         outputclass="subtopic"
+                         audience="FAR_4_2303"
+                         xtrf="subtopic"/>
+               <topicref navtitle="4.2304 Procedures."
+                         base="concept"
+                         href="4.2304.dita"
+                         props="4.2304"
+                         outputclass="subtopic"
+                         audience="FAR_4_2304"
+                         xtrf="subtopic"/>
+               <topicref navtitle="4.2305 Waivers."
+                         base="concept"
+                         href="4.2305.dita"
+                         props="4.2305"
+                         outputclass="subtopic"
+                         audience="FAR_4_2305"
+                         xtrf="subtopic"/>
+               <topicref navtitle="4.2306 Solicitation provision and contract clauses."
+                         base="concept"
+                         href="4.2306.dita"
+                         props="4.2306"
+                         outputclass="subtopic"
+                         audience="FAR_4_2306"
+                         xtrf="subtopic"/>
             </topicref>
          </topicref>
       </topicref>
@@ -4637,7 +4679,6 @@
                          href="9.109.dita"
                          props="9.109"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_9_109"
                          xtrc="FAR_9_109.html"
                          xtrf="subtopic">
@@ -4646,7 +4687,6 @@
                             href="9.109-1.dita"
                             props="9.109-1"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_9_109_1"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -4655,7 +4695,6 @@
                             href="9.109-2.dita"
                             props="9.109-2"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_9_109_2"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -4664,7 +4703,6 @@
                             href="9.109-3.dita"
                             props="9.109-3"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_9_109_3"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -4673,7 +4711,6 @@
                             href="9.109-4.dita"
                             props="9.109-4"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_9_109_4"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -4682,7 +4719,6 @@
                             href="9.109-5.dita"
                             props="9.109-5"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_9_109_5"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -4692,7 +4728,6 @@
                          href="9.110.dita"
                          props="9.110"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_9_110"
                          xtrc="FAR_9_110.html"
                          xtrf="subtopic">
@@ -4701,7 +4736,6 @@
                             href="9.110-1.dita"
                             props="9.110-1"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_9_110_1"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -4710,7 +4744,6 @@
                             href="9.110-2.dita"
                             props="9.110-2"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_9_110_2"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -4719,7 +4752,6 @@
                             href="9.110-3.dita"
                             props="9.110-3"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_9_110_3"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -4728,7 +4760,6 @@
                             href="9.110-4.dita"
                             props="9.110-4"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_9_110_4"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -4737,7 +4768,6 @@
                             href="9.110-5.dita"
                             props="9.110-5"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_9_110_5"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -7352,7 +7382,6 @@
                             href="15.101-3.dita"
                             props="15.101-3"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_15_101_3"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -9817,7 +9846,6 @@
                          href="19.503.dita"
                          props="19.503"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_19_503"
                          xtrc="FAR_19_503.html"
                          xtrf="subtopic"/>
@@ -9826,7 +9854,6 @@
                          href="19.504.dita"
                          props="19.504"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_19_504"
                          xtrc="FAR_19_504.html"
                          xtrf="subtopic"/>
@@ -9835,7 +9862,6 @@
                          href="19.505.dita"
                          props="19.505"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_19_505"
                          xtrc="FAR_19_505.html"
                          xtrf="subtopic"/>
@@ -9844,7 +9870,6 @@
                          href="19.506.dita"
                          props="19.506"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_19_506"
                          xtrc="FAR_19_506.html"
                          xtrf="subtopic"/>
@@ -10221,7 +10246,6 @@
                             href="19.809-1.dita"
                             props="19.809-1"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_19_809_1"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -10230,7 +10254,6 @@
                             href="19.809-2.dita"
                             props="19.809-2"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_19_809_2"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -10491,7 +10514,6 @@
                          href="19.1407.dita"
                          props="19.1407"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_19_1407"
                          otherprops="NoProp"
                          xtrc="FAR_19_1407.html"
@@ -10574,7 +10596,6 @@
                          href="19.1507.dita"
                          props="19.1507"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_19_1507"
                          xtrc="FAR_19_1507.html"
                          xtrf="subtopic"/>
@@ -13204,7 +13225,7 @@
                       audience="FAR_25_002"
                       xtrc="FAR_25_002.html"
                       xtrf="subtopic"/>
-            <topicref navtitle="25.003 Definitions."
+            <topicref navtitle="25.003 Definitions.&#xA;      "
                       base="concept"
                       href="25.003.dita"
                       props="25.003"
@@ -13896,7 +13917,6 @@
                          href="25.1003.dita"
                          props="25.1003"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_25_1003"
                          xtrc="FAR_25_1003.html"
                          xtrf="subtopic"/>
@@ -15281,7 +15301,6 @@
                       href="29.001.dita"
                       props="29.001"
                       outputclass="subtopic"
-                      type="concept"
                       audience="FAR_29_001"
                       xtrc="FAR_29_001.html"
                       xtrf="subtopic"/>
@@ -15339,7 +15358,6 @@
                          href="29.204.dita"
                          props="29.204"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_29_204"
                          xtrc="FAR_29_204.html"
                          xtrf="subtopic"/>
@@ -15479,7 +15497,6 @@
                             href="29.402-3.dita"
                             props="29.402-3"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_29_402_3"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -15488,7 +15505,6 @@
                             href="29.402-4.dita"
                             props="29.402-4"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_29_402_4"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -19936,7 +19952,6 @@
                       href="39.000.dita"
                       props="39.000"
                       outputclass="subtopic"
-                      type="concept"
                       audience="FAR_39_000"
                       xtrc="FAR_39_000.html"
                       xtrf="subtopic"/>
@@ -20058,7 +20073,6 @@
                          href="39.205.dita"
                          props="39.205"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_39_205"
                          xtrc="FAR_39_205.html"
                          xtrf="subtopic"/>
@@ -20729,7 +20743,6 @@
                             href="42.709-1.dita"
                             props="42.709-1"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_42_709_1"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -20738,7 +20751,6 @@
                             href="42.709-2.dita"
                             props="42.709-2"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_42_709_2"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -20747,7 +20759,6 @@
                             href="42.709-3.dita"
                             props="42.709-3"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_42_709_3"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -20756,7 +20767,6 @@
                             href="42.709-4.dita"
                             props="42.709-4"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_42_709_4"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -20765,7 +20775,6 @@
                             href="42.709-5.dita"
                             props="42.709-5"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_42_709_5"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -20774,7 +20783,6 @@
                             href="42.709-6.dita"
                             props="42.709-6"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_42_709_6"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -20783,7 +20791,6 @@
                             href="42.709-7.dita"
                             props="42.709-7"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_42_709_7"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -22131,7 +22138,6 @@
                          href="46.317.dita"
                          props="46.317"
                          outputclass="subtopic"
-                         type="concept"
                          audience="FAR_46_317"
                          xtrc="FAR_46_317.html"
                          xtrf="subtopic"/>
@@ -25382,12 +25388,11 @@
                             audience="FAR_52_204_22"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.204-23 Prohibition on Contracting&#xA;for Hardware, Software, and Services Developed or Provided by Kaspersky&#xA;Lab and Other Covered Entities."
+                  <topicref navtitle="52.204-23Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities."
                             base="concept"
                             href="52.204-23.dita"
                             props="52.204-23"
                             outputclass="subtopic"
-                            type="topic"
                             audience="FAR_52_204_23"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -25396,7 +25401,6 @@
                             href="52.204-24.dita"
                             props="52.204-24"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_204_24"
                             xtrc="Editable"
                             xtrf="subtopic"/>
@@ -25405,7 +25409,6 @@
                             href="52.204-25.dita"
                             props="52.204-25"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_204_25"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -25414,7 +25417,6 @@
                             href="52.204-26.dita"
                             props="52.204-26"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_204_26"
                             xtrc="Editable"
                             xtrf="subtopic"/>
@@ -25426,6 +25428,27 @@
                             audience="FAR_52_204_27"
                             xtrf="subtopic"
                             xtrc=""/>
+                  <topicref navtitle="52.204-28 Governmentwide Acquisition Contracts"
+                            base="NoTitle"
+                            href="52.204-28.dita"
+                            props="52.204-28"
+                            outputclass="subtopic"
+                            audience="FAR_52_204_28"
+                            xtrf="subtopic"/>
+                  <topicref navtitle="52.204-29 Federal Acquisition Supply Chain Security Act Orders—Representation and Disclosures."
+                            base="NoTitle"
+                            href="52.204-29.dita"
+                            props="52.204-29"
+                            outputclass="subtopic"
+                            audience="FAR_52_204_29"
+                            xtrf="subtopic"/>
+                  <topicref navtitle="52.204-30 Federal Acquisition Supply Chain Security Act Orders—Prohibition."
+                            base="NoTitle"
+                            href="52.204-30.dita"
+                            props="52.204-30"
+                            outputclass="subtopic"
+                            audience="FAR_52_204_29"
+                            xtrf="subtopic"/>
                </topicref>
                <topicref navtitle="52.205 [Reserved]"
                          base="concept"
@@ -25685,7 +25708,6 @@
                             href="52.209-12.dita"
                             props="52.209-12"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_209_12"
                             xtrc="Editable"
                             xtrf="subtopic"/>
@@ -25694,7 +25716,6 @@
                             href="52.209-13.dita"
                             props="52.209-13"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_209_13"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -25703,7 +25724,6 @@
                             href="52.209-14.dita"
                             props="52.209-14"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_209_14"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -25905,7 +25925,7 @@
                             audience="FAR_52_212_2"
                             xtrc="Editable"
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.212-3 Offeror Representations and Certifications—Commercial Products and Commercial Services."
+                  <topicref navtitle="52.212-3 Offeror Representations and Certifications—Commercial Products and Commercial Services. "
                             base="concept"
                             href="52.212-3.dita"
                             props="52.212-3"
@@ -25921,7 +25941,7 @@
                             audience="FAR_52_212_4"
                             xtrc="Editable"
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services."
+                  <topicref navtitle="52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services. "
                             base="concept"
                             href="52.212-5.dita"
                             props="52.212-5"
@@ -26718,7 +26738,6 @@
                             href="52.216-32.dita"
                             props="52.216-32"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_216_32"
                             xtrc="Editable"
                             xtrf="subtopic"/>
@@ -27067,7 +27086,6 @@
                             href="52.219-31.dita"
                             props="52.219-31"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_219_31"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -27076,7 +27094,6 @@
                             href="52.219-32.dita"
                             props="52.219-32"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_219_32"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -27085,7 +27102,6 @@
                             href="52.219-33.dita"
                             props="52.219-33"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_219_33"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -27857,7 +27873,7 @@
                             audience="FAR_52_225_2"
                             xtrc="Editable"
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.225-3 Buy American-Free Trade Agreements-Israeli Trade Act."
+                  <topicref navtitle="52.225-3 Buy American-Free Trade Agreements-Israeli Trade Act.&#xA;      "
                             base="concept"
                             href="52.225-3.dita"
                             props="52.225-3"
@@ -27865,7 +27881,7 @@
                             audience="FAR_52_225_3"
                             xtrc="Editable"
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.225-4 Buy American-Free Trade Agreements-Israeli Trade Act Certificate."
+                  <topicref navtitle="52.225-4 Buy American-Free Trade Agreements-Israeli Trade Act Certificate.&#xA;      "
                             base="concept"
                             href="52.225-4.dita"
                             props="52.225-4"
@@ -27873,7 +27889,7 @@
                             audience="FAR_52_225_4"
                             xtrc="Editable"
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.225-5 Trade Agreements."
+                  <topicref navtitle="52.225-5 Trade Agreements.&#xA;      "
                             base="concept"
                             href="52.225-5.dita"
                             props="52.225-5"
@@ -28444,7 +28460,6 @@
                             href="52.228-17.dita"
                             props="52.228-17"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_228_17"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -28543,7 +28558,6 @@
                             href="52.229-11.dita"
                             props="52.229-11"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_229_11"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -28552,7 +28566,6 @@
                             href="52.229-12.dita"
                             props="52.229-12"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_229_12"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -28561,7 +28574,6 @@
                             href="52.229-13.dita"
                             props="52.229-13"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_229_13"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -28570,7 +28582,6 @@
                             href="52.229-14.dita"
                             props="52.229-14"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_229_14"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -30109,7 +30120,6 @@
                             href="52.246-26.dita"
                             props="52.246-26"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_246_26"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -31006,7 +31016,6 @@
                             href="FARmatrix.dita"
                             props="52.301-1"
                             outputclass="subtopic"
-                            type="concept"
                             audience="id189BG090K5Z"
                             xtrc=""
                             xtrf="subtopic"/>
@@ -31015,7 +31024,6 @@
                             href="52.301-2.dita"
                             props="52.301-2"
                             outputclass="subtopic"
-                            type="concept"
                             audience="FAR_52_301_2"
                             xtrc=""
                             xtrf="subtopic"/>
