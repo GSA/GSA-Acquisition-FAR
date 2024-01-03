@@ -1,79 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  ">
-   <concept class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3"
-            id="FAR_52_222_34">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">52.222-34</ph> Project Labor Agreement.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p class="- topic/p " id="d3342e8">As prescribed in <ph class="- topic/ph " outputclass="ClauseProvisionXREF">
+<dita>
+   <concept id="FAR_52_222_34">
+      <title>
+         <ph props="autonumber">52.222-34</ph> Project Labor Agreement.</title>
+      <conbody>
+         <p class="- topic/p " id="d3342e8">As prescribed in <ph outputclass="ClauseProvisionXREF">
                <xref base="i1097603"
-                     class="- topic/xref "
                      href="22.505.dita#FAR_22_505"
                      outputclass="fm:ParaNumOnly">22.505</xref>(b)(1)</ph>, insert the following clause:</p>
-         <p class="- topic/p " id="d3342e15" outputclass="Ctr_SmCaps">Project Labor Agreement <ph class="- topic/ph " outputclass="SmCaps">(May 2010)</ph>
+         <p class="- topic/p " id="d3342e15" outputclass="Ctr_SmCaps">
+            <ph rev="FAC 2024-02 January 22, 2024"><?FM MARKER [CaseNumber] FAR Case 2022–003?>Project Labor Agreement (Jan 2024)<?FM MARKER [Why] Amend section 52.222–34 by—   a. Revising the date of the clause;?></ph>
          </p>
-         <ol class="- topic/ol " id="d3303e25">
-            <li class="- topic/li ">
+         <ol id="d3303e25">
+            <li>
                <p class="- topic/p " id="d3342e21">
-                  <ph class="- topic/ph " props="autonumber">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause-</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i>Definitions</i>. As used in this clause-</p>
+               <p class="- topic/p " id="d3351e28">
+                  <ph rev="FAC 2024-02 January 22, 2024"><?FM MARKER [CaseNumber] FAR Case 2022–003?>
+                     <i outputclass="Term" xtrf="_52.222-34" xtrc="d1e43">Construction</i> means construction, reconstruction, rehabilitation, modernization, alteration, conversion, extension, repair, or improvement of buildings, structures, highways, or other real property.<?FM MARKER [Why] b. Adding in alphabetical order definitions for “Construction” and “Large-scale construction project” and revising the definition “Labor organization” in paragraph (a);?></ph>
+               </p>
                <p class="- topic/p " id="d3342e27">
-                  <i class="+ topic/ph hi-d/i "
-                     outputclass="Term"
-                     xtrc="d3338e40"
-                     xtrf="_52.222-34">Labor organization</i> means a labor organization as defined in <xref class="- topic/xref "
-                        format="html"
-                        href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                        scope="external">29 U. S.C. 152(5)</xref>.</p>
+                  <ph rev="FAC 2024-02 January 22, 2024">
+                     <i outputclass="Term" xtrf="_52.222-34" xtrc="d3338e40">Labor organization</i> means a labor organization as defined in <xref href="https://www.govinfo.gov/link/uscode/29/152"
+                           format="html"
+                           scope="external">29 U.S.C. 152(5)</xref> of which building and construction employees are members.</ph>
+               </p>
+               <p class="- topic/p " id="d3351e43">
+                  <ph rev="FAC 2024-02 January 22, 2024">
+                     <i outputclass="Term" xtrf="_52.222-34" xtrc="d1e55">Large-scale construction project</i> means a Federal construction project within the United States for which the total estimated cost of the construction contract(s) to the Federal Government is $35 million or more.</ph>
+               </p>
                <p class="- topic/p " id="d3342e34">
-                  <i class="+ topic/ph hi-d/i "
-                     outputclass="Term"
-                     xtrc="d3338e49"
-                     xtrf="_52.222-34">Project labor agreement</i> means a pre-hire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific construction project and is an agreement described in <xref class="- topic/xref "
-                        format="html"
+                  <i outputclass="Term" xtrf="_52.222-34" xtrc="d3338e49">Project labor agreement</i> means a pre-hire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific construction project and is an agreement described in <xref format="html"
                         href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                        scope="external">29U. S.C.158(f)</xref>.</p>
+                        scope="external">29 U. S.C.158(f)</xref>.</p>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d3342e42">
-                  <ph class="- topic/ph " props="autonumber">(b)</ph>
-						            The Contractor shall maintain in a current status throughout the life of the contract the project labor agreement entered into prior to the award of this contract in accordance with solicitation provision <xref base="i1056167"
-                        class="- topic/xref "
-                        href="52.222-33.dita#FAR_52_222_33"
-                        outputclass="fm:ParaNumOnly">52.222-33</xref>, Notice of Requirement for Project Labor Agreement.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The Contractor shall maintain in a current status throughout the life of the contract the project labor agreement entered into prior to the award of <ph rev="FAC 2024-02 January 22, 2024"><?FM MARKER [CaseNumber] FAR Case 2022–003?>the contract<?FM MARKER [Why] c. Removing from paragraph (b) “this contract in accordance with solicitation provision 52.222–33, Notice of Requirement for Project Labor Agreement” and adding “the contract” in its place;?></ph>.</p>
             </li>
-            <li class="- topic/li ">
+            <li>
                <p class="- topic/p " id="d3342e50">
-                  <ph class="- topic/ph " props="autonumber">(c)</ph>
-                  <i class="+ topic/ph hi-d/i ">Subcontracts</i>. The Contractor shall include the substance of this clause, including this paragraph (c), in all subcontracts with subcontractors engaged in construction on the construction project.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i>Subcontracts</i>. The Contractor shall include the substance of this clause, including this paragraph (c), in <ph rev="FAC 2024-02 January 22, 2024"><?FM MARKER [CaseNumber] FAR Case 2022–003?>subcontracts<?FM MARKER [Why] d. Removing from paragraph (c) “all subcontracts” and adding “subcontracts” in its place;?></ph> with subcontractors engaged in construction on the construction project.</p>
             </li>
          </ol>
-         <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-         <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
+         <p outputclass="Endofclause">(End of clause)</p>
+         <section outputclass="Alternate"><?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3345e58">
-               <i class="+ topic/ph hi-d/i ">Alternate I </i>
-               <ph outputclass="SmCaps">(May 2010)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <ph rev="FAC 2024-02 January 22, 2024">
+                  <i>Alternate I </i>
+                  <ph outputclass="SmCaps">(Sep 2024)</ph>
+               </ph>. As prescribed in <ph outputclass="ClauseProvisionXREF">
                   <xref base="i1097603"
-                        class="- topic/xref "
                         href="22.505.dita#FAR_22_505"
                         outputclass="fm:ParaNumOnly">22.505</xref>
                </ph>(b)(2), substitute the following paragraphs (b) through (f) for paragraphs (b) and (c) of the basic clause:</p>
-            <p class="- topic/p " outputclass="List1">(b) Consistent with applicable law, the Contractor shall negotiate a project labor agreement with one or more labor organizations for the term of this construction contract. The Contractor shall submit an executed copy of the project labor agreement to the Contracting Officer.</p>
-            <p class="- topic/p " outputclass="List1">(c) Consistent with applicable law, the project labor agreement reached pursuant to this clause shall-</p>
-            <p class="- topic/p " outputclass="List2">(1) Bind the Contractor and all subcontractors engaged in construction on the construction project to comply with the project labor agreement;</p>
-            <p class="- topic/p " outputclass="List2">(2) Allow the Contractor and all subcontractors to compete for contracts and subcontracts without regard to whether they are otherwise parties to collective bargaining agreements;</p>
-            <p class="- topic/p " outputclass="List2">(3) Contain guarantees against strikes, lockouts, and similar job disruptions;</p>
-            <p class="- topic/p " outputclass="List2">(4) Set forth effective, prompt, and mutually binding procedures for resolving labor disputes arising during the project labor agreement;</p>
-            <p class="- topic/p " outputclass="List2">(5) Provide other mechanisms for labor-management cooperation on matters of mutual interest and concern, including productivity, quality of work, safety, and health; and</p>
-            <p class="- topic/p " outputclass="List2">(6) Fully conform to all statutes, regulations, Executive orders, and agency requirements.</p>
-            <p class="- topic/p " outputclass="List2">(d) Any project labor agreement reached pursuant to this clause does not change the terms of this contract or provide for any price adjustment by the Government.</p>
-            <p class="- topic/p " outputclass="List2">(e) The Contractor shall maintain in a current status throughout the life of the contract the project labor agreement entered into pursuant to this clause.</p>
-            <p class="- topic/p " outputclass="List2">(f) <i class="+ topic/ph hi-d/i ">Subcontracts</i>. The Contractor shall require subcontractors engaged in construction on the construction project to agree to any project labor agreement negotiated by the prime contractor pursuant to this clause, and shall include the substance of paragraphs (d) through (f) of this clause in all subcontracts with subcontractors engaged in construction on the construction project.</p>
+            <p class="- topic/p " outputclass="List1" id="d3351e92">
+               <ph rev="FAC 2024-02 January 22, 2024">(b) The Contractor shall—</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e95">
+               <ph rev="FAC 2024-02 January 22, 2024">(1) Negotiate or become a party to a project labor agreement with one or more labor organizations for the term of this construction contract; and</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e98">
+               <ph rev="FAC 2024-02 January 22, 2024">(2) Submit an executed copy of the project labor agreement to the Contracting Officer as required in the solicitation.</ph>
+            </p>
+            <p outputclass="List1">(c) Consistent with applicable law, the project labor agreement reached pursuant to this clause shall-</p>
+            <p outputclass="List2">(1) Bind the Contractor and all subcontractors engaged in construction on the construction project to comply with the project labor agreement;</p>
+            <p outputclass="List2">(2) Allow the Contractor and all subcontractors to compete for contracts and subcontracts without regard to whether they are otherwise parties to collective bargaining agreements;</p>
+            <p outputclass="List2">(3) Contain guarantees against strikes, lockouts, and similar job disruptions;</p>
+            <p outputclass="List2">(4) Set forth effective, prompt, and mutually binding procedures for resolving labor disputes arising during the project labor agreement;</p>
+            <p outputclass="List2">(5) Provide other mechanisms for labor-management cooperation on matters of mutual interest and concern, including productivity, quality of work, safety, and health; and</p>
+            <p outputclass="List2">(6) Fully conform to all statutes, regulations, Executive orders, and agency requirements.</p>
+            <p outputclass="List2">(d) Any project labor agreement reached pursuant to this clause does not change the terms of this contract or provide for any price adjustment by the Government.</p>
+            <p outputclass="List2">(e) The Contractor shall maintain in a current status throughout the life of the contract the project labor agreement entered into pursuant to this clause.</p>
+            <p outputclass="List2">(f) <i>Subcontracts</i>. The Contractor shall require subcontractors engaged in construction on the construction project to agree to any project labor agreement negotiated by the prime contractor pursuant to this clause, and shall include the substance of paragraphs (d) through (f) of this clause in all subcontracts with subcontractors engaged in construction on the construction project.</p>
+            <?FM MARKER [Alt] End?>
+            <?FM MARKER [Alt] Start?>
+            <p class="- topic/p " id="d3351e127">
+               <ph rev="FAC 2024-02 January 22, 2024"><?FM MARKER [CaseNumber] FAR Case 2022–003?>
+                  <i class="+ topic/ph hi-d/i ">Alternate II </i>
+                  <ph outputclass="SmCaps">(Jan 2024)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                     <xref base="i1097603"
+                           class="- topic/xref "
+                           href="22.505.dita#FAR_22_505"
+                           outputclass="fm:ParaNumOnly">22.505</xref>
+                  </ph>(b)(3), substitute the following paragraphs (b) through (f) for paragraphs (b) through (f) of the basic clause:<?FM MARKER [Why] f. Adding Alternate II.?></ph>
+            </p>
+            <p class="- topic/p " outputclass="List1" id="d3351e140">
+               <ph rev="FAC 2024-02 January 22, 2024">(b) When notified by the agency ( <i>e.g.</i>, by the notice of intent to place an order under <xref href="16.505.dita#FAR_16_505" outputclass="fm:ParaNumOnly">16.505</xref>(b)(1)) that this order will use a project labor agreement, the Contractor shall negotiate or become a party to a project labor agreement with one or more labor organizations for the term of the order. The Contracting Officer shall require that an executed copy of the project labor agreement be submitted to the agency—</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e149">
+               <ph rev="FAC 2024-02 January 22, 2024">(1) With the order offer;</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e152">
+               <ph rev="FAC 2024-02 January 22, 2024">(2) Prior to award of the order; or</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e155">
+               <ph rev="FAC 2024-02 January 22, 2024">(3) After award of the order.</ph>
+            </p>
+            <p class="- topic/p " outputclass="List1" id="d3351e159">
+               <ph rev="FAC 2024-02 January 22, 2024">(c) The project labor agreement reached pursuant to this clause shall—</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e162">
+               <ph rev="FAC 2024-02 January 22, 2024">(1) Bind the Contractor and subcontractors engaged in construction on the construction project to comply with the project labor agreement;</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e165">
+               <ph rev="FAC 2024-02 January 22, 2024">(2) Allow all contractors and subcontractors to compete for contracts and subcontracts without regard to whether they are otherwise parties to collective bargaining agreements;</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e168">
+               <ph rev="FAC 2024-02 January 22, 2024">(3) Contain guarantees against strikes, lockouts, and similar job disruptions;</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e171">
+               <ph rev="FAC 2024-02 January 22, 2024">(4) Set forth effective, prompt, and mutually binding procedures for resolving labor disputes arising during the term of the project labor agreement;</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e174">
+               <ph rev="FAC 2024-02 January 22, 2024">(5) Provide other mechanisms for labor-management cooperation on matters of mutual interest and concern, including productivity, quality of work, safety, and health; and</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e177">
+               <ph rev="FAC 2024-02 January 22, 2024">(6) Fully conform to all statutes, regulations, Executive orders, and agency requirements.</ph>
+            </p>
+            <p class="- topic/p " outputclass="List1" id="d3351e180">
+               <ph rev="FAC 2024-02 January 22, 2024">(d) Any project labor agreement reached pursuant to this clause does not change the terms of this contract or provide for any price adjustment by the Government.</ph>
+            </p>
+            <p class="- topic/p " outputclass="List1" id="d3351e183">
+               <ph rev="FAC 2024-02 January 22, 2024">(e) The Contractor shall maintain in a current status throughout the life of the order any project labor agreement entered into pursuant to this clause.</ph>
+            </p>
+            <p class="- topic/p " outputclass="List1" id="d3351e186">
+               <ph rev="FAC 2024-02 January 22, 2024">(f) <i>Subcontracts</i>. For each order that uses a project labor agreement, the Contractor shall—</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e192">
+               <ph rev="FAC 2024-02 January 22, 2024">(1) Require subcontractors engaged in construction on the construction project to agree to any project labor agreement negotiated by the prime contractor pursuant to this clause; and</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2" id="d3351e196">
+               <ph rev="FAC 2024-02 January 22, 2024">(2) Include the substance of paragraphs (d) through (f) of this clause in subcontracts with subcontractors engaged in construction on the construction project.</ph>
+            </p>
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>
