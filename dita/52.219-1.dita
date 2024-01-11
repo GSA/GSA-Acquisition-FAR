@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="FAR_52_219_1" xtrc="GFI VFI">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">52.219-1</ph> Small Business Program
+      <title>
+         <ph props="autonumber">52.219-1</ph> Small Business Program
 Representations.</title>
       <conbody>
          <p class="- topic/p " id="d3273e8">As prescribed in <ph outputclass="ClauseProvisionXREF">
@@ -12,7 +12,7 @@ Representations.</title>
                      href="19.309.dita#FAR_19_309"
                      outputclass="fm:ParaNumOnly">19.309</xref>(a)(1)</ph>, insert
 the following provision:</p>
-         <p class="- topic/p " id="d3274e15" outputclass="Ctr_SmCaps">
+         <p id="d3274e15" outputclass="Ctr_SmCaps">
             Small
             Business Program Representations (Sep
             2023)
@@ -20,7 +20,7 @@ the following provision:</p>
          <ol id="d3237e25">
             <li>
                <p class="- topic/p " id="d3273e19">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <ph props="autonumber" class="- topic/ph " platform="hide">(a)</ph>
                   <i>Definitions</i>.
 As used in this provision-</p>
                <p class="- topic/p " id="d3273e25">
@@ -42,59 +42,100 @@ As used in this provision-</p>
                      Program.
                </p>
                <p class="- topic/p " id="d3273e32">
-                  <i outputclass="Term" xtrf="_52.219-1" xtrc="d3269e45">Service-disabled veteran-owned small business
-concern</i>-<ol id="d3237e50">
+                  <i outputclass="Term" xtrf="_52.219-1" xtrc="d3269e45">Service-disabled veteran-owned
+                  small business (SDVOSB) concern</i>-<ol id="d3237e50">
                      <li>
                         <p class="- topic/p " id="d3273e38">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                           
-                           
-                            Means a small business concern-</p>
+                           <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph>  Means a small business
+                        concern-</p>
                         <ol id="d3237e60">
-                           <li>
+                           <li props="Runin">
                               <p class="- topic/p " id="d3273e44">
-                                 <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                                 
-                                 
-                                  Not
-less than 51 percent of which is owned by one or more service-disabled
-veterans or, in the case of any publicly owned business, not less
-than 51 percent of the stock of which is owned by one or more service-disabled
-veterans; and</p>
+                                 <ph props="autonumber" class="- topic/ph " platform="hide">(i)</ph>
+                              </p>
+                              <ol>
+                                 <li>
+                                    <p class="- topic/p " id="d3282e52">
+                                       <ph props="autonumber" class="- topic/ph " platform="hide">(A)</ph> Not less than 51
+                                    percent of which is owned and controlled by
+                                    one or more service-disabled veterans or, in
+                                    the case of any publicly owned business, not
+                                    less than 51 percent of the stock of which
+                                    is owned by one or more service-disabled
+                                    veterans; and</p>
+                                 </li>
+                                 <li>
+                                    <p class="- topic/p " id="d3282e57">
+                                       <ph props="autonumber" class="- topic/ph " platform="hide">(B)</ph> The management and
+                                    daily business operations of which are
+                                    controlled by one or more service-disabled
+                                    veterans or, in the case of a
+                                    service-disabled veteran with permanent and
+                                    severe disability, the spouse or permanent
+                                    caregiver of such veteran or;</p>
+                                 </li>
+                              </ol>
                            </li>
                            <li>
                               <p class="- topic/p " id="d3273e49">
-                                 <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                                 
-                                 
-                                  The management
-and daily business operations of which are controlled by one or
-more service-disabled veterans or, in the case of a service-disabled
-veteran with permanent and severe disability, the spouse or permanent
-caregiver of such veteran.</p>
+                                 <ph props="autonumber" class="- topic/ph " platform="hide">(ii)</ph> A small business concern
+                              eligible under the SDVOSB Program in accordance
+                              with 13 CFR part 128 (see subpart <xref href="Subpart_19.14.dita#FAR_Subpart_19_14"
+                                       outputclass="fm:ParaNumOnly">19.14</xref>)</p>
                            </li>
                         </ol>
                      </li>
                      <li>
                         <p class="- topic/p " id="d3273e54">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                           
-                           
-                            "Service-disabled
-veteran" means a veteran, as defined in <xref format="html"
+                           <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>
+                           <i>Service-disabled
+                        veteran</i>, as used in this definition, means a veteran
+                        as defined in <xref format="html"
                                  href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                 scope="external">38 U.S.C.101(2)</xref>, with
-a disability that is service-connected, as defined in <xref format="html"
+                                 scope="external">38 U.S.C.101(2)</xref>, with a
+                        disability that is service-connected, as defined in <xref format="html"
                                  href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                                 scope="external">38 U.S.C.101(16)</xref>.</p>
+                                 scope="external">38 U.S.C.101(16)</xref>, with a
+                        disability that is service-connected, as defined in 38
+                        U.S.C. 101(16), and who is registered in the Beneficiary
+                        Identification and Records Locator Subsystem, or
+                        successor system that is maintained by the Department of
+                        Veterans Affairs’ Veterans Benefits Administration, as a
+                        service-disabled veteran.</p>
                      </li>
                   </ol>
                </p>
+               <p class="- topic/p " id="d3282e82">
+                  <i outputclass="Term" xtrf="_52.219-1" xtrc="d1e116">Service-disabled veteran-owned small
+                  business (SDVOSB) concern eligible under the SDVOSB
+                  Program</i> means an SDVOSB concern that—<ol>
+                     <li>
+                        <p class="- topic/p " id="d3282e88">
+                           <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph> Effective January 1, 2024, is
+                        designated in the System for Award Management (SAM) as
+                        certified by the Small Business Administration (SBA) in
+                        accordance with 13 CFR 128.300; or</p>
+                     </li>
+                     <li>
+                        <p class="- topic/p " id="d3282e93">
+                           <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph> Has represented that it is an SDVOSB concern in SAM and
+                        submitted a complete application for certification to
+                        SBA on or before December 31, 2023.</p>
+                     </li>
+                  </ol>
+               </p>
+               <p class="- topic/p " id="d3282e97">
+                  <i outputclass="Term" xtrf="_52.219-1" xtrc="d1e139">Service-disabled veteran-owned small
+                  business (SDVOSB) Program</i> means a program that authorizes
+                  contracting officers to limit competition, including award on
+                  a sole-source basis, to SDVOSB concerns eligible under the
+                  SDVOSB Program.</p>
                <p class="- topic/p " id="d3273e64">
                   <i outputclass="Term" xtrf="_52.219-1" xtrc="d3269e99">Small business concern</i>— <ol>
                      <li>
                         <p class="- topic/p " id="d3273e70">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                           <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph>
+                           
                            
                            
                            Means
@@ -111,7 +152,7 @@ a disability that is service-connected, as defined in <xref format="html"
                      </li>
                      <li>
                         <p class="- topic/p " id="d3273e75">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                           <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>
                            <i>Affiliates</i>,
 as used in this definition, means business concerns, one of whom
 directly or indirectly controls or has the power to control the
@@ -132,13 +173,15 @@ affiliation based on the factors set forth at 13 CFR 121.103.</p>
                   applicable to the acquisition, that-<ol id="d3237e104">
                      <li>
                         <p class="- topic/p " id="d3273e90">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                           <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph>
+                           
                             Is at least 51 percent
                         unconditionally and directly owned (as defined at <ph outputclass="CFR">13 CFR 124.105</ph>) by-</p>
                         <ol id="d3237e114">
                            <li>
                               <p class="- topic/p " id="d3273e99">
-                                 <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                 <ph props="autonumber" class="- topic/ph " platform="hide">(i)</ph>
+                                 
                                   One or more socially
                               disadvantaged (as defined at <ph outputclass="CFR">13 CFR 124.103</ph>) and
                               economically disadvantaged (as defined at <ph outputclass="CFR">13 CFR 124.104</ph>) individuals
@@ -146,7 +189,8 @@ affiliation based on the factors set forth at 13 CFR 121.103.</p>
                            </li>
                            <li>
                               <p class="- topic/p " id="d3273e110">
-                                 <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                 <ph props="autonumber" class="- topic/ph " platform="hide">(ii)</ph>
+                                 
                                   Each individual
                               claiming economic disadvantage has a net worth not
                               exceeding the
@@ -160,7 +204,8 @@ affiliation based on the factors set forth at 13 CFR 121.103.</p>
                      </li>
                      <li>
                         <p class="- topic/p " id="d3273e118">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                           <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>
+                           
                             The management and daily
                         business operations of which are controlled (as defined
                         at <ph outputclass="CFR">13 CFR 124.106</ph>) by individuals
@@ -175,7 +220,8 @@ a small business concern-</p>
                <ol id="d3237e149">
                   <li>
                      <p class="- topic/p " id="d3273e131">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph>
+                        
                         
                         
                          Not less
@@ -188,7 +234,8 @@ of the stock of which is owned by one or more veterans; and</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e139">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>
+                        
                         
                         
                          The management
@@ -202,7 +249,8 @@ concern</i> means a small business concern-</p>
                <ol id="d3237e221">
                   <li>
                      <p class="- topic/p " id="d3273e149">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph>
+                        
                         
                         
                          That is
@@ -212,7 +260,8 @@ of which is owned by one or more women; and</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e154">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>
+                        
                         
                         
                          Whose
@@ -238,12 +287,13 @@ more women.</p>
             </li>
             <li props="Runin">
                <p class="- topic/p " id="d3273e163">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <ph props="autonumber" class="- topic/ph " platform="hide">(b)</ph>
                </p>
                <ol id="d3237e257">
                   <li>
                      <p class="- topic/p " id="d3273e168">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph>
+                        
                          The North American Industry
                         Classification System (NAICS) code for this acquisition
                         is <cite outputclass="SingleLine" xtrc="52.219-1_d3261e213" xtrf="GFI">________ [<i>insert NAICS
@@ -251,20 +301,23 @@ more women.</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e179">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>
+                        
                          The small business size
                         standard is <cite outputclass="SingleLine" xtrc="52.219-1_d3261e225" xtrf="GFI">_______ [<i>insert size
                         standard</i>]</cite>.</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e190">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(3)</ph>
+                        
                         
                          The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce (<i>i.e.</i>, nonmanufacturer), is 500 employees, or 150 employees for information technology value-added resellers under NAICS code 541519, if the acquisition—</p>
                      <ol>
                         <li>
                            <p class="- topic/p " id="d3273e199">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              <ph props="autonumber" class="- topic/ph " platform="hide">(i)</ph>
+                              
                               
                               
                               Is set
@@ -273,7 +326,8 @@ threshold;</p>
                         </li>
                         <li>
                            <p class="- topic/p " id="d3273e204">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              <ph props="autonumber" class="- topic/ph " platform="hide">(ii)</ph>
+                              
                               
                               
                               Uses the
@@ -282,7 +336,8 @@ unless the offeror waives the price evaluation preference; or</p>
                         </li>
                         <li>
                            <p class="- topic/p " id="d3273e209">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              <ph props="autonumber" class="- topic/ph " platform="hide">(iii)</ph>
+                              
                               
                               
                               Is an
@@ -296,13 +351,14 @@ award regardless of dollar value.</p>
             </li>
             <li props="Runin">
                <p class="- topic/p " id="d3273e214">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <ph props="autonumber" class="- topic/ph " platform="hide">(c)</ph>
                   <i>Representations.</i>
                </p>
                <ol id="d3237e296">
                   <li>
                      <p class="- topic/p " id="d3273e221">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph>
+                        
                         
                         
                         The
@@ -312,13 +368,15 @@ award regardless of dollar value.</p>
                      <ol>
                         <li>
                            <p class="- topic/p " id="d3274e238">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              <ph props="autonumber" class="- topic/ph " platform="hide">(i)</ph>
+                              
                                 it <cite outputclass="Checkbox" xtrc="52.219-1_d119e189" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e192" xtrf="VFI">□</cite> is not a small business
                               concern; or</p>
                         </li>
                         <li>
                            <p class="- topic/p " id="d3274e249">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              <ph props="autonumber" class="- topic/ph " platform="hide">(ii)</ph>
+                              
                                It <cite outputclass="Checkbox" xtrc="52.219-1_d1e366" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d1e369" xtrf="VFI">□</cite> is not a small business joint
                               venture that complies with the requirements of <xref format="html"
                                     href="https://www.ecfr.gov/current/title-13/section-121.103#p-121.103(h)"
@@ -335,7 +393,8 @@ award regardless of dollar value.</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e232">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>
+                        
                          [<i>Complete only if the
                         offeror represented itself as a small business concern
                         in paragraph (c)(1) of this provision.</i>] The offeror
@@ -347,7 +406,8 @@ award regardless of dollar value.</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e249">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> [<i>Complete only if the
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(3)</ph>
+                         [<i>Complete only if the
                         offeror represented itself as a small business concern
                         in paragraph (c)(1) of this provision.]</i> The offeror
                         represents as part of its offer that it <cite outputclass="Checkbox" xtrc="52.219-1_d119e214" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e217" xtrf="VFI">□</cite> is not a women-owned small business
@@ -355,7 +415,7 @@ award regardless of dollar value.</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e263">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(4)</ph>
                         <i>Women-owned small
                         business (WOSB) joint venture eligible under the WOSB
                         Program.</i> The offeror represents as part of its offer
@@ -371,7 +431,7 @@ award regardless of dollar value.</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e297">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(5)</ph>
                         <i>Economically
                         disadvantaged women-owned small business (EDWOSB) joint
                         venture.</i> The offeror represents as part of its offer
@@ -384,7 +444,8 @@ award regardless of dollar value.</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e331">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph> [<i>Complete only if the
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(6)</ph>
+                         [<i>Complete only if the
                         offeror represented itself as a small business concern
                         in paragraph (c)(1) of this provision.</i>] The offeror
                         represents as part of its offer that it <cite outputclass="Checkbox" xtrc="52.219-1_d55e281" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d55e284" xtrf="VFI">□</cite> is not a veteran-owned small
@@ -392,7 +453,8 @@ award regardless of dollar value.</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e345">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(7)</ph>
+                        
                         
                          [<i>Complete only if the
                            offeror represented itself as a veteran-owned small
@@ -402,12 +464,14 @@ award regardless of dollar value.</p>
                      <ol>
                         <li>
                            <p class="- topic/p " id="d3274e418">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox" xtrc="52.219-1_d55e292" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d55e295" xtrf="VFI">□</cite> is not a service-disabled
+                              <ph props="autonumber" class="- topic/ph " platform="hide">(i)</ph>
+                               It <cite outputclass="Checkbox" xtrc="52.219-1_d55e292" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d55e295" xtrf="VFI">□</cite> is not a service-disabled
                               veteran-owned small business concern; or </p>
                         </li>
                         <li>
                            <p class="- topic/p " id="d3274e429">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox" xtrc="52.219-1_d1e595" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d1e598" xtrf="VFI">□</cite> is not a service-disabled
+                              <ph props="autonumber" class="- topic/ph " platform="hide">(ii)</ph>
+                               It <cite outputclass="Checkbox" xtrc="52.219-1_d1e595" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d1e598" xtrf="VFI">□</cite> is not a service-disabled
                               veteran-owned joint venture that complies with the
                               requirements of <xref format="html"
                                     href="https://www.ecfr.gov/current/title-13/section-125.18#p-125.18(b)(1)"
@@ -426,7 +490,8 @@ award regardless of dollar value.</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e359">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(8)</ph>
+                        
                         
                         
                          [<i>Complete
@@ -436,7 +501,8 @@ as part of its offer, that-</p>
                      <ol id="d3237e442">
                         <li>
                            <p class="- topic/p " id="d3273e368">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> It <cite outputclass="Checkbox" xtrc="52.219-1_d1e583" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e315" xtrf="VFI">□</cite> is not a HUBZone small
+                              <ph props="autonumber" class="- topic/ph " platform="hide">(i)</ph>
+                               It <cite outputclass="Checkbox" xtrc="52.219-1_d1e583" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e315" xtrf="VFI">□</cite> is not a HUBZone small
                               business concern listed, on the date of this
                               representation, as having been certified by SBA as
                               a HUBZone small business concern in the Dynamic
@@ -449,7 +515,8 @@ as part of its offer, that-</p>
                         </li>
                         <li>
                            <p class="- topic/p " id="d3273e382">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> It <cite outputclass="Checkbox" xtrc="52.219-1_d119e326" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e329" xtrf="VFI">□</cite> is not a HUBZone joint venture
+                              <ph props="autonumber" class="- topic/ph " platform="hide">(ii)</ph>
+                               It <cite outputclass="Checkbox" xtrc="52.219-1_d119e326" xtrf="VFI">□</cite> is, <cite outputclass="Checkbox" xtrc="52.219-1_d119e329" xtrf="VFI">□</cite> is not a HUBZone joint venture
                               that complies with the requirements of <xref format="html"
                                     href="https://www.ecfr.gov/current/title-13/section-126.616#p-126.616(a)"
                                     scope="external">13 CFR 126.616(a)</xref> through <xref format="html"
@@ -468,7 +535,7 @@ as part of its offer, that-</p>
             </li>
             <li>
                <p class="- topic/p " id="d3273e399">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  <ph props="autonumber" class="- topic/ph " platform="hide">(d)</ph>
                   <i>Notice.</i> Under <xref format="html"
                         href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         scope="external">15 U.S.C.645(d)</xref>, any
@@ -483,7 +550,8 @@ other provision of Federal law that specifically references section
                <ol id="d3237e474">
                   <li>
                      <p class="- topic/p " id="d3273e410">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph>
+                        
                         
                         
                          Be
@@ -491,7 +559,8 @@ punished by imposition of fine, imprisonment, or both;</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e415">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>
+                        
                         
                         
                          Be subject
@@ -500,7 +569,8 @@ and</p>
                   </li>
                   <li>
                      <p class="- topic/p " id="d3273e420">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        <ph props="autonumber" class="- topic/ph " platform="hide">(3)</ph>
+                        
                         
                         
                          Be ineligible
