@@ -1,137 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="lsa-d1e11">
-      <title class="- topic/title ">List of Sections Affected</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <table frame="all"
-                colsep="1"
-                rowsep="1"
-                class="- topic/table "
-                otherprops="LSA">
-            <title class="- topic/title ">FAC 2024-02 January 22, 2024</title>
-            <tgroup cols="3"
-                    colsep="1"
-                    rowsep="1"
-                    outputclass="Title_rule"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="32*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="50*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="18*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <thead class="- topic/thead ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">Section</entry>
-                     <entry colname="2" class="- topic/entry ">Description of
-												Change</entry>
-                     <entry colname="3" class="- topic/entry ">Case
-												Number</entry>
-                  </row>
-               </thead>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="1.106.dita#FAR_1_106"
-                              class="- topic/xref ">1.106</xref>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><concept id="lsa-d1e11" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept "><title class="- topic/title ">List of Sections Affected</title><conbody class="- topic/body  concept/conbody "><table frame="all" colsep="1" rowsep="1" class="- topic/table " otherprops="LSA"><title class="- topic/title ">FAC 2024-02 January 22, 2024</title><tgroup cols="3" colsep="1" rowsep="1" outputclass="Title_rule" class="- topic/tgroup "><colspec colnum="1" colname="1" colwidth="32*" class="- topic/colspec " rowheader="headers"/><colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec " rowheader="headers"/><colspec colnum="3" colname="3" colwidth="18*" class="- topic/colspec " rowheader="headers"/><thead class="- topic/thead "><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry ">Section</entry><entry colname="2" class="- topic/entry ">Description of
+												Change</entry><entry colname="3" class="- topic/entry ">Case
+												Number</entry></row></thead><tbody class="- topic/tbody "><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly" href="1.106.dita#FAR_1_106" class="- topic/xref ">1.106</xref>
+                     </entry><entry colname="2" class="- topic/entry ">
                         <p outputclass="List1" class="- topic/p ">In section 1.106 amend the table by: </p>
                         <p outputclass="List2" class="- topic/p ">a. Removing the entry for FAR segment “22.5”; and </p>
                         <p outputclass="List2" class="- topic/p ">b. Adding in numerical order entries for “52.222–33” and “52.222–34”.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-2">FAR Case 2022-003</xref> </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="7.103.dita#FAR_7_103"
-                              class="- topic/xref ">7.103</xref>
-                        <xref outputclass="fm:List"
-                              href="7.103.dita#FAR_7_103/d416e253"
-                              class="- topic/xref ">(x)</xref>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     </entry><entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-2" class="- topic/xref ">FAR Case 2022-003</xref> </entry></row><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly" href="7.103.dita#FAR_7_103" class="- topic/xref ">7.103</xref>
+                        <xref outputclass="fm:List" href="7.103.dita#FAR_7_103/d416e253" class="- topic/xref ">(x)</xref>
+                     </entry><entry colname="2" class="- topic/entry ">
                         <p outputclass="List1" class="- topic/p ">Amend section 7.103 by revising paragraph (x).</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-5">FAR Case 2022–003</xref> </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="22.501.dita#FAR_22_501"
-                              class="- topic/xref ">22.501</xref>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     </entry><entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-5" class="- topic/xref ">FAR Case 2022–003</xref> </entry></row><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly" href="22.501.dita#FAR_22_501" class="- topic/xref ">22.501</xref>
+                     </entry><entry colname="2" class="- topic/entry ">
                         <p outputclass="List1" class="- topic/p ">Revise section 22.501.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-7">FAR Case 2022–003</xref> </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> <xref outputclass="fm:ParaNumOnly" href="22.502.dita#FAR_22_502" class="- topic/xref ">22.502</xref>, definitions, "<xref href="22.502.dita#FAR_22_502/d1367e10" outputclass="fm:TEXT">Construction</xref>", “<xref href="22.502.dita#FAR_22_502/d1367e17" outputclass="fm:TEXT">Labor organization</xref>”, and “<xref href="22.502.dita#FAR_22_502/d1367e27" outputclass="fm:TEXT">Large-scale construction project</xref>”</entry>
-                     <entry colname="2" class="- topic/entry ">
+                     </entry><entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-7" class="- topic/xref ">FAR Case 2022–003</xref> </entry></row><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry "> <xref outputclass="fm:ParaNumOnly" href="22.502.dita#FAR_22_502" class="- topic/xref ">22.502</xref>, definitions, "<xref href="22.502.dita#FAR_22_502/d1367e10" outputclass="fm:TEXT" class="- topic/xref ">Construction</xref>", “<xref href="22.502.dita#FAR_22_502/d1367e17" outputclass="fm:TEXT" class="- topic/xref ">Labor organization</xref>”, and “<xref href="22.502.dita#FAR_22_502/d1367e27" outputclass="fm:TEXT" class="- topic/xref ">Large-scale construction project</xref>”</entry><entry colname="2" class="- topic/entry ">
                         <p outputclass="List1" class="- topic/p ">Amend section 22.502 by revising the definitions of “Construction”, “Labor organization”, and “Large-scale construction project”.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <xref format="html"
-                              scope="external"
-                              href="http://www.federalregister.gov/d//p-amd-Amendsection22">FAR Case 2022–003</xref>
-                     </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> <xref outputclass="fm:ParaNumOnly" href="22.503.dita#FAR_22_503" class="- topic/xref ">22.503</xref> </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     </entry><entry colname="3" class="- topic/entry ">
+                        <xref format="html" scope="external" href="http://www.federalregister.gov/d//p-amd-Amendsection22" class="- topic/xref ">FAR Case 2022–003</xref>
+                     </entry></row><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry "> <xref outputclass="fm:ParaNumOnly" href="22.503.dita#FAR_22_503" class="- topic/xref ">22.503</xref> </entry><entry colname="2" class="- topic/entry ">
                         <p outputclass="List1" class="- topic/p ">Revise section 22.503.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-8">FAR Case 2022–003</xref> </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <xref outputclass="fm:ParaNumOnly"
-                              href="22.504.dita#FAR_22_504"
-                              class="- topic/xref ">22.504</xref>
-                        <xref outputclass="fm:List"
-                              href="22.504.dita#FAR_22_504/d1366e17"
-                              class="- topic/xref ">(b)</xref>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     </entry><entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-8" class="- topic/xref ">FAR Case 2022–003</xref> </entry></row><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly" href="22.504.dita#FAR_22_504" class="- topic/xref ">22.504</xref>
+                        <xref outputclass="fm:List" href="22.504.dita#FAR_22_504/d1366e17" class="- topic/xref ">(b)</xref>
+                     </entry><entry colname="2" class="- topic/entry ">
                         <p outputclass="List1" class="- topic/p ">Amend section 22.504 by— </p>
                         <p outputclass="List2" class="- topic/p ">a. Removing from paragraph (b) introductory text the words “The project” and adding the words “A project” in their place;</p>
-                        <p outputclass="List2">b. Revising paragraph (c); and</p>
-                        <p outputclass="List2">c. Adding paragraph (d).</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-9">FAR Case 2022–003</xref> </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> <xref outputclass="fm:ParaNumOnly" href="22.505.dita#FAR_22_505" class="- topic/xref ">22.505</xref> </entry>
-                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="List2" class="- topic/p ">b. Revising paragraph (c); and</p>
+                        <p outputclass="List2" class="- topic/p ">c. Adding paragraph (d).</p>
+                     </entry><entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-9" class="- topic/xref ">FAR Case 2022–003</xref> </entry></row><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry "> <xref outputclass="fm:ParaNumOnly" href="22.505.dita#FAR_22_505" class="- topic/xref ">22.505</xref> </entry><entry colname="2" class="- topic/entry ">
                         <p outputclass="List1" class="- topic/p ">Revise section 22.505.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-13">FAR Case 2022–003</xref> </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> <xref outputclass="fm:ParaNumOnly" href="36.104.dita#FAR_36_104" class="- topic/xref ">36.104</xref> <xref outputclass="fm:TEXT" href="36.104.dita#FAR_36_104/d2297e69" class="- topic/xref "> (c)</xref> </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     </entry><entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-13" class="- topic/xref ">FAR Case 2022–003</xref> </entry></row><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry "> <xref outputclass="fm:ParaNumOnly" href="36.104.dita#FAR_36_104" class="- topic/xref ">36.104</xref> <xref outputclass="fm:TEXT" href="36.104.dita#FAR_36_104/d2297e69" class="- topic/xref "> (c)</xref> </entry><entry colname="2" class="- topic/entry ">
                         <p outputclass="List1" class="- topic/p ">Amend section 36.104 by adding paragraph (c).</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-14">FAR Case 2022–003</xref> </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> <xref outputclass="fm:ParaNumOnly" href="52.222-33.dita#FAR_52_222_33" class="- topic/xref ">52.222-33</xref>,<xref outputclass="fm:List" href="52.222-33.dita#FAR_52_222_33/d3341e21" class="- topic/xref ">(a)</xref>,<xref outputclass="fm:List" href="52.222-33.dita#FAR_52_222_33/d3341e28" class="- topic/xref ">(b)</xref>,<xref outputclass="fm:List" href="52.222-33.dita#FAR_52_222_33/d3341e33" class="- topic/xref ">(c)</xref>,<xref outputclass="fm:List" href="52.222-33.dita#FAR_52_222_33/d3341e39" class="- topic/xref "> (c)(1)</xref>,<xref outputclass="fm:List" href="52.222-33.dita#FAR_52_222_33/d3341e44" class="- topic/xref "> (c)(2)</xref>,<xref outputclass="fm:List" href="52.222-33.dita#FAR_52_222_33/d3341e69" class="- topic/xref ">(d)</xref>,<xref outputclass="fm:List" href="52.222-33.dita#FAR_52_222_33/d3341e74" class="- topic/xref ">(e)</xref>; aand <xref href="52.222-33.dita#FAR_52_222_33/d3344e80"
-                        outputclass="fm:TEXT">Alternate I</xref> paragraph <xref href="52.222-33.dita#FAR_52_222_33/d3350e126" outputclass="fm:TEXT">(b)</xref>, <xref href="52.222-33.dita#FAR_52_222_33/d3337e98" outputclass="fm:TEXT">Alternate II</xref> paragraph <xref href="52.222-33.dita#FAR_52_222_33/d3350e154" outputclass="fm:TEXT">(b)</xref>, and , <xref href="52.222-33.dita#FAR_52_222_33/d3350e168" outputclass="fm:TEXT">Alternate III</xref></entry>
-                     <entry colname="2" class="- topic/entry ">
+                     </entry><entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-14" class="- topic/xref ">FAR Case 2022–003</xref> </entry></row><row rowsep="1" class="- topic/row "><entry
+                        colname="1"
+                        class="- topic/entry "> <xref
+                        outputclass="fm:ParaNumOnly"
+                        href="52.222-33.dita#FAR_52_222_33"
+                        class="- topic/xref ">52.222-33</xref>,<xref
+                        outputclass="fm:List"
+                        href="52.222-33.dita#FAR_52_222_33/d3341e21"
+                        class="- topic/xref ">(a)</xref>,<xref
+                        outputclass="fm:List"
+                        href="52.222-33.dita#FAR_52_222_33/d3341e28"
+                        class="- topic/xref ">(b)</xref>,<xref
+                        outputclass="fm:List"
+                        href="52.222-33.dita#FAR_52_222_33/d3341e33"
+                        class="- topic/xref ">(c)</xref>,<xref
+                        outputclass="fm:List"
+                        href="52.222-33.dita#FAR_52_222_33/d3341e39"
+                        class="- topic/xref "> (c)(1)</xref>,<xref
+                        outputclass="fm:List"
+                        href="52.222-33.dita#FAR_52_222_33/d3341e44"
+                        class="- topic/xref "> (c)(2)</xref>,<xref
+                        outputclass="fm:List"
+                        href="52.222-33.dita#FAR_52_222_33/d3341e69"
+                        class="- topic/xref ">(d)</xref>,<xref
+                        outputclass="fm:List"
+                        href="52.222-33.dita#FAR_52_222_33/d3341e74"
+                        class="- topic/xref ">(e)</xref>; and <xref
+                        href="52.222-33.dita#FAR_52_222_33/d3344e80"
+                        outputclass="fm:TEXT"
+                        class="- topic/xref ">Alternate I</xref> paragraph <xref
+                        href="52.222-33.dita#FAR_52_222_33/d3350e126"
+                        outputclass="fm:TEXT"
+                        class="- topic/xref ">(b)</xref>, <xref
+                        href="52.222-33.dita#FAR_52_222_33/d3337e98"
+                        outputclass="fm:TEXT"
+                        class="- topic/xref ">Alternate II</xref> paragraph <xref
+                        href="52.222-33.dita#FAR_52_222_33/d3350e154"
+                        outputclass="fm:TEXT"
+                        class="- topic/xref ">(b)</xref>, and , <xref
+                        href="52.222-33.dita#FAR_52_222_33/d3350e168"
+                        outputclass="fm:TEXT"
+                        class="- topic/xref ">Alternate III</xref></entry><entry colname="2" class="- topic/entry ">
                         <p outputclass="List1" class="- topic/p ">Amend section 52.222–33 by—   a. Revising the date of the provision;</p>
                         <p outputclass="List2" class="- topic/p ">b. Revising paragraphs (a) and (b);</p>
                         <p outputclass="List2" class="- topic/p ">c. Removing from paragraph (c) introductory text “Consistent with applicable law, the project” and adding “The project” in its place;</p>
@@ -147,24 +93,38 @@
                         <p outputclass="List3" class="- topic/p ">ii. Removing from the introductory text “22.505(a)(2)” and “clause” and adding “22.505(a)(3)” and “provision” in their places, respectively; and</p>
                         <p outputclass="List3" class="- topic/p ">iii. Revising paragraph (b); and</p>
                         <p outputclass="List2" class="- topic/p ">j. Adding Alternate III.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-15">FAR Case 2022–003</xref> </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry "> <xref outputclass="fm:ParaNumOnly" href="52.222-34.dita#FAR_52_222_34" class="- topic/xref ">52.222-34</xref>,<xref outputclass="fm:List" href="52.222-34.dita#FAR_52_222_34/d3342e21" class="- topic/xref ">(a)</xref>,<xref outputclass="fm:List" href="52.222-34.dita#FAR_52_222_34/d3342e42" class="- topic/xref ">(b)</xref>,<xref outputclass="fm:List" href="52.222-34.dita#FAR_52_222_34/d3342e50" class="- topic/xref ">(c)</xref>; and <xref href="52.222-34.dita#FAR_52_222_34/d3351e127" outputclass="fm:TEXT">Alternate II</xref></entry>
-                     <entry colname="2" class="- topic/entry ">
+                     </entry><entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-15" class="- topic/xref ">FAR Case 2022–003</xref> </entry></row><row rowsep="1" class="- topic/row "><entry
+                        colname="1"
+                        class="- topic/entry "> <xref
+                        outputclass="fm:ParaNumOnly"
+                        href="52.222-34.dita#FAR_52_222_34"
+                        class="- topic/xref ">52.222-34</xref>,<xref
+                        outputclass="fm:List"
+                        href="52.222-34.dita#FAR_52_222_34/d3342e21"
+                        class="- topic/xref ">(a)</xref>,<xref
+                        outputclass="fm:List"
+                        href="52.222-34.dita#FAR_52_222_34/d3342e42"
+                        class="- topic/xref ">(b)</xref>, and <xref
+                        outputclass="fm:List"
+                        href="52.222-34.dita#FAR_52_222_34/d3342e50"
+                        class="- topic/xref ">(c)</xref>;  Alternate I paragraphs (b), (c), (c)(1), and (c)(4); and <xref
+                        href="52.222-34.dita#FAR_52_222_34/d3351e127"
+                        outputclass="fm:TEXT"
+                        class="- topic/xref ">Alternate II</xref></entry><entry colname="2" class="- topic/entry ">
                         <p outputclass="List1" class="- topic/p ">Amend section 52.222–34 by— </p>
                         <p outputclass="List2" class="- topic/p ">a. Revising the date of the clause;</p>
                         <p outputclass="List2" class="- topic/p ">b. Adding in alphabetical order definitions for “Construction” and “Large-scale construction project” and revising the definition “Labor organization” in paragraph (a);</p>
                         <p outputclass="List2" class="- topic/p ">c. Removing from paragraph (b) “this contract in accordance with solicitation provision 52.222–33, Notice of Requirement for Project Labor Agreement” and adding “the contract” in its place;</p>
                         <p outputclass="List2" class="- topic/p ">d. Removing from paragraph (c) “all subcontracts” and adding “subcontracts” in its place;</p>
+                        <p
+                           outputclass="List2">e. In Alternate I: </p>
+                        <p
+                           outputclass="List3">i. Revising the date and paragraph (b); </p>
+                        <p
+                           outputclass="List3">ii. Removing from paragraph (c) introductory text “Consistent with applicable law, the project” and adding “The project” in its place; </p>
+                        <p
+                           outputclass="List3">iii. Removing from paragraph (c)(1) “and all” and adding “and” in its place; </p>
+                        <p
+                           outputclass="List3">iv. Removing from paragraph (c)(4) “the project” and adding “the term of the project” in its place; and v. Removing from paragraph (f) “clause in all subcontracts” and adding “clause in subcontracts” in its place; and</p>
                         <p outputclass="List2" class="- topic/p ">f. Adding Alternate II.</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-32">FAR Case 2022–003</xref> </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-      </conbody>
-   </concept>
-</dita>
+                     </entry><entry colname="3" class="- topic/entry "> <xref format="html" scope="external" href="https://www.federalregister.gov/d/2023-27736/p-amd-32" class="- topic/xref ">FAR Case 2022–003</xref> </entry></row></tbody></tgroup></table></conbody></concept></dita>
