@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_52_247_62"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept "
@@ -21,7 +20,7 @@
          <ol id="d3696e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p " id="d3740e21">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <ph platform="hide" props="autonumber" class="- topic/ph ">(a)</ph>
 						            For	the purpose of evaluating "f.o.b. destination" offers, the Government	estimates that the quantity specified will be shipped to the destinations	indicated:</p>
                <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
                   <tgroup cols="2"
@@ -73,12 +72,18 @@
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p outputclass="Ctr" class="- topic/p ">
-                                 <cite xtrc="52.247-62_d49e47" class="- topic/cite " xtrf="GFI">_______________</cite>
+                                 <cite xtrc="52.247-62_d49e47"
+                                       class="- topic/cite "
+                                       xtrf="GFI"
+                                       outputclass="MultiLine">_______________</cite>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p outputclass="Ctr" class="- topic/p ">
-                                 <cite xtrc="52.247-62_d49e51" class="- topic/cite " xtrf="GFI">_______________</cite>
+                                 <cite xtrc="52.247-62_d49e51"
+                                       class="- topic/cite "
+                                       xtrf="GFI"
+                                       outputclass="MultiLine">_______________</cite>
                               </p>
                            </entry>
                         </row>
@@ -88,7 +93,7 @@
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3740e54">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <ph platform="hide" props="autonumber" class="- topic/ph ">(b)</ph>
 						            If the quantity	shipped to each destination varies from the quantity estimated,	and if the variation results in a change in the transportation costs,	appropriate adjustment shall be- made.</p>
             </li>
          </ol>
