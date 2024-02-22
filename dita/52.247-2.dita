@@ -2,11 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="FAR_52_247_2"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            xtrc="VFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.247-2</ph> Permits, Authorities, or Franchises.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -19,15 +19,29 @@
          <ol id="d3636e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p " id="d3680e19">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-						            The offeror does <cite outputclass="Checkbox" xtrc="52.247-2_d29e23" class="- topic/cite ">□</cite>, does not <cite outputclass="Checkbox" xtrc="52.247-2_d29e26" class="- topic/cite ">□</cite>, hold authorization from the Federal Highway Administration (FHWA) or other cognizant regulatory body. If authorization is held, it is as follows:</p>
-               <p class="- topic/p " id="d3680e29">__________________________________________________ (<i class="+ topic/ph hi-d/i ">Name of regulatory body</i>)</p>
-               <p class="- topic/p " id="d3680e34">__________________________________________________ (<i class="+ topic/ph hi-d/i ">Authorization No.</i>)</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The offeror does <cite outputclass="Checkbox"
+                        xtrc="52.247-2_d29e23"
+                        class="- topic/cite "
+                        xtrf="VFI">□</cite>, does not <cite outputclass="Checkbox"
+                        xtrc="52.247-2_d29e26"
+                        class="- topic/cite "
+                        xtrf="VFI">□</cite>, hold authorization from the Federal Highway Administration (FHWA) or other cognizant regulatory body. If authorization is held, it is as follows:</p>
+               <p class="- topic/p " id="d3680e29">
+                  <cite outputclass="SingleLine"
+                        xtrf="VFI"
+                        xtrc="52.247-2_qvf_kzt_21c"
+                        class="- topic/cite ">__________________________________________________ (<i class="+ topic/ph hi-d/i ">Name of regulatory body</i>)</cite>
+               </p>
+               <p class="- topic/p " id="d3680e34">
+                  <cite outputclass="SingleLine"
+                        xtrf="VFI"
+                        xtrc="52.247-2_klr_nzt_21c"
+                        class="- topic/cite ">__________________________________________________ (<i class="+ topic/ph hi-d/i ">Authorization No.</i>)</cite>
+               </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3680e40">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-						            The offeror shall furnish to the Government, if requested, copies of the authorization before moving the material under any contract awarded. In addition, the offeror shall, at the offeror’s expense, obtain and maintain any permits, franchises, licenses, and other authorities issued by State and local governments.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The offeror shall furnish to the Government, if requested, copies of the authorization before moving the material under any contract awarded. In addition, the offeror shall, at the offeror’s expense, obtain and maintain any permits, franchises, licenses, and other authorities issued by State and local governments.</p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
