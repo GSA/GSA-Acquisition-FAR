@@ -1,3 +1,3 @@
 # GSA-Acquisition-FAR
 GSA Acquisition.gov FAR
-FAC 2023-06 Effective 12-4-2023
+FAC 2024-03 Effective 2-23-2024
