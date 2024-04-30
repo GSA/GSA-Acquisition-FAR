@@ -11,11 +11,8 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map title="FAR"
-     outputclass="FAR"
-     rev="FAC 2024-03 February 23, 2024"
-     product="FAC 2024-03 February 23, 2024">
-  <topicref navtitle="Volume I-Parts 1 to 51"
+<map title="FAR" outputclass="FAR">
+   <topicref navtitle="Volume I-Parts 1 to 51"
              href="Volume_I.dita"
              outputclass="Volume"
              audience="Volume_I"
@@ -33,8 +30,8 @@
                 xtrc="Cover_1.html"
                 xtrf="subtopic"
                 props=""/>
-  </topicref>
-  <topicref navtitle="Foreword"
+   </topicref>
+   <topicref navtitle="Foreword"
              href="Foreword_a.dita"
              outputclass="Foreword"
              audience="Foreword_a"
@@ -43,7 +40,7 @@
              xtrc="Not"
              xtrf="Foreword"
              props=""/>
-  <topicref navtitle="List of Sections Affected"
+   <topicref navtitle="List of Sections Affected"
              href="LSATable.dita"
              outputclass="subtopic"
              audience="lsa-d1e11"
@@ -52,7 +49,7 @@
              xtrc="Not"
              xtrf="subtopic"
              props=""/>
-  <topicref navtitle="Subchapter A - General"
+   <topicref navtitle="Subchapter A - General"
              href="Subchapter_A.dita"
              outputclass="SubChapter"
              props="Subchapter A"
@@ -2708,7 +2705,7 @@
                          audience="FAR_4_2300"
                          xtrf="subtopic"
                          base="NoTitle"
-                         xtrc=""/>
+                         xtrc="FAR_4_2300.html"/>
                <topicref href="4.2301.dita"
                          navtitle="4.2301 Definitions."
                          outputclass="subtopic"
@@ -2716,7 +2713,7 @@
                          audience="FAR_4_2301"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="FAR_4_2301.html"/>
                <topicref href="4.2302.dita"
                          navtitle="4.2302 Sharing supply chain risk information."
                          outputclass="subtopic"
@@ -2724,7 +2721,7 @@
                          audience="FAR_4_2302"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="FAR_4_2302.html"/>
                <topicref href="4.2303.dita"
                          navtitle="4.2303 FASCSA orders."
                          outputclass="subtopic"
@@ -2732,7 +2729,7 @@
                          audience="FAR_4_2303"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="FAR_4_2303.html"/>
                <topicref href="4.2304.dita"
                          navtitle="4.2304 Procedures."
                          outputclass="subtopic"
@@ -2740,7 +2737,7 @@
                          audience="FAR_4_2304"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="FAR_4_2304.html"/>
                <topicref href="4.2305.dita"
                          navtitle="4.2305 Waivers."
                          outputclass="subtopic"
@@ -2748,7 +2745,7 @@
                          audience="FAR_4_2305"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="FAR_4_2305.html"/>
                <topicref href="4.2306.dita"
                          navtitle="4.2306 Solicitation provision and contract clauses."
                          outputclass="subtopic"
@@ -2756,12 +2753,12 @@
                          audience="FAR_4_2306"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="FAR_4_2306.html"/>
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter B - Competition and Acquisition Planning"
+   </topicref>
+   <topicref navtitle="Subchapter B - Competition and Acquisition Planning"
              href="Subchapter_B.dita"
              outputclass="SubChapter"
              props="Subchapter B"
@@ -6131,8 +6128,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter C - Contracting Methods and Contract Types"
+   </topicref>
+   <topicref navtitle="Subchapter C - Contracting Methods and Contract Types"
              href="Subchapter_C.dita"
              outputclass="SubChapter"
              props="Subchapter C"
@@ -9438,8 +9435,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter D - Socioeconomic Programs"
+   </topicref>
+   <topicref navtitle="Subchapter D - Socioeconomic Programs"
              href="Subchapter_D.dita"
              outputclass="SubChapter"
              props="Subchapter D"
@@ -14200,8 +14197,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter E - General Contracting Requirements"
+   </topicref>
+   <topicref navtitle="Subchapter E - General Contracting Requirements"
              href="Subchapter_E.dita"
              outputclass="SubChapter"
              props="Subchapter E"
@@ -18321,8 +18318,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter F - Special Categories of Contracting"
+   </topicref>
+   <topicref navtitle="Subchapter F - Special Categories of Contracting"
              href="Subchapter_F.dita"
              outputclass="SubChapter"
              props="Subchapter F"
@@ -20084,14 +20081,48 @@
                          xtrf="subtopic"/>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 40 - Reserved"
+         <topicref navtitle="Part 40 - Information Security and Supply Chain Security"
                    href="Part_40.dita"
                    outputclass="Part"
                    props="Part 40"
                    audience="FAR_Part_40"
-                   base="NoTitle"
+                   base="concept"
                    xtrc=""
-                   xtrf="Part"/>
+                   xtrf="No"
+                   otherprops="NoTitle">
+            <topicref href="40.000.dita"
+                      navtitle="40.000 Scope of part."
+                      outputclass="subtopic"
+                      props="40.000"
+                      audience="FAR_40_000"
+                      xtrc="FAR_40_000.html"
+                      base="concept"
+                      xtrf="subtopic"/>
+            <topicref href="Subpart_40.1.dita"
+                      navtitle="Subpart 40.1 - [Reserved]"
+                      outputclass="SubPart"
+                      props="Subpart 40.1"
+                      audience="FAR_Subpart_40_1"
+                      xtrc="FAR_Subpart_40_1.html"
+                      xtrf="SubPart"
+                      base="NotTitle"/>
+            <topicref href="Subpart_40.2.dita"
+                      navtitle="Subpart 40.2 - [Reserved]"
+                      outputclass="SubPart"
+                      props="Subpart 40.2"
+                      audience="FAR_Subpart_40_2"
+                      xtrc="FAR_Subpart_40_2.html"
+                      xtrf="SubPart"
+                      base="NoTitle"/>
+            <topicref href="Subpart_40.3.dita"
+                      navtitle="Subpart 40.3 - [Reserved]"
+                      outputclass="SubPart"
+                      props="Subpart 40.3"
+                      audience="FAR_Subpart_40_3"
+                      xtrc="FAR_Subpart_40_3.html"
+                      xtrf="SubPart"
+                      base="NoTitle"/>
+         </topicref>
          <topicref navtitle="Part 41 - Acquisition of Utility Services"
                    href="Part_41.dita"
                    outputclass="Part"
@@ -20301,8 +20332,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter G - Contract Management"
+   </topicref>
+   <topicref navtitle="Subchapter G - Contract Management"
              href="Subchapter_G.dita"
              outputclass="SubChapter"
              props="Subchapter G"
@@ -24861,8 +24892,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Volume II-Parts 52 &amp; 53"
+   </topicref>
+   <topicref navtitle="Volume II-Parts 52 &amp; 53"
              href="Volume_II.dita"
              outputclass="Volume"
              props="Volume_II"
@@ -24880,8 +24911,8 @@
                 base="NoTitle"
                 xtrc="id1617M0U0WLJ.html"
                 xtrf="subtopic"/>
-  </topicref>
-  <topicref navtitle="Foreword"
+   </topicref>
+   <topicref navtitle="Foreword"
              href="Foreword_b.dita"
              outputclass="Foreword"
              props="Foreword_b"
@@ -24890,7 +24921,7 @@
              base="NoTitle"
              xtrc="Not"
              xtrf="Foreword"/>
-  <topicref navtitle="Subchapter H - Clauses and Forms"
+   <topicref navtitle="Subchapter H - Clauses and Forms"
              href="Subchapter_H.dita"
              outputclass="SubChapter"
              props="Subchapter H"
@@ -25457,7 +25488,7 @@
                             audience="FAR_52_204_30"
                             xtrf="subtopic"
                             base="NoTitle"
-                            xtrc=""/>
+                            xtrc="Editable"/>
                </topicref>
                <topicref navtitle="52.205 [Reserved]"
                          href="52.205.dita"
@@ -28292,7 +28323,7 @@
                             props="52.227-19"
                             audience="FAR_52_227_19"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.227-20 Rights in Data-SBIR Program."
                             href="52.227-20.dita"
@@ -28300,7 +28331,7 @@
                             props="52.227-20"
                             audience="FAR_52_227_20"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.227-21 Technical Data Declaration, Revision, and Withholding of Payment-Major Systems."
                             href="52.227-21.dita"
@@ -28308,7 +28339,7 @@
                             props="52.227-21"
                             audience="FAR_52_227_21"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.227-22 Major System-Minimum Rights."
                             href="52.227-22.dita"
@@ -28324,7 +28355,7 @@
                             props="52.227-23"
                             audience="FAR_52_227_23"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                </topicref>
                <topicref navtitle="52.228 [Reserved]"
@@ -28568,7 +28599,7 @@
                             props="52.229-11"
                             audience="FAR_52_229_11"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.229-12 Tax on Certain Foreign Procurements."
                             href="52.229-12.dita"
@@ -28732,7 +28763,7 @@
                             props="52.232-7"
                             audience="FAR_52_232_7"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.232-8 Discounts for Prompt Payment."
                             href="52.232-8.dita"
@@ -29080,7 +29111,7 @@
                             props="52.234-4"
                             audience="FAR_52_234_4"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                </topicref>
                <topicref navtitle="52.235 [Reserved]"
@@ -30332,7 +30363,7 @@
                             props="52.247-24"
                             audience="FAR_52_247_24"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.247-25 Government-Furnished Equipment With or Without Operators."
                             href="52.247-25.dita"
@@ -30702,7 +30733,7 @@
                             props="52.248-1"
                             audience="FAR_52_248_1"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.248-2 Value Engineering-Architect-Engineer."
                             href="52.248-2.dita"
@@ -30718,7 +30749,7 @@
                             props="52.248-3"
                             audience="FAR_52_248_3"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                </topicref>
                <topicref navtitle="52.249 [Reserved]"
@@ -30934,7 +30965,7 @@
                             props="52.252-1"
                             audience="FAR_52_252_1"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.252-2 Clauses Incorporated by Reference."
                             href="52.252-2.dita"
@@ -30950,7 +30981,7 @@
                             props="52.252-3"
                             audience="FAR_52_252_3"
                             base="concept"
-                            xtrc=""
+                            xtrc="Editable"
                             xtrf="subtopic"/>
                   <topicref navtitle="52.252-4 Alterations in Contract."
                             href="52.252-4.dita"
@@ -31703,8 +31734,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="FAR Correction(s)"
+   </topicref>
+   <topicref navtitle="FAR Correction(s)"
              href="Corrections.dita"
              outputclass="Corrections"
              props="Corrections"

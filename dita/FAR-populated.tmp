@@ -13,9 +13,8 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
 <map title="FAR"
      outputclass="FAR"
-     rev="FAC 2023-06 December 4, 2023"
-     product="FAC 2023-06 December 4, 2023"
-     deliveryTarget="2023-21320">
+     rev="FAC 2024-04 May 1, 2024"
+     product="FAC 2024-04 May 1, 2024">
    <topicref navtitle="Volume I-Parts 1 to 51"
              base="NoTitle"
              href="Volume_I.dita"
@@ -44,7 +43,7 @@
              otherprops="NoProp"
              xtrc="Not"
              xtrf="Foreword"/>
-   <topicref navtitle="List of Sections Affected  FAR Case 2023-019  &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;Technical Amendments&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;"
+   <topicref navtitle="List of Sections Affected FAC 2024-03 February 23, 2024"
              base="concept"
              href="LSATable.dita"
              props=""
@@ -2708,49 +2707,56 @@
                          props="4.2300"
                          outputclass="subtopic"
                          audience="FAR_4_2300"
-                         xtrf="subtopic"/>
+                         xtrf="subtopic"
+                         xtrc=""/>
                <topicref navtitle="4.2301 Definitions."
                          base="concept"
                          href="4.2301.dita"
                          props="4.2301"
                          outputclass="subtopic"
                          audience="FAR_4_2301"
-                         xtrf="subtopic"/>
+                         xtrf="subtopic"
+                         xtrc=""/>
                <topicref navtitle="4.2302 Sharing supply chain risk information."
                          base="concept"
                          href="4.2302.dita"
                          props="4.2302"
                          outputclass="subtopic"
                          audience="FAR_4_2302"
-                         xtrf="subtopic"/>
+                         xtrf="subtopic"
+                         xtrc=""/>
                <topicref navtitle="4.2303 FASCSA orders."
                          base="concept"
                          href="4.2303.dita"
                          props="4.2303"
                          outputclass="subtopic"
                          audience="FAR_4_2303"
-                         xtrf="subtopic"/>
+                         xtrf="subtopic"
+                         xtrc=""/>
                <topicref navtitle="4.2304 Procedures."
                          base="concept"
                          href="4.2304.dita"
                          props="4.2304"
                          outputclass="subtopic"
                          audience="FAR_4_2304"
-                         xtrf="subtopic"/>
+                         xtrf="subtopic"
+                         xtrc=""/>
                <topicref navtitle="4.2305 Waivers."
                          base="concept"
                          href="4.2305.dita"
                          props="4.2305"
                          outputclass="subtopic"
                          audience="FAR_4_2305"
-                         xtrf="subtopic"/>
+                         xtrf="subtopic"
+                         xtrc=""/>
                <topicref navtitle="4.2306 Solicitation provision and contract clauses."
                          base="concept"
                          href="4.2306.dita"
                          props="4.2306"
                          outputclass="subtopic"
                          audience="FAR_4_2306"
-                         xtrf="subtopic"/>
+                         xtrf="subtopic"
+                         xtrc=""/>
             </topicref>
          </topicref>
       </topicref>
@@ -3246,7 +3252,7 @@
                          audience="FAR_6_205"
                          xtrc="FAR_6_205.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="6.206 Set-asides for service-disabled veteran-owned small business concerns."
+               <topicref navtitle="6.206 &#xA;         Set-asides for service-disabled veteran-owned small business (SDVOSB) concerns eligible under the SDVOSB Program.&#xA;      "
                          base="concept"
                          href="6.206.dita"
                          props="6.206"
@@ -10453,7 +10459,7 @@
                          xtrc="FAR_19_1309.html"
                          xtrf="subtopic"/>
             </topicref>
-            <topicref navtitle="Subpart 19.14 - Service-Disabled Veteran-Owned Small Business Procurement Program"
+            <topicref navtitle="Subpart 19.14 - Service-Disabled Veteran-Owned Small Business Program"
                       base="NoTitle"
                       href="Subpart_19.14.dita"
                       props="Subpart 19.14"
@@ -10477,7 +10483,7 @@
                          audience="FAR_19_1402"
                          xtrc="FAR_19_1402.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="19.1403 Status as a service-disabled&#xA;veteran-owned small business concern."
+               <topicref navtitle="19.1403 &#xA;         Status.&#xA;      "
                          base="concept"
                          href="19.1403.dita"
                          props="19.1403"
@@ -10493,7 +10499,7 @@
                          audience="FAR_19_1404"
                          xtrc="FAR_19_1404.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="19.1405 Service-disabled veteran-owned small business set-aside procedures."
+               <topicref navtitle="19.1405 &#xA;         Set-aside procedures. &#xA;      "
                          base="concept"
                          href="19.1405.dita"
                          props="19.1405"
@@ -10501,7 +10507,7 @@
                          audience="FAR_19_1405"
                          xtrc="FAR_19_1405.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="19.1406 Sole source awards to service-disabled veteran-owned small business concerns."
+               <topicref navtitle="19.1406 &#xA;         Sole source awards.&#xA;      "
                          base="concept"
                          href="19.1406.dita"
                          props="19.1406"
@@ -11203,7 +11209,7 @@
                          audience="FAR_22_502"
                          xtrc="FAR_22_502.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="22.503 Policy."
+               <topicref navtitle="22.503 &#xA;         Policy.&#xA;      "
                          base="concept"
                          href="22.503.dita"
                          props="22.503"
@@ -11219,7 +11225,7 @@
                          audience="FAR_22_504"
                          xtrc="FAR_22_504.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="22.505 Solicitation provision and contract clause."
+               <topicref navtitle="22.505 &#xA;         Solicitation provision and contract clause.&#xA;      "
                          base="concept"
                          href="22.505.dita"
                          props="22.505"
@@ -20078,14 +20084,48 @@
                          xtrf="subtopic"/>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 40 - Reserved"
-                   base="NoTitle"
+         <topicref navtitle="Part 40Information Security and Supply Chain Security - "
+                   base="concept"
                    href="Part_40.dita"
                    props="Part 40"
                    outputclass="Part"
                    audience="FAR_Part_40"
                    xtrc=""
-                   xtrf="Part"/>
+                   xtrf="No"
+                   otherprops="NoTitle">
+            <topicref navtitle="40.000 Scope of part."
+                      base="concept"
+                      href="40.000.dita"
+                      props="40.000"
+                      outputclass="subtopic"
+                      audience="FAR_40_000"
+                      xtrc="FAR_40_000.html"
+                      xtrf="subtopic"/>
+            <topicref navtitle="Subpart 40.1 - [Reserved]"
+                      base="concept"
+                      href="Subpart_40.1.dita"
+                      props="Subpart 40.1"
+                      outputclass="SubPart"
+                      audience="FAR_Subpart_40_1"
+                      xtrc="FAR_Subpart_40_1.html"
+                      xtrf="SubPart"/>
+            <topicref navtitle="Subpart 40.2 - [Reserved]"
+                      base="NoTitle"
+                      href="Subpart_40.2.dita"
+                      props="Subpart 40.2"
+                      outputclass="SubPart"
+                      audience="FAR_Subpart_40_2"
+                      xtrc="FAR_Subpart_40_2.html"
+                      xtrf="SubPart"/>
+            <topicref navtitle="Subpart 40.3 - [Reserved]"
+                      base="NoTitle"
+                      href="Subpart_40.3.dita"
+                      props="Subpart 40.3"
+                      outputclass="SubPart"
+                      audience="FAR_Subpart_40_3"
+                      xtrc="FAR_Subpart_40_3.html"
+                      xtrf="SubPart"/>
+         </topicref>
          <topicref navtitle="Part 41 - Acquisition of Utility Services"
                    base="NoTitle"
                    href="Part_41.dita"
@@ -24981,7 +25021,7 @@
                          audience="FAR_52_106"
                          xtrc="FAR_52_106.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="52.107 Provisions and clauses prescribed in 52.1."
+               <topicref navtitle="52.107 Provisions and clauses prescribed in subpart 52.1."
                          base="concept"
                          href="52.107.dita"
                          props="52.107"
@@ -25268,7 +25308,7 @@
                             audience="FAR_52_204_7"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.204-8 Annual Representations&#xA;and Certifications."
+                  <topicref navtitle="52.204-8 Annual Representations and&#xA;         Certifications."
                             base="concept"
                             href="52.204-8.dita"
                             props="52.204-8"
@@ -25388,7 +25428,7 @@
                             audience="FAR_52_204_22"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.204-23Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities."
+                  <topicref navtitle="52.204-23 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities."
                             base="concept"
                             href="52.204-23.dita"
                             props="52.204-23"
@@ -25434,21 +25474,24 @@
                             props="52.204-28"
                             outputclass="subtopic"
                             audience="FAR_52_204_28"
-                            xtrf="subtopic"/>
+                            xtrf="subtopic"
+                            xtrc=""/>
                   <topicref navtitle="52.204-29 Federal Acquisition Supply Chain Security Act Orders—Representation and Disclosures."
                             base="NoTitle"
                             href="52.204-29.dita"
                             props="52.204-29"
                             outputclass="subtopic"
                             audience="FAR_52_204_29"
-                            xtrf="subtopic"/>
+                            xtrf="subtopic"
+                            xtrc=""/>
                   <topicref navtitle="52.204-30 Federal Acquisition Supply Chain Security Act Orders—Prohibition."
                             base="NoTitle"
                             href="52.204-30.dita"
                             props="52.204-30"
                             outputclass="subtopic"
-                            audience="FAR_52_204_29"
-                            xtrf="subtopic"/>
+                            audience="FAR_52_204_30"
+                            xtrf="subtopic"
+                            xtrc=""/>
                </topicref>
                <topicref navtitle="52.205 [Reserved]"
                          base="concept"
@@ -25925,7 +25968,7 @@
                             audience="FAR_52_212_2"
                             xtrc="Editable"
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.212-3 Offeror Representations and Certifications—Commercial Products and Commercial Services. "
+                  <topicref navtitle="52.212-3 Offeror Representations and&#xA;         Certifications—Commercial Products and Commercial Services. "
                             base="concept"
                             href="52.212-3.dita"
                             props="52.212-3"
@@ -27049,7 +27092,7 @@
                             audience="FAR_52_219_26"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.219-27 Notice of Service-Disabled&#xA;Veteran-Owned Small Business Set-Aside."
+                  <topicref navtitle="52.219-27 &#xA;         Notice&#xA;         of Set-Aside for, or Sole-Source Award to, Service-Disabled&#xA;         Veteran-Owned Small Business (SDVOSB) Concerns Eligible Under the&#xA;         SDVOSB&#xA;         Program. &#xA;      "
                             base="concept"
                             href="52.219-27.dita"
                             props="52.219-27"
@@ -27921,7 +27964,7 @@
                             audience="FAR_52_225_8"
                             xtrc="Editable"
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.225-9 Buy American-Construction&#xA;Materials."
+                  <topicref navtitle="52.225-9 Buy American-Construction&#xA;         Materials."
                             base="concept"
                             href="52.225-9.dita"
                             props="52.225-9"
@@ -27937,7 +27980,7 @@
                             audience="FAR_52_225_10"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.225-11 Buy American-Construction Materials under Trade Agreements."
+                  <topicref navtitle="52.225-11 Buy American-Construction Materials&#xA;         under Trade Agreements."
                             base="concept"
                             href="52.225-11.dita"
                             props="52.225-11"
@@ -28017,7 +28060,7 @@
                             audience="FAR_52_225_20"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.225-21 Required Use of American&#xA;Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials."
+                  <topicref navtitle="52.225-21 Required Use of American Iron, Steel,&#xA;         and Manufactured Goods-Buy American Statute-Construction&#xA;         Materials."
                             base="concept"
                             href="52.225-21.dita"
                             props="52.225-21"
@@ -28033,7 +28076,7 @@
                             audience="FAR_52_225_22"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.225-23 Required Use of American&#xA;Iron, Steel, and Manufactured Goods-Buy American Statute-Construction Materials&#xA;under Trade Agreements."
+                  <topicref navtitle="52.225-23 Required Use of American Iron, Steel,&#xA;         and Manufactured Goods-Buy American Statute-Construction Materials&#xA;         under Trade Agreements."
                             base="concept"
                             href="52.225-23.dita"
                             props="52.225-23"
@@ -28595,7 +28638,7 @@
                          audience="FAR_52_230"
                          xtrc="FAR_52_230.html"
                          xtrf="subtopic">
-                  <topicref navtitle="52.230-1 Cost Accounting Standards&#x9;Notices and Certification."
+                  <topicref navtitle="52.230-1 Cost Accounting Standards Notices and Certification."
                             base="concept"
                             href="52.230-1.dita"
                             props="52.230-1"
@@ -29057,7 +29100,7 @@
                             audience="FAR_52_234_2"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.234-3 Notice of Earned Value&#x9;Management System-Post Award Postaward Integrated Baseline Review."
+                  <topicref navtitle="52.234-3 Notice of Earned Value Management System-Post Award Postaward Integrated Baseline Review."
                             base="concept"
                             href="52.234-3.dita"
                             props="52.234-3"
@@ -29065,7 +29108,7 @@
                             audience="FAR_52_234_3"
                             xtrc=""
                             xtrf="subtopic"/>
-                  <topicref navtitle="52.234-4 Earned Value Management&#x9;System."
+                  <topicref navtitle="52.234-4 Earned Value Management System."
                             base="concept"
                             href="52.234-4.dita"
                             props="52.234-4"
@@ -30994,7 +31037,8 @@
                       outputclass="SubPart"
                       audience="FAR_Subpart_52_3"
                       xtrc="FAR_Subpart_52_3.html"
-                      xtrf="SubPart">
+                      xtrf="SubPart"
+                      print="no">
                <topicref navtitle="52.300 Scope of subpart."
                          base="NoTitle"
                          href="52.300.dita"
@@ -31010,7 +31054,8 @@
                          outputclass="subtopic"
                          audience="FAR_52_301"
                          xtrc="FAR_52_301.html"
-                         xtrf="subtopic">
+                         xtrf="subtopic"
+                         print="no">
                   <topicref navtitle="52.301-1 Far Matrix"
                             base="concept"
                             href="FARmatrix.dita"
@@ -31026,7 +31071,8 @@
                             outputclass="subtopic"
                             audience="FAR_52_301_2"
                             xtrc=""
-                            xtrf="subtopic"/>
+                            xtrf="subtopic"
+                            print="no"/>
                </topicref>
             </topicref>
          </topicref>
