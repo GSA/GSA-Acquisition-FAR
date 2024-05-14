@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_52_223_7"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            xtrc="GFI">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">52.223-7</ph> Notice of Radioactive Materials.</title>
+<dita>
+   <concept id="FAR_52_223_7" class="- topic/topic concept/concept " xtrc="GFI">
+      <title class="- topic/title " rev="FAC 2024-05 May 22, 2024">
+         <ph class="- topic/ph " props="autonumber">52.223-7</ph>
+         <?FM MARKER [CaseNumber] FAR Case 2022-006?>Notice of Radioactive Materials.<?FM MARKER [Why] Amend section 52.223-7 by:   a. Revising the section heading; and?></title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p " id="d3378e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="23.602.dita#FAR_23_602"
-                     base="i1094507"
-                     class="- topic/xref ">23.602</xref>
-            </ph>, insert the following clause:</p>
+         <p class="- topic/p " id="d3378e8">As prescribed in <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph ">
+               <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2022-006?>
+                  <xref outputclass="fm:ParaNumOnly"
+                        href="23.602.dita#FAR_23_602"
+                        base="i1094507"
+                        class="- topic/xref ">23.602</xref>(b)</ph>,<?FM MARKER [Why] b. Removing from the introductory text “23.602” and adding “23.304(b)” in its place.?></ph> insert the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3378e14">Notice of Radioactive Materials <ph outputclass="SmCaps" class="- topic/ph ">(Jan 1997)</ph>
          </p>
          <ol id="d3339e25" class="- topic/ol ">

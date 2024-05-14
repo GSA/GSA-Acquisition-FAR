@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="FAR_52_204_28"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_52_204_28" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.204-28</ph> 
          Federal Acquisition Supply Chain Security Act Orders—Federal Supply Schedules, Governmentwide Acquisition Contracts, and Multi-Agency Contracts.
@@ -242,7 +239,7 @@
                         class="- topic/xref ">4.2303</xref>(b)). </p>
             </li>
          </ol>
-         <p outputclass="Endofprovision" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

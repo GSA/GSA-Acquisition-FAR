@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_52_223_3"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            xtrc="VFI">
+<dita>
+   <concept id="FAR_52_223_3" class="- topic/topic concept/concept " xtrc="VFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.223-3</ph> Hazardous Material
 Identification and Material Safety Data.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " id="d3374e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref href="23.303.dita#FAR_23_303"
-                     base="i1094822"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">23.303</xref>
-            </ph>, insert the
-following clause:</p>
+         <p class="- topic/p " id="d3374e8">
+            <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2022-006?>As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref href="23.304.dita#FAR_23_304"
+                        base="i1094822"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">23.304</xref>(a)(2)</ph>, insert the following clause:<?FM MARKER [Why] Amend section 52.223-3 by revising the introductory text of the clause and?></ph>
+         </p>
          <p id="d3375e14" outputclass="Ctr_SmCaps" class="- topic/p ">Hazardous Material Identification
 and Material Safety Data (Feb 2021)</p>
          <ol id="d3335e25" class="- topic/ol ">
@@ -47,12 +43,14 @@ Safety Data Sheet submitted under this contract.</p>
                               colname="1"
                               colwidth="50*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <colspec colnum="2"
                               colname="2"
                               colwidth="50*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <tbody class="- topic/tbody ">
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
@@ -215,9 +213,12 @@ other sources.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3377e135">
-               <i class="+ topic/ph hi-d/i ">Alternate I </i>(<ph outputclass="SmCaps">July</ph> 1995). If the contract is awarded
-               by an agency other than the Department of Defense, add the
-               following paragraph (i) to the basic clause:</p>
+               <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2022-006?>
+                  <i class="+ topic/ph hi-d/i ">Alternate I </i>(<ph outputclass="SmCaps" class="- topic/ph ">July</ph> 1995). As prescribed in <xref href="23.304.dita#FAR_23_304"
+                        base="i1094822"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">23.304</xref>(a)(2), add the following paragraph (i) to the basic clause:<?FM MARKER [Why]  the introductory text of Alternate I to read as follows:?></ph>
+            </p>
             <p outputclass="List1" class="- topic/p ">(i) Except as provided in paragraph (i)(2),
                the Contractor shall prepare and submit a sufficient number of
                Material Safety Data Sheets (MSDS's), meeting the requirements of
