@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_12_504"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_12_504" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">12.504</ph> 
          Applicability of certain
@@ -84,7 +81,8 @@ of Proprietary Data restrictions (see <xref href="Subpart_27.4.dita#FAR_Subpart_
                               class="- topic/xref ">41 U.S.C.3901(b)</xref> and 
                            <xref href="https://www.govinfo.gov/link/uscode/10/3321"
                               format="html"
-                              scope="external">10 U.S.C. 3321(b)</xref>, Contingent Fees (see <xref href="Subpart_3.4.dita#FAR_Subpart_3_4"
+                              scope="external"
+                              class="- topic/xref ">10 U.S.C. 3321(b)</xref>, Contingent Fees (see <xref href="Subpart_3.4.dita#FAR_Subpart_3_4"
                               base="i1124432"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  3.4</xref>).</p>
@@ -98,7 +96,8 @@ of Proprietary Data restrictions (see <xref href="Subpart_27.4.dita#FAR_Subpart_
                               class="- topic/xref ">41 U.S.C.4706(d)</xref> and 
                            <xref href="https://www.govinfo.gov/link/uscode/10/3841"
                               format="html"
-                              scope="external">10 U.S.C. 3841(d)</xref>, Examination of Records of Contractor, when a subcontractor is not required to provide certified cost or pricing data (see <xref href="15.209.dita#FAR_15_209"
+                              scope="external"
+                              class="- topic/xref ">10 U.S.C. 3841(d)</xref>, Examination of Records of Contractor, when a subcontractor is not required to provide certified cost or pricing data (see <xref href="15.209.dita#FAR_15_209"
                               base="i1109112"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">15.209</xref>(b)), unless using funds appropriated or otherwise made available by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5).</p>
@@ -133,11 +132,12 @@ in Technical Data (see <xref href="Subpart_27.4.dita#FAR_Subpart_27_4"
                         <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">41 U.S.C.chapter 81</xref>,
-Drug-Free Workplace Act (see <xref href="Subpart_23.5.dita#FAR_Subpart_23_5"
-                              base="i1094537"
-                              outputclass="fm:Subpart"
-                              class="- topic/xref ">subpart  23.5</xref>).</p>
+                              class="- topic/xref ">41 U.S.C.chapter 81</xref>, Drug-Free Workplace Act (see <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2022-006?>
+                           <xref href="Subpart_26.5.dita#FAR_Subpart_26_5"
+                                 base="i1094537"
+                                 outputclass="fm:Subpart"
+                                 class="- topic/xref ">subpart  26.5</xref>).<?FM MARKER [Why] Amend section 12.504 by removing from paragraph (a)(10) “23.5” and adding “26.5” in its place.?></ph>
+                     </p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d739e117">
@@ -172,7 +172,8 @@ American provisions (see <xref href="Subpart_47.4.dita#FAR_Subpart_47_4"
                      <p class="- topic/p " id="d739e141">
                         <ph props="autonumber" class="- topic/ph ">(13)</ph> Section 806(a)(3) of Pub. L. 102-190, as amended by Sections 2091 and 8105 of Pub. L. 103-355 (<xref href="https://www.govinfo.gov/link/uscode/10/4601"
                               format="html"
-                              scope="external">10 U.S.C. 4601 note</xref> prec.), Payment Protections for Subcontractors and Suppliers (see <xref href="28.106-6.dita#FAR_28_106_6"
+                              scope="external"
+                              class="- topic/xref ">10 U.S.C. 4601 note</xref> prec.), Payment Protections for Subcontractors and Suppliers (see <xref href="28.106-6.dita#FAR_28_106_6"
                               base="i1088884"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">28.106-6</xref>).</p>
@@ -211,7 +212,8 @@ commercial services:
                               class="- topic/xref ">41 U.S.C.4704</xref> and 
                            <xref href="https://www.govinfo.gov/link/uscode/10/4655"
                               format="html"
-                              scope="external">10 U.S.C. 4655</xref>, Prohibition on Limiting Subcontractor Direct Sales to the United States (see <xref href="Subpart_3.5.dita#FAR_Subpart_3_5"
+                              scope="external"
+                              class="- topic/xref ">10 U.S.C. 4655</xref>, Prohibition on Limiting Subcontractor Direct Sales to the United States (see <xref href="Subpart_3.5.dita#FAR_Subpart_3_5"
                               base="i1124321"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  3.5</xref>).</p>

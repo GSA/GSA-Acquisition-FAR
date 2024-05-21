@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="FAR_23_300"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
+<dita>
+   <topic id="FAR_23_300" class="- topic/topic ">
       <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">23.300</ph> Scope of subpart.</title>
+         <ph class="- topic/ph " props="autonumber">23.300</ph>
+         <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2022-006?>Scope of subpart.<?FM MARKER [Why] Revising section 23.300.?></ph>
+      </title>
       <body class="- topic/body ">
-         <p class="- topic/p ">This subpart prescribes policies and procedures for acquiring deliverable items, other than ammunition and explosives, that require the furnishing of data involving hazardous materials. Agencies may prescribe special procedures for ammunition and explosives.</p>
+         <p rev="FAC 2024-05 May 22, 2024" class="- topic/p ">This subpart prescribes policies and procedures for the following:</p>
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " rev="FAC 2024-05 May 22, 2024" id="d1546e15">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Acquiring deliverable items, other than ammunition and explosives, that require the furnishing of data involving hazardous materials. Agencies may prescribe special procedures for ammunition and explosives.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " rev="FAC 2024-05 May 22, 2024" id="d1546e20">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Providing notification of radioactive materials prior to delivery.</p>
+            </li>
+         </ol>
       </body>
    </topic>
 </dita>

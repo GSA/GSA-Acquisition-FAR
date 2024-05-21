@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+<dita>
    <concept id="FAR_52_212_2"
-            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept "
             xtrc="GFI Editable">
       <title class="- topic/title ">
@@ -79,7 +77,7 @@ whether or not there are negotiations after its receipt, unless
 a written notice of withdrawal is received before award.</p>
             </li>
          </ol>
-         <p outputclass="Endofclause" class="- topic/p ">(End of provision)</p>
+         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
       </conbody>
    </concept>
 </dita>

@@ -11,10 +11,8 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="FAR"
-     outputclass="FAR"
-     product="FAC 2024-03 February 23, 2024">
-  <topicref navtitle="Volume I-Parts 1 to 51"
+<map title="FAR" outputclass="FAR">
+   <topicref navtitle="Volume I-Parts 1 to 51"
              href="Volume_I.dita"
              outputclass="Volume"
              audience="Volume_I"
@@ -32,8 +30,8 @@
                 xtrc="Cover_1.html"
                 xtrf="subtopic"
                 props=""/>
-  </topicref>
-  <topicref navtitle="Foreword"
+   </topicref>
+   <topicref navtitle="Foreword"
              href="Foreword_a.dita"
              outputclass="Foreword"
              audience="Foreword_a"
@@ -42,7 +40,7 @@
              xtrc="Not"
              xtrf="Foreword"
              props=""/>
-  <topicref navtitle="List of Sections Affected"
+   <topicref navtitle="List of Sections Affected"
              href="LSATable.dita"
              outputclass="subtopic"
              audience="lsa-d1e11"
@@ -51,7 +49,7 @@
              xtrc="Not"
              xtrf="subtopic"
              props=""/>
-  
+   
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_1.dita"
              outputclass="subtopic"
@@ -456,8 +454,8 @@
             
          
       </topicref>
-  
-  
+   
+   
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_2.dita"
              outputclass="subtopic"
@@ -950,8 +948,8 @@
             
          
       </topicref>
-  
-  
+   
+   
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_3.dita"
              outputclass="subtopic"
@@ -1436,8 +1434,8 @@
             
          
       </topicref>
-  
-  
+   
+   
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_4.dita"
              outputclass="subtopic"
@@ -2131,8 +2129,8 @@
             
          
       </topicref>
-  
-  
+   
+   
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_5.dita"
              outputclass="subtopic"
@@ -2724,8 +2722,8 @@
             
          
       </topicref>
-  
-  
+   
+   
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_6.dita"
              outputclass="subtopic"
@@ -2983,6 +2981,11 @@
             
          
          
+            
+            
+            
+            
+         
          
             
                
@@ -3017,8 +3020,8 @@
             
          
       </topicref>
-  
-  
+   
+   
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_7.dita"
              outputclass="subtopic"
@@ -3685,8 +3688,8 @@
             
          
       </topicref>
-  
-  <topicref navtitle="Volume II-Parts 52 &amp; 53"
+   
+   <topicref navtitle="Volume II-Parts 52 &amp; 53"
              href="Volume_II.dita"
              outputclass="Volume"
              props="Volume_II"
@@ -3704,8 +3707,8 @@
                 base="NoTitle"
                 xtrc="id1617M0U0WLJ.html"
                 xtrf="subtopic"/>
-  </topicref>
-  <topicref navtitle="Foreword"
+   </topicref>
+   <topicref navtitle="Foreword"
              href="Foreword_b.dita"
              outputclass="Foreword"
              props="Foreword_b"
@@ -3714,7 +3717,7 @@
              base="NoTitle"
              xtrc="Not"
              xtrf="Foreword"/>
-  
+   
       <topicref navtitle=" Federal Acquisition Regulation"
              href="FAR_8.dita"
              outputclass="subtopic"
@@ -4622,8 +4625,8 @@
             
          
       </topicref>
-  
-  <topicref navtitle="FAR Correction(s)"
+   
+   <topicref navtitle="FAR Correction(s)"
              href="Corrections.dita"
              outputclass="Corrections"
              props="Corrections"

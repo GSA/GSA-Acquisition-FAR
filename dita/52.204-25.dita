@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_52_204_25"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_52_204_25" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.204-25</ph> Prohibition on Contracting
 for Certain Telecommunications and Video Surveillance Services or Equipment.</title>
@@ -27,17 +24,26 @@ Telecommunications and Video Surveillance Services or Equipment (Nov
                   <i class="+ topic/ph hi-d/i ">Definitions.</i> As
 used in this clause—</p>
                <p class="- topic/p " id="d3100e25">
-                  <i outputclass="Term" xtrf="_52.204-25" xtrc="d21e32">Backhaul</i> means intermediate
+                  <i outputclass="Term"
+                     xtrf="_52.204-25"
+                     xtrc="d21e32"
+                     class="+ topic/ph hi-d/i ">Backhaul</i> means intermediate
 links between the core network, or backbone network, and the small
 subnetworks at the edge of the network (<i class="+ topic/ph hi-d/i ">e.g.</i>, connecting
 cell phones/towers to the core telephone network). Backhaul can
 be wireless (e.g., microwave) or wired (<i class="+ topic/ph hi-d/i ">e.g.</i>, fiber optic,
 coaxial cable, Ethernet).</p>
                <p class="- topic/p " id="d3100e35">
-                  <i outputclass="Term" xtrf="_52.204-25" xtrc="d3097e37">Covered foreign country</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.204-25"
+                     xtrc="d3097e37"
+                     class="+ topic/ph hi-d/i ">Covered foreign country</i> means
 The People’s Republic of China.</p>
                <p class="- topic/p " id="d3100e39">
-                  <i outputclass="Term" xtrf="_52.204-25" xtrc="d3097e43">Covered
+                  <i outputclass="Term"
+                     xtrf="_52.204-25"
+                     xtrc="d3097e43"
+                     class="+ topic/ph hi-d/i ">Covered
 telecommunications equipment or services</i> means–<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p class="- topic/p " id="d3100e45">
@@ -74,7 +80,10 @@ covered foreign country.</p>
                   </ol>
                </p>
                <p class="- topic/p " id="d3100e64">
-                  <i outputclass="Term" xtrf="_52.204-25" xtrc="d3097e88">Critical
+                  <i outputclass="Term"
+                     xtrf="_52.204-25"
+                     xtrc="d3097e88"
+                     class="+ topic/ph hi-d/i ">Critical
 technology</i> means–<ol class="- topic/ol ">
                      <li class="- topic/li ">
                         <p class="- topic/p " id="d3100e70">
@@ -135,26 +144,38 @@ of the Export Control Reform Act of 2018 (50 U.S.C. 4817).</p>
                   </ol>
                </p>
                <p class="- topic/p " id="d3100e110">
-                  <i outputclass="Term" xtrf="_52.204-25" xtrc="d21e119">Interconnection arrangements</i> means arrangements
+                  <i outputclass="Term"
+                     xtrf="_52.204-25"
+                     xtrc="d21e119"
+                     class="+ topic/ph hi-d/i ">Interconnection arrangements</i> means arrangements
 governing the physical connection of two or more networks to allow the
 use of another's network to hand off traffic where it is ultimately
 delivered (<i class="+ topic/ph hi-d/i ">e.g.</i>, connection of a customer of telephone provider
 A to a customer of telephone company B) or sharing data and other
 information resources.</p>
                <p class="- topic/p " id="d3100e117">
-                  <i outputclass="Term" xtrf="_52.204-25" xtrc="d21e127">Reasonable inquiry</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.204-25"
+                     xtrc="d21e127"
+                     class="+ topic/ph hi-d/i ">Reasonable inquiry</i> means
 an inquiry designed to uncover any information in the entity's possession
 about the identity of the producer or provider of covered telecommunications
 equipment or services used by the entity that excludes the need to
 include an internal or third-party audit.</p>
                <p class="- topic/p " id="d3100e121">
-                  <i outputclass="Term" xtrf="_52.204-25" xtrc="d21e132">Roaming</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.204-25"
+                     xtrc="d21e132"
+                     class="+ topic/ph hi-d/i ">Roaming</i> means
 cellular communications services (<i class="+ topic/ph hi-d/i ">e.g.</i>, voice, video, data)
 received from a visited network when unable to connect to the facilities
 of the home network either because signal coverage is too weak or
 because traffic is too high.</p>
                <p class="- topic/p " id="d3100e128">
-                  <i outputclass="Term" xtrf="_52.204-25" xtrc="d3097e174">Substantial
+                  <i outputclass="Term"
+                     xtrf="_52.204-25"
+                     xtrc="d3097e174"
+                     class="+ topic/ph hi-d/i ">Substantial
 or essential component</i> means any component necessary for the
 proper function or performance of a piece of equipment, system,
 or service.</p>
@@ -300,7 +321,7 @@ products or commercial services.
                </p>
             </li>
          </ol>
-         <p outputclass="Endofprovision" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_15_603"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_15_603" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">15.603</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -80,9 +77,7 @@ needs are considered to be independently originated.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d968e64">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph> Agencies
-must evaluate unsolicited proposals for energy-savings performance
-contracts in accordance with the procedures in 10 CFR436.33(b).</p>
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph> Agencies must evaluate unsolicited proposals for <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2022-006?>energy savings<?FM MARKER [Why] Amend section 15.603 by removing from paragraph (e) the words “energy-savings” and adding the words “energy savings” in its place.?></ph> performance contracts in accordance with the procedures in 10 CFR436.33(b).</p>
             </li>
          </ol>
       </conbody>

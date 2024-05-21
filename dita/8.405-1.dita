@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_8_405_1"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_8_405_1" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">8.405-1</ph> Ordering procedures for supplies, and services not requiring a statement of work.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -32,25 +28,17 @@
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d472e36">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-								                Consider reasonably available information about the supply or service offered under MAS contracts by surveying at least three schedule contractors through the GSA Advantage! on-line shopping service, by reviewing the catalogs or pricelists of at least three schedule contractors, or by requesting quotations from at least three schedule contractors (see <i class="+ topic/ph hi-d/i ">
-                           <xref href="8.405-5.dita#FAR_8_405_5"
-                                 base="i1117805"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">8.405-5</xref>
-                        </i>); or</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Consider reasonably available information about the supply or service offered under MAS contracts by surveying at least three schedule contractors through the GSA Advantage! on-line shopping service, by reviewing the catalogs or pricelists of at least three schedule contractors, or by requesting quotations from at least three schedule contractors (see  <xref href="8.405-5.dita#FAR_8_405_5"
+                              base="i1117805"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">8.405-5</xref> ); or</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d472e45">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-								                Document the circumstances for restricting consideration to fewer than three schedule contractors based on one of the reasons at <i class="+ topic/ph hi-d/i ">
-                           <xref href="8.405-6.dita#FAR_8_405_6"
-                                 base="i1117840"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">8.405-6</xref>
-                        </i>(a);</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Document the circumstances for restricting consideration to fewer than three schedule contractors based on one of the reasons at  <xref href="8.405-6.dita#FAR_8_405_6"
+                              base="i1117840"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">8.405-6</xref> (a);</p>
                   </li>
                </ol>
             </li>
@@ -88,9 +76,7 @@
                      <ol class="- topic/ol ">
                         <li otherprops="i_ii_iii" outputclass="H7_i_ii_iii" class="- topic/li ">
                            <p class="- topic/p " id="d472e83">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-										                    Post the RFQ on e-Buy to afford all schedule contractors offering the required supplies or services under the appropriate multiple award schedule(s) an opportunity to submit a quote; or</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Post the <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>RFQ on eBuy<?FM MARKER [Why] Amend section 8.405-1 by removing from paragraphs (d)(3)(i) and (e) the phrase “RFQ on e-Buy” and adding the phrase “RFQ on eBuy” in its place.?></ph> to afford all schedule contractors offering the required supplies or services under the appropriate multiple award schedule(s) an opportunity to submit a quote; or</p>
                         </li>
                         <li otherprops="i_ii_iii" outputclass="H7_i_ii_iii" class="- topic/li ">
                            <p class="- topic/p " id="d472e88">
@@ -110,9 +96,7 @@
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d472e98">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-						            When an order contains brand-name specifications, the contracting officer shall post the RFQ on e-Buy along with the justification or documentation, as required by <xref href="8.405-6.dita#FAR_8_405_6"
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph> When an order contains brand-name specifications, the contracting officer shall post the <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>RFQ on eBuy<?FM MARKER [Why] Amend section 8.405-1 by removing from paragraphs (d)(3)(i) and (e) the phrase “RFQ on e-Buy” and adding the phrase “RFQ on eBuy” in its place.?></ph> along with the justification or documentation, as required by <xref href="8.405-6.dita#FAR_8_405_6"
                         base="i1117840"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">8.405-6</xref>. An RFQ is required when a purchase description specifies a brand-name.</p>

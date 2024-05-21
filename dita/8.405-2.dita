@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="FAR_8_405_2"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_8_405_2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">8.405-2</ph> Ordering procedures for services requiring a statement of work.</title>
       <conbody class="- topic/body concept/conbody ">
@@ -30,7 +26,7 @@
             <li class="- topic/li ">
                <p class="- topic/p " id="d473e33">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  <i class="+ topic/ph hi-d/i ">Request for Quotation procedures</i>. The ordering activity must provide the Request for Quotation (RFQ), which includes the statement of work and evaluation criteria (<i class="+ topic/ph hi-d/i ">e.g.,</i> experience and past performance), to schedule contractors that offer services that will meet the agency’s needs. The RFQ may be posted to GSA’s electronic RFQ system, e-Buy (see <xref href="8.402.dita#FAR_8_402"
+                  <i class="+ topic/ph hi-d/i ">Request for Quotation procedures</i>. The ordering activity must provide the <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>request for quotation (RFQ),<?FM MARKER [Why] Amend section 8.405-2 by—   a. Removing from paragraph (c) introductory text the words “Request for Quotation (RFQ)” and “e-Buy” and adding the words “request for quotation (RFQ)” and “eBuy” in their place; and?></ph> which includes the statement of work and evaluation criteria (<i class="+ topic/ph hi-d/i ">e.g.,</i> experience and past performance), to schedule contractors that offer services that will meet the agency’s needs. The RFQ may be posted to GSA’s electronic RFQ system, <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph ">eBuy</ph> (see <xref href="8.402.dita#FAR_8_402"
                         base="i1117315"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">8.402</xref>(d)).</p>
@@ -108,9 +104,7 @@
                            <ol id="d458e178" class="- topic/ol ">
                               <li class="- topic/li ">
                                  <p class="- topic/p " id="d473e115">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-												                        Post the RFQ on e-Buy to afford all schedule contractors offering the required services under the appropriate multiple-award schedule(s) an opportunity to submit a quote; or</p>
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> Post the RFQ on <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>eBuy<?FM MARKER [Why] b. Removing from paragraph (c)(3)(iii)(A) “e-Buy” and adding “eBuy” in its place.?></ph> to afford all schedule contractors offering the required services under the appropriate multiple-award schedule(s) an opportunity to submit a quote; or</p>
                               </li>
                               <li class="- topic/li ">
                                  <p class="- topic/p " id="d473e120">

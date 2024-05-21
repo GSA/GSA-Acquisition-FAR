@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_9_407_1"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_9_407_1" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">9.407-1</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -70,12 +66,11 @@
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d619e58">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-						            A contractor’s suspension shall be effective throughout the executive branch of the Government, unless the agency head or a designee (except see <xref href="23.506.dita#FAR_23_506"
-                        base="i1094606"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">23.506</xref>(e)) states in writing the compelling reasons justifying continued business dealings between that agency and the contractor.</p>
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph> A contractor’s suspension shall be effective throughout the executive branch of the Government, unless the agency head or a designee (except see <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2022-006?>
+                     <xref href="26.505.dita#FAR_26_505"
+                           base="i1094571"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">26.505</xref>(e))<?FM MARKER [Why] Amend section 9.407-1 by removing from paragraph (d) “23.506(e)” and adding “26.505(e)” in its place.?></ph> states in writing the compelling reasons justifying continued business dealings between that agency and the contractor.</p>
             </li>
             <li props="Runin" class="- topic/li ">
                <p class="- topic/p " id="d619e66">

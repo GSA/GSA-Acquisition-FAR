@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_5_704"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_5_704" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">5.704</ph> Publicizing preaward.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -25,21 +22,14 @@ publication procedures at <xref href="5.201.dita#FAR_5_201"
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d369e23">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> In addition,
-notices of proposed contract actions are required for orders exceeding
-$25,000, funded in whole or in part by the Recovery Act, which are
-issued under task or delivery order contracts. This does not include
-modifications to existing orders, but these modifications are covered
-postaward, see <xref href="5.705.dita#FAR_5_705"
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> In addition, notices of proposed contract actions are required for orders exceeding $25,000, funded in whole or in part by the Recovery Act, which are issued under task or delivery order contracts. This does not include modifications to existing orders, but these modifications are covered postaward, see <xref href="5.705.dita#FAR_5_705"
                               base="i1120260"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">5.705</xref>. These notices are
-for "informational purposes only," therefore, <xref href="5.203.dita#FAR_5_203"
+                              class="- topic/xref ">5.705</xref>. These notices are for "informational purposes only," therefore, <xref href="5.203.dita#FAR_5_203"
                               base="i1120755"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">5.203</xref> does not apply.
-Contracting officers should concurrently use their usual solicitation
-practice (<i class="+ topic/ph hi-d/i ">e.g.</i>, e-Buy).</p>
+                              class="- topic/xref ">5.203</xref> does not apply. Contracting officers should concurrently use their usual solicitation practice (<i class="+ topic/ph hi-d/i ">e.g.</i>, <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>eBuy).<?FM MARKER [Why] Amend section 5.704 in paragraph (a)(2) by removing the word “e-Buy” and adding the word “eBuy” in its place.?></ph>
+                     </p>
                   </li>
                </ol>
             </li>

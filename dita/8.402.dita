@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_8_402"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_8_402" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">8.402</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -113,12 +110,11 @@ using the Governmentwide commercial purchase card.</p>
                <ol id="d454e101" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d468e70">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <i class="+ topic/ph hi-d/i ">e-Buy</i>,
-GSA’s electronic Request for Quotation (RFQ) system, is a part of
-a suite of on-line tools which complement GSA Advantage!. E-Buy
-allows ordering activities to post requirements, obtain quotes,
-and issue orders electronically. Posting an RFQ on e-Buy—</p>
+                        <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph ">
+                           <ph platform="hide" props="autonumber" class="- topic/ph ">(1)</ph>
+                           <?FM MARKER [CaseNumber] Technical Amendment?>
+                           <i class="+ topic/ph hi-d/i ">eBuy,</i> GSA's electronic request for quotation (RFQ) system, is a part of a suite of online tools which complement GSA Advantage!. GSA's eBuy allows ordering activities to post requirements, obtain quotes, and issue orders electronically. Posting an RFQ on eBuy—<?FM MARKER [Why] Amend section 8.402 by revising paragraphs (d)(1) introductory text and (d)(2)?></ph>
+                     </p>
                      <ol id="d454e114" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p class="- topic/p " id="d468e78">
@@ -144,16 +140,15 @@ when an order contains brand-name specifications (see <xref href="8.405-6.dita#F
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d468e97">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Ordering
-activities may access e-Buy at <xref href="http://www.ebuy.gsa.gov"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">http://www.ebuy.gsa.gov</xref>.
-For more information or assistance on either GSA Advantage! or e-Buy,
-contact GSA at Internet e-mail address <xref href="mailto:gsa.advantage@gsa.gov"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">gsa.advantage@gsa.gov</xref>.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>Ordering activities may access eBuy at <xref href="https://www.ebuy.gsa.gov"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://www.ebuy.gsa.gov</xref>. For more information or assistance on either GSA Advantage! or eBuy, contact GSA by email at <xref href="mailto:gsa.advantage@gsa.gov"
+                                 format="advantage@gsa.gov.gov"
+                                 scope="external"
+                                 class="- topic/xref ">gsa.advantage@gsa.gov</xref>.<?FM MARKER [Why] Amend section 8.402 by revising paragraphs (d)(1) introductory text and (d)(2).?></ph>
+                     </p>
                   </li>
                </ol>
             </li>

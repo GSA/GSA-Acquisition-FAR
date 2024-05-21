@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="FAR_19_305"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_19_305" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">19.305</ph> 
          Reviews of SDB status.
       </title>
       <conbody class="- topic/body concept/conbody ">
-         <p>This section applies to reviews of a small business concern's SDB status as a prime contractor or subcontractor.</p>
+         <p class="- topic/p ">This section applies to reviews of a small business concern's SDB status as a prime contractor or subcontractor.</p>
          <ol id="d1147e16" class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p " id="d1176e12">
@@ -20,7 +16,7 @@
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d1176e17">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Requests for an SBA review of SDB status may be forwarded to the Small Business Administration, Assistant Administrator for SDBCE, 409 Third Street, SW, Washington, DC 20416.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Requests for an SBA review of SDB status may be forwarded to the Small Business Administration, <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>Associate Administrator for Business Development (AA/BD),<?FM MARKER [Why] Amend section 19.305 in paragraph (b) by removing the words “Assistant Administrator for SDBCE” and adding the words “Associate Administrator for Business Development (AA/BD)” in its place.?></ph> 409 Third Street, SW, Washington, DC 20416.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d1176e22">

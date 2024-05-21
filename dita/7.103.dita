@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_7_103"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_7_103" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">7.103</ph> Agency-head responsibilities.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -22,7 +19,8 @@ procedures f or the following:</p>
                         outputclass="fm:Part"
                         class="- topic/xref ">part  6</xref>, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (<xref href="https://www.govinfo.gov/link/uscode/10/3206"
                         format="html"
-                        scope="external">10 U.S.C. 3206(a)(1)</xref>
+                        scope="external"
+                        class="- topic/xref ">10 U.S.C. 3206(a)(1)</xref>
                      
                    and <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
@@ -33,7 +31,8 @@ procedures f or the following:</p>
                <p class="- topic/p " id="d416e29">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph> Encouraging offerors to supply commercial products or commercial services, or to the extent that commercial products suitable, to meet the agency needs are not available, nondevelopmental items in response to agency solicitations (<xref href="https://www.govinfo.gov/link/uscode/10/3453"
                         format="html"
-                        scope="external">10 U.S.C. 3453</xref>
+                        scope="external"
+                        class="- topic/xref ">10 U.S.C. 3453</xref>
                      
                    and <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
@@ -44,7 +43,8 @@ procedures f or the following:</p>
                <p class="- topic/p " id="d416e40">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph> Ensuring that acquisition planners address the requirement to specify needs, develop specifications, and to solicit offers in such a manner to promote and provide for full and open competition with due regard to the nature of the supplies and services to be acquired (<xref href="https://www.govinfo.gov/link/uscode/10/3206"
                         format="html"
-                        scope="external">10 U.S.C. 3206(a)(1)</xref>
+                        scope="external"
+                        class="- topic/xref ">10 U.S.C. 3206(a)(1)</xref>
                      
                    and <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
@@ -168,57 +168,38 @@ metric plans and guidelines.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d416e147">
-                  <ph props="autonumber" class="- topic/ph ">(p)</ph> Ensuring
-that agency planners-</p>
+                  <ph props="autonumber" class="- topic/ph ">(p)</ph>
+                  <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2022-006?>Ensuring that agency planners-<?FM MARKER [Why] Amend section 7.103 by revising paragraph (p).?></ph>
+               </p>
                <ol id="d402e232" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d416e153">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Specify needs for printing and
-writing paper consistent with the 30 percent postconsumer fiber
-minimum content standards specified in section 2(d)(ii) of Executive
-Order 13423 of January 24, 2007, Strengthening Federal Environmental,
-Energy, and Transportation Management, and section 2(e)(iv) of Executive
-Order 13514 of October 5, 2009 (see <xref href="11.303.dita#FAR_11_303"
-                              base="i1114216"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">11.303</xref>)</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph ">Comply with the policy in <xref href="11.002.dita#FAR_11_002"
+                                 base="i1114351"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">11.002</xref>(d) regarding procurement of sustainable products and services (as defined in <xref href="2.101.dita#FAR_2_101"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">2.101</xref>) in accordance with subpart <xref href="Subpart_23.1.dita#FAR_Subpart_23_1"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">23.1</xref>;</ph>
+                     </p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d416e161">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Comply
-with the policy in <xref href="11.002.dita#FAR_11_002"
-                              base="i1114351"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">11.002</xref>(d)
-regarding procurement of biobased products, products containing
-recovered materials, environmentally preferable products and services
-(including Electronic Product Environmental Assessment Tool (EPEAT®)-registered
-electronic products, nontoxic or low-toxic alternatives), ENERGY
-STAR® and Federal Energy Management Program-designated products,
-renewable energy, water-efficient products, non-ozone-depleting products,
-and products and services that minimize or eliminate, when feasible,
-the use, release, or emission of high global warming potential hydrofluorocarbons,
-such as by using reclaimed instead of virgin hydrofluorocarbons;</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph ">Comply with the Guiding Principles for Sustainable Federal Buildings and Associated Instructions (Guiding Principles), for the design, construction, renovation, repair, or deconstruction of Federal buildings (see 36.104). The Guiding Principles can be accessed at <i class="+ topic/ph hi-d/i ">
+                              <xref href="https://www.sustainability.gov/pdfs/guiding_principles_for_sustainable_federal_buildings.pdf"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://www.sustainability.gov/​pdfs/​guiding_​principles_​for_​sustainable_​federal_​buildings.pdf</xref>;</i> and</ph>
+                     </p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d416e169">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Comply
-with the Guiding Principles for Federal Leadership in High-Performance
-and Sustainable Buildings (Guiding Principles), for the design,
-construction, renovation, repair, or deconstruction of Federal buildings.
-The Guiding Principles can be accessed at <xref href="https://www.epa.gov/greeningepa/guiding-principles-federal-leadership-high-performance-and-sustainable-buildings"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">https://www.epa.gov/greeningepa/guiding-principles-federal-leadership-high-performance-and-sustainable-buildings</xref>;
-and</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p " id="d416e177">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Require
-contractor compliance with Federal environmental requirements, when
-the contractor is operating Government-owned facilities or vehicles,
-to the same extent as the agency would be required to comply if
-the agency operated the facilities or vehicles.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        <ph rev="FAC 2024-05 May 22, 2024" class="- topic/ph ">Require contractor compliance with Federal environmental requirements, when the contractor is operating Government-owned facilities or vehicles, to the same extent as the agency would be required to comply if the agency operated the facilities or vehicles.</ph>
+                     </p>
                   </li>
                </ol>
             </li>
@@ -324,7 +305,9 @@ Institute of Standards and Technology.</p>
                   Ensuring that agency planners use project labor agreements when required (see subpart <xref href="Subpart_22.5.dita#FAR_Subpart_22_5"
                         base="i1097568"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">22.5</xref> and <xref outputclass="fm:ParaNumOnly" href="36.104.dita"/>).
+                        class="- topic/xref ">22.5</xref> and <xref outputclass="fm:ParaNumOnly"
+                        href="36.104.dita"
+                        class="- topic/xref "/>).
                </p>
             </li>
             <li class="- topic/li ">
