@@ -2578,14 +2578,15 @@
                       base="NoTitle"
                       xtrc="FAR_Subpart_4_21.html"
                       xtrf="SubPart">
-               <topicref navtitle="4.2100 Scope of part."
-                         href="4.2100.dita"
-                         outputclass="subtopic"
-                         props="4.2100"
-                         audience="FAR_4_2100"
-                         base="NoTitle"
-                         xtrc="FAR_4_2100.html"
-                         xtrf="subtopic"/>
+               <topicref
+navtitle="4.2100 Scope of subpart."
+href="4.2100.dita"
+outputclass="subtopic"
+props="4.2100"
+audience="FAR_4_2100"
+base="NoTitle"
+xtrc="FAR_4_2100.html"
+xtrf="subtopic"/>
                <topicref navtitle="4.2101 Definitions."
                          href="4.2101.dita"
                          outputclass="subtopic"
@@ -14001,24 +14002,22 @@
                          xtrc="FAR_26_504.html"
                          xtrf="subtopic"
                          base="concept"/>
-               <topicref
-href="26.505.dita"
-outputclass="subtopic"
-props="26.505"
-audience="FAR_26_505"
-xtrc="FAR_26_505.html"
-xtrf="subtopic"
-base="concept"
-navtitle="26.505 Suspension of payments, termination of contract, and debarment and suspension actions."/>
-               <topicref
-href="26.506.dita"
-outputclass="subtopic"
-props="26.506"
-audience="FAR_26_506"
-xtrc="FAR_26_506.html"
-xtrf="subtopic"
-base="concept"
-navtitle="26.506 Contract clause."/>
+               <topicref href="26.505.dita"
+                         outputclass="subtopic"
+                         props="26.505"
+                         audience="FAR_26_505"
+                         xtrc="FAR_26_505.html"
+                         xtrf="subtopic"
+                         base="concept"
+                         navtitle="26.505 Suspension of payments, termination of contract, and debarment and suspension actions."/>
+               <topicref href="26.506.dita"
+                         outputclass="subtopic"
+                         props="26.506"
+                         audience="FAR_26_506"
+                         xtrc="FAR_26_506.html"
+                         xtrf="subtopic"
+                         base="concept"
+                         navtitle="26.506 Contract clause."/>
             </topicref>
             <topicref href="Subpart_26.6.dita"
                       navtitle="Subpart 26.6 - Encouraging Contractor Policies to Ban Text Messaging While Driving"
