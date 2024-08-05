@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_3_104_4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_3_104_4" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">3.104-4</ph> Disclosure, protection, and marking of contractor bid or proposal information and source selection information.</title>
       <conbody class="- topic/body concept/conbody ">
@@ -93,8 +89,8 @@
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d94e83">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-								                A contractor from disclosing its own bid or proposal information or the recipient from receiving that information;</p>
+                        <ph rev="FAC 2024-06 August 29, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-038?>A contractor from disclosing its own bid or proposal information or the recipient from receiving that information. During reverse auctions, agencies may reveal to all offerors the offered price(s), but shall not reveal any offeror's identity except for the awardee's identity subsequent to an award resulting from the auction (see subpart 17.8);<?FM MARKER [Why] Amend section 3.104-4 by revising paragraph (e)(1).?></ph>
+                     </p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d94e88">

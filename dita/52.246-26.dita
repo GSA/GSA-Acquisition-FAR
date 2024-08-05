@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_52_246_26"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_52_246_26" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.246-26</ph> Reporting Nonconforming
 Items.</title>
@@ -16,7 +13,9 @@ Items.</title>
                      class="- topic/xref ">46.317</xref>
             </ph>,
 insert the following clause</p>
-         <p id="d3677e14" outputclass="Ctr_SmCaps" class="- topic/p ">Reporting Nonconforming Items (Nov 2021)</p>
+         <p class="- topic/p " id="d3677e14" outputclass="Ctr_SmCaps">
+            <ph rev="FAC 2024-06 August 29, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>Reporting Nonconforming Items (Aug 2024)<?FM MARKER [Why] Amend section 52.246-26 by—   a. Revising the date of the clause; and?></ph>
+         </p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p " id="d3677e18">
@@ -24,11 +23,17 @@ insert the following clause</p>
                   <i class="+ topic/ph hi-d/i ">Definitions.</i> As
 used in this clause—</p>
                <p class="- topic/p " id="d3677e24">
-                  <i outputclass="Term" xtrf="_52.246-26" xtrc="d3668e37">Common item</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.246-26"
+                     xtrc="d3668e37"
+                     class="+ topic/ph hi-d/i ">Common item</i> means
 an item that has multiple applications versus a single or peculiar
 application.</p>
                <p class="- topic/p " id="d3677e28">
-                  <i outputclass="Term" xtrf="_52.246-26" xtrc="d3668e43">Counterfeit item</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.246-26"
+                     xtrc="d3668e43"
+                     class="+ topic/ph hi-d/i ">Counterfeit item</i> means
 an unlawful or unauthorized reproduction, substitution, or alteration
 that has been knowingly mismarked, misidentified, or otherwise misrepresented
 to be an authentic, unmodified item from the original manufacturer, or
@@ -38,29 +43,44 @@ manufacturer. Unlawful or unauthorized substitution includes used
 items represented as new, or the false identification of grade,
 serial number, lot number, date code, or performance characteristics.</p>
                <p class="- topic/p " id="d3677e32">
-                  <i outputclass="Term" xtrf="_52.246-26" xtrc="d3668e49">Critical item</i> means an item, the failure
+                  <i outputclass="Term"
+                     xtrf="_52.246-26"
+                     xtrc="d3668e49"
+                     class="+ topic/ph hi-d/i ">Critical item</i> means an item, the failure
 of which is likely to result in hazardous or unsafe conditions for
 individuals using, maintaining, or depending upon the item; or is
 likely to prevent performance of a vital agency mission.</p>
                <p class="- topic/p " id="d3677e36">
-                  <i outputclass="Term" xtrf="_52.246-26" xtrc="d3668e55">Critical nonconformance</i> means a nonconformance
+                  <i outputclass="Term"
+                     xtrf="_52.246-26"
+                     xtrc="d3668e55"
+                     class="+ topic/ph hi-d/i ">Critical nonconformance</i> means a nonconformance
 that is likely to result in hazardous or unsafe conditions for individuals using,
 maintaining, or depending upon the supplies or services; or is likely
 to prevent performance of a vital agency mission.</p>
                <p class="- topic/p " id="d3677e40">
-                  <i outputclass="Term" xtrf="_52.246-26" xtrc="d3668e62">Design
+                  <i outputclass="Term"
+                     xtrf="_52.246-26"
+                     xtrc="d3668e62"
+                     class="+ topic/ph hi-d/i ">Design
 activity</i> means an organization, Government or contractor, that
 has responsibility for the design and configuration of an item,
 including the preparation or maintenance of design documents. Design
 activity could be the original organization, or an organization
 to which design responsibility has been transferred.</p>
                <p class="- topic/p " id="d3677e44">
-                  <i outputclass="Term" xtrf="_52.246-26" xtrc="d3668e68">Major nonconformance</i> means a nonconformance,
+                  <i outputclass="Term"
+                     xtrf="_52.246-26"
+                     xtrc="d3668e68"
+                     class="+ topic/ph hi-d/i ">Major nonconformance</i> means a nonconformance,
 other than critical, that is likely to result in failure of the
 supplies or services, or to materially reduce the usability of the
 supplies or services for their intended purpose.</p>
                <p class="- topic/p " id="d3677e48">
-                  <i outputclass="Term" xtrf="_52.246-26" xtrc="d3668e74">Suspect
+                  <i outputclass="Term"
+                     xtrf="_52.246-26"
+                     xtrc="d3668e74"
+                     class="+ topic/ph hi-d/i ">Suspect
 counterfeit item</i> means an item for which credible evidence (including
 but not limited to, visual inspection or testing) provides reasonable
 doubt that the item is authentic.</p>
@@ -186,11 +206,12 @@ information prohibited from disclosure by statute or regulation.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3677e145">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph> Additional
-guidance on the use of GIDEP is provided at <xref href="http://www.gidep.org/about/opmanual/opmanual.htm"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">http://www.gidep.org/about/opmanual/opmanual.htm</xref>.</p>
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph> Additional guidance on the use of GIDEP is provided at <ph rev="FAC 2024-06 August 29, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>
+                     <xref href="https://www.gidep.org/login?returnUrl=%2Fdashboard"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://www.gidep.org/login?returnUrl=%2Fdashboard</xref>.<?FM MARKER [Why] b. In paragraph (e), removing the web address “ http://www.gidep.org/​about/​opmanual/​opmanual.htm  ” and adding the web address “  https://www.gidep.org/​login?​returnUrl=​%2Fdashboard  ” in its place.?></ph>
+               </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d3677e153">
