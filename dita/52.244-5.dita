@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="FAR_52_244_5"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_52_244_5" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.244-5</ph> Competition in Subcontracting.</title>
       <conbody outputclass="clause" class="- topic/body concept/conbody ">
@@ -15,7 +11,8 @@
                      base="i1073622"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">44.204</xref>(c)</ph>, insert the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3639e15">Competition in Subcontracting <ph outputclass="SmCaps" class="- topic/ph ">(Dec 1996)</ph>
+         <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3639e15">
+            <ph rev="FAC 2024-06 August 29, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>Competition in Subcontracting (Aug 2024)<?FM MARKER [Why] Amend section 52.244-5 by revising the date of the clause ?></ph>
          </p>
          <ol id="d3596e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -26,7 +23,11 @@
             <li class="- topic/li ">
                <p class="- topic/p " id="d3639e26">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-						            If the Contractor is an approved mentor under the Department of Defense Pilot Mentor-Protégé Program (Pub.L.101-510, section 831 as amended), the Contractor may award subcontracts under this contract on a noncompetitive basis to its protégés.</p>
+                  <ph rev="FAC 2024-06 August 29, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>If the Contractor is an approved mentor under the DoD Mentor-Protégé Program (<xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4902&amp;num=0&amp;edition=prelim"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">10 U.S.C. 4902</xref>), the Contractor may award subcontracts under this contract on a noncompetitive basis to its protégés.<?FM MARKER [Why] Amend section 52.244-5 by revising the date of the clause and paragraph (b).?></ph>
+               </p>
             </li>
          </ol>
          <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>

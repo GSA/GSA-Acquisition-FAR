@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="FAR_17_000"
-            props="TORP"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_17_000" props="TORP" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">17.000</ph> Scope of part.</title>
-      <conbody class="- topic/body concept/conbody ">
+      <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">This part prescribes policies and procedures for the acquisition of supplies and services through special contracting methods, including-</p>
          <ol id="d1033e16" class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p " id="d1061e12">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
 						            Multi-year contracting;</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d1061e17">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-						            Options; and</p>
+                  <ph rev="FAC 2024-06 August 29, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-038?>Options;<?FM MARKER [Why] Revise section 17.000 by—   a. Removing from paragraph (b) the word “and”;?></ph>
+               </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d1061e22">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-						            Leader company contracting.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Leader company <ph rev="FAC 2024-06 August 29, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-038?>contracting; and<?FM MARKER [Why] b. Removing from paragraph (c) the text “contracting.” and adding “contracting; and” in its place; and?></ph>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d1057e34">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  <ph rev="FAC 2024-06 August 29, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2015-038?>The use of reverse auctions to obtain competitive pricing.<?FM MARKER [Why] c. Adding paragraph (d).?></ph>
+               </p>
             </li>
          </ol>
       </conbody>
