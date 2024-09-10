@@ -11,10 +11,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map title="FAR"
-     outputclass="FAR"
-     rev="FAC 2024-06 August 29, 2024"
-     product="FAC 2024-06 August 29, 2024">
+<map title="FAR" outputclass="FAR">
    <topicref navtitle="Volume I-Parts 1 to 51"
              href="Volume_I.dita"
              outputclass="Volume"
@@ -9100,10 +9097,10 @@
                          navtitle="17.800 Scope of subpart."
                          outputclass="subtopic"
                          props="17.800"
-                         audience="FAR_17_801"
+                         audience="FAR_17_800"
                          xtrf="subtopic"
                          base="NoTitle"
-                         xtrc="FAR_17_801.html"/>
+                         xtrc="FAR_17_800.html"/>
                <topicref href="17.801.dita"
                          navtitle="17.801 Definitions."
                          outputclass="subtopic"
@@ -12542,7 +12539,7 @@
                          audience="FAR_23_100"
                          xtrc="FAR_23_100.html"
                          xtrf="subtopic"
-                         base="concept"/>
+                         base="NoTitle"/>
                <topicref navtitle="23.101 Definitions."
                          href="23.101.dita"
                          outputclass="subtopic"
