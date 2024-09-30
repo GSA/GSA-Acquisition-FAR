@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="FAR_52_203_11"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_52_203_11" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.203-11</ph> Certification and Disclosure Regarding Payments to Influence Certain Federal Transactions.</title>
       <conbody outputclass="provision" class="- topic/body concept/conbody ">
@@ -15,12 +11,17 @@
                      base="i1124124"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">3.808</xref>(a)</ph>, insert the following provision:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Certification and Disclosure Regarding Payments to Influence Certain Federal Transactions (Sept 2007)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps" id="d3066e15">
+            <ph rev="FAC 2024-07 September 30, 2024" class="- topic/ph ">Certification and Disclosure Regarding Payments to Influence Certain Federal Transactions (Sep 2024)</ph>
+         </p>
          <ol id="d3036e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p " id="d3066e19">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this provision-"Lobbying contact" has the meaning provided at <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1602(8)&amp;num=0&amp;edition=prelim" scope="external" format="html">2 U.S.C. 1602(8)</xref>. The terms "agency," "influencing or attempting to influence," "officer or employee of an agency," "person," "reasonable compensation," and "regularly employed" are defined in the FAR clause of this solicitation entitled "Limitation on Payments to Influence Certain Federal Transactions" (<xref href="52.203-12.dita#FAR_52_203_12"
+                  <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this provision-"Lobbying contact" has the meaning provided at <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1602(8)&amp;num=0&amp;edition=prelim"
+                        scope="external"
+                        format="html"
+                        class="- topic/xref ">2 U.S.C. 1602(8)</xref>. The terms "agency," "influencing or attempting to influence," "officer or employee of an agency," "person," "reasonable compensation," and "regularly employed" are defined in the FAR clause of this solicitation entitled "Limitation on Payments to Influence Certain Federal Transactions" (<xref href="52.203-12.dita#FAR_52_203_12"
                         base="i1063429"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">52.203-12</xref>).</p>
@@ -46,7 +47,15 @@
             <li class="- topic/li ">
                <p class="- topic/p " id="d3066e56">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  <i class="+ topic/ph hi-d/i ">Penalty</i>. Submission of this certification and disclosure is a prerequisite for making or entering into this contract imposed by <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1352&amp;num=0&amp;edition=prelim" scope="external" format="html">31 U.S.C. 1352</xref>. Any person who makes an expenditure prohibited under this provision or who fails to file or amend the disclosure required to be filed or amended by this provision, shall be subject to a civil penalty of not less than $10,000, and not more than $100,000, for each such failure.</p>
+                  <ph rev="FAC 2024-07 September 30, 2024" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2023-005?>
+                     <i class="+ topic/ph hi-d/i ">Penalty</i>. Submission of this certification and disclosure is a prerequisite for making or entering into this contract imposed by <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1352&amp;num=0&amp;edition=prelim"
+                           scope="external"
+                           format="html"
+                           class="- topic/xref ">31 U.S.C. 1352</xref>. Any person who makes an expenditure prohibited under this provision or who fails to file or amend the disclosure required to be filed or amended by this provision, shall be subject to civil penalties as provided in <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1352&amp;num=0&amp;edition=prelim"
+                           scope="external"
+                           format="html"
+                           class="- topic/xref ">31 U.S.C. 1352</xref>. An imposition of a civil penalty does not prevent the Government from seeking any other remedy that may be applicable.<?FM MARKER [Why] Amend section 52.203-11 by revising the date of the provision and paragraph (e).?></ph>
+               </p>
             </li>
          </ol>
          <p class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
