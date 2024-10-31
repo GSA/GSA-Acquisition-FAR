@@ -1,3 +1,3 @@
 # GSA-Acquisition-FAR
 GSA Acquisition.gov FAR
-FAC 2024-07 September 30, 2024
+FAC 2025-01 November 8, 2024
