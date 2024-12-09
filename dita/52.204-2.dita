@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_52_204_2"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_52_204_2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.204-2</ph> Security Requirements.</title>
       <conbody outputclass="prescribed" class="- topic/body  concept/conbody ">
-         <p class="- topic/p " id="d3077e8">As prescribed
-in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+         <p class="- topic/p " id="d3077e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="4.404.dita#FAR_4_404"
                      base="i1123082"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">4.404</xref>(a)</ph>, insert
-the following clause:</p>
+                     class="- topic/xref ">4.404</xref>(a)</ph>, insert the following <ph rev="FAC 2025-02 January 3, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>clause:<?FM MARKER [Why] Amend section 52.204-2 by removing from the introductory text the word “clauses” and adding “clause” in its place.?></ph>
+         </p>
          <p id="d3076e15" outputclass="Ctr_SmCaps" class="- topic/p ">Security Requirements (Mar 2021)</p>
          <ol id="d3047e25" class="- topic/ol ">
             <li class="- topic/li ">
@@ -69,7 +65,7 @@ this contract that involve access to classified information.</p>
          <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3073e59">
                <i class="+ topic/ph hi-d/i ">Alternate I </i>
-               <ph outputclass="SmCaps">(Apr 1984)</ph>.
+               <ph outputclass="SmCaps" class="- topic/ph ">(Apr 1984)</ph>.
 If a cost contract for research and development with an educational
 institution is contemplated, add the following paragraphs (e), (f),
 and (g) to the basic clause:</p>
@@ -111,7 +107,7 @@ of the Termination for the Convenience of the Government clause.</p>
             <p class="- topic/p " id="d3073e73">
                <i class="+ topic/ph hi-d/i ">Alternate
 II </i>
-               <ph outputclass="SmCaps">(Apr 1984)</ph>. If employee identification is required
+               <ph outputclass="SmCaps" class="- topic/ph ">(Apr 1984)</ph>. If employee identification is required
 for security or other reasons in a construction contract or architect-engineer
 contract, add the following paragraph (e) to the basic clause:</p>
             <p outputclass="List1" class="- topic/p ">(e) The Contractor shall be responsible
