@@ -11,10 +11,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map title="FAR"
-     outputclass="FAR"
-     rev="FAC 2025-02 January 3, 2025"
-     product="FAC 2025-02 January 3, 2025">
+<map title="FAR" outputclass="FAR">
    <topicref navtitle="Volume I-Parts 1 to 51"
              base="NoTitle"
              href="Volume_I.dita"
@@ -43,7 +40,7 @@
              otherprops="NoProp"
              xtrc="Not"
              xtrf="Foreword"/>
-   <topicref navtitle="List of Sections Affected FAC 2025-01 November 12, 2024"
+   <topicref navtitle="List of Sections Affected FAC 2025-02 January 3, 2025"
              base="concept"
              href="LSATable.dita"
              props=""
@@ -1572,7 +1569,7 @@
                    audience="FAR_Part_4"
                    xtrc=""
                    xtrf="Part">
-            <topicref navtitle="4.000&#xA;         Scope of part."
+            <topicref navtitle="4.000 &#xA;         Scope of part."
                       base="concept"
                       href="4.000.dita"
                       props="4.000"
@@ -9099,7 +9096,7 @@
                <topicref navtitle="17.800 Scope of subpart."
                          base="NoTitle"
                          href="17.800.dita"
-                         props="17.801"
+                         props="17.800"
                          outputclass="subtopic"
                          audience="FAR_17_800"
                          xtrf="subtopic"
@@ -9107,7 +9104,7 @@
                <topicref navtitle="17.801 Definitions."
                          base="concept"
                          href="17.801.dita"
-                         props="17.802"
+                         props="17.801"
                          outputclass="subtopic"
                          audience="FAR_17_801"
                          xtrf="subtopic"
@@ -9115,7 +9112,7 @@
                <topicref navtitle="17.802 Policy."
                          base="concept"
                          href="17.802.dita"
-                         props="17.803"
+                         props="17.802"
                          outputclass="subtopic"
                          audience="FAR_17_802"
                          xtrf="subtopic"
@@ -9123,7 +9120,7 @@
                <topicref navtitle="17.803 Applicability."
                          base="concept"
                          href="17.803.dita"
-                         props="17.804"
+                         props="17.803"
                          outputclass="subtopic"
                          audience="FAR_17_803"
                          xtrf="subtopic"
@@ -9131,7 +9128,7 @@
                <topicref navtitle="17.804 Procedures."
                          base="concept"
                          href="17.804.dita"
-                         props="17.805"
+                         props="17.804"
                          outputclass="subtopic"
                          audience="FAR_17_804"
                          xtrf="subtopic"
@@ -9139,7 +9136,7 @@
                <topicref navtitle="17.805 Solicitation provision and contract clauses."
                          base="concept"
                          href="17.805.dita"
-                         props="17.806"
+                         props="17.805"
                          outputclass="subtopic"
                          audience="FAR_17_805"
                          xtrf="subtopic"
@@ -20050,7 +20047,7 @@
                          outputclass="subtopic"
                          audience="FAR_40_200"
                          xtrf="subtopic"
-                         xtrc=""/>
+                         xtrc="FAR_40_200.html"/>
                <topicref navtitle="40.201 Definitions."
                          base="concept"
                          href="40.201.dita"
@@ -20058,7 +20055,7 @@
                          outputclass="subtopic"
                          audience="FAR_40_201"
                          xtrf="subtopic"
-                         xtrc=""/>
+                         xtrc="FAR_40_201.html"/>
                <topicref navtitle="40.202 Prohibition on the procurement and operation  of unmanned aircraft systems manufactured or  assembled by American Security Drone Act-covered foreign entities."
                          base="concept"
                          href="40.202.dita"
@@ -23254,7 +23251,8 @@
                          props="47.400"
                          outputclass="subtopic"
                          audience="FAR_47_400"
-                         xtrf="subtopic"/>
+                         xtrf="subtopic"
+                         xtrc="FAR_47_400.html"/>
                <topicref navtitle="47.401 Definitions."
                          base="concept"
                          href="47.401.dita"
@@ -30806,7 +30804,8 @@
                             props="52.247-69"
                             outputclass="subtopic"
                             audience="FAR_52_247_69"
-                            xtrf="subtopic"/>
+                            xtrf="subtopic"
+                            xtrc=""/>
                </topicref>
                <topicref navtitle="52.248 [Reserved]"
                          base="concept"

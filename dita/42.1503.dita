@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_42_1503"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_42_1503" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">42.1503</ph> Procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -86,7 +82,7 @@
 										                     Management or business relations.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p class="- topic/p " id="d2575e85">
+                           <p class="- topic/p " id="d2575e85"> 
                               <ph props="autonumber" class="- topic/ph ">(v)</ph> Small business subcontracting, including reduced or untimely payments to small business subcontractors when <xref href="19.702.dita#FAR_19_702"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">19.702</xref>(a) requires a subcontracting plan (as applicable, see <xref href="#FAR_42_1503/iTable_42-2"
@@ -106,12 +102,12 @@
 								                 Evaluation factors may include subfactors.</p>
                   </li>
                   <li class="- topic/li ">
-                     <p class="- topic/p " id="d2575e106">
+                     <p class="- topic/p " id="d2575e106"> 
                         <ph props="autonumber" class="- topic/ph ">(4)</ph> Each factor and subfactor used shall be evaluated and a supporting narrative provided. Each evaluation factor, as listed in paragraph (b)(2) of this section, shall be rated in accordance with a five scale rating system (<i class="+ topic/ph hi-d/i ">i.e.</i>, exceptional, very good, satisfactory, marginal, and unsatisfactory). The ratings and narratives must reflect the definitions in the tables <xref href="42.1503.dita#FAR_42_1503/iTable_42-1"
-                              outputclass="fm:TEXT"
-                              class="- topic/xref ">42.1503 Procedures.</xref> or <xref href="#FAR_42_1503/iTable_42-2"
-                              outputclass="fm:TEXT"
-                              class="- topic/xref ">42.1503 Procedures.</xref> of this section.</p>
+                              outputclass="fm:Table"
+                              class="- topic/xref ">Table  42-1</xref> or <xref href="#FAR_42_1503/iTable_42-2"
+                              outputclass="fm:Table"
+                              class="- topic/xref ">Table  42-2</xref> of this section.</p>
                   </li>
                </ol>
             </li>
