@@ -11,10 +11,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map title="FAR"
-     outputclass="FAR"
-     rev="FAC 2025-01 November 12, 2024"
-     product="FAC 2025-01 November 12, 2024">
+<map title="FAR" outputclass="FAR">
    <topicref navtitle="Volume I-Parts 1 to 51"
              href="Volume_I.dita"
              outputclass="Volume"
@@ -20050,7 +20047,7 @@
                          audience="FAR_40_200"
                          xtrf="subtopic"
                          base="NoTitle"
-                         xtrc=""/>
+                         xtrc="FAR_40_200.html"/>
                <topicref href="40.201.dita"
                          navtitle="40.201 Definitions."
                          outputclass="subtopic"
@@ -20058,7 +20055,7 @@
                          audience="FAR_40_201"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="FAR_40_201.html"/>
                <topicref href="40.202.dita"
                          navtitle="40.202 Prohibition on the procurement and operation  of unmanned aircraft systems manufactured or  assembled by American Security Drone Act-covered foreign entities."
                          outputclass="subtopic"
@@ -23248,6 +23245,14 @@
                       base="NoTitle"
                       xtrc="FAR_Subpart_47_4.html"
                       xtrf="SubPart">
+               <topicref href="47.400.dita"
+                         navtitle="47.400 Scope of subpart."
+                         outputclass="subtopic"
+                         props="47.400"
+                         audience="FAR_47_400"
+                         xtrf="subtopic"
+                         base="NoTitle"
+                         xtrc="FAR_47_400.html"/>
                <topicref navtitle="47.401 Definitions."
                          href="47.401.dita"
                          outputclass="subtopic"
@@ -23305,7 +23310,7 @@
                          base="concept"
                          xtrc="FAR_47_404.html"
                          xtrf="subtopic"/>
-               <topicref navtitle="47.405 Contract clause."
+               <topicref navtitle="47.405 Contract clauses."
                          href="47.405.dita"
                          outputclass="subtopic"
                          props="47.405"
@@ -30793,6 +30798,14 @@
                             base="concept"
                             xtrc=""
                             xtrf="subtopic"/>
+                  <topicref href="52.247-69.dita"
+                            navtitle="52.247-69 Reporting Requirement for U.S.-Flag Air Carriers Regarding Training to Prevent Human Trafficking."
+                            outputclass="subtopic"
+                            props="52.247-69"
+                            audience="FAR_52_247_69"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
                </topicref>
                <topicref navtitle="52.248 [Reserved]"
                          href="52.248.dita"

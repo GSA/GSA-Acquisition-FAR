@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+<dita>
    <concept id="FAR_52_225_18"
-            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept "
             xtrc="VFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.225-18</ph> Place of Manufacture.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p " id="d3416e8">As prescribed
-in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+         <p class="- topic/p " id="d3416e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                <xref href="25.1101.dita#FAR_25_1101"
                      base="i1090819"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">25.1101</xref>
-            </ph>(f), insert
-the following solicitation provision:</p>
+            </ph>(f), insert the following <ph rev="FAC 2025-02 January 3, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>provision:<?FM MARKER [Why] Amend section 52.225-18 by removing from the introductory text “solicitation provision” and adding “provision” in its place.?></ph>
+         </p>
          <p class="- topic/p " id="d3416e14" outputclass="Ctr_SmCaps">Place of Manufacture <ph outputclass="SmCaps" class="- topic/ph ">(Aug 2018)</ph>
          </p>
          <ol id="d3377e25" class="- topic/ol ">
@@ -27,7 +24,10 @@ the following solicitation provision:</p>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>.
 As used in this provision—</p>
                <p class="- topic/p " id="d3416e26">
-                  <i outputclass="Term" xtrf="_52.225-18" xtrc="d3412e40">Manufactured end product</i> means
+                  <i outputclass="Term"
+                     xtrf="_52.225-18"
+                     xtrc="d3412e40"
+                     class="+ topic/ph hi-d/i ">Manufactured end product</i> means
 any end product in product and service codes (PSCs) 1000-9999, except-<ol id="d3377e47" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p class="- topic/p " id="d3416e32">
@@ -79,7 +79,10 @@ Minerals, Natural and Synthetic; and</p>
                            <ph props="autonumber" class="- topic/ph ">(10)</ph> PSC 9630,
 Additive Metal Materials.</p>
                         <p class="- topic/p " id="d3416e81">
-                           <i outputclass="Term" xtrf="_52.225-18" xtrc="d3412e137">Place of manufacture</i> means
+                           <i outputclass="Term"
+                              xtrf="_52.225-18"
+                              xtrc="d3412e137"
+                              class="+ topic/ph hi-d/i ">Place of manufacture</i> means
 the place where an end product is assembled out of components, or
 otherwise made or processed from raw materials into the finished
 product that is to be provided to the Government. If a product is

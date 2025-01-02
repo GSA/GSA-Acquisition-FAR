@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="FAR_47_101"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_47_101" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">47.101</ph> Policies.</title>
       <conbody class="- topic/body concept/conbody ">
@@ -122,15 +118,16 @@
                         class="- topic/xref ">part  19</xref>.</p>
             </li>
             <li class="- topic/li ">
-               <p class="- topic/p " id="d2742e115">
-                  <ph props="autonumber" class="- topic/ph ">(g)</ph>
-						            Agencies shall comply with the Fly America Act, the Cargo Preference Act, and related statutes as prescribed in <xref href="Subpart_47.4.dita#FAR_Subpart_47_4"
-                        base="i1069958"
-                        outputclass="fm:Subparts"
-                        class="- topic/xref ">subparts  47.4</xref>, Air Transportation by U.S.-Flag Carriers, and <xref href="Subpart_47.5.dita#FAR_Subpart_47_5"
-                        base="i1069798"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">47.5</xref>, Ocean Transportation by U.S.-Flag Vessels.</p>
+               <p class="- topic/p " id="d2742e115"> 
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph> 
+                  <ph rev="FAC 2025-02 January 3, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-017?>Agencies shall comply with the requirements for Government-financed air transportation (commonly referred to as the Fly America Act), the Cargo Preference Act, and related statutes as prescribed in <xref href="Subpart_47.4.dita#FAR_Subpart_47_4"
+                           base="i1069958"
+                           outputclass="fm:Subparts"
+                           class="- topic/xref ">subparts  47.4</xref>, Air Transportation by U.S.-Flag Carriers, and <xref href="Subpart_47.5.dita#FAR_Subpart_47_5"
+                           base="i1069798"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">47.5</xref>, Ocean Transportation by U.S.-Flag Vessels.<?FM MARKER [Why] Amend section 47.101 by revising paragraph (g).?></ph> 
+               </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d2742e126">

@@ -11,10 +11,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="FAR"
-     outputclass="FAR"
-     rev="FAC 2025-01 November 8, 2024"
-     product="FAC 2025-01 November 8, 2024">
+<map title="FAR" outputclass="FAR">
    <topicref navtitle="Volume I-Parts 1 to 51"
              base="NoTitle"
              href="Volume_I.dita"
@@ -43,7 +40,7 @@
              otherprops="NoProp"
              xtrc="Not"
              xtrf="Foreword"/>
-   <topicref navtitle="List of Sections Affected FAC 2024-07 September 30, 2024"
+   <topicref navtitle="List of Sections Affected FAC 2025-02 January 3, 2025"
              base="concept"
              href="LSATable.dita"
              props=""
@@ -1940,7 +1937,7 @@
                    xtrf="Part"
                    tables="0"
                    figures="0">
-            <topicref navtitle="4.000Scope of part."
+            <topicref navtitle="4.000 &#xA;         Scope of part."
                       base="concept"
                       href="4.000.dita"
                       props="4.000"
@@ -11301,7 +11298,7 @@
                <topicref navtitle="17.800 Scope of subpart."
                          base="NoTitle"
                          href="17.800.dita"
-                         props="17.801"
+                         props="17.800"
                          outputclass="subtopic"
                          audience="FAR_17_800"
                          xtrf="subtopic"
@@ -11311,7 +11308,7 @@
                <topicref navtitle="17.801 Definitions."
                          base="concept"
                          href="17.801.dita"
-                         props="17.802"
+                         props="17.801"
                          outputclass="subtopic"
                          audience="FAR_17_801"
                          xtrf="subtopic"
@@ -11321,7 +11318,7 @@
                <topicref navtitle="17.802 Policy."
                          base="concept"
                          href="17.802.dita"
-                         props="17.803"
+                         props="17.802"
                          outputclass="subtopic"
                          audience="FAR_17_802"
                          xtrf="subtopic"
@@ -11331,7 +11328,7 @@
                <topicref navtitle="17.803 Applicability."
                          base="concept"
                          href="17.803.dita"
-                         props="17.804"
+                         props="17.803"
                          outputclass="subtopic"
                          audience="FAR_17_803"
                          xtrf="subtopic"
@@ -11341,7 +11338,7 @@
                <topicref navtitle="17.804 Procedures."
                          base="concept"
                          href="17.804.dita"
-                         props="17.805"
+                         props="17.804"
                          outputclass="subtopic"
                          audience="FAR_17_804"
                          xtrf="subtopic"
@@ -11351,7 +11348,7 @@
                <topicref navtitle="17.805 Solicitation provision and contract clauses."
                          base="concept"
                          href="17.805.dita"
-                         props="17.806"
+                         props="17.805"
                          outputclass="subtopic"
                          audience="FAR_17_805"
                          xtrf="subtopic"
@@ -24926,6 +24923,7 @@
                          outputclass="subtopic"
                          audience="FAR_40_200"
                          xtrf="subtopic"
+                         xtrc="FAR_40_200.html"
                          tables="0"
                          figures="0"/>
                <topicref navtitle="40.201 Definitions."
@@ -24935,9 +24933,10 @@
                          outputclass="subtopic"
                          audience="FAR_40_201"
                          xtrf="subtopic"
+                         xtrc="FAR_40_201.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="40.202 Prohibition on the Procurement and Operation of Unmanned Aircraft Systems Manufactured or Assembled by American Security Drone Act-Covered Foreign Entities."
+               <topicref navtitle="40.202 Prohibition on the procurement and operation  of unmanned aircraft systems manufactured or  assembled by American Security Drone Act-covered foreign entities."
                          base="concept"
                          href="40.202.dita"
                          props="40.203"
@@ -24954,6 +24953,7 @@
                             outputclass="subtopic"
                             audience="FAR_40_202_1"
                             xtrf="subtopic"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="40.202-2 Applicability."
@@ -24963,6 +24963,7 @@
                             outputclass="subtopic"
                             audience="FAR_40_202_2"
                             xtrf="subtopic"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="40.202-3 Prohibition."
@@ -24972,6 +24973,7 @@
                             outputclass="subtopic"
                             audience="FAR_40_202_3"
                             xtrf="subtopic"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="40.202-4 Exemptions."
@@ -24981,6 +24983,7 @@
                             outputclass="subtopic"
                             audience="FAR_40_202_4"
                             xtrf="subtopic"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="40.202-5 Exceptions."
@@ -24990,6 +24993,7 @@
                             outputclass="subtopic"
                             audience="FAR_40_202_5"
                             xtrf="subtopic"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="40.202-6 Waivers."
@@ -24999,6 +25003,7 @@
                             outputclass="subtopic"
                             audience="FAR_40_202_6"
                             xtrf="subtopic"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="40.202-7 Procedures."
@@ -25008,6 +25013,7 @@
                             outputclass="subtopic"
                             audience="FAR_40_202_7"
                             xtrf="subtopic"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="40.202-8 Contract clause."
@@ -25017,6 +25023,7 @@
                             outputclass="subtopic"
                             audience="FAR_40_202_8"
                             xtrf="subtopic"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -28894,6 +28901,16 @@
                       xtrf="SubPart"
                       tables="0"
                       figures="0">
+               <topicref navtitle="47.400 Scope of subpart."
+                         base="NoTitle"
+                         href="47.400.dita"
+                         props="47.400"
+                         outputclass="subtopic"
+                         audience="FAR_47_400"
+                         xtrf="subtopic"
+                         xtrc="FAR_47_400.html"
+                         tables="0"
+                         figures="0"/>
                <topicref navtitle="47.401 Definitions."
                          base="concept"
                          href="47.401.dita"
@@ -28965,7 +28982,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="47.405 Contract clause."
+               <topicref navtitle="47.405Contract clauses."
                          base="concept"
                          href="47.405.dita"
                          props="47.405"
@@ -36740,6 +36757,7 @@
                             outputclass="subtopic"
                             audience="FAR_52_240_1"
                             xtrf="subtopic"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -38286,6 +38304,16 @@
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
+                  <topicref navtitle="52.247-69 Reporting Requirement for U.S.-Flag Air Carriers Regarding Training to Prevent Human Trafficking."
+                            base="concept"
+                            href="52.247-69.dita"
+                            props="52.247-69"
+                            outputclass="subtopic"
+                            audience="FAR_52_247_69"
+                            xtrf="subtopic"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
                </topicref>
                <topicref navtitle="52.248 [Reserved]"
                          base="concept"
@@ -38678,7 +38706,7 @@
                       audience="FAR_Subpart_52_3"
                       xtrc="FAR_Subpart_52_3.html"
                       xtrf="SubPart"
-                      print="yes"
+                      print="no"
                       tables="0"
                       figures="0">
                <topicref navtitle="52.300 Scope of subpart."
@@ -38699,7 +38727,7 @@
                          audience="FAR_52_301"
                          xtrc="FAR_52_301.html"
                          xtrf="subtopic"
-                         print="yes"
+                         print="no"
                          tables="1"
                          figures="0">
                   <topicref navtitle="52.301-1 Far Matrix"
