@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_52_222_54"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_52_222_54" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.222-54</ph> Employment Eligibility
 Verification.</title>
@@ -18,8 +15,10 @@ in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                      class="- topic/xref ">22.1803</xref>
             </ph>, Insert the
 following clause:</p>
-         <p id="d3362e14" outputclass="Ctr_SmCaps" class="- topic/p ">Employment Eligibility Verification
-(May 2022)</p>
+         <p id="d3362e14"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p "
+            rev="FAC 2025-03 January 17, 2025"><?FM MARKER [CaseNumber] FAR Case 2019-015?>Employment Eligibility Verification (Jan 2025)<?FM MARKER [Why] Amend section 52.222-54 by—   a. Revising the date of the clause;?></p>
          <ol id="d3323e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p " id="d3362e21">
@@ -27,7 +26,10 @@ following clause:</p>
                   <i class="+ topic/ph hi-d/i ">Definitions</i>.
 As used in this clause-</p>
                <p class="- topic/p " id="d3362e27">
-                  <i outputclass="Term" xtrf="_52.222-54" xtrc="d3358e40">Commercially available
+                  <i outputclass="Term"
+                     xtrf="_52.222-54"
+                     xtrc="d3358e40"
+                     class="+ topic/ph hi-d/i ">Commercially available
 off-the-shelf (COTS) item</i>— <ol id="d3323e47" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p class="- topic/p " id="d3362e33">
@@ -61,7 +63,8 @@ it is sold in the commercial marketplace; and</p>
                            <ph props="autonumber" class="- topic/ph ">(2)</ph> Does not
 include bulk cargo, as defined in <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40102(4)&amp;num=0&amp;edition=prelim"
                                  scope="external"
-                                 format="html">46 U.S.C. 40102(4)</xref>,
+                                 format="html"
+                                 class="- topic/xref ">46 U.S.C. 40102(4)</xref>,
 such as agricultural products and petroleum products. Per <ph outputclass="CFR" class="- topic/ph ">46 CFR 525.1</ph> (c)(2), "bulk cargo" means
 cargo that is loaded and carried in bulk onboard ship without mark or
 count, in a loose unpackaged form, having homogenous characteristics.
@@ -72,7 +75,10 @@ bulk cargo.</p>
                   </ol>
                </p>
                <p class="- topic/p " id="d3362e67">
-                  <i outputclass="Term" xtrf="_52.222-54" xtrc="d3358e103">Employee assigned to
+                  <i outputclass="Term"
+                     xtrf="_52.222-54"
+                     xtrc="d3358e103"
+                     class="+ topic/ph hi-d/i ">Employee assigned to
 the contract</i> means an employee who was hired after November
 6, 1986 (after November 27, 2009 in the Commonwealth of the Northern
 Mariana Islands), who is directly performing work, in the United
@@ -96,7 +102,10 @@ perform any substantial duties applicable to the contract.</p>
                   </ol>
                </p>
                <p class="- topic/p " id="d3362e85">
-                  <i outputclass="Term" xtrf="_52.222-54" xtrc="d3358e133">Subcontract</i> means any contract, as defined
+                  <i outputclass="Term"
+                     xtrf="_52.222-54"
+                     xtrc="d3358e133"
+                     class="+ topic/ph hi-d/i ">Subcontract</i> means any contract, as defined
 in <xref href="2.101.dita#FAR_2_101"
                         base="i1125359"
                         outputclass="fm:ParaNumOnly"
@@ -105,14 +114,21 @@ a subcontractor to furnish supplies or services for performance
 of a prime contract or a subcontract. It includes but is not limited
 to purchase orders, and changes and modifications to purchase orders.</p>
                <p class="- topic/p " id="d3362e92">
-                  <i outputclass="Term" xtrf="_52.222-54" xtrc="d3358e142">Subcontractor</i> means any supplier, distributor,
+                  <i outputclass="Term"
+                     xtrf="_52.222-54"
+                     xtrc="d3358e142"
+                     class="+ topic/ph hi-d/i ">Subcontractor</i> means any supplier, distributor,
 vendor, or firm that furnishes supplies or services to or for a
 prime Contractor or another subcontractor.</p>
                <p class="- topic/p " id="d3362e96">
-                  <i outputclass="Term" xtrf="_52.222-54" xtrc="d3358e149">United
+                  <i outputclass="Term"
+                     xtrf="_52.222-54"
+                     xtrc="d3358e149"
+                     class="+ topic/ph hi-d/i ">United
 States</i>, as defined in <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101(a)(38)&amp;num=0&amp;edition=prelim"
                         scope="external"
-                        format="html">8 U.S.C. 1101(a)(38)</xref>,
+                        format="html"
+                        class="- topic/xref ">8 U.S.C. 1101(a)(38)</xref>,
 means the 50 States, the District of Columbia, Puerto Rico, Guam,
 the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin
 Islands.</p>
@@ -211,7 +227,8 @@ of this section).</p>
                         <ph props="autonumber" class="- topic/ph ">(3)</ph> If the
 Contractor is an institution of higher education (as defined at <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001(a)&amp;num=0&amp;edition=prelim"
                               scope="external"
-                              format="html">20 U.S.C. 1001(a)</xref>);
+                              format="html"
+                              class="- topic/xref ">20 U.S.C. 1001(a)</xref>);
 a State or local government or the government of a Federally recognized
 Indian tribe; or a surety performing under a takeover agreement
 entered into with a Federal agency pursuant to a performance bond,
@@ -256,22 +273,13 @@ the requirements of the E-Verify program MOU.</p>
                      <ol id="d3323e363" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p class="- topic/p " id="d3362e206">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The Department
-of Homeland Security (DHS) or the Social Security Administration
-(SSA) may terminate the Contractor’s MOU and deny access to the
-E-Verify system in accordance with the terms of the MOU. In such
-case, the Contractor will be referred to a suspension or debarment
-official.</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The Department of Homeland Security (DHS) or the Social Security Administration (SSA) may terminate the Contractor’s MOU and deny access to the E-Verify system in accordance with the terms of the MOU. In such case, the Contractor will be referred to a <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-015?>suspending and debarring<?FM MARKER [Why] b. Removing from paragraph (b)(5)(i) “suspension or debarment” and adding “suspending and debarring” in its place; and?></ph> official.</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p " id="d3362e211">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> During
-the period between termination of the MOU and a decision by the
-suspension or debarment official whether to suspend or debar, the
-Contractor is excused from its obligations under paragraph (b) of
-this clause. If the suspension or debarment official determines
-not to suspend or debar the Contractor, then the Contractor must reenroll
-in E-Verify.</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-015?>During the period between termination of the MOU and a decision by the suspending and debarring official whether to suspend or debar, the Contractor is excused from its obligations under paragraph (b) of this clause. If the Contractor is not suspended, debarred, or subject to a voluntary exclusion, then the Contractor must reenroll in E-Verify.<?FM MARKER [Why] c. Revising paragraph (b)(5)(ii).?></ph>
+                           </p>
                         </li>
                      </ol>
                   </li>

@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_3_104_7"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_3_104_7" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">3.104-7</ph> Violations or possible violations.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -17,7 +13,8 @@
                   
 						            A contracting officer who receives or obtains information of a violation or possible violation of <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2102&amp;num=0&amp;edition=prelim"
                         scope="external"
-                        format="html">41 U.S.C. 2102</xref>, 2103, or 2104 (see <xref href="3.104-3.dita#FAR_3_104_3"
+                        format="html"
+                        class="- topic/xref ">41 U.S.C. 2102</xref>, 2103, or 2104 (see <xref href="3.104-3.dita#FAR_3_104_3"
                         base="i1124784"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">3.104-3</xref>) must determine if the reported violation or possible violation has any impact on the pending award or selection of the contractor.</p>
@@ -86,7 +83,8 @@
                         
 								                Recommend that the agency head determine that the contractor, or someone acting for the contractor, has engaged in conduct constituting an offense punishable under <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2105&amp;num=0&amp;edition=prelim"
                               scope="external"
-                              format="html">41 U.S.C. 2105</xref>, for the purpose of voiding or rescinding the contract.</p>
+                              format="html"
+                              class="- topic/xref ">41 U.S.C. 2105</xref>, for the purpose of voiding or rescinding the contract.</p>
                   </li>
                </ol>
             </li>
@@ -96,7 +94,8 @@
                   
 						            Before concluding that an offeror, contractor, or person has violated <xref href="http://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title41-chapter21&amp;saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGU0MC1jaGFwdGVyMzctZnJvbnQ%3D%7C%7C%7C0%7Cfalse%7Cprelim&amp;edition=prelim"
                         scope="external"
-                        format="html">41 U.S.C. chapter 21</xref>, the HCA may consider that the interests of the Government are best served by requesting information from appropriate parties regarding the violation or possible violation.</p>
+                        format="html"
+                        class="- topic/xref ">41 U.S.C. chapter 21</xref>, the HCA may consider that the interests of the Government are best served by requesting information from appropriate parties regarding the violation or possible violation.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d97e85">
@@ -104,7 +103,8 @@
                   
 						            If the HCA concludes that <xref href="http://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title41-chapter21&amp;saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGU0MC1jaGFwdGVyMzctZnJvbnQ%3D%7C%7C%7C0%7Cfalse%7Cprelim&amp;edition=prelim"
                         scope="external"
-                        format="html">41 U.S.C. chapter 21</xref> has been violated, the HCA may direct the contracting officer to-</p>
+                        format="html"
+                        class="- topic/xref ">41 U.S.C. chapter 21</xref> has been violated, the HCA may direct the contracting officer to-</p>
                <ol id="d95e155" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d97e94">
@@ -159,7 +159,8 @@
                                     
 												                        The contractor or someone acting for the contractor has been convicted for an offense where the conduct constitutes a violation of <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2102&amp;num=0&amp;edition=prelim"
                                           scope="external"
-                                          format="html">41 U.S.C. 2102</xref> for the purpose of either-</p>
+                                          format="html"
+                                          class="- topic/xref ">41 U.S.C. 2102</xref> for the purpose of either-</p>
                                  <ol id="d95e239" class="- topic/ol ">
                                     <li outputclass="italic" class="- topic/li ">
                                        <p class="- topic/p " id="d97e144">
@@ -181,7 +182,8 @@
                                     
 												                        The agency head has determined, based upon a preponderance of the evidence, that the contractor or someone acting for the contractor has engaged in conduct constituting an offense punishable under <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2105(a)&amp;num=0&amp;edition=prelim"
                                           scope="external"
-                                          format="html">41 U.S.C. 2105(a)</xref>; or</p>
+                                          format="html"
+                                          class="- topic/xref ">41 U.S.C. 2105(a)</xref>; or</p>
                               </li>
                            </ol>
                         </li>
@@ -195,9 +197,7 @@
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d97e167">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-								                Refer the matter to the agency suspending or debarring official.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Refer the matter to the agency <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-015?>suspending and<?FM MARKER [Why] Amend section 3.104-7 by removing from paragraph (d)(3) “suspending or” and adding “suspending and” in its place.?></ph> debarring official.</p>
                   </li>
                </ol>
             </li>

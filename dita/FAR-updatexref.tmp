@@ -11,7 +11,10 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="FAR" outputclass="FAR">
+<map title="FAR"
+     outputclass="FAR"
+     rev="FAC 2025-03 January 17, 2025"
+     product="FAC 2025-03 January 17, 2025">
    <topicref navtitle="Volume I-Parts 1 to 51"
              base="NoTitle"
              href="Volume_I.dita"
@@ -40,7 +43,7 @@
              otherprops="NoProp"
              xtrc="Not"
              xtrf="Foreword"/>
-   <topicref navtitle="List of Sections Affected FAC 2025-02 January 3, 2025"
+   <topicref navtitle="List of Sections Affected FAC 2025-03 January 17, 2025"
              base="concept"
              href="LSATable.dita"
              props=""
