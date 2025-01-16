@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="FAR_8_405_5"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_8_405_5" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">8.405-5</ph> Small business.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -20,7 +16,8 @@
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">19</xref> are not mandatory in this subpart, in accordance with section 1331 of Public Law 111-240 (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644(r)&amp;num=0&amp;edition=prelim"
                         scope="external"
-                        format="html">15 U.S.C. 644(r)</xref>)-</p>
+                        format="html"
+                        class="- topic/xref ">15 U.S.C. 644(r)</xref>)-</p>
                <ol id="d461e29" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d476e22">
@@ -83,13 +80,12 @@
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d476e72">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-						            Orders placed under schedule contracts may be credited toward the ordering activity’s small business goals. For purposes of reporting an order placed with a small business schedule contractor, an ordering agency may only take credit if the awardee meets a size standard that corresponds to the North American Industry Classification System code assigned to the order in accordance with <xref href="19.102.dita#FAR_19_102"
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Orders placed under schedule contracts may be credited toward the ordering activity’s small business goals. For purposes of reporting an order placed with a small business schedule contractor, an ordering agency may only take credit if the awardee meets a size standard that corresponds to the North American Industry Classification System code assigned to the order in accordance with <xref href="19.102.dita#FAR_19_102"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">19.102</xref>(b)(3). Ordering activities should rely on the small business representations made by schedule contractors at the contract level (but see section <xref href="19.301-2.dita#FAR_19_301_2"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">19.301-2</xref>(b)(2) concerning rerepresentation for an order).</p>
+                        class="- topic/xref ">19.102</xref>(b)(3). Ordering activities should rely on the small business representations made by schedule contractors at the contract level (but see <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2020-016?>
+                     <xref href="19.301-2.dita#FAR_19_301_2"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">19.301-2</xref>(b)(3)<?FM MARKER [Why] Amend section 8.405-5 in paragraph (b) by removing the text “section 19.301-2(b)(2)” and adding “19.301-2(b)(3)” in its place.?></ph> concerning rerepresentation for an order).</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d476e83">

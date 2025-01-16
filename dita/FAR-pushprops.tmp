@@ -11,7 +11,10 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="FAR" outputclass="FAR">
+<map title="FAR"
+     outputclass="FAR"
+     rev="FAC 2025-03 January 17, 2025"
+     product="FAC 2025-03 January 17, 2025">
    <topicref navtitle="Volume I-Parts 1 to 51"
              base="NoTitle"
              href="Volume_I.dita"
@@ -40,7 +43,7 @@
              otherprops="NoProp"
              xtrc="Not"
              xtrf="Foreword"/>
-   <topicref navtitle="List of Sections Affected FAC 2025-02 January 3, 2025"
+   <topicref navtitle="List of Sections Affected FAC 2025-03 January 17, 2025"
              base="concept"
              href="LSATable.dita"
              props=""
@@ -6220,7 +6223,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0">
-                  <topicref navtitle="9.406-1 General."
+                  <topicref navtitle="9.406-1  General."
                             base="concept"
                             href="9.406-1.dita"
                             props="9.406-1"
@@ -28982,7 +28985,7 @@
                          xtrf="subtopic"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="47.405Contract clauses."
+               <topicref navtitle="47.405 &#xA;         Contract clauses.&#xA;      "
                          base="concept"
                          href="47.405.dita"
                          props="47.405"
@@ -31971,7 +31974,7 @@
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="52.209-6 Protecting the Government’s&#xA;Interest When Subcontracting with Contractors Debarred, Suspended,&#xA;or Proposed for Debarment."
+                  <topicref navtitle="52.209-6Protecting the Government's Interest When Subcontracting With Contractors Debarred, Suspended, Proposed for Debarment, or Voluntarily Excluded."
                             base="concept"
                             href="52.209-6.dita"
                             props="52.209-6"
@@ -33749,7 +33752,7 @@
                             xtrf="subtopic"
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="52.219-28 Post-Award Small&#xA;Business Program Rerepresentation."
+                  <topicref navtitle="52.219-28Postaward Small Business Program Rerepresentation."
                             base="concept"
                             href="52.219-28.dita"
                             props="52.219-28"

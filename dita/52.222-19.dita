@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="FAR_52_222_19"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_52_222_19" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.222-19</ph> Child Labor-Cooperation
 with Authorities and Remedies.</title>
@@ -17,11 +14,10 @@ in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">22.1505</xref>(b)</ph>, insert
 the following clause:</p>
-         <p class="- topic/p " id="d3327e15" outputclass="Ctr_SmCaps">
-            Child
-            Labor-Cooperation with Authorities and Remedies (Feb
-            2024)
-         </p>
+         <p class="- topic/p "
+            id="d3327e15"
+            outputclass="Ctr_SmCaps"
+            rev="FAC 2025-03 January 17, 2025"><?FM MARKER [CaseNumber] FAR Case 2019-015?>Child Labor-Cooperation with Authorities and Remedies (Jan 2025)<?FM MARKER [Why] Amend section 52.222-19 by—   a. Revising the date of the clause;?></p>
          <ol id="d3288e25" class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p " id="d3327e19">
@@ -136,23 +132,22 @@ Contracting Officer may terminate the contract.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3327e99">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                         The suspending
-official may suspend the Contractor in accordance with procedures
-in FAR <xref href="Subpart_9.4.dita#FAR_Subpart_9_4"
-                              base="i1115147"
-                              outputclass="fm:Subpart"
-                              class="- topic/xref ">subpart  9.4</xref>.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-015?>suspending and debarring official<?FM MARKER [Why] b. Removing from paragraph (d)(2) “suspending official” and “Subpart” and adding “suspending and debarring official” and “subpart” in their places, respectively; and?></ph> may suspend the Contractor in accordance with procedures in FAR <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph ">
+                           <xref href="Subpart_9.4.dita#FAR_Subpart_9_4"
+                                 base="i1115147"
+                                 outputclass="fm:Subpart"
+                                 class="- topic/xref ">subpart  9.4</xref>.</ph>
+                     </p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d3327e107">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                         The debarring
-official may debar the Contractor for a period not to exceed 3 years
-in accordance with the procedures in FAR <xref href="Subpart_9.4.dita#FAR_Subpart_9_4"
-                              base="i1115147"
-                              outputclass="fm:Subpart"
-                              class="- topic/xref ">subpart  9.4</xref>.</p>
+                        <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-015?>The suspending and debarring<?FM MARKER [Why] c. Removing from paragraph (d)(3) “The debarring” and “Subpart” and adding “The suspending and debarring” and “subpart” in their places, respectively.?></ph> may debar the Contractor for a period not to exceed 3 years in accordance with the procedures in FAR <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph ">
+                           <xref href="Subpart_9.4.dita#FAR_Subpart_9_4"
+                                 base="i1115147"
+                                 outputclass="fm:Subpart"
+                                 class="- topic/xref ">subpart  9.4</xref>.</ph>
+                     </p>
                   </li>
                </ol>
             </li>

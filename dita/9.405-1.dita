@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_9_405_1"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="FAR_9_405_1" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">9.405-1</ph> Continuation of current
 contracts.</title>
@@ -14,26 +11,16 @@ contracts.</title>
             <li props="Runin" class="- topic/li ">
                <p class="- topic/p " id="d610e10">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Contractors debarred, suspended,
-or proposed for debarment</i>.</p>
+                  <i class="+ topic/ph hi-d/i ">Contractors debarred, suspended, <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-015?>proposed for debarment, or voluntarily excluded<?FM MARKER [Why] Amend section 9.405-1 by—   a. Removing from paragraph (a) heading “ or proposed for debarment  ” and adding “  proposed for debarment, or voluntarily excluded  ” in its place;?></ph>
+                  </i>.</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d610e18">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Notwithstanding the debarment,
-suspension, or proposed debarment of a contractor, agencies may
-continue contracts or subcontracts in existence at the time the
-contractor was debarred, suspended, or proposed for debarment unless
-the agency head directs otherwise. A decision as to the type of
-termination action, if any, to be taken should be made only after
-review by agency contracting and technical personnel and by counsel
-to ensure the propriety of the proposed action.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Notwithstanding the debarment, suspension, <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-015?>proposed debarment, or voluntary exclusion, of<?FM MARKER [Why] b. Removing from paragraph (a)(1) “or proposed debarment of” and “or proposed for debarment unless” and adding “proposed debarment, or voluntary exclusion, of” and “proposed for debarment, or voluntarily excluded, unless” in their places, respectively; and?></ph> a contractor, agencies may continue contracts or subcontracts in existence at the time the contractor was debarred, suspended, <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph ">proposed for debarment, or voluntarily excluded, unless</ph> the agency head directs otherwise. A decision as to the type of termination action, if any, to be taken should be made only after review by agency contracting and technical personnel and by counsel to ensure the propriety of the proposed action.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p " id="d610e23">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> For contractors
-debarred, suspended, or proposed for debarment, unless the agency
-head makes a written determination of the compelling reasons for
-doing so, ordering activities shall not—</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> For contractors debarred, suspended, <ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2019-015?>proposed for debarment, or voluntarily excluded, unless<?FM MARKER [Why] c. Removing from paragraph (a)(2) introductory text “or proposed for debarment, unless” and adding “proposed for debarment, or voluntarily excluded, unless” in its place.?></ph> the agency head makes a written determination of the compelling reasons for doing so, ordering activities shall not—</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p class="- topic/p " id="d610e29">
@@ -66,7 +53,8 @@ shall terminate existing contracts and shall not place new orders
 or award new contracts with contractors that have been declared
 ineligible pursuant to <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section983&amp;num=0&amp;edition=prelim"
                         scope="external"
-                        format="html">10 U.S.C. 983</xref> (see <xref href="9.110.dita#FAR_9_110"
+                        format="html"
+                        class="- topic/xref ">10 U.S.C. 983</xref> (see <xref href="9.110.dita#FAR_9_110"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">9.110</xref>),
 except for contracts at or below the simplified acquisition threshold
