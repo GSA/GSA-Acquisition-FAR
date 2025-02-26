@@ -1,50 +1,49 @@
-**Federal Acquisition Regulation (FAR) Integration Guide**
+# Federal Acquisition Regulation
+The Federal Acquisition Regulation (FAR) includes all Federal Acquisition Circulars through 2025-03 effective January 17, 2025. Beginning in fiscal year 2019, designation of Federal Acquisition Circulars was changed to reflect the fiscal year in the first four digits and the sequence of the issued circular in the last two digits.
 
+## FAR Integration Guide
 **Table of Contents**
 
 - [Introduction](#Introduction)
-
-- [FAR Updates and Tracking Changes](#far-updates-and-tracking-changes)
-
-- [Fill-in Clauses in the FAR](#fill-in-clauses-in-the-far)
-
 - [Incorporating FAR Content into Contract Writing Systems](#incorporating-far-content-into-contract-writing-systems)
-
+- [Fill-in Clauses in the FAR](#fill-in-clauses-in-the-far)
 - [Example Scenario](#example-scenario)
+- [FAR Updates and Tracking Changes](#far-updates-and-tracking-changes)
 
 ---
 
 ## Introduction
 
-The \*\*Federal Acquisition Regulation (FAR)\*\* is the cornerstone regulation for federal agencies acquiring supplies and services with appropriated funds. It provides a structured framework to ensure consistency and compliance in the government’s procurement processes.
-
-This guide is crafted for developers to demystify the FAR’s structure, illustrate how it evolves through updates, and demonstrate how to seamlessly integrate FAR content into contract writing systems, especially when managing fill-in clauses. Whether you’re building tools for government contracting officers or vendors, this readme will equip you with the knowledge to handle FAR data effectively.
+This FAR Integration guide outlines the information needed for contract writing systems to integrate the FAR XML content as the source for contract data. FAR XML utilizes the DITA (Darwin Information Typing Architecture) schema standard.
 
 ---
 
-## **FAR Updates and Tracking Changes**
+## **Incorporating FAR Content into Contract Writing Systems**
 
-The FAR is a living document updated through Federal Acquisition Circulars (FACs). Each FAC introduces revisions and is uniquely identified by a number and effective date. Since fiscal year 2019, FACs have followed a naming convention in which the first four digits represent the fiscal year and the last two indicate the sequence (e.g., FAC 2025-03, effective January 17, 2025).
+To integrate FAR content effectively, follow these steps:
 
-### **Tracking Changes in the FAR**
+**Parse the Structure**:
 
-Updates are embedded in the FAR text using XML attributes and processing instructions:
+* **DITA Map**: Extract fill-in types from xtrc attributes to identify which clauses need input and from whom.  
+* **Content**: Locate \<cite\> elements and their xtrf attributes to pinpoint fill-in placeholders.
 
-The `rev` Attribute**: This marks specific text revisions with the FAC number and effective date. For example:
-`
-<ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph ">proposed for debarment, or voluntarily excluded, as</ph>`
+ **Handle Fill-ins**:
 
-**List of Sections Affected (LSA) Markers**: For the LSA table (LSATable.dita), changes are detailed with processing instructions surrounding affected text. These include:
+* **GFI**: Build interfaces for Government Contracting Officers to enter data.  
+* **VFI**: Create vendor-facing forms for data input.  
+* **Editable**: Enable text modification by Contracting Officers, adhering to prescriptions.
 
-* `<?FM MARKER [CaseNumber] FAR Case ####-###?>`: Links the change to a specific FAR case.  
-*  `<?FM MARKER [Why] ...?>`: Explains the change (e.g., text added or removed).
+**Track Updates**:
 
-Example:
-`
-<ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case ####-###?> proposed for debarment, or voluntarily excluded, unless <?FM MARKER [Why] b. …?></ph>`
+* Use rev attributes to highlight or filter changes by FAC.  
+* Leverage LSA markers for detailed change logs or compliance reports.
 
+**Ensure Compliance**:
 
-These markers enable developers to track and present FAR updates dynamically in their systems.
+* Validate that fill-ins are completed by the correct party.  
+* Regularly update the system with the latest FACs to reflect current regulations.
+
+This approach ensures your system is both functional and compliant with FAR requirements.
 
 ---
 
@@ -94,35 +93,6 @@ The outputclass attribute defines the fill-in format (SingleLine, MultiLine, Che
 
 ---
 
-## **Incorporating FAR Content into Contract Writing Systems**
-
-To integrate FAR content effectively, follow these steps:
-
-**Parse the Structure**:
-
-* **DITA Map**: Extract fill-in types from xtrc attributes to identify which clauses need input and from whom.  
-* **Content**: Locate \<cite\> elements and their xtrf attributes to pinpoint fill-in placeholders.
-
- **Handle Fill-ins**:
-
-* **GFI**: Build interfaces for Government Contracting Officers to enter data.  
-* **VFI**: Create vendor-facing forms for data input.  
-* **Editable**: Enable text modification by Contracting Officers, adhering to prescriptions.
-
-**Track Updates**:
-
-* Use rev attributes to highlight or filter changes by FAC.  
-* Leverage LSA markers for detailed change logs or compliance reports.
-
-**Ensure Compliance**:
-
-* Validate that fill-ins are completed by the correct party.  
-* Regularly update the system with the latest FACs to reflect current regulations.
-
-This approach ensures your system is both functional and compliant with FAR requirements.
-
----
-
 ## Example Scenario
 
 Imagine a contract writing system generating a contract with clause **52.203-14**, which includes a GFI:
@@ -133,3 +103,30 @@ Imagine a contract writing system generating a contract with clause **52.203-14*
 4. **Output**: After input (e.g., “Inspector General Hotline”), the system replaces the placeholder in the final contract.
 
 For a **VFI** clause, the process would shift to prompt the Vendor instead. This workflow showcases how metadata drives automation in contract creation.
+
+---
+
+## **FAR Updates and Tracking Changes**
+
+The FAR is a living document updated through Federal Acquisition Circulars (FACs). Each FAC introduces revisions and is uniquely identified by a number and effective date. Since fiscal year 2019, FACs have followed a naming convention in which the first four digits represent the fiscal year and the last two indicate the sequence (e.g., FAC 2025-03, effective January 17, 2025).
+
+### **Tracking Changes in the FAR**
+
+Updates are embedded in the FAR text using XML attributes and processing instructions:
+
+The `rev` Attribute**: This marks specific text revisions with the FAC number and effective date. For example:
+`
+<ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph ">proposed for debarment, or voluntarily excluded, as</ph>`
+
+**List of Sections Affected (LSA) Markers**: For the LSA table (LSATable.dita), changes are detailed with processing instructions surrounding affected text. These include:
+
+* `<?FM MARKER [CaseNumber] FAR Case ####-###?>`: Links the change to a specific FAR case.  
+*  `<?FM MARKER [Why] ...?>`: Explains the change (e.g., text added or removed).
+
+Example:
+`
+<ph rev="FAC 2025-03 January 17, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case ####-###?> proposed for debarment, or voluntarily excluded, unless <?FM MARKER [Why] b. …?></ph>`
+
+
+These markers enable developers to track and present FAR updates dynamically in their systems.
+
