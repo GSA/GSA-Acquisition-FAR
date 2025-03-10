@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="FAR_52_234_4"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            xtrc="Editable">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+   <concept id="FAR_52_234_4" class="- topic/topic concept/concept " xtrc="VFI">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">52.234-4</ph> Earned Value Management System.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -65,12 +61,14 @@
                <p class="- topic/p " id="d3548e71">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph> The Contractor shall require the subcontractors specified below to comply with the requirements of this clause: [Insert list of applicable subcontractors.]</p>
                <p class="- topic/p " id="d3548e75">
-                  <cite outputclass="MultiLine" xtrf="VFI" xtrc="52.234-4_pph_5dp_21c">________________________________________________</cite>
+                  <cite outputclass="MultiLine"
+                        xtrf="VFI"
+                        xtrc="52.234-4_pph_5dp_21c"
+                        class="- topic/cite ">________________________________________________</cite>
                </p>
                <p class="- topic/p " id="d3548e77o">________________________________________________</p>
                <p class="- topic/p " id="d3548e76s09d">________________________________________________</p>
                <p class="- topic/p " id="d3548e98eww">________________________________________________</p>
-               <p class="- topic/p " id="d3548e77">(End of clause)</p>
             </li>
          </ol>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
