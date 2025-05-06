@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
-   <concept id="FAR_1_501" class="- topic/topic concept/concept " xtrc="">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">1.501</ph> Solicitation of agency and public views.</title>
+<dita>
+   <concept id="FAR_1_501" xtrc="" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">1.501</ph> 
+         <b class="+ topic/ph hi-d/b ">Definition.</b>
+      </title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p "> 
+            <i outputclass="Term"
+               xtrf="_1.501"
+               xtrc="d1e10"
+               class="+ topic/ph hi-d/i ">Determination and findings</i> (D&amp;F) means a special form of written approval by an authorized official that is required by statute or regulation before taking certain contract actions.<p class="- topic/p ">The <i class="+ topic/ph hi-d/i ">determination</i> is a conclusion or decision supported by the <i class="+ topic/ph hi-d/i ">findings.</i> The findings are statements of fact or reasons essential to support the determination, and must cover each requirement of the statute or regulation.</p> 
+         </p>
+      </conbody>
    </concept>
 </dita>

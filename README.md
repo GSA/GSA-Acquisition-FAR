@@ -1,5 +1,5 @@
 # Federal Acquisition Regulation
-The Federal Acquisition Regulation (FAR) includes all Federal Acquisition Circulars through 2025-03 effective January 17, 2025. Beginning in fiscal year 2019, designation of Federal Acquisition Circulars was changed to reflect the fiscal year in the first four digits and the sequence of the issued circular in the last two digits.
+The Federal Acquisition Regulation (FAR) Council is issuing model deviation guidance to kickstart FAR streamlining. The guidance, which will be released on a rolling basis by FAR part, will be adopted by agencies until the FAR is formally revised through rulemaking.
 
 ## FAR Integration Guide
 **Table of Contents**

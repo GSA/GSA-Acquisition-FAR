@@ -1,26 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
-   <concept id="FAR_1_107" class="- topic/topic concept/concept " xtrc="">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">1.107</ph> Certifications.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p id="d23e8" class="- topic/p ">In accordance with <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1304&amp;num=0&amp;edition=prelim"
-                  scope="external"
-                  format="html">41 U.S.C. 1304</xref>, a new requirement for a certification by a contractor or offeror may not be included in this chapter unless-</p>
+<dita>
+   <concept id="FAR_1_107" xtrc="" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">1.107</ph> FAR conventions.</title>
+      <conbody class="- topic/body  concept/conbody ">
          <ol id="d21e22" class="- topic/ol ">
-            <li class="- topic/li ">
-               <p class="- topic/p " id="d23e15">
+            <li props="Runin" class="- topic/li ">
+               <p id="d23e15" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-						            The certification requirement is specifically imposed by statute; or</p>
+                    
+                  <i class="+ topic/ph hi-d/i ">Words and terms</i>.</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         Definitions in <xref href="Part_2.dita#FAR_Part_2"
+                              outputclass="fm:Part"
+                              class="- topic/xref ">part  2</xref> apply to the entire regulation unless specifically defined in another part, subpart, section, provision, or clause. Words or terms defined in a specific part, subpart, section, provision, or clause have that meaning when used in that part, subpart, section, provision, or clause.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         Undefined words retain their common dictionary meaning.</p>
+                  </li>
+               </ol>
             </li>
             <li class="- topic/li ">
-               <p class="- topic/p " id="d23e20">
+               <p id="d23e20" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-						            Written justification for such certification is provided to the Administrator for Federal Procurement Policy by the Federal Acquisition Regulatory Council, and the Administrator approves in writing the inclusion of such certification requirement.</p>
+                   
+                  <i class="+ topic/ph hi-d/i ">Delegation of authority.</i> Each authority is delegable unless specifically stated otherwise.</p>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                   
+                  <i class="+ topic/ph hi-d/i ">Dollar thresholds</i>.</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         Unless otherwise specified, a specific dollar threshold is the final anticipated dollar value of the action, including the dollar value of all options.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  The final anticipated dollar value must be the highest final priced alternative to the Government, including the dollar value of all options, if the action establishes—</p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> A maximum quantity of supplies or services to be acquired;</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> A ceiling price; or</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> The final price to be based on future events.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph> 
+                  <i class="+ topic/ph hi-d/i ">Applying FAR changes to solicitations and contracts</i>. Unless otherwise specified—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         FAR changes apply to solicitations issued on or after the effective date of the change;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         Contracting officers may, at their discretion, include the FAR changes in solicitations issued before the effective date, provided award of the resulting contract(s) occurs on or after the effective date; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                         Contracting officers may, at their discretion, include the changes in any existing contract with appropriate consideration.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                   
+                  <i class="+ topic/ph hi-d/i ">Citations</i>. When the FAR cites a statute, Executive order, Office of Management and Budget circular, Office of Federal Procurement Policy policy letter, or relevant portion of the Code of Federal Regulations, the citation includes all applicable amendments, unless otherwise stated.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph> 
+                  <i class="+ topic/ph hi-d/i ">Required action</i>. When a sentence directs action, the contracting officer is responsible for the action, unless another party is expressly cited.</p>
             </li>
          </ol>
       </conbody>

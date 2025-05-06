@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
-   <concept id="FAR_1_104" class="- topic/topic concept/concept " xtrc="">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">1.104</ph> Applicability.</title>
-      <conbody class="- topic/body concept/conbody ">
-         <p id="d17e8" class="- topic/p ">The FAR applies to all acquisitions as defined in <xref href="Part_2.dita#FAR_Part_2"
-                  outputclass="fm:Part"
-                  class="- topic/xref ">part  2</xref> of the FAR, except where expressly excluded.</p>
+<dita>
+   <concept id="FAR_1_104" xtrc="" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">1.104</ph> Publication and code arrangement.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="ol_ecw_df5_52c" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Changes to the FAR are published in the daily issue of the Federal Register. A cumulative version of the FAR is published–</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> In the Code of Federal Regulations (CFR), in an annually updated version, at <xref href="https://www.govinfo.gov/app/collection/cfr"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref "/>, and as a daily updated version at ecfr.gov; and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> In an enhanced daily updated version available at <xref href="https://www.acquisition.gov/browse/index/far"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref "/>.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Each numbered unit or segment (<i class="+ topic/ph hi-d/i ">e.g.</i>, part, subpart, section, etc.) of an agency acquisition regulation that is codified in the CFR must begin with the chapter number. However, the chapter number assigned to the FAR will not be included in the numbered units or segments of the FAR.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Using the FAR coverage at <xref href="9.106-4.dita#FAR_9_106_4"
+                        class="- topic/xref "
+                        outputclass="fm:ParaNumOnly">9.106-4</xref>(d) as a typical illustration, reference to the part would be "FAR <xref href="Part_9.dita#FAR_Part_9"
+                        class="- topic/xref "
+                        outputclass="fm:Part">part  9</xref>" outside the FAR and "<xref href="Part_9.dita#FAR_Part_9"
+                        class="- topic/xref "
+                        outputclass="fm:Part">part  9</xref>" within the FAR. Reference to the section would be "FAR <xref href="9.106.dita#FAR_9_106"
+                        class="- topic/xref "
+                        outputclass="fm:ParaNumOnly">9.106</xref>" outside the FAR and "<xref href="9.106.dita#FAR_9_106"
+                        class="- topic/xref "
+                        outputclass="fm:ParaNumOnly">9.106</xref>" within the FAR.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  If required by 41 U.S.C. 1707, proposed revisions must be published in the Federal Register for public comment.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph> The General Services Administration is responsible for establishing and operating the FAR Regulatory Secretariat to publish and distribute the FAR through the CFR system.</p>
+            </li>
+         </ol>
       </conbody>
    </concept>
 </dita>

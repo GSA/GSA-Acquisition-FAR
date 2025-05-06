@@ -1,15 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
-   <concept id="FAR_34_104" class="- topic/topic concept/concept " xtrc="">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">34.104</ph> Contract clause.</title>
-      <conbody class="- topic/body concept/conbody ">
+<dita>
+   <concept id="FAR_34_104" xtrc="" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">34.104</ph> Testing and qualification.</title>
+      <conbody class="- topic/body  concept/conbody ">
          <p id="d2260e8" class="- topic/p ">Insert the clause at <xref href="52.234-1.dita#FAR_52_234_1"
                   base="i1048707"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">52.234-1</xref>, Industrial Resources Developed under TitleIII, Defense Production Act, in all contracts for major systems and items of supply.</p>
+                  class="- topic/xref ">52.201</xref>, Industrial Resources Developed under Title III, Defense Production Act, in all contracts for major systems and items of supply.</p>
+         <ol class="- topic/ol ">
+            <li props="Runin" class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+               </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> When notified that a Title III project contractor has requested testing and approval of a Title III industrial resource, the contracting officer will review the request according to agency procedures to determine if—</p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The Title III industrial resource is being used or might be used in the manufacture or development of a major system or item of supply; and</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> The remaining quantities available for purchase justify incurring the cost of testing and qualification.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The contracting officer may also consult with the Defense Production Act Office, Title III Program, located at Wright Patterson Air Force Base, Ohio 45433-7739.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> If both conditions at 34.104(a)(1) are met, the contracting officer must modify the contract to require the contractor to conduct testing.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> The Title III Program will provide the contractor enough of the Title III industrial resource to conduct the necessary tests.</p>
+            </li>
+         </ol>
       </conbody>
    </concept>
 </dita>
