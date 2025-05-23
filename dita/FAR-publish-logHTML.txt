@@ -1,5 +1,8 @@
  [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/52.101.dita' does not exist or cannot be loaded.
  [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/52.105.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/18.202.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/18.203.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/Subpart_18.2.dita' does not exist or cannot be loaded.
  [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/Subpart_1.7.dita' does not exist or cannot be loaded.
  [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/1.602-2.dita' does not exist or cannot be loaded.
  [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/52.104.dita' does not exist or cannot be loaded.
@@ -11,6 +14,7 @@
  [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/1.201-1.dita' does not exist or cannot be loaded.
  [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/34.001.dita' does not exist or cannot be loaded.
  [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/52.107.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/GSA-Acquisition-FAR/dita/10.003.dita' does not exist or cannot be loaded.
 [move-meta] Part:: [DOTX061W][WARN]: ID 'FAR_Part_2' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
 [move-meta] Part:: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_2.dita#FAR_Part_2'. Using navigation title as fallback. 
 [move-meta] subtopic:FAR_2_000.html: [DOTX061W][WARN]: ID 'FAR_2_000' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
@@ -1159,16 +1163,6 @@
 [move-meta] subtopic:FAR_9_702.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_9.dita#FAR_9_702'. Using navigation title as fallback. 
 [move-meta] subtopic:FAR_9_703.html: [DOTX061W][WARN]: ID 'FAR_9_703' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
 [move-meta] subtopic:FAR_9_703.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_9.dita#FAR_9_703'. Using navigation title as fallback. 
-[move-meta] Part:: [DOTX061W][WARN]: ID 'FAR_Part_10' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] Part:: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_10.dita#FAR_Part_10'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_10_000.html: [DOTX061W][WARN]: ID 'FAR_10_000' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_10_000.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_10.dita#FAR_10_000'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_10_001.html: [DOTX061W][WARN]: ID 'FAR_10_001' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_10_001.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_10.dita#FAR_10_001'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_10_002.html: [DOTX061W][WARN]: ID 'FAR_10_002' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_10_002.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_10.dita#FAR_10_002'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_10_003.html: [DOTX061W][WARN]: ID 'FAR_10_003' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_10_003.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_10.dita#FAR_10_003'. Using navigation title as fallback. 
 [move-meta] Part:: [DOTX061W][WARN]: ID 'FAR_Part_11' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
 [move-meta] Part:: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_11.dita#FAR_Part_11'. Using navigation title as fallback. 
 [move-meta] subtopic:FAR_11_000.html: [DOTX061W][WARN]: ID 'FAR_11_000' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
@@ -2087,80 +2081,6 @@
 [move-meta] subtopic:FAR_17_804.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_17.dita#FAR_17_804'. Using navigation title as fallback. 
 [move-meta] subtopic:FAR_17_805.html: [DOTX061W][WARN]: ID 'FAR_17_805' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
 [move-meta] subtopic:FAR_17_805.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_17.dita#FAR_17_805'. Using navigation title as fallback. 
-[move-meta] Part:: [DOTX061W][WARN]: ID 'FAR_Part_18' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] Part:: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_Part_18'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_000.html: [DOTX061W][WARN]: ID 'FAR_18_000' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_000.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_000'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_001.html: [DOTX061W][WARN]: ID 'FAR_18_001' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_001.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_001'. Using navigation title as fallback. 
-[move-meta] SubPart:FAR_Subpart_18_1.html: [DOTX061W][WARN]: ID 'FAR_Subpart_18_1' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] SubPart:FAR_Subpart_18_1.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_Subpart_18_1'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_101.html: [DOTX061W][WARN]: ID 'FAR_18_101' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_101.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_101'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_102.html: [DOTX061W][WARN]: ID 'FAR_18_102' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_102.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_102'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_103.html: [DOTX061W][WARN]: ID 'FAR_18_103' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_103.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_103'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_104.html: [DOTX061W][WARN]: ID 'FAR_18_104' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_104.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_104'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_105.html: [DOTX061W][WARN]: ID 'FAR_18_105' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_105.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_105'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_106.html: [DOTX061W][WARN]: ID 'FAR_18_106' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_106.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_106'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_107.html: [DOTX061W][WARN]: ID 'FAR_18_107' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_107.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_107'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_108.html: [DOTX061W][WARN]: ID 'FAR_18_108' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_108.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_108'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_109.html: [DOTX061W][WARN]: ID 'FAR_18_109' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_109.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_109'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_110.html: [DOTX061W][WARN]: ID 'FAR_18_110' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_110.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_110'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_111.html: [DOTX061W][WARN]: ID 'FAR_18_111' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_111.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_111'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_112.html: [DOTX061W][WARN]: ID 'FAR_18_112' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_112.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_112'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_113.html: [DOTX061W][WARN]: ID 'FAR_18_113' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_113.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_113'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_114.html: [DOTX061W][WARN]: ID 'FAR_18_114' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_114.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_114'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_115.html: [DOTX061W][WARN]: ID 'FAR_18_115' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_115.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_115'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_116.html: [DOTX061W][WARN]: ID 'FAR_18_116' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_116.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_116'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_117.html: [DOTX061W][WARN]: ID 'FAR_18_117' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_117.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_117'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_118.html: [DOTX061W][WARN]: ID 'FAR_18_118' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_118.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_118'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_119.html: [DOTX061W][WARN]: ID 'FAR_18_119' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_119.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_119'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_120.html: [DOTX061W][WARN]: ID 'FAR_18_120' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_120.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_120'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_121.html: [DOTX061W][WARN]: ID 'FAR_18_121' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_121.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_121'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_122.html: [DOTX061W][WARN]: ID 'FAR_18_122' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_122.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_122'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_123.html: [DOTX061W][WARN]: ID 'FAR_18_123' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_123.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_123'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_124.html: [DOTX061W][WARN]: ID 'FAR_18_124' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_124.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_124'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_125.html: [DOTX061W][WARN]: ID 'FAR_18_125' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_125.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_125'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_126.html: [DOTX061W][WARN]: ID 'FAR_18_126' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_126.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_126'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_127.html: [DOTX061W][WARN]: ID 'FAR_18_127' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_127.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_127'. Using navigation title as fallback. 
-[move-meta] SubPart:FAR_Subpart_18_2.html: [DOTX061W][WARN]: ID 'FAR_Subpart_18_2' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] SubPart:FAR_Subpart_18_2.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_Subpart_18_2'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_201.html: [DOTX061W][WARN]: ID 'FAR_18_201' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_201.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_201'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_202.html: [DOTX061W][WARN]: ID 'FAR_18_202' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_202.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_202'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_203.html: [DOTX061W][WARN]: ID 'FAR_18_203' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_203.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_203'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_204.html: [DOTX061W][WARN]: ID 'FAR_18_204' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_204.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_204'. Using navigation title as fallback. 
-[move-meta] subtopic:FAR_18_205.html: [DOTX061W][WARN]: ID 'FAR_18_205' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:FAR_18_205.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_18.dita#FAR_18_205'. Using navigation title as fallback. 
 [move-meta] Part:: [DOTX061W][WARN]: ID 'FAR_Part_19' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
 [move-meta] Part:: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_19.dita#FAR_Part_19'. Using navigation title as fallback. 
 [move-meta] subtopic:FAR_19_000.html: [DOTX061W][WARN]: ID 'FAR_19_000' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
@@ -6065,8 +5985,6 @@
 [move-meta] subtopic:: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_52.dita#FAR_52_209_14'. Using navigation title as fallback. 
 [move-meta] subtopic:FAR_52_210.html: [DOTX061W][WARN]: ID 'FAR_52_210' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
 [move-meta] subtopic:FAR_52_210.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_52.dita#FAR_52_210'. Using navigation title as fallback. 
-[move-meta] subtopic:: [DOTX061W][WARN]: ID 'FAR_52_210_1' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
-[move-meta] subtopic:: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_52.dita#FAR_52_210_1'. Using navigation title as fallback. 
 [move-meta] subtopic:FAR_52_211.html: [DOTX061W][WARN]: ID 'FAR_52_211' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
 [move-meta] subtopic:FAR_52_211.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_52.dita#FAR_52_211'. Using navigation title as fallback. 
 [move-meta] subtopic:: [DOTX061W][WARN]: ID 'FAR_52_211_1' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
@@ -7539,9 +7457,9 @@
 [move-meta] SubPart:FAR_Subpart_53_3.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_53.dita#FAR_Subpart_53_3'. Using navigation title as fallback. 
 [move-meta] subtopic:FAR_53_300.html: [DOTX061W][WARN]: ID 'FAR_53_300' was used in topicref tag but did not reference a topic element. The href attribute on a topicref element should only reference topic level elements. 
 [move-meta] subtopic:FAR_53_300.html: [DOTX026W][WARN]: Unable to retrieve linktext from target: 'FAR_Part_53.dita#FAR_53_300'. Using navigation title as fallback. 
-[topicpull] java.io.FileNotFoundException: C:\Users\GREGPA~1\AppData\Local\Temp\temp20250515151222438\52.101.dita (The system cannot find the file specified)
+[topicpull] java.io.FileNotFoundException: C:\Users\Francis\AppData\Local\Temp\temp20250520141759693\52.101.dita (The system cannot find the file specified)
 [topicpull] [DOTX031E][ERROR]: The file 52.101.dita#FAR_52_101 is not available to resolve link information. 
-[topicpull] java.io.FileNotFoundException: C:\Users\GREGPA~1\AppData\Local\Temp\temp20250515151222438\52.101.dita (The system cannot find the file specified)
+[topicpull] java.io.FileNotFoundException: C:\Users\Francis\AppData\Local\Temp\temp20250520141759693\52.101.dita (The system cannot find the file specified)
 [topicpull] [DOTX031E][ERROR]: The file 52.101.dita#FAR_52_101 is not available to resolve link information. 
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
      [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/p[1]
@@ -7635,73 +7553,97 @@
      [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/ul[1]/li[5]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/ul[1]/li[6]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[1]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[1]/p[2]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[1]/p[3]
-     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[3]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[1]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[3]/ol[1]/li[1]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[2]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[3]/ol[1]/li[2]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[3]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[4]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[4]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[4]/ol[1]/li[1]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[3]/conbody[1]/ol[1]/li[1]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[4]/ol[1]/li[2]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[3]/conbody[1]/ol[1]/li[1]/p[2]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[2]/conbody[1]/ol[1]/li[5]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[3]/conbody[1]/ol[1]/li[1]/p[3]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[1]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[3]/conbody[1]/ol[1]/li[2]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[2]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[3]/conbody[1]/ol[1]/li[3]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[2]/ol[1]/li[1]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[3]/conbody[1]/ol[1]/li[3]/ol[1]/li[1]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[2]/ol[1]/li[2]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[3]/conbody[1]/ol[1]/li[3]/ol[1]/li[2]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[3]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[3]/conbody[1]/ol[1]/li[4]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[3]/ol[1]/li[1]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[3]/conbody[1]/ol[1]/li[4]/ol[1]/li[1]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[3]/ol[1]/li[2]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[3]/conbody[1]/ol[1]/li[4]/ol[1]/li[2]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[4]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[3]/conbody[1]/ol[1]/li[5]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[4]/ol[1]/li[1]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[1]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[4]/ol[1]/li[2]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[2]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[5]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[2]/ol[1]/li[1]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[5]/conbody[1]/ol[1]/li[6]/p[1]
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[2]/ol[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[3]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[3]/ol[1]/li[1]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[3]/ol[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[4]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[4]/ol[1]/li[1]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[4]/ol[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[5]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[6]/conbody[1]/ol[1]/li[6]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
@@ -7723,6 +7665,45 @@
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
+     [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[1]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[1]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[3]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[4]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[5]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[3]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[4]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[5]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[6]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
@@ -7732,8 +7713,54 @@
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
-     [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
-     [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
+     [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[1]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[1]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[2]/ol[1]/li[3]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[3]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[4]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[5]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[6]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[6]/ol[1]/li[1]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[6]/ol[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[6]/ol[1]/li[3]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[6]/ol[1]/li[4]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/concept[2]/conbody[1]/ol[1]/li[6]/ol[1]/li[5]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
      [xslt] Failed to transform document: An empty sequence is not allowed as the value of variable $l
      [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/p[1]
