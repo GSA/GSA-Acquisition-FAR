@@ -2,10 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-            id="FAR_17_703"
-            class="- topic/topic concept/concept "
-            xtrc="">
+   <concept id="FAR_17_703" class="- topic/topic concept/concept " xtrc="">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">17.703</ph> Policy.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -62,10 +59,12 @@
             </li>
             <li class="- topic/li ">
                <p class="- topic/p " id="d1111e68">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph> Nondefense agency certifications, waivers, and additional information are available at <xref href="https://www.acq.osd.mil/asda/dpc/cp/policy/interagency-acquisition.html"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">http://www.acq.osd.mil/dpap/cpic/cp/interagency_acquisition.html</xref>.</p>
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph> Nondefense agency certifications, waivers, and additional information are available at <ph rev="FAC 2025-04 June 11, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] Technical Amendment?>
+                     <xref href="https://www.acq.osd.mil/asda/dpc/cp/policy/interagency-acquisition.html"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/policy/interagency-acquisition.html</xref>.<?FM MARKER [Why] Amend section 17.703 in paragraph (f) by removing “ http://www.acq.osd.mil/​dpap/​cpic/​cp/​interagency_​acquisition.html  ” and adding “  https://www.acq.osd.mil/​asda/​dpc/​cp/​policy/​interagency-acquisition.html  ” in its place.?></ph>
+               </p>
             </li>
          </ol>
       </conbody>
