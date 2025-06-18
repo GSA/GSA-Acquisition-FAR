@@ -1,37 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="FAR_18_001" class="- topic/topic concept/concept " xtrc="">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">18.001</ph> Definition.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">
-            <i outputclass="Term"
-               xtrf="_18.001"
-               xtrc="d1105e15"
-               class="+ topic/ph hi-d/i ">Emergency acquisition flexibilities</i>, as used in this part, means flexibilities provided with respect to any acquisition of supplies or services by or for an executive agency that, as determined by the head of an executive agency, may be used-<ol id="d1086e16" class="- topic/ol ">
-               <li class="- topic/li ">
-                  <p class="- topic/p " id="d1114e14">
-                     <ph props="autonumber" class="- topic/ph ">(a)</ph> In support of a contingency operation as defined in <xref href="2.101.dita#FAR_2_101"
-                           base="i1125359"
-                           outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">2.101</xref>;</p>
-               </li>
-               <li class="- topic/li ">
-                  <p class="- topic/p " id="d1114e22">
-                     <ph props="autonumber" class="- topic/ph ">(b)</ph> To facilitate the defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack against the United States;</p>
-               </li>
-               <li class="- topic/li ">
-                  <p class="- topic/p " id="d1114e27">
-                     <ph props="autonumber" class="- topic/ph ">(c)</ph>  In support of a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate the provision of international disaster assistance; or</p>
-               </li>
-               <li class="- topic/li ">
-                  <p class="- topic/p " id="d1114e32">
-                     <ph props="autonumber" class="- topic/ph ">(d)</ph> When the President issues an emergency declaration, or a major disaster declaration.</p>
-               </li>
-            </ol>
-         </p>
-      </conbody>
-   </concept>
-</dita>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="FAR_18_001" xtrc="" class="- topic/topic concept/concept "><title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">18.001</ph> 
+         <b class="+ topic/ph hi-d/b ">Emergency acquisitions.</b>
+      </title><conbody class="- topic/body  concept/conbody "><ol id="d1086e16" class="- topic/ol "><li class="- topic/li ">
+               <p id="d1114e14" class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(a)</ph> <i class="+ topic/ph hi-d/i ">General flexibilities</i>. Contracting officers should use the flexibilities included in the FAR to respond quickly for an emergency or urgent need. See the list of FAR flexibilities available at <xref href="https://acquisition.gov/emergency-procurement" format="html" scope="external" class="- topic/xref ">https://acquisition.gov/emergency-procurement</xref>.</p>
+            </li><li class="- topic/li ">
+               <p id="d1114e22" class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(b)</ph> Micro-purchase threshold and simplified acquisition threshold. The definitions of micro-purchase threshold and simplified acquisition threshold at part 2 describe the circumstances and new thresholds to which they may be raised when, as determined by the head of an executive agency, they are used—</p>
+               <ol class="- topic/ol "><li class="- topic/li ">
+                     <p class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(1)</ph> Support a contingency operation;</p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(2)</ph> Help defend against or recover from cyber, nuclear, biological, chemical, or radiological attack against the United States;</p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(3)</ph> Support a request from the Secretary of State or the Administrator of the United States Agency for International Development to help provide international disaster assistance as described in 22 U.S.C. 2292 <i class="+ topic/ph hi-d/i ">et seq</i>.;</p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(4)</ph> Support response to an emergency or major disaster, or</p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(5)</ph> Support a humanitarian or peacekeeping operation using a contract to be awarded and performed, or purchase to be made, outside the United States. The simplified acquisition threshold may be changed, but not the micro-purchase threshold.</p>
+                  </li></ol>
+            </li><li class="- topic/li ">
+               <p id="d1114e27" class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(c)</ph>  <i class="+ topic/ph hi-d/i ">Simplified acquisition procedures for certain commercial products and services</i>. See part 13 for increased thresholds that may be used in acquiring commercial products or commercial services to support a contingency operation, or to help defend against or recover from cyber, nuclear, biological, chemical, or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to help provide international disaster assistance; or to support response to an emergency or major disaster. The threshold for using simplified acquisition procedures may also be raised when the acquisition is treated as a commercial product or commercial service in accordance with paragraph (d) of this section.</p>
+            </li><li class="- topic/li ">
+               <p id="d1114e32" class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(d)</ph> <i class="+ topic/ph hi-d/i ">Commercial product or commercial service treatment</i>. Contracting officers may treat any acquisition of supplies or services as an acquisition of commercial products or commercial services if the head of the agency determines the acquisition is to be used to help defend against or recover from cyber, nuclear, biological, chemical, or radiological attack. (See parts 12 and 13.)</p>
+            </li><li class="- topic/li ">
+               <p class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(e)</ph> <i class="+ topic/ph hi-d/i ">Disaster or emergency assistance activities</i>. Award preference will be given to local organizations, firms, and individuals when contracting for major disaster or emergency assistance activities when the President has made a declaration under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122; 41 U.S.C. 1903). Preference may take the form of local area set-asides or an evaluation preference. (See part 26.2.</p>
+            </li><li class="- topic/li ">
+               <p class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(f)</ph> <i class="+ topic/ph hi-d/i ">Ocean transportation by U.S. flag vessels</i>. In emergency situations, the provisions of the Cargo Preference Act of 1954 may be waived. (See part 47.)</p>
+            </li></ol></conbody></concept></dita>

@@ -1,12 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="FAR_10_001" xtrc="" class="- topic/topic concept/concept "><title class="- topic/title "> <ph props="autonumber" class="- topic/ph ">10.001</ph> Market research requirements.</title><conbody class="- topic/body  concept/conbody "><ol id="d626e13" class="- topic/ol "><li class="- topic/li ">
-               <p id="d653e10" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph>  Agencies must describe their legitimate needs.</p>
-            </li><li class="- topic/li ">
-               <p id="d653e174" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph>  Agencies must conduct market research appropriate to the circumstances before—</p><ol class="- topic/ol "><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph> Developing new requirements documents;</p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph> Soliciting offers for acquisitions with an estimated value over the simplified acquisition threshold; or</p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph> Awarding a task or delivery order over the simplified acquisition threshold.</p></li></ol>
-            </li><li class="- topic/li ">
-               <p id="d653e179" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph> Agencies should engage in responsible and constructive exchanges with industry. Agencies may use different strategies and methods to gather information, so long as they comply with existing law and regulation and do not provide an unfair competitive advantage to particular firms or violate the procurement integrity requirements (see 3.104).</p>
-            </li><li class="- topic/li ">
-               <p id="d653e201" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(d)</ph> When conducting market research, agencies must not ask potential sources to submit more than the minimum information necessary to make the determinations required in paragraph (f). </p>
-            </li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(e)</ph> Agencies must document the results of market research in a manner that suits the acquisition’s size and complexity.</p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(f)</ph> Agencies must procure commercial products and commercial services to the maximum extent practicable. Using the results of market research, agencies will determine, in the following order of priority, whether—</p><ol class="- topic/ol "><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph> A commercial product or commercial service on an existing governmentwide contract can meet the agency's requirements;</p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph> The requirements could be modified so the agency could use an existing governmentwide contract;</p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph> A commercial product or commercial service is available from another source;</p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(4)</ph> A commercial product or commercial service could be modified to meet the agency's requirements; or</p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(5)</ph> The requirement can only be satisfied by a nondevelopmental item.</p></li></ol></li></ol></conbody></concept></dita>
+<dita>
+   <concept id="FAR_10_001" xtrc="" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">10.001</ph> Market research requirements.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d626e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d653e10" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Agencies must describe their legitimate needs.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d653e174" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Agencies must conduct market research appropriate to the circumstances before—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Developing new requirements documents;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Soliciting offers for acquisitions with an estimated value over the simplified acquisition threshold; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Awarding a task or delivery order over the simplified acquisition threshold.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d653e179" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Agencies should engage in responsible and constructive exchanges with industry. Agencies may use different strategies and methods to gather information, so long as they comply with existing law and regulation and do not provide an unfair competitive advantage to particular firms or violate the procurement integrity requirements (see 3.104).</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d653e201" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph> When conducting market research, agencies must not ask potential sources to submit more than the minimum information necessary to make the determinations required in paragraph (f). </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph> Agencies must document the results of market research in a manner that suits the acquisition’s size and complexity.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph> Agencies must procure commercial products and commercial services to the maximum extent practicable. Using the results of market research, agencies will determine, in the following order of priority, whether—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> A commercial product or commercial service on an existing governmentwide contract can meet the agency's requirements;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The requirements could be modified so the agency could use an existing governmentwide contract;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> A commercial product or commercial service is available from another source;</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> A commercial product or commercial service could be modified to meet the agency's requirements; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> The requirement can only be satisfied by a nondevelopmental item.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

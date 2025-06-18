@@ -71,6 +71,7 @@
                
                
                
+               
             
             
                
@@ -803,7 +804,6 @@
             
             
             
-            
          
          
             
@@ -825,12 +825,6 @@
                
             
             
-               
-               
-            
-            
-               
-               
                
                
             
@@ -1364,42 +1358,6 @@
          
          
             
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-               
             
          
       </topicref>
@@ -2692,7 +2650,6 @@
              xtrc="FAR_6.html">
          
             
-            
                
                
                
@@ -3114,8 +3071,9 @@
          
          
             
-            
                
+            
+            
                
                
                
@@ -3687,25 +3645,110 @@
              otherprops="NoProp"
              xtrf="subtopic"
              xtrc="FAR_8.html">
-         
+         <!--<topicref navtitle="52.000 Scope of part."
+                      href="52.000.dita"
+                      outputclass="subtopic"
+                      props="52.000"
+                      audience="FAR_52_000"
+                      base="concept"
+                      xtrf="subtopic"
+                      xtrc="FAR_52_000.html"/>--><!--<topicref navtitle="Subpart 52.1 - Instructions for Using Provisions and Clauses"
+                      href="Subpart_52.1.dita"
+                      outputclass="SubPart"
+                      props="Subpart 52.1"
+                      audience="FAR_Subpart_52_1"
+                      base="NoTitle"
+                      xtrf="SubPart"
+                      xtrc="FAR_Subpart_52_1.html">
+               <topicref navtitle="52.100 Scope of subpart."
+                         href="52.100.dita"
+                         outputclass="subtopic"
+                         props="52.100"
+                         audience="FAR_52_100"
+                         base="NoTitle"
+                         xtrf="subtopic"
+                         xtrc="FAR_52_100.html"/>
+               <topicref navtitle="52.101 Using Part 52."
+                         href="52.101.dita"
+                         outputclass="subtopic"
+                         props="52.101"
+                         audience="FAR_52_101"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_52_101.html"/>
+               <topicref navtitle="52.102 Incorporating provisions and clauses."
+                         href="52.102.dita"
+                         outputclass="subtopic"
+                         props="52.102"
+                         audience="FAR_52_102"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_52_102.html"/>
+               <topicref navtitle="52.103 Identification of provisions and clauses."
+                         href="52.103.dita"
+                         outputclass="subtopic"
+                         props="52.103"
+                         audience="FAR_52_103"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_52_103.html"/>
+               <topicref navtitle="52.104 Procedures for modifying and completing provisions and clauses."
+                         href="52.104.dita"
+                         outputclass="subtopic"
+                         props="52.104"
+                         audience="FAR_52_104"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_52_104.html"/>
+               <topicref navtitle="52.105 Procedures for using alternates."
+                         href="52.105.dita"
+                         outputclass="subtopic"
+                         props="52.105"
+                         audience="FAR_52_105"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_52_105.html"/>
+               <topicref navtitle="52.106 [Reserved]"
+                         href="52.106.dita"
+                         outputclass="subtopic"
+                         props="52.106"
+                         audience="FAR_52_106"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_52_106.html"/>
+               <topicref navtitle="52.107 Provisions and clauses prescribed in subpart 52.1."
+                         href="52.107.dita"
+                         outputclass="subtopic"
+                         props="52.107"
+                         audience="FAR_52_107"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_52_107.html"/>
+            </topicref>-->
             
+               
+                  
+               
+               
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
             
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-               
-               
-            
-            <!--<topicref navtitle="Subpart 52.2 - Text of Provisions and Clauses"
+            <!-- <topicref navtitle="Subpart 52.2 - Text of Provisions and Clauses"
                       href="Subpart_52.2.dita"
                       outputclass="SubPart"
                       props="Subpart 52.2"
@@ -7838,7 +7881,7 @@
                             audience="FAR_52_234_4"
                             base="concept"
                             xtrf="subtopic"
-                            xtrc="Editable"/>
+                            xtrc=""/>
                </topicref>
                <topicref navtitle="52.235 [Reserved]"
                          href="52.235.dita"
@@ -9778,99 +9821,666 @@
                
             
          
-         
-            
-            
-            
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-               
-                  
-               
-               
-               
-               
-                  
-                  
-               
-               
-                  
-               
-               
-               
-               
-               
-                  
-               
-               
-               
-               
-               
-               
-               
-                  
-               
-               
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-                  
-                  
-               
-               
-               
-               
-               
-               
-               
-                  
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            
-            
-               
-            
-         
+         <!--<topicref navtitle="Part 53 - Forms"
+                   href="Part_53.dita"
+                   outputclass="Part"
+                   props="Part 53"
+                   audience="FAR_Part_53"
+                   base="NoTitle"
+                   xtrf="Part"
+                   xtrc="">
+            <topicref navtitle="53.000 Scope of part."
+                      href="53.000.dita"
+                      outputclass="subtopic"
+                      props="53.000"
+                      audience="FAR_53_000"
+                      base="concept"
+                      xtrf="subtopic"
+                      xtrc="FAR_53_000.html"/>
+            <topicref navtitle="53.001 Definitions."
+                      href="53.001.dita"
+                      outputclass="subtopic"
+                      props="53.001"
+                      audience="FAR_53_001"
+                      base="concept"
+                      xtrf="subtopic"
+                      xtrc="FAR_53_001.html"/>
+            <topicref navtitle="Subpart 53.1 - General"
+                      href="Subpart_53.1.dita"
+                      outputclass="SubPart"
+                      props="Subpart 53.1"
+                      audience="FAR_Subpart_53_1"
+                      base="NoTitle"
+                      xtrf="SubPart"
+                      xtrc="FAR_Subpart_53_1.html">
+               <topicref navtitle="53.100 Scope of subpart."
+                         href="53.100.dita"
+                         outputclass="subtopic"
+                         props="53.100"
+                         audience="FAR_53_100"
+                         base="NoTitle"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_100.html"/>
+               <topicref navtitle="53.101 Requirements for use of forms."
+                         href="53.101.dita"
+                         outputclass="subtopic"
+                         props="53.101"
+                         audience="FAR_53_101"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_101.html"/>
+               <topicref navtitle="53.102 Current editions."
+                         href="53.102.dita"
+                         outputclass="subtopic"
+                         props="53.102"
+                         audience="FAR_53_102"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_102.html"/>
+               <topicref navtitle="53.103 Exceptions."
+                         href="53.103.dita"
+                         outputclass="subtopic"
+                         props="53.103"
+                         audience="FAR_53_103"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_103.html"/>
+               <topicref navtitle="53.104 Overprinting."
+                         href="53.104.dita"
+                         outputclass="subtopic"
+                         props="53.104"
+                         audience="FAR_53_104"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_104.html"/>
+               <topicref navtitle="53.105 Computer generation."
+                         href="53.105.dita"
+                         outputclass="subtopic"
+                         props="53.105"
+                         audience="FAR_53_105"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_105.html"/>
+               <topicref navtitle="53.106 Special construction and printing."
+                         href="53.106.dita"
+                         outputclass="subtopic"
+                         props="53.106"
+                         audience="FAR_53_106"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_106.html"/>
+               <topicref navtitle="53.107  Obtaining forms."
+                         href="53.107.dita"
+                         outputclass="subtopic"
+                         props="53.107"
+                         audience="FAR_53_107"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_107.html"/>
+               <topicref navtitle="53.108 Recommendations concerning forms."
+                         href="53.108.dita"
+                         outputclass="subtopic"
+                         props="53.108"
+                         audience="FAR_53_108"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_108.html"/>
+               <topicref navtitle="53.109 Forms prescribed by other regulations."
+                         href="53.109.dita"
+                         outputclass="subtopic"
+                         props="53.109"
+                         audience="FAR_53_109"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_109.html"/>
+               <topicref navtitle="53.110 Continuation sheets."
+                         href="53.110.dita"
+                         outputclass="subtopic"
+                         props="53.110"
+                         audience="FAR_53_110"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_110.html"/>
+               <topicref navtitle="53.111 Contract clause."
+                         href="53.111.dita"
+                         outputclass="subtopic"
+                         props="53.111"
+                         audience="FAR_53_111"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_111.html"/>
+            </topicref>
+            <topicref navtitle="Subpart 53.2 - Prescription of Forms"
+                      href="Subpart_53.2.dita"
+                      outputclass="SubPart"
+                      props="Subpart 53.2"
+                      audience="FAR_Subpart_53_2"
+                      base="NoTitle"
+                      xtrf="SubPart"
+                      xtrc="FAR_Subpart_53_2.html">
+               <topicref navtitle="53.200 Scope of subpart."
+                         href="53.200.dita"
+                         outputclass="subtopic"
+                         props="53.200"
+                         audience="FAR_53_200"
+                         base="NoTitle"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_200.html"/>
+               <topicref navtitle="53.201 Federal acquisition system."
+                         href="53.201.dita"
+                         outputclass="subtopic"
+                         props="53.201"
+                         audience="FAR_53_201"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_201.html">
+                  <topicref navtitle="53.201-1 Contracting authority and responsibilities (SF 1402)."
+                            href="53.201-1.dita"
+                            outputclass="subtopic"
+                            props="53.201-1"
+                            audience="FAR_53_201_1"
+                            base="concept"
+                            xtrf="subtopic"
+                            xtrc=""/>
+               </topicref>
+               <topicref navtitle="53.202 [Reserved]"
+                         href="53.202.dita"
+                         outputclass="subtopic"
+                         props="53.202"
+                         audience="FAR_53_202"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_202.html"/>
+               <topicref navtitle="53.203 [Reserved]"
+                         href="53.203.dita"
+                         outputclass="subtopic"
+                         props="53.203"
+                         audience="FAR_53_203"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_203.html"/>
+               <topicref navtitle="53.204 Administrative matters."
+                         href="53.204.dita"
+                         outputclass="subtopic"
+                         props="53.204"
+                         audience="FAR_53_204"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_204.html">
+                  <topicref navtitle="53.204-1 Safeguarding classified information within industry (DDForm254, DDForm441)."
+                            href="53.204-1.dita"
+                            outputclass="subtopic"
+                            props="53.204-1"
+                            audience="FAR_53_204_1"
+                            base="concept"
+                            xtrf="subtopic"
+                            xtrc=""/>
+                  <topicref navtitle="53.204-2 [Reserved]"
+                            href="53.204-2.dita"
+                            outputclass="subtopic"
+                            props="53.204-2"
+                            audience="FAR_53_204_2"
+                            base="concept"
+                            xtrf="subtopic"
+                            xtrc=""/>
+               </topicref>
+               <topicref navtitle="53.205 Publicizing contract actions."
+                         href="53.205.dita"
+                         outputclass="subtopic"
+                         props="53.205"
+                         audience="FAR_53_205"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_205.html">
+                  <topicref navtitle="53.205-1 Paid advertisements."
+                            href="53.205-1.dita"
+                            outputclass="subtopic"
+                            props="53.205-1"
+                            audience="FAR_53_205_1"
+                            base="concept"
+                            xtrf="subtopic"
+                            xtrc=""/>
+               </topicref>
+               <topicref navtitle="53.206 [Reserved]"
+                         href="53.206.dita"
+                         outputclass="subtopic"
+                         props="53.206"
+                         audience="FAR_53_206"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_206.html"/>
+               <topicref navtitle="53.207 [Reserved]"
+                         href="53.207.dita"
+                         outputclass="subtopic"
+                         props="53.207"
+                         audience="FAR_53_207"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_207.html"/>
+               <topicref navtitle="53.208 [Reserved]"
+                         href="53.208.dita"
+                         outputclass="subtopic"
+                         props="53.208"
+                         audience="FAR_53_208"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_208.html"/>
+               <topicref navtitle="53.209 Contractor qualifications."
+                         href="53.209.dita"
+                         outputclass="subtopic"
+                         props="53.209"
+                         audience="FAR_53_209"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_209.html">
+                  <topicref navtitle="53.209-1 Responsible prospective contractors."
+                            href="53.209-1.dita"
+                            outputclass="subtopic"
+                            props="53.209-1"
+                            audience="FAR_53_209_1"
+                            base="concept"
+                            xtrf="subtopic"
+                            xtrc=""/>
+               </topicref>
+               <topicref navtitle="53.210 [Reserved]"
+                         href="53.210.dita"
+                         outputclass="subtopic"
+                         props="53.210"
+                         audience="FAR_53_210"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_210.html"/>
+               <topicref navtitle="53.211 [Reserved]"
+                         href="53.211.dita"
+                         outputclass="subtopic"
+                         props="53.211"
+                         audience="FAR_53_211"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_211.html"/>
+               <topicref navtitle="53.212 Acquisition of commercial products and commercial services."
+                         href="53.212.dita"
+                         outputclass="subtopic"
+                         props="53.212"
+                         audience="FAR_53_212"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_212.html"/>
+               <topicref navtitle="53.213 Simplified acquisition procedures (SF’s 18, 30, 44, 1165, 1449, and OF’s 336, 347, and 348)."
+                         href="53.213.dita"
+                         outputclass="subtopic"
+                         props="53.213"
+                         audience="FAR_53_213"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_213.html"/>
+               <topicref navtitle="53.214 Sealed bidding."
+                         href="53.214.dita"
+                         outputclass="subtopic"
+                         props="53.214"
+                         audience="FAR_53_214"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_214.html"/>
+               <topicref navtitle="53.215 Contracting by negotiation."
+                         href="53.215.dita"
+                         outputclass="subtopic"
+                         props="53.215"
+                         audience="FAR_53_215"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_215.html">
+                  <topicref navtitle="53.215-1 Solicitation and receipt of proposals."
+                            href="53.215-1.dita"
+                            outputclass="subtopic"
+                            props="53.215-1"
+                            audience="FAR_53_215_1"
+                            base="concept"
+                            xtrf="subtopic"
+                            xtrc=""/>
+               </topicref>
+               <topicref navtitle="53.216 Types of contracts."
+                         href="53.216.dita"
+                         outputclass="subtopic"
+                         props="53.216"
+                         audience="FAR_53_216"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_216.html">
+                  <topicref navtitle="53.216-1 Delivery orders and orders under basic ordering agreements (OF 347)."
+                            href="53.216-1.dita"
+                            outputclass="subtopic"
+                            props="53.216-1"
+                            audience="FAR_53_216_1"
+                            base="concept"
+                            xtrf="subtopic"
+                            xtrc=""/>
+               </topicref>
+               <topicref navtitle="53.217 [Reserved]"
+                         href="53.217.dita"
+                         outputclass="subtopic"
+                         props="53.217"
+                         audience="FAR_53_217"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_217.html"/>
+               <topicref navtitle="53.218 [Reserved]"
+                         href="53.218.dita"
+                         outputclass="subtopic"
+                         props="53.218"
+                         audience="FAR_53_218"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_218.html"/>
+               <topicref navtitle="53.219 Small business programs."
+                         href="53.219.dita"
+                         outputclass="subtopic"
+                         props="53.219"
+                         audience="FAR_53_219"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_219.html"/>
+               <topicref navtitle="53.220 [Reserved]"
+                         href="53.220.dita"
+                         outputclass="subtopic"
+                         props="53.220"
+                         audience="FAR_53_220"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_220.html"/>
+               <topicref navtitle="53.221 [Reserved]"
+                         href="53.221.dita"
+                         outputclass="subtopic"
+                         props="53.221"
+                         audience="FAR_53_221"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_221.html"/>
+               <topicref navtitle="53.222 Application of labor laws to Government acquisitions (SF’s 308, 1413, 1444, 1445, 1446, WH-347)."
+                         href="53.222.dita"
+                         outputclass="subtopic"
+                         props="53.222"
+                         audience="FAR_53_222"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_222.html"/>
+               <topicref navtitle="53.223 [Reserved]"
+                         href="53.223.dita"
+                         outputclass="subtopic"
+                         props="53.223"
+                         audience="FAR_53_223"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_223.html"/>
+               <topicref navtitle="53.224 [Reserved]"
+                         href="53.224.dita"
+                         outputclass="subtopic"
+                         props="53.224"
+                         audience="FAR_53_224"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_224.html"/>
+               <topicref navtitle="53.225 [Reserved]"
+                         href="53.225.dita"
+                         outputclass="subtopic"
+                         props="53.225"
+                         audience="FAR_53_225"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_225.html"/>
+               <topicref navtitle="53.226 [Reserved]"
+                         href="53.226.dita"
+                         outputclass="subtopic"
+                         props="53.226"
+                         audience="FAR_53_226"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_226.html"/>
+               <topicref navtitle="53.227 [Reserved]"
+                         href="53.227.dita"
+                         outputclass="subtopic"
+                         props="53.227"
+                         audience="FAR_53_227"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_227.html"/>
+               <topicref navtitle="53.228 Bonds and insurance."
+                         href="53.228.dita"
+                         outputclass="subtopic"
+                         props="53.228"
+                         audience="FAR_53_228"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_228.html"/>
+               <topicref navtitle="53.229 Taxes (SF’s 1094, 1094-A)."
+                         href="53.229.dita"
+                         outputclass="subtopic"
+                         props="53.229"
+                         audience="FAR_53_229"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_229.html"/>
+               <topicref navtitle="53.230 [Reserved]"
+                         href="53.230.dita"
+                         outputclass="subtopic"
+                         props="53.230"
+                         audience="FAR_53_230"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_230.html"/>
+               <topicref navtitle="53.231 [Reserved]"
+                         href="53.231.dita"
+                         outputclass="subtopic"
+                         props="53.231"
+                         audience="FAR_53_231"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_231.html"/>
+               <topicref navtitle="53.232 Contract financing (SF 1443)."
+                         href="53.232.dita"
+                         outputclass="subtopic"
+                         props="53.232"
+                         audience="FAR_53_232"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_232.html"/>
+               <topicref navtitle="53.233 [Reserved]"
+                         href="53.233.dita"
+                         outputclass="subtopic"
+                         props="53.233"
+                         audience="FAR_53_233"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_233.html"/>
+               <topicref navtitle="53.234 [Reserved]"
+                         href="53.234.dita"
+                         outputclass="subtopic"
+                         props="53.234"
+                         audience="FAR_53_234"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_234.html"/>
+               <topicref navtitle="53.235 Research and development contracting (SF 298)."
+                         href="53.235.dita"
+                         outputclass="subtopic"
+                         props="53.235"
+                         audience="FAR_53_235"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_235.html"/>
+               <topicref navtitle="53.236 Construction and architect-engineer contracts."
+                         href="53.236.dita"
+                         outputclass="subtopic"
+                         props="53.236"
+                         audience="FAR_53_236"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_236.html">
+                  <topicref navtitle="53.236-1 Construction."
+                            href="53.236-1.dita"
+                            outputclass="subtopic"
+                            props="53.236-1"
+                            audience="FAR_53_236_1"
+                            base="concept"
+                            xtrf="subtopic"
+                            xtrc=""/>
+                  <topicref navtitle="53.236-2 Architect-engineer services (SF’s 252 and 330)."
+                            href="53.236-2.dita"
+                            outputclass="subtopic"
+                            props="53.236-2"
+                            audience="FAR_53_236_2"
+                            base="concept"
+                            xtrf="subtopic"
+                            xtrc=""/>
+               </topicref>
+               <topicref navtitle="53.237 [Reserved]"
+                         href="53.237.dita"
+                         outputclass="subtopic"
+                         props="53.237"
+                         audience="FAR_53_237"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_237.html"/>
+               <topicref navtitle="53.238 [Reserved]"
+                         href="53.238.dita"
+                         outputclass="subtopic"
+                         props="53.238"
+                         audience="FAR_53_238"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_238.html"/>
+               <topicref navtitle="53.239 [Reserved]"
+                         href="53.239.dita"
+                         outputclass="subtopic"
+                         props="53.239"
+                         audience="FAR_53_239"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_239.html"/>
+               <topicref navtitle="53.240 [Reserved]"
+                         href="53.240.dita"
+                         outputclass="subtopic"
+                         props="53.240"
+                         audience="FAR_53_240"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_240.html"/>
+               <topicref navtitle="53.241 [Reserved]"
+                         href="53.241.dita"
+                         outputclass="subtopic"
+                         props="53.241"
+                         audience="FAR_53_241"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_241.html"/>
+               <topicref navtitle="53.242 Contract administration."
+                         href="53.242.dita"
+                         outputclass="subtopic"
+                         props="53.242"
+                         audience="FAR_53_242"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_242.html">
+                  <topicref navtitle="53.242-1 Novation and change-of-name agreements (SF 30)."
+                            href="53.242-1.dita"
+                            outputclass="subtopic"
+                            props="53.242-1"
+                            audience="FAR_53_242_1"
+                            base="concept"
+                            xtrf="subtopic"
+                            xtrc=""/>
+               </topicref>
+               <topicref navtitle="53.243 Contract modifications (SF 30)."
+                         href="53.243.dita"
+                         outputclass="subtopic"
+                         props="53.243"
+                         audience="FAR_53_243"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_243.html"/>
+               <topicref navtitle="53.244 [Reserved]"
+                         href="53.244.dita"
+                         outputclass="subtopic"
+                         props="53.244"
+                         audience="FAR_53_244"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_244.html"/>
+               <topicref navtitle="53.245 Government property."
+                         href="53.245.dita"
+                         outputclass="subtopic"
+                         props="53.245"
+                         audience="FAR_53_245"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_245.html"/>
+               <topicref navtitle="53.246 [Reserved]"
+                         href="53.246.dita"
+                         outputclass="subtopic"
+                         props="53.246"
+                         audience="FAR_53_246"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_246.html"/>
+               <topicref navtitle="53.247 Transportation (U.S. Commercial Bill of Lading)."
+                         href="53.247.dita"
+                         outputclass="subtopic"
+                         props="53.247"
+                         audience="FAR_53_247"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_247.html"/>
+               <topicref navtitle="53.248 [Reserved]"
+                         href="53.248.dita"
+                         outputclass="subtopic"
+                         props="53.248"
+                         audience="FAR_53_248"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_248.html"/>
+               <topicref navtitle="53.249 Termination of contracts."
+                         href="53.249.dita"
+                         outputclass="subtopic"
+                         props="53.249"
+                         audience="FAR_53_249"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_249.html"/>
+               <topicref navtitle="53.250 [Reserved]"
+                         href="53.250.dita"
+                         outputclass="subtopic"
+                         props="53.250"
+                         audience="FAR_53_250"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_250.html"/>
+               <topicref navtitle="53.251 Contractor use of Government supply sources (OF 347)."
+                         href="53.251.dita"
+                         outputclass="subtopic"
+                         props="53.251"
+                         audience="FAR_53_251"
+                         base="concept"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_251.html"/>
+            </topicref>
+            <topicref navtitle="Subpart 53.3 - Forms Used in Acquisitions"
+                      href="Subpart_53.3.dita"
+                      outputclass="SubPart"
+                      props="Subpart 53.3"
+                      audience="FAR_Subpart_53_3"
+                      base="NoTitle"
+                      xtrf="SubPart"
+                      xtrc="FAR_Subpart_53_3.html">
+               <topicref navtitle="53.300 Listing of Standard, Optional, and Agency forms."
+                         href="53.300.dita"
+                         outputclass="subtopic"
+                         props="53.300"
+                         audience="FAR_53_300"
+                         base="NoTitle"
+                         xtrf="subtopic"
+                         xtrc="FAR_53_300.html"/>
+            </topicref>
+         </topicref>-->
       </topicref>
    
    <topicref navtitle="FAR Correction(s)"
