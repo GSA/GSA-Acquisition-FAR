@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="FAR_52_204_30"
+            class="- topic/topic concept/concept "
+            xtrc="GFI ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">52.204-30</ph> Federal Acquisition Supply Chain Security Act Orders—Prohibition. </title>
+      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
+         <p class="- topic/p " id="d3102e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref href="4.2306.dita#FAR_4_2306"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">4.2306</xref>(c)</ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Federal Acquisition Supply Chain Security Act Orders—Prohibition (Dec 2023)</p>
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d3110e22">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause— </p>
+               <p class="- topic/p " id="d3110e29">
+                  <i outputclass="Term"
+                     xtrf="_52.204-30"
+                     xtrc="d1e43"
+                     class="+ topic/ph hi-d/i ">Covered article,</i> as defined in <xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4713&amp;num=0&amp;edition=prelim"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">41 U.S.C. 4713(k)</xref>, means— <ol class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e39">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Information technology, as defined in <xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&amp;num=0&amp;edition=prelim"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">40 U.S.C. 11101</xref>, including cloud computing services of all types; </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e48">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Telecommunications equipment or telecommunications service, as those terms are defined in section 3 of the Communications Act of 1934 (<xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section153&amp;num=0&amp;edition=prelim"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">47 U.S.C. 153</xref>); </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e57">
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph> The processing of information on a Federal or non-Federal information system, subject to the requirements of the Controlled Unclassified Information program (see <xref href="https://www.ecfr.gov/current/title-32/part-2002"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">32 CFR part 2002</xref>); or </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e66">
+                           <ph props="autonumber" class="- topic/ph ">(4)</ph> Hardware, systems, devices, software, or services that include embedded or incidental information technology. </p>
+                     </li>
+                  </ol>
+               </p>
+               <p class="- topic/p " id="d3110e71">
+                  <i outputclass="Term"
+                     xtrf="_52.204-30"
+                     xtrc="d1e105"
+                     class="+ topic/ph hi-d/i ">FASCSA order</i> means any of the following orders issued under the Federal Acquisition Supply Chain Security Act (FASCSA) requiring the removal of covered articles from executive agency information systems or the exclusion of one or more named sources or named covered articles from executive agency procurement actions, as described in <xref href="https://www.ecfr.gov/current/title-41/section-201-1.303#p-201-1.303(d)"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">41 CFR 201–1.303(d)</xref> and <xref href="https://www.ecfr.gov/current/title-41/section-201-1.303#p-201-1.303(e)"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">(e)</xref>: <ol class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e84">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> The Secretary of Homeland Security may issue FASCSA orders applicable to civilian agencies, to the extent not covered by paragraph (2) or (3) of this definition. This type of FASCSA order may be referred to as a Department of Homeland Security (DHS) FASCSA order. </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e90">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> The Secretary of Defense may issue FASCSA orders applicable to the Department of Defense (DoD) and national security systems other than sensitive compartmented information systems. This type of FASCSA order may be referred to as a DoD FASCSA order. </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e96">
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph> The Director of National Intelligence (DNI) may issue FASCSA orders applicable to the intelligence community and sensitive compartmented information systems, to the extent not covered by paragraph (2) of this definition. This type of FASCSA order may be referred to as a DNI FASCSA order. </p>
+                     </li>
+                  </ol>
+               </p>
+               <p class="- topic/p " id="d3110e101">
+                  <i class="+ topic/ph hi-d/i ">Intelligence community,</i> as defined by <xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&amp;num=0&amp;edition=prelim"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">50 U.S.C. 3003(4)</xref>, means the following— <ol class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e111">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> The Office of the Director of National Intelligence; </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e117">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> The Central Intelligence Agency; </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e123">
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph> The National Security Agency; </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e129">
+                           <ph props="autonumber" class="- topic/ph ">(4)</ph> The Defense Intelligence Agency; </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e135">
+                           <ph props="autonumber" class="- topic/ph ">(5)</ph> The National Geospatial-Intelligence Agency; </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e141">
+                           <ph props="autonumber" class="- topic/ph ">(6)</ph> The National Reconnaissance Office; </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e147">
+                           <ph props="autonumber" class="- topic/ph ">(7)</ph> Other offices within the Department of Defense for the collection of specialized national intelligence through reconnaissance programs; </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e153">
+                           <ph props="autonumber" class="- topic/ph ">(8)</ph> The intelligence elements of the Army, the Navy, the Air Force, the Marine Corps, the Coast Guard, the Federal Bureau of Investigation, the Drug Enforcement Administration, and the Department of Energy; </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e159">
+                           <ph props="autonumber" class="- topic/ph ">(9)</ph> The Bureau of Intelligence and Research of the Department of State; </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e165">
+                           <ph props="autonumber" class="- topic/ph ">(10)</ph> The Office of Intelligence and Analysis of the Department of the Treasury; </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e171">
+                           <ph props="autonumber" class="- topic/ph ">(11)</ph> The Office of Intelligence and Analysis of the Department of Homeland Security; or </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e178">
+                           <ph props="autonumber" class="- topic/ph ">(12)</ph> Such other elements of any department or agency as may be designated by the President, or designated jointly by the Director of National Intelligence and the head of the department or agency concerned, as an element of the intelligence community. </p>
+                     </li>
+                  </ol>
+               </p>
+               <p class="- topic/p " id="d3110e183">
+                  <i outputclass="Term"
+                     xtrf="_52.204-30"
+                     xtrc="d1e283"
+                     class="+ topic/ph hi-d/i ">National security system,</i> as defined in <xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&amp;num=0&amp;edition=prelim"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">44 U.S.C. 3552</xref>, means any information system (including any telecommunications system) used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency— <ol class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e193">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> The function, operation, or use of which involves intelligence activities; involves cryptologic activities related to national security; involves command and control of military forces; involves equipment that is an integral part of a weapon or weapons system; or is critical to the direct fulfillment of military or intelligence missions, but does not include a system that is to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications); or </p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d3110e199">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Is protected at all times by procedures established for information that have been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept classified in the interest of national defense or foreign policy. </p>
+                     </li>
+                  </ol>
+               </p>
+               <p class="- topic/p " id="d3110e204">
+                  <i outputclass="Term"
+                     xtrf="_52.204-30"
+                     xtrc="d1e316"
+                     class="+ topic/ph hi-d/i ">Reasonable inquiry</i> means an inquiry designed to uncover any information in the entity's possession about the identity of any covered articles, or any products or services produced or provided by a source. This applies when the covered article or the source is subject to an applicable FASCSA order. A reasonable inquiry excludes the need to include an internal or third-party audit. </p>
+               <p class="- topic/p " id="d3110e209">
+                  <i outputclass="Term"
+                     xtrf="_52.204-30"
+                     xtrc="d1e321"
+                     class="+ topic/ph hi-d/i ">Sensitive compartmented information</i> means classified information concerning or derived from intelligence sources, methods, or analytical processes, which is required to be handled within formal access control systems established by the Director of National Intelligence. </p>
+               <p class="- topic/p " id="d3110e214">
+                  <i outputclass="Term"
+                     xtrf="_52.204-30"
+                     xtrc="d1e327"
+                     class="+ topic/ph hi-d/i ">Sensitive compartmented information system</i> means a national security system authorized to process or store sensitive compartmented information. </p>
+               <p class="- topic/p " id="d3110e219">
+                  <i outputclass="Term"
+                     xtrf="_52.204-30"
+                     xtrc="d1e333"
+                     class="+ topic/ph hi-d/i ">Source</i> means a non-Federal supplier, or potential supplier, of products or services, at any tier. </p>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p class="- topic/p " id="d3110e225">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Prohibition.</i>
+               </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d3110e233">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Unless an applicable waiver has been issued by the issuing official, Contractors shall not provide or use as part of the performance of the contract any covered article, or any products or services produced or provided by a source, if the covered article or the source is prohibited by an applicable FASCSA orders as follows: </p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d3110e240">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> For solicitations and contracts awarded by a Department of Defense contracting office, DoD FASCSA orders apply. </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d3110e246">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> For all other solicitations and contracts DHS FASCSA orders apply. </p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d3110e252">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The Contractor shall search for the phrase “FASCSA order” in the System for Award Management (SAM) at <i class="+ topic/ph hi-d/i ">
+                           <xref href="https://www.sam.gov"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://www.sam.gov</xref>
+                        </i> to locate applicable FASCSA orders identified in paragraph (b)(1). </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d3110e262">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> The Government may identify in the solicitation additional FASCSA orders that are not in SAM, which are effective and apply to the solicitation and resultant contract. </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d3110e268">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> A FASCSA order issued after the date of solicitation applies to this contract only if added by an amendment to the solicitation or modification to the contract (see FAR <xref href="4.2304.dita#FAR_4_2304"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">4.2304</xref>(c)). However, see paragraph (c) of this clause. </p>
+                  </li>
+                  <li props="Runin" class="- topic/li ">
+                     <p class="- topic/p " id="d3110e274">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                     </p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d3110e279">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> If the contractor wishes to ask for a waiver of the requirements of a new FASCSA order being applied through modification, then the Contractor shall disclose the following: </p>
+                           <ol class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e286">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> Name of the product or service provided to the Government; </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e292">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> Name of the covered article or source subject to a FASCSA order; </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e298">
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph> If applicable, name of the vendor, including the Commercial and Government Entity code and unique entity identifier (if known), that supplied or supplies the covered article or the product or service to the Offeror; </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e304">
+                                    <ph props="autonumber" class="- topic/ph ">(D)</ph> Brand; </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e310">
+                                    <ph props="autonumber" class="- topic/ph ">(E)</ph> Model number (original equipment manufacturer number, manufacturer part number, or wholesaler number); </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e316">
+                                    <ph props="autonumber" class="- topic/ph ">(F)</ph> Item description; </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e322">
+                                    <ph props="autonumber" class="- topic/ph ">(G)</ph> Reason why the applicable covered article or the product or service is being provided or used; </p>
+                              </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d3110e328">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              <i class="+ topic/ph hi-d/i ">Executive agency review of disclosures.</i> The contracting officer will review disclosures provided in paragraph (b)(5)(i) to determine if any waiver is warranted. A contracting officer may choose not to pursue a waiver for covered articles or sources otherwise covered by a FASCSA order and to instead pursue other appropriate action. </p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p class="- topic/p " id="d3110e336">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Notice and reporting requirement.</i>
+               </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d3110e344">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> During contract performance, the Contractor shall review <i class="+ topic/ph hi-d/i ">SAM.gov</i> at least once every three months, or as advised by the Contracting Officer, to check for covered articles subject to FASCSA order(s), or for products or services produced by a source subject to FASCSA order(s) not currently identified under paragraph (b) of this clause. </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d3110e353">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> If the Contractor identifies a new FASCSA order(s) that could impact their supply chain, then the Contractor shall conduct a reasonable inquiry to identify whether a covered article or product or service produced or provided by a source subject to the FASCSA order(s) was provided to the Government or used during contract performance. </p>
+                  </li>
+                  <li props="Runin" class="- topic/li ">
+                     <p class="- topic/p " id="d3110e359">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                     </p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d3110e364">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The Contractor shall submit a report to the contracting office as identified in paragraph (c)(3)(ii) of this clause, if the Contractor identifies, including through any notification by a subcontractor at any tier, that a covered article or product or service produced or provided by a source was provided to the Government or used during contract performance and is subject to a FASCSA order(s) identified in paragraph (b) of this clause, or a new FASCSA order identified in paragraph (c)(2) of this clause. For indefinite delivery contracts, the Contractor shall report to both the contracting office for the indefinite delivery contract and the contracting office for any affected order. </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d3110e370">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> If a report is required to be submitted to a contracting office under (c)(3)(i) of this clause, the Contractor shall submit the report as follows: </p>
+                           <ol class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e377">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> If a Department of Defense contracting office, the Contractor shall report to the website at <i class="+ topic/ph hi-d/i ">
+                                       <xref href="https://dibnet.dod.mil"
+                                             format="html"
+                                             scope="external"
+                                             class="- topic/xref ">https://dibnet.dod.mil</xref>.</i>
+                                 </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e387">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> For all other contracting offices, the Contractor shall report to the Contracting Officer. </p>
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d3110e393">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> The Contractor shall report the following information for each covered article or each product or service produced or provided by a source, where the covered article or source is subject to a FASCSA order, pursuant to paragraph (c)(3)(i) of this clause: </p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d3110e400">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Within 3 business days from the date of such identification or notification: </p>
+                           <ol class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e407">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> Contract number; </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e413">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> Order number(s), if applicable; </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e419">
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph> Name of the product or service provided to the Government or used during performance of the contract; </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e425">
+                                    <ph props="autonumber" class="- topic/ph ">(D)</ph> Name of the covered article or source subject to a FASCSA order; </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e431">
+                                    <ph props="autonumber" class="- topic/ph ">(E)</ph> If applicable, name of the vendor, including the Commercial and Government Entity code and unique entity identifier (if known), that supplied the covered article or the product or service to the Contractor; </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e437">
+                                    <ph props="autonumber" class="- topic/ph ">(F)</ph> Brand; </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e443">
+                                    <ph props="autonumber" class="- topic/ph ">(G)</ph> Model number (original equipment manufacturer number, manufacturer part number, or wholesaler number); </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e449">
+                                    <ph props="autonumber" class="- topic/ph ">(H)</ph> Item description; and </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e455">
+                                    <ph props="autonumber" class="- topic/ph ">(I)</ph> Any readily available information about mitigation actions undertaken or recommended. </p>
+                              </li>
+                           </ol>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d3110e461">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Within 10 business days of submitting the information in paragraph (c)(4)(i) of this clause: </p>
+                           <ol class="- topic/ol ">
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e468">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> Any further available information about mitigation actions undertaken or recommended. </p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p " id="d3110e474">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> In addition, the Contractor shall describe the efforts it undertook to prevent submission or use of the covered article or the product or service produced or provided by a source subject to an applicable FASCSA order, and any additional efforts that will be incorporated to prevent future submission or use of the covered article or the product or service produced or provided by a source that is subject to an applicable FASCSA order. </p>
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d3110e480">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  <i class="+ topic/ph hi-d/i ">Removal</i>. For Federal Supply Schedules, Governmentwide acquisition contracts, multi-agency contracts or any other procurement instrument intended for use by multiple agencies, upon notification from the Contracting Officer, during the performance of the contract, the Contractor shall promptly make any necessary changes or modifications to remove any product or service produced or provided by a source that is subject to an applicable FASCSA order. </p>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p class="- topic/p " id="d3110e488">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  <i class="+ topic/ph hi-d/i ">Subcontracts</i>. </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d3110e497">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The Contractor shall insert the substance of this clause, including this paragraph (e) and excluding paragraph (c)(1) of this clause, in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial products and commercial services. </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d3110e503">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The Government may identify in the solicitation additional FASCSA orders that are not in SAM, which are effective and apply to the contract and any subcontracts and other contractual instruments under the contract. The Contractor or higher-tier subcontractor shall notify their subcontractors, and suppliers under other contractual instruments, that the FASCSA orders in the solicitation that are not in SAM apply to the contract and all subcontracts. </p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+         <p outputclass="Endofclause" class="- topic/p "> (End of clause)</p>
+         <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
+            <p class="- topic/p " id="d3110e512">
+               <i class="+ topic/ph hi-d/i ">Alternate I</i>
+               <ph outputclass="SmCaps" class="- topic/ph ">(Dec 2023)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref href="4.2306.dita#FAR_4_2306"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">4.2306</xref>(c)</ph>, substitute the following paragraph (b)(1) for paragraph (b)(1) of the basic clause: </p>
+            <p outputclass="List1" class="- topic/p "> (b) <i class="+ topic/ph hi-d/i ">Prohibition.</i> (1) Contractors are prohibited from providing or using as part of the performance of the contract any covered article, or any products or services produced or provided by a source, if the covered article or the source is prohibited by any applicable FASCSA orders identified by the checkbox(es) in this paragraph (b)(1). </p>
+            <p id="p-375" outputclass="List1" class="- topic/p "> [ <i class="+ topic/ph hi-d/i ">Contracting Officer must select either “yes” or “no” for each of the following types of FASCSA orders:</i>] </p>
+            <p id="p-376" outputclass="List2" class="- topic/p ">Yes <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_zqs_2yb_t1c"
+                     class="- topic/cite ">□</cite> No <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_wnr_gyb_t1c"
+                     class="- topic/cite ">□</cite> DHS FASCSA Order</p>
+            <p id="p-377" outputclass="List2" class="- topic/p ">Yes <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_hgz_hyb_t1c"
+                     class="- topic/cite ">□</cite> No <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_qj5_4yb_t1c"
+                     class="- topic/cite ">□</cite> DoD FASCSA Order</p>
+            <p id="p-378" outputclass="List2" class="- topic/p ">Yes <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_zss_3yb_t1c"
+                     class="- topic/cite ">□</cite> No <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_h2j_pyb_t1c"
+                     class="- topic/cite ">□</cite> DNI FASCSA Order </p>
+            <?FM MARKER [Alt] End?>
+            <?FM MARKER [Alt] Start?>
+            <p class="- topic/p " id="p-379" outputclass="List1">
+               <i class="+ topic/ph hi-d/i ">Alternate II</i>
+               <ph outputclass="SmCaps" class="- topic/ph ">(Dec 2023)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref href="4.2306.dita#FAR_4_2306"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">4.2306</xref>(c)(2)(ii)</ph>, substitute the following paragraph (b) in place of paragraph (b) of the basic clause. This clause applies to each order as identified by the Contracting Officer. </p>
+            <p outputclass="List1" class="- topic/p "> (b) <i class="+ topic/ph hi-d/i ">Prohibition.</i> (1) Contractors are prohibited from providing or using as part of the performance of the contract any covered article, or any products or services produced or provided by a source, if the covered article or the source is prohibited by any applicable FASCSA orders identified by the checkbox(es) in this paragraph (b)(1). </p>
+            <p outputclass="List1" class="- topic/p "> [ <i class="+ topic/ph hi-d/i ">Contracting Officer must select either “yes” or “no” for each of the following types of FASCSA orders:</i>] </p>
+            <p outputclass="List2" class="- topic/p ">Yes <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_s2w_pyb_t1c"
+                     class="- topic/cite ">□</cite> No <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_l4j_qyb_t1c"
+                     class="- topic/cite ">□</cite> DHS FASCSA order</p>
+            <p outputclass="List2" class="- topic/p ">Yes <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_sng_kyb_t1c"
+                     class="- topic/cite ">□</cite> No <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_gr2_ryb_t1c"
+                     class="- topic/cite ">□</cite> DoD FASCSA order</p>
+            <p outputclass="List2" class="- topic/p ">Yes <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_fs1_lyb_t1c"
+                     class="- topic/cite ">□</cite> No <cite outputclass="Checkbox"
+                     xtrf="GFI"
+                     xtrc="52.204-30_lxx_ryb_t1c"
+                     class="- topic/cite ">□</cite> DNI FASCSA order</p>
+            <p outputclass="List2" class="- topic/p "> (2) The Contractor shall search for the phrase “FASCSA order” in the System for Award Management (SAM) at <i class="+ topic/ph hi-d/i ">
+                  <xref href="https://www.sam.gov"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://www.sam.gov</xref>
+               </i> to locate applicable FASCSA orders identified in paragraph (b)(1) of this clause. </p>
+            <p outputclass="List2" class="- topic/p ">(3) The Government may identify in the request for quotation (RFQ) or in the notice of intent to place an order additional FASCSA orders that are not in SAM, but are effective and apply to the order.</p>
+            <p outputclass="List2" class="- topic/p ">(4) A FASCSA order issued after the date of the RFQ or the notice of intent to place an order applies to this contract only if added by an amendment to the RFQ or in the notice of intent to place an order or added by modification to the order (see FAR <xref href="4.2304.dita#FAR_4_2304"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">4.2304</xref>(c)). However, see paragraph (c) of this clause.</p>
+            <p outputclass="List2" class="- topic/p ">(5)(i) If the contractor wishes to ask for a waiver, the Contractor shall disclose the following:</p>
+            <p outputclass="List4" class="- topic/p ">(A) Name of the product or service provided to the Government;</p>
+            <p outputclass="List4" class="- topic/p ">(B) Name of the covered article or source subject to a FASCSA order;</p>
+            <p outputclass="List4" class="- topic/p ">(C) If applicable, name of the vendor, including the Commercial and Government Entity code and unique entity identifier (if known), that supplied the covered article or the product or service to the Offeror;</p>
+            <p outputclass="List4" class="- topic/p ">(D) Brand;</p>
+            <p outputclass="List4" class="- topic/p ">(E) Model number (original equipment manufacturer number, manufacturer part number, or wholesaler number);</p>
+            <p outputclass="List4" class="- topic/p ">(F) Item description;</p>
+            <p outputclass="List4" class="- topic/p ">(G) Reason why the applicable covered article or the product or service is being provided or used;</p>
+            <p outputclass="List3" class="- topic/p "> (ii) <i class="+ topic/ph hi-d/i ">Executive agency review of disclosures.</i> The contracting officer will review disclosures provided in paragraph (b)(5)(i) of this clause to determine if any waiver may be sought. A contracting officer may choose not to pursue a waiver for covered articles or sources otherwise covered by a FASCSA order and may instead make award to an offeror that does not require a waiver.</p>
+            <?FM MARKER [Alt] End?>
+         </section>
+      </conbody>
+   </concept>
+</dita>

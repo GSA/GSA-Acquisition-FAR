@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="FAR_4_1603" class="- topic/topic concept/concept " xtrc="">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">4.1603</ph> Procedures.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d295e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d297e10">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Elements of a PIID</i>. The	PIID consists of a combination of thirteen to seventeen alpha and/or	numeric characters sequenced to convey certain information. Do not	use special characters (such as hyphens, dashes, or spaces).</p>
+               <ol id="d295e26" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d297e18">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <i class="+ topic/ph hi-d/i ">Positions	1 through 6</i>. The first six positions identify the department/agency	and office issuing the instrument. Use the AAC assigned to the issuing	office for positions 1 through 6. Civilian agency points of contact	for obtaining an AAC are on the AAC Contact list maintained by the	General Services Administration and can be found at <xref href="https://community.max.gov/x/24foL"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">https://community.max.gov/x/24foL</xref>. For	Department of Defense (DoD) inquiries, contact the service/agency	Central Service Point or DoD AAC Monitor, or if unknown, email <xref href="mailto:DODAADHQ@DLA.MIL"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">DODAADHQ@DLA.MIL</xref> for	assistance.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d297e31">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <i class="+ topic/ph hi-d/i ">Positions	7 through 8</i>. The seventh and eighth positions are the last two	digits of the fiscal year in which the procurement instrument is	issued or awarded. This is the date the action is signed, not the	effective date if the effective date is different.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d297e38">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        <i class="+ topic/ph hi-d/i ">Position	9</i>. Indicate the type of instrument by entering one of the following	upper case letters in position nine. Departments and independent	agencies may assign those letters identified for department use	below in accordance with their agency policy; however, any use must	be applied to the entire department or agency.</p>
+                     <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
+                        <tgroup cols="2"
+                                colsep="1"
+                                rowsep="1"
+                                outputclass="Notitle_rule"
+                                class="- topic/tgroup ">
+                           <colspec colnum="1"
+                                    colname="1"
+                                    colwidth="86*"
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
+                           <colspec colnum="2"
+                                    colname="2"
+                                    colwidth="14*"
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
+                           <thead class="- topic/thead ">
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1"
+                                        align="center"
+                                        outputclass="CellHeading_Ctr"
+                                        class="- topic/entry ">Instrument</entry>
+                                 <entry colname="2"
+                                        align="center"
+                                        outputclass="CellHeading_Ctr"
+                                        class="- topic/entry ">Letter designation</entry>
+                              </row>
+                           </thead>
+                           <tbody class="- topic/tbody ">
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(i) Blanket purchase agreements</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">A</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(ii) invitations for bids</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">B</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(iii)Contracts of all types except indefinite-delivery	contracts (see subpart <xref href="Subpart_16.5.dita#FAR_Subpart_16_5"
+                                             base="i1103875"
+                                             outputclass="fm:ParaNumOnly"
+                                             class="- topic/xref ">16.5</xref>)</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">C</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(iv) Indefinite-delivery contracts (including	Federal Supply Schedules, Governmentwide acquisition contracts (GWACs),	and multi-agency contracts)</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">D</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(v) Reserved for future Federal Governmentwide	use</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">E</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(vi) Task orders, delivery orders or calls	under–</p>
+                                    <p class="- topic/p ">Indefinite-delivery contracts (including Federal Supply	Schedules, Governmentwide acquisition contracts (GWACs), and multi-agency	contracts);</p>
+                                    <p class="- topic/p ">Blanket purchase agreements; or</p>
+                                    <p class="- topic/p ">Basic ordering	agreements</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">F</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(vii) Basic ordering agreements.</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">G</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(viii) Agreements, including basic agreements	and loan agreements, but excluding blanket purchase agreements,	basic ordering agreements, and leases. Do not use this code for	contracts or agreements with provisions for orders or calls</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">H</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(ix) Do not use this letter</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">I</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(x) Reserved for future Federal Governmentwide	use</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">J</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xi) Reserved for departmental or agency	use</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">K</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xii) Lease agreements</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">L</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xiii) Reserved for departmental or agency	use</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">M</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xiv) Reserved for departmental or agency	use</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">N</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xv) Do not use this letter</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">O</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xvi) Purchase orders (assign V if numbering	capacity of P is exhausted during a fiscal year)</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">P</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xvii) Requests for quotations (assign U	if numbering capacity of Q is exhausted during a fiscal year)</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">Q</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xviii) Requests for proposals</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">R</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xix) Reserved for departmental or agency	use</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">S</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xx) Reserved for departmental or agency	use</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">T</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xxi) See Q, requests for quotations</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">U</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xxii) See P, purchase orders</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">V</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xxiii) Reserved for future Federal Governmentwide	use</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">W</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xxiv) Reserved for future Federal Governmentwide	use</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">X</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xxv) Imprest fund</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">Y</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="0" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">(xxvi) Reserved for future Federal Governmentwide	use</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p outputclass="Ctr" class="- topic/p ">Z</p>
+                                 </entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d297e249">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
+								                Positions	10 through 17. Enter the number assigned by the issuing agency in	these positions. Agencies may choose a minimum of four characters	up to a maximum of eight characters to be used, but the same number	of characters must be used agency-wide. If a number less than the	maximum is used, do not use leading or trailing zeroes to make it	equal the maximum in any system or data transmission. A separate	series of numbers may be used for any type of instrument listed	in paragraph (a)(3) of this section. An agency may reserve blocks	of numbers or alpha-numeric numbers for use by its various components.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d297e254">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                        
+								                Illustration	of PIID. The following illustrates a properly configured PIID using	four characters in the final positions:</p>
+                     <fig frame="all" class="- topic/fig ">
+                        <image href="Graphics/piid.png"
+                               placement="inline"
+                               height="207.238"
+                               width="240.418"
+                               class="- topic/image "/>
+                     </fig>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d297e261">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Elements	of a supplementary PIID</i>. Use the supplementary PIID to identify	amendments to solicitations and modifications to contracts, orders,	and agreements. The supplementary PIID is reported as a separate	data element used in conjunction with, but not appended to, the	PIID.</p>
+               <ol id="d295e531" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d297e269">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+								                Amendments to solicitations. Number	amendments to solicitations sequentially using a four position numeric	serial number added to the 13-17 character PIID beginning with 0001.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d297e274">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+								                Modifications	to contracts, orders, and agreements. Number modifications to contracts,	orders, and agreements using a six position alpha or numeric, or	a combination thereof, added to the 13-17 character PIID. For example,	a modification could be numbered P00001. This would be added to	the end of the 13-17 character PIID illustrated in (a)(5) of this	section.</p>
+                     <ol id="d295e550" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d297e280">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+										                    Position 1. Identify the office	issuing the modification. The letter P shall be designated for modifications	issued by the procuring contracting office. The letter A shall be	used for modifications issued by the contract administration office	(if other than the procuring contracting office).</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d297e285">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+										                    Positions	2 through 6. These positions may be alpha, numeric, or a combination	thereof, in accordance with agency procedures.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d297e290">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+										                    Each	office authorized to issue modifications shall assign the supplementary	identification numbers in sequence (unless provided otherwise in	agency procedures). Do not assign the numbers until it has been	determined that a modification is to be issued.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
