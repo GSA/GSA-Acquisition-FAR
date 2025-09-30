@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="FAR_42_1105" class="- topic/topic concept/concept " xtrc="">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">42.1105</ph> Assignment of criticality designator.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p class="- topic/p ">Contracting officers shall assign a criticality designator to each contract in the space for designating the contract administration office, as follows:</p>
+         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="2"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Notitle_norule"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="24*"
+                        colsep="0"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="76*"
+                        colsep="0"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <thead class="- topic/thead ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1"
+                            outputclass="CellBody_CtrSmallCaps"
+                            class="- topic/entry ">
+                        <p class="- topic/p ">Criticality Designator</p>
+                     </entry>
+                     <entry colname="2"
+                            outputclass="CellBody_CtrSmallCaps"
+                            class="- topic/entry ">
+                        <p class="- topic/p ">Criterion</p>
+                     </entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="2"
+                            align="justify"
+                            outputclass="CellBody_Hanging_Justified"
+                            xtrc="Hanging"
+                            class="- topic/entry ">Critical contracts, including DX-rated contracts (see <xref href="Subpart_11.6.dita#FAR_Subpart_11_6"
+                              base="i1113975"
+                              outputclass="fm:Subpart"
+                              class="- topic/xref ">subpart  11.6</xref>), contracts citing the authority in <xref href="6.302-2.dita#FAR_6_302_2"
+                              base="i1119539"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">6.302-2</xref> (unusual and compelling urgency), and contracts for major systems.</entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">B</p>
+                     </entry>
+                     <entry colname="2"
+                            align="justify"
+                            outputclass="CellBody_Hanging_Justified"
+                            xtrc="Hanging"
+                            class="- topic/entry ">Contracts (other than those designated "A") for items needed to maintain a Government or contractor production or repair line, to preclude out-of-stock conditions or to meet user needs for nonstock items.</entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p outputclass="Ctr" class="- topic/p ">C</p>
+                     </entry>
+                     <entry colname="2"
+                            align="justify"
+                            outputclass="CellBody_Hanging_Justified"
+                            xtrc="Hanging"
+                            class="- topic/entry ">All contracts other than those designated "A" or "B."</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
+</dita>
