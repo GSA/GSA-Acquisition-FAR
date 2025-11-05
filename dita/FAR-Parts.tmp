@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?Fm Condition FM_PDF_Comments_Highlight AsIs NO_OVERRIDE show Yellow?>
+<?Fm Condition FM_PDF_Comments_Underline Blue SINGLE_UNDERLINE show AsIs?>
+<?Fm Condition DITA-Topicref Blue NO_OVERRIDE show AsIs?>
+<?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_DELETED Red STRIKETHROUGH show AsIs?>
+<?Fm BoolCondExpr "DITA-Topicref" State 0?>
+<?Fm TagBoolCondExpr Default%20Expression?>
+<?Fm ShowAll True?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map title="FAR"
+     outputclass="FAR"
+     rev="FAC 2025-06 October 1, 2025"
+     product="FAC 2025-06 October 1, 2025">
+   <topicref navtitle="Volume I-Parts 1 to 51"
+             href="Volume_I.dita"
+             outputclass="Volume"
+             audience="Volume_I"
+             otherprops="NoProp"
+             base="NoTitle"
+             xtrf="Volume"
+             props=""
+             xtrc="Not">
+      <topicref navtitle="Federal Acquisition Regulation"
+                href="Cover_1.dita"
+                outputclass="subtopic"
+                audience="Cover_1"
+                otherprops="NoProp"
+                base="NoTitle"
+                xtrf="subtopic"
+                props=""
+                xtrc="Cover_1.html"/>
+   </topicref>
+   <topicref navtitle="Foreword"
+             href="Foreword_a.dita"
+             outputclass="Foreword"
+             audience="Foreword_a"
+             otherprops="NoProp"
+             base="NoTitle"
+             xtrf="Foreword"
+             props=""
+             xtrc="Not"/>
+   <topicref href="LSATable.ditamap" format="ditamap">
+      <topicmeta>
+         <navtitle>List of Sections Affected</navtitle>
+      </topicmeta>
+   </topicref>
+   <topicref navtitle="Subchapter A - General"
+             href="Subchapter_A.dita"
+             outputclass="SubChapter"
+             props="Subchapter A"
+             audience="FAR_Subchapter_A"
+             base="NoTitle"
+             xtrf="SubChapter"
+             xtrc="Not">
+      <topicref navtitle=" Federal Acquisition Regulation"
+                href="FAR_1.dita"
+                outputclass="subtopic"
+                props="FAR_1"
+                audience="FAR_1"
+                otherprops="NoProp"
+                base="NoTitle"
+                xtrf="subtopic"
+                xtrc="FAR_1.html">
+         <topicref href="Part1.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 1</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part2.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 2</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part3.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 3</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part4.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 4</navtitle>
+            </topicmeta>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref navtitle="Subchapter B - Competition and Acquisition Planning"
+             href="Subchapter_B.dita"
+             outputclass="SubChapter"
+             props="Subchapter B"
+             audience="FAR_Subchapter_B"
+             base="NoTitle"
+             xtrf="SubChapter"
+             xtrc="Not">
+      <topicref navtitle=" Federal Acquisition Regulation"
+                href="FAR_2.dita"
+                outputclass="subtopic"
+                props="FAR_2"
+                audience="FAR_2"
+                otherprops="NoProp"
+                base="NoTitle"
+                xtrf="subtopic"
+                xtrc="FAR_2.html">
+         <topicref href="Part5.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 5</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part6.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 6</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part7.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 7</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part8.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 8</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part9.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 9</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part10.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 10</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part11.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 11</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part12.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 12</navtitle>
+            </topicmeta>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref navtitle="Subchapter C - Contracting Methods and Contract Types"
+             href="Subchapter_C.dita"
+             outputclass="SubChapter"
+             props="Subchapter C"
+             audience="FAR_Subchapter_C"
+             base="NoTitle"
+             xtrf="SubChapter"
+             xtrc="Not">
+      <topicref navtitle=" Federal Acquisition Regulation"
+                href="FAR_3.dita"
+                outputclass="subtopic"
+                props="FAR_3"
+                audience="FAR_3"
+                otherprops="NoProp"
+                base="NoTitle"
+                xtrf="subtopic"
+                xtrc="FAR_3.html">
+         <topicref href="Part13.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 13</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part14.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 14</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part15.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 15</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part16.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 16</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part17.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 17</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part18.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 18</navtitle>
+            </topicmeta>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref navtitle="Subchapter D - Socioeconomic Programs"
+             href="Subchapter_D.dita"
+             outputclass="SubChapter"
+             props="Subchapter D"
+             audience="FAR_Subchapter_D"
+             base="NoTitle"
+             xtrf="SubChapter"
+             xtrc="Not">
+      <topicref navtitle=" Federal Acquisition Regulation"
+                href="FAR_4.dita"
+                outputclass="subtopic"
+                props="FAR_4"
+                audience="FAR_4"
+                otherprops="NoProp"
+                base="NoTitle"
+                xtrf="subtopic"
+                xtrc="FAR_4.html">
+         <topicref href="Part19.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 19</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part20.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 20</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part21.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 21</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part22.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 22</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part23.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 23</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part24.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 24</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part25.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 25</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part26.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 26</navtitle>
+            </topicmeta>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref navtitle="Subchapter E - General Contracting Requirements"
+             href="Subchapter_E.dita"
+             outputclass="SubChapter"
+             props="Subchapter E"
+             audience="FAR_Subchapter_E"
+             base="NoTitle"
+             xtrf="SubChapter"
+             xtrc="Not">
+      <topicref navtitle=" Federal Acquisition Regulation"
+                href="FAR_5.dita"
+                outputclass="subtopic"
+                props="FAR_5"
+                audience="FAR_5"
+                otherprops="NoProp"
+                base="NoTitle"
+                xtrf="subtopic"
+                xtrc="FAR_5.html">
+         <topicref href="Part27.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 27</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part28.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 28</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part29.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 29</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part30.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 30</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part31.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 31</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part32.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 32</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part33.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 33</navtitle>
+            </topicmeta>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref navtitle="Subchapter F - Special Categories of Contracting"
+             href="Subchapter_F.dita"
+             outputclass="SubChapter"
+             props="Subchapter F"
+             audience="FAR_Subchapter_F"
+             base="NoTitle"
+             xtrf="SubChapter"
+             xtrc="Not">
+      <topicref navtitle=" Federal Acquisition Regulation"
+                href="FAR_6.dita"
+                outputclass="subtopic"
+                props="FAR_6"
+                audience="FAR_6"
+                otherprops="NoProp"
+                base="NoTitle"
+                xtrf="subtopic"
+                xtrc="FAR_6.html">
+         <topicref href="Part34.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 34</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part35.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 35</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part36.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 36</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part37.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 37</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part38.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 38</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part39.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 39</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part40.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 40</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part41.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 41</navtitle>
+            </topicmeta>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref navtitle="Subchapter G - Contract Management"
+             href="Subchapter_G.dita"
+             outputclass="SubChapter"
+             props="Subchapter G"
+             audience="FAR_Subchapter_G"
+             base="NoTitle"
+             xtrf="SubChapter"
+             xtrc="Not">
+      <topicref navtitle=" Federal Acquisition Regulation"
+                href="FAR_7.dita"
+                outputclass="subtopic"
+                props="FAR_7"
+                audience="FAR_7"
+                otherprops="NoProp"
+                base="NoTitle"
+                xtrf="subtopic"
+                xtrc="FAR_7.html">
+         <topicref href="Part42.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 42</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part43.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 43</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part44.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 44</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part45.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 45</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part46.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 46</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part47.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 47</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part48.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 48</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part49.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 49</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part50.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 50</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part51.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 51</navtitle>
+            </topicmeta>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref navtitle="Volume II-Parts 52 &amp; 53"
+             href="Volume_II.dita"
+             outputclass="Volume"
+             props="Volume_II"
+             audience="Volume_II"
+             otherprops="NoProp"
+             base="NoTitle"
+             xtrf="Volume"
+             xtrc="Not">
+      <topicref navtitle="Federal Acquisition Regulation"
+                href="Cover_2.dita"
+                outputclass="subtopic"
+                props="Cover_2"
+                audience="id1617M0U0WLJ"
+                otherprops="NoProp"
+                base="NoTitle"
+                xtrf="subtopic"
+                xtrc="id1617M0U0WLJ.html"/>
+   </topicref>
+   <topicref navtitle="Foreword"
+             href="Foreword_b.dita"
+             outputclass="Foreword"
+             props="Foreword_b"
+             audience="Foreword_b"
+             otherprops="NoProp"
+             base="NoTitle"
+             xtrf="Foreword"
+             xtrc="Not"/>
+   <topicref navtitle="Subchapter H - Clauses and Forms"
+             href="Subchapter_H.dita"
+             outputclass="SubChapter"
+             props="Subchapter H"
+             audience="FAR_Subchapter_H"
+             base="NoTitle"
+             xtrf="SubChapter"
+             xtrc="Not">
+      <topicref navtitle=" Federal Acquisition Regulation"
+                href="FAR_8.dita"
+                outputclass="subtopic"
+                props="FAR_8"
+                audience="FAR_8"
+                otherprops="NoProp"
+                base="NoTitle"
+                xtrf="subtopic"
+                xtrc="FAR_8.html">
+         <topicref href="Part52.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 52</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref href="Part53.ditamap" format="ditamap">
+            <topicmeta>
+               <navtitle>Part 53</navtitle>
+            </topicmeta>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref navtitle="FAR Correction(s)"
+             href="Corrections.dita"
+             outputclass="Corrections"
+             props="Corrections"
+             audience="Corrections"
+             otherprops="NoProp"
+             base="NoTitle"
+             xtrf="Corrections"
+             xtrc="Not"/>
+</map>
